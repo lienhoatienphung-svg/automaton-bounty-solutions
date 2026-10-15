@@ -3,12 +3,12 @@
 - **Target Issue**: [[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty](https://github.com/NSPG13/agent-bounties/issues/334)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Fork Fix Branch**: [fix/issue-334](https://github.com/lienhoatienphung-svg/agent-bounties/tree/fix/issue-334)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/agent-bounties/pull/2](https://github.com/lienhoatienphung-svg/agent-bounties/pull/2)
 - **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:20:43.028Z`
+- **Timestamp**: `2026-10-15T21:21:08.540Z`
 
 ## 1. Repository Root Structure (`NSPG13/agent-bounties`)
 - `.agents`
