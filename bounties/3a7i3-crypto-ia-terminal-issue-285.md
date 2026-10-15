@@ -1,0 +1,284 @@
+# Bounty Technical Analysis, Patch & PR — `3a7i3/crypto-ia-terminal#285`
+
+- **Target Issue**: [MASTER ROADMAP II — Burn-in protégé → Cockpit unifié → Research → Économie d’agents](https://github.com/3a7i3/crypto-ia-terminal/issues/285)
+- **Issue State**: `open`
+- **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
+- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Fork Fix Branch**: [fix/issue-285](https://github.com/lienhoatienphung-svg/crypto-ia-terminal/tree/fix/issue-285)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/crypto-ia-terminal/pull/1](https://github.com/lienhoatienphung-svg/crypto-ia-terminal/pull/1)
+- **Inspected Source File**: `root tree`
+- **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
+- **Timestamp**: `2026-10-15T21:43:07.115Z`
+
+## 1. Repository Root Structure (`3a7i3/crypto-ia-terminal`)
+- `.ci`
+- `.claude`
+- `.coveragerc`
+- `.cursor`
+- `.env.example`
+- `.env.secrets.example`
+- `.env.smtp.example`
+- `.gitattributes`
+- `.github`
+- `.gitignore`
+- `.gitlab-ci.yml`
+- `.pre-commit-config.yaml`
+- `.vscode`
+- `ACTION_PLAN_CHECKLIST.md`
+- `ARBORESCENCE.md`
+- `ARBORESCENCE_COMPLETE.md`
+- `ARCHITECTURE_NOTES.md`
+- `BUGS.md`
+- `CLAUDE.md`
+- `CLAUDE_TRACKER_HANDOFF.md`
+- `CLEANUP_REPORT_FINAL.md`
+- `CODE_VALIDATION_REPORT.md`
+- `COMMANDS.sh`
+- `COMPLETE_SYSTEM_ARCHITECTURE.md`
+- `CRYPTO_AI_LAUNCH.bat`
+- `CSV_POPULATION_FORMAT.md`
+- `CURRENT_TASK.md`
+- `DASHBOARD_USAGE_TEMPLATES.md`
+- `DEDUPLICATION_REPORT.md`
+- `DELIVERY_SUMMARY.txt`
+- `DOCUMENTATION.md`
+- `DOCUMENTATION_EVOLUTION_DASHBOARD_EN.md`
+- `DOCUMENTATION_EVOLUTION_DASHBOARD_FR.md`
+- `DOCUMENTATION_FRANCAISE_COMPLETE.md`
+- `DOC_NOTIFY_TEST_STATUS.md`
+- `Dockerfile`
+- `FAQ_EVOLUTION_DASHBOARD_FR.md`
+- `GUIDE_SCRIPTS_FRANCAIS.md`
+- `IDEAS_PARKING.md`
+- `IMPLEMENTATION_3_PRIORITIES.md`
+- `INTEGRATION_REPORT.md`
+- `INVENTAIRE_2026-04-25.md`
+- `LAUNCH_DASHBOARDS.bat`
+- `ONE_CLICK_SETUP_VERIFY.bat`
+- `OPTIMIZATION_GUIDE.md`
+- `P0_IMPLEMENTATION_REPORT.md`
+- `P1_COMPLETE_REPORT.md`
+- `P1_REGIME_DETECTION_REPORT.md`
+- `P2_COMPLETE_REPORT.md`
+- `PHASE_1_7_SUMMARY.md`
+- `PHASE_8_9_COMPLETE.md`
+- `PLAN_REPRISE.md`
+- `QUICKSTART.md`
+- `QUICK_START.md`
+- `RAPPORT_AMELIORATIONS_CRITIQUES.md`
+- `README.md`
+- `README_CONSOLIDATED.md`
+- `README_FRANCAIS.txt`
+- `RECOVERY.md`
+- `ROADMAP.md`
+- `ROOT_CLEANUP_PROPOSAL.md`
+- `ROOT_TEST_AUDIT.md`
+- `S2`
+- `S3`
+- `SAFE_MODE_UNIFICATION_AUDIT.md`
+- `STACK_INDEX.md`
+- `START_BOT.bat`
+- `START_DASHBOARD.bat`
+- `TRACKER_SCHEDULER_WINDOWS_README.md`
+- `TRACKER_SCHEMA_MISMATCH_AUDIT.md`
+- `TRACKER_SYSTEM_README.md`
+- `TUTORIEL_EVOLUTION_DASHBOARD_FR.md`
+- `VALIDATION_COMPLETE.md`
+- `VERIFICATION_CHECKLIST.md`
+- `_ARCHIVE_2026`
+- `__init__.py`
+- `ai_autonomous_loop`
+- `alpha_vault_export.json`
+- `alpha_vault_test.json`
+- `analysis`
+- `anara_context`
+- `architecture`
+- `archive_results`
+- `artifacts`
+- `audit`
+- `audit_requests`
+- `audit_results`
+- `automate_pipeline_task.ps1`
+- `batch_configs.json`
+- `build_docs.ps1`
+- `build_docs.sh`
+- `capital_deployment`
+- `certification`
+- `checkpoints`
+- `codecov.yml`
+- `cold_start`
+- `color_system.json`
+- `commit_cleanup.bat`
+- `config`
+- `conftest.py`
+- `core`
+- `crypto`
+- `dashboard`
+- `data`
+- `databases`
+- `deploy`
+- `diagnose_python_env.ps1`
+- `diagnose_python_env.sh`
+- `dip`
+- `docker-compose.yml`
+- `docker_streamlit_fastapi_redis_kafka_demo.ipynb`
+- `docs`
+- `errors`
+- `event_bus`
+- `evidence`
+- `evo_state.pkl`
+- `exchange_constraints`
+- `execution_simulator`
+- `experiments`
+- `feedback_logs`
+- `financial_institute`
+- `frontend`
+- `governance`
+- `health`
+- `healthcheck.bat`
+- `healthcheck.ps1`
+- `infra`
+- `install`
+- `install_all.ps1`
+- `install_all.sh`
+- `install_and_test.ps1`
+- `install_surveillance_task.ps1`
+- `k8s`
+- `lab01`
+- `launch_alert_dashboard.bat`
+- `launch_all.bat`
+- `launch_all.ps1`
+- `launch_all_tests.bat`
+- `launch_all_visible.bat`
+- `launch_all_with_env.bat`
+- `launch_api_rest.bat`
+- `launch_botdoctor_api.bat`
+- `launch_botdoctor_dashboard.bat`
+- `launch_dash_app.bat`
+- `launch_dashboard_advanced.bat`
+- `launch_dashboard_api.bat`
+- `launch_dashboard_fastapi.bat`
+- `launch_dashboard_quant_terminal.bat`
+- `launch_equity_curve_streamlit.bat`
+- `launch_evolution_3d_view.bat`
+- `launch_evolution_dashboard.bat`
+- `launch_feedback_dashboard.bat`
+- `launch_monitoring_api.bat`
+- `launch_orchestrator_api.bat`
+- `launch_panel_overview.bat`
+- `launch_quant_dashboard_v16.bat`
+- `launch_quant_terminal_v12.bat`
+- `launch_tracker_scheduler.ps1`
+- `launch_v12_dashboard.bat`
+- `lm_studio`
+- `logs`
+- `market_data`
+- `meta_learning`
+- `metrics`
+- `monitor`
+- `monitoring`
+- `observability`
+- `observation`
+- `obsidian_vault`
+- `panel_test_report.txt`
+- `paper_trading`
+- `pieuvre`
+- `project_os`
+- `push_with_message.ps1`
+- `pytest.ini`
+- `quant_hedge_ai`
+- `reality_checks`
+- `reports`
+- `requirements-ci.txt`
+- `requirements-dev.txt`
+- `requirements-vps-frozen-20260718.txt`
+- `requirements-vps.txt`
+- `requirements.txt`
+- `research`
+- `research_candidate`
+- `research_data`
+- `research_diag`
+- `research_replay`
+- `research_stress`
+- `reset_quant_matrix_venv.ps1`
+- `restore_broken_files.bat`
+- `restore_broken_files.ps1`
+- `results`
+- `risk`
+- `run_all_tests.ps1`
+- `run_alpha_discovery_test.bat`
+- `run_precommit.ps1`
+- `run_precommit.sh`
+- `run_quant_ai_system_tests.bat`
+- `run_strategy_lab_tests.bat`
+- `run_strategy_lab_unit.bat`
+- `run_test_mode.bat`
+- `runtime`
+- `scripts`
+- `sdos_terminal`
+- `set_smtp_env.ps1`
+- `setup.cfg`
+- `setup_quant_matrix_venv.ps1`
+- `signal`
+- `sim_summaries`
+- `smoke_test_v91.bat`
+- `smoke_test_v91.ps1`
+- `src`
+- `start_all.bat`
+- `status_tracker_scheduler.ps1`
+- `stop_all.bat`
+- `stop_tracker_scheduler.ps1`
+- `strategy_factory_config.ini`
+- `strategy_farm_pipeline_demo.ipynb`
+- `strategy_farm_scenarios.ipynb`
+- `supervision`
+- `system`
+- `terminal_core`
+- `test_heatmap2d.png`
+- `test_matplotlib3d.png`
+- `test_plotly3d.png`
+- `test_plotly3d.svg`
+- `tests`
+- `tickets`
+- `tools`
+- `tracker_scheduler.ps1`
+- `tracker_system`
+- `trade_analysis`
+- `trade_log_audit.md`
+- `validate_pytest.sh`
+- `verif_auto.ps1`
+- `visualization`
+- `walk_forward`
+- `watchdog_vps.py`
+
+
+## 3. Issue Specification Excerpt
+```markdown
+<!-- RECONCILIATION_BLOCK_START -->
+## ÉTAT COURANT — relevé du 2026-10-15 (≈ 20:30 UTC)
+
+`main` observé : `d8724b59ab60c896d45bd2b2e59b6ba2a08f805c` (fusion de #448). 101 commits depuis le relevé du 2026-10-09 (`8c0dc27f`). Ce bloc remplace le bloc suivant ; l'historique reste dessous, sans modification. **Source intégrée ≠ déployée ≠ certifiée. Issue fermée ≠ certification.**
+
+### Source intégrée depuis le 2026-10-09 (liste vérifiée, non exhaustive)
+- **Cockpit** : thème « Bleu pédagogique » #439, tableau des travaux #429 puis #440 (29 entrées), 503 structuré `*_UNREADABLE` #441, libellé « capture historique » Finance #443.
+- **Publishers passifs** : unités, plan G0–G5 et lecture bornée des journaux #442 ; durcissement de G2, plan G2–G5 et plan de passerelle d'opérations privilégiées #444 ; résultats G2, G3 préparé et exceptions #446. CI Playwright isolée #449.
+- **Laboratoire** : passerelle frontend en laboratoire #435, #437, #438 ; chaîne Research de capture #415, #417, #419, #421, #423, #425, #427 ; LAB-01 (cycle synthétique, source seule) #448.
+- L'intégration en source n'est pas un déploiement : seuls les éléments du tableau suivant ont une preuve de déploiement, avec leurs 
+```
+
+## 4. Existing Claim Activity (10)
+- **@3a7i3** (2026-09-27T06:26:17Z): `## INITIALISATION DE LA ROADMAP II  État administratif :  - #148 est désormais CLOSED / COMPLETED comme roadmap historique. - #285 devient la roadmap active. - `
+- **@3a7i3** (2026-09-27T06:39:15Z): `## ROADMAP II SYNC — WEB-DIR-01 / D1  Date : 2026-09-27 UTC  - #288 D1 a été instruit sur la baseline exacte `main@116634be0d3c015cce1cfa58be7da7255414fbfd`. - `
+- **@3a7i3** (2026-09-27T06:56:53Z): `## ROADMAP II SYNC — #289 WEB-DIR-01 D1  La PR documentaire D1 est ouverte en draft :  - PR : #289 ; - base : `main@116634be0d3c015cce1cfa58be7da7255414fbfd` ; `
+- **@3a7i3** (2026-09-27T07:28:04Z): `## ROADMAP II SYNC — WEB-DIR-01 D1 COMPLETED  #289 has been reviewed, certified, and merged.  - D1 source verdict: `WEB_DIR_01_D1_CONTRACT_SOURCE_CERTIFIED`; - `
+- **@3a7i3** (2026-09-27T07:28:50Z): `## ROADMAP II SYNC — D2 OPENED  #290 is the active source-only child mission for WEB-DIR-01 D2.  - D1: ✅ source certified and merged via #289; - D2: 🟡 issue op`
+- **@3a7i3** (2026-09-27T07:39:18Z): `## Roadmap II sync — WEB-DIR-01 D2  PR #291 is open against `main` for the source-only router and PAPER LIVE / DIRECTION / RESEARCH shells.  Current state: `D2_`
+- **@3a7i3** (2026-09-27T07:44:14Z): `## Roadmap II sync — D2 ready for human decision  WEB-DIR-01 D2 PR #291: 13/13 workflows `success`; source review complete with no blocking finding.  State: `D2`
+- **@3a7i3** (2026-09-27T08:17:29Z): `## Roadmap II sync — WEB-DIR-01 D2 complete  Human-authorized PR #291 merged to `main` at `b297a8168a134f0b99a49fec500070478a9c8b13`.  Exact reviewed/merged tre`
+- **@3a7i3** (2026-09-27T08:40:11Z): `## Roadmap II sync — D3 opened  #292 is now the active source-only child mission for WEB-DIR-01.  - D2: ✅ source certified and merged at `b297a8168a134f0b99a49f`
+- **@3a7i3** (2026-09-27T08:42:35Z): `## Roadmap II sync — D3 candidate  WEB-DIR-01 D3 PR #293 is open from #292.  Candidate head: `b27fb892e0321e9a415ccc3295756adedc9a52f0`.  Scope is limited to 3 `
+
+## 5. Settlement & Claim Header
+- Claim Command: `/claim #285`
+- Pull Request: https://github.com/lienhoatienphung-svg/crypto-ia-terminal/pull/1
+- EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
