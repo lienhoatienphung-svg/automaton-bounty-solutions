@@ -3,9 +3,9 @@
 - **Target Issue**: [Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set](https://github.com/uvsmtid/protoprimer/issues/143)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T16:21:22.688Z`
+- **Timestamp**: `2026-10-15T16:29:47.467Z`
 
 ## 1. Repository Root Structure (`uvsmtid/protoprimer`)
 - `.editorconfig`
@@ -47,9 +47,10 @@ Background and design notes: [`doc/task_ref/TODO_74_35_76_27.shell_driver_fallba
     *   It
 ```
 
-## 3. Existing Claim Activity (2)
+## 3. Existing Claim Activity (3)
 - **@bookkuybig** (2026-10-15T14:59:23Z): `/attempt #143`
 - **@jj-schultz** (2026-10-15T16:19:23Z): `PR #144's new shell test copies the parent environment and only checks that `VIRTUAL_ENV` is nonempty. In a standalone `/bin/sh -i` probe, that assertion passes`
+- **@Bloders-hub** (2026-10-15T16:23:01Z): `Good catch regarding parent test runner environment isolation, @jj-schultz!  Just pushed an update to PR #144 (commit `4f92be1`): 1. `env.pop('VIRTUAL_ENV', Non`
 
 ## 4. Settlement & Claim Header
 - Claim Command: `/claim #143`
