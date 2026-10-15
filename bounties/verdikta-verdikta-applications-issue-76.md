@@ -3,12 +3,12 @@
 - **Target Issue**: [[BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid on Poidh, Base)](https://github.com/verdikta/verdikta-applications/issues/76)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Fork Fix Branch**: [fix/issue-76](https://github.com/lienhoatienphung-svg/verdikta-applications/tree/fix/issue-76)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/verdikta-applications/pull/1](https://github.com/lienhoatienphung-svg/verdikta-applications/pull/1)
 - **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:08:49.233Z`
+- **Timestamp**: `2026-10-15T21:11:02.573Z`
 
 ## 1. Repository Root Structure (`verdikta/verdikta-applications`)
 - `.cursor`
