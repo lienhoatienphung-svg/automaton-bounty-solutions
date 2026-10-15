@@ -8,7 +8,7 @@
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/frantic-board/pull/1](https://github.com/lienhoatienphung-svg/frantic-board/pull/1)
 - **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T17:51:42.177Z`
+- **Timestamp**: `2026-10-15T17:53:13.782Z`
 
 ## 1. Repository Root Structure (`auscaster/frantic-board`)
 - `.github`
@@ -29,7 +29,7 @@ Frantic bounty #120
 Add a valuable startup offer to Sourcey
 
 Worker price: $1
-Slots: 150 (4 available)
+Slots: 150 (3 available)
 Status: Available
 Claim: https://gofrantic.com/bounties/120
 Funding receipt: https://gofrantic.com/r/1a87cb95
