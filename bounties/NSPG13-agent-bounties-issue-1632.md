@@ -3,9 +3,9 @@
 - **Target Issue**: [[Bounty] Bring a real backlog: get an established open-source project to fund its first Agent Bounties bounty](https://github.com/NSPG13/agent-bounties/issues/1632)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:12:17.762Z`
+- **Timestamp**: `2026-10-15T21:14:44.479Z`
 
 ## 1. Repository Root Structure (`NSPG13/agent-bounties`)
 - `.agents`
