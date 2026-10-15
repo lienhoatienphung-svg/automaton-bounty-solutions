@@ -3,12 +3,12 @@
 - **Target Issue**: [Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU)](https://github.com/sybil-solutions/local-ai-registry/issues/223)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Fork Fix Branch**: [fix/issue-223](https://github.com/lienhoatienphung-svg/local-ai-registry/tree/fix/issue-223)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/local-ai-registry/pull/3](https://github.com/lienhoatienphung-svg/local-ai-registry/pull/3)
 - **Inspected Source File**: `lab/lab.py`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T22:47:01.135Z`
+- **Timestamp**: `2026-10-15T22:47:09.660Z`
 
 ## 1. Repository Root Structure (`sybil-solutions/local-ai-registry`)
 - `.github`
