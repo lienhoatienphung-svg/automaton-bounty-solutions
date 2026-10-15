@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests](https://github.com/Parabola-org/parabola/issues/20)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Fork Fix Branch**: [fix/issue-20](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-20)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/5](https://github.com/lienhoatienphung-svg/parabola/pull/5)
 - **Inspected Source File**: `src/utils/encoding.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:31:43.109Z`
+- **Timestamp**: `2026-10-15T21:33:51.580Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
