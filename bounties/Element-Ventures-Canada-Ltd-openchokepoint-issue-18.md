@@ -3,12 +3,12 @@
 - **Target Issue**: [[Slice C] Red-team the hard boundaries: try to get technical data past the validator](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/18)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Fork Fix Branch**: [fix/issue-18](https://github.com/lienhoatienphung-svg/openchokepoint/tree/fix/issue-18)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/openchokepoint/pull/2](https://github.com/lienhoatienphung-svg/openchokepoint/pull/2)
 - **Inspected Source File**: `tools/validate.py`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T19:41:43.280Z`
+- **Timestamp**: `2026-10-15T19:42:36.466Z`
 
 ## 1. Repository Root Structure (`Element-Ventures-Canada-Ltd/openchokepoint`)
 - `.github`
