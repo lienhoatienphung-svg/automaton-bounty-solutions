@@ -1,6 +1,6 @@
 {
   "executionMode": "REAL_LIVE_HTTP_AND_CT_OSINT_AUDIT",
-  "auditedAt": "2026-10-15T18:19:44.644Z",
+  "auditedAt": "2026-10-15T18:20:02.193Z",
   "auditorIdentity": {
     "handle": "lienhoatienphung-svg",
     "email": "lienhoatienphung@gmail.com",
@@ -9,7 +9,7 @@
   "targetUrl": "https://aerodrome.finance/",
   "domain": "aerodrome.finance",
   "httpStatus": 200,
-  "latencyMs": 1363,
+  "latencyMs": 1658,
   "measuredSecurityHeaders": {
     "strictTransportSecurity": null,
     "contentSecurityPolicy": null,
@@ -18,7 +18,12 @@
     "accessControlAllowOrigin": null,
     "server": "cloudflare"
   },
-  "certificateTransparencySubdomains": [],
+  "certificateTransparencySubdomains": [
+    "aerodrome.finance",
+    "www.aerodrome.finance",
+    "ipfs.aerodrome.finance",
+    "alt.aerodrome.finance"
+  ],
   "exposedDevSubdomains": [],
   "securityTxtPresent": false,
   "securityTxtExcerpt": null,
