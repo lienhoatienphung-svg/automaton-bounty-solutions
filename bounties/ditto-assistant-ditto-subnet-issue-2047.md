@@ -3,9 +3,9 @@
 - **Target Issue**: [Publish the DittoBench build-bounty board and GitHub contributor guide](https://github.com/ditto-assistant/ditto-subnet/issues/2047)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T17:06:55.159Z`
+- **Timestamp**: `2026-10-15T17:08:39.921Z`
 
 ## 1. Repository Root Structure (`ditto-assistant/ditto-subnet`)
 - `.agents`
