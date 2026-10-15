@@ -8,7 +8,7 @@
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/14](https://github.com/lienhoatienphung-svg/parabola/pull/14)
 - **Inspected Source File**: `src/transfer.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:52:39.141Z`
+- **Timestamp**: `2026-10-15T20:55:33.476Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -95,8 +95,9 @@ Extend `EstimateFeeParams` with optional `maxFee` and `maxWait`, and implement t
 - The fallback decision logic has a single implementation 
 ```
 
-## 4. Existing Claim Activity (1)
+## 4. Existing Claim Activity (2)
 - **@fy-god** (2026-10-15T20:44:01Z): `Implemented in #23. Local verification: pnpm test (116 passed), pnpm run typecheck, pnpm run build.`
+- **@fy-god** (2026-10-15T20:53:47Z): `Update on #23: `estimateFee()` now calls the same pure `canUseFastTransfer` policy as `transfer()`, including both `maxWait` and the quoted raw `maxFee`. It ret`
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #7`
