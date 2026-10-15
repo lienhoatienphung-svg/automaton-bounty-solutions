@@ -3,9 +3,9 @@
 - **Target Issue**: [[Bounty] [Bounty: $125] Add structured progress callbacks to transfer()](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1910)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:55:31.541Z`
+- **Timestamp**: `2026-10-15T21:56:42.550Z`
 
 ## 1. Repository Root Structure (`zhangjiayang6835-cyber/bounty-plaza`)
 - `.env.example`
