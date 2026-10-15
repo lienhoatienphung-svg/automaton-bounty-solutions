@@ -3,9 +3,9 @@
 - **Target Issue**: [Dependency Dashboard](https://github.com/tadanobutubutu/screeps/issues/5)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T12:26:50.451Z`
+- **Timestamp**: `2026-10-15T17:14:33.041Z`
 
 ## 1. Repository Root Structure (`tadanobutubutu/screeps`)
 - `.Jules`
@@ -170,6 +170,12 @@
 ```markdown
 This issue lists Renovate updates and detected dependencies. Read the [Dependency Dashboard](https://docs.renovatebot.com/key-concepts/dashboard/) docs to learn more.<br>[View this repository on the Mend.io Web Portal](https://developer.mend.io/github/tadanobutubutu/screeps).
 
+## Repository Problems
+
+These problems occurred while renovating this repository. [View logs](https://developer.mend.io//github/tadanobutubutu/screeps).
+
+ - ⚠️ WARN: Updating multiple npm lock files is deprecated and support will be removed in future versions.
+
 ## Awaiting Schedule
 
 The following updates are awaiting their schedule. To get an update now, click on a checkbox below.
@@ -183,18 +189,7 @@ The following updates are awaiting their schedule. To get an update now, click o
 ---
 
 > [!WARNING]
-> Renovate failed to look up the following dependencies: `Failed to look up github-tags package linear-bots/gitstream-github-action: no-result`.
-> 
-> Files affected: `.github/workflows/gitstream.yml`
-
----
-
-
-## PR Closed (Blocked)
-
-The following updates are blocked by an existing closed PR. To recreate the PR, click on a checkbox below.
-
- - [ ] <!-
+> Renovate failed to look up the following dependencies: `Failed to look up github-tags
 ```
 
 ## 3. Existing Claim Activity (1)
