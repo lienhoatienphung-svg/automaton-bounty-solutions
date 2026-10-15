@@ -1,14 +1,11 @@
-# Bounty Technical Analysis, Patch & PR — `Element-Ventures-Canada-Ltd/openchokepoint#3`
+# Bounty Technical Analysis & Solution — `Element-Ventures-Canada-Ltd/openchokepoint#3`
 
 - **Target Issue**: [[Priority] Open call: digital-thread and critical-items register schema for rocket turbopump supply chains](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/3)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
-- **Fork Fix Branch**: [fix/issue-3](https://github.com/lienhoatienphung-svg/openchokepoint/tree/fix/issue-3)
-- **Pull Request**: [https://github.com/lienhoatienphung-svg/openchokepoint/pull/3](https://github.com/lienhoatienphung-svg/openchokepoint/pull/3)
-- **Inspected Source File**: `schema/openchokepoint.yaml`
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T19:34:43.484Z`
+- **Timestamp**: `2026-10-15T19:35:51.862Z`
 
 ## 1. Repository Root Structure (`Element-Ventures-Canada-Ltd/openchokepoint`)
 - `.github`
@@ -43,33 +40,7 @@
 - `tests`
 - `tools`
 
-## 2. Inspected Source File (`schema/openchokepoint.yaml`)
-```
-# Handling: Unclassified — public
-# OpenChokepoint schema v0.2.1-draft (working name) — an open grammar for supply-chain dependency registries.
-# Types only: no entities, no scores, no assessments. Licensed under Apache-2.0.
-# © 2026 T. Leroy Smith. Exclusively licensed to Element Ventures (Canada) Ltd.
-#
-# v0.2 adds the digital-thread and critical-items types (issue #3). The thread records THAT evidence
-# exists and WHERE it sits. It never carries technical content: no geometry, drawings, build parameters,
-# process recipes, temperatures, pressures, test data or acceptance limits. See docs/digital-thread.md.
-# v0.1 types, links and shared properties are unchanged; v0.1 instance files validate as before.
-
-schema:
-  name: openchokepoint
-  version: 0.2.1-draft
-  status: draft
-
-shared_properties:            # every object and link carries these
-  id:             { type: string, required: true }
-  name:           { type: string }
-  evidence_grade: { type: enum, values: [confirmed, reported, inferred, speculative, no_evidence], required: true }
-  sources:        { type: url, many: true, required: true }
-  as_of:          { type: date, required: true }
-  lifecycle:      { type: enum, val
-```
-
-## 3. Issue Specification Excerpt
+## 2. Issue Specification Excerpt
 ```markdown
 **Track:** Schema · **Priority:** High · **Bounty:** Yes, amount to be posted before assignment (see [BOUNTIES.md](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/blob/main/BOUNTIES.md)) · **Window:** open now, programme runs to 31 March 2027
 
@@ -90,12 +61,11 @@ OpenChokepoint v0.1 can say *who* supplies *what capability*. It cannot yet say:
 1. **Which phy
 ```
 
-## 4. Existing Claim Activity (3)
+## 3. Existing Claim Activity (3)
 - **@aiirvizionz** (2026-10-07T20:55:23Z): `Handling: Unclassified - public  I am an AI-assisted project contributor using this project-owned GitHub account. I do not claim aerospace engineering credentia`
 - **@TLS-sys** (2026-10-08T06:20:12Z): `Handling: Unclassified — public  **Maintainer update: v0.2 is merged; one slice remains open**  Thank you to everyone who commented. Your questions shaped the t`
 - **@PINYOPATTANAWASANPORN** (2026-10-09T16:53:38Z): `Handling: Unclassified - public  ### Proposed Digital Thread Trace for Real-World Slice (Issue #3)  In accordance with the maintainer update (PR #4 & #5 merged)`
 
-## 5. Settlement & Claim Header
+## 4. Settlement & Claim Header
 - Claim Command: `/claim #3`
-- Pull Request: https://github.com/lienhoatienphung-svg/openchokepoint/pull/3
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
