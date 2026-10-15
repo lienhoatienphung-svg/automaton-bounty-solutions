@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no fast tier](https://github.com/Parabola-org/parabola/issues/2)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
-- **Fork Fix Branch**: Pending fork sync
-- **Pull Request**: Ready on branch fix/issue-2
+- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Fork Fix Branch**: [fix/issue-2](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-2)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/1](https://github.com/lienhoatienphung-svg/parabola/pull/1)
 - **Inspected Source File**: `src/iris/poll.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:31:03.068Z`
+- **Timestamp**: `2026-10-15T20:36:08.642Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -88,5 +88,5 @@ Throw `IrisRequestError` (with status) on non-OK responses. When no fast-tier en
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #2`
-- Pull Request: N/A
+- Pull Request: https://github.com/lienhoatienphung-svg/parabola/pull/1
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
