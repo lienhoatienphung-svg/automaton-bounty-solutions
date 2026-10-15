@@ -1,11 +1,14 @@
-# Bounty Technical Analysis & Solution — `Expensify/App#98426`
+# Bounty Technical Analysis, Patch & PR — `Expensify/App#98426`
 
 - **Target Issue**: [[Due for payment 2026-10-14] [$250] DEV: Rate not valid error is displayed when submitting a distance expense, but the Rate field is not editable](https://github.com/Expensify/App/issues/98426)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Fork Fix Branch**: [fix/issue-98426](https://github.com/lienhoatienphung-svg/App/tree/fix/issue-98426)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/App/pull/1](https://github.com/lienhoatienphung-svg/App/pull/1)
+- **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T22:20:54.251Z`
+- **Timestamp**: `2026-10-15T22:29:10.178Z`
 
 ## 1. Repository Root Structure (`Expensify/App`)
 - `.buckconfig`
@@ -84,7 +87,8 @@
 - `wdyr.ts`
 - `web`
 
-## 2. Issue Specification Excerpt
+
+## 3. Issue Specification Excerpt
 ```markdown
 If you haven’t already, check out our [contributing guidelines](https://github.com/Expensify/ReactNativeChat/blob/main/contributingGuides/CONTRIBUTING.md) for onboarding. To join our Slack channel, fill out [this form](https://forms.gle/Q7hnhUJPnQCK7Fe56).
 ___
@@ -112,9 +116,10 @@ If the rate is invalid, the user should be able to edit it and correct the value
 The expense s
 ```
 
-## 3. Existing Claim Activity (1)
+## 4. Existing Claim Activity (1)
 - **@MelvinBot** (2026-08-12T13:55:19Z): `## Proposal  ### What is the root cause of that problem?  Both symptoms trace back to one thing: the **P2P sentinel rate `_FAKE_P2P_ID_` survives** when a Self-`
 
-## 4. Settlement & Claim Header
+## 5. Settlement & Claim Header
 - Claim Command: `/claim #98426`
+- Pull Request: https://github.com/lienhoatienphung-svg/App/pull/1
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
