@@ -8,7 +8,7 @@
 - **Pull Request**: Ready on branch fix/issue-13
 - **Inspected Source File**: `src/errors.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:08:15.378Z`
+- **Timestamp**: `2026-10-15T20:26:56.224Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -88,8 +88,9 @@ Add `tests/errors.test.ts` covering each error class's fields and prototype chai
 - Snapshot is generated from the real entry point, not a h
 ```
 
-## 4. Existing Claim Activity (0)
-- Zero competing `/claim` comments detected at inspection time.
+## 4. Existing Claim Activity (2)
+- **@Ollie520** (2026-10-15T20:25:25Z): `# Solution for [github/Parabola-org_parabola_13]: [Parabola-org/parabola] [Bounty: $75] Unit tests for src/errors.ts and a public export surface snapshot  - *`
+- **@sparkysolutions10-pixel** (2026-10-15T20:26:19Z): `/claim #13  ### 🤖 MiroFish Autonomous Bug Resolution & Proof of Fix   ## 🛠️ Problem & Solution Overview  ### Issue Reference Fixes #13  ### Description of Fix`
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #13`
