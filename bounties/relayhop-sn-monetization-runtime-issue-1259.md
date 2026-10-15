@@ -3,12 +3,12 @@
 - **Target Issue**: [[radar] SN open bounty 2026-10-06T10:06](https://github.com/relayhop/sn-monetization-runtime/issues/1259)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: Holding HQ
 - **Fork Fix Branch**: [fix/issue-1259](https://github.com/lienhoatienphung-svg/sn-monetization-runtime/tree/fix/issue-1259)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/sn-monetization-runtime/pull/1](https://github.com/lienhoatienphung-svg/sn-monetization-runtime/pull/1)
 - **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:26:22.000Z`
+- **Timestamp**: `2026-10-15T21:28:25.106Z`
 
 ## 1. Repository Root Structure (`relayhop/sn-monetization-runtime`)
 - `.github`
