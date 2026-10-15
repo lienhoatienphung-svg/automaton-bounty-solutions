@@ -3,9 +3,9 @@
 - **Target Issue**: [Hyperliquid Integration and Perpetual Trading $900](https://github.com/Spectral-Finance/lux/issues/82)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T14:22:55.166Z`
+- **Timestamp**: `2026-10-15T14:31:19.076Z`
 
 ## 1. Repository Root Structure (`Spectral-Finance/lux`)
 - `.cursor`
