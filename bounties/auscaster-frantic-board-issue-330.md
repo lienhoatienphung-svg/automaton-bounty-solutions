@@ -3,12 +3,12 @@
 - **Target Issue**: [Frantic bounty #120: Add a valuable startup offer to Sourcey](https://github.com/auscaster/frantic-board/issues/330)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Fork Fix Branch**: [fix/issue-330](https://github.com/lienhoatienphung-svg/frantic-board/tree/fix/issue-330)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/frantic-board/pull/1](https://github.com/lienhoatienphung-svg/frantic-board/pull/1)
 - **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T19:39:53.040Z`
+- **Timestamp**: `2026-10-15T19:40:06.439Z`
 
 ## 1. Repository Root Structure (`auscaster/frantic-board`)
 - `.github`
