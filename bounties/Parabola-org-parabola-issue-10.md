@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals](https://github.com/Parabola-org/parabola/issues/10)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
-- **Fork Fix Branch**: Pending fork sync
-- **Pull Request**: Ready on branch fix/issue-10
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
+- **Fork Fix Branch**: [fix/issue-10](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-10)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/11](https://github.com/lienhoatienphung-svg/parabola/pull/11)
 - **Inspected Source File**: `src/constants.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:09:17.201Z`
+- **Timestamp**: `2026-10-15T20:44:28.115Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -75,10 +75,10 @@ Add a pre-flight validation in `transfer()` (before the burn, alongside the reci
 **Acceptance C
 ```
 
-## 4. Existing Claim Activity (0)
-- Zero competing `/claim` comments detected at inspection time.
+## 4. Existing Claim Activity (1)
+- **@fy-god** (2026-10-15T20:44:03Z): `Implemented in #25. Local verification: pnpm test (115 passed), pnpm run typecheck, pnpm run build.`
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #10`
-- Pull Request: N/A
+- Pull Request: https://github.com/lienhoatienphung-svg/parabola/pull/11
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
