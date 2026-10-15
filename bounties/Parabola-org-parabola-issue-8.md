@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn](https://github.com/Parabola-org/parabola/issues/8)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
-- **Fork Fix Branch**: Pending fork sync
-- **Pull Request**: Ready on branch fix/issue-8
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Fork Fix Branch**: [fix/issue-8](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-8)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/2](https://github.com/lienhoatienphung-svg/parabola/pull/2)
 - **Inspected Source File**: `src/transfer.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:07:40.143Z`
+- **Timestamp**: `2026-10-15T20:36:19.107Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -94,10 +94,10 @@ Before approving, read the current USDC allowance (`allowance(owner, tokenMessen
 - Mocked allowance < `amount
 ```
 
-## 4. Existing Claim Activity (0)
-- Zero competing `/claim` comments detected at inspection time.
+## 4. Existing Claim Activity (1)
+- **@yodakkak** (2026-10-15T20:33:27Z): `I am working on a focused PR for this issue (#8).`
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #8`
-- Pull Request: N/A
+- Pull Request: https://github.com/lienhoatienphung-svg/parabola/pull/2
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
