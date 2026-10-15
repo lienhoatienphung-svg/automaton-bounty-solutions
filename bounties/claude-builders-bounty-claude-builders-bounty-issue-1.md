@@ -3,12 +3,12 @@
 - **Target Issue**: [[BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history](https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Fork Fix Branch**: [fix/issue-1](https://github.com/lienhoatienphung-svg/claude-builders-bounty/tree/fix/issue-1)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/claude-builders-bounty/pull/5](https://github.com/lienhoatienphung-svg/claude-builders-bounty/pull/5)
 - **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T22:54:20.500Z`
+- **Timestamp**: `2026-10-15T22:57:19.847Z`
 
 ## 1. Repository Root Structure (`claude-builders-bounty/claude-builders-bounty`)
 - `LICENSE`
