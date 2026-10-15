@@ -1,11 +1,14 @@
-# Bounty Technical Analysis & Solution — `coollabsio/coolify#8264`
+# Bounty Technical Analysis, Patch & PR — `coollabsio/coolify#8264`
 
 - **Target Issue**: [[Enhancement]: WordPress + OpenLiteSpeed service template](https://github.com/coollabsio/coolify/issues/8264)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
+- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Fork Fix Branch**: [fix/issue-8264](https://github.com/lienhoatienphung-svg/coolify/tree/fix/issue-8264)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/coolify/pull/1](https://github.com/lienhoatienphung-svg/coolify/pull/1)
+- **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:40:32.060Z`
+- **Timestamp**: `2026-10-15T21:41:37.181Z`
 
 ## 1. Repository Root Structure (`coollabsio/coolify`)
 - `.agents`
@@ -82,7 +85,8 @@
 - `versions.json`
 - `vite.config.js`
 
-## 2. Issue Specification Excerpt
+
+## 3. Issue Specification Excerpt
 ```markdown
 ### Request Type
 
@@ -98,7 +102,7 @@ What we'd like to see:
 - Compatibility with Coolify's built-in proxy
 ```
 
-## 3. Existing Claim Activity (7)
+## 4. Existing Claim Activity (7)
 - **@algora-pbc[bot]** (2026-02-10T19:38:33Z): `## 💎 $7.50 bounty [• Enrico Angelon](https://algora.io/enricoangelon) ### Steps to solve: 1. **Start working**: Comment `/attempt #8264` with your implementati`
 - **@rishi-jat** (2026-02-10T23:33:04Z): `/attempt #8264 `
 - **@rishi-jat** (2026-02-11T00:24:48Z): `@enricoangelon I have made PR - https://github.com/coollabsio/coolify/pull/8271 please have a look when you get a chance. Thanks!`
@@ -107,6 +111,7 @@ What we'd like to see:
 - **@stranger00135** (2026-02-19T23:02:35Z): `/attempt #8264`
 - **@DeeWooo** (2026-02-26T15:51:06Z): `/attempt #8264 `
 
-## 4. Settlement & Claim Header
+## 5. Settlement & Claim Header
 - Claim Command: `/claim #8264`
+- Pull Request: https://github.com/lienhoatienphung-svg/coolify/pull/1
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
