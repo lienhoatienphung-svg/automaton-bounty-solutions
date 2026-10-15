@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $60] Docs: add a "Failure modes and recovery" guide](https://github.com/Parabola-org/parabola/issues/17)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Fork Fix Branch**: Pending fork sync
 - **Pull Request**: Ready on branch fix/issue-17
 - **Inspected Source File**: `src/errors.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:09:13.420Z`
+- **Timestamp**: `2026-10-15T20:12:14.024Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
