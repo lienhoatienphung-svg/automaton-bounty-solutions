@@ -1,82 +1,82 @@
 {
   "executionMode": "REAL_BASE_MAINNET_RPC_AND_DEFILLAMA_ONCHAIN_DESK",
-  "executedAt": "2026-10-15T23:41:15.010Z",
-  "latencyMs": 489,
-  "baseMainnetBlockNumber": 52659163,
+  "executedAt": "2026-10-15T23:42:01.447Z",
+  "latencyMs": 338,
+  "baseMainnetBlockNumber": 52659186,
   "treasuryWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "treasuryUsdcBalance": 0,
   "topBaseProtocolsCount": 12,
   "topBaseProtocols": [
     {
       "name": "Binance CEX",
-      "tvlUsd": 170780303829,
-      "change1d": 0.81,
+      "tvlUsd": 170788543278,
+      "change1d": 0.92,
       "url": "https://www.binance.com"
     },
     {
       "name": "OKX",
-      "tvlUsd": 30926844101,
-      "change1d": 0.36,
+      "tvlUsd": 31037378386,
+      "change1d": 0.67,
       "url": "https://www.okx.com"
     },
     {
       "name": "Aave V3",
-      "tvlUsd": 17220528111,
-      "change1d": 0.79,
+      "tvlUsd": 17215614818,
+      "change1d": 1.06,
       "url": "https://aave.com"
     },
     {
       "name": "Bybit",
-      "tvlUsd": 15844053899,
-      "change1d": 0.75,
+      "tvlUsd": 15852253581,
+      "change1d": 0.78,
       "url": "https://www.bybit.com"
     },
     {
       "name": "LayerZero V2",
-      "tvlUsd": 11195052883,
-      "change1d": 0.8,
+      "tvlUsd": 11165061735,
+      "change1d": 1.02,
       "url": "https://layerzero.network/"
     },
     {
       "name": "Morpho Blue",
-      "tvlUsd": 11113041496,
-      "change1d": 0.86,
+      "tvlUsd": 11098690284,
+      "change1d": 0.96,
       "url": "https://app.morpho.org"
     },
     {
       "name": "Gate",
-      "tvlUsd": 7275846098,
-      "change1d": 0.5,
+      "tvlUsd": 7273271672,
+      "change1d": 0.47,
       "url": "https://www.gate.com"
     },
     {
       "name": "Bitget",
-      "tvlUsd": 6213364205,
-      "change1d": 0.99,
+      "tvlUsd": 6212234046,
+      "change1d": 1.13,
       "url": "https://www.bitget.com"
     },
     {
       "name": "MEXC",
-      "tvlUsd": 5364278862,
-      "change1d": -0.06,
+      "tvlUsd": 5367035253,
+      "change1d": 0.02,
       "url": "https://www.mexc.com"
     },
     {
       "name": "ether.fi Stake",
-      "tvlUsd": 4697462439,
-      "change1d": 1.2,
+      "tvlUsd": 4698119332,
+      "change1d": 1.28,
       "url": "https://www.ether.fi"
     },
     {
       "name": "KuCoin",
-      "tvlUsd": 3361801738,
-      "change1d": 1.22,
+      "tvlUsd": 3362505390,
+      "change1d": 1.1,
       "url": "https://www.kucoin.com"
     },
     {
       "name": "Spark Liquidity Layer",
-      "tvlUsd": 2812826553,
-      "change1d": 0.27,
+      "tvlUsd": 2811569147,
+      "change1d": 0.23,
       "url": "https://spark.finance/"
     }
   ],
