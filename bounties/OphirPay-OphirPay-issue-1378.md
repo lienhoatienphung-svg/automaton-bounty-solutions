@@ -3,9 +3,9 @@
 - **Target Issue**: [Add drag-and-drop CSV batch upload zone with visual upload progress feedback](https://github.com/OphirPay/OphirPay/issues/1378)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T12:22:35.919Z`
+- **Timestamp**: `2026-10-15T14:26:32.864Z`
 
 ## 1. Repository Root Structure (`OphirPay/OphirPay`)
 - `.commitlintrc.json`
@@ -100,8 +100,9 @@ In `src/components/CsvBatchImport.tsx`, batch CSV files can currently only be se
 **Target Branch: integration/staging**
 ```
 
-## 3. Existing Claim Activity (1)
+## 3. Existing Claim Activity (2)
 - **@xiaofeng0920-Happy** (2026-10-15T11:14:53Z): `Hi! I’m interested in an AI-assisted paid contribution.  I checked `integration/staging`: drag/drop handlers and highlighting already exist. I also see submissi`
+- **@abhaykushwaha1009-png** (2026-10-15T13:36:40Z): `Is there still a funded, unassigned milestone for #1378 after the review of PRs #1380 and #1381?  I checked integration/staging: drag-and-drop handlers and high`
 
 ## 4. Settlement & Claim Header
 - Claim Command: `/claim #1378`
