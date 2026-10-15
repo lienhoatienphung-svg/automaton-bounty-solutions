@@ -3,12 +3,12 @@
 - **Target Issue**: [[md_cg/sleep][P1] 三处：`pathspecs` 按**目录**授权 ⇒ 层目录内非 `.md` 件（含原子写临时件）进 lib.git **不可逆历史**；§4.5 禁入后缀判据与真实临时件命名分叉 ⇒ 审计两条判据同时报绿；`reconcile_and_commit` 未接 #295 绑定闸 ⇒ 「为 B 根对账」提交到 A 根且 `ok=True`](https://github.com/FuRongJun-1999/dsh-memory/issues/405)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
 - **Fork Fix Branch**: Pending fork sync
 - **Pull Request**: Ready on branch fix/issue-405
 - **Inspected Source File**: `md_cg/sleep.py`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:12:07.970Z`
+- **Timestamp**: `2026-10-15T20:17:30.654Z`
 
 ## 1. Repository Root Structure (`FuRongJun-1999/dsh-memory`)
 - `.agents`
