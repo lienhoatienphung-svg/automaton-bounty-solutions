@@ -1,11 +1,14 @@
-# Bounty Technical Analysis & Solution — `AstralDeep/AstralDeep#220`
+# Bounty Technical Analysis, Patch & PR — `AstralDeep/AstralDeep#220`
 
 - **Target Issue**: [Exercise LETS receipt enforcement through real MCP, A2A and voice entry routes](https://github.com/AstralDeep/AstralDeep/issues/220)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Fork Fix Branch**: [fix/issue-220](https://github.com/lienhoatienphung-svg/AstralDeep/tree/fix/issue-220)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/AstralDeep/pull/1](https://github.com/lienhoatienphung-svg/AstralDeep/pull/1)
+- **Inspected Source File**: `backend/tests/test_lets_dispatch_matrix.py`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:26:58.889Z`
+- **Timestamp**: `2026-10-15T21:27:46.047Z`
 
 ## 1. Repository Root Structure (`AstralDeep/AstralDeep`)
 - `.agents`
@@ -44,7 +47,48 @@
 - `tooling`
 - `uv.lock`
 
-## 2. Issue Specification Excerpt
+## 2. Inspected Source File (`backend/tests/test_lets_dispatch_matrix.py`)
+```
+"""Tests for orchestrator/governed_dispatch.py: every physical dispatch path reaches the
+governed final seam, exercised as one matrix over lets_conformance_support fixtures.
+"""
+
+from __future__ import annotations
+
+from types import SimpleNamespace
+from unittest.mock import AsyncMock
+
+import pytest
+
+from orchestrator.governed_dispatch import DispatchRuntime, GovernedFinalDispatch
+from tests.lets_conformance_support import (
+    AUTHORIZED_EFFECT,
+    FINAL_ARGUMENTS,
+    Plane,
+    build_rig,
+    invoke_executor,
+)
+
+
+_DISPATCH_PATHS = [
+    ("REST", "rest", "server_dynamic"),
+    ("WebSocket", "websocket", "server_dynamic"),
+    ("A2A", "a2a", "server_dynamic"),
+    ("MCP", "mcp", "server_dynamic"),
+    ("background", "background", "server_dynamic"),
+    ("scheduled", "scheduled", "server_dynamic"),
+    ("chained", "chained", "server_dynamic"),
+    ("recursive", "chained", "server_dynamic"),
+    ("component", "websocket", "server_dynamic"),
+    ("probe", "rest", "server_dynamic"),
+    ("poll", "stream", "server_dynamic"),
+    ("push", "stream", "server_dynamic"),
+    ("in-process", "mcp", "server_dynamic"),
+    ("generated", "mcp", "server_dynamic"),
+    ("BYO", "websocket", "byo_u
+```
+
+## 3. Issue Specification Excerpt
 ```markdown
 <!-- astral-bounty-id: AD-11 -->
 
@@ -66,9 +110,10 @@ Add deterministic ASGI/WebSocket ingress tests for one generated protected execu
 - [ ] Revoked receipt, stale generation, duplicate attempt, modified fin
 ```
 
-## 3. Existing Claim Activity (0)
+## 4. Existing Claim Activity (0)
 - Zero competing `/claim` comments detected at inspection time.
 
-## 4. Settlement & Claim Header
+## 5. Settlement & Claim Header
 - Claim Command: `/claim #220`
+- Pull Request: https://github.com/lienhoatienphung-svg/AstralDeep/pull/1
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
