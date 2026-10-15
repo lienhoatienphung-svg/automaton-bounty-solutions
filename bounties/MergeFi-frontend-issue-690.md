@@ -3,9 +3,9 @@
 - **Target Issue**: [README's example user journey describes features the app doesn't have](https://github.com/MergeFi/frontend/issues/690)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T11:03:03.222Z`
+- **Timestamp**: `2026-10-15T11:07:19.599Z`
 
 ## 1. Repository Root Structure (`MergeFi/frontend`)
 - `.editorconfig`
