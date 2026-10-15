@@ -3,9 +3,9 @@
 - **Target Issue**: [Add bounty operator controls and gate funded activation](https://github.com/ditto-assistant/ditto-subnet/issues/2943)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T17:07:51.536Z`
+- **Timestamp**: `2026-10-15T17:08:55.196Z`
 
 ## 1. Repository Root Structure (`ditto-assistant/ditto-subnet`)
 - `.agents`
