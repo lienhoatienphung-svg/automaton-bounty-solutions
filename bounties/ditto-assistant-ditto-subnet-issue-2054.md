@@ -3,9 +3,9 @@
 - **Target Issue**: [Epic: SN118 scoped build bounties: paid slots, human review, and alpha awards](https://github.com/ditto-assistant/ditto-subnet/issues/2054)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T17:05:01.282Z`
+- **Timestamp**: `2026-10-15T17:15:00.960Z`
 
 ## 1. Repository Root Structure (`ditto-assistant/ditto-subnet`)
 - `.agents`
