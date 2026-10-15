@@ -3,9 +3,9 @@
 - **Target Issue**: [Naya coordination board — live feed (successor to #2175)](https://github.com/SoulSchoolAcademy/NayaPOWER/issues/2537)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T16:54:57.928Z`
+- **Timestamp**: `2026-10-15T16:56:57.297Z`
 
 ## 1. Repository Root Structure (`SoulSchoolAcademy/NayaPOWER`)
 - `.github`
