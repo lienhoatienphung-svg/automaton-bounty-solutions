@@ -1,14 +1,11 @@
-# Bounty Technical Analysis, Patch & PR — `Element-Ventures-Canada-Ltd/openchokepoint#16`
+# Bounty Technical Analysis & Solution — `Element-Ventures-Canada-Ltd/openchokepoint#16`
 
 - **Target Issue**: [[Slice A] Public-evidence coverage score and gap atlas](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/16)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
-- **Fork Fix Branch**: [fix/issue-16](https://github.com/lienhoatienphung-svg/openchokepoint/tree/fix/issue-16)
-- **Pull Request**: [https://github.com/lienhoatienphung-svg/openchokepoint/pull/4](https://github.com/lienhoatienphung-svg/openchokepoint/pull/4)
-- **Inspected Source File**: `examples/synthetic-turbopump-thread.yaml`
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T19:39:03.278Z`
+- **Timestamp**: `2026-10-15T19:42:37.751Z`
 
 ## 1. Repository Root Structure (`Element-Ventures-Canada-Ltd/openchokepoint`)
 - `.github`
@@ -43,27 +40,7 @@
 - `tests`
 - `tools`
 
-## 2. Inspected Source File (`examples/synthetic-turbopump-thread.yaml`)
-```
-# Handling: Unclassified — public
-# SYNTHETIC EXAMPLE ONLY — every name, part number, serial, lot, issuer and source below is fictional.
-# Schema v0.2.0-draft. Traces fictional rotor serial R-100-0007 end to end (material lot -> build ->
-# four post-processing steps -> cleaning -> inspection -> assembly), each step with an EvidenceRecord.
-# A second serial, R-100-0008, shows a cleaning step with NO EvidenceRecord: the gap is shown, not filled.
-# Hashes are placeholders. No technical data: step kinds only, never parameters or results.
-
-objects:
-  # ---- organizations and sites (fictional) ----
-  - { type: Entity, id: ent-1001, name: "Northfield Test Foundry", entity_kind: company, incorporation_jurisdiction: CA,
-      controlling_jurisdiction: CA, evidence_grade: confirmed, sources: ["https://example.org/synthetic/ent-1001"],
-      as_of: 2026-10-07, lifecycle: active, synthetic: true }
-  - { type: Entity, id: ent-1002, name: "Example Rotor Works", entity_kind: company, incorporation_jurisdiction: CA,
-      controlling_jurisdiction: CA, evidence_grade: confirmed, sources: ["https://example.org/synthetic/ent-1002"],
-      as_of: 2026-10-07, lifecycle: active, synthetic: true }
-  - { 
-```
-
-## 3. Issue Specification Excerpt
+## 2. Issue Specification Excerpt
 ```markdown
 Handling: Unclassified — public
 
@@ -84,10 +61,9 @@ Define and implement a **public-evidence coverage score** for any digital-thread
 3. **Gap atlas** (`docs/gap-atlas.md`, generated): one table across all traces showing, per step kind, where public evidence exists, wh
 ```
 
-## 4. Existing Claim Activity (0)
+## 3. Existing Claim Activity (0)
 - Zero competing `/claim` comments detected at inspection time.
 
-## 5. Settlement & Claim Header
+## 4. Settlement & Claim Header
 - Claim Command: `/claim #16`
-- Pull Request: https://github.com/lienhoatienphung-svg/openchokepoint/pull/4
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
