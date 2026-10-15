@@ -3,12 +3,12 @@
 - **Target Issue**: [[Priority] Open call: digital-thread and critical-items register schema for rocket turbopump supply chains](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/3)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Fork Fix Branch**: [fix/issue-3](https://github.com/lienhoatienphung-svg/openchokepoint/tree/fix/issue-3)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/openchokepoint/pull/3](https://github.com/lienhoatienphung-svg/openchokepoint/pull/3)
 - **Inspected Source File**: `schema/openchokepoint.yaml`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T19:38:25.364Z`
+- **Timestamp**: `2026-10-15T19:39:12.986Z`
 
 ## 1. Repository Root Structure (`Element-Ventures-Canada-Ltd/openchokepoint`)
 - `.github`
