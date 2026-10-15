@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBurn](https://github.com/Parabola-org/parabola/issues/3)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Fork Fix Branch**: Pending fork sync
 - **Pull Request**: Ready on branch fix/issue-3
 - **Inspected Source File**: `src/iris/poll.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:23:14.657Z`
+- **Timestamp**: `2026-10-15T20:24:48.952Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -82,8 +82,9 @@ Give `getAttestation` the same consecutive-failure tolerance as `pollForAttestat
 - `getAttestation` still throws `AttestationNotReadyError` on 404 / empty messages without retrying (404 is an expected st
 ```
 
-## 4. Existing Claim Activity (1)
+## 4. Existing Claim Activity (2)
 - **@sparkysolutions10-pixel** (2026-10-15T20:22:53Z): `/claim #3  ### 🤖 MiroFish Autonomous Bug Resolution & Proof of Fix   ## 🛠️ Problem & Solution Overview  ### Issue Reference Fixes #3  ### Description of Fix T`
+- **@Ollie520** (2026-10-15T20:23:13Z): `# Solution for [github/Parabola-org_parabola_3]: [Parabola-org/parabola] [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBurn  - `
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #3`
