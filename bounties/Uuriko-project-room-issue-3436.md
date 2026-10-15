@@ -1,14 +1,11 @@
-# Bounty Technical Analysis, Patch & PR — `Uuriko/project-room#3436`
+# Bounty Technical Analysis & Solution — `Uuriko/project-room#3436`
 
 - **Target Issue**: [Oversized upload is refused with the wrong reason (size reported as an encoding error); the real limit is never named](https://github.com/Uuriko/project-room/issues/3436)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
 - **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
-- **Fork Fix Branch**: [fix/issue-3436](https://github.com/lienhoatienphung-svg/project-room/tree/fix/issue-3436)
-- **Pull Request**: [https://github.com/lienhoatienphung-svg/project-room/pull/1](https://github.com/lienhoatienphung-svg/project-room/pull/1)
-- **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T19:40:56.360Z`
+- **Timestamp**: `2026-10-15T19:47:07.228Z`
 
 ## 1. Repository Root Structure (`Uuriko/project-room`)
 - `.agents`
@@ -89,8 +86,7 @@
 - `tests`
 - `tools`
 
-
-## 3. Issue Specification Excerpt
+## 2. Issue Specification Excerpt
 ```markdown
 ## Oversized upload is refused with the wrong reason (size reported as an encoding error); the real limit is never named
 
@@ -106,10 +102,9 @@ The data **was** canonical base64. The file was simply over the size cap. The re
 `server/room-attachment-bytes.mjs`: `validAttachmentData()` returns `false` when the base64 string length exceeds `base64LengthForBytes(attachmentLimits.fileBytes)`, folding the size violation into the encoding check; `decodeData()` then reports the encoding error. The co
 ```
 
-## 4. Existing Claim Activity (1)
+## 3. Existing Claim Activity (1)
 - **@sparkysolutions10-pixel** (2026-10-15T19:35:14Z): `/claim #3436  ### 🤖 MiroFish Autonomous Bug Resolution & Proof of Fix   ## 🛠️ Problem & Solution Overview  ### Issue Reference Fixes #3436  ### Description of`
 
-## 5. Settlement & Claim Header
+## 4. Settlement & Claim Header
 - Claim Command: `/claim #3436`
-- Pull Request: https://github.com/lienhoatienphung-svg/project-room/pull/1
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
