@@ -1,11 +1,14 @@
-# Bounty Technical Analysis & Solution — `Ikalus1988/MisakaNet#2757`
+# Bounty Technical Analysis, Patch & PR — `Ikalus1988/MisakaNet#2757`
 
 - **Target Issue**: [[Bounty] Answer 4 linked question(s) as a lesson](https://github.com/Ikalus1988/MisakaNet/issues/2757)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Fork Fix Branch**: [fix/issue-2757](https://github.com/lienhoatienphung-svg/MisakaNet/tree/fix/issue-2757)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/MisakaNet/pull/1](https://github.com/lienhoatienphung-svg/MisakaNet/pull/1)
+- **Inspected Source File**: `scripts/intake_pipeline.py`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:42:05.442Z`
+- **Timestamp**: `2026-10-15T21:42:37.856Z`
 
 ## 1. Repository Root Structure (`Ikalus1988/MisakaNet`)
 - `.claude-plugin`
@@ -88,7 +91,46 @@
 - `workers`
 - `wrangler.jsonc`
 
-## 2. Issue Specification Excerpt
+## 2. Inspected Source File (`scripts/intake_pipeline.py`)
+```
+#!/usr/bin/env python3
+"""
+Intake Pipeline (PRD ③) — parse → classify → draft → precheck → persist → notify.
+
+Chains existing MisakaNet intake logic into one idempotent pipeline whose
+output lands in D1 (lesson_drafts table) and surfaces a GitHub issue for
+maintainer review. Designed to run either standalone (CI / local) or as the
+body of a Cloudflare Workflows step.
+
+Usage:
+    python3 scripts/intake_pipeline.py --input '{"kind":"missing_lesson","problem":"...","source":"mcp"}' [--dry-run]
+    echo '<json>' | python3 scripts/intake_pipeline.py --stdin
+    python3 scripts/intake_pipeline.py --json-file intake.json
+
+Auth for D1 + GitHub:
+    - D1: CLOUDFLARE_API_TOKEN + CLOUDFLARE_ACCOUNT_ID (CI) or mcporter OAuth
+    - GitHub issue: GH_TOKEN env (or GITHUB_TOKEN)
+
+Idempotent: lesson_drafts has UNIQUE(source_id, kind); re-runs skip.
+"""
+import argparse
+import json
+import os
+import re
+import subprocess
+import sys
+import time
+import urllib.request
+import urllib.error
+from pathlib import Path
+
+REPO = Path(__file__).resolve().parent.parent
+CF_ACCOUNT = "6b92325b505f2b76aec49e9fe4195d31"
+D1_NAME = "misakanet-db"
+D1_ID = os.environ.get("MISAKANET_D1_ID", "b9adbe87-6bbf-4d2f-ae56-41c3487b2
+```
+
+## 3. Issue Specification Excerpt
 ```markdown
 <!-- misakanet-question-bounty:anchor-2743 -->
 # [Bounty] Answer the 4 linked question(s) as a lesson
@@ -109,9 +151,10 @@ _Shared vocabulary that grouped them: `dsh`._
 A lesson under `lessons/` that answers the question(s) above, following `docs/maintainer/lesson-fields.md` (title / domain / problem / root cause / fix, and a `## Verification` that is a checkable command with an expected result). A written answer in the issue is welcome as a first step, but the lesson is what makes it count — i
 ```
 
-## 3. Existing Claim Activity (1)
+## 4. Existing Claim Activity (1)
 - **@adityawaghamare** (2026-10-04T10:54:53Z): `### 🔀 Pull Request Created I have opened a Pull Request with the verified solution patch: [https://github.com/Ikalus1988/MisakaNet/pull/2830](https://github.co`
 
-## 4. Settlement & Claim Header
+## 5. Settlement & Claim Header
 - Claim Command: `/claim #2757`
+- Pull Request: https://github.com/lienhoatienphung-svg/MisakaNet/pull/1
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
