@@ -3,9 +3,9 @@
 - **Target Issue**: [Dependency Dashboard](https://github.com/tadanobutubutu/screeps/issues/5)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T17:14:33.041Z`
+- **Timestamp**: `2026-10-15T17:16:33.842Z`
 
 ## 1. Repository Root Structure (`tadanobutubutu/screeps`)
 - `.Jules`
