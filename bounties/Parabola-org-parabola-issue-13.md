@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $75] Unit tests for src/errors.ts and a public export surface snapshot](https://github.com/Parabola-org/parabola/issues/13)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
-- **Fork Fix Branch**: Pending fork sync
-- **Pull Request**: Ready on branch fix/issue-13
+- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Fork Fix Branch**: [fix/issue-13](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-13)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/3](https://github.com/lienhoatienphung-svg/parabola/pull/3)
 - **Inspected Source File**: `src/errors.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:35:47.808Z`
+- **Timestamp**: `2026-10-15T20:37:49.752Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -94,5 +94,5 @@ Add `tests/errors.test.ts` covering each error class's fields and prototype chai
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #13`
-- Pull Request: N/A
+- Pull Request: https://github.com/lienhoatienphung-svg/parabola/pull/3
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
