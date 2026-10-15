@@ -3,9 +3,9 @@
 - **Target Issue**: [[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals](https://github.com/Parabola-org/parabola/issues/10)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:46:20.376Z`
+- **Timestamp**: `2026-10-15T20:55:12.354Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -45,8 +45,9 @@ Add a pre-flight validation in `transfer()` (before the burn, alongside the reci
 **Acceptance C
 ```
 
-## 3. Existing Claim Activity (1)
+## 3. Existing Claim Activity (2)
 - **@fy-god** (2026-10-15T20:44:03Z): `Implemented in #25. Local verification: pnpm test (115 passed), pnpm run typecheck, pnpm run build.`
+- **@fy-god** (2026-10-15T20:50:39Z): `Update on #25: this is an executable implementation in `src/transfer.ts`, with a typed exported `AmountPrecisionError`. It validates significant decimal precisi`
 
 ## 4. Settlement & Claim Header
 - Claim Command: `/claim #10`
