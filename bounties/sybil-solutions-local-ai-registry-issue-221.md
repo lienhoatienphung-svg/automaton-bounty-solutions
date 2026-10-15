@@ -3,9 +3,9 @@
 - **Target Issue**: [Bounty $50: recipe for RTX 4060 Ti 16 GB](https://github.com/sybil-solutions/local-ai-registry/issues/221)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T11:06:20.493Z`
+- **Timestamp**: `2026-10-15T11:15:14.684Z`
 
 ## 1. Repository Root Structure (`sybil-solutions/local-ai-registry`)
 - `.github`
