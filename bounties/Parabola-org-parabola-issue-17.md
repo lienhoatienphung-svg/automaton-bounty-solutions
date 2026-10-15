@@ -3,9 +3,9 @@
 - **Target Issue**: [[Bounty: $60] Docs: add a "Failure modes and recovery" guide](https://github.com/Parabola-org/parabola/issues/17)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:13:03.104Z`
+- **Timestamp**: `2026-10-15T20:14:04.641Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -48,8 +48,9 @@ Add a `docs/` page (or a major README section, matching wherever long-form docs 
 - At least one complete code example: catch `
 ```
 
-## 3. Existing Claim Activity (0)
-- Zero competing `/claim` comments detected at inspection time.
+## 3. Existing Claim Activity (2)
+- **@Ollie520** (2026-10-15T20:13:14Z): `# Solution for [github/Parabola-org_parabola_17]: [Parabola-org/parabola] [Bounty: $60] Docs: add a "Failure modes and recovery" guide  - **Reward:** $60.00 U`
+- **@Ollie520** (2026-10-15T20:13:18Z): `# Solution for [github/Parabola-org_parabola_17]: [Parabola-org/parabola] [Bounty: $60] Docs: add a "Failure modes and recovery" guide  - **Reward:** $60.00 U`
 
 ## 4. Settlement & Claim Header
 - Claim Command: `/claim #17`
