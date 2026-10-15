@@ -3,12 +3,12 @@
 - **Target Issue**: [Implement paid bounty slots, alpha fee confirmation, and submission deadlines](https://github.com/ditto-assistant/ditto-subnet/issues/2942)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Fork Fix Branch**: [fix/issue-2942](https://github.com/lienhoatienphung-svg/ditto-subnet/tree/fix/issue-2942)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/ditto-subnet/pull/4](https://github.com/lienhoatienphung-svg/ditto-subnet/pull/4)
 - **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T17:12:46.364Z`
+- **Timestamp**: `2026-10-15T17:13:36.724Z`
 
 ## 1. Repository Root Structure (`ditto-assistant/ditto-subnet`)
 - `.agents`
