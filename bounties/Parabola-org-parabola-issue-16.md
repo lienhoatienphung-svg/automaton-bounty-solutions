@@ -8,7 +8,7 @@
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/15](https://github.com/lienhoatienphung-svg/parabola/pull/15)
 - **Inspected Source File**: `website/src/hero-animation.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:00:28.116Z`
+- **Timestamp**: `2026-10-15T22:55:06.201Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -108,9 +108,10 @@ Audit the landing page against WCAG 2.1 AA basics and fix what's found: honor `p
 - Full keyboard pass: tab order reaches every c
 ```
 
-## 4. Existing Claim Activity (2)
+## 4. Existing Claim Activity (3)
 - **@Ollie520** (2026-10-15T20:28:35Z): `# Solution for [github/Parabola-org_parabola_16]: [Parabola-org/parabola] [Bounty: $75] Website: accessibility and motion-preference fixes for the landing page`
 - **@yodakkak** (2026-10-15T20:49:03Z): `I am working on a focused PR for this issue (#16).`
+- **@ayqy** (2026-10-15T22:53:18Z): `Hi maintainers, is there still a paid assignment for the complete landing-page audit and fixes in #16, given the open #41? Main already includes reduced-motion `
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #16`
