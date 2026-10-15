@@ -3,9 +3,9 @@
 - **Target Issue**: [[Slice A] Public-evidence coverage score and gap atlas](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/16)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:20:09.733Z`
+- **Timestamp**: `2026-10-15T21:22:32.258Z`
 
 ## 1. Repository Root Structure (`Element-Ventures-Canada-Ltd/openchokepoint`)
 - `.github`
