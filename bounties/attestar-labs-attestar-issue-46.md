@@ -1,11 +1,14 @@
-# Bounty Technical Analysis & Solution — `attestar-labs/attestar#46`
+# Bounty Technical Analysis, Patch & PR — `attestar-labs/attestar#46`
 
 - **Target Issue**: [[Bounty: $85] Add a CodeQL code-scanning workflow](https://github.com/attestar-labs/attestar/issues/46)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
+- **Fork Fix Branch**: [fix/issue-46](https://github.com/lienhoatienphung-svg/attestar/tree/fix/issue-46)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/attestar/pull/2](https://github.com/lienhoatienphung-svg/attestar/pull/2)
+- **Inspected Source File**: `apps/web/lib/contracts.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:47:26.568Z`
+- **Timestamp**: `2026-10-15T21:50:32.838Z`
 
 ## 1. Repository Root Structure (`attestar-labs/attestar`)
 - `.gitattributes`
@@ -22,7 +25,53 @@
 - `pnpm-workspace.yaml`
 - `vitest.workspace.ts`
 
-## 2. Issue Specification Excerpt
+## 2. Inspected Source File (`apps/web/lib/contracts.ts`)
+```
+"use client";
+
+import { Client as Attestar } from "attestar-client";
+import { Client as Token } from "usdc-client";
+
+import { ATTESTAR_ID, TOKEN_ID, RPC_URL, NETWORK_PASSPHRASE, RESERVE_HOLDER } from "@/lib/config";
+
+const PASS = NETWORK_PASSPHRASE;
+const RPC = RPC_URL;
+const READER = RESERVE_HOLDER;
+
+type Signer = (
+  xdr: string,
+  opts?: { networkPassphrase?: string; address?: string },
+) => Promise<{ signedTxXdr: string; signerAddress?: string }>;
+
+export function attestarSigner(publicKey: string, signTransaction: Signer) {
+  return new Attestar({
+    contractId: ATTESTAR_ID,
+    networkPassphrase: PASS,
+    rpcUrl: RPC,
+    publicKey,
+    signTransaction,
+  });
+}
+
+export function tokenSigner(publicKey: string, signTransaction: Signer) {
+  return new Token({
+    contractId: TOKEN_ID,
+    networkPassphrase: PASS,
+    rpcUrl: RPC,
+    publicKey,
+    signTransaction,
+  });
+}
+
+export function attestarReader(publicKey: string = READER) {
+  return new Attestar({ contractId: ATTESTAR_ID, networkPassphrase: PASS, rpcUrl: RPC, publicKey });
+}
+
+// Reads the contract's real verifying-key state so the issuer console can decide
+// whether the one-time setup panel is still needed. localStora
+```
+
+## 3. Issue Specification Excerpt
 ```markdown
 **Context**
 No static analysis runs over the repository. The TypeScript surface is non-trivial and security-relevant: `apps/web/lib/contracts.ts` builds signed transactions, `apps/web/lib/disclosure.ts` implements AES-GCM with a PBKDF2 key derivation, and `apps/web/lib/ledger.ts` persists financial rows in `localStorage`. CodeQL supports both JavaScript/TypeScript and Rust, and is free for public repositories.
@@ -42,11 +91,12 @@ Add `.github/workflows/codeql.yml` initialising CodeQL for `javascript-typescrip
 **ETA:** 24 hours
 ```
 
-## 3. Existing Claim Activity (3)
+## 4. Existing Claim Activity (3)
 - **@yntymacho** (2026-10-15T17:53:44Z): `I'd like to take #46 with disclosed Codex assistance. I checked the current CI: its existing `security` job is a separate secret-history scan, and there is no C`
 - **@sparkysolutions10-pixel** (2026-10-15T20:05:36Z): `/claim #46  ### 🤖 MiroFish Autonomous Bug Resolution & Proof of Fix  - **Official Pull Request:** [https://github.com/attestar-labs/attestar/pull/270](https://`
 - **@ayqy** (2026-10-15T21:34:11Z): `@cythecode, is the complete #46 task still available as a paid commission for a new contributor? I see four open CodeQL PRs and only `ci.yml` on main, so I woul`
 
-## 4. Settlement & Claim Header
+## 5. Settlement & Claim Header
 - Claim Command: `/claim #46`
+- Pull Request: https://github.com/lienhoatienphung-svg/attestar/pull/2
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
