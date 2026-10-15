@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals](https://github.com/Parabola-org/parabola/issues/10)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Fork Fix Branch**: Pending fork sync
 - **Pull Request**: Ready on branch fix/issue-10
 - **Inspected Source File**: `src/constants.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:05:54.127Z`
+- **Timestamp**: `2026-10-15T20:05:58.210Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
