@@ -1,11 +1,14 @@
-# Bounty Technical Analysis & Solution — `ditto-assistant/ditto-subnet#2943`
+# Bounty Technical Analysis, Patch & PR — `ditto-assistant/ditto-subnet#2943`
 
 - **Target Issue**: [Add bounty operator controls and gate funded activation](https://github.com/ditto-assistant/ditto-subnet/issues/2943)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
 - **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
+- **Fork Fix Branch**: [fix/issue-2943](https://github.com/lienhoatienphung-svg/ditto-subnet/tree/fix/issue-2943)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/ditto-subnet/pull/1](https://github.com/lienhoatienphung-svg/ditto-subnet/pull/1)
+- **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T22:38:56.277Z`
+- **Timestamp**: `2026-10-15T22:39:03.100Z`
 
 ## 1. Repository Root Structure (`ditto-assistant/ditto-subnet`)
 - `.agents`
@@ -46,7 +49,8 @@
 - `uv.lock`
 - `workers`
 
-## 2. Issue Specification Excerpt
+
+## 3. Issue Specification Excerpt
 ```markdown
 > **Implementation consolidated:** the complete v1 implementation is now tracked in [#2942](https://github.com/ditto-assistant/ditto-subnet/issues/2942), which depends on [PR #2889](https://github.com/ditto-assistant/ditto-subnet/pull/2889). This issue preserves detailed reference/coordination notes; do not assign a separate parallel implementation of this scope.
 
@@ -62,9 +66,10 @@ Give maintainers an audited way to operate scoped build bounties while keeping f
 - Pause ne
 ```
 
-## 3. Existing Claim Activity (0)
+## 4. Existing Claim Activity (0)
 - Zero competing `/claim` comments detected at inspection time.
 
-## 4. Settlement & Claim Header
+## 5. Settlement & Claim Header
 - Claim Command: `/claim #2943`
+- Pull Request: https://github.com/lienhoatienphung-svg/ditto-subnet/pull/1
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
