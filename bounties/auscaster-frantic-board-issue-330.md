@@ -3,9 +3,9 @@
 - **Target Issue**: [Frantic bounty #120: Add a valuable startup offer to Sourcey](https://github.com/auscaster/frantic-board/issues/330)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T14:16:53.305Z`
+- **Timestamp**: `2026-10-15T14:41:18.698Z`
 
 ## 1. Repository Root Structure (`auscaster/frantic-board`)
 - `.github`
@@ -25,7 +25,7 @@ Frantic bounty #120
 Add a valuable startup offer to Sourcey
 
 Worker price: $1
-Slots: 150 (4 available)
+Slots: 150 (5 available)
 Status: Available
 Claim: https://gofrantic.com/bounties/120
 Funding receipt: https://gofrantic.com/r/1a87cb95
