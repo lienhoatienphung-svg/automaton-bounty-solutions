@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts](https://github.com/Parabola-org/parabola/issues/4)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
-- **Fork Fix Branch**: Pending fork sync
-- **Pull Request**: Ready on branch fix/issue-4
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Fork Fix Branch**: [fix/issue-4](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-4)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/4](https://github.com/lienhoatienphung-svg/parabola/pull/4)
 - **Inspected Source File**: `src/chains/stellar.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:35:35.769Z`
+- **Timestamp**: `2026-10-15T20:38:23.025Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -92,10 +92,10 @@ Inspect the error from `getAccount` and only map the Stellar SDK's account-not-f
 - The SDK's account-not-found error still yields `{ exists: false, hasTrustline: false, ready: false }
 ```
 
-## 4. Existing Claim Activity (0)
-- Zero competing `/claim` comments detected at inspection time.
+## 4. Existing Claim Activity (1)
+- **@fate-lab** (2026-10-15T20:36:03Z): `Hi! I've completed this issue in #26. All acceptance criteria are covered, and typecheck, tests and build pass. Once it's reviewed and merged, how will the $105`
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #4`
-- Pull Request: N/A
+- Pull Request: https://github.com/lienhoatienphung-svg/parabola/pull/4
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
