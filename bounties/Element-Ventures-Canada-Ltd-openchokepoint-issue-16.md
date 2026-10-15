@@ -3,12 +3,12 @@
 - **Target Issue**: [[Slice A] Public-evidence coverage score and gap atlas](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/16)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
 - **Fork Fix Branch**: [fix/issue-16](https://github.com/lienhoatienphung-svg/openchokepoint/tree/fix/issue-16)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/openchokepoint/pull/4](https://github.com/lienhoatienphung-svg/openchokepoint/pull/4)
 - **Inspected Source File**: `examples/synthetic-turbopump-thread.yaml`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T19:35:24.462Z`
+- **Timestamp**: `2026-10-15T19:35:34.643Z`
 
 ## 1. Repository Root Structure (`Element-Ventures-Canada-Ltd/openchokepoint`)
 - `.github`
