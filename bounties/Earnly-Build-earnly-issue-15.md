@@ -3,9 +3,9 @@
 - **Target Issue**: [[Bounty: $70] Stop the custom-university upsert from overwriting other users' rows](https://github.com/Earnly-Build/earnly/issues/15)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T14:07:40.834Z`
+- **Timestamp**: `2026-10-15T14:11:50.873Z`
 
 ## 1. Repository Root Structure (`Earnly-Build/earnly`)
 - `.env.example`
