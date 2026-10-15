@@ -3,9 +3,9 @@
 - **Target Issue**: [Strategy proposal: LlamaLendLoopStrat — wstETH/crvUSD loop with fxSAVE buffer as the book's ETH-delta hedge](https://github.com/everstrat-xyz/contracts/issues/54)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T14:07:09.590Z`
+- **Timestamp**: `2026-10-15T14:13:13.734Z`
 
 ## 1. Repository Root Structure (`everstrat-xyz/contracts`)
 - `.github`
