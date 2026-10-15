@@ -3,9 +3,9 @@
 - **Target Issue**: [Frantic bounty #120: Add a valuable startup offer to Sourcey](https://github.com/auscaster/frantic-board/issues/330)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T19:53:19.388Z`
+- **Timestamp**: `2026-10-15T21:44:15.326Z`
 
 ## 1. Repository Root Structure (`auscaster/frantic-board`)
 - `.github`
@@ -25,8 +25,8 @@ Frantic bounty #120
 Add a valuable startup offer to Sourcey
 
 Worker price: $1
-Slots: 150 (1 available)
-Status: Available
+Slots: 150 (filled)
+Status: needs work
 Claim: https://gofrantic.com/bounties/120
 Funding receipt: https://gofrantic.com/r/1a87cb95
 
@@ -36,7 +36,7 @@ Frantic is the source of truth. This GitHub issue is a mirrored board thread.
 
 <!-- runx-outbox-envelope: v1 -->
 <!-- runx-outbox-entry: frantic:bounty:120 -->
-<!-- runx-outbox-metadata: eyJzY2hlbWFfdmVyc2lvbiI6InJ1bngub3V0Ym94LWVudHJ5LnByb3ZpZGVyLXRocmVhZC1jcmVhdGUudjEiLCJjaGFubmVsIjoiZ2l0aHViX2lzc3VlIiwic291cmNlIjoiZnJhbnRpYyIsInNvdXJjZV9yZWYiOiJmcmFudGljOmJvdW50eToxMjAiLCJhY3Rpb24iOiJjcmVhdGUiLCJ0YXJnZXRfcmVwbyI6ImF1c2Nhc3Rlci9mcmFudGljLWJvYXJkIiwidGl0bGUiOiJGcmFudGljIGJvdW50eSAjMTIwOiBBZGQgYSB2YWx1YWJsZSBzdGFydHVwIG9mZmVyIHRvIFNvdXJjZXkiLCJsYWJlbHMiOlsiYm91bnR5IiwiZnVuZGVkIiwiYXZhaWxhYmxlIiwiZGVsaXZlcmVkIiwiYWNjZXB0ZWQiLCJuZWVkcy13b3JrIiwicGFpZCJdLCJkZWR1cGVfa2V5IjoiZnJhbnRpYzpib3VudHk6MTIwIiwib3V0Ym94X3JlY2VpcHRfaWQiOiJmcmFudGljOmJvdW50eToxMjAifQ -->
+<!-- runx-outbox-metadata: eyJzY2hlbWFfdmVyc2lvbiI6InJ1bngub3V0Ym94LWVudHJ5LnByb3ZpZGVyLXRocmVhZC1jcmVhdGUudjEiLCJjaGFubmVsIjoiZ2l0aHViX2lzc3VlIiwic291cmNlIjoiZnJhbnRpYyIsInNvdXJjZV9yZWYiOiJmcmFudGljOmJvdW50eToxMjAiLCJhY3Rpb24iOiJjcmVhdGUiLCJ0YXJnZXRfcmVwbyI6ImF1c2Nhc3Rlci9mcmFudGljLWJvYXJkIiwidGl0bGUiOiJGcmFudGljIGJvdW50eSAjMTIwOiBBZGQgYSB2YWx1YWJsZSBzdGFydHVwIG9mZmVyIHRvIFNvdXJjZXkiLCJsYWJlbHMiOlsiYm91bnR5IiwiZnVuZGVkIiwiY2xhaW1lZCIsImRlbGl2ZXJlZCIsImFjY2VwdGVkIiwibmVlZHMtd29yayIsInBhaWQiXSwiZGVkdXBlX2tleSI6ImZyYW50aWM6Ym91bnR5OjEyMCIsIm91dGJveF9yZWNlaXB0X2lkIjoiZnJhbnRpYzpib3VudHk6MTIwIn0 -->
 
 ```
 
