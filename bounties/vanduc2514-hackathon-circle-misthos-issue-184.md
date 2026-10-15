@@ -3,9 +3,9 @@
 - **Target Issue**: [Bounty: remove the simulation — the app runs live, and only live](https://github.com/vanduc2514/hackathon-circle-misthos/issues/184)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T16:58:58.135Z`
+- **Timestamp**: `2026-10-15T17:03:29.533Z`
 
 ## 1. Repository Root Structure (`vanduc2514/hackathon-circle-misthos`)
 - `.agents`
