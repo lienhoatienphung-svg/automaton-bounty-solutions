@@ -3,9 +3,9 @@
 - **Target Issue**: [[$250] Reports - Back button on report view returns to different scroll position](https://github.com/Expensify/App/issues/70080)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Holding HQ
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T16:04:24.348Z`
+- **Timestamp**: `2026-10-15T16:15:45.551Z`
 
 ## 1. Repository Root Structure (`Expensify/App`)
 - `.buckconfig`
