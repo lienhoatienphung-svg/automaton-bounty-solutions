@@ -1,11 +1,14 @@
-# Bounty Technical Analysis & Solution — `Parabola-org/parabola#17`
+# Bounty Technical Analysis, Patch & PR — `Parabola-org/parabola#17`
 
 - **Target Issue**: [[Bounty: $60] Docs: add a "Failure modes and recovery" guide](https://github.com/Parabola-org/parabola/issues/17)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
 - **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Fork Fix Branch**: Pending fork sync
+- **Pull Request**: Ready on branch fix/issue-17
+- **Inspected Source File**: `src/errors.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:20:04.076Z`
+- **Timestamp**: `2026-10-15T20:20:39.284Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -34,7 +37,43 @@
 - `vitest.config.ts`
 - `website`
 
-## 2. Issue Specification Excerpt
+## 2. Inspected Source File (`src/errors.ts`)
+```
+/**
+ * Thrown by transfer() for any failure that happens after the source-chain burn has
+ * already succeeded: attestation polling (timeout or otherwise), or the destination-chain
+ * mint call. Carries burnTxHash so the caller can recover with completeMint() instead of
+ * losing track of funds that already left the source chain.
+ */
+export class TransferError extends Error {
+  readonly burnTxHash: string;
+  readonly attestationHash?: string;
+  /**
+   * Machine-readable discriminator for the wrapped failure, set when the underlying error
+   * has a type a caller can act on. `"ATTESTATION_NOT_READY"` means the burn is real and
+   * the attestation simply has not arrived yet, so the caller should retry rather than
+   * treat the transfer as lost. Undefined for failures with no more specific classification.
+   */
+  readonly code?: TransferErrorCode;
+
+  constructor(
+    message: string,
+    burnTxHash: string,
+    attestationHash?: string,
+    code?: TransferErrorCode,
+  ) {
+    super(message);
+    this.name = "TransferError";
+    this.burnTxHash = burnTxHash;
+    this.attestationHash = attestationHash;
+    this.code = code;
+  }
+}
+
+export type TransferErrorCode = "ATTESTATION_NOT_READY"
+```
+
+## 3. Issue Specification Excerpt
 ```markdown
 **Context**
 The README documents the happy path well, and `src/errors.ts` has excellent inline rationale — but a integrator debugging a failed mainnet transfer has to assemble the recovery story by reading source. The pieces are scattered: `TransferError.burnTxHash` (recover via `completeMint`), `AttestationNotReadyError` (retryable, burn is safe), `SubmissionTimeoutError` (hash exists, outcome unknown — check the chain before retrying), `IrisRequestError` (Circle-side outage, retry), and `resolveBurn` for inspecting a burn you didn't produce.
@@ -48,10 +87,11 @@ Add a `docs/` page (or a major README section, matching wherever long-form docs 
 - At least one complete code example: catch `
 ```
 
-## 3. Existing Claim Activity (2)
+## 4. Existing Claim Activity (2)
 - **@Ollie520** (2026-10-15T20:13:14Z): `# Solution for [github/Parabola-org_parabola_17]: [Parabola-org/parabola] [Bounty: $60] Docs: add a "Failure modes and recovery" guide  - **Reward:** $60.00 U`
 - **@Ollie520** (2026-10-15T20:13:18Z): `# Solution for [github/Parabola-org_parabola_17]: [Parabola-org/parabola] [Bounty: $60] Docs: add a "Failure modes and recovery" guide  - **Reward:** $60.00 U`
 
-## 4. Settlement & Claim Header
+## 5. Settlement & Claim Header
 - Claim Command: `/claim #17`
+- Pull Request: N/A
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
