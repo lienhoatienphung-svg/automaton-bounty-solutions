@@ -3,9 +3,9 @@
 - **Target Issue**: [[up to $50] Kuda Bank — NGN / NG: banking transcripts, $10 each](https://github.com/zkp2p/peer-link/issues/46)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T14:08:17.023Z`
+- **Timestamp**: `2026-10-15T14:11:13.173Z`
 
 ## 1. Repository Root Structure (`zkp2p/peer-link`)
 - `.dockerignore`
