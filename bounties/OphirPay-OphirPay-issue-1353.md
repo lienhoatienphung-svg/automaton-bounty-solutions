@@ -1,11 +1,14 @@
-# Bounty Technical Analysis & Solution — `OphirPay/OphirPay#1353`
+# Bounty Technical Analysis, Patch & PR — `OphirPay/OphirPay#1353`
 
 - **Target Issue**: [Validate dispute timeout window in resolve_dispute to prevent premature resolution](https://github.com/OphirPay/OphirPay/issues/1353)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Fork Fix Branch**: [fix/issue-1353](https://github.com/lienhoatienphung-svg/OphirPay/tree/fix/issue-1353)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/OphirPay/pull/1](https://github.com/lienhoatienphung-svg/OphirPay/pull/1)
+- **Inspected Source File**: `contracts/ophirpay/src/contract.rs`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T18:48:36.595Z`
+- **Timestamp**: `2026-10-15T18:50:05.640Z`
 
 ## 1. Repository Root Structure (`OphirPay/OphirPay`)
 - `.commitlintrc.json`
@@ -67,7 +70,39 @@
 - `vitest.config.ts`
 - `vitest.setup.ts`
 
-## 2. Issue Specification Excerpt
+## 2. Inspected Source File (`contracts/ophirpay/src/contract.rs`)
+```
+#![allow(unused_imports)]
+#![allow(dead_code)]
+use soroban_sdk::{
+    contract, contracterror, contractimpl, contracttype, symbol_short, token, Address, Env, String,
+    Symbol, Vec,
+};
+use crate::storage::*;
+use crate::types::*;
+use crate::errors::*;
+use crate::events::*;
+use crate::helpers::*;
+use crate::spending_limit::is_spending_limit_expired;
+// ── Contract Version ───────────────────────────────────────────
+pub const CONTRACT_VERSION: u32 = 2;
+
+// ── Storage-Bump Policy Constants ──────────────────────────────
+// Soroban persistent storage entries have a TTL measured in ledgers.
+// Without periodic bumps, entries expire and data is lost permanently.
+//
+// Policy:
+//   • `BUMP_MIN_TTL` (5 000 ledgers ≈ 3.5 days): minimum TTL applied
+//     on every write.  If residual TTL is already ≥ 5 000 the call is a
+//     no-op (Soroban clamps to current_ttl + min/max).
+//   • `BUMP_MAX_TTL` (50 000 ledgers ≈ 35 days): the ceiling that entries
+//     are bumped to on every write or maintenance call.
+//   • `BUMP_MAINTENANCE_TTL` (100 000 ledgers ≈ 70 days): the ceiling
+//     used by the `bump_storage` maintenance function.  Higher than
+//     on-write bumps to reduce
+```
+
+## 3. Issue Specification Excerpt
 ```markdown
 **Target Branch: integration/staging**
 
@@ -101,9 +136,10 @@ In `contracts/ophirpay/src/contract.rs`, escrow disputes can be raised by either
 **Target Branch: integr
 ```
 
-## 3. Existing Claim Activity (0)
+## 4. Existing Claim Activity (0)
 - Zero competing `/claim` comments detected at inspection time.
 
-## 4. Settlement & Claim Header
+## 5. Settlement & Claim Header
 - Claim Command: `/claim #1353`
+- Pull Request: https://github.com/lienhoatienphung-svg/OphirPay/pull/1
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
