@@ -3,12 +3,12 @@
 - **Target Issue**: [Launch Another DoraHacks Bounty Post](https://github.com/devpool-directory/devpool-directory/issues/5924)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
 - **Fork Fix Branch**: [fix/issue-5924](https://github.com/lienhoatienphung-svg/devpool-directory/tree/fix/issue-5924)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/devpool-directory/pull/1](https://github.com/lienhoatienphung-svg/devpool-directory/pull/1)
 - **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T22:17:37.753Z`
+- **Timestamp**: `2026-10-15T22:18:27.650Z`
 
 ## 1. Repository Root Structure (`devpool-directory/devpool-directory`)
 - `.commitlintrc`
