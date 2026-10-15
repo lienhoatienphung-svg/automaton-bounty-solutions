@@ -3,12 +3,12 @@
 - **Target Issue**: [[BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project](https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Fork Fix Branch**: [fix/issue-2](https://github.com/lienhoatienphung-svg/claude-builders-bounty/tree/fix/issue-2)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/claude-builders-bounty/pull/4](https://github.com/lienhoatienphung-svg/claude-builders-bounty/pull/4)
 - **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T22:09:48.859Z`
+- **Timestamp**: `2026-10-15T22:14:12.621Z`
 
 ## 1. Repository Root Structure (`claude-builders-bounty/claude-builders-bounty`)
 - `LICENSE`
