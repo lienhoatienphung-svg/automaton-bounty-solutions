@@ -1,22 +1,22 @@
 {
   "executionMode": "REAL_BASE_MAINNET_RPC_AND_DEFILLAMA_ONCHAIN_DESK",
-  "executedAt": "2026-10-15T14:04:40.681Z",
-  "latencyMs": 346,
-  "baseMainnetBlockNumber": 52641866,
+  "executedAt": "2026-10-15T14:12:13.425Z",
+  "latencyMs": 342,
+  "baseMainnetBlockNumber": 52642092,
   "treasuryWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "treasuryUsdcBalance": 0,
   "topBaseProtocolsCount": 12,
   "topBaseProtocols": [
     {
       "name": "Binance CEX",
-      "tvlUsd": 167961217614,
-      "change1d": -2.33,
+      "tvlUsd": 167453364767,
+      "change1d": -2.69,
       "url": "https://www.binance.com"
     },
     {
       "name": "OKX",
-      "tvlUsd": 30542091980,
-      "change1d": -2.51,
+      "tvlUsd": 30408225084,
+      "change1d": -2.69,
       "url": "https://www.okx.com"
     },
     {
@@ -27,14 +27,14 @@
     },
     {
       "name": "Bybit",
-      "tvlUsd": 15572801986,
-      "change1d": -1.93,
+      "tvlUsd": 15528188177,
+      "change1d": -2.56,
       "url": "https://www.bybit.com"
     },
     {
       "name": "LayerZero V2",
-      "tvlUsd": 11122516437,
-      "change1d": 0.89,
+      "tvlUsd": 11133112861,
+      "change1d": 0.73,
       "url": "https://layerzero.network/"
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "name": "Gate",
-      "tvlUsd": 7101218055,
-      "change1d": -3.67,
+      "tvlUsd": 7073657204,
+      "change1d": -3.82,
       "url": "https://www.gate.com"
     },
     {
@@ -57,8 +57,8 @@
     },
     {
       "name": "MEXC",
-      "tvlUsd": 5321358140,
-      "change1d": -1.62,
+      "tvlUsd": 5314336885,
+      "change1d": -1.87,
       "url": "https://www.mexc.com"
     },
     {
@@ -69,14 +69,14 @@
     },
     {
       "name": "KuCoin",
-      "tvlUsd": 3262259295,
-      "change1d": -2.97,
+      "tvlUsd": 3261270939,
+      "change1d": -2.66,
       "url": "https://www.kucoin.com"
     },
     {
       "name": "Spark Liquidity Layer",
-      "tvlUsd": 2850277495,
-      "change1d": 1.62,
+      "tvlUsd": 2852688694,
+      "change1d": 1.61,
       "url": "https://spark.finance/"
     }
   ],
