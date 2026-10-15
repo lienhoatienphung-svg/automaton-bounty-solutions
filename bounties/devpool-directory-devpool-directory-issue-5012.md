@@ -3,9 +3,9 @@
 - **Target Issue**: [Implement Differential Reward Distribution for Reopened Issues](https://github.com/devpool-directory/devpool-directory/issues/5012)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T13:29:37.804Z`
+- **Timestamp**: `2026-10-15T13:31:59.387Z`
 
 ## 1. Repository Root Structure (`devpool-directory/devpool-directory`)
 - `.commitlintrc`
