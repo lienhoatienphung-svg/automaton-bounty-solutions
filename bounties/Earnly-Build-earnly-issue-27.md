@@ -3,9 +3,9 @@
 - **Target Issue**: [[Bounty: $60] Version the localStorage payload in `store.tsx`](https://github.com/Earnly-Build/earnly/issues/27)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T13:50:10.910Z`
+- **Timestamp**: `2026-10-15T13:51:10.716Z`
 
 ## 1. Repository Root Structure (`Earnly-Build/earnly`)
 - `.env.example`
