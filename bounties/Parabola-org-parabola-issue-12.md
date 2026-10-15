@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and RPC-lag retry](https://github.com/Parabola-org/parabola/issues/12)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Fork Fix Branch**: [fix/issue-12](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-12)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/8](https://github.com/lienhoatienphung-svg/parabola/pull/8)
 - **Inspected Source File**: `src/chains/stellar.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:48:15.151Z`
+- **Timestamp**: `2026-10-15T21:35:51.908Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -94,9 +94,10 @@ Add optional fields to `TransferOptionsBase` (e.g. `stellarRetryAttempts?`, `ste
 - 
 ```
 
-## 4. Existing Claim Activity (2)
+## 4. Existing Claim Activity (3)
 - **@fate-lab** (2026-10-15T20:36:08Z): `Hi! I've completed this issue in #27. All acceptance criteria are covered, and typecheck, tests and build pass. Once it's reviewed and merged, how will the $75 `
 - **@Ollie520** (2026-10-15T20:37:52Z): `# Solution for [github/Parabola-org_parabola_12]: [Parabola-org/parabola] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and RPC-lag retry`
+- **@fy-god** (2026-10-15T21:34:54Z): `Implemented in canonical PR #31: https://github.com/Parabola-org/parabola/pull/31  The PR exposes typed `stellarRetryAttempts` and `stellarRetryDelayMs`, thread`
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #12`
