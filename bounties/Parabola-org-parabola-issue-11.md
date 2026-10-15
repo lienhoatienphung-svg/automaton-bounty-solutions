@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $90] Add ESLint with typescript-eslint and wire it into CI](https://github.com/Parabola-org/parabola/issues/11)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Fork Fix Branch**: [fix/issue-11](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-11)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/13](https://github.com/lienhoatienphung-svg/parabola/pull/13)
 - **Inspected Source File**: `.github/workflows/ci.yml`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:46:09.834Z`
+- **Timestamp**: `2026-10-15T20:48:26.001Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
