@@ -3,12 +3,12 @@
 - **Target Issue**: [Miner CLI: attest a GitHub account and link it to the miner hotkey](https://github.com/ditto-assistant/ditto-subnet/issues/2871)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Fork Fix Branch**: [fix/issue-2871](https://github.com/lienhoatienphung-svg/ditto-subnet/tree/fix/issue-2871)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/ditto-subnet/pull/2](https://github.com/lienhoatienphung-svg/ditto-subnet/pull/2)
 - **Inspected Source File**: `ditto/miner_cli/commands/link_ditto.py`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T18:46:04.444Z`
+- **Timestamp**: `2026-10-15T18:47:45.457Z`
 
 ## 1. Repository Root Structure (`ditto-assistant/ditto-subnet`)
 - `.agents`
