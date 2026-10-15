@@ -3,9 +3,9 @@
 - **Target Issue**: [[BOUNTY] Medium: ComputeJobRequest overwrites coordinator job_id with random UUID, leaving JobCoordinator assignments stuck and dropping failure errors](https://github.com/paraloom-labs/paraloom-core/issues/895)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T13:47:09.832Z`
+- **Timestamp**: `2026-10-15T13:53:55.668Z`
 
 ## 1. Repository Root Structure (`paraloom-labs/paraloom-core`)
 - `.env.example`
