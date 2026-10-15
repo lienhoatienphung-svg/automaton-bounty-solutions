@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts](https://github.com/Parabola-org/parabola/issues/4)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Fork Fix Branch**: Pending fork sync
 - **Pull Request**: Ready on branch fix/issue-4
 - **Inspected Source File**: `src/chains/stellar.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:29:18.863Z`
+- **Timestamp**: `2026-10-15T20:34:20.301Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
