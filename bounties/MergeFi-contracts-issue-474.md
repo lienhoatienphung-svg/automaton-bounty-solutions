@@ -3,9 +3,9 @@
 - **Target Issue**: [[Regression on closed #348] milestones: an existing sponsor topping up while the milestone is at the MAX_SPONSORS cap still has no test](https://github.com/MergeFi/contracts/issues/474)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T11:02:11.260Z`
+- **Timestamp**: `2026-10-15T11:03:11.055Z`
 
 ## 1. Repository Root Structure (`MergeFi/contracts`)
 - `.editorconfig`
