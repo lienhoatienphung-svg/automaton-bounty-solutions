@@ -1,14 +1,11 @@
-# Bounty Technical Analysis, Patch & PR — `verdikta/verdikta-arbiter#89`
+# Bounty Technical Analysis & Solution — `verdikta/verdikta-arbiter#89`
 
 - **Target Issue**: [e2e: multi-CID scenarios on main, with a manualOnly flag so the paid bounty-171 replay stays out of the nightly](https://github.com/verdikta/verdikta-arbiter/issues/89)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
-- **Fork Fix Branch**: Pending fork sync
-- **Pull Request**: Ready on branch fix/issue-89
-- **Inspected Source File**: `e2e/src/scenario-loader.js`
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:35:05.879Z`
+- **Timestamp**: `2026-10-15T20:36:29.606Z`
 
 ## 1. Repository Root Structure (`verdikta/verdikta-arbiter`)
 - `.gitattributes`
@@ -32,47 +29,7 @@
 - `package.json`
 - `testing-tool`
 
-## 2. Inspected Source File (`e2e/src/scenario-loader.js`)
-```
-'use strict';
-
-const fs = require('fs');
-const path = require('path');
-
-const E2E_ROOT = path.join(__dirname, '..');
-const DEFAULT_SCENARIOS = path.join(E2E_ROOT, 'scenarios', 'scenarios.json');
-
-const isNonEmptyString = (v) => typeof v === 'string' && v.trim() !== '';
-
-/**
- * Resolve a scenario's evidence CIDs. A scenario declares exactly one of:
- *   - `cid`: a literal CID
- *   - `cidFile`: a path, relative to the e2e root, containing a CID (e.g. one
- *     written by scripts/build-archive.js --pin)
- *   - `cids`: an array of CIDs for a multi-CID request (a bounty sends
- *     [evaluation package, hunter archive])
- * Returns the CID array, or null if a cidFile is declared but not yet present.
- */
-function resolveCids(scenario) {
-  if (Array.isArray(scenario.cids)) return scenario.cids.map((c) => c.trim());
-  if (scenario.cid) return [scenario.cid];
-  if (scenario.cidFile) {
-    const p = path.resolve(E2E_ROOT, scenario.cidFile);
-    if (fs.existsSync(p)) {
-      const cid = fs.readFileSync(p, 'utf8').trim();
-      return cid ? [cid] : null;
-    }
-    return null;
-  }
-  return null;
-}
-
-/**
- * The External Adapter's `data.cid` form of a request: CIDs joined by commas,
- * then `:<ad
-```
-
-## 3. Issue Specification Excerpt
+## 2. Issue Specification Excerpt
 ```markdown
 ## Goal
 
@@ -95,10 +52,9 @@ Two canary runs on class 5555 passed with that branch on 2026-10-15:
 The replay's package names a paid jury (gpt-5.6-sol + claude-sonnet-5). The nightly 
 ```
 
-## 4. Existing Claim Activity (1)
+## 3. Existing Claim Activity (1)
 - **@sparkysolutions10-pixel** (2026-10-15T20:19:39Z): `/claim #89  ### 🤖 MiroFish Autonomous Bug Resolution & Proof of Fix  - **Official Pull Request:** [https://github.com/verdikta/verdikta-arbiter/pull/94](https:`
 
-## 5. Settlement & Claim Header
+## 4. Settlement & Claim Header
 - Claim Command: `/claim #89`
-- Pull Request: N/A
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
