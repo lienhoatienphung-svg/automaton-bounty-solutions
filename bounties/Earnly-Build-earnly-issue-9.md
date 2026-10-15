@@ -3,9 +3,9 @@
 - **Target Issue**: [[Bounty: $90] Origin-check state-changing routes instead of trusting `SameSite=Lax` alone](https://github.com/Earnly-Build/earnly/issues/9)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T14:02:07.371Z`
+- **Timestamp**: `2026-10-15T14:02:41.761Z`
 
 ## 1. Repository Root Structure (`Earnly-Build/earnly`)
 - `.env.example`
