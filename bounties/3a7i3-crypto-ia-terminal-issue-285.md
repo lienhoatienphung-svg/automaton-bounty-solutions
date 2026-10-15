@@ -3,12 +3,12 @@
 - **Target Issue**: [MASTER ROADMAP II — Burn-in protégé → Cockpit unifié → Research → Économie d’agents](https://github.com/3a7i3/crypto-ia-terminal/issues/285)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
 - **Fork Fix Branch**: [fix/issue-285](https://github.com/lienhoatienphung-svg/crypto-ia-terminal/tree/fix/issue-285)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/crypto-ia-terminal/pull/1](https://github.com/lienhoatienphung-svg/crypto-ia-terminal/pull/1)
 - **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:47:06.711Z`
+- **Timestamp**: `2026-10-15T21:47:13.880Z`
 
 ## 1. Repository Root Structure (`3a7i3/crypto-ia-terminal`)
 - `.ci`
