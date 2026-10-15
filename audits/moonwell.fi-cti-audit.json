@@ -1,0 +1,33 @@
+{
+  "executionMode": "REAL_LIVE_HTTP_AND_CT_OSINT_AUDIT",
+  "auditedAt": "2026-10-15T10:29:16.004Z",
+  "auditorIdentity": {
+    "handle": "lienhoatienphung-svg",
+    "email": "lienhoatienphung@gmail.com",
+    "payoutWalletBaseUsdc": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
+  },
+  "targetUrl": "https://moonwell.fi/",
+  "domain": "moonwell.fi",
+  "httpStatus": 200,
+  "latencyMs": 10009,
+  "measuredSecurityHeaders": {
+    "strictTransportSecurity": "max-age=15552000; includeSubDomains; preload",
+    "contentSecurityPolicy": "frame-ancestors 'self' https://*.base.app https://*.base.org https://*.base.dev https://*.farcaster.xyz https://*.warpcast.com https://*.coinbase.com; script-src 'self' 'unsafe-inline' 'unsafe-eval';",
+    "xFrameOptions": null,
+    "xContentTypeOptions": "nosniff",
+    "accessControlAllowOrigin": "*",
+    "server": "cloudflare"
+  },
+  "certificateTransparencySubdomains": [],
+  "exposedDevSubdomains": [],
+  "securityTxtPresent": false,
+  "securityTxtExcerpt": null,
+  "findingsCount": 1,
+  "findings": [
+    {
+      "severity": "LOW",
+      "code": "WILDCARD_CORS",
+      "description": "Wildcard Access-Control-Allow-Origin: * header detected on https://moonwell.fi."
+    }
+  ]
+}
