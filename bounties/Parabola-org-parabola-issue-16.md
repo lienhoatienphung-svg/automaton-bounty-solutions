@@ -1,11 +1,14 @@
-# Bounty Technical Analysis & Solution — `Parabola-org/parabola#16`
+# Bounty Technical Analysis, Patch & PR — `Parabola-org/parabola#16`
 
 - **Target Issue**: [[Bounty: $75] Website: accessibility and motion-preference fixes for the landing page](https://github.com/Parabola-org/parabola/issues/16)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Fork Fix Branch**: Pending fork sync
+- **Pull Request**: Ready on branch fix/issue-16
+- **Inspected Source File**: `website/src/hero-animation.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:16:01.606Z`
+- **Timestamp**: `2026-10-15T20:19:16.877Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -34,7 +37,64 @@
 - `vitest.config.ts`
 - `website`
 
-## 2. Issue Specification Excerpt
+## 2. Inspected Source File (`website/src/hero-animation.ts`)
+```
+// Canvas hero animation: tokens burn at a source node, arc through an attestation apex,
+// and mint at a destination node, a literal visualization of the burn/attest/mint flow.
+// Each launch picks Arc or Stellar as the source at random, so the corridor reads as
+// bidirectional rather than a one-way Arc -> Stellar demo. Loops continuously; respects
+// prefers-reduced-motion with a static three-stage frame.
+
+interface Rgb {
+  r: number;
+  g: number;
+  b: number;
+}
+
+interface Point {
+  x: number;
+  y: number;
+}
+
+interface Colors {
+  paper: string;
+  slate: string;
+  rule: string;
+  burn: Rgb;
+  attest: Rgb;
+  mint: Rgb;
+}
+
+interface Particle {
+  t0: number;
+  dir: 1 | -1; // 1 = Arc -> Stellar, -1 = Stellar -> Arc; either chain can be the source
+  launched: boolean;
+  pinged: boolean;
+  arrived: boolean;
+}
+
+interface Ping {
+  born: number;
+}
+
+interface Dust {
+  x: number;
+  y: number;
+  r: number;
+  drift: number;
+  phase: number;
+}
+
+const DURATION = 2800; // ms per crossing
+const SPAWN_EVERY = 780; // ms between launches
+const MAX_PARTICLES = 13;
+const DUST_COUNT = 110;
+
+export function initHeroAnimation(canvasId: string): void {
+  const canvas = document.getElementById(canvasId) 
+```
+
+## 3. Issue Specification Excerpt
 ```markdown
 **Context**
 `website/` is the project's landing page with a scripted hero animation (`website/src/hero-animation.ts`, `website/src/animations.ts`). Marketing pages built around canvas/CSS animation commonly ship without `prefers-reduced-motion` handling, keyboard-navigable CTAs, or proper document landmarks — and this page is the first impression for developers evaluating the SDK. Without seeing the rendered page the exact gaps can't be listed exhaustively, so this bounty is scoped to an audit-plus-fix pass rather than a single known bug.
@@ -48,9 +108,10 @@ Audit the landing page against WCAG 2.1 AA basics and fix what's found: honor `p
 - Full keyboard pass: tab order reaches every c
 ```
 
-## 3. Existing Claim Activity (0)
+## 4. Existing Claim Activity (0)
 - Zero competing `/claim` comments detected at inspection time.
 
-## 4. Settlement & Claim Header
+## 5. Settlement & Claim Header
 - Claim Command: `/claim #16`
+- Pull Request: N/A
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
