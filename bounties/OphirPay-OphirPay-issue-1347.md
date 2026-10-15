@@ -3,9 +3,9 @@
 - **Target Issue**: [Add validation for token decimal precision mismatch in record_payment](https://github.com/OphirPay/OphirPay/issues/1347)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T13:37:37.081Z`
+- **Timestamp**: `2026-10-15T15:43:58.049Z`
 
 ## 1. Repository Root Structure (`OphirPay/OphirPay`)
 - `.commitlintrc.json`
