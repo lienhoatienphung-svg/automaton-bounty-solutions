@@ -1,14 +1,14 @@
 # Bounty Technical Analysis, Patch & PR — `ditto-assistant/ditto-subnet#2942`
 
-- **Target Issue**: [Implement paid bounty slots, alpha fee confirmation, and submission deadlines](https://github.com/ditto-assistant/ditto-subnet/issues/2942)
+- **Target Issue**: [Implement the scoped build-bounty system on top of miner identity and CLA](https://github.com/ditto-assistant/ditto-subnet/issues/2942)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Fork Fix Branch**: [fix/issue-2942](https://github.com/lienhoatienphung-svg/ditto-subnet/tree/fix/issue-2942)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/ditto-subnet/pull/4](https://github.com/lienhoatienphung-svg/ditto-subnet/pull/4)
 - **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T19:51:27.922Z`
+- **Timestamp**: `2026-10-15T19:54:19.826Z`
 
 ## 1. Repository Root Structure (`ditto-assistant/ditto-subnet`)
 - `.agents`
@@ -52,17 +52,18 @@
 
 ## 3. Issue Specification Excerpt
 ```markdown
-## Outcome
+**Depends on [PR #2889 — verified GitHub links and signed CLA consent](https://github.com/ditto-assistant/ditto-subnet/pull/2889).** Build on its identity/consent interfaces; while it is open, stack the implementation on its current branch/head and rebase onto main when it lands. Re-read its head before starting. Do not rebuild GitHub OAuth, hotkey linking or CLA signing.
 
-Implement the Platform/API and miner CLI path for the paid-slot build-bounty model in parent epic #2054. Extend usable claim infrastructure rather than introducing a second claim authority.
+Suggested implementation owner: Diana (`double-k-3033`), who owns the prerequisite. This issue is ready for assignment; no contributor commitment is assumed.
 
-## Required behavior
+## Deliverable
 
-- Publish immutable bounty revisions containing the build contract, alpha fee/reward terms, three-attempt round cap, reviewer, and claim/review windows. Existing signed claims retain their original terms.
-- Gate paid claims on the verified identity link (#2871) and applicable CLA (#2872). Bind the claim to the bounty revision, contributor, recorded payee, and fee receipt.
-- Enforce the three-attempt cap and one slot per verified contributor/payee atomically. Prevent two contributors being charged for the same available slot. A payment arriving too late or without a valid allocation must be recoverable, not silently forfeited.
-- Verify finalized incoming alpha fees, bind each receipt once, and make repeated delivery/retries idempotent. Pending or unmatched payment is distinct from an active paid claim.
-- Start each delivery window when Platform confirms the paid claim. Default five days; no automatic renewals. A timely exact-commit submission retains the slot th
+One complete build-bounty workflow: publish a bounty on DittoBench, claim a paid slot, submit exact work, review it, record awards/refunds, and track manually approved alpha settlement. Platform is authoritative; GitHub supplies the public work specification. Deliver this under one issue; use a small PR stack if useful.
+
+## Rules
+
+- A published, signed revision fixes scope, public interfaces, acceptance evidence, named reviewer, alpha entry fee, fixed alpha reward pool and delivery duration.
+- Three attempts per round; one slot per verified contributor/payee. Require the verified GitHub/hotkey link and applicable CLA from #2889. A chain-owne
 ```
 
 ## 4. Existing Claim Activity (0)
