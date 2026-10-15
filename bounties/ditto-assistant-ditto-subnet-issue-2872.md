@@ -3,12 +3,12 @@
 - **Target Issue**: [Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey](https://github.com/ditto-assistant/ditto-subnet/issues/2872)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Fork Fix Branch**: [fix/issue-2872](https://github.com/lienhoatienphung-svg/ditto-subnet/tree/fix/issue-2872)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/ditto-subnet/pull/6](https://github.com/lienhoatienphung-svg/ditto-subnet/pull/6)
 - **Inspected Source File**: `ditto/miner_cli/name_claim.py`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T17:50:39.841Z`
+- **Timestamp**: `2026-10-15T17:53:38.289Z`
 
 ## 1. Repository Root Structure (`ditto-assistant/ditto-subnet`)
 - `.agents`
