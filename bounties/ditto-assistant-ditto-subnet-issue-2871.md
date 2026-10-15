@@ -8,7 +8,7 @@
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/ditto-subnet/pull/2](https://github.com/lienhoatienphung-svg/ditto-subnet/pull/2)
 - **Inspected Source File**: `ditto/miner_cli/commands/link_ditto.py`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T18:47:45.457Z`
+- **Timestamp**: `2026-10-15T18:49:09.249Z`
 
 ## 1. Repository Root Structure (`ditto-assistant/ditto-subnet`)
 - `.agents`
