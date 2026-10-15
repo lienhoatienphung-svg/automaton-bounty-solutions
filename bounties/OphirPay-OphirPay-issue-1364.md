@@ -3,9 +3,9 @@
 - **Target Issue**: [Add RFC 7807 problem details error formatting across all /api/payments routes](https://github.com/OphirPay/OphirPay/issues/1364)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T16:43:57.382Z`
+- **Timestamp**: `2026-10-15T16:47:57.523Z`
 
 ## 1. Repository Root Structure (`OphirPay/OphirPay`)
 - `.commitlintrc.json`
