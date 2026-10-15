@@ -3,12 +3,12 @@
 - **Target Issue**: [Add bounty operator controls and gate funded activation](https://github.com/ditto-assistant/ditto-subnet/issues/2943)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: Holding HQ
 - **Fork Fix Branch**: [fix/issue-2943](https://github.com/lienhoatienphung-svg/ditto-subnet/tree/fix/issue-2943)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/ditto-subnet/pull/1](https://github.com/lienhoatienphung-svg/ditto-subnet/pull/1)
 - **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T19:53:25.940Z`
+- **Timestamp**: `2026-10-15T19:55:56.550Z`
 
 ## 1. Repository Root Structure (`ditto-assistant/ditto-subnet`)
 - `.agents`
@@ -52,6 +52,8 @@
 
 ## 3. Issue Specification Excerpt
 ```markdown
+> **Implementation consolidated:** the complete v1 implementation is now tracked in [#2942](https://github.com/ditto-assistant/ditto-subnet/issues/2942), which depends on [PR #2889](https://github.com/ditto-assistant/ditto-subnet/pull/2889). This issue preserves detailed reference/coordination notes; do not assign a separate parallel implementation of this scope.
+
 ## Outcome
 
 Give maintainers an audited way to operate scoped build bounties while keeping funded actions gated. Parent: #2054. Internal implementation/activation owner: [SN-33](https://omniaura-team.atlassian.net/browse/SN-33).
@@ -61,9 +63,7 @@ Give maintainers an audited way to operate scoped build bounties while keeping f
 - Draft and publish revisioned bounty specifications; refuse publication until fee, fixed alpha reward pool, named reviewer, funding configuration, and public build contract are explicit.
 - Review queue with exact submissions, claim deadlines, seven-day review targets, overdue flags and reassignment/escalation. Delay by reviewers never forfeits contributor fees.
 - Record accept/reject decisions, attribution and shared-award reasons; authorized cancellation, appeal resolution, and explicit reopening of slots. Reviewer-requested rework must have a recorded deadline.
-- Pause new claims without hiding existing submissions or preventing reconciliation/refunds.
-- Present fees, retained amounts, refund obligations, award obligations, approvals, failed/uncertain transfers, and confirmed receipts from #2046. Keep reward and refund records distinct.
-- Preserve bearer-principal authorization, recorded payees, conflicts, policy revisions, and aud
+- Pause ne
 ```
 
 ## 4. Existing Claim Activity (0)
