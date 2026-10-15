@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts](https://github.com/Parabola-org/parabola/issues/4)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
 - **Fork Fix Branch**: [fix/issue-4](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-4)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/4](https://github.com/lienhoatienphung-svg/parabola/pull/4)
-- **Inspected Source File**: `src/constants.ts`
+- **Inspected Source File**: `src/chains/stellar.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T23:40:35.316Z`
+- **Timestamp**: `2026-10-15T23:47:04.983Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -37,31 +37,46 @@
 - `vitest.config.ts`
 - `website`
 
-## 2. Inspected Source File (`src/constants.ts`)
+## 2. Inspected Source File (`src/chains/stellar.ts`)
 ```
-// Contract addresses and network parameters sourced from official docs, never inferred:
-// Circle CCTP (developers.circle.com/cctp/evm-smart-contracts and .../references/stellar-contracts),
-// Arc (docs.arc.io/arc/references/connect-to-arc and .../contract-addresses), and Circle's USDC
-// contract list (developers.circle.com/stablecoins/usdc-contract-addresses). Verified 2026-09-23.
-// The Stellar mainnet USDC SAC is the deterministic Stellar Asset Contract ID for
-// USDC-GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN on the public network; the same
-// derivation reproduces the known testnet USDC SAC exactly. pnpm verify:addresses confirms every
-// address below is live on its network.
+import {
+  Contract,
+  TransactionBuilder,
+  BASE_FEE,
+  Address,
+  nativeToScVal,
+  scValToNative,
+  rpc,
+} from "@stellar/stellar-sdk";
+import { stellarConfig, STELLAR_TX_TIMEOUT_SECONDS, STELLAR_CONFIRMATION_TIMEOUT_MS, STELLAR_INCLUSION_FEE } from "../constants.js";
+import type { StellarSigner, Network } from "../types.js";
+import { SubmissionTimeoutError } from "../errors.js";
 
-import type { Network } from "./types.js";
+function getServer(network: Network, rpcUrl?: string): rpc.Server {
+  return new rpc.Server(rpcUrl ?? stellarConfig(network).sorobanRpcUrl);
+}
 
-export const ARC_DOMAIN = 26;
-export const STELLAR_DOMAIN = 27;
+async function signTransaction(
+  xdr: string,
+  signer: StellarSigner,
+  network: Network,
+): Promise<string> {
+  const passphrase = stellarConfig(network).networkPassphrase;
+  if (signer.signTransaction) {
+    return signer.signTransaction(xdr, passphrase);
+  }
+  if (signer.keypair) {
+    const tx = TransactionBuilder.fromXDR(xdr, passphrase);
+    tx.sign(signer.keypair);
+    return tx.toXDR();
+  }
+  throw new Error("StellarSigner must provide either a keypair or a signTransaction function");
+}
 
-export const ARC_TESTNET = {
-  chainId: 5042002,
-  rpcUrl: "https://rpc.testnet.arc.network",
-  wsUrl: "wss://rpc.testnet.arc.network",
-  explorerUrl: "https://testnet.arcscan.app",
-  tokenMessengerV2: "0x8FE6B999Dc680CcFDD5Bf7EB0974218be2542DAA",
-  messageTransmitterV2: "0xE737e5cEBEEBa77EFE34D4aa090756590b1CE275",
-  usdc: "0x3600000000000000000000000000000000000000",
-  usdcDecima
+/**
+ * Simulates, prepares, signs, and submits a Soroban contract invocation, then
+ * polls the RPC server until the transaction is confirmed. Returns the tx hash.
+ */
 ```
 
 ## 3. Issue Specification Excerpt
