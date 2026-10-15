@@ -3,9 +3,9 @@
 - **Target Issue**: [Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set](https://github.com/uvsmtid/protoprimer/issues/143)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Holding HQ
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T17:54:01.582Z`
+- **Timestamp**: `2026-10-15T17:55:11.125Z`
 
 ## 1. Repository Root Structure (`uvsmtid/protoprimer`)
 - `.editorconfig`
