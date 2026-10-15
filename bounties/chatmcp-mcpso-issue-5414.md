@@ -3,9 +3,9 @@
 - **Target Issue**: [Submit MCP Server: BountyRadar MCP](https://github.com/chatmcp/mcpso/issues/5414)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:05:17.914Z`
+- **Timestamp**: `2026-10-15T21:06:17.231Z`
 
 ## 1. Repository Root Structure (`chatmcp/mcpso`)
 - `.gitignore`
