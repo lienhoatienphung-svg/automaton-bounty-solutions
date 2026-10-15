@@ -1,14 +1,11 @@
-# Bounty Technical Analysis, Patch & PR — `Element-Ventures-Canada-Ltd/openchokepoint#20`
+# Bounty Technical Analysis & Solution — `Element-Ventures-Canada-Ltd/openchokepoint#20`
 
 - **Target Issue**: [[Slice E] Comparative real-world traces: retired engines under one method](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/20)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
-- **Fork Fix Branch**: [fix/issue-20](https://github.com/lienhoatienphung-svg/openchokepoint/tree/fix/issue-20)
-- **Pull Request**: [https://github.com/lienhoatienphung-svg/openchokepoint/pull/5](https://github.com/lienhoatienphung-svg/openchokepoint/pull/5)
-- **Inspected Source File**: `tools/validate.py`
+- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T19:38:15.905Z`
+- **Timestamp**: `2026-10-15T19:42:59.359Z`
 
 ## 1. Repository Root Structure (`Element-Ventures-Canada-Ltd/openchokepoint`)
 - `.github`
@@ -43,32 +40,7 @@
 - `tests`
 - `tools`
 
-## 2. Inspected Source File (`tools/validate.py`)
-```
-#!/usr/bin/env python3
-# Handling: Unclassified — public
-# SPDX-License-Identifier: Apache-2.0
-"""Validate instance files against the OpenChokepoint schema.
-
-Usage:
-    python3 tools/validate.py [--tier public|private] [instance.yaml ...]
-
---tier public (default) is for this public repository and its CI. --tier private is for private clones that hold full data.
-
-Defaults to the synthetic examples. Requires PyYAML. Exits non-zero on any error.
-Records outside data/ must carry `synthetic: true`. Real records are accepted only under data/ with a provenance.yaml (see DATA-CONTRIBUTIONS.md).
-
-Schema v0.2 adds digital-thread rules. Each error starts with a stable rule ID so reviewers can cite it:
-  EV-001  EvidenceRecord must carry a content hash or a public citation
-  EV-002  EvidenceRecord must not carry inline content; content_hash must be sha256:<64 hex>; short strings only
-  EV-003  EvidenceRecord citation must be a public https URL
-  EV-004  A real EvidenceRecord must use a public citation (public reports only)
-  CI-001  CriticalItem must be synthetic: true
-  CI-002  CriticalItem must not flag, or be offered an alternate by, a real record
-  CI-003  CriticalItem must not reach a rea
-```
-
-## 3. Issue Specification Excerpt
+## 2. Issue Specification Excerpt
 ```markdown
 Handling: Unclassified — public
 
@@ -99,10 +71,9 @@ Retired programmes only, for example **J-2** and **H-1**. Propose others with a 
 - Every cited URL resolves and the cited section exists (the main
 ```
 
-## 4. Existing Claim Activity (0)
+## 3. Existing Claim Activity (0)
 - Zero competing `/claim` comments detected at inspection time.
 
-## 5. Settlement & Claim Header
+## 4. Settlement & Claim Header
 - Claim Command: `/claim #20`
-- Pull Request: https://github.com/lienhoatienphung-svg/openchokepoint/pull/5
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
