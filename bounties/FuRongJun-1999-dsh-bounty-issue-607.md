@@ -3,9 +3,9 @@
 - **Target Issue**: [【测评报告】Liyang1145/lingshu_ng main 体验快测（记忆域 · 方法试验）：自带 pytest 2797 过/1 跳过/0 红与作者自报一致；自建 evalsuite 第三方复跑需先设 PYTHONUTF8=1，旧/新实现 A/B 为 38.0 vs 99.7](https://github.com/FuRongJun-1999/dsh-bounty/issues/607)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:24:19.504Z`
+- **Timestamp**: `2026-10-15T20:26:32.732Z`
 
 ## 1. Repository Root Structure (`FuRongJun-1999/dsh-bounty`)
 - `.gitattributes`
