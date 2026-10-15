@@ -3,12 +3,12 @@
 - **Target Issue**: [Dependency Dashboard](https://github.com/tadanobutubutu/screeps/issues/5)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Fork Fix Branch**: [fix/issue-5](https://github.com/lienhoatienphung-svg/screeps/tree/fix/issue-5)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/screeps/pull/1](https://github.com/lienhoatienphung-svg/screeps/pull/1)
 - **Inspected Source File**: `.github/workflows/gitstream.yml`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T18:45:20.528Z`
+- **Timestamp**: `2026-10-15T18:45:35.310Z`
 
 ## 1. Repository Root Structure (`tadanobutubutu/screeps`)
 - `.Jules`
