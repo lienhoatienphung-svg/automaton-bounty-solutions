@@ -3,9 +3,9 @@
 - **Target Issue**: [[Bounty: $70] Focus management for the shared `Modal`](https://github.com/Earnly-Build/earnly/issues/14)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T14:17:14.342Z`
+- **Timestamp**: `2026-10-15T14:19:53.754Z`
 
 ## 1. Repository Root Structure (`Earnly-Build/earnly`)
 - `.env.example`
