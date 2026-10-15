@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $125] Add AbortSignal support across transfer, completeMint, and attestation polling](https://github.com/Parabola-org/parabola/issues/5)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
-- **Fork Fix Branch**: Pending fork sync
-- **Pull Request**: Ready on branch fix/issue-5
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Fork Fix Branch**: [fix/issue-5](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-5)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/10](https://github.com/lienhoatienphung-svg/parabola/pull/10)
 - **Inspected Source File**: `src/iris/poll.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:25:14.338Z`
+- **Timestamp**: `2026-10-15T20:44:07.202Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -77,10 +77,10 @@ Nothing in the SDK accepts an `AbortSignal`. `pollForAttestation` (`src/iris/pol
 Thread an optional `signal?: AbortSignal` through `TransferOptionsBase` and `CompleteMintOptions`, honoring it in every polling/sleep loop (abortable sleep, not `setTimeout` fire-and-forget). Semantics: aborting before the burn throws a plain `AbortError` with nothing lost; aborting after the burn has been submitted throws a `TransferError` that still carries `burnTxHash` and sets `code` appropriately, so the recovery path is identical to any other post-burn failure. Fetches to Iris should pass the signal through.
 ```
 
-## 4. Existing Claim Activity (0)
-- Zero competing `/claim` comments detected at inspection time.
+## 4. Existing Claim Activity (1)
+- **@yodakkak** (2026-10-15T20:43:20Z): `I am working on a focused PR for this issue (#5).`
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #5`
-- Pull Request: N/A
+- Pull Request: https://github.com/lienhoatienphung-svg/parabola/pull/10
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
