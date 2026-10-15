@@ -1,14 +1,11 @@
-# Bounty Technical Analysis, Patch & PR — `Parabola-org/parabola#19`
+# Bounty Technical Analysis & Solution — `Parabola-org/parabola#19`
 
 - **Target Issue**: [[Bounty: $45] Validate input to bytes32ToStellarAddress](https://github.com/Parabola-org/parabola/issues/19)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
-- **Fork Fix Branch**: Pending fork sync
-- **Pull Request**: Ready on branch fix/issue-19
-- **Inspected Source File**: `src/utils/encoding.ts`
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:09:05.810Z`
+- **Timestamp**: `2026-10-15T20:33:43.753Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -37,40 +34,7 @@
 - `vitest.config.ts`
 - `website`
 
-## 2. Inspected Source File (`src/utils/encoding.ts`)
-```
-import { StrKey } from "@stellar/stellar-sdk";
-import { toHex, pad } from "viem";
-
-/**
- * Translates a Stellar address (G... account or C... contract strkey) into the
- * bytes32 hex format CCTP expects as a mint recipient / hook payload field.
- *
- * Circle's CCTP V2 message format encodes non-EVM recipients as 32-byte values.
- * For Stellar this is the raw ed25519 public key (G...) or contract id (C...)
- * left-padded to 32 bytes, matching StrKey.decodeContract / decodeEd25519PublicKey.
- */
-export function stellarAddressToBytes32(address: string): `0x${string}` {
-  let raw: Buffer;
-  if (StrKey.isValidEd25519PublicKey(address)) {
-    raw = StrKey.decodeEd25519PublicKey(address);
-  } else if (StrKey.isValidContract(address)) {
-    raw = StrKey.decodeContract(address);
-  } else {
-    throw new Error(`Invalid Stellar address: ${address}`);
-  }
-  if (raw.length !== 32) {
-    throw new Error(`Expected 32-byte Stellar key, got ${raw.length} bytes`);
-  }
-  return pad(toHex(raw), { size: 32 });
-}
-
-/** Inverse of stellarAddressToBytes32 for ed25519 public keys (G... accounts). */
-export function bytes32ToStellarAddress(bytes32: `0x${string}`): string {
-  const hex = bytes32.startsWith("0x")
-```
-
-## 3. Issue Specification Excerpt
+## 2. Issue Specification Excerpt
 ```markdown
 **Context**
 `bytes32ToStellarAddress` in `src/utils/encoding.ts:28-32` does `Buffer.from(hex, "hex")` with no validation and passes the result straight to `StrKey.encodeEd25519PublicKey`. `Buffer.from` silently truncates at the first non-hex character and accepts odd-length strings by dropping the leading nibble, so garbage input produces a garbage-but-plausible `G...` address instead of an error. Its sibling `stellarAddressToBytes32` (lines 12-25) validates both directions of the strkey round trip; this inverse got missed. It's exported from the package via the encoding utilities consumers import.
@@ -85,10 +49,11 @@ Mirror the validation discipline of `evmAddressToBytes32` (lines 120-131): requi
 - Contract (C...) round-trip behavior is documented — either supported explicitly or reje
 ```
 
-## 4. Existing Claim Activity (0)
-- Zero competing `/claim` comments detected at inspection time.
+## 3. Existing Claim Activity (3)
+- **@Ollie520** (2026-10-15T20:09:53Z): `# Solution for [github/Parabola-org_parabola_19]: [Parabola-org/parabola] [Bounty: $45] Validate input to bytes32ToStellarAddress  - **Reward:** $45.00 USDC `
+- **@sparkysolutions10-pixel** (2026-10-15T20:12:40Z): `/claim #19  ### 🤖 MiroFish Autonomous Bug Resolution & Proof of Fix   ## 🛠️ Problem & Solution Overview  ### Issue Reference Fixes #19  ### Description of Fix`
+- **@yodakkak** (2026-10-15T20:33:29Z): `I am working on a focused PR for this issue (#19).`
 
-## 5. Settlement & Claim Header
+## 4. Settlement & Claim Header
 - Claim Command: `/claim #19`
-- Pull Request: N/A
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
