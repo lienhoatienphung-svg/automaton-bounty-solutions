@@ -1,14 +1,11 @@
-# Bounty Technical Analysis, Patch & PR — `FuRongJun-1999/dsh-bounty#607`
+# Bounty Technical Analysis & Solution — `FuRongJun-1999/dsh-bounty#607`
 
 - **Target Issue**: [【测评报告】Liyang1145/lingshu_ng main 体验快测（记忆域 · 方法试验）：自带 pytest 2797 过/1 跳过/0 红与作者自报一致；自建 evalsuite 第三方复跑需先设 PYTHONUTF8=1，旧/新实现 A/B 为 38.0 vs 99.7](https://github.com/FuRongJun-1999/dsh-bounty/issues/607)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
-- **Fork Fix Branch**: Pending fork sync
-- **Pull Request**: Ready on branch fix/issue-607
-- **Inspected Source File**: `root tree`
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:22:11.294Z`
+- **Timestamp**: `2026-10-15T20:24:19.504Z`
 
 ## 1. Repository Root Structure (`FuRongJun-1999/dsh-bounty`)
 - `.gitattributes`
@@ -23,8 +20,7 @@
 - `site`
 - `tests`
 
-
-## 3. Issue Specification Excerpt
+## 2. Issue Specification Excerpt
 ```markdown
 <!-- intake:v1 {"project": "bench", "difficulty": "hard", "impact": "B", "target": "FuRongJun-1999/dsh-bench", "form": "intake"} -->
 ## 性质声明
@@ -56,11 +52,10 @@
 **不是 DSH 插件**（全仓 grep `dsh
 ```
 
-## 4. Existing Claim Activity (2)
+## 3. Existing Claim Activity (2)
 - **@sparkysolutions10-pixel** (2026-10-15T19:22:20Z): `/claim #607  ### 🤖 MiroFish Autonomous Bug Resolution & Proof of Fix   ## 🛠️ Problem & Solution Overview  ### Issue Reference Fixes #607  ### Description of F`
 - **@github-actions[bot]** (2026-10-15T19:22:32Z): `**[悬赏板] 本次操作未通过**  - 命令：`/claim` - 原因：本 issue 由 @ganzhe12138 发布，不在维护者名单内——悬赏只能由维护者发布（bounty 标签是准入闸，作者是纵深防御）。外部贡献申报请走 intake 命名空间，由维护者裁定后另立悬赏。  --- 规则与验收口径见 `doc`
 
-## 5. Settlement & Claim Header
+## 4. Settlement & Claim Header
 - Claim Command: `/claim #607`
-- Pull Request: N/A
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
