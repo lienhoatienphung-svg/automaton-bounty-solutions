@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnTxHash](https://github.com/Parabola-org/parabola/issues/14)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
-- **Fork Fix Branch**: Pending fork sync
-- **Pull Request**: Ready on branch fix/issue-14
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Fork Fix Branch**: [fix/issue-14](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-14)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/17](https://github.com/lienhoatienphung-svg/parabola/pull/17)
 - **Inspected Source File**: `src/errors.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T20:20:52.817Z`
+- **Timestamp**: `2026-10-15T20:53:50.615Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -88,10 +88,10 @@ Detect `TransferError` with a non-empty `burnTxHash` in the demo's transfer hand
 - Pre-burn failures keep showing a 
 ```
 
-## 4. Existing Claim Activity (0)
-- Zero competing `/claim` comments detected at inspection time.
+## 4. Existing Claim Activity (1)
+- **@fate-lab** (2026-10-15T20:51:38Z): `Hi! I've completed this issue in #37. All acceptance criteria are covered, and the demo typecheck and build pass. Once it's reviewed and merged, how will the $7`
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #14`
-- Pull Request: N/A
+- Pull Request: https://github.com/lienhoatienphung-svg/parabola/pull/17
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
