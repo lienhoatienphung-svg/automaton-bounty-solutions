@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T12:28:45.896Z",
-  "latencyMs": 762,
+  "executedAt": "2026-10-16T12:33:53.793Z",
+  "latencyMs": 1082,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #185: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #186: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "EGGU is an independent Solana community token paired directly with PENGU.\n🥚 EGGU → 🐧 PENGU\nThrough StonkFun’s built-in reward system, eligible EGGU holders ca",
+      "url": "https://dexscreener.com/solana/49vznzqvkcsgajj8k9xrezdztlrdv5rzn9yythg53czn"
+    },
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0x50d26490F7915983beDBA927361Fb0142EFA1214",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Trade memes, keep real stocks. The swap on Robinhood Chain that pays you back in stock tokens.",
+      "url": "https://dexscreener.com/robinhood/0x50d26490f7915983bedba927361fb0142efa1214"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "PdtREY9H6Fp9jVMpG36aywtCgxTtsQZetmehKqgyern",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Create tokens that automatically earn creator fees from 1–10% of all volume and share them with your holders. Available on all chains.",
       "url": "https://dexscreener.com/solana/eywrmxbb5dxppws5una6repsedodsachbjeixu9krevs"
-    },
-    {
-      "chainId": "ethereum",
-      "tokenAddress": "0xA5D0F84a8693e5B4E63840aEf43274513643025E",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "Build circuits. Solve logic puzzles. Follow the signal. An Ethereum circuit lab. Free to build and practice.",
-      "url": "https://dexscreener.com/ethereum/0xa5d0f84a8693e5b4e63840aef43274513643025e"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "5rB2Z8xPrUGX75mL8Q7BZLjdKFtzaJYHhtPKMazSpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Walk a loop.\nOwn the land.\nEarn $GRAB.",
-      "url": "https://dexscreener.com/solana/5rb2z8xprugx75ml8q7bzljdkftzajyhhtpkmazspump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Enable fuel tank containers and native original iron/cobalt melting recipes",
-      "url": "https://github.com/totevr31-ux/TinkersConstruct/pull/62",
-      "createdAt": "2026-10-16T12:17:23Z"
+      "title": "fix(usdcx): reserve a burn's dry-run fee on Max",
+      "url": "https://github.com/0xMiden/wallet/pull/1494",
+      "createdAt": "2026-10-16T12:33:39Z"
     },
     {
-      "title": "🤝 Agent coordination channel (standing, vol. 2)",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
-      "createdAt": "2026-09-20T06:23:41Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/Replikanti/flowlint-weblinter/pull/265",
+      "createdAt": "2026-03-26T20:39:49Z"
     },
     {
-      "title": "feat(translation_with_judge): add Indic-focused LLM-judge translation…",
-      "url": "https://github.com/NVIDIA-NeMo/Gym/pull/3348",
-      "createdAt": "2026-09-13T20:09:37Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/marc-aurele-besner/mymultisig-app/pull/701",
+      "createdAt": "2026-10-16T01:48:52Z"
     },
     {
-      "title": "feat(contracts): add referral registration cooldown and Sybil resistance guards",
-      "url": "https://github.com/smokeylenz1-commits/stellar-nintendo-crest/issues/16",
-      "createdAt": "2026-10-16T12:27:08Z"
+      "title": "Gasless",
+      "url": "https://github.com/soda-mpc/bubble-app-contracts/pull/9",
+      "createdAt": "2026-10-15T14:00:25Z"
     },
     {
-      "title": "On-policy joint-choice Non-Combat improvement under frozen potion-enabled Search",
-      "url": "https://github.com/lsmfttb/spire-research/issues/60",
-      "createdAt": "2026-10-16T04:02:07Z"
+      "title": "Add bitmap claim bounds tests for examples/airdrop-bitmap",
+      "url": "https://github.com/Soroban-Cookbook/Soroban_Cookbook_online/issues/1134",
+      "createdAt": "2026-10-16T12:32:42Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "Launch Another DoraHacks Bounty Post",
+      "url": "https://github.com/ubiquity/business-development/issues/174",
+      "createdAt": "2025-03-15T13:57:24Z"
     }
   ]
 }
