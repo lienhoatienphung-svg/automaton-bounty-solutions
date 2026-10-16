@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T10:23:12.199Z",
-  "latencyMs": 1830,
+  "executedAt": "2026-10-16T10:25:32.922Z",
+  "latencyMs": 1357,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #148: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #149: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,57 +217,67 @@
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 639,
-      "priceBtc": 3.788693538618623e-7
+      "marketCapRank": 648,
+      "priceBtc": 3.771254810057509e-7
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 101,
-      "priceBtc": 0.000008304542739627689
+      "priceBtc": 0.000008253438351167853
     },
     {
       "name": "Injective",
       "symbol": "INJ",
-      "marketCapRank": 84,
-      "priceBtc": 0.00011272140670249985
+      "marketCapRank": 83,
+      "priceBtc": 0.00011367384304008516
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.389878844266126e-8
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 102,
-      "priceBtc": 0.000022885509214345215
+      "priceBtc": 9.38416164462914e-8
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006411134863666611
+      "priceBtc": 0.00006451644744624053
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.000022711942302319923
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 106,
-      "priceBtc": 9.500930008215192e-7
+      "priceBtc": 9.453542489883207e-7
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 631,
-      "priceBtc": 0.0013602194938873245
+      "name": "Derive",
+      "symbol": "DRV",
+      "marketCapRank": 125,
+      "priceBtc": 0.000004951377460205841
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore: bump NanoBot submodule and refresh command stats",
-      "url": "https://github.com/therealjustsnow/portfolio-/pull/40",
-      "createdAt": "2026-07-15T07:52:16Z"
+      "title": "[ARCHITECTURE][POST-REVIEW] Single-operator login + authenticated Circle USDC balance refresh",
+      "url": "https://github.com/habrahgithub/swd-tameion-assured-payments/issues/65",
+      "createdAt": "2026-10-09T11:52:51Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/StellarViewOrg/stellarview-explorer/pull/85",
+      "createdAt": "2026-10-12T02:12:31Z"
+    },
+    {
+      "title": "Update dependency lucide-react to v1.58.0",
+      "url": "https://github.com/ebcFlagman/ludo-wallet/pull/144",
+      "createdAt": "2026-09-03T23:22:32Z"
     },
     {
       "title": "feat(products): fundtest, a Paseo funding provider the testnet apps bundle",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-14T08:11:56Z"
     },
     {
+      "title": "docs: Teaser §02/§06 still say $FLOP \"can be exchanged for other currencies at any time\" via HTLC and that the network releases it on the ex",
+      "url": "https://github.com/flop-labs/yellowpaper/issues/163",
+      "createdAt": "2026-10-16T07:28:41Z"
+    },
+    {
       "title": "Central message board — Hermes, Claude, Codex and operator coordination",
       "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
       "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "ambiguity: the params file says a distribution period with no credited miner G_n mints no miner leg, but §9 states fixed emission totals and",
-      "url": "https://github.com/flop-labs/yellowpaper/issues/160",
-      "createdAt": "2026-10-16T01:12:13Z"
-    },
-    {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/0x49b/forrest/pull/30",
-      "createdAt": "2026-10-07T05:44:10Z"
-    },
-    {
-      "title": "fix(iota-localnet): serve the fullnode gRPC API at the default address with --with-faucet",
-      "url": "https://github.com/iotaledger/iota/pull/13223",
-      "createdAt": "2026-10-16T07:48:05Z"
     }
   ]
 }
