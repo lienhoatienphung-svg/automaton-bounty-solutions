@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T08:41:26.317Z",
-  "latencyMs": 552,
+  "executedAt": "2026-10-16T08:43:51.204Z",
+  "latencyMs": 333,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #116: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #117: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52675369,
+    "liveBlockNumber": 52675442,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 458994,
-    "baseMainnetTopPoolsVolume24hUsd": 235383,
+    "baseMainnetTopPoolsLiquidityUsd": 458998,
+    "baseMainnetTopPoolsVolume24hUsd": 283990,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x7755B8428732BF5676383267cF8ae181c4E9EA1f",
+        "description": "OneCrypto (ONE) is a BEP-20 token built on BNB Smart Chain, featuring a fixed total supply of 1 ONE with 18 decimal places.\n\nThe OneCrypto ecosystem provides a ",
+        "url": "https://dexscreener.com/bsc/0x7755b8428732bf5676383267cf8ae181c4e9ea1f"
+      },
       {
         "chainId": "near",
         "tokenAddress": "three-de86d6.launchpad.justhoot.near",
@@ -75,12 +81,6 @@
         "tokenAddress": "BULfSqtuj5HQLxQTGDQ2AXZ4x7a7uXLTuK4qGoTGpump",
         "description": "ELON MUSK LITERALLY SENT AN EARTH POKÉMON TO SPACE IN 2019\n\nBack in 2019, Elon sent a little Earth mascot aboard SpaceX's first Crew Dragon mission\n\nNASA astron",
         "url": "https://dexscreener.com/solana/bulfsqtuj5hqlxqtgdq2axz4x7a7uxltuk4qgotgpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8DQzWohFEMWruKUC5G2hEgBcs4bhJ1y7oJuyxZHpump",
-        "description": "🐾 $LULU INU\nCUTE FACE. MISCHIEVOUS SOUL. ONE GROWING PACK.",
-        "url": "https://dexscreener.com/solana/8dqzwohfemwrukuc5g2hegbcs4bhj1y7ojuyxzhpump"
       }
     ]
   },
