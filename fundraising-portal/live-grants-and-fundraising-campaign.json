@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T06:49:51.849Z",
-  "latencyMs": 1216,
+  "executedAt": "2026-10-16T06:49:56.587Z",
+  "latencyMs": 725,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
   "workTitle": "Growth & Sales Sprint #66: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "Prepare Safeharbor private runtimes, caches and cleanup IPC",
-          "url": "https://github.com/Seckcey/8_west_helpdesk/pull/238",
-          "repositoryUrl": "https://api.github.com/repos/Seckcey/8_west_helpdesk",
-          "updatedAt": "2026-10-16T06:49:45Z"
-        },
-        {
-          "title": "docs(readability): Phase 4 re-read lane A batch 1 - record eight full-page re-reads (keeper rows K-082..K-089)",
-          "url": "https://github.com/ModernNomad-98/Project-Aegis/pull/771",
-          "repositoryUrl": "https://api.github.com/repos/ModernNomad-98/Project-Aegis",
-          "updatedAt": "2026-10-16T06:49:45Z"
-        },
-        {
-          "title": "chore(deps): update dependency github:quarylabs/sqruff to v0.41.0",
-          "url": "https://github.com/unkos-dev/reverie/pull/1383",
-          "repositoryUrl": "https://api.github.com/repos/unkos-dev/reverie",
-          "updatedAt": "2026-10-16T06:49:47Z"
-        },
-        {
-          "title": "fix(import): the dry run sees the file's own look-alikes, and refuses a lead's bad email or phone",
-          "url": "https://github.com/margince/margince/pull/7507",
-          "repositoryUrl": "https://api.github.com/repos/margince/margince",
-          "updatedAt": "2026-10-16T06:49:48Z"
-        },
-        {
-          "title": "feat: meter the built-in LLM provider in the agent's gateway",
-          "url": "https://github.com/dam-agents/dam/pull/5187",
-          "repositoryUrl": "https://api.github.com/repos/dam-agents/dam",
-          "updatedAt": "2026-10-16T06:49:43Z"
-        },
-        {
-          "title": "[Bug]: Agent SQLite WAL grows to 1.4–2.8 GB in days despite wal_autocheckpoint=1000; blocks gateway startup (Windows, 2026.9.2/9.3)",
-          "url": "https://github.com/openclaw/openclaw/issues/143524",
-          "repositoryUrl": "https://api.github.com/repos/openclaw/openclaw",
-          "updatedAt": "2026-10-16T06:49:43Z"
-        },
-        {
-          "title": "Security: remove excess browser table privileges",
-          "url": "https://github.com/vexaro241-hub/vexaro-website/pull/23",
-          "repositoryUrl": "https://api.github.com/repos/vexaro241-hub/vexaro-website",
-          "updatedAt": "2026-10-16T06:49:41Z"
-        },
-        {
-          "title": "Planner statistics: per-predicate, per-class, distinct and multi-column counts, including reifier and annotation rows, mergeable across segm",
-          "url": "https://github.com/Blackcat-Informatics/purrdf/issues/484",
-          "repositoryUrl": "https://api.github.com/repos/Blackcat-Informatics/purrdf",
-          "updatedAt": "2026-10-16T06:49:41Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
