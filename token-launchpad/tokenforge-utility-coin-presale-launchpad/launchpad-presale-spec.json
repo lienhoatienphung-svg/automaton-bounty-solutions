@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T05:20:18.270Z",
-  "latencyMs": 245,
+  "executedAt": "2026-10-16T05:25:14.935Z",
+  "latencyMs": 256,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #53: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #54: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52669335,
+    "liveBlockNumber": 52669483,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459008,
-    "baseMainnetTopPoolsVolume24hUsd": 221976,
+    "baseMainnetTopPoolsLiquidityUsd": 459009,
+    "baseMainnetTopPoolsVolume24hUsd": 224061,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xA061012D089D1a3a54a20AdC6C8fc9E4728da76E",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0xa061012d089d1a3a54a20adc6c8fc9e4728da76e"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5php3frsJkx91uTY7fT3rEzsLb2kJw8HZRZoqPtPpump",
@@ -43,7 +49,7 @@
       {
         "chainId": "solana",
         "tokenAddress": "3vMEBLJAAwx7MaHTmT6Sk5ddZfWXwLmVeBWVUpTapump",
-        "description": "Verified Token Profile Launch",
+        "description": "The OG Telsa Roadster paired with TSLA and SPCX",
         "url": "https://dexscreener.com/solana/3vmebljaawx7mahtmt6sk5ddzfwxwlmvebwvuptapump"
       },
       {
@@ -55,7 +61,7 @@
       {
         "chainId": "solana",
         "tokenAddress": "8PxCMUrX7pKMm5mA8q2j5YNdMYF9v9fsKv71kwsmpump",
-        "description": "Verified Token Profile Launch",
+        "description": "20k stars on github.",
         "url": "https://dexscreener.com/solana/8pxcmurx7pkmm5ma8q2j5yndmyf9v9fskv71kwsmpump"
       },
       {
@@ -75,12 +81,6 @@
         "tokenAddress": "2AX8GEVb2P6hVBVPVjjb1eSsRdgWVsnopArAt94tpump",
         "description": "HAHAYES",
         "url": "https://dexscreener.com/solana/2ax8gevb2p6hvbvpvjjb1essrdgwvsnoparat94tpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9Uar7iWDPAFeNggdRM9zxpaaggWHDVcJ8qN4wR1ZY5xR",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9uar7iwdpafenggdrm9zxpaaggwhdvcj8qn4wr1zy5xr"
       }
     ]
   },
