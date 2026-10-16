@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T09:21:50.602Z",
-  "latencyMs": 656,
+  "executedAt": "2026-10-16T09:23:13.108Z",
+  "latencyMs": 787,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #112: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #113: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "Feishu: pass images to the model and save files per session",
+          "url": "https://github.com/glows777/Vela/pull/79",
+          "repositoryUrl": "https://api.github.com/repos/glows777/Vela",
+          "updatedAt": "2026-10-16T09:23:10Z"
+        },
+        {
+          "title": "feat(container): update image ghcr.io/n8n-io/n8n ( 2.39.4 → 2.44.3 )",
+          "url": "https://github.com/Chrtol/home-cluster/pull/1459",
+          "repositoryUrl": "https://api.github.com/repos/Chrtol/home-cluster",
+          "updatedAt": "2026-10-16T09:23:07Z"
+        },
+        {
+          "title": "fix(clinical,teaching,roster): remediate adversarial audit findings across calculators, handover privacy, EPA magic links, QR check-in, and ",
+          "url": "https://github.com/BigSimmo/PsychSift/pull/3574",
+          "repositoryUrl": "https://api.github.com/repos/BigSimmo/PsychSift",
+          "updatedAt": "2026-10-16T09:23:10Z"
+        },
+        {
+          "title": "[Phase 3] Build useRbacRoles Hook for Full Role Mapping",
+          "url": "https://github.com/BCPathway/bc-forge/issues/1187",
+          "repositoryUrl": "https://api.github.com/repos/BCPathway/bc-forge",
+          "updatedAt": "2026-10-16T09:23:05Z"
+        },
+        {
+          "title": "Add business pages, ordered menus, and AI drafts",
+          "url": "https://github.com/havkarapp2026-cpu/havkar-app/pull/65",
+          "repositoryUrl": "https://api.github.com/repos/havkarapp2026-cpu/havkar-app",
+          "updatedAt": "2026-10-16T09:23:04Z"
+        },
+        {
+          "title": "Land the booster on Haven after stage separation",
+          "url": "https://github.com/becktj90/kestrel-heavy/pull/249",
+          "repositoryUrl": "https://api.github.com/repos/becktj90/kestrel-heavy",
+          "updatedAt": "2026-10-16T09:23:04Z"
+        },
+        {
+          "title": "feat(container): update image ghcr.io/paperless-ngx/paperless-ngx ( 3.1.3 → 3.3.2 )",
+          "url": "https://github.com/Chrtol/home-cluster/pull/1499",
+          "repositoryUrl": "https://api.github.com/repos/Chrtol/home-cluster",
+          "updatedAt": "2026-10-16T09:23:04Z"
+        },
+        {
+          "title": "feat(tooling): capture SPEC-041 synthetic acceptance controls",
+          "url": "https://github.com/jayanez/agent-braid/pull/528",
+          "repositoryUrl": "https://api.github.com/repos/jayanez/agent-braid",
+          "updatedAt": "2026-10-16T09:23:03Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
