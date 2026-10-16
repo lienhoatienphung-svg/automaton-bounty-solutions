@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T19:29:07.540Z",
-  "latencyMs": 253,
+  "executedAt": "2026-10-16T19:32:17.537Z",
+  "latencyMs": 407,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #290: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
+  "workTitle": "Delivery Sprint #291: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52694800,
+    "liveBlockNumber": 52694895,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 286901,
+    "baseMainnetTopPoolsVolume24hUsd": 286839,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xC8f0D1076b2135b33b980598D84E2c6584cfc9C4",
+        "description": "The first human companion robot. Built using Deepmind (Google) and Nvidia AI tech.",
+        "url": "https://dexscreener.com/robinhood/0xc8f0d1076b2135b33b980598d84e2c6584cfc9c4"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FSh1geE1CWrYE8LTBuDxHpfCiwsitXqVi5Lo8WkKpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0xC5E3b544548D68968AAF348e3Ac922c5644d5C28",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/robinhood/0xc5e3b544548d68968aaf348e3ac922c5644d5c28"
-      },
-      {
-        "chainId": "pulsechain",
-        "tokenAddress": "0x9e6b4883b08181bB42561546abA07519f65aF337",
-        "description": "🔥 PBURN | The deflationary meme coin that actually burned\n\nMost tokens promise a burn later. PBURN destroyed 17,850,000 of its 21,000,000 supply before trading",
-        "url": "https://dexscreener.com/pulsechain/0x9e6b4883b08181bb42561546aba07519f65af337"
       }
     ]
   },
