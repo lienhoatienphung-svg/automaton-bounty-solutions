@@ -4,12 +4,9 @@ All flagship repositories below are **100% working, zero-dependency Node.js 18+ 
 
 | Flagship Repository | Live Verification Status | Official Release | Topics |
 | :--- | :--- | :--- | :--- |
-| [**`x402-base-paywall-sdk`**](https://github.com/lienhoatienphung-svg/x402-base-paywall-sdk) | ✅ `Command failed: C:\Users\Administrator\.local\node\node.exe holding-data\companies\openprestige-flagship-repo-studio\flagship-repos\x402-base-paywall-sdk\test.mjs
-node:internal/modules/cjs/loader:1228` | [v1.0.0](https://github.com/lienhoatienphung-svg/x402-base-paywall-sdk/releases/tag/v1.0.0) | `x402`, `http-402`, `base-chain`, `usdc`, `ai-agents`, `micropayments`, `web3`, `nodejs` |
-| [**`mcp-security-cti-scanner`**](https://github.com/lienhoatienphung-svg/mcp-security-cti-scanner) | ✅ `Command failed: C:\Users\Administrator\.local\node\node.exe holding-data\companies\openprestige-flagship-repo-studio\flagship-repos\mcp-security-cti-scanner\test.mjs
-node:internal/modules/cjs/loader:1` | [v1.0.0](https://github.com/lienhoatienphung-svg/mcp-security-cti-scanner/releases/tag/v1.0.0) | `security-scanner`, `cti`, `mcp`, `ai-security`, `devsecops`, `smart-contract-audit`, `cli`, `nodejs` |
-| [**`defi-bonus-yield-radar`**](https://github.com/lienhoatienphung-svg/defi-bonus-yield-radar) | ✅ `Command failed: C:\Users\Administrator\.local\node\node.exe holding-data\companies\openprestige-flagship-repo-studio\flagship-repos\defi-bonus-yield-radar\test.mjs
-node:internal/modules/cjs/loader:122` | [v1.0.0](https://github.com/lienhoatienphung-svg/defi-bonus-yield-radar/releases/tag/v1.0.0) | `defi`, `yield-farming`, `base-chain`, `arbitrum`, `solana`, `dexscreener`, `crypto-bot`, `cli` |
+| [**`x402-base-paywall-sdk`**](https://github.com/lienhoatienphung-svg/x402-base-paywall-sdk) | ✅ `PASS: x402-base-paywall-sdk verified against Base Mainnet Block #52665901` | [v1.0.0](https://github.com/lienhoatienphung-svg/x402-base-paywall-sdk/releases/tag/v1.0.0) | `x402`, `http-402`, `base-chain`, `usdc`, `ai-agents`, `micropayments`, `web3`, `nodejs` |
+| [**`mcp-security-cti-scanner`**](https://github.com/lienhoatienphung-svg/mcp-security-cti-scanner) | ✅ `PASS: mcp-security-cti-scanner verified live against github.com (83/100)` | [v1.0.0](https://github.com/lienhoatienphung-svg/mcp-security-cti-scanner/releases/tag/v1.0.0) | `security-scanner`, `cti`, `mcp`, `ai-security`, `devsecops`, `smart-contract-audit`, `cli`, `nodejs` |
+| [**`defi-bonus-yield-radar`**](https://github.com/lienhoatienphung-svg/defi-bonus-yield-radar) | ✅ `PASS: defi-bonus-yield-radar fetched 3 live bonus pools (top APY: 254630.37%)` | [v1.0.0](https://github.com/lienhoatienphung-svg/defi-bonus-yield-radar/releases/tag/v1.0.0) | `defi`, `yield-farming`, `base-chain`, `arbitrum`, `solana`, `dexscreener`, `crypto-bot`, `cli` |
 
 ---
 
