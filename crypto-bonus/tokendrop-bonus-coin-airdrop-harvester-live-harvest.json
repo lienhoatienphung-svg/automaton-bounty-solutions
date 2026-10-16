@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T14:53:18.188Z",
-  "latencyMs": 1109,
+  "executedAt": "2026-10-16T14:55:24.360Z",
+  "latencyMs": 720,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #224: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #225: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,61 +218,66 @@
       "name": "Dacity Coin",
       "symbol": "DACITY",
       "marketCapRank": 773,
-      "priceBtc": 2.9234438711067413e-7
-    },
-    {
-      "name": "astronaut",
-      "symbol": "ASTRO",
-      "marketCapRank": 977,
-      "priceBtc": 1.8253587743981753e-7
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.380263777176744e-8
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00011011995232115784
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 104,
-      "priceBtc": 0.000021710782863470716
+      "priceBtc": 2.850758044130891e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 610,
-      "priceBtc": 0.001437402027859963
+      "priceBtc": 0.0014381397836945784
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
-      "marketCapRank": 98,
-      "priceBtc": 0.000008637804549963903
+      "marketCapRank": 95,
+      "priceBtc": 0.000008716785262308665
     },
     {
-      "name": "streamoors",
-      "symbol": "STREAM",
-      "marketCapRank": 895,
-      "priceBtc": 2.212259354065718e-7
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.000021754564186234815
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00011018476352530606
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.374740783040693e-8
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "marketCapRank": 34,
+      "priceBtc": 0.003493485484957661
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "marketCapRank": 86,
+      "priceBtc": 0.000026410181247997255
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "perf(jit): pin the context and stack pointers to registers",
-      "url": "https://github.com/alloy-rs/evm2/pull/626",
-      "createdAt": "2026-10-15T22:07:57Z"
+      "title": "fix(web-client): hold the store lock for every chain MMR writer",
+      "url": "https://github.com/0xMiden/web-sdk/pull/482",
+      "createdAt": "2026-10-16T13:02:21Z"
     },
     {
-      "title": "perf(jit): cheaper fall-through sections",
-      "url": "https://github.com/alloy-rs/evm2/pull/636",
-      "createdAt": "2026-10-15T23:51:24Z"
+      "title": "Roadmap: Black Anvil network rollout",
+      "url": "https://github.com/LegendofKEK/bichael/issues/341",
+      "createdAt": "2026-10-16T02:23:31Z"
+    },
+    {
+      "title": "perf(jit): inline 64-bit DIV, SDIV, MOD and SMOD",
+      "url": "https://github.com/alloy-rs/evm2/pull/608",
+      "createdAt": "2026-10-15T00:13:56Z"
     },
     {
       "title": "perf(jit): switch dynamic jumps on a dense index",
@@ -280,19 +285,14 @@
       "createdAt": "2026-10-15T00:19:06Z"
     },
     {
-      "title": "Worker onboarding tutorial/sandbox mode with guided first-question practice",
-      "url": "https://github.com/Arbiter-xyz/arbiter-backend/issues/83",
-      "createdAt": "2026-09-21T10:58:25Z"
-    },
-    {
       "title": "perf(jit): skip memory checks already ensured",
       "url": "https://github.com/alloy-rs/evm2/pull/631",
       "createdAt": "2026-10-15T23:39:06Z"
     },
     {
-      "title": "perf(jit): inline 64-bit DIV, SDIV, MOD and SMOD",
-      "url": "https://github.com/alloy-rs/evm2/pull/608",
-      "createdAt": "2026-10-15T00:13:56Z"
+      "title": "[fleet-health] devnet fleet is unhealthy",
+      "url": "https://github.com/toon-protocol/connector/issues/1502",
+      "createdAt": "2026-10-15T15:16:39Z"
     }
   ]
 }
