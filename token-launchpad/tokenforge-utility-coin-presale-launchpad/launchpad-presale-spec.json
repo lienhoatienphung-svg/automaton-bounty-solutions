@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T11:03:34.866Z",
-  "latencyMs": 546,
+  "executedAt": "2026-10-16T11:08:26.942Z",
+  "latencyMs": 344,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #157: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #158: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52679633,
+    "liveBlockNumber": 52679779,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459003,
-    "baseMainnetTopPoolsVolume24hUsd": 312512,
+    "baseMainnetTopPoolsVolume24hUsd": 315344,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5rB2Z8xPrUGX75mL8Q7BZLjdKFtzaJYHhtPKMazSpump",
+        "description": "Walk a loop.\nOwn the land.\nEarn $GRAB.",
+        "url": "https://dexscreener.com/solana/5rb2z8xprugx75ml8q7bzljdkftzajyhhtpkmazspump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x19DAE9A0c7E67FD92C57e7c5612d3E98b9677777",
+        "description": "Flying Tesla Stock.",
+        "url": "https://dexscreener.com/bsc/0x19dae9a0c7e67fd92c57e7c5612d3e98b9677777"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4673spr9Zth4E3ZtZ493RTvqhdD8hW9o6pWjCd5Spump",
@@ -69,18 +81,6 @@
         "tokenAddress": "AaLefSSGaKvQ4dwzj2z72SH1V6bXBQJMzumaGMRnpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/aalefssgakvq4dwzj2z72sh1v6bxbqjmzumagmrnpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3kJrh7qS2kGNQGJki1196j9GBp8uEgqNx1iTUfsjpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3kjrh7qs2kgnqgjki1196j9gbp8uegqnx1itufsjpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6We2unR6HXgEdHFvb4d29XUr77sZzXk8paQaZxU9pump",
-        "description": "UpSide Down Cat",
-        "url": "https://dexscreener.com/solana/6we2unr6hxgedhfvb4d29xur77szzxk8paqazxu9pump"
       }
     ]
   },
