@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T08:40:44.625Z",
-  "latencyMs": 1226,
+  "executedAt": "2026-10-16T08:41:03.591Z",
+  "latencyMs": 877,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Growth & Sales Sprint #116: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -263,5 +263,36 @@
       "priceBtc": 0.00002250898685481119
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "perf(dist): build shipped binaries with fat LTO + codegen-units=1 (smaller binary, ~2.5 MiB less RSS)",
+      "url": "https://github.com/faucet-hq/faucet-stream/issues/911",
+      "createdAt": "2026-10-16T08:40:46Z"
+    },
+    {
+      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
+      "createdAt": "2026-10-06T11:40:04Z"
+    },
+    {
+      "title": "Update benchmark figures to the October 2026 re-run",
+      "url": "https://github.com/faucet-hq/faucet-hq.github.io/issues/80",
+      "createdAt": "2026-10-16T08:40:25Z"
+    },
+    {
+      "title": "docs(bench): refresh published benchmark figures (Oct 2026 re-run) and pin Meltano in the harness",
+      "url": "https://github.com/faucet-hq/faucet-stream/issues/910",
+      "createdAt": "2026-10-16T08:40:08Z"
+    },
+    {
+      "title": "chore(main): release spark-dashboard 0.16.0",
+      "url": "https://github.com/niklasfrick/spark-dashboard/pull/146",
+      "createdAt": "2026-10-15T13:52:59Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/tomito26/soft-solutions/pull/47",
+      "createdAt": "2026-07-13T19:54:19Z"
+    }
+  ]
 }
