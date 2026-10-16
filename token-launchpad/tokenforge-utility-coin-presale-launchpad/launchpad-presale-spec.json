@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T23:13:21.020Z",
-  "latencyMs": 642,
+  "executedAt": "2026-10-16T23:15:24.084Z",
+  "latencyMs": 446,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #336: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #337: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52701526,
+    "liveBlockNumber": 52701588,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 289367,
+    "baseMainnetTopPoolsVolume24hUsd": 289315,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "EcM5omn7pV2qk2TrW4McQ7voWBV8sYR8JpjSoTw9pump",
+        "description": "Maya The Samoyed - $MAYA Born in Germany. Raised by Lingli Ye. Destined to farm memes across every timeline.",
+        "url": "https://dexscreener.com/solana/ecm5omn7pv2qk2trw4mcq7vowbv8syr8jpjsotw9pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "AkLSvCawfqToAUTo4qSpSjPQcWXZXXa8CDJaWyCjpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x27f715f132140d0d73a603f22f757278bec7acf5",
         "description": "AI settlers with their own wallets trade, post, launch coins and compete on Robinhood Chain, 24/7. Nobody waits for Earth.",
         "url": "https://dexscreener.com/robinhood/0x27f715f132140d0d73a603f22f757278bec7acf5"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "C1rW6ETo5GiwW5YYL6es9pCwwo6M5B4WUaoh2HE7pump",
-        "description": "Anime AI waifu on Solana. Cute, clever, and built for meme energy, futuristic vibes, and nonstop community fun. $WAIFU",
-        "url": "https://dexscreener.com/solana/c1rw6eto5giww5yyl6es9pcwwo6m5b4wuaoh2he7pump"
       }
     ]
   },
