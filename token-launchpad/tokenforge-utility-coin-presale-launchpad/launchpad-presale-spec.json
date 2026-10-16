@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T11:08:26.942Z",
-  "latencyMs": 344,
+  "executedAt": "2026-10-16T11:09:00.708Z",
+  "latencyMs": 368,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #158: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #159: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52679779,
+    "liveBlockNumber": 52679796,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459003,
-    "baseMainnetTopPoolsVolume24hUsd": 315344,
+    "baseMainnetTopPoolsVolume24hUsd": 316831,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2ZXs9k7xt8pF7MuhvBxKZQd2cQeVERxiRfz7e2YCpump",
+        "description": "Everybody thought I was paying DEX but actually I just sent a 300$ transaction to a company that lets me place a banner and update links and add a description t",
+        "url": "https://dexscreener.com/solana/2zxs9k7xt8pf7muhvbxkzqd2cqeverxirfz7e2ycpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5rB2Z8xPrUGX75mL8Q7BZLjdKFtzaJYHhtPKMazSpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "Aq8Jdz2m4VdaWqC7EFJ1bsS1wZfUy9su3WNJWBdzpump",
         "description": "Ira, a 20-year-old female orangutan, is going viral after surviving the wildfires in Central Kalimantan, Indonesia.\n\nSending 100% of the creator fees to Orangut",
         "url": "https://dexscreener.com/solana/aq8jdz2m4vdawqc7efj1bss1wzfuy9su3wnjwbdzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AaLefSSGaKvQ4dwzj2z72SH1V6bXBQJMzumaGMRnpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/aalefssgakvq4dwzj2z72sh1v6bxbqjmzumagmrnpump"
       }
     ]
   },
