@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T21:23:56.105Z",
-  "latencyMs": 1593,
+  "executedAt": "2026-10-16T21:30:16.559Z",
+  "latencyMs": 802,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #319: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #320: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 724,
-      "priceBtc": 3.220099642744e-7
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000012441358355792272
+      "marketCapRank": 700,
+      "priceBtc": 3.3556257154644004e-7
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.01394200703477495
+      "priceBtc": 0.013959607042261686
     },
     {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 105,
-      "priceBtc": 0.00002092445384515795
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 616,
-      "priceBtc": 0.0014174205323494757
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000012477236693119129
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010432672141044705
+      "priceBtc": 0.0001052526792647508
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.197721496383021e-8
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 617,
+      "priceBtc": 0.0014157800359453521
     },
     {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 109,
-      "priceBtc": 8.899198327042007e-7
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 106,
+      "priceBtc": 0.000021020011028164935
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.0000612935783199269
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.000081244531852
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Refactor GRPO sync examples",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/59514",
+      "createdAt": "2026-10-06T16:43:19Z"
+    },
+    {
+      "title": "Tests for escrow/status/auth/faucet/profile, typecheck in CI, subtle trust UX",
+      "url": "https://github.com/tote-hq/solana/pull/29",
+      "createdAt": "2026-10-16T21:29:17Z"
+    },
     {
       "title": "[Sampling] Add `SGLANG_RENORM_DETERMINISTIC` for bit-identical top-p / top-k renorm",
       "url": "https://github.com/sgl-project/sglang/pull/38565",
       "createdAt": "2026-09-08T21:08:36Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "Agent section, round 2: theme icon, for-ai additions, testnet x402 rail (off)",
+      "url": "https://github.com/fromknowware/knowware-now/pull/22",
+      "createdAt": "2026-10-16T18:03:12Z"
+    },
+    {
+      "title": "fix(xrpl): settle only on the testnet",
+      "url": "https://github.com/justmoon/dassie/pull/85",
+      "createdAt": "2026-10-16T20:37:47Z"
     },
     {
       "title": "chore(main): release 1.16.0",
       "url": "https://github.com/lifekit-hq/finance-sentry/pull/1122",
       "createdAt": "2026-10-15T22:02:31Z"
-    },
-    {
-      "title": "Gas low on the agent-run accounts",
-      "url": "https://github.com/edxzh/agent-wallet/issues/1",
-      "createdAt": "2026-10-14T05:07:14Z"
-    },
-    {
-      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
-      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
-      "createdAt": "2026-10-09T07:30:01Z"
-    },
-    {
-      "title": "Add unilateral exit, ArkadeCash, and offline LNURL receive demos",
-      "url": "https://github.com/arkade-os/demos/pull/14",
-      "createdAt": "2026-10-16T18:57:04Z"
     }
   ]
 }
