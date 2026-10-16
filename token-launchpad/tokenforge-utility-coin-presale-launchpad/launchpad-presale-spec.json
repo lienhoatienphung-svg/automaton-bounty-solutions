@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T08:16:42.475Z",
-  "latencyMs": 560,
+  "executedAt": "2026-10-16T08:19:32.333Z",
+  "latencyMs": 270,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #110: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
+  "workTitle": "Delivery Sprint #111: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52674627,
+    "liveBlockNumber": 52674712,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458995,
-    "baseMainnetTopPoolsVolume24hUsd": 242408,
+    "baseMainnetTopPoolsVolume24hUsd": 242339,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/acajna5megjmklq4e8cvepgkm88rqtsxwyqfbvupump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BULfSqtuj5HQLxQTGDQ2AXZ4x7a7uXLTuK4qGoTGpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "4tf5GEXU1dt7Vfj21oCu4P96ZEKEm3zMYqpzZsoCDeer",
         "description": "The Kafkaesque Deer",
         "url": "https://dexscreener.com/solana/4tf5gexu1dt7vfj21ocu4p96zekem3zmyqpzzsocdeer"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "D2obxUYEgBZcJTjGJGH8M9eVMvG6FXCmE2Y3V46rpump",
-        "description": "The Everything Project already has 46 tools you can try in your browser, plus a few games, all MIT-licensed:\n\n→ Office: Excel, Word, PowerPoint, Acrobat, Notion",
-        "url": "https://dexscreener.com/solana/d2obxuyegbzcjtjgjgh8m9evmvg6fxcme2y3v46rpump"
       }
     ]
   },
