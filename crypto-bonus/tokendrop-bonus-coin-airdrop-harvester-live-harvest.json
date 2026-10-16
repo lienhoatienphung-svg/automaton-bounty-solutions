@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T12:46:09.931Z",
-  "latencyMs": 403,
+  "executedAt": "2026-10-16T12:47:45.893Z",
+  "latencyMs": 865,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #190: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
+  "workTitle": "Delivery Sprint #191: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,5 +263,36 @@
       "priceBtc": 1.9612599028434672e-7
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/marc-aurele-besner/mymultisig-app/pull/701",
+      "createdAt": "2026-10-16T01:48:52Z"
+    },
+    {
+      "title": "fix(send): localize the pending onchain warning, plus three drive-bys",
+      "url": "https://github.com/arkade-os/wallet/pull/1077",
+      "createdAt": "2026-10-16T12:45:28Z"
+    },
+    {
+      "title": "Add a holder registry map that tracks all wallet addresses that have ever held a creator key",
+      "url": "https://github.com/accesslayerorg/accesslayer-contracts/issues/831",
+      "createdAt": "2026-08-30T20:03:02Z"
+    },
+    {
+      "title": "DPO: expose LD-DPO length desensitization as dpo_ld_alpha; drop the stale liger loss-type guard",
+      "url": "https://github.com/axolotl-ai-cloud/axolotl/pull/4165",
+      "createdAt": "2026-10-16T12:43:23Z"
+    },
+    {
+      "title": "Strip an agent's narration from its re-sent history",
+      "url": "https://github.com/agencyenterprise/GlossoGen/pull/235",
+      "createdAt": "2026-10-16T12:37:34Z"
+    },
+    {
+      "title": "Branded sharing: no image share on web, public posts only (QA-61, QA-62)",
+      "url": "https://github.com/AryAiX/AceAiX/pull/39",
+      "createdAt": "2026-10-16T12:44:39Z"
+    }
+  ]
 }
