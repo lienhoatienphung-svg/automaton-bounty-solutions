@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T05:24:57.004Z",
-  "latencyMs": 930,
+  "executedAt": "2026-10-16T05:25:13.429Z",
+  "latencyMs": 784,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Growth & Sales Sprint #54: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -217,53 +217,58 @@
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 760,
-      "priceBtc": 2.995732833224309e-7
+      "marketCapRank": 754,
+      "priceBtc": 2.994342304702598e-7
     },
     {
       "name": "IGNITION",
       "symbol": "IGNITION",
-      "marketCapRank": 863,
-      "priceBtc": 2.418737429983055e-7
+      "marketCapRank": 833,
+      "priceBtc": 2.4270653124209885e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 83,
-      "priceBtc": 0.0001124858772725231
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 101,
-      "priceBtc": 0.00002262774193664539
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 84,
-      "priceBtc": 0.000011178805786749412
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00006351479635814439
+      "priceBtc": 0.00011236432323780802
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 636,
-      "priceBtc": 0.0013507016637671046
+      "priceBtc": 0.0013514996985347367
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009865752999616147
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 101,
+      "priceBtc": 0.000022720836872950203
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 84,
+      "priceBtc": 0.000011181882971667165
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00006359451057807692
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 103,
+      "priceBtc": 0.0000010217280585051847
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/43",
+      "createdAt": "2026-10-16T02:40:42Z"
+    },
     {
       "title": "deps Update lucide to v1.57.0",
       "url": "https://github.com/weishaodaren/agentkit/pull/56",
@@ -288,11 +293,6 @@
       "title": "perf(jit): dedup discovered jump edges in O(1)",
       "url": "https://github.com/alloy-rs/evm2/pull/658",
       "createdAt": "2026-10-16T03:07:05Z"
-    },
-    {
-      "title": "👛feat(escrow): wallet readiness check before a guest creates an escrow (XLM, USDC trustline, balance, registered wallet)",
-      "url": "https://github.com/safetrustcr/dApp-SafeTrust/issues/507",
-      "createdAt": "2026-10-16T04:43:25Z"
     }
   ]
 }
