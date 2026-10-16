@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T07:35:09.730Z",
-  "latencyMs": 891,
+  "executedAt": "2026-10-16T07:35:14.632Z",
+  "latencyMs": 1285,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
   "workTitle": "Delivery Sprint #81: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
+          "title": "feat(kata-guest): guest root starts a container's Docker engine, so its pod spec needs no rights",
+          "url": "https://github.com/AlexanderMattTurner/agent-glovebox/pull/8652",
+          "repositoryUrl": "https://api.github.com/repos/AlexanderMattTurner/agent-glovebox",
+          "updatedAt": "2026-10-16T07:35:11Z"
+        },
+        {
+          "title": "enhance: extend async loading for indexes and JSON stats",
+          "url": "https://github.com/milvus-io/milvus/pull/54253",
+          "repositoryUrl": "https://api.github.com/repos/milvus-io/milvus",
+          "updatedAt": "2026-10-16T07:35:09Z"
+        },
+        {
+          "title": "Production-safe LINE automations test UI",
+          "url": "https://github.com/pig85083189-lab/the-enjoye-website/pull/49",
+          "repositoryUrl": "https://api.github.com/repos/pig85083189-lab/the-enjoye-website",
+          "updatedAt": "2026-10-16T07:35:08Z"
+        },
+        {
+          "title": "feat(idempotency): fence remaining worker enqueue path",
+          "url": "https://github.com/Rick1330/ibex-harness/pull/991",
+          "repositoryUrl": "https://api.github.com/repos/Rick1330/ibex-harness",
+          "updatedAt": "2026-10-16T07:35:07Z"
+        },
+        {
+          "title": "feat(cli): add multi-turn SQL and AI agent mode",
+          "url": "https://github.com/databendlabs/bendsql/pull/808",
+          "repositoryUrl": "https://api.github.com/repos/databendlabs/bendsql",
+          "updatedAt": "2026-10-16T07:35:07Z"
+        },
+        {
+          "title": "Release (pending tag)",
+          "url": "https://github.com/meggarmind/RESIDIO/pull/678",
+          "repositoryUrl": "https://api.github.com/repos/meggarmind/RESIDIO",
+          "updatedAt": "2026-10-16T07:35:07Z"
+        },
+        {
           "title": "feat: ladder v1 plan mechanics (flagged off)",
           "url": "https://github.com/BasedHardware/omi/pull/21488",
           "repositoryUrl": "https://api.github.com/repos/BasedHardware/omi",
           "updatedAt": "2026-10-16T07:35:07Z"
         },
         {
-          "title": "feat!: data folders are Epicenter's data model",
-          "url": "https://github.com/EpicenterHQ/epicenter/pull/2529",
-          "repositoryUrl": "https://api.github.com/repos/EpicenterHQ/epicenter",
-          "updatedAt": "2026-10-16T07:35:05Z"
-        },
-        {
           "title": "feat(ai09): stage PR review receipts and correction handoffs (workflow activation pending)",
           "url": "https://github.com/haji84/AI-/pull/1799",
           "repositoryUrl": "https://api.github.com/repos/haji84/AI-",
-          "updatedAt": "2026-10-16T07:35:05Z"
-        },
-        {
-          "title": "Hooks: a backslash-newline continuation splits the command across lines (`git push origin \\<LF>main`)",
-          "url": "https://github.com/msummer/trail-blazer-flow/issues/556",
-          "repositoryUrl": "https://api.github.com/repos/msummer/trail-blazer-flow",
-          "updatedAt": "2026-10-16T07:35:03Z"
-        },
-        {
-          "title": "Create fundraising campaigns for endangered forest ecosystems",
-          "url": "https://github.com/Farm-credit/stellar-app-os/issues/1690",
-          "repositoryUrl": "https://api.github.com/repos/Farm-credit/stellar-app-os",
-          "updatedAt": "2026-10-16T07:35:02Z"
-        },
-        {
-          "title": "fix(cli): fence named-session admission before drained stop",
-          "url": "https://github.com/dharma-ai-labs/dharma-agent-fabric/pull/324",
-          "repositoryUrl": "https://api.github.com/repos/dharma-ai-labs/dharma-agent-fabric",
-          "updatedAt": "2026-10-16T07:35:01Z"
-        },
-        {
-          "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-          "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-          "repositoryUrl": "https://api.github.com/repos/MoeAZack/ZackBot2",
-          "updatedAt": "2026-10-16T07:35:01Z"
-        },
-        {
-          "title": "Harden long-running agent context compaction: research, fidelity, recovery, and native integration",
-          "url": "https://github.com/mario-andreschak/FLUJO/issues/1091",
-          "repositoryUrl": "https://api.github.com/repos/mario-andreschak/FLUJO",
-          "updatedAt": "2026-10-16T07:35:00Z"
+          "updatedAt": "2026-10-16T07:35:07Z"
         }
       ]
     },
@@ -77,7 +77,7 @@
       "liveInvestorAndCrowdfundingSignals": []
     }
   },
-  "publishedFundingYmlUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/.github/FUNDING.yml",
+  "publishedFundingYmlUrl": null,
   "publishedPortalUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/fundraising-portal/SUPPORT_AND_INVEST_PORTAL.md",
   "publishedVaultContractUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/fundraising-portal/SovereignCrowdfundingAndPatronVault.sol"
 }
