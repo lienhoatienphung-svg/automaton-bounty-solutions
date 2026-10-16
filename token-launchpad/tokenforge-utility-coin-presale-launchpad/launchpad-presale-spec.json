@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T05:45:03.399Z",
-  "latencyMs": 509,
+  "executedAt": "2026-10-16T05:49:03.191Z",
+  "latencyMs": 348,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #61: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #62: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52670078,
+    "liveBlockNumber": 52670197,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459012,
-    "baseMainnetTopPoolsVolume24hUsd": 229844,
+    "baseMainnetTopPoolsVolume24hUsd": 230737,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4BsfttrYqyGneG6C5MxA7Rq3XDuv5ajGFjdRjjd6T4kf",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4bsfttryqygneg6c5mxa7rq3xduv5ajgfjdrjjd6t4kf"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "edWxH37cPRotq8NqN3TAmSE2VdLZ9bPwpMLoNEmpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "3vMEBLJAAwx7MaHTmT6Sk5ddZfWXwLmVeBWVUpTapump",
         "description": "The OG Telsa Roadster paired with TSLA and SPCX",
         "url": "https://dexscreener.com/solana/3vmebljaawx7mahtmt6sk5ddzfwxwlmvebwvuptapump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
-        "description": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by th",
-        "url": "https://dexscreener.com/solana/enambdkvymxytcsdy8g32e2xy61q4tpyt3reh47qlygk"
       }
     ]
   },
