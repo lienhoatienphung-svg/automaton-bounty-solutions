@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T13:37:46.959Z",
-  "latencyMs": 1328,
+  "executedAt": "2026-10-16T13:44:26.593Z",
+  "latencyMs": 799,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #205: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #206: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "ArYLaFKo78Q6rkJbiZNgCRovS3eL1WSmYzvWYgz4pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/arylafko78q6rkjbizngcrovs3el1wsmyzvwygz4pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "8xDiE7TYxmmS3ZTeR8y7L6xSrG5WTGTnrDUvSkQ2pump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "Wolverinu is a meme coin on Robinhood Chain, launched through the public Pons bonding curve.\n\nThe Inu with six blades under the jaw: a woven carbon plate under ",
       "url": "https://dexscreener.com/robinhood/0x945626601703d126877c33a3d0def244c833550d"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "meme + coin = moin.\n\nmemecoins were never about the 'tek' or a new useless launchpad, they were about memes!\n\nthe thesis is simple.\n\nhold something as stupid as",
-      "url": "https://dexscreener.com/solana/8dxqvuopcdvilvujtcpweqkkzb43arp6e1axzsee5btq"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "CHATGPT HANDOFF FREEZE v68 — R839 REAL resource NO-GO / Capture P0 / PROD HOLD — 2026-10-09 JST",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/765",
-      "createdAt": "2026-10-06T05:27:29Z"
+      "title": "Feature/karthik ai rewards",
+      "url": "https://github.com/nanjundachitra100-del/FocusLock/pull/1",
+      "createdAt": "2026-10-16T13:43:36Z"
     },
     {
-      "title": "Showcase fixes: Aldous talk, text gaps, Low Wardle promises, toll gate, store door",
-      "url": "https://github.com/lorecrafting/lokacore/pull/408",
-      "createdAt": "2026-10-16T13:18:30Z"
+      "title": "Qwen3.5 to 3.8 dense support (9B first)",
+      "url": "https://github.com/tpurtell/cuteafd/issues/276",
+      "createdAt": "2026-10-15T06:49:05Z"
     },
     {
-      "title": "feat(web-client): support non-fungible assets in `MidenClient` API",
-      "url": "https://github.com/0xMiden/web-sdk/pull/474",
-      "createdAt": "2026-10-14T15:52:43Z"
+      "title": "build(deps): update production dependencies (major)",
+      "url": "https://github.com/neuland-ingolstadt/neuland-website/pull/66",
+      "createdAt": "2026-08-23T20:12:13Z"
     },
     {
-      "title": "docs: shorten README and refresh book screenshots",
-      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/315",
-      "createdAt": "2026-10-14T20:11:18Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
-      "createdAt": "2026-10-12T04:03:25Z"
+      "title": "Roadmap: Black Anvil network rollout",
+      "url": "https://github.com/LegendofKEK/bichael/issues/341",
+      "createdAt": "2026-10-16T02:23:31Z"
     },
     {
-      "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
-      "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
-      "createdAt": "2026-10-16T09:56:24Z"
+      "title": "[Bugfix][Watermarking] Skip incomplete opening contexts",
+      "url": "https://github.com/vllm-project/vllm/pull/61194",
+      "createdAt": "2026-10-12T10:35:03Z"
     }
   ]
 }
