@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T11:34:15.841Z",
-  "latencyMs": 1399,
+  "executedAt": "2026-10-16T11:37:58.770Z",
+  "latencyMs": 1045,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #168: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #169: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,22 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with",
+      "url": "https://dexscreener.com/solana/3yncesdqhsgvsd4aarhc4rdqxpjyw9cwjosh82hnpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "EyWrMXBb5DXppWs5uNa6repSEDoDSachbjeixU9KREVS",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Create tokens that automatically earn creator fees from 1–10% of all volume and share them with your holders. Available on all chains.",
+      "url": "https://dexscreener.com/solana/eywrmxbb5dxppws5una6repsedodsachbjeixu9krevs"
+    },
+    {
       "chainId": "ethereum",
       "tokenAddress": "0xA5D0F84a8693e5B4E63840aEf43274513643025E",
       "boostAmount": 50,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 30,
       "description": "$PUMPKINCAT, Following the cat meta, but with a pumpkin twist. \n\nThe perfect mix of cat culture and pumpkin season.",
       "url": "https://dexscreener.com/solana/gnzzaabhtnysrebrrz2qgfmgru6n8wdz4w3gjxgqeqsm"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "Launch an AI streamer with its own token. Let it talk to viewers in real time.",
-      "url": "https://dexscreener.com/solana/diy4q5ainecdn7cwhuwytuohthd9rkbthca9hi4qpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xEF67e3064bEf1a27e81925eC7132f23E533bd5f6",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Hold Greatest Meme Ever and get rewarded with $GME stock.",
-      "url": "https://dexscreener.com/robinhood/0xef67e3064bef1a27e81925ec7132f23e533bd5f6"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00011041589383001598
-    },
-    {
-      "name": "streamoors",
-      "symbol": "STREAM",
-      "marketCapRank": 643,
-      "priceBtc": 3.793759991638466e-7
+      "priceBtc": 0.00011054367274952115
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
-      "marketCapRank": 99,
-      "priceBtc": 0.000008389879833682817
+      "marketCapRank": 98,
+      "priceBtc": 0.000008397879386786984
+    },
+    {
+      "name": "streamoors",
+      "symbol": "STREAM",
+      "marketCapRank": 624,
+      "priceBtc": 3.971561457945416e-7
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.364166478144256e-8
+      "priceBtc": 9.401273361077225e-8
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.00002249207802993918
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.0015911707190437
+      "priceBtc": 0.000022418559994544193
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012762025434917121
+      "priceBtc": 0.00001274143104578929
     },
     {
-      "name": "Pyth Network",
-      "symbol": "PYTH",
-      "marketCapRank": 95,
-      "priceBtc": 0.0000011124177993034902
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9982561226889071
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006424604727106138
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(deps): update dependency lucide-react to ^1.56.0",
-      "url": "https://github.com/KenCir/hakaseken.dev/pull/88",
-      "createdAt": "2026-09-14T14:11:02Z"
-    },
-    {
-      "title": "# Spike 672 — Timed drops with countdown plus server-authoritative anti-bot queue lobby",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/535",
-      "createdAt": "2026-10-15T11:11:31Z"
-    },
-    {
       "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/DianaTheCoderess/dianas-portfolio/pull/41",
-      "createdAt": "2026-05-02T19:49:56Z"
+      "url": "https://github.com/BoomchainLabs/walletgpt-ai/pull/34",
+      "createdAt": "2026-09-08T19:12:54Z"
     },
     {
-      "title": "Add EMMA processing and Craft Launch/Update Claim controls",
-      "url": "https://github.com/6529-Collections/6529seize-frontend/pull/4207",
-      "createdAt": "2026-10-09T09:31:42Z"
+      "title": "feat: add contract_info() to return all state in one call",
+      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/pull/237",
+      "createdAt": "2026-10-16T11:37:48Z"
     },
     {
-      "title": "merkle-airdrop template: admin can sweep while claims are still open",
-      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/533",
-      "createdAt": "2026-10-15T21:48:32Z"
+      "title": "chore(deps): update dependency lucide-react to v1.58.0",
+      "url": "https://github.com/agirmar92/refaleikarnir/pull/548",
+      "createdAt": "2026-06-12T20:03:56Z"
     },
     {
-      "title": "# Spike 674 — Collaborative drops with automatic N-way revenue splits at settle",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/537",
-      "createdAt": "2026-10-15T11:12:33Z"
+      "title": "feat(server): add interval and mempool-triggered mining modes",
+      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/312",
+      "createdAt": "2026-10-14T16:27:43Z"
+    },
+    {
+      "title": "Base Sepolia delist steps for gMOCK and SwapRouter02",
+      "url": "https://github.com/SAW72/STRANDED/pull/47",
+      "createdAt": "2026-10-13T20:36:44Z"
+    },
+    {
+      "title": "Collection coins, P2P signal tipping, creator endowments, slashable l…",
+      "url": "https://github.com/PHASE-STELLAR/Phase/pull/566",
+      "createdAt": "2026-10-16T11:36:36Z"
     }
   ]
 }
