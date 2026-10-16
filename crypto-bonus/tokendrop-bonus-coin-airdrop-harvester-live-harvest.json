@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T14:03:04.665Z",
-  "latencyMs": 911,
+  "executedAt": "2026-10-16T14:07:35.428Z",
+  "latencyMs": 907,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #211: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #212: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,62 +217,57 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 805,
-      "priceBtc": 2.68004518554191e-7
+      "marketCapRank": 799,
+      "priceBtc": 2.705283372054852e-7
     },
     {
       "name": "astronaut",
       "symbol": "ASTRO",
-      "marketCapRank": 875,
-      "priceBtc": 2.313160834142635e-7
+      "marketCapRank": 915,
+      "priceBtc": 2.1270445541341683e-7
     },
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 869,
-      "priceBtc": 2.3829163593396513e-7
+      "marketCapRank": 855,
+      "priceBtc": 2.3630427874933879e-7
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
-      "marketCapRank": 97,
-      "priceBtc": 0.00000865122647539136
+      "marketCapRank": 98,
+      "priceBtc": 0.000008608077510314161
     },
     {
       "name": "Injective",
       "symbol": "INJ",
-      "marketCapRank": 84,
-      "priceBtc": 0.00011148825752261498
+      "marketCapRank": 85,
+      "priceBtc": 0.00011092680752932413
     },
     {
       "name": "NeoSoul",
       "symbol": "DNA",
-      "marketCapRank": 577,
-      "priceBtc": 0.000003497863145768654
+      "marketCapRank": 571,
+      "priceBtc": 0.0000034530566915230684
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.000022081568518907357
+      "priceBtc": 0.00002203891472632205
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 612,
-      "priceBtc": 0.001445423192345863
+      "marketCapRank": 611,
+      "priceBtc": 0.0014444656835009171
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore(deps): update all non-major dependencies",
-      "url": "https://github.com/marimo-team/marimo-glance/pull/22",
-      "createdAt": "2026-07-22T23:36:44Z"
-    },
-    {
-      "title": "fix(send): localize the pending onchain warning, plus three drive-bys",
-      "url": "https://github.com/arkade-os/wallet/pull/1077",
-      "createdAt": "2026-10-16T12:45:28Z"
+      "title": "fix(clmm): report each reward mint's real token program in RPC pool info",
+      "url": "https://github.com/raydium-io/raydium-sdk-V2/pull/214",
+      "createdAt": "2026-10-16T14:07:19Z"
     },
     {
       "title": "Collection coins, P2P signal tipping, creator endowments, slashable l…",
@@ -280,19 +275,24 @@
       "createdAt": "2026-10-16T11:36:36Z"
     },
     {
-      "title": "test: develop end-to-end integration test covering complete lifecycle: bet -> submit -> challenge -> council -> finalize -> claim",
-      "url": "https://github.com/smokeylenz1-commits/stellar-nintendo-crest/issues/125",
-      "createdAt": "2026-10-16T12:31:16Z"
+      "title": "feat(staking): BUILD 1 — HeroSingleSidedStaking (HERO→HERO, DAO vote source)",
+      "url": "https://github.com/jratdish1/hero-dapp/pull/119",
+      "createdAt": "2026-09-27T22:49:15Z"
     },
     {
-      "title": "Retrieval health — weekly tracker",
-      "url": "https://github.com/Stellar-Light/stellarlight/issues/436",
-      "createdAt": "2026-07-10T00:05:01Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
-      "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
-      "createdAt": "2026-10-16T09:56:24Z"
+      "title": "Moonwater Product Polish Pass 4: interaction and animation refinement",
+      "url": "https://github.com/Ulziitugsa/hero-battler-prototype/pull/26",
+      "createdAt": "2026-10-16T14:05:57Z"
+    },
+    {
+      "title": "📦 Pending promotion: dev → main",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
+      "createdAt": "2026-06-29T11:18:37Z"
     }
   ]
 }
