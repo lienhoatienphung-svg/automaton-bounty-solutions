@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T12:36:09.168Z",
-  "latencyMs": 1608,
+  "executedAt": "2026-10-16T12:40:08.289Z",
+  "latencyMs": 886,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #187: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #188: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "bsc",
+      "tokenAddress": "0x7D0443CdDFc8E11AF105F4fE44Dd28c630237777",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "i got that dawg in me",
+      "url": "https://dexscreener.com/bsc/0x7d0443cddfc8e11af105f4fe44dd28c630237777"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with",
       "url": "https://dexscreener.com/solana/3yncesdqhsgvsd4aarhc4rdqxpjyw9cwjosh82hnpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "EyWrMXBb5DXppWs5uNa6repSEDoDSachbjeixU9KREVS",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Create tokens that automatically earn creator fees from 1–10% of all volume and share them with your holders. Available on all chains.",
-      "url": "https://dexscreener.com/solana/eywrmxbb5dxppws5una6repsedodsachbjeixu9krevs"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/marc-aurele-besner/mymultisig-app/pull/701",
-      "createdAt": "2026-10-16T01:48:52Z"
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/44",
+      "createdAt": "2026-10-16T11:35:32Z"
     },
     {
-      "title": "feat(contracts): implement DAO ragequit, NFT royalties, Merkle distributor, and VRF consumer",
-      "url": "https://github.com/StellarDevHub/Web3-Student-Lab/pull/1697",
-      "createdAt": "2026-10-16T12:34:48Z"
-    },
-    {
-      "title": "Enable fuel tank containers and native original iron/cobalt melting recipes",
+      "title": "Restore native Smeltery item input, metal melting and transactional alloying",
       "url": "https://github.com/totevr31-ux/TinkersConstruct/pull/62",
       "createdAt": "2026-10-16T12:17:23Z"
-    },
-    {
-      "title": "Gasless",
-      "url": "https://github.com/soda-mpc/bubble-app-contracts/pull/9",
-      "createdAt": "2026-10-15T14:00:25Z"
-    },
-    {
-      "title": "fix(usdcx): reserve a burn's dry-run fee on Max",
-      "url": "https://github.com/0xMiden/wallet/pull/1494",
-      "createdAt": "2026-10-16T12:33:39Z"
     },
     {
       "title": "fix(deps): update dependency lucide-react to v1",
       "url": "https://github.com/Replikanti/flowlint-weblinter/pull/265",
       "createdAt": "2026-03-26T20:39:49Z"
+    },
+    {
+      "title": "Strip an agent's narration from its re-sent history",
+      "url": "https://github.com/agencyenterprise/GlossoGen/pull/235",
+      "createdAt": "2026-10-16T12:37:34Z"
+    },
+    {
+      "title": "Native share sheet and offline QR summary for the report",
+      "url": "https://github.com/MidZai/aman_check/issues/4",
+      "createdAt": "2026-10-16T12:37:34Z"
+    },
+    {
+      "title": "test: add integration tests for full payment lifecycle on Stellar testnet",
+      "url": "https://github.com/MetroLogic/fluxapay_contract/issues/1054",
+      "createdAt": "2026-10-15T20:06:56Z"
     }
   ]
 }
