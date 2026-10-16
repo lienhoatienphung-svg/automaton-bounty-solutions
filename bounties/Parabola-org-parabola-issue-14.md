@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnTxHash](https://github.com/Parabola-org/parabola/issues/14)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
+- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
 - **Fork Fix Branch**: [fix/issue-14](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-14)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/17](https://github.com/lienhoatienphung-svg/parabola/pull/17)
 - **Inspected Source File**: `src/errors.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:08:59.775Z`
+- **Timestamp**: `2026-10-16T00:34:08.476Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -88,12 +88,13 @@ Detect `TransferError` with a non-empty `burnTxHash` in the demo's transfer hand
 - Pre-burn failures keep showing a 
 ```
 
-## 4. Existing Claim Activity (5)
+## 4. Existing Claim Activity (6)
 - **@fate-lab** (2026-10-15T20:51:38Z): `Hi! I've completed this issue in #37. All acceptance criteria are covered, and the demo typecheck and build pass. Once it's reviewed and merged, how will the $7`
 - **@Ollie520** (2026-10-15T20:54:46Z): `# Solution for [github/Parabola-org_parabola_14]: [Parabola-org/parabola] [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnT`
 - **@Ollie520** (2026-10-15T20:55:11Z): `# Solution for [github/Parabola-org_parabola_14]: [Parabola-org/parabola] [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnT`
 - **@Ollie520** (2026-10-15T20:55:18Z): `# Solution for [github/Parabola-org_parabola_14]: [Parabola-org/parabola] [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnT`
 - **@Ollie520** (2026-10-15T20:55:23Z): `# Solution for [github/Parabola-org_parabola_14]: [Parabola-org/parabola] [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnT`
+- **@yggdrasilworld** (2026-10-16T00:26:56Z): `/claim #14  Settlement wallet (Base USDC): `0xfBa20992174e777eaBbdd7D10755699B84d030Fd``
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #14`
