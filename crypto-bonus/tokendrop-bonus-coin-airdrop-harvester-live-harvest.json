@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T18:17:09.434Z",
-  "latencyMs": 1378,
+  "executedAt": "2026-10-16T18:18:11.133Z",
+  "latencyMs": 356,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Growth & Sales Sprint #276: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "578PTPfHYjzgNdEeb5dN2vGQ3As4gkmD7s6qkcp8pump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "INULABS is a community-driven crypto project built around strong branding, entertainment, and long-term community growth. The project was developed with a compl",
+      "url": "https://dexscreener.com/solana/578ptpfhyjzgndeeb5dn2vgq3as4gkmd7s6qkcp8pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "AiCc1V168H2yjfCUHXoGDhhkpc2sYuy9WNjJvdGpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "The Roadster that flew, reborn as a cat. Four wheels, nine lives, zero gravity. $FTC on Solana.",
       "url": "https://dexscreener.com/solana/2aqkywra1szrpvz5nottuvs3csgtxjeysc9qry9wpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "6jijW4Ne924kqj8XYLKXFrhpeHy5y2qxoKgGzJHQpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Meet Pluto, an AI system that can see your screen, control your PC, write code, browse the web, and execute real tasks through voice commands.\n\nPowered by intel",
-      "url": "https://dexscreener.com/solana/6jijw4ne924kqj8xylkxfrhpehy5y2qxokggzjhqpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -263,36 +263,5 @@
       "priceBtc": 0.000008452422470018795
     }
   ],
-  "activeAirdropAndFaucetQuests": [
-    {
-      "title": "TransactionType is missing 26 transaction types the mirror node accepts",
-      "url": "https://github.com/hiero-hackers/hiero-enterprise-js/issues/332",
-      "createdAt": "2026-10-16T18:16:32Z"
-    },
-    {
-      "title": "Assembling sometimes panics with \"invalid source span: starting byte is out of bounds\" (wrong procedure name, missing imports)",
-      "url": "https://github.com/0xMiden/miden-vm/issues/2778",
-      "createdAt": "2026-03-05T03:12:36Z"
-    },
-    {
-      "title": "Wrong masm file shown on certain kinds of errors (missing import, possibly other)",
-      "url": "https://github.com/0xMiden/miden-vm/issues/2762",
-      "createdAt": "2026-03-02T18:05:13Z"
-    },
-    {
-      "title": "Hero 535B RL readiness: correctness and performance on H100 and GB200",
-      "url": "https://github.com/marin-community/MarinSkyRL/issues/737",
-      "createdAt": "2026-09-23T02:21:21Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "fix(evals): keep registered-agent MCP secret templates literal through Gym's config loader",
-      "url": "https://github.com/NVIDIA-NeMo/nemo-helix/pull/3008",
-      "createdAt": "2026-10-15T20:05:20Z"
-    }
-  ]
+  "activeAirdropAndFaucetQuests": []
 }
