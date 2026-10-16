@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T18:31:54.063Z",
-  "latencyMs": 854,
+  "executedAt": "2026-10-16T18:37:56.587Z",
+  "latencyMs": 506,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #277: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #278: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52693083,
+    "liveBlockNumber": 52693264,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 288686,
+    "baseMainnetTopPoolsVolume24hUsd": 289248,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2gMueg9hHaqxHLubCgDFXjJ6ayhgmXWPLuoPwvNPbonk",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2gmueg9hhaqxhlubcgdfxjj6ayhgmxwpluopwvnpbonk"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x630d533376bb1419a5269c04a19d42d007958d54",
+        "description": "AI compute, by the dose. Stakers mint inference credits, builders buy them onchain in USDG. Open models, one key.",
+        "url": "https://dexscreener.com/robinhood/0x630d533376bb1419a5269c04a19d42d007958d54"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6Gr4rb71eeGPwR6RbhiaRv2TtLbJJRD7bpT43KLspump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6gr4rb71eegpwr6rbhiarv2ttlbjjrd7bpt43klspump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FcQNnWnjJuyfm4P5wHjG5bCtPQ3tDVS2F9jzYxahpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "CtWZimmGrhssJqSz6KFkDtB6qSKUCJzw3ZuMgXLdpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/ctwzimmgrhssjqsz6kfkdtb6qskucjzw3zumgxldpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7REcw3TiApTbkGiVBZt4rxdoa8UsZgqTFXXPVhwVpump",
-        "description": "Fucking Tesla Roadster ($FTR) pairs chrome swagger with pink mischief, taking meme culture for a wild ride with zero chill and no brakes.",
-        "url": "https://dexscreener.com/solana/7recw3tiaptbkgivbzt4rxdoa8uszgqtfxxpvhwvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "578PTPfHYjzgNdEeb5dN2vGQ3As4gkmD7s6qkcp8pump",
-        "description": "INULABS is a community-driven crypto project built around strong branding, entertainment, and long-term community growth. The project was developed with a compl",
-        "url": "https://dexscreener.com/solana/578ptpfhyjzgndeeb5dn2vgq3as4gkmd7s6qkcp8pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3Zjog1txsMMKBU22PmfEazskmpMR5qnJh5CodLhCpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3zjog1txsmmkbu22pmfeazskmpmr5qnjh5codlhcpump"
       }
     ]
   },
