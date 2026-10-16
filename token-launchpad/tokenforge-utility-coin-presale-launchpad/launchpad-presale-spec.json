@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T08:43:51.204Z",
-  "latencyMs": 333,
+  "executedAt": "2026-10-16T08:49:08.302Z",
+  "latencyMs": 436,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #117: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #118: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52675442,
+    "liveBlockNumber": 52675600,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 458998,
-    "baseMainnetTopPoolsVolume24hUsd": 283990,
+    "baseMainnetTopPoolsLiquidityUsd": 459006,
+    "baseMainnetTopPoolsVolume24hUsd": 316268,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GjkMsvYmuFR37SyKnJoD8DwccLb3HKMQBnNe5Nqbpump",
+        "description": "GOAT11",
+        "url": "https://dexscreener.com/solana/gjkmsvymufr37syknjod8dwcclb3hkmqbnne5nqbpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x5aBCaa98e19c0BAB678C458F229191Bd16b87a32",
+        "description": "The genesis collection of Surf. 6,666 SurfBoards marking the beginning of the Surf ecosystem — built at the intersection of AI, crypto, and stocks.",
+        "url": "https://dexscreener.com/robinhood/0x5abcaa98e19c0bab678c458f229191bd16b87a32"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0x7755B8428732BF5676383267cF8ae181c4E9EA1f",
@@ -69,18 +81,6 @@
         "tokenAddress": "AgeZ7y4L6KhxXCVyvyrgFvmCPfaNWKbXbmd3hRRKpump",
         "description": "The whole world is going crazy over the new Flying Tesla Roadster, but there's a show everyone is comparing it to, even Elon himself.\n\nIn Knight Rider, the car ",
         "url": "https://dexscreener.com/solana/agez7y4l6khxxcvyvyrgfvmcpfanwkbxbmd3hrrkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "acajNA5meGJMkLq4E8cVepGkm88RqTSxWyqFBvUpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/acajna5megjmklq4e8cvepgkm88rqtsxwyqfbvupump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BULfSqtuj5HQLxQTGDQ2AXZ4x7a7uXLTuK4qGoTGpump",
-        "description": "ELON MUSK LITERALLY SENT AN EARTH POKÉMON TO SPACE IN 2019\n\nBack in 2019, Elon sent a little Earth mascot aboard SpaceX's first Crew Dragon mission\n\nNASA astron",
-        "url": "https://dexscreener.com/solana/bulfsqtuj5hqlxqtgdq2axz4x7a7uxltuk4qgotgpump"
       }
     ]
   },
