@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T10:44:21.970Z",
-  "latencyMs": 764,
+  "executedAt": "2026-10-16T10:46:24.186Z",
+  "latencyMs": 757,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #154: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #155: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,72 +217,57 @@
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 630,
-      "priceBtc": 3.9348037139363513e-7
+      "marketCapRank": 628,
+      "priceBtc": 4.011644601850667e-7
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 101,
-      "priceBtc": 0.000008254061769496703
+      "priceBtc": 0.000008283915761849818
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 83,
-      "priceBtc": 0.00011381183985599219
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006453094641634129
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 102,
-      "priceBtc": 0.00002279487505526488
+      "priceBtc": 0.00011298911041620293
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.406097302447363e-8
+      "priceBtc": 9.41164431653113e-8
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006461243802804364
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 102,
+      "priceBtc": 0.000022756733094267847
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
-      "marketCapRank": 106,
-      "priceBtc": 9.429605705866424e-7
+      "marketCapRank": 107,
+      "priceBtc": 9.366497448268591e-7
     },
     {
       "name": "Derive",
       "symbol": "DRV",
       "marketCapRank": 125,
-      "priceBtc": 0.000005040043888333584
+      "priceBtc": 0.000005151543544650283
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Align public points docs with the no-value wording",
-      "url": "https://github.com/SAW72/STRANDED/pull/45",
-      "createdAt": "2026-10-13T19:40:58Z"
-    },
-    {
-      "title": "test(functional): cover community token mint, airdrop, and burn",
-      "url": "https://github.com/status-im/status-go/pull/7942",
-      "createdAt": "2026-10-15T09:09:13Z"
-    },
-    {
-      "title": "Chore: Update dependency lucide-react to v1.58.0",
-      "url": "https://github.com/RetroDadson/PS2-Challenge-Website/pull/164",
-      "createdAt": "2026-09-03T02:08:10Z"
-    },
-    {
       "title": "chore(deps): update dependency lucide-react to v1.58.0",
-      "url": "https://github.com/voku/TextCleaner/pull/75",
-      "createdAt": "2026-05-15T12:38:38Z"
+      "url": "https://github.com/jefferson-calmon/next-starter/pull/30",
+      "createdAt": "2025-04-21T10:13:58Z"
     },
     {
       "title": "On-policy joint-choice Non-Combat improvement under frozen potion-enabled Search",
@@ -290,9 +275,24 @@
       "createdAt": "2026-10-16T04:02:07Z"
     },
     {
-      "title": "Update dependency lucide-react to v1.58.0",
-      "url": "https://github.com/Mo3he/ESPForge/pull/12",
-      "createdAt": "2026-09-21T13:38:15Z"
+      "title": "README, .env.example and config/tokens.json point at a different testnet deployment from the one documented in SO4-Markets/contracts",
+      "url": "https://github.com/SO4-Markets/so4-oracle/issues/1234",
+      "createdAt": "2026-10-14T06:46:31Z"
+    },
+    {
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/JaimeTR/Envialo/pull/10",
+      "createdAt": "2026-09-04T06:00:49Z"
+    },
+    {
+      "title": "fix(cli): wait for environments that are still starting",
+      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/277",
+      "createdAt": "2026-10-14T09:21:24Z"
+    },
+    {
+      "title": "Add contract test for admin query before and after initialize",
+      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/137",
+      "createdAt": "2026-09-18T18:07:06Z"
     }
   ]
 }
