@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T12:11:49.847Z",
-  "latencyMs": 550,
+  "executedAt": "2026-10-16T12:15:05.698Z",
+  "latencyMs": 348,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #177: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #178: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52681681,
+    "liveBlockNumber": 52681779,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459003,
-    "baseMainnetTopPoolsVolume24hUsd": 325401,
+    "baseMainnetTopPoolsVolume24hUsd": 325351,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0xBAa01d6Bd2FfE0606941B09Dfa5bcDa6BE7e7777",
+        "description": "i got that cawt in me",
+        "url": "https://dexscreener.com/bsc/0xbaa01d6bd2ffe0606941b09dfa5bcda6be7e7777"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FZzC66XwJ4F8GP75Yd7Dpd9XtFDZXt7WRuFa2qvgpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x3906D09b5A81f2300398f40cf65278791E137F8E",
         "description": "Want to invest but afraid of missing the timing? Start trading anytime, anywhere!",
         "url": "https://dexscreener.com/bsc/0x3906d09b5a81f2300398f40cf65278791e137f8e"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x24b74a5577609314e2a17e11f17844b348b364ac",
-        "description": "$DOGEN is the token of DoriliusGen, an evidence-linked investigation terminal for Robinhood Chain. Monitoring, tracing and evidence-backed analysis: every value",
-        "url": "https://dexscreener.com/robinhood/0x24b74a5577609314e2a17e11f17844b348b364ac"
       }
     ]
   },
