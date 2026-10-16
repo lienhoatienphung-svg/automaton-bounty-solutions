@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T14:26:45.727Z",
-  "latencyMs": 251,
+  "executedAt": "2026-10-16T14:32:31.040Z",
+  "latencyMs": 313,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #215: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #216: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52685729,
+    "liveBlockNumber": 52685901,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459004,
-    "baseMainnetTopPoolsVolume24hUsd": 287152,
+    "baseMainnetTopPoolsLiquidityUsd": 459003,
+    "baseMainnetTopPoolsVolume24hUsd": 288860,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4tTDUt2kiFD5RzAn6Ds3QxgV4SMANpX739xDgN9apump",
+        "description": "OBSIG seals a declaration before the coin exists. Name, ticker, supply, dev buy, what it is for, the declaring wallet and the instant it was signed: hashed once",
+        "url": "https://dexscreener.com/solana/4ttdut2kifd5rzan6ds3qxgv4smanpx739xdgn9apump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CvBhkvw5H9hVurVq1BUvkiF6QZofc4ZU4i1a1UF6PaGs",
@@ -75,12 +81,6 @@
         "tokenAddress": "2CHXByWDhVQvYVvwAhvce6RedatHEaxoJLNi9TJdpump",
         "description": "SPACEX LITERALLY SENT A TEDDY BEAR INTO SPACE TWICE AND IT HAS AN OFFICIAL NAME\n\nBack in 2023, Axiom Space partnered with Build-A-Bear  to create a bear named G",
         "url": "https://dexscreener.com/solana/2chxbywdhvqvyvvwahvce6redatheaxojlni9tjdpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x351e3ee4d6a0eeb1986826cc2f673373516b9b80",
-        "description": "Launch autonomous agents that trade, rebalance portfolios, and never sleep — all verifiable onchain.",
-        "url": "https://dexscreener.com/robinhood/0x351e3ee4d6a0eeb1986826cc2f673373516b9b80"
       }
     ]
   },
