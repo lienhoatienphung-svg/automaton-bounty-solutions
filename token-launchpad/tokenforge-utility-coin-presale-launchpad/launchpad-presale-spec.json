@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T11:34:31.498Z",
-  "latencyMs": 670,
+  "executedAt": "2026-10-16T11:38:00.457Z",
+  "latencyMs": 242,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #166: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #167: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52680562,
+    "liveBlockNumber": 52680666,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459003,
-    "baseMainnetTopPoolsVolume24hUsd": 326261,
+    "baseMainnetTopPoolsVolume24hUsd": 324587,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "near",
+        "tokenAddress": "arson.nearlytrade.near",
+        "description": "\"And it made me think of arsoncoin, a joke coin whose mining involves burning down a structure, and mentioning during the court proceedings the hash of the prev",
+        "url": "https://dexscreener.com/near/arson.nearlytrade.near"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
+        "description": "Barron 1$ coin",
+        "url": "https://dexscreener.com/solana/5qjzeb3bubaxqfyg1nqwxgguwybzyagvfezqo31dpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BMRjts1YYzGuQSygo3R3gepv5jhgWMrYcU5tAjX3rSoL",
@@ -69,18 +81,6 @@
         "tokenAddress": "0xA5D0F84a8693e5B4E63840aEf43274513643025E",
         "description": "Build circuits. Solve logic puzzles. Follow the signal. An Ethereum circuit lab. Free to build and practice.",
         "url": "https://dexscreener.com/ethereum/0xa5d0f84a8693e5b4e63840aef43274513643025e"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
-        "description": "The World's Oil Supply Exchange For The Digital Age",
-        "url": "https://dexscreener.com/solana/woseeboezubbqxutaa642kfhj1xp3kxw9gsiusgwqtu"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9sv13ToY5M3Y1RHAz7bgHtMWskCjWQhEk6ZECHERpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9sv13toy5m3y1rhaz7bghtmwskcjwqhek6zecherpump"
       }
     ]
   },
