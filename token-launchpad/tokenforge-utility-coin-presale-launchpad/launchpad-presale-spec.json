@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T11:49:07.123Z",
-  "latencyMs": 549,
+  "executedAt": "2026-10-16T11:51:43.087Z",
+  "latencyMs": 262,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #170: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
+  "workTitle": "Delivery Sprint #171: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52680999,
+    "liveBlockNumber": 52681077,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 327203,
+    "baseMainnetTopPoolsVolume24hUsd": 329694,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x24b74a5577609314e2a17e11f17844b348b364ac",
+        "description": "$DOGEN is the token of DoriliusGen, an evidence-linked investigation terminal for Robinhood Chain. Monitoring, tracing and evidence-backed analysis: every value",
+        "url": "https://dexscreener.com/robinhood/0x24b74a5577609314e2a17e11f17844b348b364ac"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "63UjR7d4xfCDjBqAwS2fJWaZPz7JfN32WtbzSAX3pump",
+        "description": "I'VE JUST FOUND SOME SUPER DEEP SPACEX LORE,\n\nA dog mascot named 'Caramel' was saw floating inside SpaceX's Crew Dragon \"Endeavour\"\n\nShortly after the spacecraf",
+        "url": "https://dexscreener.com/solana/63ujr7d4xfcdjbqaws2fjwazpz7jfn32wtbzsax3pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HtqVqejZuh9BqGPTWdggf9mUtyRzydtVcxHRCq3Vpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "7M9evHfYRrJuAqCrjoW7tHrX67Yw34NB7Meu2SoMpump",
         "description": "Your childhood dream came true, \n@elonmusk\n. 🚀\nYou grew up watching KITT defy gravity.\nNow the world is watching you do the same.\nFrom the screen to the sky.\n$",
         "url": "https://dexscreener.com/solana/7m9evhfyrrjuaqcrjow7thrx67yw34nb7meu2sompump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BPVUcKX5ASPNsAFnBqByBHkfVc9ysQj7ZmSsFAmapump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bpvuckx5aspnsafnbqbybhkfvc9ysqj7zmssfamapump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3eZfHskJcxHnuyu3t2izbJNgFNRiXxJ6ddT5JgmYpump",
-        "description": "United States of Acceleration ($us/acc), named after @beffjezos's e/acc post. Creator fees route to Beff via UsePaid, claimable by him. Not affiliated or endors",
-        "url": "https://dexscreener.com/solana/3ezfhskjcxhnuyu3t2izbjngfnrixxj6ddt5jgmypump"
       }
     ]
   },
