@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T09:26:53.170Z",
-  "latencyMs": 248,
+  "executedAt": "2026-10-16T09:33:43.735Z",
+  "latencyMs": 262,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #131: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #132: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52676732,
+    "liveBlockNumber": 52676938,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 313636,
+    "baseMainnetTopPoolsVolume24hUsd": 313098,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x9A7C661Be578e50927268fb770146D701b3368e7",
+        "description": "INVARA Core is building infrastructure for synthetic equities on Robinhood Chain, connecting traditional market intelligence with on-chain execution.",
+        "url": "https://dexscreener.com/robinhood/0x9a7c661be578e50927268fb770146d701b3368e7"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "AMwx7UAiSuvME8Ktjz8XWqPf45gGUr6FjmZeeg5spump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/amwx7uaisuvme8ktjz8xwqpf45ggur6fjmzeeg5spump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6VdcMnBTCj4tJVwtNdJZNzWeYmxzMnygVSzcfY35pump",
@@ -69,18 +81,6 @@
         "tokenAddress": "AnWDdzzYXXCMrYbn2cuaUy9DjvtxA9PVnNYYd6v9pump",
         "description": "Everyone thought I was paying DEX but actually I just sent a 300$ transaction to a company that lets me place a banner and update links and add a description to",
         "url": "https://dexscreener.com/solana/anwddzzyxxcmrybn2cuauy9djvtxa9pvnnyyd6v9pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xb1F6543524678002acdba03E7B0B84cf93F2CF27",
-        "description": "So in fact we actually can get robots, flying cars, superintelligence, fast internet on planes, space travel, space colonies, orbital data centers, unlimited en",
-        "url": "https://dexscreener.com/robinhood/0xb1f6543524678002acdba03e7b0b84cf93f2cf27"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DFPXxy17iwsnzmQd4oa5bQjdoEbi5ZJYmFVtBpkLpump",
-        "description": "Most memes live on timelines. STARMAN lives in orbit.",
-        "url": "https://dexscreener.com/solana/dfpxxy17iwsnzmqd4oa5bqjdoebi5zjymfvtbpklpump"
       }
     ]
   },
