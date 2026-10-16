@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T16:53:14.476Z",
-  "latencyMs": 376,
+  "executedAt": "2026-10-16T16:55:51.048Z",
+  "latencyMs": 516,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #254: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #255: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52690123,
+    "liveBlockNumber": 52690201,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 290326,
+    "baseMainnetTopPoolsVolume24hUsd": 290333,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Gkwf1JC2xeQfUrZGZQPQn3hg7VfCSBm175sVy18gpump",
+        "description": "Farting Teslar Roadster ($FTR) blasts through Solana on green gas, wild memes, and zero brakes. Buckle up for the galaxy's loudest ride.",
+        "url": "https://dexscreener.com/solana/gkwf1jc2xeqfurzgzqpqn3hg7vfcsbm175svy18gpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HbYb2coR8yHxKXvV37qgBFwsWSQefbKGUA5ERQU6Hgh6",
+        "description": "Mille is a 1000x perps exchange on Solana. Every trade is priced at the mid of Backpack's perp order book and settled against an LP that starts at $0 and grows ",
+        "url": "https://dexscreener.com/solana/hbyb2cor8yhxkxvv37qgbfwswsqefbkgua5erqu6hgh6"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "AwsMhpdytsDvdMjqiBC3ct4Ksyt8ehynPhnGTePqpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x1c989ebbaa21cccb5d9434f30508d558419d8089",
         "description": "BEZOS is backed by Amazon founder Jeff Bezos’s real world collectibles, starting with his 2026 Grail Genesis card. The token is released on Robinhood and paired",
         "url": "https://dexscreener.com/robinhood/0x1c989ebbaa21cccb5d9434f30508d558419d8089"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "xpobox1HU5SKAr2RFxnT4t5SrF8WowmWnbWauCrpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/xpobox1hu5skar2rfxnt4t5srf8wowmwnbwaucrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "D8SUHXSb6ru2CmJxRAFD1P5pztSbCG6fqV9oKY5pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/d8suhxsb6ru2cmjxrafd1p5pztsbcg6fqv9oky5pump"
       }
     ]
   },
