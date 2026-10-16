@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-16T15:59:50.767Z",
-  "latencyMs": 608,
+  "executedAt": "2026-10-16T16:00:43.410Z",
+  "latencyMs": 644,
   "companyName": "ShadowShield CTI Deep Web Exposure & Base Protocol Security Auditor",
-  "workTitle": "Growth & Sales Sprint #672: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
-  "targetUrl": "https://polymarket.com/event/ukraine-election-called-in-2025",
+  "workTitle": "Delivery Sprint #673: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "targetUrl": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00013,
+        "priceUsd": 1.00014,
         "liquidityUsd": 21385,
-        "volume24hUsd": 100142,
+        "volume24hUsd": 100242,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -120,9 +120,9 @@
         "dexId": "pancakeswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00017,
+        "priceUsd": 1.00018,
         "liquidityUsd": 14836,
-        "volume24hUsd": 362,
+        "volume24hUsd": 379,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       }
     ]
@@ -130,6 +130,36 @@
   "multiIndustryB2BContracts": {
     "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Allego",
+        "roleOrTask": "Account Manager Mid Market",
+        "industryTags": [
+          "exec",
+          "saas",
+          "customer support",
+          "marketing",
+          "ops"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Wrapbook",
+        "roleOrTask": "Senior Software Engineer II Applied AI",
+        "industryTags": [
+          "dev",
+          "design",
+          "amazon",
+          "sys admin",
+          "backend"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "RemoteOK-InstantB2B",
         "company": "Manila Recruitment",
@@ -173,32 +203,6 @@
         ],
         "compensation": "$500-$2,500 Instant Retainer",
         "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Akicita Federal, LLC",
-        "roleOrTask": "Contracts Manager Federal",
-        "industryTags": [
-          "exec",
-          "medical",
-          "recruiter"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-contracts-manager-federal-akicita-federal-llc-1137522",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Akicita Federal, LLC",
-        "roleOrTask": "Federal Account Manager Client Relationships",
-        "industryTags": [
-          "exec",
-          "golang",
-          "recruiter"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521",
         "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
       },
       {
