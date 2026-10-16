@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T14:32:31.040Z",
-  "latencyMs": 313,
+  "executedAt": "2026-10-16T14:35:10.690Z",
+  "latencyMs": 339,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #216: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #217: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52685901,
+    "liveBlockNumber": 52685981,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459003,
-    "baseMainnetTopPoolsVolume24hUsd": 288860,
+    "baseMainnetTopPoolsVolume24hUsd": 288281,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2MiyHzMVsPPdZN7XtwTCHQgLVdGM35T4TiNqXmzHBGCZ",
+        "description": "LONG THE SHLONG",
+        "url": "https://dexscreener.com/solana/2miyhzmvsppdzn7xtwtchqglvdgm35t4tinqxmzhbgcz"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Bn1tkzL4rxmx23oKHTDbPFHeYxQjBDN9txynK4ffpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bn1tkzl4rxmx23okhtdbpfheyxqjbdn9txynk4ffpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "81nVRN4bwcNEMeMLnHYxrpd8jMZcTGcCVCTXEszPpump",
+        "description": "A Zcash-inspired stealth game where privacy is your weapon, zebras are your score, and ZEC is your reward",
+        "url": "https://dexscreener.com/solana/81nvrn4bwcnememlnhyxrpd8jmzctgccvctxeszppump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4tTDUt2kiFD5RzAn6Ds3QxgV4SMANpX739xDgN9apump",
@@ -63,24 +81,6 @@
         "tokenAddress": "C93crDKjUpgRAF9Nedwg3D1xsgnGHP394ohoQvyRpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/c93crdkjupgraf9nedwg3d1xsgnghp394ohoqvyrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "52uJRUvbSDkWeDJizzHQJpSefwWxHGkf2CH9XiRQpump",
-        "description": "Musk 1$ Coin ($MUSK1) 🚀\n\nIn Musk We Trust! 🪙\n\nOne dollar. One legend. One mission: MARS. 🔴\n\nInspired by Elon Musk, powered by memes, fueled by the community.",
-        "url": "https://dexscreener.com/solana/52ujruvbsdkwedjizzhqjpsefwwxhgkf2ch9xirqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9quJv2nu9RQupHyLmfnVAWWZ2y7neBJqitoA2xHvpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9qujv2nu9rquphylmfnvawwz2y7nebjqitoa2xhvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2CHXByWDhVQvYVvwAhvce6RedatHEaxoJLNi9TJdpump",
-        "description": "SPACEX LITERALLY SENT A TEDDY BEAR INTO SPACE TWICE AND IT HAS AN OFFICIAL NAME\n\nBack in 2023, Axiom Space partnered with Build-A-Bear  to create a bear named G",
-        "url": "https://dexscreener.com/solana/2chxbywdhvqvyvvwahvce6redatheaxojlni9tjdpump"
       }
     ]
   },
