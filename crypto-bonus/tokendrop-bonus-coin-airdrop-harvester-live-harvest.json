@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T16:02:22.676Z",
-  "latencyMs": 706,
+  "executedAt": "2026-10-16T16:07:12.530Z",
+  "latencyMs": 3362,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #243: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #244: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "9g4Pib6AM3oVdP9YA7ZcssAXAuhoUzkjR8w27doYpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Token for Pepper The Racccoon, redirecting fees to his Owner",
+      "url": "https://dexscreener.com/solana/9g4pib6am3ovdp9ya7zcssaxauhouzkjr8w27doypump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "5e8GPzhqxLKFVU6gb87aJLZMoSQnbjBhQupXvCCZpump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Yilong Ma , Elon's Chinese alter ego, OG.",
       "url": "https://dexscreener.com/solana/9ymtnjqftvlzmra2g5v1xxv7lns8nnddacr2hw8kghpm"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "BpFU7v4YLxkbwiweqesZYgrNP3favTfgXEPGDzV3pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/bpfu7v4ylxkbwiweqeszygrnp3favtfgxepgdzv3pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,51 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 754,
-      "priceBtc": 2.973105071176704e-7
-    },
-    {
-      "name": "astronaut",
-      "symbol": "ASTRO",
-      "marketCapRank": 992,
-      "priceBtc": 1.8216959394223704e-7
+      "marketCapRank": 751,
+      "priceBtc": 2.958633570914413e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00011007829499999966
+      "priceBtc": 0.00011036628648976024
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
-      "marketCapRank": 95,
-      "priceBtc": 0.000008593574220350887
+      "marketCapRank": 96,
+      "priceBtc": 0.000008591699801162102
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.000021831492686375955
+      "priceBtc": 0.000021880472264662226
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010765218463046543
+      "priceBtc": 0.00001075171844264195
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 34,
-      "priceBtc": 0.0034346943760789244
+      "priceBtc": 0.0034485461347355125
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.292121108582761e-8
+      "priceBtc": 9.316098191078762e-8
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006216544191770921
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "fix(web-client): hold the store lock for every chain MMR writer",
+      "url": "https://github.com/0xMiden/web-sdk/pull/482",
+      "createdAt": "2026-10-16T13:02:21Z"
+    },
+    {
+      "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
+      "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
+      "createdAt": "2026-10-15T12:16:48Z"
+    },
+    {
+      "title": "Add batch deposit for multiple recipients in one transaction",
+      "url": "https://github.com/soterika/aura-vault-protocol/issues/932",
+      "createdAt": "2026-09-21T21:59:58Z"
+    },
+    {
+      "title": "Pay the kiosk's tips on-chain",
+      "url": "https://github.com/OogaBoogaX/oogaboogaland/pull/218",
+      "createdAt": "2026-10-16T13:03:37Z"
+    },
+    {
+      "title": "AI-generated implementations for DaCe library nodes",
+      "url": "https://github.com/spcl/dace/pull/2557",
+      "createdAt": "2026-09-07T07:37:21Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    }
+  ]
 }
