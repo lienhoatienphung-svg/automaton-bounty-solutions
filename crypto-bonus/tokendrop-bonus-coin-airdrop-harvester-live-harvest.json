@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T17:58:46.075Z",
-  "latencyMs": 1525,
+  "executedAt": "2026-10-16T18:03:14.273Z",
+  "latencyMs": 813,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #273: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #274: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x811e6953BCdee5277De0f194e6e2Fb1018CE33B4",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "Minera is a GPU mining launchpad that allows you to deploy graphics cards and earn rewards in ETH or tokenized stocks for verified AI processing work. The rewar",
+      "url": "https://dexscreener.com/robinhood/0x811e6953bcdee5277de0f194e6e2fb1018ce33b4"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "GyWkSn2ah7dqLyPeZAjEZmfxuU2H4nwfGvgJhfYDVegn",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "$JUSTQ by Quantum Snek on Cardano\n\nA deflationary token on Solana used to supplement $QSNEK on Cardano",
       "url": "https://dexscreener.com/solana/hftxnjdyesngnscsgew2nyossbscpfamwdiah5ttcvgo"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "G3NKPRK3BVrNDPLCbtG53SibytphwDqiTrnaiUq9pump",
-      "boostAmount": 100,
-      "totalBoostAmount": 200,
-      "description": "Uniting the Tesla × SpaceX narrative behind Elon's next-gen Roadster.",
-      "url": "https://dexscreener.com/solana/g3nkprk3bvrndplcbtg53sibytphwdqitrnaiuq9pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,9 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Cut post impressions/saves over to the member post-stats API (needs r_member_postAnalytics)",
+      "url": "https://github.com/christopherqueenconsulting/linkedin_engagement_manager/issues/695",
+      "createdAt": "2026-07-27T02:48:01Z"
+    },
+    {
       "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
       "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
       "createdAt": "2026-10-15T12:16:48Z"
+    },
+    {
+      "title": "Roadmap: Black Anvil network rollout",
+      "url": "https://github.com/LegendofKEK/bichael/issues/341",
+      "createdAt": "2026-10-16T02:23:31Z"
+    },
+    {
+      "title": "Migrate workspace to rand 0.10 and update crypto dependencies",
+      "url": "https://github.com/mobilecoinfoundation/mobilecoin/pull/4120",
+      "createdAt": "2026-10-14T21:30:50Z"
     },
     {
       "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-11T14:10:17Z"
     },
     {
-      "title": "Add anytime-valid improvement auditor",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/76",
-      "createdAt": "2026-10-13T03:26:58Z"
-    },
-    {
-      "title": "Showcase: economy and law district (plan 5)",
-      "url": "https://github.com/lorecrafting/lokacore/pull/409",
-      "createdAt": "2026-10-16T14:04:49Z"
-    },
-    {
-      "title": "Update all non-major dependencies",
-      "url": "https://github.com/shossk/hitome/pull/19",
-      "createdAt": "2026-08-24T05:11:20Z"
-    },
-    {
-      "title": "Qwen3.5 to 3.8 dense support (9B first)",
-      "url": "https://github.com/tpurtell/cuteafd/issues/276",
-      "createdAt": "2026-10-15T06:49:05Z"
+      "title": "Swept VTXO can't be recovered; replenisher races SDK settle",
+      "url": "https://github.com/Kukks/arkade-faucet-daemon/issues/2",
+      "createdAt": "2026-10-16T17:49:03Z"
     }
   ]
 }
