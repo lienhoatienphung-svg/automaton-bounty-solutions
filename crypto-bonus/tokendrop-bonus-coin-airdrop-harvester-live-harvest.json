@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T23:24:58.576Z",
-  "latencyMs": 693,
+  "executedAt": "2026-10-16T23:35:59.977Z",
+  "latencyMs": 1264,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #343: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #344: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "Fak3rJEBfR4Vb8DoFpecf6yoxbkkr1gGUH5tdj2rpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/fak3rjebfr4vb8dofpecf6yoxbkkr1gguh5tdj2rpump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x652720b02272C37d9328f08EE8343554D1CAa8e7",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "Launch and trade tokens paired with stocks, crypto, stablecoins & more.",
       "url": "https://dexscreener.com/solana/npd9vif19c2oy1jhhrrajsspmu9tjqtibfxoz4qcxph"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "GetLnVcK3csLW6aTb5mBTHaw9V4vN3fx9oMWQrQxpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/getlnvck3cslw6atb5mbthaw9v4vn3fx9omwqrqxpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 707,
-      "priceBtc": 3.2975292408938e-7
+      "marketCapRank": 706,
+      "priceBtc": 3.326498274510979e-7
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.253955100100162e-8
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 615,
+      "priceBtc": 0.0014169698580265447
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.000021173732130356735
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010648819044777538
-    },
-    {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.4729269967539103e-8
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 105,
-      "priceBtc": 0.0000212357803376485
+      "priceBtc": 0.00010653491425600805
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 109,
-      "priceBtc": 8.91660175738906e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 613,
-      "priceBtc": 0.0014203157162735861
+      "priceBtc": 8.927573561604984e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006215154838460039
+      "priceBtc": 0.000062018629436852
     },
     {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 37,
-      "priceBtc": 0.0024451870230085236
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "marketCapRank": 197,
+      "priceBtc": 2.041136041103344e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
-    {
-      "title": "Cotizador: parámetros desde el Excel de Alex → server, y trabajo a la par Alex/Mikey",
-      "url": "https://github.com/Mikey3003/beebags-deploy/issues/1",
-      "createdAt": "2026-10-15T20:29:24Z"
-    },
-    {
-      "title": "[Bug]: Faucet POST /drips multiplies amount by 5 tNIGHT, so a request for 1000 sends 5,000 tNIGHT",
-      "url": "https://github.com/midnightntwrk/servicedesk/issues/254",
-      "createdAt": "2026-10-16T23:16:20Z"
-    },
-    {
-      "title": "Roadmap: Black Anvil network rollout",
-      "url": "https://github.com/LegendofKEK/bichael/issues/341",
-      "createdAt": "2026-10-16T02:23:31Z"
-    },
     {
       "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
       "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
       "createdAt": "2026-10-15T12:16:48Z"
     },
     {
-      "title": "Support batch mint of membership NFTs for community owners",
-      "url": "https://github.com/stolla-labs/stolla/issues/350",
-      "createdAt": "2026-09-29T22:25:40Z"
+      "title": "build(sdk): move every Platform pin to 5.0.0-rc.3, the version testnet runs",
+      "url": "https://github.com/PastaPastaPasta/dash-forge/pull/490",
+      "createdAt": "2026-10-16T20:49:00Z"
     },
     {
-      "title": "SF-010: live upgrade-security and browser wallet acceptance on testnet",
-      "url": "https://github.com/tyler-suifleet/suifleet/pull/70",
-      "createdAt": "2026-10-15T06:19:09Z"
+      "title": "resources: add a test for mine when resource_yield is 0",
+      "url": "https://github.com/OlaGreat/starbound-realms/issues/71",
+      "createdAt": "2026-10-16T22:34:21Z"
+    },
+    {
+      "title": "[mirror #12995] Unsloth Studio / Desktop: write GRPO rewards in Python, run in the OS sandbox",
+      "url": "https://github.com/LeoBorcherding/unsloth/pull/312",
+      "createdAt": "2026-10-16T12:45:46Z"
+    },
+    {
+      "title": "[H1] Public pool: Scala-run pool on preprod",
+      "url": "https://github.com/KD5UJC-XYZ/scarab/issues/37",
+      "createdAt": "2026-10-11T21:31:50Z"
+    },
+    {
+      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
+      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
+      "createdAt": "2026-10-09T07:30:01Z"
     }
   ]
 }
