@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a step summary](https://github.com/Parabola-org/parabola/issues/18)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Fork Fix Branch**: [fix/issue-18](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-18)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/16](https://github.com/lienhoatienphung-svg/parabola/pull/16)
 - **Inspected Source File**: `.github/workflows/ci.yml`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-16T00:13:21.011Z`
+- **Timestamp**: `2026-10-16T00:14:49.620Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
