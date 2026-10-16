@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T17:32:32.310Z",
-  "latencyMs": 1258,
+  "executedAt": "2026-10-16T17:37:30.490Z",
+  "latencyMs": 1570,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #267: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #268: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,57 +217,57 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 706,
-      "priceBtc": 3.3449431351279825e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 612,
-      "priceBtc": 0.0014299693207009692
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 104,
-      "priceBtc": 0.000021809766490975387
+      "marketCapRank": 731,
+      "priceBtc": 3.1814527127994e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006112115836320852
+      "priceBtc": 0.00006136732681873513
     },
     {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 99,
-      "priceBtc": 0.000008322446830144006
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 612,
+      "priceBtc": 0.0014261758871356512
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9990910691241287
+      "priceBtc": 1.0006437359258127
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 100,
+      "priceBtc": 0.000008340669963492691
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.000021764905662802217
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.234516411110081e-8
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 34,
-      "priceBtc": 0.0033722556532730296
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009720545780415835
+      "priceBtc": 0.003393806009876859
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(deps): update npm",
-      "url": "https://github.com/WarningImHack3r/svelte-changelog/pull/224",
-      "createdAt": "2026-09-02T12:02:39Z"
+      "title": "fix: move all agent paths to /v1/agents/* and parse nested agent.api_key",
+      "url": "https://github.com/Deva-me-AI/mcp-server/pull/9",
+      "createdAt": "2026-10-16T16:39:11Z"
     },
     {
       "title": "ENG-2448 ENG-2402 ENG-2401: use radius@tools and preserve releases",
@@ -275,14 +275,9 @@
       "createdAt": "2026-10-16T16:01:31Z"
     },
     {
-      "title": "feat(web-client): add withFeeAwareAuth and TransactionRequest.withAuthArgs",
-      "url": "https://github.com/0xMiden/web-sdk/pull/477",
-      "createdAt": "2026-10-14T19:22:53Z"
-    },
-    {
-      "title": "Add a `show` subcommand to the Trajectory Explorer.",
-      "url": "https://github.com/google/tunix/pull/2953",
-      "createdAt": "2026-10-16T17:28:44Z"
+      "title": "Split the auction fee between the guild vault and the treasury",
+      "url": "https://github.com/LegendofKEK/bichael/pull/386",
+      "createdAt": "2026-10-16T17:31:03Z"
     },
     {
       "title": "Migrate workspace to rand 0.10 and update crypto dependencies",
@@ -290,9 +285,14 @@
       "createdAt": "2026-10-14T21:30:50Z"
     },
     {
-      "title": "Cut post impressions/saves over to the member post-stats API (needs r_member_postAnalytics)",
-      "url": "https://github.com/christopherqueenconsulting/linkedin_engagement_manager/issues/695",
-      "createdAt": "2026-07-27T02:48:01Z"
+      "title": "fix(web-client): hold the store lock for every chain MMR writer",
+      "url": "https://github.com/0xMiden/web-sdk/pull/482",
+      "createdAt": "2026-10-16T13:02:21Z"
+    },
+    {
+      "title": "TASK: newcomer cold-start test",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/2",
+      "createdAt": "2026-10-03T18:39:14Z"
     }
   ]
 }
