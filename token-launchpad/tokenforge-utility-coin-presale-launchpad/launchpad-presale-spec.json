@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T04:06:48.285Z",
-  "latencyMs": 354,
+  "executedAt": "2026-10-16T04:12:09.834Z",
+  "latencyMs": 438,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #33: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #34: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52667130,
+    "liveBlockNumber": 52667291,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 230926,
+    "baseMainnetTopPoolsLiquidityUsd": 459011,
+    "baseMainnetTopPoolsVolume24hUsd": 230890,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Hf3rEfh9DxsMhv44bq4y9kveZn8mKSo2hppJURYrpump",
+        "description": "Describe an agent. Launch its coin. 🤖\nAI agents with their own coins on Solana.",
+        "url": "https://dexscreener.com/solana/hf3refh9dxsmhv44bq4y9kvezn8mkso2hppjuryrpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9HwgyhM3gPP5GNoqeb5SWPiF83qFnMvbhaao75bZpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9hwgyhm3gpp5gnoqeb5swpif83qfnmvbhaao75bzpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CbAeScGTv9sjGHtDRQsfqHzgSWupueN4Nduz7mBSpump",
+        "description": "No risk no roadster",
+        "url": "https://dexscreener.com/solana/cbaescgtv9sjghtdrqsfqhzgswupuen4nduz7mbspump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "ABmp7kvhMFXEUvjq9cybBPPbrju8uv8GTQPCDbvLpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "0xFCc86D9c23FfB9f27258534eA316C096F1Af51b9",
         "description": "Heurix is a no-code platform for building AI trading agents on Robinhood Chain.\n\nPick a strategy, set your limits, choose your assets (TSLA, AAPL, GOOGL) and yo",
         "url": "https://dexscreener.com/robinhood/0xfcc86d9c23ffb9f27258534ea316c096f1af51b9"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Fko4w9HoVqbZvtEobjYjm4nDG5aVmKQ3zjVJunXvpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fko4w9hovqbzvteobjyjm4ndg5avmkq3zjvjunxvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Azcf4vgf5FPC9RK1CsAreYY5rSBcnpF8g7p5C2RHpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/azcf4vgf5fpc9rk1csareyy5rsbcnpf8g7p5c2rhpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "hps4Xy4goXuV9zxdTAuF35tN58Gpks8Ho5zX529pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hps4xy4goxuv9zxdtauf35tn58gpks8ho5zx529pump"
       }
     ]
   },
