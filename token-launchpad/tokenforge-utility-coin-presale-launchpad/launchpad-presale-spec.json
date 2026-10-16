@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T14:10:05.287Z",
-  "latencyMs": 633,
+  "executedAt": "2026-10-16T14:15:03.004Z",
+  "latencyMs": 470,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #211: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #212: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52685229,
+    "liveBlockNumber": 52685377,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 290819,
+    "baseMainnetTopPoolsLiquidityUsd": 459004,
+    "baseMainnetTopPoolsVolume24hUsd": 287131,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x351e3ee4d6a0eeb1986826cc2f673373516b9b80",
+        "description": "Launch autonomous agents that trade, rebalance portfolios, and never sleep — all verifiable onchain.",
+        "url": "https://dexscreener.com/robinhood/0x351e3ee4d6a0eeb1986826cc2f673373516b9b80"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "45nxqhugJjnYG9DRnCiDSEdvkr8igDtxpqi8yDpZpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/45nxqhugjjnyg9drncidsedvkr8igdtxpqi8ydpzpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2Y3o4bKH13mPDWYCwfgdMVf6DS7XuFgWTQsdyEeepump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0xacF4a28e49E385E6a79B6D3FF60B080981067777",
         "description": "🌹 Dividends have been distributed in the stock, and if you want to open a contract, do you still need to sell it? No need to sell, no need to sell, no need to ",
         "url": "https://dexscreener.com/bsc/0xacf4a28e49e385e6a79b6d3ff60b080981067777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "KXj1FQSqKfzoEAjBY9QTdkts3S3eHnSuL2Dk8pspump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/kxj1fqsqkfzoeajby9qtdkts3s3ehnsul2dk8pspump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xe0e2795595ff2284854154600f9a47046cff876a",
-        "description": "Sherwood is the living pixel forest of Robinhood Chain. Every trade becomes part of the forest, with live onchain charts and tools for any token. \n\nAgents like ",
-        "url": "https://dexscreener.com/robinhood/0xe0e2795595ff2284854154600f9a47046cff876a"
       }
     ]
   },
