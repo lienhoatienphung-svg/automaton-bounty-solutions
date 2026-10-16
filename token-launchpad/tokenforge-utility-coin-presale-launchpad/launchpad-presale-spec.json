@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T17:06:42.897Z",
-  "latencyMs": 415,
+  "executedAt": "2026-10-16T17:11:20.266Z",
+  "latencyMs": 250,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #258: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #259: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52690527,
+    "liveBlockNumber": 52690666,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 290712,
+    "baseMainnetTopPoolsVolume24hUsd": 290982,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HWKD7fy3tZB2RjZnBMJgZFZLqPdST4q81WZgpn7dpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hwkd7fy3tzb2rjznbmjgzfzlqpdst4q81wzgpn7dpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9KcwEpr7TnnaTuoXVcc3J4wxq5ptVr7fsH53w9M7pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9kcwepr7tnnatuoxvcc3j4wxq5ptvr7fsh53w9m7pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2aqkYwRa1sZrpvZ5nottuVs3csGtXJEYsc9QRY9wpump",
+        "description": "The Roadster that flew, reborn as a cat. Four wheels, nine lives, zero gravity. $FTC on Solana.",
+        "url": "https://dexscreener.com/solana/2aqkywra1szrpvz5nottuvs3csgtxjeysc9qry9wpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "GePQb6k4ZjsBDTtn2ZMfYRNJH4fzZ6ExKqRzWnCxpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "0x741D68D9E3a3d433BC5b3e9fC635ab2662676887",
         "description": "DUO",
         "url": "https://dexscreener.com/robinhood/0x741d68d9e3a3d433bc5b3e9fc635ab2662676887"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "MRqNrysndnJSCqGgo2vKUgY5DcK3U7XchweY1taQve8",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/mrqnrysndnjscqggo2vkugy5dck3u7xchwey1taqve8"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xfe97F0310B5cdf7aa621A69de5B7Ba74060f0d9c",
-        "description": "Hookr is a hook. A hook needs bait.\n\n$BAIT is a vault token on Robinhood Chain, built on Hookr and paired with HOOKR. Every buy and every sell pays 5% in HOOKR ",
-        "url": "https://dexscreener.com/robinhood/0xfe97f0310b5cdf7aa621a69de5b7ba74060f0d9c"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x76EDFEF4272E9191c8bd20EB5edc3236a51c7777",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/bsc/0x76edfef4272e9191c8bd20eb5edc3236a51c7777"
       }
     ]
   },
