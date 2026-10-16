@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T15:20:32.854Z",
-  "latencyMs": 1182,
+  "executedAt": "2026-10-16T15:22:28.184Z",
+  "latencyMs": 619,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #228: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #229: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52687342,
-    "liveGasPriceGwei": 0.006,
+    "liveBlockNumber": 52687400,
+    "liveGasPriceGwei": 0.0061,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 285736,
+    "baseMainnetTopPoolsVolume24hUsd": 285784,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "C3xojXDnc5ghHXkiFX9ChykJdQ6NJKUsFsiSsV4vLCAT",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/c3xojxdnc5ghhxkifx9chykjdq6njkusfsissv4vlcat"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GnVMZ3tDek9DhyYcfn6pGKgPntj1JqdavcvriDXepump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gnvmz3tdek9dhyycfn6pgkgpntj1jqdavcvridxepump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7LRpCucrnANenJcvPLTwSCyG7qBsaGwt1qvc6W4Upump",
@@ -69,18 +81,6 @@
         "tokenAddress": "CpdbvrkDQNNbZdcLCMpto1U84ep8FrFdfT84Lme6pump",
         "description": "illusion",
         "url": "https://dexscreener.com/solana/cpdbvrkdqnnbzdclcmpto1u84ep8frfdft84lme6pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x093386cAe822e4A46CFfa5B3462Bd64Ae5779a5E",
-        "description": "Swab\n\nCharles Swab",
-        "url": "https://dexscreener.com/robinhood/0x093386cae822e4a46cffa5b3462bd64ae5779a5e"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xAB4767ce2790ea966821808F51Ac2cFa144C2581",
-        "description": "Vanar Foundry lets founders and teams set up an AI Organization with connected AI workers for marketing, content, support and BD. Each Org gets its own on-chain",
-        "url": "https://dexscreener.com/robinhood/0xab4767ce2790ea966821808f51ac2cfa144c2581"
       }
     ]
   },
