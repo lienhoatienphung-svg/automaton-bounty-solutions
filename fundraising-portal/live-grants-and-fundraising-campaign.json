@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T10:34:05.528Z",
-  "latencyMs": 824,
+  "executedAt": "2026-10-16T10:34:13.833Z",
+  "latencyMs": 458,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
   "workTitle": "Delivery Sprint #133: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "0.8.7 master defect list and delivery status",
-          "url": "https://github.com/dta-au/elspeth/issues/315",
-          "repositoryUrl": "https://api.github.com/repos/dta-au/elspeth",
-          "updatedAt": "2026-10-16T10:34:00Z"
-        },
-        {
-          "title": "[P1] Replace deployed Open Graph description with approved product copy",
-          "url": "https://github.com/Loofy147/Contribution-bounties-centre-/issues/21",
-          "repositoryUrl": "https://api.github.com/repos/Loofy147/Contribution-bounties-centre-",
-          "updatedAt": "2026-10-16T10:33:59Z"
-        },
-        {
-          "title": "Repair CI dependencies and retain Windows failure evidence",
-          "url": "https://github.com/Parad0x-Labs/VOOL-Windows-M6A/pull/8",
-          "repositoryUrl": "https://api.github.com/repos/Parad0x-Labs/VOOL-Windows-M6A",
-          "updatedAt": "2026-10-16T10:34:02Z"
-        },
-        {
-          "title": "Energiemanagement: Wärmepumpe (HomeCom) + kombinierte Übersicht Smart Home & WP",
-          "url": "https://github.com/Kurt57/Bosch-Smart-Home/pull/6",
-          "repositoryUrl": "https://api.github.com/repos/Kurt57/Bosch-Smart-Home",
-          "updatedAt": "2026-10-16T10:33:59Z"
-        },
-        {
-          "title": "fix(links): slash every internal page link and fail the build on slashless ones",
-          "url": "https://github.com/interledger/interledger.org-v5/pull/780",
-          "repositoryUrl": "https://api.github.com/repos/interledger/interledger.org-v5",
-          "updatedAt": "2026-10-16T10:33:59Z"
-        },
-        {
-          "title": "P0-6: mount real password recovery with signed expiring links and email delivery",
-          "url": "https://github.com/Hectorg0827/LyoBackendJune/pull/143",
-          "repositoryUrl": "https://api.github.com/repos/Hectorg0827/LyoBackendJune",
-          "updatedAt": "2026-10-16T10:33:58Z"
-        },
-        {
-          "title": "feat: agent-initiated speech with optional follow-up listening",
-          "url": "https://github.com/ru-aish/pocket-agent/pull/10",
-          "repositoryUrl": "https://api.github.com/repos/ru-aish/pocket-agent",
-          "updatedAt": "2026-10-16T10:33:58Z"
-        },
-        {
-          "title": "Last major release ",
-          "url": "https://github.com/ParadauxIO/hibernia-economy/pull/2",
-          "repositoryUrl": "https://api.github.com/repos/ParadauxIO/hibernia-economy",
-          "updatedAt": "2026-10-16T10:33:58Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
