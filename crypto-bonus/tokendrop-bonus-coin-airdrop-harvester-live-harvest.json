@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T11:28:37.624Z",
-  "latencyMs": 865,
+  "executedAt": "2026-10-16T11:33:55.452Z",
+  "latencyMs": 1150,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #167: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #168: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "ethereum",
+      "tokenAddress": "0xA5D0F84a8693e5B4E63840aEf43274513643025E",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "Build circuits. Solve logic puzzles. Follow the signal. An Ethereum circuit lab. Free to build and practice.",
+      "url": "https://dexscreener.com/ethereum/0xa5d0f84a8693e5b4e63840aef43274513643025e"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "5rB2Z8xPrUGX75mL8Q7BZLjdKFtzaJYHhtPKMazSpump",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Hold Greatest Meme Ever and get rewarded with $GME stock.",
       "url": "https://dexscreener.com/robinhood/0xef67e3064bef1a27e81925ec7132f23e533bd5f6"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "TRGNtERnbRtVkaMJ1MqU4DzSEkHrtd2qFesh6Rgravi",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "GRAVI is the token of GraviFi: index baskets of tokenized stocks, crypto and memecoins on Solana, each held as one token in your own wallet. Every basket mint a",
-      "url": "https://dexscreener.com/solana/trgnternbrtvkamj1mqu4dzsekhrtd2qfesh6rgravi"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/timelessco/espresso-base-ui/pull/65",
-      "createdAt": "2026-03-24T07:52:28Z"
+      "title": "Add EMMA processing and Craft Launch/Update Claim controls",
+      "url": "https://github.com/6529-Collections/6529seize-frontend/pull/4207",
+      "createdAt": "2026-10-09T09:31:42Z"
     },
     {
-      "title": "⬆️ Update dependency @lucide/svelte to v1.56.0",
-      "url": "https://github.com/Phyrone/phyrone.de/pull/1583",
-      "createdAt": "2026-09-10T18:47:44Z"
+      "title": "merkle-airdrop template: admin can sweep while claims are still open",
+      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/533",
+      "createdAt": "2026-10-15T21:48:32Z"
     },
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/Hack-PSU/auth/pull/415",
-      "createdAt": "2026-03-23T16:53:01Z"
-    },
-    {
-      "title": "Qwen3.5 to 3.8 dense support (9B first)",
-      "url": "https://github.com/tpurtell/cuteafd/issues/276",
-      "createdAt": "2026-10-15T06:49:05Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/devsoc-unsw/chaos/pull/835",
-      "createdAt": "2026-09-03T11:53:38Z"
+      "title": "# Spike 674 — Collaborative drops with automatic N-way revenue splits at settle",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/537",
+      "createdAt": "2026-10-15T11:12:33Z"
     },
     {
       "title": "Roadmap: Black Anvil network rollout",
       "url": "https://github.com/LegendofKEK/bichael/issues/341",
       "createdAt": "2026-10-16T02:23:31Z"
+    },
+    {
+      "title": "Roadmap: panic password, phrase check, swap price limit, token history; THORChain nodes replaced",
+      "url": "https://github.com/thefear078/Phobia-Wallet/pull/167",
+      "createdAt": "2026-10-16T11:33:01Z"
+    },
+    {
+      "title": "# Spike 673 — Edition management with numbered editions, artist proofs and supply modes",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/536",
+      "createdAt": "2026-10-15T11:12:09Z"
     }
   ]
 }
