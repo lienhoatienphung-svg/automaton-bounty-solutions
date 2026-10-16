@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T02:46:24.218Z",
-  "latencyMs": 470,
+  "executedAt": "2026-10-16T02:51:59.418Z",
+  "latencyMs": 344,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #9: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #10: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52664718,
+    "liveBlockNumber": 52664886,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 246702,
+    "baseMainnetTopPoolsVolume24hUsd": 245008,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HL8QfkRjinVcSDAPUVRjfk1Xe2CgS8A3CAtTxxyxpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hl8qfkrjinvcsdapuvrjfk1xe2cgs8a3cattxxyxpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7XoHiioxfPewqysZRQDbS3MuwY69pJ3GuTpgsmgrpump",
+        "description": "Hold to launch Agents that deploy projects on \n@Pumpfun\n and route fees to your agents wallet based on their contribution.",
+        "url": "https://dexscreener.com/solana/7xohiioxfpewqyszrqdbs3muwy69pj3gutpgsmgrpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CgbBLBK9m3BsHbk2s68YLjGWJzHcu2QeJm3SUsrBpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cgbblbk9m3bshbk2s68yljgwjzhcu2qejm3susrbpump"
+      },
       {
         "chainId": "ethereum",
         "tokenAddress": "0xFd85A2304ad1Afcbbd5EF7682f8E5709b8798374",
@@ -63,24 +81,6 @@
         "tokenAddress": "0x9994Bfa979179aF4BB0fbcD7f2dF0D20a86637dE",
         "description": "bankers in control.",
         "url": "https://dexscreener.com/robinhood/0x9994bfa979179af4bb0fbcd7f2df0d20a86637de"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x2fC15e8cAc04540d51eb71b6def2Fe269f4fB25a",
-        "description": "Launch Tokens on Metric",
-        "url": "https://dexscreener.com/robinhood/0x2fc15e8cac04540d51eb71b6def2fe269f4fb25a"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "84AaE16zkQ97UqeRsbZwkkDQJn9L3v4nUqrMMZ3Xpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/84aae16zkq97uqersbzwkkdqjn9l3v4nuqrmmz3xpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DEo8JhDt9Evd2FvEmBC9dtRd7yJUZfuuFPFUMCSQpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/deo8jhdt9evd2fvembc9dtrd7yjuzfuufpfumcsqpump"
       }
     ]
   },
