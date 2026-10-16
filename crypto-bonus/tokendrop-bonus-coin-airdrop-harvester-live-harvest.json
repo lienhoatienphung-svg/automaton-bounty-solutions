@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T03:50:34.704Z",
-  "latencyMs": 778,
+  "executedAt": "2026-10-16T03:51:27.637Z",
+  "latencyMs": 873,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #28: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #29: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "guix: produce a `-static-pie` bitcoind",
-      "url": "https://github.com/bitcoin/bitcoin/pull/25573",
-      "createdAt": "2022-07-08T16:49:48Z"
-    },
-    {
       "title": "SF-010: live upgrade-security and browser wallet acceptance on testnet",
       "url": "https://github.com/tyler-suifleet/suifleet/pull/70",
       "createdAt": "2026-10-15T06:19:09Z"
+    },
+    {
+      "title": "guix: produce a `-static-pie` bitcoind",
+      "url": "https://github.com/bitcoin/bitcoin/pull/25573",
+      "createdAt": "2022-07-08T16:49:48Z"
     },
     {
       "title": "feat(algorithms): add score centering policy loss",
