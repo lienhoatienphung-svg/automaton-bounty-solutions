@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T13:30:26.281Z",
-  "latencyMs": 891,
+  "executedAt": "2026-10-16T13:35:37.268Z",
+  "latencyMs": 1110,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #203: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #204: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 788,
-      "priceBtc": 2.709867869454397e-7
+      "marketCapRank": 806,
+      "priceBtc": 2.810117091216618e-7
     },
     {
       "name": "astronaut",
       "symbol": "ASTRO",
-      "marketCapRank": 902,
-      "priceBtc": 2.2138324624053177e-7
+      "marketCapRank": 882,
+      "priceBtc": 2.20305984956219e-7
     },
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 894,
-      "priceBtc": 2.1435446254916486e-7
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000012653560955953269
+      "marketCapRank": 874,
+      "priceBtc": 2.261682934072204e-7
     },
     {
       "name": "NeoSoul",
       "symbol": "DNA",
-      "marketCapRank": 576,
-      "priceBtc": 0.0000035666306454646484
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 83,
-      "priceBtc": 0.0001111303417506103
+      "marketCapRank": 578,
+      "priceBtc": 0.0000034051496962202198
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 95,
-      "priceBtc": 0.000008604672503941458
+      "priceBtc": 0.000008683766091353496
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000012693326861755624
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 83,
+      "priceBtc": 0.00011123725433966414
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.00002221792581926771
+      "priceBtc": 0.000022167932341642387
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat: verify hardfork schedule",
-      "url": "https://github.com/raylsnetwork/axyl/pull/271",
-      "createdAt": "2026-10-13T06:52:04Z"
+      "title": "feat(web-client): support non-fungible assets in `MidenClient` API",
+      "url": "https://github.com/0xMiden/web-sdk/pull/474",
+      "createdAt": "2026-10-14T15:52:43Z"
     },
     {
-      "title": "chore(hosts): remove the Meld on-ramp and the Android fund module",
-      "url": "https://github.com/paritytech/trinity-user-agents/pull/1332",
-      "createdAt": "2026-10-08T09:06:25Z"
+      "title": "docs: shorten README and refresh book screenshots",
+      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/315",
+      "createdAt": "2026-10-14T20:11:18Z"
     },
     {
-      "title": "Update weekly dependencies",
-      "url": "https://github.com/inoUwU/blog-and-portfolio/pull/156",
-      "createdAt": "2026-08-16T18:15:39Z"
+      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
+      "createdAt": "2026-10-12T04:03:25Z"
     },
     {
-      "title": "[Bugfix][Watermarking] Skip incomplete opening contexts",
-      "url": "https://github.com/vllm-project/vllm/pull/61194",
-      "createdAt": "2026-10-12T10:35:03Z"
-    },
-    {
-      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
-      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
-      "createdAt": "2026-10-12T21:43:27Z"
+      "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
+      "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
+      "createdAt": "2026-10-16T09:56:24Z"
     },
     {
       "title": "Showcase fixes: Aldous talk, text gaps, Low Wardle promises, toll gate, store door",
       "url": "https://github.com/lorecrafting/lokacore/pull/408",
       "createdAt": "2026-10-16T13:18:30Z"
+    },
+    {
+      "title": "feat: verify hardfork schedule",
+      "url": "https://github.com/raylsnetwork/axyl/pull/271",
+      "createdAt": "2026-10-13T06:52:04Z"
     }
   ]
 }
