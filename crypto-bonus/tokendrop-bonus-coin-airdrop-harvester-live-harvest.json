@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T13:15:09.714Z",
-  "latencyMs": 841,
+  "executedAt": "2026-10-16T13:15:27.346Z",
+  "latencyMs": 1275,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Delivery Sprint #199: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -217,53 +217,58 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 783,
-      "priceBtc": 2.7800919085371086e-7
+      "marketCapRank": 785,
+      "priceBtc": 2.843344818637731e-7
     },
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 859,
-      "priceBtc": 2.3567303469604084e-7
+      "marketCapRank": 884,
+      "priceBtc": 2.2719627488514533e-7
     },
     {
       "name": "astronaut",
       "symbol": "ASTRO",
-      "marketCapRank": 979,
-      "priceBtc": 1.9472112776205534e-7
+      "marketCapRank": 926,
+      "priceBtc": 2.011734208335665e-7
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.377605258971284e-8
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 84,
+      "priceBtc": 0.00011068888366891438
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 99,
-      "priceBtc": 0.000008463894377206498
+      "priceBtc": 0.000008405299120672882
     },
     {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00011076880048222469
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.363523356240223e-8
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012684091303406834
+      "priceBtc": 0.000012668992338078105
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 626,
-      "priceBtc": 0.0013977006321398383
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.00002206131352235746
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "feat(products): fundtest, a Paseo funding provider the testnet apps bundle",
+      "url": "https://github.com/paritytech/trinity-user-agents/pull/1402",
+      "createdAt": "2026-10-14T08:11:56Z"
+    },
     {
       "title": "fix(deps): update dependency lucide-react to v1",
       "url": "https://github.com/marc-aurele-besner/mymultisig-app/pull/701",
@@ -288,11 +293,6 @@
       "title": "Add the vision-encoder-objective task",
       "url": "https://github.com/scaleapi/rsi-benchmark/pull/84",
       "createdAt": "2026-10-14T17:20:01Z"
-    },
-    {
-      "title": "[SC-018] Sybil Resistance Staking Contract with Multi-Chain Proof Validation",
-      "url": "https://github.com/StellarDevHub/Web3-Student-Lab/issues/1639",
-      "createdAt": "2026-10-14T17:17:15Z"
     }
   ]
 }
