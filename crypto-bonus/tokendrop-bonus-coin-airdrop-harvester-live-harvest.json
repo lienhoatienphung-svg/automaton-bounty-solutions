@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T08:25:55.793Z",
-  "latencyMs": 895,
+  "executedAt": "2026-10-16T08:26:56.406Z",
+  "latencyMs": 921,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #112: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #113: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[recipe, fsdp, tests, doc] feat: add Boogu-Image FlowGRPO v1 sync recipe",
-      "url": "https://github.com/verl-project/verl-omni/pull/649",
-      "createdAt": "2026-09-21T15:01:39Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/kairos-io/AuroraBoot/pull/926",
+      "createdAt": "2026-10-08T04:23:24Z"
+    },
+    {
+      "title": "[Exploration] Tick rate and finality: four runs of the funding worker",
+      "url": "https://github.com/paritytech/getcash-community/pull/106",
+      "createdAt": "2026-10-15T08:39:14Z"
+    },
+    {
+      "title": "refactor: move speculative verification sampling into the rejection sampler.",
+      "url": "https://github.com/xLLM-AI/xllm/pull/2498",
+      "createdAt": "2026-10-16T06:08:03Z"
     },
     {
       "title": "feat(gateway): daily feedback request job and email, off by default",
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-13T15:35:23Z"
     },
     {
-      "title": "feat: distinguish consumed rollout and retained training metrics",
-      "url": "https://github.com/areal-project/AReaL/pull/1796",
-      "createdAt": "2026-10-16T07:44:39Z"
-    },
-    {
-      "title": "Run the stack as Logos modules before M2 (everything except Bitcoin)",
-      "url": "https://github.com/gateway-fm/lez-atomic-swaps/issues/115",
-      "createdAt": "2026-10-16T08:25:21Z"
-    },
-    {
-      "title": "[Bugfix][OpenAI] Respect allowed_token_ids in beam search",
-      "url": "https://github.com/vllm-project/vllm/pull/47630",
-      "createdAt": "2026-07-05T06:13:07Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "[recipe, fsdp, tests, doc] feat: add Boogu-Image FlowGRPO v1 sync recipe",
+      "url": "https://github.com/verl-project/verl-omni/pull/649",
+      "createdAt": "2026-09-21T15:01:39Z"
     }
   ]
 }
