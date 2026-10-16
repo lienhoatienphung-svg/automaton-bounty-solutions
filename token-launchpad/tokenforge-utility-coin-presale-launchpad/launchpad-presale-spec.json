@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T15:15:08.596Z",
-  "latencyMs": 250,
+  "executedAt": "2026-10-16T15:20:32.854Z",
+  "latencyMs": 1182,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #227: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #228: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52687180,
+    "liveBlockNumber": 52687342,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,39 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 286123,
+    "baseMainnetTopPoolsVolume24hUsd": 285736,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7LRpCucrnANenJcvPLTwSCyG7qBsaGwt1qvc6W4Upump",
+        "description": "Trade the world's money on @solana. 64 FX perps, up to 25x, 24/7, settled in USDC, powered by $VEVO.",
+        "url": "https://dexscreener.com/solana/7lrpcucrnanenjcvpltwscyg7qbsagwt1qvc6w4upump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5e8GPzhqxLKFVU6gb87aJLZMoSQnbjBhQupXvCCZpump",
+        "description": "Faster than a speeding bullet. Stronger than gravity.",
+        "url": "https://dexscreener.com/solana/5e8gpzhqxlkfvu6gb87ajlzmosqnbjbhqupxvcczpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "jr963C1eUWRYk7TYAxii7MRyJqr1zJhVyZuYgVYpump",
+        "description": "Buy 7 or 30 days of a Meteora fee position's income and claim what actually comes in. Holding $CUTS opens the Pro Desk, and a share of every creator fee buys ba",
+        "url": "https://dexscreener.com/solana/jr963c1euwryk7tyaxii7mryjqr1zjhvyzuygvypump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7mupUtwu17wevEfnyrE6XsWa1X9WWntAPeqdckd2pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7muputwu17wevefnyre6xswa1x9wwntapeqdckd2pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "ADkd6izPxJtKueHAzKsDEnGRNEq5ERu1g3ses1wKpump",
+        "description": "Iphone duo",
+        "url": "https://dexscreener.com/solana/adkd6izpxjtkuehazksdengrneq5eru1g3ses1wkpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CpdbvrkDQNNbZdcLCMpto1U84ep8FrFdfT84Lme6pump",
@@ -51,36 +81,6 @@
         "tokenAddress": "0xAB4767ce2790ea966821808F51Ac2cFa144C2581",
         "description": "Vanar Foundry lets founders and teams set up an AI Organization with connected AI workers for marketing, content, support and BD. Each Org gets its own on-chain",
         "url": "https://dexscreener.com/robinhood/0xab4767ce2790ea966821808f51ac2cfa144c2581"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x5E32DCeDb236A4720440acf6f2Cb3f2239A650DA",
-        "description": "The first dog in space $LAIKA, paired with $SPCX - all reflections to hodlers.",
-        "url": "https://dexscreener.com/robinhood/0x5e32dcedb236a4720440acf6f2cb3f2239a650da"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x71A3701f22068E6DDd42e880BC3ACf4CfAc3557E",
-        "description": "A mixnet for AI requests. Every relay sends packets at the same steady rate, day and night, so anyone watching the wire sees the same flow whether you are askin",
-        "url": "https://dexscreener.com/ethereum/0x71a3701f22068e6ddd42e880bc3acf4cfac3557e"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "XBJBV8BCt3R8WXUwDr9M5FSiZNfQmm8Nj8q2mQLpump",
-        "description": "A cat piloting a flying tesla roadster will be another legendary magic",
-        "url": "https://dexscreener.com/solana/xbjbv8bct3r8wxuwdr9m5fsiznfqmm8nj8q2mqlpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DLKWChsxZffZiPz48iXudb35ZF4eHKhiQdWWTR2niyER",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/dlkwchsxzffzipz48ixudb35zf4ehkhiqdwwtr2niyer"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9eMKBzeKKEWBpPr5e3oEL2nN84aXtMbszVxxMAAcpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9emkbzekkewbppr5e3oel2nn84axtmbszvxxmaacpump"
       }
     ]
   },
