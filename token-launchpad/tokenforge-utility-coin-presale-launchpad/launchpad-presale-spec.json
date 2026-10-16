@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T02:18:57.678Z",
-  "latencyMs": 272,
+  "executedAt": "2026-10-16T02:20:28.490Z",
+  "latencyMs": 254,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Deploy Audited SovereignAIUtilityToken & Anti-Rug Presale Vault",
+  "workTitle": "[Crypto Bonus & Utility Token Launchpad] Execute Live TokenForge Utility Coin & Presale Launchpad Sprint #1",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52663895,
+    "liveBlockNumber": 52663941,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459008,
-    "baseMainnetTopPoolsVolume24hUsd": 265173,
+    "baseMainnetTopPoolsVolume24hUsd": 265069,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "84AaE16zkQ97UqeRsbZwkkDQJn9L3v4nUqrMMZ3Xpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/84aae16zkq97uqersbzwkkdqjn9l3v4nuqrmmz3xpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DEo8JhDt9Evd2FvEmBC9dtRd7yJUZfuuFPFUMCSQpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0xb39619059eff1f992e157d32ff3e21407ca3233a",
         "description": "The first dark web launchpad on Robinhood Chain. Launch through Tor, your wallet never shows as the creator.",
         "url": "https://dexscreener.com/robinhood/0xb39619059eff1f992e157d32ff3e21407ca3233a"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "E3Mpo3FvNdmCtmjVLTzCHYdR6xTSaVcbCQ1DRzg9pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/e3mpo3fvndmctmjvltzchydr6xtsavcbcq1drzg9pump"
       }
     ]
   },
