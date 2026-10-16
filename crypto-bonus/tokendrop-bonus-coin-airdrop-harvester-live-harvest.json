@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T15:54:00.088Z",
-  "latencyMs": 837,
+  "executedAt": "2026-10-16T15:54:43.746Z",
+  "latencyMs": 912,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #240: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
+  "workTitle": "Delivery Sprint #241: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "chore(deps): update solders requirement from >=0.21.0 to >=0.29.0",
+      "url": "https://github.com/quillhog0/claime/pull/2",
+      "createdAt": "2026-10-16T15:54:14Z"
+    },
+    {
       "title": "Roadmap: Black Anvil network rollout",
       "url": "https://github.com/LegendofKEK/bichael/issues/341",
       "createdAt": "2026-10-16T02:23:31Z"
+    },
+    {
+      "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
+      "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
+      "createdAt": "2026-10-15T12:16:48Z"
     },
     {
       "title": "chore(deps): update all non-major dependencies",
@@ -283,16 +293,6 @@
       "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
       "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
       "createdAt": "2026-10-09T09:52:33Z"
-    },
-    {
-      "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
-      "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
-      "createdAt": "2026-10-15T12:16:48Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
     }
   ]
 }
