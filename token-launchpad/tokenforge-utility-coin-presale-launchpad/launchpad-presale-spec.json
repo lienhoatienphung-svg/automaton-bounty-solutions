@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T22:12:49.476Z",
-  "latencyMs": 461,
+  "executedAt": "2026-10-16T22:21:12.231Z",
+  "latencyMs": 314,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #327: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #328: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52699711,
+    "liveBlockNumber": 52699962,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 286568,
+    "baseMainnetTopPoolsLiquidityUsd": 459010,
+    "baseMainnetTopPoolsVolume24hUsd": 289735,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "AzQm8cjPWuW4cDeVJikwJPF8mWEJo19NHF6Tj4hpump",
+        "description": "Official $Normie Coin",
+        "url": "https://dexscreener.com/solana/azqm8cjpwuw4cdevjikwjpf8mwejo19nhf6tj4hpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4nZTnkvtRdvzGj5NqM5Uq1WA6iBGGnT2asMFW7gKpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4nztnkvtrdvzgj5nqm5uq1wa6ibggnt2asmfw7gkpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "AQX1EAjytr9hy5aKZ6LvcKkrCDvxHgZrk2Z68ULCpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/aqx1eajytr9hy5akz6lvckkrcdvxhgzrk2z68ulcpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6536pbtsUcBDe4tVX4sRF5SPBDvqoKjmohVNCsVBpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "CLQYa2RzUGH3XrZZo9nDjZ2q4aBaKYRCrLwnjkZUgboo",
         "description": "Elon was so inspired by the quantum cat, he named his own cat Schrödinger.",
         "url": "https://dexscreener.com/solana/clqya2rzugh3xrzzo9ndjz2q4abakyrcrlwnjkzugboo"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "599h3tRUnep6PeQcEaUadosDyZk3uzs173f6h8NTpump",
-        "description": "The new era of playable tokens.",
-        "url": "https://dexscreener.com/solana/599h3trunep6peqceauadosdyzk3uzs173f6h8ntpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DjWckUixq3we6r9SqNoFS5MeppBt146TkJAkBxxFpump",
-        "description": "Vantax is post-quantum security for Solana.\n\nEvery Solana wallet and transaction is signed with Ed25519, and a large enough quantum computer breaks it. Vantax f",
-        "url": "https://dexscreener.com/solana/djwckuixq3we6r9sqnofs5meppbt146tkjakbxxfpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xa01fF10774CFe53C3FBC1D7D124c42e19F6AfcBD",
-        "description": "Nobody knows where OWOWO came from.\n\nNo roadmap. No promises. Just vibes and a stare you can’t unsee.",
-        "url": "https://dexscreener.com/robinhood/0xa01ff10774cfe53c3fbc1d7d124c42e19f6afcbd"
       }
     ]
   },
