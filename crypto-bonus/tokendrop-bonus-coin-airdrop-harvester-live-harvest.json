@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T23:35:59.977Z",
-  "latencyMs": 1264,
+  "executedAt": "2026-10-16T23:37:28.044Z",
+  "latencyMs": 840,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #344: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #345: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -270,6 +270,21 @@
       "createdAt": "2026-10-15T12:16:48Z"
     },
     {
+      "title": "Unify dialog UX and guard account approval context",
+      "url": "https://github.com/syscoin/pali-wallet/pull/895",
+      "createdAt": "2026-10-16T23:06:27Z"
+    },
+    {
+      "title": "fix(mtp): logprobs requests no longer 500 with MTP speculative decoding",
+      "url": "https://github.com/raullenchai/Rapid-MLX/pull/4733",
+      "createdAt": "2026-10-16T16:56:58Z"
+    },
+    {
+      "title": "Source watch: official Flop Labs / Technocore sources",
+      "url": "https://github.com/Mariukasfak/flop-evidence-scout/issues/3",
+      "createdAt": "2026-08-25T17:32:43Z"
+    },
+    {
       "title": "build(sdk): move every Platform pin to 5.0.0-rc.3, the version testnet runs",
       "url": "https://github.com/PastaPastaPasta/dash-forge/pull/490",
       "createdAt": "2026-10-16T20:49:00Z"
@@ -278,21 +293,6 @@
       "title": "resources: add a test for mine when resource_yield is 0",
       "url": "https://github.com/OlaGreat/starbound-realms/issues/71",
       "createdAt": "2026-10-16T22:34:21Z"
-    },
-    {
-      "title": "[mirror #12995] Unsloth Studio / Desktop: write GRPO rewards in Python, run in the OS sandbox",
-      "url": "https://github.com/LeoBorcherding/unsloth/pull/312",
-      "createdAt": "2026-10-16T12:45:46Z"
-    },
-    {
-      "title": "[H1] Public pool: Scala-run pool on preprod",
-      "url": "https://github.com/KD5UJC-XYZ/scarab/issues/37",
-      "createdAt": "2026-10-11T21:31:50Z"
-    },
-    {
-      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
-      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
-      "createdAt": "2026-10-09T07:30:01Z"
     }
   ]
 }
