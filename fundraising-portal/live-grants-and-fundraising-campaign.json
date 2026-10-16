@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T12:28:51.189Z",
-  "latencyMs": 980,
+  "executedAt": "2026-10-16T12:28:54.087Z",
+  "latencyMs": 1236,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
   "workTitle": "Delivery Sprint #167: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -21,6 +21,42 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
+          "title": "TAVONEL masterplan implementation checkpoint (2026-09-30)",
+          "url": "https://github.com/0ssol1620-byte/tavonel-saas-foundation/pull/141",
+          "repositoryUrl": "https://api.github.com/repos/0ssol1620-byte/tavonel-saas-foundation",
+          "updatedAt": "2026-10-16T12:28:49Z"
+        },
+        {
+          "title": "Private avatars: signed URLs in the app, migration to make the bucket private (do not apply the migration without owner approval)",
+          "url": "https://github.com/Build209/MealPrep/pull/335",
+          "repositoryUrl": "https://api.github.com/repos/Build209/MealPrep",
+          "updatedAt": "2026-10-16T12:28:49Z"
+        },
+        {
+          "title": "Fix pre-Play readiness without shared-registry sandbox writes",
+          "url": "https://github.com/caglarsubas/codex-native-coding-harness/pull/163",
+          "repositoryUrl": "https://api.github.com/repos/caglarsubas/codex-native-coding-harness",
+          "updatedAt": "2026-10-16T12:28:48Z"
+        },
+        {
+          "title": "Define and verify private-agent upgrade/removal lifecycle",
+          "url": "https://github.com/misja/sailfish-gnupg-runtime/issues/3",
+          "repositoryUrl": "https://api.github.com/repos/misja/sailfish-gnupg-runtime",
+          "updatedAt": "2026-10-16T12:28:48Z"
+        },
+        {
+          "title": "Make Dashboard room tiles clickable, add PMS-mode quick check-in",
+          "url": "https://github.com/theaceterminal-ship-it/Cabadra-Hotel-segment/pull/14",
+          "repositoryUrl": "https://api.github.com/repos/theaceterminal-ship-it/Cabadra-Hotel-segment",
+          "updatedAt": "2026-10-16T12:28:47Z"
+        },
+        {
+          "title": "[NEMO:D01-G27B] Join native asset catalog to project retention and wire admission",
+          "url": "https://github.com/mysteropodes/nemo/issues/2079",
+          "repositoryUrl": "https://api.github.com/repos/mysteropodes/nemo",
+          "updatedAt": "2026-10-16T12:28:47Z"
+        },
+        {
           "title": "[WOOMOB-4356] Ask for local network access from the Remote TTP hint in POS",
           "url": "https://github.com/woocommerce/woocommerce-android/pull/16723",
           "repositoryUrl": "https://api.github.com/repos/woocommerce/woocommerce-android",
@@ -31,42 +67,6 @@
           "url": "https://github.com/tenstorrent/tt-inference-server/pull/5395",
           "repositoryUrl": "https://api.github.com/repos/tenstorrent/tt-inference-server",
           "updatedAt": "2026-10-16T12:28:46Z"
-        },
-        {
-          "title": "Preserve original Role UTF-16 capacity and trailing-space persistence semantics",
-          "url": "https://github.com/MALIEV-Co-Ltd/Legacy.Maliev.EmployeeService/issues/75",
-          "repositoryUrl": "https://api.github.com/repos/MALIEV-Co-Ltd/Legacy.Maliev.EmployeeService",
-          "updatedAt": "2026-10-16T12:28:45Z"
-        },
-        {
-          "title": "Add Android dictation, notes and model management",
-          "url": "https://github.com/OpenWhispr/openwhispr/pull/2684",
-          "repositoryUrl": "https://api.github.com/repos/OpenWhispr/openwhispr",
-          "updatedAt": "2026-10-16T12:28:45Z"
-        },
-        {
-          "title": "Draft: SchoolPro MySQL migration foundation and audit plan",
-          "url": "https://github.com/Hassan-625/IHLink-SchoolPro/pull/107",
-          "repositoryUrl": "https://api.github.com/repos/Hassan-625/IHLink-SchoolPro",
-          "updatedAt": "2026-10-16T12:28:44Z"
-        },
-        {
-          "title": "fix: coord.memories_latest is per tenant and honours tombstones (coordmem_01)",
-          "url": "https://github.com/qontinui/qontinui-web/pull/1916",
-          "repositoryUrl": "https://api.github.com/repos/qontinui/qontinui-web",
-          "updatedAt": "2026-10-16T12:28:43Z"
-        },
-        {
-          "title": "fix(security): scope private-competition visibility to roles that reach into competitions (GHSA-q472-m9qw-8gq4)",
-          "url": "https://github.com/tbcsec/Flagpost/pull/481",
-          "repositoryUrl": "https://api.github.com/repos/tbcsec/Flagpost",
-          "updatedAt": "2026-10-16T12:28:43Z"
-        },
-        {
-          "title": "fix(box): recognize cross-realm missing Vercel files",
-          "url": "https://github.com/vite-hub/vitehub/pull/2248",
-          "repositoryUrl": "https://api.github.com/repos/vite-hub/vitehub",
-          "updatedAt": "2026-10-16T12:28:43Z"
         }
       ]
     },
