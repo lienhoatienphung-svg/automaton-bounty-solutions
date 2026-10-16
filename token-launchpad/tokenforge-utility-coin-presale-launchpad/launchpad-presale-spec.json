@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T06:33:52.393Z",
-  "latencyMs": 503,
+  "executedAt": "2026-10-16T06:36:40.006Z",
+  "latencyMs": 653,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #77: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #78: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52671542,
+    "liveBlockNumber": 52671626,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458992,
-    "baseMainnetTopPoolsVolume24hUsd": 229614,
+    "baseMainnetTopPoolsVolume24hUsd": 230915,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6US32XFjLauSjfvd4tWu5u1F6aSP5zd6HnUc4TSppump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6us32xfjlausjfvd4twu5u1f6asp5zd6hnuc4tsppump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "79euwaxxwh8qYbHLpKvk9isQiuzpqTNobBsqPXvipump",
@@ -75,12 +81,6 @@
         "tokenAddress": "AxLasBLXRRzsHaPMbZBeEscexztWwyXsBRZaM88gpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/axlasblxrrzshapmbzbeescexztwwyxsbrzam88gpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "A8UbtPkiyptDHDAx8TXJzmvifB9VHNXANMDnQTGkSTNK",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/a8ubtpkiyptdhdax8txjzmvifb9vhnxanmdnqtgkstnk"
       }
     ]
   },
