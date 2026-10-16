@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T17:18:10.064Z",
-  "latencyMs": 884,
+  "executedAt": "2026-10-16T17:23:56.602Z",
+  "latencyMs": 1500,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #263: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #264: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -17,24 +17,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-PROS",
-      "tvlUsd": 959047,
-      "apyBase": 19.04,
-      "apyRewardBonus": 323639.7,
-      "apyTotal": 323658.74,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 601701,
-      "apyBase": 4.1,
-      "apyRewardBonus": 238753.26,
-      "apyTotal": 238757.36,
+      "tvlUsd": 604915,
+      "apyBase": 4.02,
+      "apyRewardBonus": 234665.42,
+      "apyTotal": 234669.44,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -43,11 +30,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "USDC-PROS",
+      "tvlUsd": 953681,
+      "apyBase": 19.43,
+      "apyRewardBonus": 182018.93,
+      "apyTotal": 182038.36,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1128752,
-      "apyBase": 1.55,
-      "apyRewardBonus": 81995.48,
-      "apyTotal": 81997.03,
+      "tvlUsd": 1134357,
+      "apyBase": 1.5,
+      "apyRewardBonus": 81784.04,
+      "apyTotal": 81785.54,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -57,10 +57,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 55459,
+      "tvlUsd": 55488,
       "apyBase": 0,
-      "apyRewardBonus": 39258.29,
-      "apyTotal": 39258.29,
+      "apyRewardBonus": 38678.68,
+      "apyTotal": 38678.68,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -70,10 +70,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 262444,
-      "apyBase": 93.95,
-      "apyRewardBonus": 15537.95,
-      "apyTotal": 15631.9,
+      "tvlUsd": 261218,
+      "apyBase": 86.53,
+      "apyRewardBonus": 16207.05,
+      "apyTotal": 16293.59,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -82,11 +82,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "USDC-SNDKC",
+      "tvlUsd": 1313685,
+      "apyBase": 262.2,
+      "apyRewardBonus": 10505.69,
+      "apyTotal": 10767.89,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 151180,
-      "apyBase": 28.8,
-      "apyRewardBonus": 10311.02,
-      "apyTotal": 10339.82,
+      "tvlUsd": 151247,
+      "apyBase": 28.13,
+      "apyRewardBonus": 10194.78,
+      "apyTotal": 10222.91,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -96,10 +109,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-MUC",
-      "tvlUsd": 1002929,
-      "apyBase": 229.72,
-      "apyRewardBonus": 8707.94,
-      "apyTotal": 8937.66,
+      "tvlUsd": 1000210,
+      "apyBase": 231.98,
+      "apyRewardBonus": 9261.71,
+      "apyTotal": 9493.68,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -108,41 +121,28 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "USDC-TSLAC",
+      "tvlUsd": 799587,
+      "apyBase": 664.94,
+      "apyRewardBonus": 8410.12,
+      "apyTotal": 9075.06,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c83d36b0-bfaf-55f9-9c63-a265d53facf7"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "AVNT-USDC",
-      "tvlUsd": 705528,
-      "apyBase": 0.48,
-      "apyRewardBonus": 7045.3,
-      "apyTotal": 7045.79,
+      "tvlUsd": 705061,
+      "apyBase": 0.45,
+      "apyRewardBonus": 6713.81,
+      "apyTotal": 6714.26,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "eb27d0be-9de4-4ed9-8d36-a754e18d3358"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-SNDKC",
-      "tvlUsd": 1313109,
-      "apyBase": 194.34,
-      "apyRewardBonus": 6519.4,
-      "apyTotal": 6713.74,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-CBBTC",
-      "tvlUsd": 207659,
-      "apyBase": 29.3,
-      "apyRewardBonus": 6478.27,
-      "apyTotal": 6507.58,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix: move all agent paths to /v1/agents/* and parse nested agent.api_key",
-      "url": "https://github.com/Deva-me-AI/mcp-server/pull/9",
-      "createdAt": "2026-10-16T16:39:11Z"
+      "title": "feat!: add Tron support and replace walletAddress with activeWallet",
+      "url": "https://github.com/0xsequence/kotlin-sdk/pull/100",
+      "createdAt": "2026-10-08T11:13:04Z"
     },
     {
-      "title": "Inventory and migrate current Standard card pool",
-      "url": "https://github.com/altf4/rustmage/issues/4",
-      "createdAt": "2026-10-15T15:51:44Z"
+      "title": "Bump the minor-and-patch group across 1 directory with 17 updates",
+      "url": "https://github.com/Luke-works/luke-consumer-ui/pull/115",
+      "createdAt": "2026-10-02T17:26:23Z"
     },
     {
-      "title": "feat(web-client): add withFeeAwareAuth",
-      "url": "https://github.com/0xMiden/web-sdk/pull/477",
-      "createdAt": "2026-10-14T19:22:53Z"
+      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
+      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
+      "createdAt": "2026-10-07T16:13:30Z"
     },
     {
-      "title": "fix(mtp): logprobs requests no longer 500 with MTP speculative decoding",
-      "url": "https://github.com/raullenchai/Rapid-MLX/pull/4733",
-      "createdAt": "2026-10-16T16:56:58Z"
+      "title": "Add a `summary` subcommand to the Trajectory Explorer.",
+      "url": "https://github.com/google/tunix/pull/2933",
+      "createdAt": "2026-10-15T21:03:50Z"
     },
     {
-      "title": "merkle-airdrop template: admin can sweep while claims are still open",
-      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/533",
-      "createdAt": "2026-10-15T21:48:32Z"
+      "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
+      "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
+      "createdAt": "2026-10-16T09:56:24Z"
     },
     {
-      "title": "Merge master-2.0 into master",
-      "url": "https://github.com/solana-foundation/solana-playground/pull/27",
-      "createdAt": "2026-10-13T17:19:42Z"
+      "title": "⚠️ [MEDIUM] Unchecked Return Values in ERC-20 Transfer Calls inside `Airdrop.sol`",
+      "url": "https://github.com/StellarFlow-Network/stellarflow-contracts/issues/1187",
+      "createdAt": "2026-10-08T11:48:25Z"
     }
   ]
 }
