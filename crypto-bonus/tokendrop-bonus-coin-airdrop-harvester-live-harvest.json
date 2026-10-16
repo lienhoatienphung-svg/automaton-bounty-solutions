@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T15:46:59.855Z",
-  "latencyMs": 598,
+  "executedAt": "2026-10-16T15:48:17.639Z",
+  "latencyMs": 1007,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #238: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #239: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,5 +263,36 @@
       "priceBtc": 9.137467166701957e-7
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
+      "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
+      "createdAt": "2026-10-15T12:16:48Z"
+    },
+    {
+      "title": "Crops - First Fruit",
+      "url": "https://github.com/RMKaelBR/entrefarm-two/issues/46",
+      "createdAt": "2026-10-16T15:46:32Z"
+    },
+    {
+      "title": "5.x - Brand bar and footer component tokenization",
+      "url": "https://github.com/uiowa/uids/issues/1101",
+      "createdAt": "2026-10-07T20:17:18Z"
+    },
+    {
+      "title": "reward-manager: distribute_batch pays from the global XLM token, not the pool's token",
+      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1271",
+      "createdAt": "2026-10-16T09:34:56Z"
+    },
+    {
+      "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
+      "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
+      "createdAt": "2026-10-09T09:52:33Z"
+    },
+    {
+      "title": "Convert `dng` to `jpeg` before upload",
+      "url": "https://github.com/Expensify/App/pull/102057",
+      "createdAt": "2026-09-23T12:14:26Z"
+    }
+  ]
 }
