@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T16:53:56.910Z",
-  "latencyMs": 1211,
+  "executedAt": "2026-10-16T16:54:00.099Z",
+  "latencyMs": 4734,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
   "workTitle": "Growth & Sales Sprint #238: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -21,28 +21,10 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "chore(deps): update pnpm to v12",
-          "url": "https://github.com/unplugin/unplugin-lightningcss/pull/49",
-          "repositoryUrl": "https://api.github.com/repos/unplugin/unplugin-lightningcss",
-          "updatedAt": "2026-10-16T16:53:53Z"
-        },
-        {
-          "title": "chore(deps): update pnpm to v12",
-          "url": "https://github.com/catppuccin/nix/pull/1039",
-          "repositoryUrl": "https://api.github.com/repos/catppuccin/nix",
-          "updatedAt": "2026-10-16T16:53:54Z"
-        },
-        {
           "title": "fix(auth): enforce resource permissions and cold-start persistence",
           "url": "https://github.com/thebreakdowndaily/thebreakdown-os/pull/75",
           "repositoryUrl": "https://api.github.com/repos/thebreakdowndaily/thebreakdown-os",
-          "updatedAt": "2026-10-16T16:53:54Z"
-        },
-        {
-          "title": "chore(deps): update all non-major dependencies",
-          "url": "https://github.com/danielroe/stream-vue/pull/458",
-          "repositoryUrl": "https://api.github.com/repos/danielroe/stream-vue",
-          "updatedAt": "2026-10-16T16:53:55Z"
+          "updatedAt": "2026-10-16T16:53:52Z"
         },
         {
           "title": "NAS-144583 / 28.0.0-BETA.1 / Apply a CI Enterprise license to the E2E appliance",
@@ -57,16 +39,34 @@
           "updatedAt": "2026-10-16T16:53:50Z"
         },
         {
-          "title": "chore(deps): update pnpm to v12",
-          "url": "https://github.com/catppuccin/codemirror/pull/51",
-          "repositoryUrl": "https://api.github.com/repos/catppuccin/codemirror",
-          "updatedAt": "2026-10-16T16:53:51Z"
+          "title": "OP-journal-record-guards: guard cancel_requested records, state quality and recheck rules",
+          "url": "https://github.com/ghbmrk/agentOS/pull/1950",
+          "repositoryUrl": "https://api.github.com/repos/ghbmrk/agentOS",
+          "updatedAt": "2026-10-16T16:53:49Z"
         },
         {
-          "title": "feat(clickhouse): id indexes, so a lookup by id reads only the partitions its rows live in",
-          "url": "https://github.com/langwatch/langwatch/pull/8561",
-          "repositoryUrl": "https://api.github.com/repos/langwatch/langwatch",
-          "updatedAt": "2026-10-16T16:53:50Z"
+          "title": "Codex｜审计大幅压缩文档的设计信息完整性并逐篇补写",
+          "url": "https://github.com/fujiaze/Astro-CS-Database/issues/6",
+          "repositoryUrl": "https://api.github.com/repos/fujiaze/Astro-CS-Database",
+          "updatedAt": "2026-10-16T16:53:49Z"
+        },
+        {
+          "title": "Update pnpm to v12",
+          "url": "https://github.com/unjs/ungh/pull/172",
+          "repositoryUrl": "https://api.github.com/repos/unjs/ungh",
+          "updatedAt": "2026-10-16T16:53:49Z"
+        },
+        {
+          "title": "chore(deps): update all non-major dependencies",
+          "url": "https://github.com/unplugin/unplugin-vue/pull/188",
+          "repositoryUrl": "https://api.github.com/repos/unplugin/unplugin-vue",
+          "updatedAt": "2026-10-16T16:53:53Z"
+        },
+        {
+          "title": "71acd9d8 - Move the daily roster onto members' wallet addresses",
+          "url": "https://github.com/21gifts/api/pull/471",
+          "repositoryUrl": "https://api.github.com/repos/21gifts/api",
+          "updatedAt": "2026-10-16T16:53:51Z"
         }
       ]
     },
@@ -77,7 +77,7 @@
       "liveInvestorAndCrowdfundingSignals": []
     }
   },
-  "publishedFundingYmlUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/.github/FUNDING.yml",
-  "publishedPortalUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/fundraising-portal/SUPPORT_AND_INVEST_PORTAL.md",
+  "publishedFundingYmlUrl": null,
+  "publishedPortalUrl": null,
   "publishedVaultContractUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/fundraising-portal/SovereignCrowdfundingAndPatronVault.sol"
 }
