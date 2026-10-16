@@ -3,12 +3,12 @@
 - **Target Issue**: [[悬赏] 灵枢生态宣传：材料 + 渠道 + 触达读数（可核验，不写「效果好」）](https://github.com/FuRongJun-1999/dsh-bounty/issues/71)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Fork Fix Branch**: [fix/issue-71](https://github.com/lienhoatienphung-svg/dsh-bounty/tree/fix/issue-71)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/dsh-bounty/pull/2](https://github.com/lienhoatienphung-svg/dsh-bounty/pull/2)
 - **Inspected Source File**: `scripts/check_links.py`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-16T01:40:02.339Z`
+- **Timestamp**: `2026-10-16T01:41:24.472Z`
 
 ## 1. Repository Root Structure (`FuRongJun-1999/dsh-bounty`)
 - `.gitattributes`
