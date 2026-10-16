@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T17:11:36.793Z",
-  "latencyMs": 1109,
+  "executedAt": "2026-10-16T17:17:58.634Z",
+  "latencyMs": 370,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #259: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #260: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52690674,
+    "liveBlockNumber": 52690865,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,40 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 290958,
+    "baseMainnetTopPoolsLiquidityUsd": 459010,
+    "baseMainnetTopPoolsVolume24hUsd": 292203,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Bfk6pYshc5F5314MyiaHbGFkgBuTMwzyqQitDWX4pump",
+        "description": "The new Solana mascot.",
+        "url": "https://dexscreener.com/solana/bfk6pyshc5f5314myiahbgfkgbutmwzyqqitdwx4pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3fxjycng58exb8QsBZqDFxxun5s1ggPmKSJJJjPPpump",
+        "description": "Cyberpunk 2077 in Browser.",
+        "url": "https://dexscreener.com/solana/3fxjycng58exb8qsbzqdfxxun5s1ggpmksjjjjpppump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9KDhovVA2kdjngkFooqEn5FoKkuZeDMYiQtVk7Lbm9up",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9kdhovva2kdjngkfooqen5fokkuzedmyiqtvk7lbm9up"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Bh12cBNKh9NGDUF7dveTLtXe15syvrLxn4kLrj14pump",
+        "description": "Configure your build. Simulate performance. Drive. Race. Engineer the impossible.",
+        "url": "https://dexscreener.com/solana/bh12cbnkh9ngduf7dvetltxe15syvrlxn4klrj14pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "ENZnR1vAkeAgtP5P3u9PahQMg9YFmCtaKj52vHgxpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/enznr1vakeagtp5p3u9pahqmg9yfmctakj52vhgxpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HWKD7fy3tZB2RjZnBMJgZFZLqPdST4q81WZgpn7dpump",
@@ -51,36 +81,6 @@
         "tokenAddress": "2aqkYwRa1sZrpvZ5nottuVs3csGtXJEYsc9QRY9wpump",
         "description": "The Roadster that flew, reborn as a cat. Four wheels, nine lives, zero gravity. $FTC on Solana.",
         "url": "https://dexscreener.com/solana/2aqkywra1szrpvz5nottuvs3csgtxjeysc9qry9wpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GePQb6k4ZjsBDTtn2ZMfYRNJH4fzZ6ExKqRzWnCxpump",
-        "description": "HookAgents is a platform for launching AI characters and programmable tokens with rules enforced directly on-chain.\n\nAI CHARACTERS\n\nCreate an AI persona with it",
-        "url": "https://dexscreener.com/solana/gepqb6k4zjsbdttn2zmfyrnjh4fzz6exkqrzwncxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6xGixJazECxaXE9Q6jACRzLVzB7TgZFknTFHQoynpump",
-        "description": "Analog Inu",
-        "url": "https://dexscreener.com/solana/6xgixjazecxaxe9q6jacrzlvzb7tgzfkntfhqoynpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DZzLHnax2jUTfZx8PCgR617oQTdro4LftnUQLwYopump",
-        "description": "He put 20 Claudes in a World with their own money on live.",
-        "url": "https://dexscreener.com/solana/dzzlhnax2jutfzx8pcgr617oqtdro4lftnuqlwyopump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6Lhjx2NGdpGHj3PKoYp4tXKZTrptFpBG5d4P1DhNpump",
-        "description": "Intellifuck",
-        "url": "https://dexscreener.com/solana/6lhjx2ngdpghj3pkoyp4txkztrptfpbg5d4p1dhnpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x741D68D9E3a3d433BC5b3e9fC635ab2662676887",
-        "description": "DUO",
-        "url": "https://dexscreener.com/robinhood/0x741d68d9e3a3d433bc5b3e9fc635ab2662676887"
       }
     ]
   },
