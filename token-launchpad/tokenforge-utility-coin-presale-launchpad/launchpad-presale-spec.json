@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T13:46:39.669Z",
-  "latencyMs": 293,
+  "executedAt": "2026-10-16T13:48:47.916Z",
+  "latencyMs": 336,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #204: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #205: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52684526,
+    "liveBlockNumber": 52684590,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459004,
-    "baseMainnetTopPoolsVolume24hUsd": 299013,
+    "baseMainnetTopPoolsLiquidityUsd": 459005,
+    "baseMainnetTopPoolsVolume24hUsd": 294125,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CUfBVs7KERYJmCZohsWEFZoZVXzV1dhNm7tteWuPpump",
+        "description": "NVIDIA's new AI model has a memecoin in the model around a new meme character like the next pepe, called \"Blue Frog\" (BROG)",
+        "url": "https://dexscreener.com/solana/cufbvs7keryjmczohswefzozvxzv1dhnm7ttewuppump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "93RFugk8jVwxBjAL3WY1uiGgA2UNqE9oRuHNrGMipump",
@@ -75,12 +81,6 @@
         "tokenAddress": "BhmFZAucgyzS5ibPcPvt9Zp7L3iPVum2ALvPQ3h6UYib",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/bhmfzaucgyzs5ibpcpvt9zp7l3ipvum2alvpq3h6uyib"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8qGJc7sPvmS9Bs26ni2D67KxH97w989kuxr7Tc98pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8qgjc7spvms9bs26ni2d67kxh97w989kuxr7tc98pump"
       }
     ]
   },
