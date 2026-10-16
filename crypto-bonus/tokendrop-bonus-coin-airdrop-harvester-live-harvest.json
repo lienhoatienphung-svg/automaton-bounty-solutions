@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T16:15:21.784Z",
-  "latencyMs": 781,
+  "executedAt": "2026-10-16T16:18:10.810Z",
+  "latencyMs": 800,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #246: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #247: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "F5FtUS4SVy2o36RvowgEKe3FJnFN5HRPM4u6Egvspump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Meet Santaro (サンタロウ), a baby western lowland gorilla born at Kyoto City Zoo.\n\nSantaro is becoming an internet sensation with his funny creative personality.",
+      "url": "https://dexscreener.com/solana/f5ftus4svy2o36rvowgeke3fjnfn5hrpm4u6egvspump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "2qfUSuUfKuxHyYEMYreiYdK3YyapFzbgq2c6hhfPpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "LarpScanner is a Solana onchain security tool designed to expose suspicious wallets, potential scams, drainer connections, and hidden red flags. Going beyond tr",
+      "url": "https://dexscreener.com/solana/2qfusuufkuxhyyemyreiydk3yyapfzbgq2c6hhfppump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "9g4Pib6AM3oVdP9YA7ZcssAXAuhoUzkjR8w27doYpump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 100,
       "description": "illusion",
       "url": "https://dexscreener.com/solana/cpdbvrkdqnnbzdclcmpto1u84ep8frfdft84lme6pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "9r66E1DAp8WtG2ZQChEab2o23Larjb8HsJ2zfvz9pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "$RZ - RACHID ZARMANI\n\nThe moustache. The haircut. The dance. The legend.\n\nMeet Rachid Zarmani - the viral comedy character bringing style, humor and unforgettab",
-      "url": "https://dexscreener.com/solana/9r66e1dap8wtg2zqcheab2o23larjb8hsj2zfvz9pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "9ymTnjQfTVLzMRa2G5V1xxv7LnS8nnDdACr2hW8KGHPM",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Yilong Ma , Elon's Chinese alter ego, OG.",
-      "url": "https://dexscreener.com/solana/9ymtnjqftvlzmra2g5v1xxv7lns8nnddacr2hw8kghpm"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 751,
-      "priceBtc": 2.958633570914413e-7
+      "marketCapRank": 764,
+      "priceBtc": 2.9762728120802577e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00011036628648976024
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 96,
-      "priceBtc": 0.000008591699801162102
+      "priceBtc": 0.00011051594159026047
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.000021880472264662226
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 85,
-      "priceBtc": 0.00001075171844264195
+      "priceBtc": 0.000021808539364225363
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 34,
-      "priceBtc": 0.0034485461347355125
+      "priceBtc": 0.003454493254007468
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.316098191078762e-8
+      "priceBtc": 9.317529921699535e-8
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 99,
+      "priceBtc": 0.000008381202545571876
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006216544191770921
+      "priceBtc": 0.00006218944666592722
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 614,
+      "priceBtc": 0.0014236502097359628
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(templates): validate and recover contract funds",
+      "url": "https://github.com/soroban-forge-labs/soroban-forge/pull/566",
+      "createdAt": "2026-10-16T16:17:48Z"
+    },
+    {
+      "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
+      "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
+      "createdAt": "2026-10-09T09:52:33Z"
+    },
+    {
+      "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
+      "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
+      "createdAt": "2026-10-15T12:16:48Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "Qwen3.5 to 3.8 dense support (9B first)",
+      "url": "https://github.com/tpurtell/cuteafd/issues/276",
+      "createdAt": "2026-10-15T06:49:05Z"
+    },
+    {
       "title": "fix: stock drop external audit findings (Halborn H36–H53)",
       "url": "https://github.com/moonwell-fi/mamo-contracts/pull/117",
       "createdAt": "2026-10-16T15:59:11Z"
-    },
-    {
-      "title": "ファイアウォールとステルスモードを darwin.nix に書く",
-      "url": "https://github.com/lil-shimon/dotfiles/issues/198",
-      "createdAt": "2026-10-12T15:41:01Z"
-    },
-    {
-      "title": "manage the application firewall and stealth mode in darwin.nix",
-      "url": "https://github.com/lil-shimon/dotfiles/pull/216",
-      "createdAt": "2026-10-16T16:14:38Z"
-    },
-    {
-      "title": "The booking preview plans the preparation, and the booking's evidence is executed (part of #491)",
-      "url": "https://github.com/lambdasistemi/singular/pull/684",
-      "createdAt": "2026-10-16T16:14:39Z"
-    },
-    {
-      "title": "freighter-api is eagerly loaded and duplicated 4x across checkout/cashout/faucet pages",
-      "url": "https://github.com/Konfirm-xyz/konfirm-frontend/issues/81",
-      "createdAt": "2026-10-15T06:57:59Z"
-    },
-    {
-      "title": "No beforeunload warning during active wallet-signing on cashout, faucet, or payment flows",
-      "url": "https://github.com/Konfirm-xyz/konfirm-frontend/issues/106",
-      "createdAt": "2026-10-15T14:09:53Z"
     }
   ]
 }
