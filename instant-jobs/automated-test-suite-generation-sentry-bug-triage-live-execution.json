@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-16T07:57:36.636Z",
-  "latencyMs": 594,
+  "executedAt": "2026-10-16T08:02:22.131Z",
+  "latencyMs": 625,
   "companyName": "Automated Test Suite Generation & Sentry Bug Triage",
-  "workTitle": "Delivery Sprint #661: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
-  "targetUrl": "https://polymarket.com/event/will-any-country-leave-nato-in-2025",
+  "workTitle": "Growth & Sales Sprint #662: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "targetUrl": "https://polymarket.com/event/ukraine-election-called-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656621,
-        "liquidityUsd": 42362,
+        "liquidityUsd": 43028,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2169082,
-        "liquidityUsd": 95766,
+        "liquidityUsd": 95482,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059853,
-        "liquidityUsd": 2837,
+        "liquidityUsd": 3051,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 17752,
+        "liquidityUsd": 17805,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -82,7 +82,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00016,
         "liquidityUsd": 140028,
-        "volume24hUsd": 88945,
+        "volume24hUsd": 88951,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000084,
         "liquidityUsd": 21385,
-        "volume24hUsd": 83900,
+        "volume24hUsd": 83389,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -112,7 +112,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000097,
         "liquidityUsd": 12034,
-        "volume24hUsd": 3442,
+        "volume24hUsd": 3413,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
@@ -130,6 +130,36 @@
   "multiIndustryB2BContracts": {
     "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Manila Recruitment",
+        "roleOrTask": "Director US Tax & Accounting #35344",
+        "industryTags": [
+          "exec",
+          "accounting",
+          "education",
+          "technical",
+          "customer support"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Twoconnect",
+        "roleOrTask": "Project and Quality Administrator Work From Home Dayshift",
+        "industryTags": [
+          "work from home",
+          "jira",
+          "sys admin",
+          "education",
+          "customer support"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "RemoteOK-InstantB2B",
         "company": "Somnio Software",
@@ -169,33 +199,6 @@
         ],
         "compensation": "$500-$2,500 Instant Retainer",
         "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Utopia",
-        "roleOrTask": "Payment Operations Specialist",
-        "industryTags": [
-          "design",
-          "customer support",
-          "marketing",
-          "accounting",
-          "finance"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "iMerit Technology",
-        "roleOrTask": "AI Trainer",
-        "industryTags": [
-          "data annotation",
-          "ai training"
-        ],
-        "compensation": "$50000-$70000",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513",
         "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
       },
       {
