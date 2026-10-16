@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T02:33:22.845Z",
-  "latencyMs": 763,
+  "executedAt": "2026-10-16T02:38:50.296Z",
+  "latencyMs": 420,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #5: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #6: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52664327,
+    "liveBlockNumber": 52664491,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459008,
-    "baseMainnetTopPoolsVolume24hUsd": 257535,
+    "baseMainnetTopPoolsVolume24hUsd": 256317,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4auAZ2EVgAn53sLFpPgiyRpaiNgp65FtpqgdCQJQpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4auaz2evgan53slfppgiyrpaingp65ftpqgdcqjqpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6BbFopQe5GTJGvkb1VuwRs3RaMTgxfLJuz7UBHwpXixV",
@@ -75,12 +81,6 @@
         "tokenAddress": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
         "description": "The original (first-generation) Tesla Roadster, produced from 2008–2012, was internally code-named DarkStar during development.",
         "url": "https://dexscreener.com/solana/9jybtj84nzpqrs3zpkngdwdrmmda6i6wvaetu1x5pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xb8f0CD88B020e005dB741e14968bb2c9033057E4",
-        "description": "the viral Rocket League trend",
-        "url": "https://dexscreener.com/robinhood/0xb8f0cd88b020e005db741e14968bb2c9033057e4"
       }
     ]
   },
