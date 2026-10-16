@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T21:55:26.494Z",
-  "latencyMs": 560,
+  "executedAt": "2026-10-16T22:03:20.591Z",
+  "latencyMs": 342,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #323: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #324: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52699189,
+    "liveBlockNumber": 52699426,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 288075,
+    "baseMainnetTopPoolsVolume24hUsd": 287000,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xa01fF10774CFe53C3FBC1D7D124c42e19F6AfcBD",
+        "description": "Nobody knows where OWOWO came from.\n\nNo roadmap. No promises. Just vibes and a stare you can’t unsee.",
+        "url": "https://dexscreener.com/robinhood/0xa01ff10774cfe53c3fbc1d7d124c42e19f6afcbd"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9piNCtrdv2KC9V2uQ2ECFUvqw8m6xmnipC2QBXjHpump",
+        "description": "50-foot statue of Prometheus set to be erected at SpaceX’s Starbase, Texas.",
+        "url": "https://dexscreener.com/solana/9pinctrdv2kc9v2uq2ecfuvqw8m6xmnipc2qbxjhpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EFb8GpUxeCGiUygQKt8WgwHDHX7Ntgm4f87jfDfmpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/efb8gpuxecgiuygqkt8wgwhdhx7ntgm4f87jfdfmpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2Y1SU9ntRrfMi3EbDzPcUCBRqkTa94h6CLJKiyLxjxoz",
+        "description": "The iconic Pumpfun pill gets a spooky makeover! Halloween colors meet Pumpfun culture, bringing pumpkins, pumps, and pure memecoin energy together!",
+        "url": "https://dexscreener.com/solana/2y1su9ntrrfmi3ebdzpcucbrqkta94h6cljkiylxjxoz"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CxXQLK4vaN6R4D3Sc8T6QJEvUiKd6Q1gcc1inv8Zpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "3bKCZ9BpteoBjE58fVVSgjUirpmCofeoJ6u5wrw77P9r",
         "description": "SpaceX is hosting a community event to fundraise for Brevard Zoo's Restore Our Shores program\n\nSpecifically the Indian River Lagoon restoration, a critical habi",
         "url": "https://dexscreener.com/solana/3bkcz9bpteobje58fvvsgjuirpmcofeoj6u5wrw77p9r"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8E8JGHugAoZTaYNQLcVzyy6oKbh2BFx2YoFhd31pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8e8jghugaoztaynqlcvzyy6okbh2bfx2yofhd31pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8itqQy8rFf2mdqujSoBJMSNcnfDj2ipsjA4mLb6wpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8itqqy8rff2mdqujsobjmsncnfdj2ipsja4mlb6wpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CZbQqZYh72eh8RLkVCTsjpkC5o5wHCLhHDzGvsdjpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/czbqqzyh72eh8rlkvctsjpkc5o5whclhhdzgvsdjpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2UJjBXfQkVmK2CVj32E7xUjit2nPs9ZvBv6aX3qhpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2ujjbxfqkvmk2cvj32e7xujit2nps9zvbv6ax3qhpump"
       }
     ]
   },
