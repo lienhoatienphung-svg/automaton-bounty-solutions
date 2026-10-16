@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T21:15:48.973Z",
-  "latencyMs": 380,
+  "executedAt": "2026-10-16T21:17:20.885Z",
+  "latencyMs": 349,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #314: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #315: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52698000,
+    "liveBlockNumber": 52698046,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 287660,
+    "baseMainnetTopPoolsLiquidityUsd": 459009,
+    "baseMainnetTopPoolsVolume24hUsd": 287685,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Hbtqitgirz36pwHhm8XvnPwdYwCwFgU28mUo7TDmpump",
+        "description": "Rich Gru $Gru Is the official Token of Rich Gru, The Rich Gru who stole the moon and flexes money in viral short videos.",
+        "url": "https://dexscreener.com/solana/hbtqitgirz36pwhhm8xvnpwdywcwfgu28muo7tdmpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9qMJWVfQpBGQZttMEpqKvQhEqjVKy6hSxZ6M877Spump",
+        "description": "Cars can fly. So can our coins. But what’s the Air time? \n\nAIR helps you find it—and rewards you for calling it right.",
+        "url": "https://dexscreener.com/solana/9qmjwvfqpbgqzttmepqkvqheqjvky6hsxz6m877spump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "H7oLdpnF3qiinJ7sDjH7BTsBbPbHMcU2hbLyVehxpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "6UM6XAa9MaYR7K9Ece7P2RmjVTkwpZtLkX7SsGAXpump",
         "description": "Like FOMO, but for NFTs",
         "url": "https://dexscreener.com/solana/6um6xaa9mayr7k9ece7p2rmjvtkwpztlkx7ssgaxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4BeW631LeJq6zgLLhnEWPbiQALJQLza9WwfxcaJMpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4bew631lejq6zgllhnewpbiqaljqlza9wwfxcajmpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HygnX1kQ7SQFjmAr8sNuRQYe6UXyoWxhMEvVKp4Lpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hygnx1kq7sqfjmar8snurqye6uxyowxhmevvkp4lpump"
       }
     ]
   },
