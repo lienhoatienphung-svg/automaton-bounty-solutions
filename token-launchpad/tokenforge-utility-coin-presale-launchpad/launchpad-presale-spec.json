@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T06:02:47.984Z",
-  "latencyMs": 258,
+  "executedAt": "2026-10-16T06:05:44.024Z",
+  "latencyMs": 271,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #67: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #68: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52670610,
+    "liveBlockNumber": 52670698,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459012,
-    "baseMainnetTopPoolsVolume24hUsd": 230122,
+    "baseMainnetTopPoolsVolume24hUsd": 229916,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DuaSA2YynBhqyW26n48EX7qtdRWKHtnVjR8fsE5spump",
+        "description": "Elons pet goldfish",
+        "url": "https://dexscreener.com/solana/duasa2yynbhqyw26n48ex7qtdrwkhtnvjr8fse5spump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "inMxWovQE5CrgXCLeXZhZroqikRuZzNmWgJd4YfKone",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/inmxwovqe5crgxclexzhzroqikruzznmwgjd4yfkone"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "D4rzv9WAXJh9QZw1MjqfrtuSrmrkV4DckPTKBoMnpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "edWxH37cPRotq8NqN3TAmSE2VdLZ9bPwpMLoNEmpump",
         "description": "Discover what's\nmoving next.\nParivision follows emerging activity across digital markets — connecting shifts in liquidity, participation and attention into a cl",
         "url": "https://dexscreener.com/solana/edwxh37cprotq8nqn3tamse2vdlz9bpwpmlonempump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2fk5eGwAch1wGhsK3XhRUZpopXFGyRbFUn6XL4Yxpump",
-        "description": "Mini Hero DG (MHDG) is the utility token of Universe Mini Hero, a browser-based pixel-art dungeon farming game. Summon heroes, battle monsters, and earn $MHDG. ",
-        "url": "https://dexscreener.com/solana/2fk5egwach1wghsk3xhruzpopxfgyrbfun6xl4yxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CFR5SYMEqstSC5uDArJja3uJcKhgCGz5a7Vmg2vBpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/cfr5symeqstsc5udarjja3ujckhgcgz5a7vmg2vbpump"
       }
     ]
   },
