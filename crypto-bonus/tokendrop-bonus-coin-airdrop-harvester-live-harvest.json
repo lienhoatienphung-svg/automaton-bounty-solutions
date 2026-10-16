@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T16:09:05.568Z",
-  "latencyMs": 1183,
+  "executedAt": "2026-10-16T16:15:21.784Z",
+  "latencyMs": 781,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #245: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #246: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
-      "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
-      "createdAt": "2026-10-15T12:16:48Z"
+      "title": "fix: stock drop external audit findings (Halborn H36–H53)",
+      "url": "https://github.com/moonwell-fi/mamo-contracts/pull/117",
+      "createdAt": "2026-10-16T15:59:11Z"
     },
     {
-      "title": "chore(deps): update all non-major dependencies",
-      "url": "https://github.com/reddoorla/revogen/pull/82",
-      "createdAt": "2026-09-21T16:46:12Z"
+      "title": "ファイアウォールとステルスモードを darwin.nix に書く",
+      "url": "https://github.com/lil-shimon/dotfiles/issues/198",
+      "createdAt": "2026-10-12T15:41:01Z"
     },
     {
-      "title": "fix(web-client): hold the store lock for every chain MMR writer",
-      "url": "https://github.com/0xMiden/web-sdk/pull/482",
-      "createdAt": "2026-10-16T13:02:21Z"
+      "title": "manage the application firewall and stealth mode in darwin.nix",
+      "url": "https://github.com/lil-shimon/dotfiles/pull/216",
+      "createdAt": "2026-10-16T16:14:38Z"
     },
     {
-      "title": "Checkout and faucet long-polls can update state after unmount",
-      "url": "https://github.com/Konfirm-xyz/konfirm-frontend/issues/39",
-      "createdAt": "2026-10-14T17:40:44Z"
+      "title": "The booking preview plans the preparation, and the booking's evidence is executed (part of #491)",
+      "url": "https://github.com/lambdasistemi/singular/pull/684",
+      "createdAt": "2026-10-16T16:14:39Z"
     },
     {
-      "title": "Verifiable Merkle Airdrop Claim Contract on Soroban",
-      "url": "https://github.com/Lumen-Nexora/Nexora/issues/16",
-      "createdAt": "2026-10-16T11:34:26Z"
+      "title": "freighter-api is eagerly loaded and duplicated 4x across checkout/cashout/faucet pages",
+      "url": "https://github.com/Konfirm-xyz/konfirm-frontend/issues/81",
+      "createdAt": "2026-10-15T06:57:59Z"
     },
     {
-      "title": "Add batch deposit for multiple recipients in one transaction",
-      "url": "https://github.com/soterika/aura-vault-protocol/issues/932",
-      "createdAt": "2026-09-21T21:59:58Z"
+      "title": "No beforeunload warning during active wallet-signing on cashout, faucet, or payment flows",
+      "url": "https://github.com/Konfirm-xyz/konfirm-frontend/issues/106",
+      "createdAt": "2026-10-15T14:09:53Z"
     }
   ]
 }
