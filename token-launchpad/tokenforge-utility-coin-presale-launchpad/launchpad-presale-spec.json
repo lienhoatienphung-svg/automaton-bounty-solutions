@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T14:15:03.004Z",
-  "latencyMs": 470,
+  "executedAt": "2026-10-16T14:16:55.184Z",
+  "latencyMs": 245,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #212: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #213: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52685377,
+    "liveBlockNumber": 52685433,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459004,
-    "baseMainnetTopPoolsVolume24hUsd": 287131,
+    "baseMainnetTopPoolsVolume24hUsd": 287360,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2CHXByWDhVQvYVvwAhvce6RedatHEaxoJLNi9TJdpump",
+        "description": "SPACEX LITERALLY SENT A TEDDY BEAR INTO SPACE TWICE AND IT HAS AN OFFICIAL NAME\n\nBack in 2023, Axiom Space partnered with Build-A-Bear  to create a bear named G",
+        "url": "https://dexscreener.com/solana/2chxbywdhvqvyvvwahvce6redatheaxojlni9tjdpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x351e3ee4d6a0eeb1986826cc2f673373516b9b80",
@@ -75,12 +81,6 @@
         "tokenAddress": "5xri1bAx8YEYe5JZ25tehxcxehfJD76NJq5YbGFepump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/5xri1bax8yeye5jz25tehxcxehfjd76njq5ybgfepump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0xacF4a28e49E385E6a79B6D3FF60B080981067777",
-        "description": "🌹 Dividends have been distributed in the stock, and if you want to open a contract, do you still need to sell it? No need to sell, no need to sell, no need to ",
-        "url": "https://dexscreener.com/bsc/0xacf4a28e49e385e6a79b6d3ff60b080981067777"
       }
     ]
   },
