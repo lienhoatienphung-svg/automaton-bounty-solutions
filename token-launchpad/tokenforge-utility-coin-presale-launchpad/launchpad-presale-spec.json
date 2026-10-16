@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T13:56:53.778Z",
-  "latencyMs": 727,
+  "executedAt": "2026-10-16T14:01:07.897Z",
+  "latencyMs": 250,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #207: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #208: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52684833,
+    "liveBlockNumber": 52684960,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 293613,
+    "baseMainnetTopPoolsVolume24hUsd": 293608,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "KXj1FQSqKfzoEAjBY9QTdkts3S3eHnSuL2Dk8pspump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/kxj1fqsqkfzoeajby9qtdkts3s3ehnsul2dk8pspump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xe0e2795595ff2284854154600f9a47046cff876a",
@@ -75,12 +81,6 @@
         "tokenAddress": "7Jain9Efy7C4HvGkEPkNUUiGUmgu5tkff7NWvCvGpump",
         "description": "Pumpfun nodded to “we ate off that twin” in their note regarding Callout multipliers. Go to your profile, check your stats,and scroll down! Paired w Pump / Rewa",
         "url": "https://dexscreener.com/solana/7jain9efy7c4hvgkepknuuigumgu5tkff7nwvcvgpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
-        "description": "Audacity Roadster",
-        "url": "https://dexscreener.com/solana/3xmzhi86jtudye7buut9tdbpzlebk9nbca44jhrdpump"
       }
     ]
   },
