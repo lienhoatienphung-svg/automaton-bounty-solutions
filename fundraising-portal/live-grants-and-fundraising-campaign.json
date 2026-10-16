@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T22:07:40.862Z",
-  "latencyMs": 1129,
+  "executedAt": "2026-10-16T22:08:30.404Z",
+  "latencyMs": 1750,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
   "workTitle": "Delivery Sprint #309: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "chore(deps): update docker.io/vikunja/vikunja docker tag to v2.7.0",
-          "url": "https://github.com/cunialino/homelab/pull/109",
-          "repositoryUrl": "https://api.github.com/repos/cunialino/homelab",
-          "updatedAt": "2026-10-16T22:07:37Z"
-        },
-        {
-          "title": "Decision: merged-branch cleanup authorization for unattended Loom merges",
-          "url": "https://github.com/rjwalters/loom/issues/11614",
-          "repositoryUrl": "https://api.github.com/repos/rjwalters/loom",
-          "updatedAt": "2026-10-16T22:07:35Z"
-        },
-        {
-          "title": "[Comment roles] - Step 1: Make each person's role the only control over comments",
-          "url": "https://github.com/Brevilabs/OpenArtifacts/pull/115",
-          "repositoryUrl": "https://api.github.com/repos/Brevilabs/OpenArtifacts",
-          "updatedAt": "2026-10-16T22:07:38Z"
-        },
-        {
-          "title": "Add Xpress direct and persistent solver interfaces",
-          "url": "https://github.com/Pyomo/pyomo/pull/3987",
-          "repositoryUrl": "https://api.github.com/repos/Pyomo/pyomo",
-          "updatedAt": "2026-10-16T22:07:34Z"
-        },
-        {
-          "title": "VEL-GOV-002: reconcile effective governance and current state after CI merge",
-          "url": "https://github.com/Ben-001-sys/Vellistry/pull/75",
-          "repositoryUrl": "https://api.github.com/repos/Ben-001-sys/Vellistry",
-          "updatedAt": "2026-10-16T22:07:34Z"
-        },
-        {
-          "title": "Evoluir fluxo público e separar controles Superadmin por tenant",
-          "url": "https://github.com/FLUXO-ATENTO/fluxo_atento_fullstack/pull/11",
-          "repositoryUrl": "https://api.github.com/repos/FLUXO-ATENTO/fluxo_atento_fullstack",
-          "updatedAt": "2026-10-16T22:07:34Z"
-        },
-        {
-          "title": "Retire product UI contracts and compatibility runtime",
-          "url": "https://github.com/devantler-tech/data-product-controller/issues/392",
-          "repositoryUrl": "https://api.github.com/repos/devantler-tech/data-product-controller",
-          "updatedAt": "2026-10-16T22:07:34Z"
-        },
-        {
-          "title": "Support for Limited?",
-          "url": "https://github.com/jackmaiorino/mtg-kernel/issues/110",
-          "repositoryUrl": "https://api.github.com/repos/jackmaiorino/mtg-kernel",
-          "updatedAt": "2026-10-16T22:07:34Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
