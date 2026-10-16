@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T04:25:55.843Z",
-  "latencyMs": 320,
+  "executedAt": "2026-10-16T04:31:34.488Z",
+  "latencyMs": 335,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #39: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #40: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52667704,
+    "liveBlockNumber": 52667873,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459011,
-    "baseMainnetTopPoolsVolume24hUsd": 229554,
+    "baseMainnetTopPoolsLiquidityUsd": 459009,
+    "baseMainnetTopPoolsVolume24hUsd": 228264,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "ETSdyqD8pxcPcQmbkQrd3yc3YqsuBzGzmiPUWJKMpump",
+        "description": "you’ve never been able to fund claude with sol.\n\nlet alone flip a coin for more ai credits.\n\nnow you can.",
+        "url": "https://dexscreener.com/solana/etsdyqd8pxcpcqmbkqrd3yc3yqsubzgzmipuwjkmpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
@@ -75,12 +81,6 @@
         "tokenAddress": "9HwgyhM3gPP5GNoqeb5SWPiF83qFnMvbhaao75bZpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/9hwgyhm3gpp5gnoqeb5swpif83qfnmvbhaao75bzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CbAeScGTv9sjGHtDRQsfqHzgSWupueN4Nduz7mBSpump",
-        "description": "No risk no roadster",
-        "url": "https://dexscreener.com/solana/cbaescgtv9sjghtdrqsfqhzgswupuen4nduz7mbspump"
       }
     ]
   },
