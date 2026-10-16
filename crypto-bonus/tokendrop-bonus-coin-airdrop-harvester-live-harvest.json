@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T19:35:06.462Z",
-  "latencyMs": 836,
+  "executedAt": "2026-10-16T19:38:23.772Z",
+  "latencyMs": 857,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #294: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #295: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,72 +217,57 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 725,
-      "priceBtc": 3.14619066967e-7
+      "marketCapRank": 736,
+      "priceBtc": 3.12280605024e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010617636367360002
+      "priceBtc": 0.00010610510133425471
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 612,
+      "priceBtc": 0.0014259373784481562
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9977829747674153
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 109,
-      "priceBtc": 8.936762919311817e-7
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006124223881363143
+      "priceBtc": 8.894046875602579e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 105,
-      "priceBtc": 0.00002112338215198767
+      "priceBtc": 0.00002107290474685618
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 615,
-      "priceBtc": 0.0014261653019827726
-    },
-    {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.274129884521565e-8
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.000061172434100123
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 90,
-      "priceBtc": 0.00003841956476240834
+      "priceBtc": 0.000038074879947315346
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Mine ELECTRIC on the CPU with a keyless fee pot",
-      "url": "https://github.com/CyberAshven/pickaxe-miner/pull/51",
-      "createdAt": "2026-10-15T15:31:06Z"
-    },
-    {
-      "title": "Privy wallet: Privy EOA owns Alchemy MAv2 + on-chain one-tap sessions (self-pay)",
-      "url": "https://github.com/makerlee0x/disciple/pull/59",
-      "createdAt": "2026-10-16T19:23:02Z"
-    },
-    {
-      "title": "T5 PR2: 空投从配置池随机选择原版宝箱战利品表",
-      "url": "https://github.com/ZeroPointSix/sound-isolating-eraser/pull/49",
-      "createdAt": "2026-10-16T19:24:48Z"
-    },
-    {
-      "title": "📦 Pending promotion: dev → main",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
-      "createdAt": "2026-06-29T11:18:37Z"
+      "title": "The devnet edge fronts one connector, the relay's, at toonprotocol.dev",
+      "url": "https://github.com/toon-protocol/infra/pull/57",
+      "createdAt": "2026-10-16T19:37:54Z"
     },
     {
       "title": "🤝 Agent coordination channel (standing, vol. 2)",
@@ -290,9 +275,24 @@
       "createdAt": "2026-09-20T06:23:41Z"
     },
     {
-      "title": "Refactor app architecture and modernize codebase",
-      "url": "https://github.com/Kazuto-dev/thesismob/pull/4",
-      "createdAt": "2026-10-09T07:22:31Z"
+      "title": "[rolloutengine] Replace task sessions with registered harnesses",
+      "url": "https://github.com/marin-community/marin/pull/10203",
+      "createdAt": "2026-10-16T17:41:36Z"
+    },
+    {
+      "title": "docs(hyperliquid): Build on Totalis section, SDK 0.51.0 (TT-2205)",
+      "url": "https://github.com/totalistrading/docs/pull/116",
+      "createdAt": "2026-10-16T19:15:19Z"
+    },
+    {
+      "title": "Privy wallet: Privy EOA owns Alchemy MAv2 + on-chain one-tap sessions (self-pay)",
+      "url": "https://github.com/makerlee0x/disciple/pull/59",
+      "createdAt": "2026-10-16T19:23:02Z"
+    },
+    {
+      "title": "Refactor GRPO sync examples",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/59514",
+      "createdAt": "2026-10-06T16:43:19Z"
     }
   ]
 }
