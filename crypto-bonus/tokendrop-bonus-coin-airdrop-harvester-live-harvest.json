@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T18:54:36.886Z",
-  "latencyMs": 800,
+  "executedAt": "2026-10-16T18:56:25.847Z",
+  "latencyMs": 1284,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #284: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #285: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,57 +217,72 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 746,
-      "priceBtc": 3.10019391864e-7
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.0000611752482311925
+      "marketCapRank": 754,
+      "priceBtc": 3.01099590268e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010525818958314905
+      "priceBtc": 0.00010581747210042744
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006119115655750592
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 614,
+      "priceBtc": 0.001424092188386565
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9963875130235034
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 613,
-      "priceBtc": 0.001420415168157299
+      "priceBtc": 0.9985374408891075
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 105,
-      "priceBtc": 0.000021429604378098696
+      "priceBtc": 0.00002147373457660753
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012378675092090544
+      "priceBtc": 0.000012372921667193203
     },
     {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.2380183188682146e-8
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 109,
+      "priceBtc": 8.85003474860895e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "test(sui): bump localnet image to sui v1.81.1, enable gRPC query parity, fix gRPC epoch read mask",
-      "url": "https://github.com/MystenLabs/ts-sdks/pull/1322",
-      "createdAt": "2026-10-13T20:51:23Z"
+      "title": "test(functional): cover community token mint, airdrop, and burn",
+      "url": "https://github.com/status-im/status-go/pull/7942",
+      "createdAt": "2026-10-15T09:09:13Z"
+    },
+    {
+      "title": "docs(messaging): run a delivery node with an RLN membership on LEZ",
+      "url": "https://github.com/logos-co/logos-docs/pull/571",
+      "createdAt": "2026-10-16T00:23:13Z"
+    },
+    {
+      "title": "feat(sui)!: replace the TransactionData inputs and commands with its kind (3.0 stack)",
+      "url": "https://github.com/MystenLabs/ts-sdks/pull/1344",
+      "createdAt": "2026-10-16T00:30:17Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
       "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-12T21:43:27Z"
     },
     {
-      "title": "Support the inference-money USDC as a second payment token",
-      "url": "https://github.com/Galactica-corp/aztec-x402/pull/16",
-      "createdAt": "2026-10-16T08:15:55Z"
-    },
-    {
-      "title": "Ingestion readiness 2026-10-16 — NOT ready: 11 blockers (tile/designer-only discovery prompts, metadata extraction crash, truncated uploads,",
-      "url": "https://github.com/creativeghq/material-kai-vision-platform/issues/494",
-      "createdAt": "2026-10-16T13:49:06Z"
-    },
-    {
-      "title": "Equity checkpoints: start the own book from its own baseline",
-      "url": "https://github.com/dossantostampafl-lab/Proto/pull/302",
-      "createdAt": "2026-10-16T18:52:52Z"
-    },
-    {
-      "title": "[KAIOS AU WINDOW] 衡曜｜General Manager・神經突觸公開窗口",
-      "url": "https://github.com/klineodyssey/kline-odyssey/issues/584",
-      "createdAt": "2026-10-12T07:28:20Z"
+      "title": "test(sui): bump localnet image to sui v1.81.1, enable gRPC query parity, fix gRPC epoch read mask",
+      "url": "https://github.com/MystenLabs/ts-sdks/pull/1322",
+      "createdAt": "2026-10-13T20:51:23Z"
     }
   ]
 }
