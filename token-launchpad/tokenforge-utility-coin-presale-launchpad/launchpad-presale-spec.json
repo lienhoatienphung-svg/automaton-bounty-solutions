@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T21:53:32.829Z",
-  "latencyMs": 585,
+  "executedAt": "2026-10-16T21:55:26.494Z",
+  "latencyMs": 560,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #322: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #323: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52699132,
+    "liveBlockNumber": 52699189,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 288079,
+    "baseMainnetTopPoolsVolume24hUsd": 288075,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CxXQLK4vaN6R4D3Sc8T6QJEvUiKd6Q1gcc1inv8Zpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cxxqlk4van6r4d3sc8t6qjevuikd6q1gcc1inv8zpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "AreFDt5oC2d3LvKc3jWKTKp3UJ5heefDjKx2t2rSpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/arefdt5oc2d3lvkc3jwktkp3uj5heefdjkx2t2rspump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CJCU1Yw4YA4FAPAuewdPPdoC5Mf1m4RGyZSNFXv5sYJF",
@@ -69,18 +81,6 @@
         "tokenAddress": "2UJjBXfQkVmK2CVj32E7xUjit2nPs9ZvBv6aX3qhpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/2ujjbxfqkvmk2cvj32e7xujit2nps9zvbv6ax3qhpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4vWeaRjbaeK4BUi3Dnjhy4gyyFq9DVvdpXK1DJW9pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4vwearjbaek4bui3dnjhy4gyyfq9dvvdpxk1djw9pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4BMyUFi5S5DbjMBvrUy8kCPVZLYdbzqEoBgjoHEHpump",
-        "description": "inu is spending millions on onboarding. callout rewards, updates, KOLs and now referrals. we somehow never ran the most viral inu on board meme on the internet.",
-        "url": "https://dexscreener.com/solana/4bmyufi5s5dbjmbvruy8kcpvzlydbzqeobgjohehpump"
       }
     ]
   },
