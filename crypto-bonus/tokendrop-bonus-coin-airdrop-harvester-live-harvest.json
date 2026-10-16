@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T12:21:11.501Z",
-  "latencyMs": 1006,
+  "executedAt": "2026-10-16T12:22:51.417Z",
+  "latencyMs": 1954,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #182: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #183: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 600419,
-      "apyBase": 4.41,
-      "apyRewardBonus": 216251.27,
-      "apyTotal": 216255.68,
+      "tvlUsd": 598255,
+      "apyBase": 4.37,
+      "apyRewardBonus": 217471.22,
+      "apyTotal": 217475.59,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 931382,
-      "apyBase": 17.54,
-      "apyRewardBonus": 119927.53,
-      "apyTotal": 119945.07,
+      "tvlUsd": 946344,
+      "apyBase": 18.23,
+      "apyRewardBonus": 124241.39,
+      "apyTotal": 124259.62,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -43,11 +43,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "TRUST-USDC",
+      "tvlUsd": 265334,
+      "apyBase": 183.33,
+      "apyRewardBonus": 123771.18,
+      "apyTotal": 123954.52,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1148809,
-      "apyBase": 1.48,
-      "apyRewardBonus": 81892.6,
-      "apyTotal": 81894.08,
+      "tvlUsd": 1147521,
+      "apyBase": 1.54,
+      "apyRewardBonus": 85268.86,
+      "apyTotal": 85270.4,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -57,10 +70,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 56434,
+      "tvlUsd": 56268,
       "apyBase": 0,
-      "apyRewardBonus": 40144.93,
-      "apyTotal": 40144.93,
+      "apyRewardBonus": 40388.59,
+      "apyTotal": 40388.59,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -69,24 +82,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "TRUST-USDC",
-      "tvlUsd": 266504,
-      "apyBase": 71.84,
-      "apyRewardBonus": 27834.48,
-      "apyTotal": 27906.32,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "AVNT-USDC",
-      "tvlUsd": 715763,
+      "tvlUsd": 711948,
       "apyBase": 0.62,
-      "apyRewardBonus": 9904.48,
-      "apyTotal": 9905.1,
+      "apyRewardBonus": 9966.28,
+      "apyTotal": 9966.9,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -96,10 +96,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 163399,
-      "apyBase": 26.55,
-      "apyRewardBonus": 6874.98,
-      "apyTotal": 6901.53,
+      "tvlUsd": 163621,
+      "apyBase": 27.99,
+      "apyRewardBonus": 6888.13,
+      "apyTotal": 6916.13,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -108,11 +108,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 209081,
+      "apyBase": 41.95,
+      "apyRewardBonus": 4168.57,
+      "apyTotal": 4210.52,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "WETH-CBBTC",
-      "tvlUsd": 2056756,
-      "apyBase": 96.97,
-      "apyRewardBonus": 5754.42,
-      "apyTotal": 5851.39,
+      "tvlUsd": 2088932,
+      "apyBase": 93.2,
+      "apyRewardBonus": 3690.29,
+      "apyTotal": 3783.49,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -121,28 +134,15 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-MUC",
-      "tvlUsd": 1007977,
-      "apyBase": 194.96,
-      "apyRewardBonus": 4372.65,
-      "apyTotal": 4567.61,
+      "symbol": "USDC-SPCXC",
+      "tvlUsd": 1032907,
+      "apyBase": 121.52,
+      "apyRewardBonus": 3350.08,
+      "apyTotal": 3471.6,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "3cd9aba2-1527-529a-9ecc-6bdc447494af"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-CBBTC",
-      "tvlUsd": 208860,
-      "apyBase": 41.38,
-      "apyRewardBonus": 4223.4,
-      "apyTotal": 4264.78,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
+      "poolId": "f3990eac-d0e2-545c-a52b-3304804ab529"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "On-policy joint-choice Non-Combat improvement under frozen potion-enabled Search",
+      "url": "https://github.com/lsmfttb/spire-research/issues/60",
+      "createdAt": "2026-10-16T04:02:07Z"
+    },
+    {
+      "title": "Supervisor iPhone app for TestFlight",
+      "url": "https://github.com/ARahim900/Guard-Touring-System/pull/11",
+      "createdAt": "2026-10-16T12:22:25Z"
+    },
+    {
+      "title": "Record the Intel Wireless-AC 8265 as failing",
+      "url": "https://github.com/t4t5/omdrop-owl/pull/66",
+      "createdAt": "2026-10-16T12:22:18Z"
+    },
+    {
+      "title": "Tame the coin lighting, pick coins out, and make the cash card a wallet",
+      "url": "https://github.com/paritytech/polkadot-ios-community/pull/284",
+      "createdAt": "2026-10-12T04:07:50Z"
+    },
+    {
+      "title": "faucet template: admin cannot withdraw funds or change the claim settings",
+      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/539",
+      "createdAt": "2026-10-15T21:49:08Z"
+    },
+    {
       "title": "fix(deps): update dependency lucide-react to v1",
       "url": "https://github.com/marc-aurele-besner/mymultisig-app/pull/701",
       "createdAt": "2026-10-16T01:48:52Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "Enable fuel tank containers and native original iron/cobalt melting recipes",
-      "url": "https://github.com/totevr31-ux/TinkersConstruct/pull/62",
-      "createdAt": "2026-10-16T12:17:23Z"
-    },
-    {
-      "title": "test: fix Unit CI (stale Stellar-era tests after the Solana port)",
-      "url": "https://github.com/tote-hq/solana/pull/24",
-      "createdAt": "2026-10-16T12:16:56Z"
-    },
-    {
-      "title": "Reads are slow on the playground: 509 ms public against 179 ms on the testnet and 182 ms on the history node — cause not yet attributed",
-      "url": "https://github.com/rchain-community/rchain-rust/issues/364",
-      "createdAt": "2026-10-15T10:53:16Z"
-    },
-    {
-      "title": "LND: qualify Taproot Assets mint, transfer, and RFQ payments on signet",
-      "url": "https://github.com/OpenAgentsInc/openagents/issues/11863",
-      "createdAt": "2026-10-16T12:03:26Z"
     }
   ]
 }
