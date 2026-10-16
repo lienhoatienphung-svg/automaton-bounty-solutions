@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T09:14:23.240Z",
-  "latencyMs": 844,
+  "executedAt": "2026-10-16T09:19:10.322Z",
+  "latencyMs": 1000,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #127: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #128: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,72 +217,57 @@
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 623,
-      "priceBtc": 4.117738406053917e-7
-    },
-    {
-      "name": "IGNITION",
-      "symbol": "IGNITION",
-      "marketCapRank": 862,
-      "priceBtc": 2.385176943869834e-7
+      "marketCapRank": 561,
+      "priceBtc": 4.621747146383207e-7
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 101,
-      "priceBtc": 0.00000828803771640253
+      "priceBtc": 0.000008337137700267768
+    },
+    {
+      "name": "IGNITION",
+      "symbol": "IGNITION",
+      "marketCapRank": 870,
+      "priceBtc": 2.3318453768317402e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00011157201514792093
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 106,
-      "priceBtc": 9.602016110629737e-7
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 102,
-      "priceBtc": 0.000023007789024208493
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 640,
-      "priceBtc": 0.0013476761554064125
+      "priceBtc": 0.00011174444759557335
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.354516658139313e-8
+      "priceBtc": 9.360042212472575e-8
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 640,
+      "priceBtc": 0.0013453151374762864
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 107,
+      "priceBtc": 9.587088525809093e-7
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 102,
+      "priceBtc": 0.00002307811579477917
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Add SDK support for contract address (C...) recipients",
-      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/114",
-      "createdAt": "2026-09-18T18:06:06Z"
-    },
-    {
-      "title": "test(functional): cover community token mint, airdrop, and burn",
-      "url": "https://github.com/status-im/status-go/pull/7942",
-      "createdAt": "2026-10-15T09:09:13Z"
-    },
-    {
-      "title": "release: rc.11 retained Alpha projects above corrected reputation source",
-      "url": "https://github.com/MontrealAI/AGIJobsv0/pull/3978",
-      "createdAt": "2026-10-16T07:11:58Z"
-    },
-    {
-      "title": "Add contract metric: total claimed amount",
-      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/127",
-      "createdAt": "2026-09-18T18:06:40Z"
+      "title": "Seksjon om å sende spor til en annen Trax-bruker",
+      "url": "https://github.com/stillerflaten/Trax-web/pull/43",
+      "createdAt": "2026-10-16T09:18:58Z"
     },
     {
       "title": "Add progress display to web frontend",
@@ -290,9 +275,24 @@
       "createdAt": "2026-09-18T18:06:42Z"
     },
     {
-      "title": "Upgrade to the Lepton v3 SDK, contain webhook ingestion, and stop inferring fabrication from absent receipts",
-      "url": "https://github.com/koamishin/OpenSinop/pull/42",
-      "createdAt": "2026-10-16T09:12:55Z"
+      "title": "[FLOP X] New official X signal",
+      "url": "https://github.com/raindogkitetu/Plain-text-codex-lab/issues/8",
+      "createdAt": "2026-09-22T10:07:33Z"
+    },
+    {
+      "title": "[Automated] AI Context Review — 2026-10-16",
+      "url": "https://github.com/0gfoundation/0g-doc/issues/424",
+      "createdAt": "2026-10-16T09:18:14Z"
+    },
+    {
+      "title": "Add contract metric: total claimed amount",
+      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/127",
+      "createdAt": "2026-09-18T18:06:40Z"
+    },
+    {
+      "title": "test(functional): cover community token mint, airdrop, and burn",
+      "url": "https://github.com/status-im/status-go/pull/7942",
+      "createdAt": "2026-10-15T09:09:13Z"
     }
   ]
 }
