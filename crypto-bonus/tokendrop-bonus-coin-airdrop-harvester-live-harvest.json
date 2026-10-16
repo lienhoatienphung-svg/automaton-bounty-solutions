@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T18:27:10.864Z",
-  "latencyMs": 1241,
+  "executedAt": "2026-10-16T18:31:07.924Z",
+  "latencyMs": 881,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #278: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #279: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "6hjaMcRPvB4DEGpHqgHxmgipb2vrGQWMewZBAVSLpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "This aint no state property",
+      "url": "https://dexscreener.com/solana/6hjamcrpvb4degphqghxmgipb2vrgqwmewzbavslpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "578PTPfHYjzgNdEeb5dN2vGQ3As4gkmD7s6qkcp8pump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 200,
       "description": "Uniting the Tesla × SpaceX narrative behind Elon's next-gen Roadster.",
       "url": "https://dexscreener.com/solana/g3nkprk3bvrndplcbtg53sibytphwdqitrnaiuq9pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "2aqkYwRa1sZrpvZ5nottuVs3csGtXJEYsc9QRY9wpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "The Roadster that flew, reborn as a cat. Four wheels, nine lives, zero gravity. $FTC on Solana.",
-      "url": "https://dexscreener.com/solana/2aqkywra1szrpvz5nottuvs3csgtxjeysc9qry9wpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,24 +265,9 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[DNM] Ablation: per-token change in log-probability from SFT to DPO",
-      "url": "https://github.com/stxxllbu/grounded-refusal/pull/30",
-      "createdAt": "2026-10-16T18:26:56Z"
-    },
-    {
-      "title": "Showcase: economy and law district (plan 5)",
-      "url": "https://github.com/lorecrafting/lokacore/pull/409",
-      "createdAt": "2026-10-16T14:04:49Z"
-    },
-    {
-      "title": "erratum: the hosted edition ratifies an 85/15 fee split (D-0525) and block-reward unlock credit (D-0527) that mirror 70e691c, decisions/ and",
-      "url": "https://github.com/flop-labs/yellowpaper/issues/165",
-      "createdAt": "2026-10-16T18:26:31Z"
-    },
-    {
-      "title": "perf(jit): resolve jumps through deep stacks and try/catch",
-      "url": "https://github.com/alloy-rs/evm2/pull/671",
-      "createdAt": "2026-10-16T18:24:54Z"
+      "title": "feat(gateway): daily feedback request job and email, off by default",
+      "url": "https://github.com/phaseoteam/Phaseo/pull/2911",
+      "createdAt": "2026-10-13T15:35:23Z"
     },
     {
       "title": "test(functional): cover community token mint, airdrop, and burn",
@@ -290,9 +275,24 @@
       "createdAt": "2026-10-15T09:09:13Z"
     },
     {
-      "title": "Qwen3.5 to 3.8 dense support (9B first)",
-      "url": "https://github.com/tpurtell/cuteafd/issues/276",
-      "createdAt": "2026-10-15T06:49:05Z"
+      "title": "Update registry.csv with new and modified entries",
+      "url": "https://github.com/Adisaok/chain-love/pull/4",
+      "createdAt": "2026-10-16T17:39:39Z"
+    },
+    {
+      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
+      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
+      "createdAt": "2026-10-12T21:43:27Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/Replikanti/flowlint-weblinter/pull/265",
+      "createdAt": "2026-03-26T20:39:49Z"
+    },
+    {
+      "title": "Base Sepolia: prepare MockUSD and public setup evidence",
+      "url": "https://github.com/akiibot/proofFi/pull/67",
+      "createdAt": "2026-10-16T18:28:04Z"
     }
   ]
 }
