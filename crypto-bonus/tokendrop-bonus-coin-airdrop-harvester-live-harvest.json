@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T07:34:19.987Z",
-  "latencyMs": 888,
+  "executedAt": "2026-10-16T07:37:59.197Z",
+  "latencyMs": 1257,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #97: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #98: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,67 +217,72 @@
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 738,
-      "priceBtc": 3.1505054560152063e-7
+      "marketCapRank": 741,
+      "priceBtc": 3.138500197669834e-7
     },
     {
       "name": "IGNITION",
       "symbol": "IGNITION",
-      "marketCapRank": 873,
-      "priceBtc": 2.3143185093311795e-7
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 104,
-      "priceBtc": 0.00002236612878856709
+      "marketCapRank": 878,
+      "priceBtc": 2.298211093964467e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00011299627627660943
+      "priceBtc": 0.0001124341016835281
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00006334359250076066
+      "priceBtc": 0.00006328949490283799
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.00002235092787329226
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 635,
+      "priceBtc": 0.001351251194724019
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 86,
-      "priceBtc": 0.000027443007840923753
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 637,
-      "priceBtc": 0.0013521098392408027
+      "priceBtc": 0.000027282336318627723
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
-      "marketCapRank": 99,
-      "priceBtc": 0.00000849231818943943
+      "marketCapRank": 101,
+      "priceBtc": 0.000008117412594737747
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(sampling): make per-request single-token draws independent of prefill chunking",
-      "url": "https://github.com/lightseekorg/tokenspeed/pull/2380",
-      "createdAt": "2026-10-15T13:42:04Z"
+      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
+      "url": "https://github.com/jsboige/CoursIA/pull/20377",
+      "createdAt": "2026-10-11T14:10:17Z"
     },
     {
-      "title": "⚠️ [MEDIUM] Unchecked Return Values in ERC-20 Transfer Calls inside `Airdrop.sol`",
-      "url": "https://github.com/StellarFlow-Network/stellarflow-contracts/issues/1187",
-      "createdAt": "2026-10-08T11:48:25Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "[Perf] Optimize DSV4.1 SM90 Indexer/TopK",
-      "url": "https://github.com/bytedance-iaas/sglang/pull/816",
-      "createdAt": "2026-10-09T10:15:53Z"
+      "title": "SESSION-NOAPPROVE: no token approve in the session (P-65)",
+      "url": "https://github.com/stolslilabs/paved/pull/487",
+      "createdAt": "2026-10-16T07:13:23Z"
+    },
+    {
+      "title": "Roadmap: Black Anvil network rollout",
+      "url": "https://github.com/LegendofKEK/bichael/issues/341",
+      "createdAt": "2026-10-16T02:23:31Z"
     },
     {
       "title": "chore(hosts): remove the Meld on-ramp and the Android fund module",
@@ -285,14 +290,9 @@
       "createdAt": "2026-10-08T09:06:25Z"
     },
     {
-      "title": "docs(adr): Sepolia tUSDC address and Safe T Circle USDC reading (#230)",
-      "url": "https://github.com/Nostidus4/TreasuryPilot/pull/566",
-      "createdAt": "2026-10-16T07:33:20Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "refactor: move speculative verification sampling into the rejection sampler.",
+      "url": "https://github.com/xLLM-AI/xllm/pull/2498",
+      "createdAt": "2026-10-16T06:08:03Z"
     }
   ]
 }
