@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T21:22:46.110Z",
-  "latencyMs": 340,
+  "executedAt": "2026-10-16T21:26:26.279Z",
+  "latencyMs": 312,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #316: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #317: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52698209,
+    "liveBlockNumber": 52698319,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 287852,
+    "baseMainnetTopPoolsVolume24hUsd": 287857,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5Zo3N1dzCDfZ5dQwxy44VFhBsKjsJJeWtUnxcLmHCcQF",
+        "description": "Slopcore artist. Powered by the best Super Intelligence. 💙\nCome for the visuals. Stay for the bangers.",
+        "url": "https://dexscreener.com/solana/5zo3n1dzcdfz5dqwxy44vfhbskjsjjewtunxclmhccqf"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x77Bd112a399F833F76cad118a74b7Fcc8108Dcc2",
+        "description": "Og Chad",
+        "url": "https://dexscreener.com/robinhood/0x77bd112a399f833f76cad118a74b7fcc8108dcc2"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7AtMhw7PRVbvBeHuGxCoCp9GssuZLP7EcCzC3jtypump",
+        "description": "Tesla-paired markets on Solana. Powered by $TSLAx. 42,000,000 supply. Four scarcity eras. Launch, trade, claim creator fees. Built on \n@MeteoraAG\n.",
+        "url": "https://dexscreener.com/solana/7atmhw7prvbvbehugxcocp9gssuzlp7ecczc3jtypump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xe6c6fc4286d3400d51C721c6d6054C8a2d7937f2",
@@ -63,24 +81,6 @@
         "tokenAddress": "H7oLdpnF3qiinJ7sDjH7BTsBbPbHMcU2hbLyVehxpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/h7oldpnf3qiinj7sdjh7btsbbpbhmcu2hblyvehxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "81gszkGUaFgc5CUzGBfQvqQ9KZAWPG4WJngoaYi6pump",
-        "description": "Retail",
-        "url": "https://dexscreener.com/solana/81gszkguafgc5cuzgbfqvqq9kzawpg4wjngoayi6pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "G4a7LoNyXGf7ENGMqpqioEwuq9A7z6veuLPAR4Xapump",
-        "description": "why don't we simply send $50 and a dream  \n\nliterally perfect coin for normies to full port in when they get onboarded from ref  \n\nall you need is $50 and a dre",
-        "url": "https://dexscreener.com/solana/g4a7lonyxgf7engmqpqioewuq9a7z6veulpar4xapump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "A1XkbqLayrZLC5f8C5Vo8c9UpUhseJPhV2p6s8kRpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/a1xkbqlayrzlc5f8c5vo8c9upuhsejphv2p6s8krpump"
       }
     ]
   },
