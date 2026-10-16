@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T12:22:53.372Z",
-  "latencyMs": 355,
+  "executedAt": "2026-10-16T12:26:48.502Z",
+  "latencyMs": 342,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #181: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #182: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52682013,
+    "liveBlockNumber": 52682130,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 327202,
+    "baseMainnetTopPoolsLiquidityUsd": 459006,
+    "baseMainnetTopPoolsVolume24hUsd": 330258,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x3B076DFa4fEFEC34Ce356eC14F2F540E7E738B7D",
+        "description": "ORAXEL is a Daily Price Prediction Game on BNB CHAIN where users Predict whether BNB will close Above or Below The Daily Strike Price. \n\nHow Does it Works.\n\n⏺️ ",
+        "url": "https://dexscreener.com/bsc/0x3b076dfa4fefec34ce356ec14f2f540e7e738b7d"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7Ka1RmfBGE1V1ehpjWfn9K8UrfQV6K98NnRW4WHPpump",
+        "description": "Tesla Roadster Accelerationism puts electric speed, memes, and the future into overdrive.",
+        "url": "https://dexscreener.com/solana/7ka1rmfbge1v1ehpjwfn9k8urfqv6k98nnrw4whppump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "EXhwpVBfRqtcE8aCjkDZgcTUc8JNPHgGxCSYpWxApump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x554AE941de6456751f9Db0E7AC9AC8fbf6497777",
         "description": "错过了中国人能飞，别再错过特斯拉能飞。全网已经炸了。从微博到X到TikTok，从科技圈到车圈到币圈，所有人都在讨论同一件事。CZ都在回复，矩阵式传播已经铺开。这种级别的叙事，一年能有几次？",
         "url": "https://dexscreener.com/bsc/0x554ae941de6456751f9db0e7ac9ac8fbf6497777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "y3jQiNMtGx5rSiR7uRrHgsefFMzuzpn9Ay7FGd9pump",
-        "description": "The Neverending Equity | $TNE\nBuilt on Solana. Designed for infinity.\n$TNE is a community-first project built around transparency, long-term participation and o",
-        "url": "https://dexscreener.com/solana/y3jqinmtgx5rsir7urrhgseffmzuzpn9ay7fgd9pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4ti7DQpMPKHcC72t8WBCQj2M8q9CkNu7Fbhwp1u1pump",
-        "description": "Much power. Such flight. Doge Tesla Roadster is taking meme energy to new heights. 🐕⚡️🚀",
-        "url": "https://dexscreener.com/solana/4ti7dqpmpkhcc72t8wbcqj2m8q9cknu7fbhwp1u1pump"
       }
     ]
   },
