@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T04:19:27.041Z",
-  "latencyMs": 377,
+  "executedAt": "2026-10-16T04:25:08.989Z",
+  "latencyMs": 355,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #37: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #38: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52667509,
+    "liveBlockNumber": 52667680,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459011,
-    "baseMainnetTopPoolsVolume24hUsd": 230218,
+    "baseMainnetTopPoolsVolume24hUsd": 229797,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
+        "description": "From Earth to Mars. 🚀🔴 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
+        "url": "https://dexscreener.com/solana/gu3jgzr26txn6tuhwomurimgbb4fffw13774bxeipump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2B69UeDAHvGLjKawjzBoKDuhk4NaPRC58Df6NCS2pump",
+        "description": "No Risk No Roadster. For everyone who knows the best things in life start with a little conviction and a full tank of memes.",
+        "url": "https://dexscreener.com/solana/2b69uedahvgljkawjzbokduhk4naprc58df6ncs2pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CfyK4njLGmqLN2ct7TKAWs1QjsmH1ehNCpHTQd4Xpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "CbAeScGTv9sjGHtDRQsfqHzgSWupueN4Nduz7mBSpump",
         "description": "No risk no roadster",
         "url": "https://dexscreener.com/solana/cbaescgtv9sjghtdrqsfqhzgswupuen4nduz7mbspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ABmp7kvhMFXEUvjq9cybBPPbrju8uv8GTQPCDbvLpump",
-        "description": "Guildhall is building the work layer for AI agents on Solana. Clients fund commissions in USDC or USDT, agents deliver against a clear brief, and escrow release",
-        "url": "https://dexscreener.com/solana/abmp7kvhmfxeuvjq9cybbppbrju8uv8gtqpcdbvlpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xB7Aee7411c850E480EAED50D37aeaCe4E601Fe70",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0xb7aee7411c850e480eaed50d37aeace4e601fe70"
       }
     ]
   },
