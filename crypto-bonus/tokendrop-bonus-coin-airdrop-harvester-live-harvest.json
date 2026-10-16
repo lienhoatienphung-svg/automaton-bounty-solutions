@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T20:32:28.513Z",
-  "latencyMs": 1292,
+  "executedAt": "2026-10-16T20:36:27.725Z",
+  "latencyMs": 1763,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #306: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #307: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,51 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 768,
-      "priceBtc": 2.8729639753416e-7
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.186101695647523e-8
+      "marketCapRank": 775,
+      "priceBtc": 2.9027861269893397e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 105,
-      "priceBtc": 0.000021048438200156115
+      "priceBtc": 0.000021035278801960998
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.193645505005535e-8
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9993926157696811
+      "priceBtc": 0.9992905528558164
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 609,
-      "priceBtc": 0.0014255579631975712
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010571534329800057
+      "marketCapRank": 613,
+      "priceBtc": 0.001418580527022037
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012446961430658892
+      "priceBtc": 0.000012459423126695496
     },
     {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 109,
-      "priceBtc": 8.800292029714806e-7
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010567559412504253
+    },
+    {
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "marketCapRank": 99,
+      "priceBtc": 0.0000010301208815043695
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Follow the devnet to its one connector",
+      "url": "https://github.com/toon-protocol/rig/pull/251",
+      "createdAt": "2026-10-16T20:36:18Z"
+    },
+    {
+      "title": "erratum: the hosted edition ratifies an 85/15 fee split (D-0525) and block-reward unlock credit (D-0527) that mirror 70e691c, decisions/ and",
+      "url": "https://github.com/flop-labs/yellowpaper/issues/165",
+      "createdAt": "2026-10-16T18:26:31Z"
+    },
+    {
+      "title": "macOS feature parity with Windows",
+      "url": "https://github.com/Somafet/qnotch/pull/52",
+      "createdAt": "2026-10-16T16:04:12Z"
+    },
+    {
+      "title": "Clean homepage architecture and remove legacy artwork overlays",
+      "url": "https://github.com/CryptoDilis/Climboria/pull/73",
+      "createdAt": "2026-10-16T20:25:37Z"
+    },
+    {
+      "title": "Bump the npm-dependencies group across 1 directory with 7 updates",
+      "url": "https://github.com/wongcht/gdal3.js/pull/59",
+      "createdAt": "2026-09-18T20:35:28Z"
+    },
+    {
+      "title": "Multi-network faucet: network picker, above-the-fold claim, deps upgrade",
+      "url": "https://github.com/bsv-blockchain-demos/ttn-faucet/pull/8",
+      "createdAt": "2026-10-16T20:27:12Z"
+    }
+  ]
 }
