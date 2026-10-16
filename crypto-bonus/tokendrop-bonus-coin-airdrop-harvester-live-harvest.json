@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T18:18:14.752Z",
-  "latencyMs": 798,
+  "executedAt": "2026-10-16T18:19:26.237Z",
+  "latencyMs": 680,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #276: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #277: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(deps): update dependency lucide-react ( 0.536.0 → 1.58.0 )",
+      "url": "https://github.com/juftin/camply-web/pull/191",
+      "createdAt": "2026-10-16T05:56:52Z"
+    },
+    {
+      "title": "feat: add Merkle batch payment proof verification for bulk disbursements",
+      "url": "https://github.com/MetroLogic/fluxapay_contract/issues/1026",
+      "createdAt": "2026-10-15T19:47:30Z"
+    },
+    {
+      "title": "feat: add on-chain Merkle batch payment proof verifier for bulk disbursements",
+      "url": "https://github.com/MetroLogic/fluxapay_contract/issues/1027",
+      "createdAt": "2026-10-15T20:01:13Z"
+    },
+    {
+      "title": "[rolloutengine] Replace task sessions with registered harnesses",
+      "url": "https://github.com/marin-community/marin/pull/10203",
+      "createdAt": "2026-10-16T17:41:36Z"
+    },
+    {
+      "title": "Tüm envanter PDF ve Excel olarak dışa aktarılıyor",
+      "url": "https://github.com/yasincirali/warranty-vault/pull/5",
+      "createdAt": "2026-10-16T18:18:47Z"
+    },
+    {
       "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
       "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
       "createdAt": "2026-10-12T21:43:27Z"
-    },
-    {
-      "title": "feat(web): public feedback page, one-click unsubscribe and prefilled redeem",
-      "url": "https://github.com/phaseoteam/Phaseo/pull/2910",
-      "createdAt": "2026-10-13T15:30:12Z"
-    },
-    {
-      "title": "feat(mongodb-search-and-ai): add guided quickstart walkthrough",
-      "url": "https://github.com/mongodb/agent-skills/pull/66",
-      "createdAt": "2026-09-17T23:10:10Z"
-    },
-    {
-      "title": "TransactionType is missing 26 transaction types the mirror node accepts",
-      "url": "https://github.com/hiero-hackers/hiero-enterprise-js/issues/332",
-      "createdAt": "2026-10-16T18:16:32Z"
-    },
-    {
-      "title": "Assembling sometimes panics with \"invalid source span: starting byte is out of bounds\" (wrong procedure name, missing imports)",
-      "url": "https://github.com/0xMiden/miden-vm/issues/2778",
-      "createdAt": "2026-03-05T03:12:36Z"
-    },
-    {
-      "title": "Wrong masm file shown on certain kinds of errors (missing import, possibly other)",
-      "url": "https://github.com/0xMiden/miden-vm/issues/2762",
-      "createdAt": "2026-03-02T18:05:13Z"
     }
   ]
 }
