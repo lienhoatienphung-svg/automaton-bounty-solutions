@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T05:54:21.282Z",
-  "latencyMs": 1160,
+  "executedAt": "2026-10-16T05:54:43.412Z",
+  "latencyMs": 929,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Growth & Sales Sprint #64: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "test(sui): ledger stream e2e on a subscription-enabled localnet GraphQL service (3.0 stack)",
+      "url": "https://github.com/MystenLabs/ts-sdks/pull/1355",
+      "createdAt": "2026-10-16T05:45:20Z"
+    },
+    {
       "title": "Restore aircraft racks, occupied vehicle transport and cargo drops",
       "url": "https://github.com/thisisforfreeAI/26.2-port-of-mcheli-cm/pull/19",
       "createdAt": "2026-10-16T05:51:19Z"
@@ -288,11 +293,6 @@
       "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
       "url": "https://github.com/ogabasseyy/Baci/pull/3651",
       "createdAt": "2026-10-09T07:30:01Z"
-    },
-    {
-      "title": "perf(jit): fold MLOADs of known memory words",
-      "url": "https://github.com/alloy-rs/evm2/pull/652",
-      "createdAt": "2026-10-16T02:02:15Z"
     }
   ]
 }
