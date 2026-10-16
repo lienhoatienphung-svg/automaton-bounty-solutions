@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T12:40:08.289Z",
-  "latencyMs": 886,
+  "executedAt": "2026-10-16T12:41:31.246Z",
+  "latencyMs": 883,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #188: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #189: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/44",
-      "createdAt": "2026-10-16T11:35:32Z"
-    },
-    {
       "title": "Restore native Smeltery item input, metal melting and transactional alloying",
       "url": "https://github.com/totevr31-ux/TinkersConstruct/pull/62",
       "createdAt": "2026-10-16T12:17:23Z"
+    },
+    {
+      "title": "Aanbieder: Binance",
+      "url": "https://github.com/zenonymous/box3balans/issues/52",
+      "createdAt": "2026-10-14T16:35:36Z"
+    },
+    {
+      "title": "contracts: cap a transfer at 50 USDC and the bridge principal at 1000",
+      "url": "https://github.com/gosh-sh/bridge/pull/101",
+      "createdAt": "2026-10-14T00:22:26Z"
+    },
+    {
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/44",
+      "createdAt": "2026-10-16T11:35:32Z"
     },
     {
       "title": "fix(deps): update dependency lucide-react to v1",
@@ -283,16 +293,6 @@
       "title": "Strip an agent's narration from its re-sent history",
       "url": "https://github.com/agencyenterprise/GlossoGen/pull/235",
       "createdAt": "2026-10-16T12:37:34Z"
-    },
-    {
-      "title": "Native share sheet and offline QR summary for the report",
-      "url": "https://github.com/MidZai/aman_check/issues/4",
-      "createdAt": "2026-10-16T12:37:34Z"
-    },
-    {
-      "title": "test: add integration tests for full payment lifecycle on Stellar testnet",
-      "url": "https://github.com/MetroLogic/fluxapay_contract/issues/1054",
-      "createdAt": "2026-10-15T20:06:56Z"
     }
   ]
 }
