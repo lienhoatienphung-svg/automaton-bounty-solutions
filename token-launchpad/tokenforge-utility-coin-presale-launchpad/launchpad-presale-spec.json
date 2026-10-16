@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T23:28:04.529Z",
-  "latencyMs": 455,
+  "executedAt": "2026-10-16T23:38:42.149Z",
+  "latencyMs": 603,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #339: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #340: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52701968,
+    "liveBlockNumber": 52702287,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 289066,
+    "baseMainnetTopPoolsVolume24hUsd": 289762,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xc3d0bfb2bc55661063839d9e222c8a16e5834cad",
+        "description": "$GPAD is the native utility token for GridPad, a compute-collateralized omnichain protocol bridging high-velocity speculation with DePIN. Every token purchase a",
+        "url": "https://dexscreener.com/robinhood/0xc3d0bfb2bc55661063839d9e222c8a16e5834cad"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8YuRZEpSFZPuJKUVWVodDwi8uhfMcYDUtt7XaGndpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "6nkfbXUHgG6ic4FB5PWcJUKRsTYm8WDMfQYKm8p3pump",
         "description": "Referral Strategy turns the new pumpfun referral system into the strongest onchain flywheel and strategy token\n\nReferral Strategy multiplies creator rewards usi",
         "url": "https://dexscreener.com/solana/6nkfbxuhgg6ic4fb5pwcjukrstym8wdmfqykm8p3pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EcM5omn7pV2qk2TrW4McQ7voWBV8sYR8JpjSoTw9pump",
-        "description": "Maya The Samoyed - $MAYA Born in Germany. Raised by Lingli Ye. Destined to farm memes across every timeline.",
-        "url": "https://dexscreener.com/solana/ecm5omn7pv2qk2trw4mcq7vowbv8syr8jpjsotw9pump"
       }
     ]
   },
