@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T16:40:31.415Z",
-  "latencyMs": 574,
+  "executedAt": "2026-10-16T16:44:07.452Z",
+  "latencyMs": 333,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #251: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #252: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52689742,
+    "liveBlockNumber": 52689850,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 289493,
+    "baseMainnetTopPoolsVolume24hUsd": 290313,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8jdHSCJRer9j6LWsYpBeo3BgmZz3cfAqYn8rqiZcpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8jdhscjrer9j6lwsypbeo3bgmzz3cfaqyn8rqizcpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "8PPBwReYK4w6iToNmhQqVCepp569CWQ56QC4VCf1pump",
+        "description": "The Solana memecoin scene belongs to cats right now. Enter $CATCYCLE! 🐈‍⬛💨\nCombining the unstoppable cat meta with lightning-fast two-wheel speed. Grab the ha",
+        "url": "https://dexscreener.com/solana/8ppbwreyk4w6itonmhqqvcepp569cwq56qc4vcf1pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "ESqM3d4138VPduJJ4on5cu3yBQ6UVdGeGQA54L3xpump",
+        "description": "The first inupreneur on solana",
+        "url": "https://dexscreener.com/solana/esqm3d4138vpdujj4on5cu3ybq6uvdgegqa54l3xpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "E416wJCtCgjVPeRirpHd1qDvKRUy5oW6dnNhWQuxpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "7KPCqB8mSAPjCQbCpjySebxaLoXBhCYPMXLS5ePapump",
         "description": "Elon Inu",
         "url": "https://dexscreener.com/solana/7kpcqb8msapjcqbcpjysebxaloxbhcypmxls5epapump"
-      },
-      {
-        "chainId": "near",
-        "tokenAddress": "kinu-3.nearlytrade.near",
-        "description": "KINU is the liquidity hub on NEAR. Find the pools that actually pay, provide concentrated liquidity with simple range tools, and swap at the best price across R",
-        "url": "https://dexscreener.com/near/kinu-3.nearlytrade.near"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2YoDFZRxvRzU3Y4Z2gLY5CsEaJmcjVihSd5mHJ7epump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2yodfzrxvrzu3y4z2gly5cseajmcjvihsd5mhj7epump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "F57KqEazb6X9wzZ7aFFu3ubmFmf25tBCM9S6RSXDpump",
-        "description": "Old school MMO. $CROWN is the in-game currency",
-        "url": "https://dexscreener.com/solana/f57kqeazb6x9wzz7affu3ubmfmf25tbcm9s6rsxdpump"
       }
     ]
   },
