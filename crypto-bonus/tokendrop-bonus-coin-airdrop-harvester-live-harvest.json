@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T04:42:43.531Z",
-  "latencyMs": 1350,
+  "executedAt": "2026-10-16T04:49:01.649Z",
+  "latencyMs": 1465,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #43: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #44: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "3AkNtx7ZYEmMZKciNyrwUNiHMpP4AUNPqHCmAJcsYCus",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Tesla built the car. SpaceX launched it. Starman became the icon.",
+      "url": "https://dexscreener.com/solana/3akntx7zyemmzkcinyrwunihmpp4aunpqhcmajcsycus"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "6hjaMcRPvB4DEGpHqgHxmgipb2vrGQWMewZBAVSLpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "Akita Inu",
       "url": "https://dexscreener.com/solana/hlsh9nsmpnnnmgau97z3uwsufps6sxbpdkyihyjcpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "GPojeXRcXthWBMWxWC6iY5TMjY8dLf25Q2Ft4kMVRwD4",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Bunker Seal ($BUNKY) is a community meme coin on Solana. Fair launch on pump fun. The creator holds about 28.2% of supply, with 204.8M locked via Streamflow unt",
-      "url": "https://dexscreener.com/solana/gpojexrcxthwbmwxwc6iy5tmjy8dlf25q2ft4kmvrwd4"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 767,
-      "priceBtc": 2.869956543233884e-7
+      "marketCapRank": 762,
+      "priceBtc": 2.9167360141173864e-7
     },
     {
       "name": "IGNITION",
       "symbol": "IGNITION",
-      "marketCapRank": 880,
-      "priceBtc": 2.2706527780648757e-7
+      "marketCapRank": 881,
+      "priceBtc": 2.2727983505219496e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.0001121696586172906
+      "priceBtc": 0.00011186129843848053
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.0000636056813701768
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 101,
-      "priceBtc": 0.000022856146895334817
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 638,
-      "priceBtc": 0.001350905735197128
+      "priceBtc": 0.00006326805738757438
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 83,
-      "priceBtc": 0.00001121631369997206
+      "priceBtc": 0.000011174982062391886
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.000987044515188438
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 101,
+      "priceBtc": 0.0000227416881037259
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 640,
+      "priceBtc": 0.0013502382413025516
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 103,
+      "priceBtc": 0.0000010271976007514254
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Wallet: Addresses / square All cards / Airdrops row, content-sized and centred",
-      "url": "https://github.com/b0ase/yours-mobile/pull/136",
-      "createdAt": "2026-10-16T04:21:39Z"
+      "title": "Add community invite code ZV3R14 for Muse",
+      "url": "https://github.com/Saketkesar/refersleet/pull/39",
+      "createdAt": "2026-10-15T01:20:44Z"
     },
     {
-      "title": "[TRTLLM-16780][feat] Honor per-request seeds in one-model speculative decoding's acceptance step",
-      "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/20147",
-      "createdAt": "2026-10-12T08:48:28Z"
+      "title": "feat(envs): add a BWM world-model backend for RoboTwin",
+      "url": "https://github.com/RLinf/RLinf/pull/1714",
+      "createdAt": "2026-10-16T04:48:04Z"
     },
     {
-      "title": "[FLOP X] New official X signal",
-      "url": "https://github.com/raindogkitetu/Plain-text-codex-lab/issues/8",
-      "createdAt": "2026-09-22T10:07:33Z"
+      "title": "feat: expose Wallet::try_finalize_psbt outcomes",
+      "url": "https://github.com/bitcoindevkit/bdk-ffi/pull/1144",
+      "createdAt": "2026-10-15T12:15:09Z"
     },
     {
-      "title": "新トップ画面をデザインする",
-      "url": "https://github.com/ksyunnnn/synsk.me/issues/148",
-      "createdAt": "2026-10-14T09:57:50Z"
+      "title": "👛feat(escrow): wallet readiness check before a guest creates an escrow (XLM, USDC trustline, balance, registered wallet)",
+      "url": "https://github.com/safetrustcr/dApp-SafeTrust/issues/507",
+      "createdAt": "2026-10-16T04:43:25Z"
     },
     {
-      "title": "[chain · Tier K] ADR / spec factory — the decisions before the code",
-      "url": "https://github.com/Phantom-X-007/intafaced/issues/937",
-      "createdAt": "2026-08-07T03:08:29Z"
+      "title": "Roadmap: Black Anvil network rollout",
+      "url": "https://github.com/LegendofKEK/bichael/issues/341",
+      "createdAt": "2026-10-16T02:23:31Z"
     },
     {
-      "title": "chore: replace the demo's deprecated Next pin",
-      "url": "https://github.com/accensa/accensa-app/issues/571",
-      "createdAt": "2026-10-10T19:53:48Z"
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
     }
   ]
 }
