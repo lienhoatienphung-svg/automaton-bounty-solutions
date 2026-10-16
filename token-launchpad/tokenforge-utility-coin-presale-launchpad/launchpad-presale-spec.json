@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T11:42:00.768Z",
-  "latencyMs": 367,
+  "executedAt": "2026-10-16T11:44:59.932Z",
+  "latencyMs": 247,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #168: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #169: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52680786,
+    "liveBlockNumber": 52680876,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459003,
-    "baseMainnetTopPoolsVolume24hUsd": 325831,
+    "baseMainnetTopPoolsVolume24hUsd": 327361,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HtqVqejZuh9BqGPTWdggf9mUtyRzydtVcxHRCq3Vpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/htqvqejzuh9bqgptwdggf9mutyrzydtvcxhrcq3vpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2xHJt6sTyRj5aaWSSR9ZTm9C44DoYjmfAbth6tzypump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2xhjt6styrj5aawssr9ztm9c44doyjmfabth6tzypump"
+      },
       {
         "chainId": "near",
         "tokenAddress": "arson.nearlytrade.near",
@@ -69,18 +81,6 @@
         "tokenAddress": "3eZfHskJcxHnuyu3t2izbJNgFNRiXxJ6ddT5JgmYpump",
         "description": "United States of Acceleration ($us/acc), named after @beffjezos's e/acc post. Creator fees route to Beff via UsePaid, claimable by him. Not affiliated or endors",
         "url": "https://dexscreener.com/solana/3ezfhskjcxhnuyu3t2izbjngfnrixxj6ddt5jgmypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
-        "description": "survival of the fittest, for trading bots.",
-        "url": "https://dexscreener.com/solana/ddvxe425xze27fhy41pr8dwfl3vczydyjjawdc1jpump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0xA5D0F84a8693e5B4E63840aEf43274513643025E",
-        "description": "Build circuits. Solve logic puzzles. Follow the signal. An Ethereum circuit lab. Free to build and practice.",
-        "url": "https://dexscreener.com/ethereum/0xa5d0f84a8693e5b4e63840aef43274513643025e"
       }
     ]
   },
