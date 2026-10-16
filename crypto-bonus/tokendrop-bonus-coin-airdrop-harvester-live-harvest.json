@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T21:56:24.662Z",
-  "latencyMs": 1133,
+  "executedAt": "2026-10-16T21:58:44.448Z",
+  "latencyMs": 618,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #326: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #327: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "2Y1SU9ntRrfMi3EbDzPcUCBRqkTa94h6CLJKiyLxjxoz",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "The iconic Pumpfun pill gets a spooky makeover! Halloween colors meet Pumpfun culture, bringing pumpkins, pumps, and pure memecoin energy together!",
+      "url": "https://dexscreener.com/solana/2y1su9ntrrfmi3ebdzpcucbrqkta94h6cljkiylxjxoz"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HFTxNjdyESnGNscsgeW2NyosSBScpfaMwDiaH5ttcvGo",
       "boostAmount": 10,
       "totalBoostAmount": 20,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Connecting the internet again with dickbutt",
       "url": "https://dexscreener.com/solana/8qtbrc9d3bezycwzbfuqbnswjgte7ckrz7hwcn81pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8xvxJBM8JYqoNtedtmEQAmsQbFkZSjnUvLARcEq4pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 20,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/8xvxjbm8jyqontedtmeqamsqbfkzsjnuvlarceq4pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -263,36 +263,5 @@
       "priceBtc": 0.000012450176433417524
     }
   ],
-  "activeAirdropAndFaucetQuests": [
-    {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
-    },
-    {
-      "title": "[None][perf] One-model speculative decoding: host work between steps, worker-produced target logits, KDA drafts' records",
-      "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/19989",
-      "createdAt": "2026-10-08T14:23:11Z"
-    },
-    {
-      "title": "Screens: clipboard both ways and files dropped onto the machine",
-      "url": "https://github.com/AFK-surf/still.fail/pull/497",
-      "createdAt": "2026-10-16T21:14:05Z"
-    },
-    {
-      "title": "Base Sepolia provisioning: fresh demo wallets and reviewed MockUSD deployment",
-      "url": "https://github.com/akiibot/proofFi/issues/66",
-      "createdAt": "2026-10-16T18:24:00Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/45",
-      "createdAt": "2026-10-16T18:27:56Z"
-    }
-  ]
+  "activeAirdropAndFaucetQuests": []
 }
