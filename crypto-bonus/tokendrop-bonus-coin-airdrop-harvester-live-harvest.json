@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T05:04:31.986Z",
-  "latencyMs": 679,
+  "executedAt": "2026-10-16T05:11:11.063Z",
+  "latencyMs": 798,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #49: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #50: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,72 +217,57 @@
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 753,
-      "priceBtc": 3.0242511243791195e-7
+      "marketCapRank": 761,
+      "priceBtc": 2.9569674288336946e-7
     },
     {
       "name": "IGNITION",
       "symbol": "IGNITION",
-      "marketCapRank": 871,
-      "priceBtc": 2.3356633425730252e-7
+      "marketCapRank": 857,
+      "priceBtc": 2.3244639009981391e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
-      "marketCapRank": 84,
-      "priceBtc": 0.00011120573686250395
+      "marketCapRank": 83,
+      "priceBtc": 0.00011238217551472243
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 101,
-      "priceBtc": 0.000022885932765703146
+      "priceBtc": 0.000022806558632235612
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00006305627920780075
+      "priceBtc": 0.00006337040376865693
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 84,
+      "priceBtc": 0.000011128394700305726
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 639,
-      "priceBtc": 0.0013504978295401148
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 83,
-      "priceBtc": 0.00001112794461111672
+      "priceBtc": 0.0013535114010452076
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
-      "marketCapRank": 103,
-      "priceBtc": 0.0000010279857335472893
+      "marketCapRank": 102,
+      "priceBtc": 0.0000010261960989724076
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore(deps): update dependencies",
-      "url": "https://github.com/ocavue/astro-theme-toggle/pull/59",
-      "createdAt": "2026-08-27T20:46:37Z"
-    },
-    {
-      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
-      "createdAt": "2026-10-07T00:07:47Z"
-    },
-    {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
-    },
-    {
-      "title": "Solana USDC → Martius: converting to gas needs gas. Does \"sponsored\" apply to this route?",
-      "url": "https://github.com/rome-protocol/rome-bridge-api/issues/37",
-      "createdAt": "2026-10-16T05:03:37Z"
+      "title": "feat(earn): phone My portfolio on the positions endpoint (OK-61377)",
+      "url": "https://github.com/OneKeyHQ/app-monorepo/pull/13825",
+      "createdAt": "2026-10-09T03:47:22Z"
     },
     {
       "title": "👛feat(escrow): wallet readiness check before a guest creates an escrow (XLM, USDC trustline, balance, registered wallet)",
@@ -290,9 +275,24 @@
       "createdAt": "2026-10-16T04:43:25Z"
     },
     {
-      "title": "[Spike] Surfpool mainnet fork: how Huma create_lender_accounts_v2 handles pre-existing ATAs, third-party payers and PDA lenders",
-      "url": "https://github.com/sebastianmontero/premium-bonds/issues/21",
-      "createdAt": "2026-10-16T05:03:28Z"
+      "title": "fix(registry): resolve the system vault and PoS through legacy and F1r3fly aliases",
+      "url": "https://github.com/F1R3FLY-io/f1r3node-rust/pull/733",
+      "createdAt": "2026-10-15T16:41:58Z"
+    },
+    {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
+      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
+      "createdAt": "2026-10-07T16:13:30Z"
     }
   ]
 }
