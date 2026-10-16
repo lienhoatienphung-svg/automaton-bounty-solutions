@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T03:53:02.714Z",
-  "latencyMs": 363,
+  "executedAt": "2026-10-16T03:58:45.953Z",
+  "latencyMs": 327,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #29: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #30: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52666717,
+    "liveBlockNumber": 52666889,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 231446,
+    "baseMainnetTopPoolsVolume24hUsd": 231026,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "FB96hu3rSSzGFnFCXXgoQQet9c4rAY2M8tgRuqx8pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fb96hu3rsszgfnfcxxgoqqet9c4ray2m8tgruqx8pump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xFCc86D9c23FfB9f27258534eA316C096F1Af51b9",
+        "description": "Heurix is a no-code platform for building AI trading agents on Robinhood Chain.\n\nPick a strategy, set your limits, choose your assets (TSLA, AAPL, GOOGL) and yo",
+        "url": "https://dexscreener.com/robinhood/0xfcc86d9c23ffb9f27258534ea316c096f1af51b9"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Fko4w9HoVqbZvtEobjYjm4nDG5aVmKQ3zjVJunXvpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fko4w9hovqbzvteobjyjm4ndg5avmkq3zjvjunxvpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Azcf4vgf5FPC9RK1CsAreYY5rSBcnpF8g7p5C2RHpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "FSJbL5UjbZkkMWNeKnUgjG6PHQKdbhhycugDo1LCpump",
         "description": "Inu $1 Coin ($1) brings iconic Doge charm to a golden meme universe, blending bold community spirit, playful ambition, and timeless coin culture.",
         "url": "https://dexscreener.com/solana/fsjbl5ujbzkkmwneknugjg6phqkdbhhycugdo1lcpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2e7hMNro1P8mdjZG1PKM5DvivErjmALbuq1TCY7tpump",
-        "description": "S3XY",
-        "url": "https://dexscreener.com/solana/2e7hmnro1p8mdjzg1pkm5dviverjmalbuq1tcy7tpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7cAJWZyyG7VqFJ4HzAxKNG8Xch6mJY4CfwPbfP6cJKiy",
-        "description": "Route Meteora fees through Quantum hooks",
-        "url": "https://dexscreener.com/solana/7cajwzyyg7vqfj4hzaxkng8xch6mjy4cfwpbfp6cjkiy"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7uXeapeKSTv4fr2mSDrC9KTCLqgnoECBttd6h1NYpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7uxeapekstv4fr2msdrc9ktclqgnoecbttd6h1nypump"
       }
     ]
   },
