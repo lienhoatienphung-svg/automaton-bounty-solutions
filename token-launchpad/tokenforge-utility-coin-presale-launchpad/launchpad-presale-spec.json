@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T21:37:42.256Z",
-  "latencyMs": 455,
+  "executedAt": "2026-10-16T21:43:59.728Z",
+  "latencyMs": 371,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #319: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #320: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52698657,
+    "liveBlockNumber": 52698846,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,40 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 288054,
+    "baseMainnetTopPoolsLiquidityUsd": 459005,
+    "baseMainnetTopPoolsVolume24hUsd": 288084,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8itqQy8rFf2mdqujSoBJMSNcnfDj2ipsjA4mLb6wpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8itqqy8rff2mdqujsobjmsncnfdj2ipsja4mlb6wpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CZbQqZYh72eh8RLkVCTsjpkC5o5wHCLhHDzGvsdjpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/czbqqzyh72eh8rlkvctsjpkc5o5whclhhdzgvsdjpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2UJjBXfQkVmK2CVj32E7xUjit2nPs9ZvBv6aX3qhpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2ujjbxfqkvmk2cvj32e7xujit2nps9zvbv6ax3qhpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4vWeaRjbaeK4BUi3Dnjhy4gyyFq9DVvdpXK1DJW9pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4vwearjbaek4bui3dnjhy4gyyfq9dvvdpxk1djw9pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4BMyUFi5S5DbjMBvrUy8kCPVZLYdbzqEoBgjoHEHpump",
+        "description": "inu is spending millions on onboarding. callout rewards, updates, KOLs and now referrals. we somehow never ran the most viral inu on board meme on the internet.",
+        "url": "https://dexscreener.com/solana/4bmyufi5s5dbjmbvruy8kcpvzlydbzqeobgjohehpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Gqh8LxnY35WtNnfQ7HqYkrzUWGA1rqmFMZHq4xZGpump",
@@ -51,36 +81,6 @@
         "tokenAddress": "AM1jZRnE9MwrtX3EPcdczCFLeVYtgvHgtbNQttZZpump",
         "description": "flappy tesla",
         "url": "https://dexscreener.com/solana/am1jzrne9mwrtx3epcdczcflevytgvhgtbnqttzzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CioyRHkkqESWQJ4ogywH46c3d2ecmuXKbtSEJCu9pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/cioyrhkkqeswqj4ogywh46c3d2ecmuxkbtsejcu9pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5zc1dYsq6Zbp3RJ1p5DnDAKD7yz5jvwRhHA2fCQJpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5zc1dysq6zbp3rj1p5dndakd7yz5jvwrhha2fcqjpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ANvGmFfv5vwBnLivydwxJM7czFYh7wF2BY9qPLm8pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/anvgmffv5vwbnlivydwxjm7czfyh7wf2by9qplm8pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "kSnQtRHXXnst6ZaU79Tun1WTYoH6y5M2aa62uK6face",
-        "description": "Launch a token. Lock it to your face.",
-        "url": "https://dexscreener.com/solana/ksnqtrhxxnst6zau79tun1wtyoh6y5m2aa62uk6face"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5Zo3N1dzCDfZ5dQwxy44VFhBsKjsJJeWtUnxcLmHCcQF",
-        "description": "Slopcore artist. Powered by the best Super Intelligence. 💙\nCome for the visuals. Stay for the bangers.",
-        "url": "https://dexscreener.com/solana/5zo3n1dzcdfz5dqwxy44vfhbskjsjjewtunxclmhccqf"
       }
     ]
   },
