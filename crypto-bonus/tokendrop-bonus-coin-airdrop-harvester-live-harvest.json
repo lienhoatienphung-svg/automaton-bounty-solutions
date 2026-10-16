@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T13:44:26.593Z",
-  "latencyMs": 799,
+  "executedAt": "2026-10-16T13:45:48.582Z",
+  "latencyMs": 1276,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #206: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #207: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,53 +217,63 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 806,
-      "priceBtc": 2.810117091216618e-7
+      "marketCapRank": 807,
+      "priceBtc": 2.5883926131617085e-7
     },
     {
       "name": "astronaut",
       "symbol": "ASTRO",
-      "marketCapRank": 882,
-      "priceBtc": 2.20305984956219e-7
+      "marketCapRank": 829,
+      "priceBtc": 2.497653088996045e-7
     },
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 874,
-      "priceBtc": 2.261682934072204e-7
-    },
-    {
-      "name": "NeoSoul",
-      "symbol": "DNA",
-      "marketCapRank": 578,
-      "priceBtc": 0.0000034051496962202198
+      "marketCapRank": 864,
+      "priceBtc": 2.402853564554129e-7
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 95,
-      "priceBtc": 0.000008683766091353496
+      "priceBtc": 0.000008695856837501135
+    },
+    {
+      "name": "NeoSoul",
+      "symbol": "DNA",
+      "marketCapRank": 586,
+      "priceBtc": 0.0000034381523014313334
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012693326861755624
+      "priceBtc": 0.00001271190166217117
     },
     {
       "name": "Injective",
       "symbol": "INJ",
-      "marketCapRank": 83,
-      "priceBtc": 0.00011123725433966414
+      "marketCapRank": 84,
+      "priceBtc": 0.00011178769815250921
     },
     {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 104,
-      "priceBtc": 0.000022167932341642387
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 612,
+      "priceBtc": 0.0014404554901542644
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Restore missing vanilla tags and fix arrow saving",
+      "url": "https://github.com/Modern-Mods/ModernFoundry/pull/14",
+      "createdAt": "2026-10-10T01:57:52Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
     {
       "title": "Feature/karthik ai rewards",
       "url": "https://github.com/nanjundachitra100-del/FocusLock/pull/1",
@@ -280,19 +290,9 @@
       "createdAt": "2026-08-23T20:12:13Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
       "title": "Roadmap: Black Anvil network rollout",
       "url": "https://github.com/LegendofKEK/bichael/issues/341",
       "createdAt": "2026-10-16T02:23:31Z"
-    },
-    {
-      "title": "[Bugfix][Watermarking] Skip incomplete opening contexts",
-      "url": "https://github.com/vllm-project/vllm/pull/61194",
-      "createdAt": "2026-10-12T10:35:03Z"
     }
   ]
 }
