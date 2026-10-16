@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T08:58:22.397Z",
-  "latencyMs": 1256,
+  "executedAt": "2026-10-16T08:58:32.053Z",
+  "latencyMs": 1544,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Delivery Sprint #121: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "release: rc.11 retained Alpha projects above corrected reputation source",
+      "url": "https://github.com/MontrealAI/AGIJobsv0/pull/3978",
+      "createdAt": "2026-10-16T07:11:58Z"
+    },
+    {
       "title": "docs: AAVE is off until a redeploy, and name Arbitrum Sepolia as the plan",
       "url": "https://github.com/gosh-sh/bridge/pull/108",
       "createdAt": "2026-10-15T10:27:35Z"
@@ -288,11 +293,6 @@
       "title": "flare: add FXRP calldata descriptors for AssetManager, FAsset, MintingTagManager",
       "url": "https://github.com/ethereum/clear-signing-erc7730-registry/pull/2984",
       "createdAt": "2026-09-14T10:43:11Z"
-    },
-    {
-      "title": "Adaptive in-flight cap from vLLM load in AsyncGRPO",
-      "url": "https://github.com/huggingface/trl/pull/7610",
-      "createdAt": "2026-10-09T13:37:12Z"
     }
   ]
 }
