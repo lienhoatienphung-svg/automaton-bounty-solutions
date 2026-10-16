@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T12:59:10.325Z",
-  "latencyMs": 1041,
+  "executedAt": "2026-10-16T13:06:25.355Z",
+  "latencyMs": 314,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #193: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #194: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52683101,
+    "liveBlockNumber": 52683319,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 291652,
+    "baseMainnetTopPoolsLiquidityUsd": 459006,
+    "baseMainnetTopPoolsVolume24hUsd": 291777,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x1CEDa8cd4Ee1bb32D85C62ECB91eD4FB189C157c",
+        "description": "Meet OrbitOpossum ($OPOSS), the universe’s least qualified space captain. 🛸 AI calculated a million routes. He chewed through the navigation cable. Now every w",
+        "url": "https://dexscreener.com/robinhood/0x1ceda8cd4ee1bb32d85c62ecb91ed4fb189c157c"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0x8a64DD261385cCAA79c4f2dC941F2e2683186666",
@@ -75,12 +81,6 @@
         "tokenAddress": "5aGRLchKmNDvNtzZ7qv2sPW1v349pPYWQZu88uNcTTLG",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/5agrlchkmndvntzz7qv2spw1v349ppywqzu88uncttlg"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xFEBF83711BF233B69Bf9021fB76401E255D73E5C",
-        "description": "THE LIBRARY\nEvery token launched on Robinhood Chain, written on-chain.",
-        "url": "https://dexscreener.com/robinhood/0xfebf83711bf233b69bf9021fb76401e255d73e5c"
       }
     ]
   },
