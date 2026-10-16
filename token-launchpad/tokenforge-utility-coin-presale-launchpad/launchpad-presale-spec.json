@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T22:40:40.245Z",
-  "latencyMs": 253,
+  "executedAt": "2026-10-16T22:48:18.090Z",
+  "latencyMs": 637,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #332: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #333: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52700546,
+    "liveBlockNumber": 52700775,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,56 +31,56 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 289742,
+    "baseMainnetTopPoolsVolume24hUsd": 289868,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "55A3VxMBfzw6uSe64zms5iMPw9k6kx9WzzusbCU6pump",
+        "description": "Gato The pfp cat.",
+        "url": "https://dexscreener.com/solana/55a3vxmbfzw6use64zms5impw9k6kx9wzzusbcu6pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9mFocoKd6XR9uiMPnXBVkVPh1jiGYspdfNrD9GMttsAx",
+        "description": "FRED deployed by PNUT dev!",
+        "url": "https://dexscreener.com/solana/9mfocokd6xr9uimpnxbvkvph1jigyspdfnrd9gmttsax"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "73PTbCykk1EFCqFYKum4XNMDgsnDDsWJCyWuqpyfpump",
+        "description": "smol buni big mystery",
+        "url": "https://dexscreener.com/solana/73ptbcykk1efcqfykum4xnmdgsnddswjcywuqpyfpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7gC1gaEezuXF2mAEXTzkmJMxCAko3vcPVB2XReCpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7gc1gaeezuxf2maextzkmjmxcako3vcpvb2xrecpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "G9tjqonjGd4iTp4LAXoF6jcw71Ln84UKKcNioj9opump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/g9tjqonjgd4itp4laxof6jcw71ln84ukkcnioj9opump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Evx3tGxthb9i1Xm7wFDDTsf6wh4mEuLsHKydios1pump",
+        "description": "Ant Take Over",
+        "url": "https://dexscreener.com/solana/evx3tgxthb9i1xm7wfddtsf6wh4meulshkydios1pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump",
+        "description": "Glitch is a flamingo who found an ATM that never stops paying. Now everyone wants in. Infinite Money Glitch ($GLITCH) is a 100% fair-launch memecoin on Solana, ",
+        "url": "https://dexscreener.com/solana/8xg89xt8ve34skiyqyums46mycresca2f362uscrpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xdeBD0D345b54d56BcD637C2Dd34816E39c498CD4",
         "description": "Know Where to Ape Before anyone else.",
         "url": "https://dexscreener.com/robinhood/0xdebd0d345b54d56bcd637c2dd34816e39c498cd4"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GysVd8CyRvYn6yVp5zGzmbsW9zVkTQCjVE5pMb68pump",
-        "description": "Pokémon card battle arena powered by \n@Collector_Crypt\n. \nBuild your deck, beat your friends.",
-        "url": "https://dexscreener.com/solana/gysvd8cyrvyn6yvp5zgzmbsw9zvktqcjve5pmb68pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "H5tY2DKmwWEapuUTExdp9fpQmDSgesnEbuuwtphVpump",
-        "description": "Sent from my Pumpfun app",
-        "url": "https://dexscreener.com/solana/h5ty2dkmwweapuutexdp9fpqmdsgesnebuuwtphvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "63jFLp6eRDPFCj4Szo1YoBUpRvjfQw7mE16Y18hDpump",
-        "description": "Would you trust a frog named Todd?\n\nThe newest OpenAI frog mascot!",
-        "url": "https://dexscreener.com/solana/63jflp6erdpfcj4szo1yobuprvjfqw7me16y18hdpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AzQm8cjPWuW4cDeVJikwJPF8mWEJo19NHF6Tj4hpump",
-        "description": "Official $Normie Coin",
-        "url": "https://dexscreener.com/solana/azqm8cjpwuw4cdevjikwjpf8mwejo19nhf6tj4hpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4nZTnkvtRdvzGj5NqM5Uq1WA6iBGGnT2asMFW7gKpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4nztnkvtrdvzgj5nqm5uq1wa6ibggnt2asmfw7gkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AQX1EAjytr9hy5aKZ6LvcKkrCDvxHgZrk2Z68ULCpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/aqx1eajytr9hy5akz6lvckkrcdvxhgzrk2z68ulcpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6536pbtsUcBDe4tVX4sRF5SPBDvqoKjmohVNCsVBpump",
-        "description": "BLINDSPOT is a local-first privacy workspace for files, browsing and Web3. Detect exposed metadata, permanently redact sensitive information, encrypt files and ",
-        "url": "https://dexscreener.com/solana/6536pbtsucbde4tvx4srf5spbdvqokjmohvncsvbpump"
       }
     ]
   },
