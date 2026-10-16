@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T21:05:13.053Z",
-  "latencyMs": 500,
+  "executedAt": "2026-10-16T21:08:08.009Z",
+  "latencyMs": 891,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #314: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #315: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,51 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 758,
-      "priceBtc": 3.0100007145633e-7
+      "marketCapRank": 761,
+      "priceBtc": 3.069618740356e-7
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012464013105566086
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 105,
-      "priceBtc": 0.000021027469051462324
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.01397482147199463
+      "priceBtc": 0.00001243542672901991
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 615,
-      "priceBtc": 0.0014184778851057186
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.000465953184004
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010492115860514319
+      "marketCapRank": 614,
+      "priceBtc": 0.0014174471587792491
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 109,
-      "priceBtc": 8.931975912905774e-7
+      "priceBtc": 8.900690526784229e-7
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.01396719018389755
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.181381059181537e-8
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9991915725812417
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 105,
+      "priceBtc": 0.00002100054939897027
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Beta: onboarding and resolver alert",
+      "url": "https://github.com/tote-hq/solana/pull/28",
+      "createdAt": "2026-10-16T21:02:12Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide-react to v1.57.0",
+      "url": "https://github.com/jonahsnider/logos.frc.sh/pull/17",
+      "createdAt": "2026-09-05T02:10:25Z"
+    },
+    {
+      "title": "Plan: reconcile October migration drift and safely restore missing DB workflows",
+      "url": "https://github.com/fowlerontherun/rockmundo-genesis-project/issues/4072",
+      "createdAt": "2026-10-14T18:52:45Z"
+    },
+    {
+      "title": "merkle-airdrop template: admin can sweep while claims are still open",
+      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/533",
+      "createdAt": "2026-10-15T21:48:32Z"
+    },
+    {
+      "title": "Agent section, round 2: theme icon, for-ai additions, testnet x402 rail (off)",
+      "url": "https://github.com/fromknowware/knowware-now/pull/22",
+      "createdAt": "2026-10-16T18:03:12Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    }
+  ]
 }
