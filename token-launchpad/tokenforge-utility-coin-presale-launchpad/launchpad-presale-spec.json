@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T12:28:47.445Z",
-  "latencyMs": 261,
+  "executedAt": "2026-10-16T12:33:55.818Z",
+  "latencyMs": 264,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #183: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #184: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52682190,
+    "liveBlockNumber": 52682344,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 331130,
+    "baseMainnetTopPoolsVolume24hUsd": 331370,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xFEBF83711BF233B69Bf9021fB76401E255D73E5C",
+        "description": "THE LIBRARY\nEvery token launched on Robinhood Chain, written on-chain.",
+        "url": "https://dexscreener.com/robinhood/0xfebf83711bf233b69bf9021fb76401e255d73e5c"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9nQNALg2SqBC9HT3e8dEG2EeoFZBBfBmFRoN19xXpump",
+        "description": "Cat named Cat",
+        "url": "https://dexscreener.com/solana/9nqnalg2sqbc9ht3e8deg2eeofzbbfbmfron19xxpump"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0x3B076DFa4fEFEC34Ce356eC14F2F540E7E738B7D",
@@ -69,18 +81,6 @@
         "tokenAddress": "0xBAa01d6Bd2FfE0606941B09Dfa5bcDa6BE7e7777",
         "description": "i got that cawt in me",
         "url": "https://dexscreener.com/bsc/0xbaa01d6bd2ffe0606941b09dfa5bcda6be7e7777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FZzC66XwJ4F8GP75Yd7Dpd9XtFDZXt7WRuFa2qvgpump",
-        "description": "“WHERE WE’RE GOING…”\n\nIn 1989, the DeLorean was already flying.\n\n37 years later, Elon is bringing that same vision to life.\n\nTesla teased it. Doc Brown predicte",
-        "url": "https://dexscreener.com/solana/fzzc66xwj4f8gp75yd7dpd9xtfdzxt7wrufa2qvgpump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x554AE941de6456751f9Db0E7AC9AC8fbf6497777",
-        "description": "错过了中国人能飞，别再错过特斯拉能飞。全网已经炸了。从微博到X到TikTok，从科技圈到车圈到币圈，所有人都在讨论同一件事。CZ都在回复，矩阵式传播已经铺开。这种级别的叙事，一年能有几次？",
-        "url": "https://dexscreener.com/bsc/0x554ae941de6456751f9db0e7ac9ac8fbf6497777"
       }
     ]
   },
