@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T19:28:39.723Z",
-  "latencyMs": 1603,
+  "executedAt": "2026-10-16T19:29:05.565Z",
+  "latencyMs": 1385,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Growth & Sales Sprint #292: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(deps): update dependency @lucide/svelte to ^1.50.0",
+      "url": "https://github.com/okaryo/undiffstand/pull/23",
+      "createdAt": "2026-09-11T16:40:37Z"
+    },
+    {
       "title": "feat(web-client): support non-fungible faucets and assets in `WebClient`",
       "url": "https://github.com/0xMiden/web-sdk/pull/473",
       "createdAt": "2026-10-14T15:51:35Z"
@@ -288,11 +293,6 @@
       "title": "Roadmap: Black Anvil network rollout",
       "url": "https://github.com/LegendofKEK/bichael/issues/341",
       "createdAt": "2026-10-16T02:23:31Z"
-    },
-    {
-      "title": "[rolloutengine] Replace task sessions with registered harnesses",
-      "url": "https://github.com/marin-community/marin/pull/10203",
-      "createdAt": "2026-10-16T17:41:36Z"
     }
   ]
 }
