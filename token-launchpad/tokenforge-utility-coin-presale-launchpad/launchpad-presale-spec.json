@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T06:48:57.352Z",
-  "latencyMs": 445,
+  "executedAt": "2026-10-16T06:50:58.250Z",
+  "latencyMs": 255,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #82: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #83: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52671994,
+    "liveBlockNumber": 52672055,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458992,
-    "baseMainnetTopPoolsVolume24hUsd": 230686,
+    "baseMainnetTopPoolsVolume24hUsd": 231992,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8mLnwfUajDuMDgpbjETy65Ce4iBJmqJG1s4Td7Qhpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8mlnwfuajdumdgpbjety65ce4ibjmqjg1s4td7qhpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4MmUFLyXiMtAcJaE7jqbSowTsqDAcM8Uc95q9czSpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "3Z1UDdcBmkAJTMf96HUyfW9jNXgbqqhHSQzYSKUWpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/3z1uddcbmkajtmf96huyfw9jnxgbqqhhsqzyskuwpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "TB6QtGti9j2zadAryKYKCm7tX1zVvTH4ZQcoXd9pump",
-        "description": "The roadster has been years in the making, and it’s finally made its debut. This is a new era, so our goals must change… our mentality must change.\nNo Risk… No ",
-        "url": "https://dexscreener.com/solana/tb6qtgti9j2zadarykykcm7tx1zvvth4zqcoxd9pump"
       }
     ]
   },
