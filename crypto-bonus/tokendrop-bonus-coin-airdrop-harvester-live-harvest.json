@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T02:25:53.872Z",
-  "latencyMs": 771,
+  "executedAt": "2026-10-16T02:30:30.271Z",
+  "latencyMs": 1206,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #3: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #4: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "The original (first-generation) Tesla Roadster, produced from 2008–2012, was internally code-named DarkStar during development.",
+      "url": "https://dexscreener.com/solana/9jybtj84nzpqrs3zpkngdwdrmmda6i6wvaetu1x5pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HLSh9nsmPnNNmGau97z3uwsuFPS6sXBpdkYiHYJcpump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/bswblyxpo679jvdait6j1s92zzcph77qzw5glbrfinul"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xCA0c66Ba9979c66477bB5c61aA0D91A5e8CA31BE",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "From Normie to Jeet. They said trust the process. Jeetie sold the process and bought a penthouse.",
-      "url": "https://dexscreener.com/robinhood/0xca0c66ba9979c66477bb5c61aa0d91a5e8ca31be"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,19 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "SF-010: live upgrade-security and browser wallet acceptance on testnet",
-      "url": "https://github.com/tyler-suifleet/suifleet/pull/70",
-      "createdAt": "2026-10-15T06:19:09Z"
+      "title": "perf(jit): fold MLOADs of known memory words",
+      "url": "https://github.com/alloy-rs/evm2/pull/652",
+      "createdAt": "2026-10-16T02:02:15Z"
     },
     {
-      "title": "Generated layout releases an extra burst projectile at tick 204",
-      "url": "https://github.com/qbisi/mechcore/issues/1096",
-      "createdAt": "2026-10-16T02:25:36Z"
-    },
-    {
-      "title": "[BugFix][Model] Fix GLM-5.3-Flash MTP embeddings with PP",
-      "url": "https://github.com/vllm-project/vllm-ascend/pull/18931",
-      "createdAt": "2026-10-16T02:21:21Z"
+      "title": "Roadmap: Black Anvil network rollout",
+      "url": "https://github.com/LegendofKEK/bichael/issues/341",
+      "createdAt": "2026-10-16T02:23:31Z"
     },
     {
       "title": "perf(jit): ignore dead jumps in block analysis",
@@ -285,14 +280,19 @@
       "createdAt": "2026-10-16T02:18:17Z"
     },
     {
-      "title": "新トップ画面をデザインする",
-      "url": "https://github.com/ksyunnnn/synsk.me/issues/148",
-      "createdAt": "2026-10-14T09:57:50Z"
-    },
-    {
       "title": "Central message board — Hermes, Claude, Codex and operator coordination",
       "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
       "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
+      "title": "fix(city): pre-entry caption and installed Forge runtime verification",
+      "url": "https://github.com/ZeroPointSix/sound-isolating-eraser/pull/34",
+      "createdAt": "2026-10-15T03:37:07Z"
+    },
+    {
+      "title": "Add the vision-encoder-objective task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/84",
+      "createdAt": "2026-10-14T17:20:01Z"
     }
   ]
 }
