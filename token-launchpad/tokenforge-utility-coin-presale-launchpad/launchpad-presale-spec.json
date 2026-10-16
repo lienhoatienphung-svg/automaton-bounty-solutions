@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T17:27:50.299Z",
+  "executedAt": "2026-10-16T17:32:36.529Z",
   "latencyMs": 326,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #263: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #264: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52691161,
+    "liveBlockNumber": 52691304,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 293129,
+    "baseMainnetTopPoolsVolume24hUsd": 290276,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xf0808ddae4405402D29E4528Ac7346E4A3675248",
+        "description": "$SPORTS is the cardcoin for sports cards: one coin for every sports pack on VibeMarket. Rip a pack, then for each card choose SELL BACK for the cash or COLLECT,",
+        "url": "https://dexscreener.com/robinhood/0xf0808ddae4405402d29e4528ac7346e4a3675248"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2CNSSZv9iaJLc9RTRxAgJr5oMkNFSTUD1Ag94gzspump",
+        "description": "🚀 TESLA FLY GAME ($TFG) 🎮\n\nOne Game. One Coin. One Community.\n\n$TFG is a community-driven meme coin connected to TESLA FLY GAME, an independent 3D racing game",
+        "url": "https://dexscreener.com/solana/2cnsszv9iajlc9rtrxagjr5omknfstud1ag94gzspump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BMgkPM5G5kLtB6Ffv5wnRAh2quN8qBdQC1wFnVXNpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "3fxjycng58exb8QsBZqDFxxun5s1ggPmKSJJJjPPpump",
         "description": "Cyberpunk 2077 in Browser.",
         "url": "https://dexscreener.com/solana/3fxjycng58exb8qsbzqdfxxun5s1ggpmksjjjjpppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9KDhovVA2kdjngkFooqEn5FoKkuZeDMYiQtVk7Lbm9up",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9kdhovva2kdjngkfooqen5fokkuzedmyiqtvk7lbm9up"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Bh12cBNKh9NGDUF7dveTLtXe15syvrLxn4kLrj14pump",
-        "description": "Configure your build. Simulate performance. Drive. Race. Engineer the impossible.",
-        "url": "https://dexscreener.com/solana/bh12cbnkh9ngduf7dvetltxe15syvrlxn4klrj14pump"
       }
     ]
   },
