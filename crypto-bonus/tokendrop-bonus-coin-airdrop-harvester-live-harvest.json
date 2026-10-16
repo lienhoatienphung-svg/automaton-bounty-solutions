@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T06:12:35.151Z",
-  "latencyMs": 1256,
+  "executedAt": "2026-10-16T06:14:05.976Z",
+  "latencyMs": 755,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #70: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
+  "workTitle": "Delivery Sprint #71: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Add the synthetic-reasoning-data-curation task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/57",
-      "createdAt": "2026-10-07T06:37:40Z"
+      "title": "contracts/escrow: Multi-token deposit support for escrow agreements",
+      "url": "https://github.com/Fidelis900/soroban-starter-kit/issues/1192",
+      "createdAt": "2026-09-22T06:57:57Z"
+    },
+    {
+      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
+      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
+      "createdAt": "2026-10-09T07:30:01Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "[2/N][BREAKING][rollout] feat: Support rollout with AR and DiT separate returns for QwenImage DualGRPO",
+      "url": "https://github.com/verl-project/verl-omni/pull/654",
+      "createdAt": "2026-09-22T01:17:50Z"
     },
     {
       "title": "fix(p2p): keep the established dht identity instead of replacing it at runtime",
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-16T05:39:48Z"
     },
     {
-      "title": "refactor: move speculative verification sampling into the rejection sampler.",
-      "url": "https://github.com/xLLM-AI/xllm/pull/2498",
-      "createdAt": "2026-10-16T06:08:03Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
       "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
       "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
       "createdAt": "2026-10-06T11:40:04Z"
-    },
-    {
-      "title": "perf(jit): fold MLOADs of known memory words",
-      "url": "https://github.com/alloy-rs/evm2/pull/652",
-      "createdAt": "2026-10-16T02:02:15Z"
     }
   ]
 }
