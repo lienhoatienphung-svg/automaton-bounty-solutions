@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T14:23:08.529Z",
-  "latencyMs": 2918,
+  "executedAt": "2026-10-16T14:26:43.770Z",
+  "latencyMs": 1348,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #216: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #217: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,53 +217,73 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 763,
-      "priceBtc": 2.8676805346739246e-7
-    },
-    {
-      "name": "astronaut",
-      "symbol": "ASTRO",
-      "marketCapRank": 971,
-      "priceBtc": 1.9019828981337126e-7
+      "marketCapRank": 753,
+      "priceBtc": 2.98782388002189e-7
     },
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 873,
-      "priceBtc": 2.2649126697808152e-7
+      "marketCapRank": 846,
+      "priceBtc": 2.505002390705459e-7
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
-      "marketCapRank": 96,
-      "priceBtc": 0.000008599177029429299
+      "marketCapRank": 95,
+      "priceBtc": 0.000008693177563971566
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00011084500929896499
+      "priceBtc": 0.00011081605226491207
     },
     {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 104,
-      "priceBtc": 0.000022071544033471643
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 609,
+      "priceBtc": 0.0014393486706977036
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.371222188258033e-8
+      "priceBtc": 9.376628371938363e-8
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 608,
-      "priceBtc": 0.0014455705066521902
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.0000219648269365016
+    },
+    {
+      "name": "NeoSoul",
+      "symbol": "DNA",
+      "marketCapRank": 587,
+      "priceBtc": 0.000003308839093775708
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Add vesting index and vested_balance tests for reward-token contract",
+      "url": "https://github.com/ITSYABOINEUTRAL/GoGreen/pull/134",
+      "createdAt": "2026-10-16T14:26:15Z"
+    },
+    {
+      "title": "Roadmap: Black Anvil network rollout",
+      "url": "https://github.com/LegendofKEK/bichael/issues/341",
+      "createdAt": "2026-10-16T02:23:31Z"
+    },
+    {
+      "title": "Import by proof writes a tracked block header with an MMR path trimmed to a stale checkpoint, bricking the store",
+      "url": "https://github.com/0xMiden/rust-sdk/issues/2713",
+      "createdAt": "2026-10-16T12:04:07Z"
+    },
+    {
+      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
+      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
+      "createdAt": "2026-10-11T10:45:50Z"
+    },
     {
       "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
       "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
@@ -273,26 +293,6 @@
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "fix: [UX] small fixes from the 0.18.0 Keplr pass",
-      "url": "https://github.com/verana-labs/verana-frontend/pull/552",
-      "createdAt": "2026-10-16T14:20:46Z"
-    },
-    {
-      "title": "fix(web-client): hold the store lock for every chain MMR writer",
-      "url": "https://github.com/0xMiden/web-sdk/pull/482",
-      "createdAt": "2026-10-16T13:02:21Z"
-    },
-    {
-      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
-      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
-      "createdAt": "2026-10-11T10:45:50Z"
-    },
-    {
-      "title": "LF-168 · NFT tokens don't record which milestone they represent",
-      "url": "https://github.com/Stellar-songifi/lyricsflip/issues/654",
-      "createdAt": "2026-10-15T16:41:47Z"
     }
   ]
 }
