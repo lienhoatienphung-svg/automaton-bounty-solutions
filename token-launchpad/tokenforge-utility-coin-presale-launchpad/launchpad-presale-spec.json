@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T19:14:08.681Z",
-  "latencyMs": 320,
+  "executedAt": "2026-10-16T19:17:14.734Z",
+  "latencyMs": 489,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #286: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #287: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52694350,
+    "liveBlockNumber": 52694443,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 287001,
+    "baseMainnetTopPoolsVolume24hUsd": 286955,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "G4ea3acQYNUFa1VbYbe43Ppj12mXwCx5ra2KDCeypump",
+        "description": "Glow Cat shines through the crypto universe, lighting up charts with radiant vibes, wild memes, and pure magic!",
+        "url": "https://dexscreener.com/solana/g4ea3acqynufa1vbybe43ppj12mxwcx5ra2kdceypump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BuEmxw2bVH9hTpDcUoyJR5YRwY5sLwqQyjVXAyv3pump",
+        "description": "Send SOL & Tokens Privately with SOLCLOAK. Separate the wallet that deposits from the wallet that receives. Shield into a private balance, then send SOL, USDC, ",
+        "url": "https://dexscreener.com/solana/buemxw2bvh9htpdcuoyjr5yrwy5slwqqyjvxayv3pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8o1m1hY7qqJcKMb51aLWsbQB6iQZdYcQtp6mwhn6pump",
@@ -69,18 +81,6 @@
         "tokenAddress": "GnB49MYfQzJnwxzkgzt1hHv2xdygyr7qFWP9soUgpump",
         "description": "Go long or short on any Solana memecoin at up to 20x, as soon as it has a pool.",
         "url": "https://dexscreener.com/solana/gnb49myfqzjnwxzkgzt1hhv2xdygyr7qfwp9sougpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FS8ZSohYyG5tNm1ZAHzpvRgK2tJsCLSCDYX4xigNpump",
-        "description": "Trump $250 Coin",
-        "url": "https://dexscreener.com/solana/fs8zsohyyg5tnm1zahzpvrgk2tjsclscdyx4xignpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2vbUZNjfdiNfou1H38tWUwQmfVTWL5ptmbhZ59Pjpump",
-        "description": "Tesla new car can fly woahhh",
-        "url": "https://dexscreener.com/solana/2vbuznjfdinfou1h38twuwqmfvtwl5ptmbhz59pjpump"
       }
     ]
   },
