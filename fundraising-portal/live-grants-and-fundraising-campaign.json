@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T06:26:55.245Z",
-  "latencyMs": 661,
+  "executedAt": "2026-10-16T06:32:12.073Z",
+  "latencyMs": 888,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #59: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #60: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "ENG-P12: Skill Challenge and Evaluation Engine foundation",
+          "url": "https://github.com/urbanrealty36-ops/Allpha-AI-Aplikasi/pull/5",
+          "repositoryUrl": "https://api.github.com/repos/urbanrealty36-ops/Allpha-AI-Aplikasi",
+          "updatedAt": "2026-10-16T06:32:07Z"
+        },
+        {
+          "title": "field fixes: reports from the ask, a declared Done skip, quieter installs, and the fixes of an end-to-end test and an adversarial review",
+          "url": "https://github.com/rajasdevel/outcomebound/pull/125",
+          "repositoryUrl": "https://api.github.com/repos/rajasdevel/outcomebound",
+          "updatedAt": "2026-10-16T06:32:05Z"
+        },
+        {
+          "title": "fix: emit Apple payload types in Apple casing (TCC and 11 others)",
+          "url": "https://github.com/Talieisin/oib-converter/pull/53",
+          "repositoryUrl": "https://api.github.com/repos/Talieisin/oib-converter",
+          "updatedAt": "2026-10-16T06:32:08Z"
+        },
+        {
+          "title": "[RFC] Open home systems reference architecture",
+          "url": "https://github.com/Luminous-Dynamics/luminous-platform/pull/50",
+          "repositoryUrl": "https://api.github.com/repos/Luminous-Dynamics/luminous-platform",
+          "updatedAt": "2026-10-16T06:32:04Z"
+        },
+        {
+          "title": "Kindred: anonymous peer-support texting (matching, safety, connect, PWA)",
+          "url": "https://github.com/thehillfire/roleplay-app/pull/1",
+          "repositoryUrl": "https://api.github.com/repos/thehillfire/roleplay-app",
+          "updatedAt": "2026-10-16T06:32:04Z"
+        },
+        {
+          "title": "feat(insights): rank nightly shop insights with opt-in AI hypotheses (SHOP-38)",
+          "url": "https://github.com/MatCer/ecommerce-platform/pull/53",
+          "repositoryUrl": "https://api.github.com/repos/MatCer/ecommerce-platform",
+          "updatedAt": "2026-10-16T06:32:10Z"
+        },
+        {
+          "title": "feat(internal-hunt): add the INTERNAL_HUNT connector type with the SDK base, template and detection-stack hunt connectors (#7849)",
+          "url": "https://github.com/OpenCTI-Platform/connectors/pull/7875",
+          "repositoryUrl": "https://api.github.com/repos/OpenCTI-Platform/connectors",
+          "updatedAt": "2026-10-16T06:32:04Z"
+        },
+        {
+          "title": "ci: shorten the slow Rust tests and gate desktop jobs on their own paths",
+          "url": "https://github.com/katulevskiy/reins/pull/162",
+          "repositoryUrl": "https://api.github.com/repos/katulevskiy/reins",
+          "updatedAt": "2026-10-16T06:32:03Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
