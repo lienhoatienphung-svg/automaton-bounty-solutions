@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T12:52:16.377Z",
-  "latencyMs": 248,
+  "executedAt": "2026-10-16T12:53:52.661Z",
+  "latencyMs": 566,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #190: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
+  "workTitle": "Delivery Sprint #191: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52682894,
+    "liveBlockNumber": 52682942,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 293357,
+    "baseMainnetTopPoolsVolume24hUsd": 293376,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6bnxDNE7WzGistby4toDe6ezt27myUy2MiCXrk2epump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6bnxdne7wzgistby4tode6ezt27myuy2micxrk2epump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Boa4tAy7eNhic8k5oQqwjiMwvNTcuPiZHSahkJ9gpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/boa4tay7enhic8k5oqqwjimwvntcupizhsahkj9gpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6yfQL6Fqfe9SnhLVxZxjGaWAQboBb8YYqZBYceP4pump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x3B076DFa4fEFEC34Ce356eC14F2F540E7E738B7D",
         "description": "ORAXEL is a Daily Price Prediction Game on BNB CHAIN where users Predict whether BNB will close Above or Below The Daily Strike Price. \n\nHow Does it Works.\n\n⏺️ ",
         "url": "https://dexscreener.com/bsc/0x3b076dfa4fefec34ce356ec14f2f540e7e738b7d"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7Ka1RmfBGE1V1ehpjWfn9K8UrfQV6K98NnRW4WHPpump",
-        "description": "Tesla Roadster Accelerationism puts electric speed, memes, and the future into overdrive.",
-        "url": "https://dexscreener.com/solana/7ka1rmfbge1v1ehpjwfn9k8urfqv6k98nnrw4whppump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x6E3D9ACECC5a75513e1e0DBEc9fCD274dda3CC9E",
-        "description": "A dog mascot named 'Caramel' was saw floating inside SpaceX's Crew Dragon \"Endeavour\"\nShortly after the spacecraft entered Earth orbit with the Axiom-1 (Ax-1) c",
-        "url": "https://dexscreener.com/robinhood/0x6e3d9acecc5a75513e1e0dbec9fcd274dda3cc9e"
       }
     ]
   },
