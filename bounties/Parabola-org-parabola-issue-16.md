@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $75] Website: accessibility and motion-preference fixes for the landing page](https://github.com/Parabola-org/parabola/issues/16)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
 - **Fork Fix Branch**: [fix/issue-16](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-16)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/15](https://github.com/lienhoatienphung-svg/parabola/pull/15)
 - **Inspected Source File**: `website/src/hero-animation.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-16T00:43:22.831Z`
+- **Timestamp**: `2026-10-16T00:44:48.196Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
