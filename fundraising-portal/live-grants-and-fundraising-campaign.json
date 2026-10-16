@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T14:02:02.151Z",
-  "latencyMs": 984,
+  "executedAt": "2026-10-16T14:02:08.005Z",
+  "latencyMs": 645,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
   "workTitle": "Growth & Sales Sprint #192: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "feat(vtu): route all utility purchases through wallet-only checkout",
-          "url": "https://github.com/ogabasseyy/Baci/pull/3655",
-          "repositoryUrl": "https://api.github.com/repos/ogabasseyy/Baci",
-          "updatedAt": "2026-10-16T14:01:58Z"
-        },
-        {
-          "title": "refactor(studio): cut owner grants to canonical MCP authority",
-          "url": "https://github.com/ordaxsystems/ordax-apps/pull/256",
-          "repositoryUrl": "https://api.github.com/repos/ordaxsystems/ordax-apps",
-          "updatedAt": "2026-10-16T14:01:56Z"
-        },
-        {
-          "title": "Dependency Dashboard",
-          "url": "https://github.com/varadiistvan/paytowin-kb/issues/4",
-          "repositoryUrl": "https://api.github.com/repos/varadiistvan/paytowin-kb",
-          "updatedAt": "2026-10-16T14:01:56Z"
-        },
-        {
-          "title": "Fix deeper audit findings across shared access and referral workflows",
-          "url": "https://github.com/BigSimmo/Ward-Flow/pull/369",
-          "repositoryUrl": "https://api.github.com/repos/BigSimmo/Ward-Flow",
-          "updatedAt": "2026-10-16T14:01:53Z"
-        },
-        {
-          "title": "feat(runbooks): streamline runbook library cards, hero banner, timeline node & seed enterprise data",
-          "url": "https://github.com/opsknight-labs/OpsKnight/pull/884",
-          "repositoryUrl": "https://api.github.com/repos/opsknight-labs/OpsKnight",
-          "updatedAt": "2026-10-16T14:01:54Z"
-        },
-        {
-          "title": "Add a Digifi referral program",
-          "url": "https://github.com/Logifi-LLC/Logifi-Core/pull/135",
-          "repositoryUrl": "https://api.github.com/repos/Logifi-LLC/Logifi-Core",
-          "updatedAt": "2026-10-16T14:01:53Z"
-        },
-        {
-          "title": "Ship three-page GrainsDosage with offline licensing and Mojave license generator",
-          "url": "https://github.com/danielmelegari/GrainsDosageGTRv2/pull/10",
-          "repositoryUrl": "https://api.github.com/repos/danielmelegari/GrainsDosageGTRv2",
-          "updatedAt": "2026-10-16T14:01:53Z"
-        },
-        {
-          "title": "feat(Databricks Node): Add the Lakebase Chat Memory sub-node (no-changelog)",
-          "url": "https://github.com/n8n-io/n8n/pull/41055",
-          "repositoryUrl": "https://api.github.com/repos/n8n-io/n8n",
-          "updatedAt": "2026-10-16T14:01:52Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
@@ -78,6 +29,6 @@
     }
   },
   "publishedFundingYmlUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/.github/FUNDING.yml",
-  "publishedPortalUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/fundraising-portal/SUPPORT_AND_INVEST_PORTAL.md",
+  "publishedPortalUrl": null,
   "publishedVaultContractUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/fundraising-portal/SovereignCrowdfundingAndPatronVault.sol"
 }
