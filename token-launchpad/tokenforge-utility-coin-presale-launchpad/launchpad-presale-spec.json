@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T16:55:51.048Z",
-  "latencyMs": 516,
+  "executedAt": "2026-10-16T17:00:04.642Z",
+  "latencyMs": 520,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #255: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #256: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52690201,
+    "liveBlockNumber": 52690328,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 290333,
+    "baseMainnetTopPoolsLiquidityUsd": 459009,
+    "baseMainnetTopPoolsVolume24hUsd": 290357,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "MRqNrysndnJSCqGgo2vKUgY5DcK3U7XchweY1taQve8",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/mrqnrysndnjscqggo2vkugy5dck3u7xchwey1taqve8"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xfe97F0310B5cdf7aa621A69de5B7Ba74060f0d9c",
+        "description": "Hookr is a hook. A hook needs bait.\n\n$BAIT is a vault token on Robinhood Chain, built on Hookr and paired with HOOKR. Every buy and every sell pays 5% in HOOKR ",
+        "url": "https://dexscreener.com/robinhood/0xfe97f0310b5cdf7aa621a69de5b7ba74060f0d9c"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x76EDFEF4272E9191c8bd20EB5edc3236a51c7777",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/bsc/0x76edfef4272e9191c8bd20eb5edc3236a51c7777"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Gkwf1JC2xeQfUrZGZQPQn3hg7VfCSBm175sVy18gpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "2jHfiEKip6PoEELS8Dvhfkfe6nqh8xfMWYveTN2vpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/2jhfiekip6poeels8dvhfkfe6nqh8xfmwyvetn2vpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2czUFmgJKTxXsrgt4kwHC8f4VMFsFz9MFkUvkJbtNXLF",
-        "description": "Anything not tied to artificial intelligence took off this week",
-        "url": "https://dexscreener.com/solana/2czufmgjktxxsrgt4kwhc8f4vmfsfz9mfkuvkjbtnxlf"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7QRzND1VeyxCEgrsguepGwnSCJAQGP7naSGsY5sypump",
-        "description": "Tesla Roadster Cat races through crypto at lightning speed, paws on the wheel, memes in overdrive!",
-        "url": "https://dexscreener.com/solana/7qrznd1veyxcegrsguepgwnscjaqgp7nasgsy5sypump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x1c989ebbaa21cccb5d9434f30508d558419d8089",
-        "description": "BEZOS is backed by Amazon founder Jeff Bezos’s real world collectibles, starting with his 2026 Grail Genesis card. The token is released on Robinhood and paired",
-        "url": "https://dexscreener.com/robinhood/0x1c989ebbaa21cccb5d9434f30508d558419d8089"
       }
     ]
   },
