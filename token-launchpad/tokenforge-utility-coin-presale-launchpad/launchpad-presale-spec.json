@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T13:52:26.784Z",
-  "latencyMs": 275,
+  "executedAt": "2026-10-16T13:56:53.778Z",
+  "latencyMs": 727,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #206: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #207: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52684699,
+    "liveBlockNumber": 52684833,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 294121,
+    "baseMainnetTopPoolsVolume24hUsd": 293613,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xe0e2795595ff2284854154600f9a47046cff876a",
+        "description": "Sherwood is the living pixel forest of Robinhood Chain. Every trade becomes part of the forest, with live onchain charts and tools for any token. \n\nAgents like ",
+        "url": "https://dexscreener.com/robinhood/0xe0e2795595ff2284854154600f9a47046cff876a"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xf215AD4c69Ba47DA03FFFfA2fB48B9eb814b1561",
+        "description": "NVIDIA’s new AI model features a memecoin built around a brand-new meme character, potentially the next Pepe: Blue Frog ($BROG).",
+        "url": "https://dexscreener.com/robinhood/0xf215ad4c69ba47da03ffffa2fb48b9eb814b1561"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x42b7ff926088e25d34b22626ab9e49b5e4aca577",
+        "description": "Route any goal through a swarm of AI agents.",
+        "url": "https://dexscreener.com/ethereum/0x42b7ff926088e25d34b22626ab9e49b5e4aca577"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FzEGUtK5KVfNkQR4pHvJnuWhvjYJHedvYyLrYUJjPrTp",
+        "description": "CatJam",
+        "url": "https://dexscreener.com/solana/fzegutk5kvfnkqr4phvjnuwhvjyjhedvyylryujjprtp"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CUfBVs7KERYJmCZohsWEFZoZVXzV1dhNm7tteWuPpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
         "description": "Audacity Roadster",
         "url": "https://dexscreener.com/solana/3xmzhi86jtudye7buut9tdbpzlebk9nbca44jhrdpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "77hVBQFGbJxA3jpeobN2DbiuHtLRx2y2kXN4448xpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/77hvbqfgbjxa3jpeobn2dbiuhtlrx2y2kxn4448xpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EgP1f5J9LDn1fuTMfrrgT5ZRMiLBitYdkmDs818BS44k",
-        "description": "$BRA on $ARB, the coin that never let you down",
-        "url": "https://dexscreener.com/solana/egp1f5j9ldn1futmfrrgt5zrmilbitydkmds818bs44k"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xd633E8Bc1346dc3FC0D0e41F86baa6905CaE7D05",
-        "description": "Where your email finds me",
-        "url": "https://dexscreener.com/robinhood/0xd633e8bc1346dc3fc0d0e41f86baa6905cae7d05"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BhmFZAucgyzS5ibPcPvt9Zp7L3iPVum2ALvPQ3h6UYib",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bhmfzaucgyzs5ibpcpvt9zp7l3ipvum2alvpq3h6uyib"
       }
     ]
   },
