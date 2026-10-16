@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T06:02:46.340Z",
-  "latencyMs": 720,
+  "executedAt": "2026-10-16T06:05:42.302Z",
+  "latencyMs": 793,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #67: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #68: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,84 +215,84 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "streamoors",
-      "symbol": "STREAM",
-      "marketCapRank": 758,
-      "priceBtc": 2.9749792989362216e-7
-    },
-    {
       "name": "IGNITION",
       "symbol": "IGNITION",
-      "marketCapRank": 835,
-      "priceBtc": 2.48640678766989e-7
+      "marketCapRank": 831,
+      "priceBtc": 2.506426171635108e-7
+    },
+    {
+      "name": "streamoors",
+      "symbol": "STREAM",
+      "marketCapRank": 757,
+      "priceBtc": 3.010602340662892e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00011233379533330994
+      "priceBtc": 0.00011147257938686729
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00006371243481501867
+      "priceBtc": 0.00006324371062536817
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 103,
-      "priceBtc": 0.000022449232325246316
+      "marketCapRank": 104,
+      "priceBtc": 0.00002238148477532031
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 86,
-      "priceBtc": 0.000027325805686037126
+      "priceBtc": 0.000027474060508819528
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009861065311624275
+      "priceBtc": 0.0009842440426667477
     },
     {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 83,
-      "priceBtc": 0.000011299767864987563
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 637,
+      "priceBtc": 0.001349525355747713
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(algorithms): add score centering policy loss",
-      "url": "https://github.com/redai-studio/Relax/pull/440",
-      "createdAt": "2026-10-15T04:03:58Z"
+      "title": "[Bug] PC에서 '친구 초대하기' 누르면 맥 공유 메뉴가 뜸 → PC는 링크 복사 + 안내",
+      "url": "https://github.com/playsnack/playsnack/issues/209",
+      "createdAt": "2026-10-16T06:04:45Z"
     },
     {
-      "title": "role_store::get_all_roles, test_faucet's cooldown getters, and referral_storage::get_trader_referral_code have zero test coverage",
-      "url": "https://github.com/SO4-Markets/contracts/issues/590",
-      "createdAt": "2026-08-22T07:50:01Z"
+      "title": "Add modular text SFT, LoRA and trainable Engram offload",
+      "url": "https://github.com/PACTHEMAN123/Tiny-DSV41/pull/6",
+      "createdAt": "2026-10-16T00:14:58Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "Add the synthetic-reasoning-data-curation task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/57",
+      "createdAt": "2026-10-07T06:37:40Z"
     },
     {
-      "title": "feat(sdk,cli): add setActive method and pause/unpause commands (#110)",
-      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/pull/217",
-      "createdAt": "2026-10-16T06:00:20Z"
+      "title": "test(cli): add 1000-entry generate performance test (#112)",
+      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/pull/218",
+      "createdAt": "2026-10-16T06:04:20Z"
     },
     {
-      "title": "feat(sdk): add vitest coverage reporting (#125)",
-      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/pull/216",
-      "createdAt": "2026-10-16T06:00:10Z"
+      "title": "portal pins drifted from wallet main",
+      "url": "https://github.com/0xMiden/bridge-portal/issues/132",
+      "createdAt": "2026-09-21T06:06:32Z"
     },
     {
-      "title": "docs: add pnpm workspace first-time setup section (#111)",
-      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/pull/215",
-      "createdAt": "2026-10-16T05:59:58Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     }
   ]
 }
