@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T11:14:37.477Z",
-  "latencyMs": 685,
+  "executedAt": "2026-10-16T11:16:20.093Z",
+  "latencyMs": 840,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #162: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #163: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "1EwcGE6WrssiY2sKSadB5E5DE9WhPDQvBC6kev1EDGE",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "1EDGE Official token \nAnti bundle, Anti Sniper Launchpad",
+      "url": "https://dexscreener.com/solana/1ewcge6wrssiy2sksadb5e5de9whpdqvbc6kev1edge"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "wLZrRQk9XBynAJSRdeQgsQrVURXGdfo4ahb1oRBpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "INVARA Core is building infrastructure for synthetic equities on Robinhood Chain, connecting traditional market intelligence with on-chain execution.",
       "url": "https://dexscreener.com/robinhood/0x9a7c661be578e50927268fb770146d701b3368e7"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "ArenDYANqFNkp8ZqAXt69vT5Dz7WD4zDfSpVw6oPpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Where every token becomes playable.",
-      "url": "https://dexscreener.com/solana/arendyanqfnkp8zqaxt69vt5dz7wd4zdfspvw6oppump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 608,
-      "priceBtc": 4.140525534293372e-7
+      "marketCapRank": 624,
+      "priceBtc": 3.9656413565241285e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 83,
-      "priceBtc": 0.00011196963419417746
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 101,
-      "priceBtc": 0.000008383495489051931
+      "priceBtc": 0.00011241152441222891
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.377307903458335e-8
+      "priceBtc": 9.442987191331066e-8
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 100,
+      "priceBtc": 0.000008424984976658302
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 102,
-      "priceBtc": 0.000022615940383114548
+      "marketCapRank": 104,
+      "priceBtc": 0.000022580565424777322
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012709409618860984
+      "priceBtc": 0.000012795177925458523
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9998486364960762
+      "priceBtc": 1.0032047275378468
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006437047428517436
+      "priceBtc": 0.00006470394810168754
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "test(functional): cover community token mint, airdrop, and burn",
+      "url": "https://github.com/status-im/status-go/pull/7942",
+      "createdAt": "2026-10-15T09:09:13Z"
+    },
+    {
+      "title": "[Slurm] Support REST API versions and recover completed jobs",
+      "url": "https://github.com/NVIDIA/cloudai/pull/1099",
+      "createdAt": "2026-10-15T10:23:09Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide-react to v1.58.0",
+      "url": "https://github.com/KasumiMercury/tag-crucible/pull/100",
+      "createdAt": "2026-05-28T15:01:52Z"
+    },
+    {
+      "title": "Add 200 GP to the crown purses on every check-in, and give the doctor an ECONOMY block",
+      "url": "https://github.com/AuthorOfTheSurf/pintakasi-bloodlines/pull/27",
+      "createdAt": "2026-10-16T11:14:35Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide-react to v1.58.0",
+      "url": "https://github.com/layertwo/groundwork/pull/182",
+      "createdAt": "2026-06-12T19:51:21Z"
+    },
+    {
       "title": "Showcase: Homestead district (plan 4)",
       "url": "https://github.com/lorecrafting/lokacore/pull/407",
       "createdAt": "2026-10-16T11:04:17Z"
-    },
-    {
-      "title": "Add opt-in GO transmit-anchor profile mode",
-      "url": "https://github.com/t4t5/omdrop-owl/pull/55",
-      "createdAt": "2026-10-14T15:26:50Z"
-    },
-    {
-      "title": "# Spike 676 — Raffle and lottery minting with commit-reveal fair draw",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/539",
-      "createdAt": "2026-10-15T11:13:46Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/sarahdayan/usedby.dev/pull/30",
-      "createdAt": "2026-03-23T18:17:55Z"
-    },
-    {
-      "title": "# Spike 679 — Secondary freeze windows with no-transfer period post-drop",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/542",
-      "createdAt": "2026-10-15T11:15:17Z"
-    },
-    {
-      "title": "Check the player's token balance before offering to stake",
-      "url": "https://github.com/Stellar-songifi/lyricsflip-toolkit/issues/119",
-      "createdAt": "2026-10-16T11:13:46Z"
     }
   ]
 }
