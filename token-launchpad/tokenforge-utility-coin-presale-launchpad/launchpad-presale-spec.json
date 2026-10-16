@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T03:46:04.707Z",
-  "latencyMs": 507,
+  "executedAt": "2026-10-16T03:52:14.261Z",
+  "latencyMs": 595,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #27: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #28: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52666508,
+    "liveBlockNumber": 52666693,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 236377,
+    "baseMainnetTopPoolsVolume24hUsd": 231446,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Azcf4vgf5FPC9RK1CsAreYY5rSBcnpF8g7p5C2RHpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/azcf4vgf5fpc9rk1csareyy5rsbcnpf8g7p5c2rhpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "hps4Xy4goXuV9zxdTAuF35tN58Gpks8Ho5zX529pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hps4xy4goxuv9zxdtauf35tn58gpks8ho5zx529pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "JAFEnPpzJV3imxnveMXE8xueBrJWWoJSWrEUfGESpump",
+        "description": "e",
+        "url": "https://dexscreener.com/solana/jafenppzjv3imxnvemxe8xuebrjwwojswreufgespump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FTbLCDt9XQUF3VnqRikkM3XNnbRMXJUPUtpra51Dpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "7uXeapeKSTv4fr2mSDrC9KTCLqgnoECBttd6h1NYpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/7uxeapekstv4fr2msdrc9ktclqgnoecbttd6h1nypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GHgT2aXQdyLVY8ibedP5nwWkYC1XPPoTsa7KwfLsJCcY",
-        "description": "Elon Coin.",
-        "url": "https://dexscreener.com/solana/ghgt2axqdylvy8ibedp5nwwkyc1xppotsa7kwflsjccy"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9jMC1BaZnqSiDvxzFSrbTUrwcmp7FVsnkojBQ4Vvpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9jmc1baznqsidvxzfsrbturwcmp7fvsnkojbq4vvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8M5T67bs2wpqVLvphPxDEd5zEPaqFzRVw9eCVVKUpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8m5t67bs2wpqvlvphpxded5zepaqfzrvw9ecvvkupump"
       }
     ]
   },
