@@ -3,9 +3,9 @@
 - **Target Issue**: [[悬赏] 灵枢生态宣传：材料 + 渠道 + 触达读数（可核验，不写「效果好」）](https://github.com/FuRongJun-1999/dsh-bounty/issues/71)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-16T01:19:04.048Z`
+- **Timestamp**: `2026-10-16T01:21:43.327Z`
 
 ## 1. Repository Root Structure (`FuRongJun-1999/dsh-bounty`)
 - `.gitattributes`
