@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-16T09:43:39.374Z",
-  "latencyMs": 1491,
+  "executedAt": "2026-10-16T09:45:34.276Z",
+  "latencyMs": 597,
   "companyName": "FlashSpread Cross-DEX Liquidity & Arbitrage",
-  "workTitle": "Growth & Sales Sprint #142: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
-  "targetUrl": "https://polymarket.com/event/ukraine-election-called-in-2025",
+  "workTitle": "Delivery Sprint #143: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "targetUrl": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000099,
+        "priceUsd": 1.0001,
         "liquidityUsd": 21385,
-        "volume24hUsd": 91601,
+        "volume24hUsd": 91677,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -110,9 +110,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000096,
+        "priceUsd": 1.000097,
         "liquidityUsd": 12034,
-        "volume24hUsd": 3276,
+        "volume24hUsd": 3277,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
@@ -203,59 +203,57 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "StellDirVor GmbH",
-        "roleOrTask": "ML Engineer (Computer Vision & ML Ops)",
+        "company": "autoscout24",
+        "roleOrTask": "Senior Software Engineer / AI Enabler (m/f/d)",
         "industryTags": [
-          "Remote",
           "Engineering"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/stelldirvor-gmbh/ml-engineer-computer-vision-ml-ops-berlin-240466",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-software-engineer-ai-enabler-33945",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "K-tronik GmbH",
-        "roleOrTask": "NVH Ingenieur (m/w/x)",
+        "company": "freenow",
+        "roleOrTask": "(Senior) Technical Program Manager - M&A Integration(m/f/d)- Hamburg",
         "industryTags": [
-          "Automotive Engineering"
+          "Tech"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/nvh-ingenieur-munich-286718",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/freenow/senior-technical-program-manager-ma-integration-hamburg-19596",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "KURT Personal GmbH",
-        "roleOrTask": "𝗣𝗲𝗿𝘀ö𝗻𝗹𝗶𝗰𝗵𝗲𝗿 𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝘁 𝗱𝗲𝘀 𝗚𝗲𝘀𝗰𝗵ä𝗳𝘁𝘀𝗳ü𝗵𝗿𝗲𝗿𝘀 (𝗺/𝘄/𝗱)",
+        "company": "freenow",
+        "roleOrTask": "(Senior) Technical Program Manager - M&A Integration (m/f/d) - Berlin",
         "industryTags": [
-          "Directors",
-          "Chief Executives"
+          "Tech"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/kurt-personal-gmbh/o-au-pinneberg-39603",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/freenow/senior-technical-program-manager-ma-integration-berlin-148166",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "wetter.com GmbH",
-        "roleOrTask": "Senior CRM Product Manager (m/w/d)",
+        "company": "commercetools",
+        "roleOrTask": "AI Engineer (m/f/x)",
         "industryTags": [
-          "Marketing and Communication"
+          "Engineering"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/wettercom-gmbh/senior-crm-product-manager-konstanz-214466",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/commercetools/ai-engineer-berlin-19322",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Personalberatung Pillong",
-        "roleOrTask": "SENIOR-BERATER (m/w/d)",
+        "company": "commercetools",
+        "roleOrTask": "AI Engineer (m/f/x)",
         "industryTags": [
-          "Business Consulting"
+          "Engineering"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/personalberatung-pillong/senior-berater-saarbrucken-441758",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/commercetools/ai-engineer-munchen-bayern-112395",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
