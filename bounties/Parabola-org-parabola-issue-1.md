@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors](https://github.com/Parabola-org/parabola/issues/1)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
 - **Fork Fix Branch**: [fix/issue-1](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-1)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/7](https://github.com/lienhoatienphung-svg/parabola/pull/7)
 - **Inspected Source File**: `src/chains/stellar.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-16T01:39:03.439Z`
+- **Timestamp**: `2026-10-16T01:48:47.628Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
