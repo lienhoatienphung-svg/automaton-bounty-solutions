@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T22:23:39.472Z",
-  "latencyMs": 705,
+  "executedAt": "2026-10-16T22:27:28.803Z",
+  "latencyMs": 764,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #312: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #313: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "Add Xpress direct and persistent solver interfaces",
+          "url": "https://github.com/Pyomo/pyomo/pull/3987",
+          "repositoryUrl": "https://api.github.com/repos/Pyomo/pyomo",
+          "updatedAt": "2026-10-16T22:27:24Z"
+        },
+        {
+          "title": "fix(nextly): apply every field read rule to history, and fail closed",
+          "url": "https://github.com/nextlyhq/nextly/pull/2212",
+          "repositoryUrl": "https://api.github.com/repos/nextlyhq/nextly",
+          "updatedAt": "2026-10-16T22:27:22Z"
+        },
+        {
+          "title": "feat(plugins): a backend package may declare shell: allowlist, disclosed as high risk (B1-f)",
+          "url": "https://github.com/Navide-dev/Navide/pull/344",
+          "repositoryUrl": "https://api.github.com/repos/Navide-dev/Navide",
+          "updatedAt": "2026-10-16T22:27:22Z"
+        },
+        {
+          "title": "[Phase 1.1] 15 — Regression-test simulation/UTC separation, inactive-time policy and Stage 1.1 end-to-end gate",
+          "url": "https://github.com/FrontierDev/ninthage/issues/78",
+          "repositoryUrl": "https://api.github.com/repos/FrontierDev/ninthage",
+          "updatedAt": "2026-10-16T22:27:22Z"
+        },
+        {
+          "title": "feat(platform): propose a deletion as the removal of a manifest the repository declares",
+          "url": "https://github.com/gke-labs/kube-agents/pull/3086",
+          "repositoryUrl": "https://api.github.com/repos/gke-labs/kube-agents",
+          "updatedAt": "2026-10-16T22:27:22Z"
+        },
+        {
+          "title": "test: least-privilege assertions for the namespace-mode EndpointSlice Role; unfreeze retry bound and lift-mark cleanup",
+          "url": "https://github.com/pnz1990/kardinal-promoter/pull/2102",
+          "repositoryUrl": "https://api.github.com/repos/pnz1990/kardinal-promoter",
+          "updatedAt": "2026-10-16T22:27:21Z"
+        },
+        {
+          "title": "Merge train for 2.6.0: MCP, AI layer, GraphQL, webhooks, S3/CDN media, multisite, structured logging and fixes",
+          "url": "https://github.com/jaimemartinez/wordjs/pull/469",
+          "repositoryUrl": "https://api.github.com/repos/jaimemartinez/wordjs",
+          "updatedAt": "2026-10-16T22:27:21Z"
+        },
+        {
+          "title": "Share a key into a realm: suspend on loss of write, swap, and delete-suspends",
+          "url": "https://github.com/cardstack/boxel/pull/6782",
+          "repositoryUrl": "https://api.github.com/repos/cardstack/boxel",
+          "updatedAt": "2026-10-16T22:27:21Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
