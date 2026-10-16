@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T15:56:56.242Z",
-  "latencyMs": 908,
+  "executedAt": "2026-10-16T16:02:37.169Z",
+  "latencyMs": 1267,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #223: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #224: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "taplimit 1.0.0",
-          "url": "https://github.com/JaviLianes8/taplimit/pull/2",
-          "repositoryUrl": "https://api.github.com/repos/JaviLianes8/taplimit",
-          "updatedAt": "2026-10-16T15:56:50Z"
-        },
-        {
-          "title": "chore(main): release 0.44.0",
-          "url": "https://github.com/jentic/jentic-one/pull/1633",
-          "repositoryUrl": "https://api.github.com/repos/jentic/jentic-one",
-          "updatedAt": "2026-10-16T15:56:50Z"
-        },
-        {
-          "title": "fix(lands): align Municipality Manager grant completeness with Lands registry (HOLD Production)",
-          "url": "https://github.com/blumark24/smart-hsr-manager/pull/71",
-          "repositoryUrl": "https://api.github.com/repos/blumark24/smart-hsr-manager",
-          "updatedAt": "2026-10-16T15:56:49Z"
-        },
-        {
-          "title": "Route unverified DMs to a Demandes inbox, gate receipts by trust, drop BitChat media, add report and terms",
-          "url": "https://github.com/samouraiworld/wesh-bitchat-ios/pull/6",
-          "repositoryUrl": "https://api.github.com/repos/samouraiworld/wesh-bitchat-ios",
-          "updatedAt": "2026-10-16T15:56:49Z"
-        },
-        {
-          "title": "feat(cloudformation): native CI and field-tested lifecycle hardening",
-          "url": "https://github.com/cloudposse/atmos/pull/3100",
-          "repositoryUrl": "https://api.github.com/repos/cloudposse/atmos",
-          "updatedAt": "2026-10-16T15:56:49Z"
+          "title": "add channel shared sessions discovery and retrieval",
+          "url": "https://github.com/block/buzz-app/pull/1254",
+          "repositoryUrl": "https://api.github.com/repos/block/buzz-app",
+          "updatedAt": "2026-10-16T16:02:33Z"
         },
         {
           "title": "Update pnpm to v12",
-          "url": "https://github.com/Bongseop-Kim/essesion/pull/91",
-          "repositoryUrl": "https://api.github.com/repos/Bongseop-Kim/essesion",
-          "updatedAt": "2026-10-16T15:56:49Z"
+          "url": "https://github.com/meowsus/fauxfetus/pull/46",
+          "repositoryUrl": "https://api.github.com/repos/meowsus/fauxfetus",
+          "updatedAt": "2026-10-16T16:02:34Z"
         },
         {
-          "title": "chore(models): refresh stale model defaults (parity-studio)",
-          "url": "https://github.com/HomenShum/parity-studio/pull/101",
-          "repositoryUrl": "https://api.github.com/repos/HomenShum/parity-studio",
-          "updatedAt": "2026-10-16T15:56:49Z"
+          "title": "T0: tenants, operators and admission on one host",
+          "url": "https://github.com/CMKL-APEX/glidex/pull/29",
+          "repositoryUrl": "https://api.github.com/repos/CMKL-APEX/glidex",
+          "updatedAt": "2026-10-16T16:02:32Z"
         },
         {
-          "title": "Add Agent browser preview and explicit human handoff (reopened)",
-          "url": "https://github.com/hackerai-tech/hackerai/pull/1581",
-          "repositoryUrl": "https://api.github.com/repos/hackerai-tech/hackerai",
-          "updatedAt": "2026-10-16T15:56:48Z"
+          "title": "test(native): enforce source ownership and complete diagnostic oracles",
+          "url": "https://github.com/ubugeeei-prod/vize/pull/9271",
+          "repositoryUrl": "https://api.github.com/repos/ubugeeei-prod/vize",
+          "updatedAt": "2026-10-16T16:02:30Z"
+        },
+        {
+          "title": "pruefer: coded review tools within an operator allowlist; outside authors reviewed read-only (Dependabot excepted)",
+          "url": "https://github.com/handarbeit/fabrik/issues/2308",
+          "repositoryUrl": "https://api.github.com/repos/handarbeit/fabrik",
+          "updatedAt": "2026-10-16T16:02:29Z"
+        },
+        {
+          "title": "docs: continue epic-38371 controller evidence after comment capacity",
+          "url": "https://github.com/okou-ai/okou/issues/40428",
+          "repositoryUrl": "https://api.github.com/repos/okou-ai/okou",
+          "updatedAt": "2026-10-16T16:02:30Z"
+        },
+        {
+          "title": "kubernetes: zero-downtime deploys, no new Secret references, bounded exec attach",
+          "url": "https://github.com/Busnes-app/KyYard-server/pull/116",
+          "repositoryUrl": "https://api.github.com/repos/Busnes-app/KyYard-server",
+          "updatedAt": "2026-10-16T16:02:28Z"
+        },
+        {
+          "title": "Bump @aws-sdk/client-secrets-manager from 3.1136.0 to 3.1147.0 in /integrations/agent-exchange-lambda",
+          "url": "https://github.com/x-pact-pro/PrivateDAO/pull/92",
+          "repositoryUrl": "https://api.github.com/repos/x-pact-pro/PrivateDAO",
+          "updatedAt": "2026-10-16T16:02:28Z"
         }
       ]
     },
