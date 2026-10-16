@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T14:55:24.360Z",
-  "latencyMs": 720,
+  "executedAt": "2026-10-16T15:04:04.033Z",
+  "latencyMs": 5281,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #225: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #226: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "9r66E1DAp8WtG2ZQChEab2o23Larjb8HsJ2zfvz9pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "$RZ - RACHID ZARMANI\n\nThe moustache. The haircut. The dance. The legend.\n\nMeet Rachid Zarmani - the viral comedy character bringing style, humor and unforgettab",
+      "url": "https://dexscreener.com/solana/9r66e1dap8wtg2zqcheab2o23larjb8hsj2zfvz9pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "9ymTnjQfTVLzMRa2G5V1xxv7LnS8nnDdACr2hW8KGHPM",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "EGGU is an independent Solana community token paired directly with PENGU.\n🥚 EGGU → 🐧 PENGU\nThrough StonkFun’s built-in reward system, eligible EGGU holders ca",
       "url": "https://dexscreener.com/solana/49vznzqvkcsgajj8k9xrezdztlrdv5rzn9yythg53czn"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x50d26490F7915983beDBA927361Fb0142EFA1214",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Trade memes, keep real stocks. The swap on Robinhood Chain that pays you back in stock tokens.",
-      "url": "https://dexscreener.com/robinhood/0x50d26490f7915983bedba927361fb0142efa1214"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(web-client): hold the store lock for every chain MMR writer",
-      "url": "https://github.com/0xMiden/web-sdk/pull/482",
-      "createdAt": "2026-10-16T13:02:21Z"
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
+      "title": "send-to-peer: dial an Android phone's announced AirDrop port, and keep it awake through a send",
+      "url": "https://github.com/netmojo-systems/omdrop-awdl/pull/41",
+      "createdAt": "2026-10-15T09:36:28Z"
+    },
+    {
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
+    },
+    {
+      "title": "feat(web): one greyed style for missing items and bosses, no image backdrops",
+      "url": "https://github.com/kqesar/alltp-tracker/pull/179",
+      "createdAt": "2026-10-16T15:03:06Z"
+    },
+    {
+      "title": "Update dependency lucide-react to v1.58.0",
+      "url": "https://github.com/Trancendos/InfinityStyles/pull/156",
+      "createdAt": "2026-09-29T23:32:12Z"
     },
     {
       "title": "Roadmap: Black Anvil network rollout",
       "url": "https://github.com/LegendofKEK/bichael/issues/341",
       "createdAt": "2026-10-16T02:23:31Z"
-    },
-    {
-      "title": "perf(jit): inline 64-bit DIV, SDIV, MOD and SMOD",
-      "url": "https://github.com/alloy-rs/evm2/pull/608",
-      "createdAt": "2026-10-15T00:13:56Z"
-    },
-    {
-      "title": "perf(jit): switch dynamic jumps on a dense index",
-      "url": "https://github.com/alloy-rs/evm2/pull/609",
-      "createdAt": "2026-10-15T00:19:06Z"
-    },
-    {
-      "title": "perf(jit): skip memory checks already ensured",
-      "url": "https://github.com/alloy-rs/evm2/pull/631",
-      "createdAt": "2026-10-15T23:39:06Z"
-    },
-    {
-      "title": "[fleet-health] devnet fleet is unhealthy",
-      "url": "https://github.com/toon-protocol/connector/issues/1502",
-      "createdAt": "2026-10-15T15:16:39Z"
     }
   ]
 }
