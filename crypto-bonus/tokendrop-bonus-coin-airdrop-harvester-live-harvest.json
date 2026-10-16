@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T22:05:57.430Z",
-  "latencyMs": 1707,
+  "executedAt": "2026-10-16T22:07:31.997Z",
+  "latencyMs": 861,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #328: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #329: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "2JVEVXoRsskapZ8T56MjMNJq6Dk3feEUYSRmzkkipump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "⚔️ $RONIN — THE MASTERLESS SAMURAI | SOLANA\n\nBorn from a community that survived a rug, $RONIN has evolved from a meme into a growing, self-feeding Solana ecosy",
+      "url": "https://dexscreener.com/solana/2jvevxorsskapz8t56mjmnjq6dk3feeuysrmzkkipump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0xa01fF10774CFe53C3FBC1D7D124c42e19F6AfcBD",
       "boostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "refer your frens and make money together with referral code",
       "url": "https://dexscreener.com/solana/cvmrz15wyyhlrskuuffre6eybpjqduqfa8urvcmspump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "FgJReZeYfmKZeWrCaGYL8gLnUixwBhjdHuRknC6ypump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "This dog is still dancing",
-      "url": "https://dexscreener.com/solana/fgjrezeyfmkzewrcagyl8glnuixwbhjdhurknc6ypump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "Audit all route files never mounted by server.js and wire or remove them",
+      "url": "https://github.com/Emmy123222/Stellar-MarketPay-/issues/1771",
+      "createdAt": "2026-10-15T12:14:26Z"
+    },
+    {
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
+    },
+    {
       "title": "Base Sepolia provisioning: fresh demo wallets and reviewed MockUSD deployment",
       "url": "https://github.com/akiibot/proofFi/issues/66",
       "createdAt": "2026-10-16T18:24:00Z"
@@ -278,21 +293,6 @@
       "title": "[None][perf] One-model speculative decoding: host work between steps, worker-produced target logits, KDA drafts' records",
       "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/19989",
       "createdAt": "2026-10-08T14:23:11Z"
-    },
-    {
-      "title": "Showcase plan 6: magic and use-on district",
-      "url": "https://github.com/lorecrafting/lokacore/pull/415",
-      "createdAt": "2026-10-16T20:20:06Z"
-    },
-    {
-      "title": "Suunto Ocean and Nautic support",
-      "url": "https://github.com/deepsealabs/libdc-swift/issues/29",
-      "createdAt": "2026-08-28T16:22:32Z"
-    },
-    {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
     }
   ]
 }
