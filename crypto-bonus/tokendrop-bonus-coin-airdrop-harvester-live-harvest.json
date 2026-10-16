@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T11:51:12.551Z",
-  "latencyMs": 1179,
+  "executedAt": "2026-10-16T11:51:41.307Z",
+  "latencyMs": 1069,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Delivery Sprint #173: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "# feat(docs): runnable, CI-tested integration recipes for forge, settle, faucet, x402 ownership",
+      "url": "https://github.com/PHASE-STELLAR/Phase/pull/567",
+      "createdAt": "2026-10-16T11:51:32Z"
+    },
+    {
+      "title": "fix(RAA-02): Bound missing-certificates requests",
+      "url": "https://github.com/raylsnetwork/axyl/pull/243",
+      "createdAt": "2026-10-07T18:56:58Z"
+    },
+    {
+      "title": "Base Sepolia delist steps for gMOCK and SwapRouter02",
+      "url": "https://github.com/SAW72/STRANDED/pull/47",
+      "createdAt": "2026-10-13T20:36:44Z"
+    },
+    {
       "title": "Submit Your MCP Servers here",
       "url": "https://github.com/chatmcp/mcpso/issues/1",
       "createdAt": "2024-12-06T02:23:42Z"
@@ -278,21 +293,6 @@
       "title": "Qwen3.5 to 3.8 dense support (9B first)",
       "url": "https://github.com/tpurtell/cuteafd/issues/276",
       "createdAt": "2026-10-15T06:49:05Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1.56.0",
-      "url": "https://github.com/plotnik-lang/plotnik/pull/651",
-      "createdAt": "2026-09-28T14:30:51Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/VRoam10/Transit-Track_er/pull/8",
-      "createdAt": "2026-04-16T09:20:29Z"
     }
   ]
 }
