@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T09:13:41.035Z",
-  "latencyMs": 270,
+  "executedAt": "2026-10-16T09:14:25.203Z",
+  "latencyMs": 363,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #126: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #127: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52676336,
+    "liveBlockNumber": 52676358,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 314206,
+    "baseMainnetTopPoolsLiquidityUsd": 459007,
+    "baseMainnetTopPoolsVolume24hUsd": 314169,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HUARGQHB7ovbPkUaYUmsqGBCLG4uHpCEr3q8zGcupump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/huargqhb7ovbpkuayumsqgbclg4uhpcer3q8zgcupump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x04f750A7ae4aFDbE79148731B4a69bAC3B0a1b22",
+        "description": "Six Seven AI ($67AI) is a memecoin launched on 14 October 2026 on the BNB Smart Chain (BEP-20). The token is deployed using the LayerZero OFT (Omnichain Fungibl",
+        "url": "https://dexscreener.com/bsc/0x04f750a7ae4afdbe79148731b4a69bac3b0a1b22"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "AnWDdzzYXXCMrYbn2cuaUy9DjvtxA9PVnNYYd6v9pump",
@@ -69,18 +81,6 @@
         "tokenAddress": "G6NnKQTgN7Dmo9yrJXwoqiDm35FznQmQ1qXVFAXPpump",
         "description": "This video of a Dog sitting at the barber is going max viral on X right now millions of views and crazy interactions new viral tweets every hour.",
         "url": "https://dexscreener.com/solana/g6nnkqtgn7dmo9yrjxwoqidm35fznqmq1qxvfaxppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Gmh5hNtCycP6YSyU1Cd4Q77oDL9BdgoBoTWcSMvQpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/gmh5hntcycp6ysyu1cd4q77odl9bdgobotwcsmvqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HiKU8Lsa8aUFkhtCMWp3ySCcpZ899zEhRqzvEgnSpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hiku8lsa8aufkhtcmwp3ysccpz899zehrqzvegnspump"
       }
     ]
   },
