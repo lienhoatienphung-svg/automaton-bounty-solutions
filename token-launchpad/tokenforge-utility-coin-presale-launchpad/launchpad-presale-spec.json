@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T07:54:00.724Z",
-  "latencyMs": 346,
+  "executedAt": "2026-10-16T07:58:20.525Z",
+  "latencyMs": 542,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #103: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #104: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52673946,
+    "liveBlockNumber": 52674076,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 458992,
-    "baseMainnetTopPoolsVolume24hUsd": 244709,
+    "baseMainnetTopPoolsLiquidityUsd": 458995,
+    "baseMainnetTopPoolsVolume24hUsd": 244338,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "D2obxUYEgBZcJTjGJGH8M9eVMvG6FXCmE2Y3V46rpump",
+        "description": "The Everything Project already has 46 tools you can try in your browser, plus a few games, all MIT-licensed:\n\n→ Office: Excel, Word, PowerPoint, Acrobat, Notion",
+        "url": "https://dexscreener.com/solana/d2obxuyegbzcjtjgjgh8m9evmvg6fxcme2y3v46rpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "GgmAS6ibUzxNnABcMnGtNiYEdJSP8FiDpa8DqM2Zpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "BVik4jBJjYzVb1YikUEPXywryof87SAcf5s9LPLsEsft",
         "description": "Project GoHusky",
         "url": "https://dexscreener.com/solana/bvik4jbjjyzvb1yikuepxywryof87sacf5s9lplsesft"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FnWnRBfFBiuYFnR1ayiyEJ1x94QaEnw4UQJMsgnqpump",
-        "description": "Geeg Cat",
-        "url": "https://dexscreener.com/solana/fnwnrbffbiuyfnr1ayiyej1x94qaenw4uqjmsgnqpump"
       }
     ]
   },
