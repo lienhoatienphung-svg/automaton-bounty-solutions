@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T14:08:25.156Z",
-  "latencyMs": 463,
+  "executedAt": "2026-10-16T14:09:43.808Z",
+  "latencyMs": 243,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #210: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
+  "workTitle": "Delivery Sprint #211: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52685178,
+    "liveBlockNumber": 52685218,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 292319,
+    "baseMainnetTopPoolsVolume24hUsd": 291019,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2Y3o4bKH13mPDWYCwfgdMVf6DS7XuFgWTQsdyEeepump",
+        "description": "Mission Control becomes the place where your agents actually live",
+        "url": "https://dexscreener.com/solana/2y3o4bkh13mpdwycwfgdmvf6ds7xufgwtqsdyeeepump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FMwuYPDgxXBvAr49AcybfuvhFy43LakM94ZTuKgFpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0xe0e2795595ff2284854154600f9a47046cff876a",
         "description": "Sherwood is the living pixel forest of Robinhood Chain. Every trade becomes part of the forest, with live onchain charts and tools for any token. \n\nAgents like ",
         "url": "https://dexscreener.com/robinhood/0xe0e2795595ff2284854154600f9a47046cff876a"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xf215AD4c69Ba47DA03FFFfA2fB48B9eb814b1561",
-        "description": "NVIDIA’s new AI model features a memecoin built around a brand-new meme character, potentially the next Pepe: Blue Frog ($BROG).",
-        "url": "https://dexscreener.com/robinhood/0xf215ad4c69ba47da03ffffa2fb48b9eb814b1561"
       }
     ]
   },
