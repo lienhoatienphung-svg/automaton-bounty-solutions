@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T05:29:25.636Z",
-  "latencyMs": 572,
+  "executedAt": "2026-10-16T05:29:55.460Z",
+  "latencyMs": 689,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #38: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #39: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "feat(auth): allow the linked KBase owner to sign in with Health",
+          "url": "https://github.com/itsoso/health-llm-driven/pull/281",
+          "repositoryUrl": "https://api.github.com/repos/itsoso/health-llm-driven",
+          "updatedAt": "2026-10-16T05:29:51Z"
+        },
+        {
+          "title": "feat: model bounded build supervision decisions",
+          "url": "https://github.com/devoption/devoption/pull/205",
+          "repositoryUrl": "https://api.github.com/repos/devoption/devoption",
+          "updatedAt": "2026-10-16T05:29:48Z"
+        },
+        {
+          "title": "feat(android): discover the device over mDNS and gate LAN access",
+          "url": "https://github.com/cerulion-inc/cerulion/pull/305",
+          "repositoryUrl": "https://api.github.com/repos/cerulion-inc/cerulion",
+          "updatedAt": "2026-10-16T05:29:47Z"
+        },
+        {
+          "title": "ANGELS Foundation — automated 30-minute read-only progress and intervention watch",
+          "url": "https://github.com/visionastro48-dev/shaddow-synthetic-host-gate-20261001/issues/10",
+          "repositoryUrl": "https://api.github.com/repos/visionastro48-dev/shaddow-synthetic-host-gate-20261001",
+          "updatedAt": "2026-10-16T05:29:47Z"
+        },
+        {
+          "title": "release: promote Pulse v0.4.0 to main",
+          "url": "https://github.com/OktoLabsAI/okto-pulse/pull/117",
+          "repositoryUrl": "https://api.github.com/repos/OktoLabsAI/okto-pulse",
+          "updatedAt": "2026-10-16T05:29:47Z"
+        },
+        {
+          "title": "Design: serving projection inputs, fence interaction, first run (#717)",
+          "url": "https://github.com/yshewchuk/investment-validation/pull/790",
+          "repositoryUrl": "https://api.github.com/repos/yshewchuk/investment-validation",
+          "updatedAt": "2026-10-16T05:29:46Z"
+        },
+        {
+          "title": "Clear Admin vs Super Admin split",
+          "url": "https://github.com/bhuvaneshsaha/Interview-Quiz-Platform/issues/62",
+          "repositoryUrl": "https://api.github.com/repos/bhuvaneshsaha/Interview-Quiz-Platform",
+          "updatedAt": "2026-10-16T05:29:46Z"
+        },
+        {
+          "title": "feat(captp,ocapn): construct and forward Parcels from locations",
+          "url": "https://github.com/endojs/endo-but-for-bots/pull/1396",
+          "repositoryUrl": "https://api.github.com/repos/endojs/endo-but-for-bots",
+          "updatedAt": "2026-10-16T05:29:46Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
