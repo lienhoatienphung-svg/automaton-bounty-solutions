@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T15:27:10.536Z",
-  "latencyMs": 1435,
+  "executedAt": "2026-10-16T15:33:13.230Z",
+  "latencyMs": 865,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #233: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #234: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "robinhood",
+      "tokenAddress": "0x302DAcc52492095fb054937112A5aaC4617ecfb3",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Quantum-powered blockchain engineered for maximum security, performance, and scalability. EVM compatible. Proof Of Quantum",
+      "url": "https://dexscreener.com/robinhood/0x302dacc52492095fb054937112a5aac4617ecfb3"
+    },
+    {
+      "chainId": "robinhood",
       "tokenAddress": "0xe6613D2Bbd5f5C5bb203C36eE414ffaA4a47a977",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "Audacity Roadster",
       "url": "https://dexscreener.com/solana/3xmzhi86jtudye7buut9tdbpzlebk9nbca44jhrdpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "ArYLaFKo78Q6rkJbiZNgCRovS3eL1WSmYzvWYgz4pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/arylafko78q6rkjbizngcrovs3el1wsmyzvwygz4pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix: security and SSR issues (#842-845)",
-      "url": "https://github.com/SO4-Markets/interface/pull/980",
-      "createdAt": "2026-10-16T15:26:55Z"
+      "title": "Roadmap: Black Anvil network rollout",
+      "url": "https://github.com/LegendofKEK/bichael/issues/341",
+      "createdAt": "2026-10-16T02:23:31Z"
     },
     {
-      "title": "SF-056: separate release compilation from protocol-checked testnet submission",
-      "url": "https://github.com/tyler-suifleet/suifleet/pull/115",
-      "createdAt": "2026-10-16T14:44:25Z"
+      "title": "Feat: port Omdrop to Rust, adding omdrop-core",
+      "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/74",
+      "createdAt": "2026-10-16T08:20:48Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
-      "createdAt": "2026-10-06T11:40:04Z"
+      "title": "Config-stored authorities + privilege split + gate airdrop/reset (incident remediation)",
+      "url": "https://github.com/MyWewe-io/WEWE-solana-programs/pull/83",
+      "createdAt": "2026-10-13T19:46:08Z"
     },
     {
-      "title": "[Bug] The over-balance deposit guard never runs in the app",
-      "url": "https://github.com/drydocs/meridian/issues/1063",
-      "createdAt": "2026-10-16T15:24:06Z"
+      "title": "[adapters] Port BioMysteryBench for evaluation with a Daytona pilot",
+      "url": "https://github.com/marin-community/harbor/issues/161",
+      "createdAt": "2026-09-18T21:32:59Z"
     },
     {
-      "title": "feat!: add Tron support and replace walletAddress with activeWallet",
-      "url": "https://github.com/0xsequence/kotlin-sdk/pull/100",
-      "createdAt": "2026-10-08T11:13:04Z"
+      "title": "Book fixtures with TxL and validate via worker tickets",
+      "url": "https://github.com/txodds/tx-on-chain/pull/10",
+      "createdAt": "2026-10-08T08:56:25Z"
     }
   ]
 }
