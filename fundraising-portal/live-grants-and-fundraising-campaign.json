@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T13:38:27.115Z",
-  "latencyMs": 760,
+  "executedAt": "2026-10-16T13:40:15.697Z",
+  "latencyMs": 992,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #186: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #187: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "Added MGM policies for DevOps",
+          "url": "https://github.com/binbashar/le-tf-infra-aws/pull/1241",
+          "repositoryUrl": "https://api.github.com/repos/binbashar/le-tf-infra-aws",
+          "updatedAt": "2026-10-16T13:40:10Z"
+        },
+        {
+          "title": "Draft: UMC-02 persistent attention and return controller",
+          "url": "https://github.com/alexbotleh-oss/agent-knowledge-base/pull/30",
+          "repositoryUrl": "https://api.github.com/repos/alexbotleh-oss/agent-knowledge-base",
+          "updatedAt": "2026-10-16T13:40:10Z"
+        },
+        {
+          "title": "chore(deps): pin pnpm to v12.14.0",
+          "url": "https://github.com/sisques-labs/beacon-api/pull/164",
+          "repositoryUrl": "https://api.github.com/repos/sisques-labs/beacon-api",
+          "updatedAt": "2026-10-16T13:40:11Z"
+        },
+        {
+          "title": "Ask for consent before collecting analytics",
+          "url": "https://github.com/ChryssaAliferi/personal-portfolio/pull/6",
+          "repositoryUrl": "https://api.github.com/repos/ChryssaAliferi/personal-portfolio",
+          "updatedAt": "2026-10-16T13:40:09Z"
+        },
+        {
+          "title": "chore(deps): update pnpm to v12.14.0",
+          "url": "https://github.com/getcodesentinel/codesentinel/pull/108",
+          "repositoryUrl": "https://api.github.com/repos/getcodesentinel/codesentinel",
+          "updatedAt": "2026-10-16T13:40:10Z"
+        },
+        {
+          "title": "Validate realm-local recovery, combined saves and rewards",
+          "url": "https://github.com/matthagersenior/TheUnmadeGame/pull/74",
+          "repositoryUrl": "https://api.github.com/repos/matthagersenior/TheUnmadeGame",
+          "updatedAt": "2026-10-16T13:40:09Z"
+        },
+        {
+          "title": "feat(other): video call shall have much more space",
+          "url": "https://github.com/Ocelot-Social-Community/Ocelot-Social/pull/10540",
+          "repositoryUrl": "https://api.github.com/repos/Ocelot-Social-Community/Ocelot-Social",
+          "updatedAt": "2026-10-16T13:40:08Z"
+        },
+        {
+          "title": "docs(platform-guide): add list_grants and hire_agent",
+          "url": "https://github.com/skaile-ai/ai-assets/pull/204",
+          "repositoryUrl": "https://api.github.com/repos/skaile-ai/ai-assets",
+          "updatedAt": "2026-10-16T13:40:07Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
