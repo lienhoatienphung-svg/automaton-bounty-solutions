@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T05:37:05.508Z",
-  "latencyMs": 362,
+  "executedAt": "2026-10-16T05:39:16.678Z",
+  "latencyMs": 384,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #58: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #59: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52669839,
+    "liveBlockNumber": 52669904,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459012,
-    "baseMainnetTopPoolsVolume24hUsd": 226645,
+    "baseMainnetTopPoolsVolume24hUsd": 229136,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CFR5SYMEqstSC5uDArJja3uJcKhgCGz5a7Vmg2vBpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cfr5symeqstsc5udarjja3ujckhgcgz5a7vmg2vbpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BBHbbon3T4Z2H2mwZjoV4wVPtoocSmF2W8B8kWmXpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bbhbbon3t4z2h2mwzjov4wvptoocsmf2w8b8kwmxpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xA061012D089D1a3a54a20AdC6C8fc9E4728da76E",
@@ -69,18 +81,6 @@
         "tokenAddress": "6CSmvjkTLiRgdJE53kPKozsAAx8zfsr3DbCramvfpump",
         "description": "Veil Marketplace is the home of the Veils, Solana NFTs built around one character: Veil, a lavender hooded figure who takes on the look of whichever meme it mee",
         "url": "https://dexscreener.com/solana/6csmvjktlirgdje53kpkozsaax8zfsr3dbcramvfpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2e91p7phxvfDTnvbdyPQmm5iyknLMbx9RCSkJxRrpump",
-        "description": "No Risk No Roadster",
-        "url": "https://dexscreener.com/solana/2e91p7phxvfdtnvbdypqmm5iyknlmbx9rcskjxrrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2AX8GEVb2P6hVBVPVjjb1eSsRdgWVsnopArAt94tpump",
-        "description": "HAHAYES",
-        "url": "https://dexscreener.com/solana/2ax8gevb2p6hvbvpvjjb1essrdgwvsnoparat94tpump"
       }
     ]
   },
