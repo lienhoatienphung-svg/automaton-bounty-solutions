@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T06:07:57.375Z",
-  "latencyMs": 656,
+  "executedAt": "2026-10-16T06:12:35.151Z",
+  "latencyMs": 1256,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #69: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #70: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -270,9 +270,14 @@
       "createdAt": "2026-10-07T06:37:40Z"
     },
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/43",
-      "createdAt": "2026-10-16T02:40:42Z"
+      "title": "fix(p2p): keep the established dht identity instead of replacing it at runtime",
+      "url": "https://github.com/33cn/chain33/pull/1408",
+      "createdAt": "2026-10-16T05:39:48Z"
+    },
+    {
+      "title": "refactor: move speculative verification sampling into the rejection sampler.",
+      "url": "https://github.com/xLLM-AI/xllm/pull/2498",
+      "createdAt": "2026-10-16T06:08:03Z"
     },
     {
       "title": "Central message board — Hermes, Claude, Codex and operator coordination",
@@ -280,19 +285,14 @@
       "createdAt": "2026-10-05T23:48:30Z"
     },
     {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
+      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
+      "createdAt": "2026-10-06T11:40:04Z"
     },
     {
-      "title": "[Bug] PC에서 '친구 초대하기' 누르면 맥 공유 메뉴가 뜸 → PC는 링크 복사 + 안내",
-      "url": "https://github.com/playsnack/playsnack/issues/209",
-      "createdAt": "2026-10-16T06:04:45Z"
-    },
-    {
-      "title": "Add modular text SFT, LoRA and trainable Engram offload",
-      "url": "https://github.com/PACTHEMAN123/Tiny-DSV41/pull/6",
-      "createdAt": "2026-10-16T00:14:58Z"
+      "title": "perf(jit): fold MLOADs of known memory words",
+      "url": "https://github.com/alloy-rs/evm2/pull/652",
+      "createdAt": "2026-10-16T02:02:15Z"
     }
   ]
 }
