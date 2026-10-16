@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T17:01:31.751Z",
-  "latencyMs": 321,
+  "executedAt": "2026-10-16T17:06:42.897Z",
+  "latencyMs": 415,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #257: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #258: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52690372,
+    "liveBlockNumber": 52690527,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,39 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 290373,
+    "baseMainnetTopPoolsVolume24hUsd": 290712,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GePQb6k4ZjsBDTtn2ZMfYRNJH4fzZ6ExKqRzWnCxpump",
+        "description": "HookAgents is a platform for launching AI characters and programmable tokens with rules enforced directly on-chain.\n\nAI CHARACTERS\n\nCreate an AI persona with it",
+        "url": "https://dexscreener.com/solana/gepqb6k4zjsbdttn2zmfyrnjh4fzz6exkqrzwncxpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6xGixJazECxaXE9Q6jACRzLVzB7TgZFknTFHQoynpump",
+        "description": "Analog Inu",
+        "url": "https://dexscreener.com/solana/6xgixjazecxaxe9q6jacrzlvzb7tgzfkntfhqoynpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DZzLHnax2jUTfZx8PCgR617oQTdro4LftnUQLwYopump",
+        "description": "He put 20 Claudes in a World with their own money on live.",
+        "url": "https://dexscreener.com/solana/dzzlhnax2jutfzx8pcgr617oqtdro4lftnuqlwyopump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6Lhjx2NGdpGHj3PKoYp4tXKZTrptFpBG5d4P1DhNpump",
+        "description": "Intellifuck",
+        "url": "https://dexscreener.com/solana/6lhjx2ngdpghj3pkoyp4txkztrptfpbg5d4p1dhnpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x741D68D9E3a3d433BC5b3e9fC635ab2662676887",
+        "description": "DUO",
+        "url": "https://dexscreener.com/robinhood/0x741d68d9e3a3d433bc5b3e9fc635ab2662676887"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "MRqNrysndnJSCqGgo2vKUgY5DcK3U7XchweY1taQve8",
@@ -51,36 +81,6 @@
         "tokenAddress": "0x76EDFEF4272E9191c8bd20EB5edc3236a51c7777",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/bsc/0x76edfef4272e9191c8bd20eb5edc3236a51c7777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Gkwf1JC2xeQfUrZGZQPQn3hg7VfCSBm175sVy18gpump",
-        "description": "Farting Teslar Roadster ($FTR) blasts through Solana on green gas, wild memes, and zero brakes. Buckle up for the galaxy's loudest ride.",
-        "url": "https://dexscreener.com/solana/gkwf1jc2xeqfurzgzqpqn3hg7vfcsbm175svy18gpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HbYb2coR8yHxKXvV37qgBFwsWSQefbKGUA5ERQU6Hgh6",
-        "description": "Mille is a 1000x perps exchange on Solana. Every trade is priced at the mid of Backpack's perp order book and settled against an LP that starts at $0 and grows ",
-        "url": "https://dexscreener.com/solana/hbyb2cor8yhxkxvv37qgbfwswsqefbkgua5erqu6hgh6"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AwsMhpdytsDvdMjqiBC3ct4Ksyt8ehynPhnGTePqpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/awsmhpdytsdvdmjqibc3ct4ksyt8ehynphngtepqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EXpKjqFf1h81e2f7EHetZQqMFf4g62y58WwEEQkhpump",
-        "description": "A robot training lab on Robinhood. We teach humanoids to walk on real physics, in public.",
-        "url": "https://dexscreener.com/solana/expkjqff1h81e2f7ehetzqqmff4g62y58wweeqkhpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2jHfiEKip6PoEELS8Dvhfkfe6nqh8xfMWYveTN2vpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2jhfiekip6poeels8dvhfkfe6nqh8xfmwyvetn2vpump"
       }
     ]
   },
