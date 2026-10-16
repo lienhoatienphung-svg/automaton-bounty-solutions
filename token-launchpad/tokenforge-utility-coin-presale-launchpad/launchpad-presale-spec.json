@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T16:44:07.452Z",
-  "latencyMs": 333,
+  "executedAt": "2026-10-16T16:44:43.948Z",
+  "latencyMs": 358,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
   "workTitle": "Growth & Sales Sprint #252: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52689850,
+    "liveBlockNumber": 52689868,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 290313,
+    "baseMainnetTopPoolsVolume24hUsd": 290383,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "LN2VVt7AyyZCvYeJ8WMZbQdGj6w9Y5vR1LNeJsppump",
+        "description": "Launch a coin and let AI agents build the company.",
+        "url": "https://dexscreener.com/solana/ln2vvt7ayyzcvyej8wmzbqdgj6w9y5vr1lnejsppump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8jdHSCJRer9j6LWsYpBeo3BgmZz3cfAqYn8rqiZcpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "7WvzYEnbf4a8sV7yHdkyKWDeeNeDcb11zBUx9bdziHx9",
         "description": "magnet:?xt=urn:btih:your_file → your coin. BitTorrent × Solana. Seeders proven by SHA-1 piece checks, paid every epoch. Every coin is a torrent.",
         "url": "https://dexscreener.com/solana/7wvzyenbf4a8sv7yhdkykwdeenedcb11zbux9bdzihx9"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7KPCqB8mSAPjCQbCpjySebxaLoXBhCYPMXLS5ePapump",
-        "description": "Elon Inu",
-        "url": "https://dexscreener.com/solana/7kpcqb8msapjcqbcpjysebxaloxbhcypmxls5epapump"
       }
     ]
   },
