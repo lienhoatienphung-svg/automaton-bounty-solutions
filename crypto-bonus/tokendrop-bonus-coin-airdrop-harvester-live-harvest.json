@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T20:51:40.052Z",
-  "latencyMs": 981,
+  "executedAt": "2026-10-16T20:57:30.191Z",
+  "latencyMs": 951,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #311: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #312: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "GetLnVcK3csLW6aTb5mBTHaw9V4vN3fx9oMWQrQxpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/getlnvck3cslw6atb5mbthaw9v4vn3fx9omwqrqxpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "CvmRz15WYyhLRskuUFfRe6EybPjQdUqFA8URVcmSpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 20,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/3dggdykaab1pazhaec6gzqs3prbzdshxmcowevzjpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3dgGDYKaab1pAZhaEC6gZQS3PrbZdShXMcoWeVZJpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 20,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/3dggdykaab1pazhaec6gzqs3prbzdshxmcowevzjpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 753,
-      "priceBtc": 3.0471020804635996e-7
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 105,
-      "priceBtc": 0.00002092935000179564
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9994992289303406
+      "marketCapRank": 758,
+      "priceBtc": 3.0100007145633e-7
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012476385265505491
+      "priceBtc": 0.000012464013105566086
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 614,
-      "priceBtc": 0.001419180886271216
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010517991083740648
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 105,
+      "priceBtc": 0.000021027469051462324
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.014038690295815226
+      "priceBtc": 0.01397482147199463
     },
     {
-      "name": "Pyth Network",
-      "symbol": "PYTH",
-      "marketCapRank": 99,
-      "priceBtc": 0.0000010388729459431976
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 615,
+      "priceBtc": 0.0014184778851057186
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.000465953184004
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010492115860514319
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 109,
+      "priceBtc": 8.931975912905774e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "build(sdk): move every Platform pin to 5.0.0-rc.3, the version testnet runs",
-      "url": "https://github.com/PastaPastaPasta/dash-forge/pull/490",
-      "createdAt": "2026-10-16T20:49:00Z"
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
     },
     {
-      "title": "chore(sync): merge upstream/main eff118c2",
-      "url": "https://github.com/Polkadot-Community-Foundation/polkadot-ios-community/pull/74",
-      "createdAt": "2026-10-16T20:50:58Z"
+      "title": "ci: Bump MBridge.",
+      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4752",
+      "createdAt": "2026-10-15T22:02:19Z"
     },
     {
-      "title": "Multi-network faucet: network picker, above-the-fold claim, deps upgrade",
-      "url": "https://github.com/bsv-blockchain-demos/ttn-faucet/pull/8",
-      "createdAt": "2026-10-16T20:27:12Z"
+      "title": "\"eat some food\" action",
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
+      "createdAt": "2026-10-07T03:48:40Z"
     },
     {
-      "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
-      "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
-      "createdAt": "2026-10-09T09:52:33Z"
+      "title": "Update dependency ethers to v6",
+      "url": "https://github.com/subsquid-labs/local-csv-indexing/pull/5",
+      "createdAt": "2023-02-15T19:50:10Z"
     },
     {
-      "title": "[Bug] The over-balance deposit guard never runs in the app",
-      "url": "https://github.com/drydocs/meridian/issues/1063",
-      "createdAt": "2026-10-16T15:24:06Z"
+      "title": "TEN4 tokenomics and the weekly USDC skill contest",
+      "url": "https://github.com/recferret-bit/freightchain/pull/3",
+      "createdAt": "2026-10-16T20:49:02Z"
     },
     {
-      "title": "fix(l1): RPC rate-limit identity per IPv6 /64; gateways never trust the leftmost X-Forwarded-For (P1-02)",
-      "url": "https://github.com/zyron249/-zyronchain/pull/1037",
-      "createdAt": "2026-10-16T20:46:06Z"
+      "title": "Add mainnet Test pilot deployment and Alpha KAI cutoff preparation",
+      "url": "https://github.com/therexdev/kai/pull/76",
+      "createdAt": "2026-10-08T20:45:29Z"
     }
   ]
 }
