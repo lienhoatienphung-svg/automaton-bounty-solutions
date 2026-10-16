@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T15:27:45.733Z",
-  "latencyMs": 334,
+  "executedAt": "2026-10-16T15:33:19.304Z",
+  "latencyMs": 881,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #231: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #232: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52687559,
+    "liveBlockNumber": 52687725,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 286985,
+    "baseMainnetTopPoolsVolume24hUsd": 286940,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7okHj8BvSdLGbGtGSLZk8cDo5W4iRhwAisaqPn1c5dNk",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7okhj8bvsdlgbgtgslzk8cdo5w4irhwaisaqpn1c5dnk"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xe2744AC129DA19F50f23549E57290C5FE3aEC5B2",
@@ -75,12 +81,6 @@
         "tokenAddress": "5e8GPzhqxLKFVU6gb87aJLZMoSQnbjBhQupXvCCZpump",
         "description": "Faster than a speeding bullet. Stronger than gravity.",
         "url": "https://dexscreener.com/solana/5e8gpzhqxlkfvu6gb87ajlzmosqnbjbhqupxvcczpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "jr963C1eUWRYk7TYAxii7MRyJqr1zJhVyZuYgVYpump",
-        "description": "Buy 7 or 30 days of a Meteora fee position's income and claim what actually comes in. Holding $CUTS opens the Pro Desk, and a share of every creator fee buys ba",
-        "url": "https://dexscreener.com/solana/jr963c1euwryk7tyaxii7mryjqr1zjhvyzuygvypump"
       }
     ]
   },
