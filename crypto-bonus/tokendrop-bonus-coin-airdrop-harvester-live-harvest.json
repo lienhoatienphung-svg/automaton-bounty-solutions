@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T14:07:35.428Z",
-  "latencyMs": 907,
+  "executedAt": "2026-10-16T14:09:20.336Z",
+  "latencyMs": 804,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #212: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #213: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Subsidy UI",
+      "url": "https://github.com/oceanprotocol/nodes-dashboard/pull/669",
+      "createdAt": "2026-10-13T12:37:28Z"
+    },
+    {
+      "title": "[SF-010] Establish live wallet-to-device and package-upgrade acceptance suite",
+      "url": "https://github.com/tyler-suifleet/suifleet/issues/11",
+      "createdAt": "2026-10-14T01:02:23Z"
+    },
+    {
+      "title": "[SF-031] Run wallet-to-testnet-to-Raspberry-Pi OTA acceptance tests",
+      "url": "https://github.com/tyler-suifleet/suifleet/issues/32",
+      "createdAt": "2026-10-14T02:29:26Z"
+    },
+    {
+      "title": "fix(send): localize the pending onchain warning, plus three drive-bys",
+      "url": "https://github.com/arkade-os/wallet/pull/1077",
+      "createdAt": "2026-10-16T12:45:28Z"
+    },
+    {
       "title": "fix(clmm): report each reward mint's real token program in RPC pool info",
       "url": "https://github.com/raydium-io/raydium-sdk-V2/pull/214",
       "createdAt": "2026-10-16T14:07:19Z"
     },
     {
-      "title": "Collection coins, P2P signal tipping, creator endowments, slashable l…",
-      "url": "https://github.com/PHASE-STELLAR/Phase/pull/566",
-      "createdAt": "2026-10-16T11:36:36Z"
-    },
-    {
       "title": "feat(staking): BUILD 1 — HeroSingleSidedStaking (HERO→HERO, DAO vote source)",
       "url": "https://github.com/jratdish1/hero-dapp/pull/119",
       "createdAt": "2026-09-27T22:49:15Z"
-    },
-    {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
-    },
-    {
-      "title": "Moonwater Product Polish Pass 4: interaction and animation refinement",
-      "url": "https://github.com/Ulziitugsa/hero-battler-prototype/pull/26",
-      "createdAt": "2026-10-16T14:05:57Z"
-    },
-    {
-      "title": "📦 Pending promotion: dev → main",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
-      "createdAt": "2026-06-29T11:18:37Z"
     }
   ]
 }
