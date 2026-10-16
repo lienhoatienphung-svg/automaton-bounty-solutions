@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T05:31:50.991Z",
-  "latencyMs": 847,
+  "executedAt": "2026-10-16T05:36:08.652Z",
+  "latencyMs": 1375,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #57: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #58: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,61 +218,56 @@
       "name": "streamoors",
       "symbol": "STREAM",
       "marketCapRank": 754,
-      "priceBtc": 2.994342304702598e-7
+      "priceBtc": 3.0568412588436e-7
     },
     {
       "name": "IGNITION",
       "symbol": "IGNITION",
-      "marketCapRank": 833,
-      "priceBtc": 2.4270653124209885e-7
+      "marketCapRank": 860,
+      "priceBtc": 2.3868526082773175e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 83,
-      "priceBtc": 0.00011236432323780802
+      "priceBtc": 0.00011268322186853059
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 636,
-      "priceBtc": 0.0013514996985347367
+      "priceBtc": 0.0013525335665362027
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 101,
-      "priceBtc": 0.000022720836872950203
+      "priceBtc": 0.000022665332943771332
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 84,
-      "priceBtc": 0.000011181882971667165
+      "priceBtc": 0.000011194453143312309
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00006359451057807692
+      "priceBtc": 0.00006364829416459343
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 103,
-      "priceBtc": 0.0000010217280585051847
+      "priceBtc": 0.000001028138073388101
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[I18-audit] Produce evaluation-integrity receipts for load-bearing claims",
-      "url": "https://github.com/UnknownAlienHuman/eliot-memory-os/issues/1922",
-      "createdAt": "2026-09-16T17:49:52Z"
-    },
-    {
-      "title": "Add Muse Glimmer and Muse Glimmer Assistant to Hub",
-      "url": "https://github.com/keras-team/keras-hub/pull/3100",
-      "createdAt": "2026-09-18T15:04:44Z"
+      "title": "fix(integrity): KotH proof tokens, OOBscan argv from buildArgs, compilable LSM codegen (Tier 9)",
+      "url": "https://github.com/DeployCoop/vigilante/pull/11",
+      "createdAt": "2026-10-16T05:34:43Z"
     },
     {
       "title": "\"eat some food\" action",
@@ -280,19 +275,24 @@
       "createdAt": "2026-10-07T03:48:40Z"
     },
     {
-      "title": "perf(jit): dedup discovered jump edges in O(1)",
-      "url": "https://github.com/alloy-rs/evm2/pull/658",
-      "createdAt": "2026-10-16T03:07:05Z"
+      "title": "[SF-031] Run wallet-to-testnet-to-Raspberry-Pi OTA acceptance tests",
+      "url": "https://github.com/tyler-suifleet/suifleet/issues/32",
+      "createdAt": "2026-10-14T02:29:26Z"
     },
     {
-      "title": "[Bugfix][OpenAI] Respect allowed_token_ids in beam search",
-      "url": "https://github.com/vllm-project/vllm/pull/47630",
-      "createdAt": "2026-07-05T06:13:07Z"
+      "title": "Block explorer + Testnet infrastructure 2025",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/53",
+      "createdAt": "2025-06-10T15:38:24Z"
     },
     {
       "title": "perf(jit): fold MLOADs of known memory words",
       "url": "https://github.com/alloy-rs/evm2/pull/652",
       "createdAt": "2026-10-16T02:02:15Z"
+    },
+    {
+      "title": "perf(jit): dedup discovered jump edges in O(1)",
+      "url": "https://github.com/alloy-rs/evm2/pull/658",
+      "createdAt": "2026-10-16T03:07:05Z"
     }
   ]
 }
