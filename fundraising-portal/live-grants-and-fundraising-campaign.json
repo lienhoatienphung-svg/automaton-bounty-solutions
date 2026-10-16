@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T08:22:16.513Z",
-  "latencyMs": 453,
+  "executedAt": "2026-10-16T08:27:50.020Z",
+  "latencyMs": 1192,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #95: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #96: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "chore(deps): update all non-major dependencies",
+          "url": "https://github.com/danielroe/hello-zero-nuxt/pull/68",
+          "repositoryUrl": "https://api.github.com/repos/danielroe/hello-zero-nuxt",
+          "updatedAt": "2026-10-16T08:27:45Z"
+        },
+        {
+          "title": "feat(access): one permissions model for facts and connectors (FB-16)",
+          "url": "https://github.com/zgilliland/paperclip/pull/3",
+          "repositoryUrl": "https://api.github.com/repos/zgilliland/paperclip",
+          "updatedAt": "2026-10-16T08:27:42Z"
+        },
+        {
+          "title": "ControlCenter CC-03: independent Windows OS readonly telemetry",
+          "url": "https://github.com/alkospacer123/market-pattern-discovery/pull/541",
+          "repositoryUrl": "https://api.github.com/repos/alkospacer123/market-pattern-discovery",
+          "updatedAt": "2026-10-16T08:27:40Z"
+        },
+        {
+          "title": "feat: add chunked prefill for standard, MLA, and hybrid attention",
+          "url": "https://github.com/alibaba/rtp-llm/pull/1460",
+          "repositoryUrl": "https://api.github.com/repos/alibaba/rtp-llm",
+          "updatedAt": "2026-10-16T08:27:40Z"
+        },
+        {
+          "title": "perf(db): serve foreground writers first and move reads off the writer",
+          "url": "https://github.com/Lukas-Beike/ai-coach/pull/1222",
+          "repositoryUrl": "https://api.github.com/repos/Lukas-Beike/ai-coach",
+          "updatedAt": "2026-10-16T08:27:39Z"
+        },
+        {
+          "title": "chore(deps): update pnpm to v12.11.0",
+          "url": "https://github.com/typescript-eslint/typescript-eslint/pull/13043",
+          "repositoryUrl": "https://api.github.com/repos/typescript-eslint/typescript-eslint",
+          "updatedAt": "2026-10-16T08:27:47Z"
+        },
+        {
+          "title": "chore(deps): update all non-major dependencies",
+          "url": "https://github.com/nuxt/scripts/pull/952",
+          "repositoryUrl": "https://api.github.com/repos/nuxt/scripts",
+          "updatedAt": "2026-10-16T08:27:39Z"
+        },
+        {
+          "title": "Draft: External Provider Platform — Phase 1 foundation (Phases 1–10 single PR)",
+          "url": "https://github.com/periljames/amo-portal/pull/560",
+          "repositoryUrl": "https://api.github.com/repos/periljames/amo-portal",
+          "updatedAt": "2026-10-16T08:27:38Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
