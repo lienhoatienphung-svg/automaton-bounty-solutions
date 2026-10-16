@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T16:53:12.414Z",
-  "latencyMs": 793,
+  "executedAt": "2026-10-16T16:59:29.787Z",
+  "latencyMs": 775,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #257: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #258: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 745,
-      "priceBtc": 3.0862922925750573e-7
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 104,
-      "priceBtc": 0.000021817556851864205
+      "marketCapRank": 772,
+      "priceBtc": 2.8707109346887227e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.0001069259255167983
+      "priceBtc": 0.00010711231865407071
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.000021731236431695097
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 614,
+      "priceBtc": 0.0014238393721899185
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006227322732508691
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 618,
-      "priceBtc": 0.0014213397222990658
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 99,
-      "priceBtc": 0.000008364383443647251
+      "priceBtc": 0.00006178617528012174
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 34,
-      "priceBtc": 0.0034277770374005847
+      "priceBtc": 0.0034109345395656357
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.303861896572612e-8
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9991740185948395
+    },
+    {
+      "name": "NeoSoul",
+      "symbol": "DNA",
+      "marketCapRank": 558,
+      "priceBtc": 0.000003525365922611893
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "📦 Pending promotion: dev → main",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
-      "createdAt": "2026-06-29T11:18:37Z"
+      "title": "Add moe-router-design task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/28",
+      "createdAt": "2026-09-27T02:38:45Z"
     },
     {
-      "title": "T5 PR1: 修复绿色信号弹落点搜索漏掉合法空投位置",
-      "url": "https://github.com/ZeroPointSix/sound-isolating-eraser/pull/41",
-      "createdAt": "2026-10-16T16:03:49Z"
+      "title": "Inventory and migrate current Standard card pool",
+      "url": "https://github.com/altf4/rustmage/issues/4",
+      "createdAt": "2026-10-15T15:51:44Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "[Ops] Muse ↔ Grok.btc direct line",
+      "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
+      "createdAt": "2026-09-13T13:56:58Z"
     },
     {
-      "title": "ENG-2448 ENG-2402 ENG-2401: preserve skill installs and npm releases",
-      "url": "https://github.com/radiustechsystems/tools/pull/79",
-      "createdAt": "2026-10-16T16:01:31Z"
+      "title": "[None][perf] One-model speculative decoding: host work between steps, worker-produced target logits, KDA drafts' records",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/19989",
+      "createdAt": "2026-10-08T14:23:11Z"
     },
     {
-      "title": "Mine ELECTRIC on the CPU with a keyless fee pot",
-      "url": "https://github.com/CyberAshven/pickaxe-miner/pull/51",
-      "createdAt": "2026-10-15T15:31:06Z"
+      "title": "docs: deploy the builder walkthroughs to the latest testnet, staging is down",
+      "url": "https://github.com/gnolang/gno/pull/6378",
+      "createdAt": "2026-10-16T15:08:21Z"
     },
     {
-      "title": "Devnet mock USDC cannot be transferred by the client",
-      "url": "https://github.com/toon-protocol/toon-client/issues/748",
-      "createdAt": "2026-09-23T22:14:44Z"
+      "title": "fix(mtp): logprobs requests no longer 500 with MTP speculative decoding",
+      "url": "https://github.com/raullenchai/Rapid-MLX/pull/4733",
+      "createdAt": "2026-10-16T16:56:58Z"
     }
   ]
 }
