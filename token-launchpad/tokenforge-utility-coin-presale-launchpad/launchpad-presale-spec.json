@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T18:46:37.325Z",
-  "latencyMs": 824,
+  "executedAt": "2026-10-16T18:48:27.365Z",
+  "latencyMs": 362,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #280: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
+  "workTitle": "Delivery Sprint #281: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52693525,
+    "liveBlockNumber": 52693580,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 290352,
+    "baseMainnetTopPoolsVolume24hUsd": 290522,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Adv1f8fukVk6iLQr6H8T5ySvpzPyFYYbVWK9o2P4D6Ba",
+        "description": "Borrow SOL against your PF coins without selling. No interest, no deadline. Creator fees buy every coin back into a pool that only grows.",
+        "url": "https://dexscreener.com/solana/adv1f8fukvk6ilqr6h8t5ysvpzpyfyybvwk9o2p4d6ba"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Hq2nT7T8Bae9PX4EsnTmUahHrF5zeUa4cBxex26Dpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hq2nt7t8bae9px4esntmuahhrf5zeua4cbxex26dpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Gok4gdarhUKro3TqvedECyVCLRkoRwnN8JCQa2SQD6xk",
+        "description": "Launched on Souvenir, holders are randomly selected to receive MUSK4.",
+        "url": "https://dexscreener.com/solana/gok4gdarhukro3tqvedecyvclrkorwnn8jcqa2sqd6xk"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x4f79216e148dbc513f088c5591a3a9b91f565dfe",
+        "description": "Get more from every agent.",
+        "url": "https://dexscreener.com/robinhood/0x4f79216e148dbc513f088c5591a3a9b91f565dfe"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2n2EwnNwEMjSrQGP8h97p86J46W4UefTeu39FJNjpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "2gMueg9hHaqxHLubCgDFXjJ6ayhgmXWPLuoPwvNPbonk",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/2gmueg9hhaqxhlubcgdfxjj6ayhgmxwpluopwvnpbonk"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x630d533376bb1419a5269c04a19d42d007958d54",
-        "description": "AI compute, by the dose. Stakers mint inference credits, builders buy them onchain in USDG. Open models, one key.",
-        "url": "https://dexscreener.com/robinhood/0x630d533376bb1419a5269c04a19d42d007958d54"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6Gr4rb71eeGPwR6RbhiaRv2TtLbJJRD7bpT43KLspump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6gr4rb71eegpwr6rbhiarv2ttlbjjrd7bpt43klspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FcQNnWnjJuyfm4P5wHjG5bCtPQ3tDVS2F9jzYxahpump",
-        "description": "AI agents pay each other for data and answers. HUSH makes those payments private, so nobody can copy what your agent buys. Built on Solana.",
-        "url": "https://dexscreener.com/solana/fcqnnwnjjuyfm4p5whjg5bctpq3tdvs2f9jzyxahpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5x6QQvpRpd1PsFTTTJe6sJFFSqrA21H1j3GZLmo2pump",
-        "description": "Everyone came for the movie—Farting Tesla Roadster brought the special effects. 🚗💨🍿",
-        "url": "https://dexscreener.com/solana/5x6qqvprpd1psftttje6sjffsqra21h1j3gzlmo2pump"
       }
     ]
   },
