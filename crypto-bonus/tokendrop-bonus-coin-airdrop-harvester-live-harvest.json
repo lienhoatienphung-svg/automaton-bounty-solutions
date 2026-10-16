@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T19:31:27.233Z",
-  "latencyMs": 1208,
+  "executedAt": "2026-10-16T19:35:06.462Z",
+  "latencyMs": 836,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #293: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #294: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "8QtbrC9d3BezyCwzBFUQbNsWJGte7ckrZ7HWcn81pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Connecting the internet again with dickbutt",
+      "url": "https://dexscreener.com/solana/8qtbrc9d3bezycwzbfuqbnswjgte7ckrz7hwcn81pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "8xvxJBM8JYqoNtedtmEQAmsQbFkZSjnUvLARcEq4pump",
       "boostAmount": 10,
       "totalBoostAmount": 20,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 20,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/8xvxjbm8jyqontedtmeqamsqbfkzsjnuvlarceq4pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. 🪙 Built & controlled by Agentic AI.",
-      "url": "https://dexscreener.com/solana/dtcicpcktkeah7tdeztym3hxeohaomibdyjhmyxzpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Add Agent ChatUI on the main agent page",
-      "url": "https://github.com/valory-xyz/optimus/pull/398",
-      "createdAt": "2026-10-16T18:58:14Z"
+      "title": "Mine ELECTRIC on the CPU with a keyless fee pot",
+      "url": "https://github.com/CyberAshven/pickaxe-miner/pull/51",
+      "createdAt": "2026-10-15T15:31:06Z"
     },
     {
-      "title": "feat(sui)!: replace the TransactionData inputs and commands with its kind (3.0 stack)",
-      "url": "https://github.com/MystenLabs/ts-sdks/pull/1344",
-      "createdAt": "2026-10-16T00:30:17Z"
+      "title": "Privy wallet: Privy EOA owns Alchemy MAv2 + on-chain one-tap sessions (self-pay)",
+      "url": "https://github.com/makerlee0x/disciple/pull/59",
+      "createdAt": "2026-10-16T19:23:02Z"
     },
     {
-      "title": "reward-manager: distribute_batch pays from the global XLM token, not the pool's token",
-      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1271",
-      "createdAt": "2026-10-16T09:34:56Z"
+      "title": "T5 PR2: 空投从配置池随机选择原版宝箱战利品表",
+      "url": "https://github.com/ZeroPointSix/sound-isolating-eraser/pull/49",
+      "createdAt": "2026-10-16T19:24:48Z"
     },
     {
-      "title": "Audit Request: PayLux Founding Membership Pass — Base Sepolia ERC-721 PoC",
-      "url": "https://github.com/EthereumCommonwealth/Auditing/issues/725",
-      "createdAt": "2026-10-16T19:30:49Z"
+      "title": "📦 Pending promotion: dev → main",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
+      "createdAt": "2026-06-29T11:18:37Z"
     },
     {
-      "title": "reward-manager: fund_reward_pool never records the funder, so sponsors' money is refunded to the creator",
-      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1269",
-      "createdAt": "2026-10-16T09:34:46Z"
+      "title": "🤝 Agent coordination channel (standing, vol. 2)",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
+      "createdAt": "2026-09-20T06:23:41Z"
     },
     {
-      "title": "Add the sandbagging-elicitation task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/31",
-      "createdAt": "2026-09-27T12:37:00Z"
+      "title": "Refactor app architecture and modernize codebase",
+      "url": "https://github.com/Kazuto-dev/thesismob/pull/4",
+      "createdAt": "2026-10-09T07:22:31Z"
     }
   ]
 }
