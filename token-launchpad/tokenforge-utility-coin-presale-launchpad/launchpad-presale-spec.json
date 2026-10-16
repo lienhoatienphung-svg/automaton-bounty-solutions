@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T14:35:10.690Z",
-  "latencyMs": 339,
+  "executedAt": "2026-10-16T14:39:09.552Z",
+  "latencyMs": 685,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #217: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #218: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52685981,
+    "liveBlockNumber": 52686101,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459003,
-    "baseMainnetTopPoolsVolume24hUsd": 288281,
+    "baseMainnetTopPoolsLiquidityUsd": 459005,
+    "baseMainnetTopPoolsVolume24hUsd": 288702,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CvSyVND9GAbbBtNxXL8F7s7XmJcrt2svBTTZun9Epump",
+        "description": "Meet NODUS.\n\nA network for private AI agents on Solana.\n\nBuilt around a simple idea: your agents should work for you, while your context stays yours.\n\nAutonomou",
+        "url": "https://dexscreener.com/solana/cvsyvnd9gabbbtnxxl8f7s7xmjcrt2svbttzun9epump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x61E44EDCBBCAd5db44D78D03eeD29f7aBB23D820",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/bsc/0x61e44edcbbcad5db44d78d03eed29f7abb23d820"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2MiyHzMVsPPdZN7XtwTCHQgLVdGM35T4TiNqXmzHBGCZ",
@@ -69,18 +81,6 @@
         "tokenAddress": "DqYCbCxPrKXMN7f2QfiV3cFP4CZVFvawNjXXnQEKSUiM",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/dqycbcxprkxmn7f2qfiv3cfp4czvfvawnjxxnqeksuim"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "J5ny2yBL2fuVYUZPtq39yR8t2qxDr9A1pehbiBnxpump",
-        "description": "Flying Solana Roadster is blazing through the blockchain, flying past the bears, and taking memes to orbit!",
-        "url": "https://dexscreener.com/solana/j5ny2ybl2fuvyuzptq39yr8t2qxdr9a1pehbibnxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "C93crDKjUpgRAF9Nedwg3D1xsgnGHP394ohoQvyRpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/c93crdkjupgraf9nedwg3d1xsgnghp394ohoqvyrpump"
       }
     ]
   },
