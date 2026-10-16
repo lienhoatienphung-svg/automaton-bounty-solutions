@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T06:14:05.976Z",
-  "latencyMs": 755,
+  "executedAt": "2026-10-16T06:17:23.836Z",
+  "latencyMs": 709,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #71: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #72: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,59 +215,64 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "IGNITION",
-      "symbol": "IGNITION",
-      "marketCapRank": 831,
-      "priceBtc": 2.506426171635108e-7
-    },
-    {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 757,
-      "priceBtc": 3.010602340662892e-7
+      "marketCapRank": 761,
+      "priceBtc": 2.9634350322543233e-7
     },
     {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 84,
-      "priceBtc": 0.00011147257938686729
+      "name": "IGNITION",
+      "symbol": "IGNITION",
+      "marketCapRank": 821,
+      "priceBtc": 2.543480113204113e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00006324371062536817
+      "priceBtc": 0.00006340692503128372
     },
     {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 104,
-      "priceBtc": 0.00002238148477532031
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 84,
+      "priceBtc": 0.00011145653265759965
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 86,
-      "priceBtc": 0.000027474060508819528
+      "priceBtc": 0.000027448924404010724
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 103,
+      "priceBtc": 0.00002241428468384819
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009842440426667477
+      "priceBtc": 0.0009870875850194942
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 637,
-      "priceBtc": 0.001349525355747713
+      "marketCapRank": 636,
+      "priceBtc": 0.0013575952059217975
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "contracts/escrow: Multi-token deposit support for escrow agreements",
-      "url": "https://github.com/Fidelis900/soroban-starter-kit/issues/1192",
-      "createdAt": "2026-09-22T06:57:57Z"
+      "title": "SF-010: live upgrade-security and browser wallet acceptance on testnet",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/70",
+      "createdAt": "2026-10-15T06:19:09Z"
+    },
+    {
+      "title": "fix(sampling): make per-request single-token draws independent of prefill chunking",
+      "url": "https://github.com/lightseekorg/tokenspeed/pull/2380",
+      "createdAt": "2026-10-15T13:42:04Z"
     },
     {
       "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
@@ -275,24 +280,19 @@
       "createdAt": "2026-10-09T07:30:01Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "contracts/escrow: Multi-token deposit support for escrow agreements",
+      "url": "https://github.com/Fidelis900/soroban-starter-kit/issues/1192",
+      "createdAt": "2026-09-22T06:57:57Z"
     },
     {
-      "title": "[2/N][BREAKING][rollout] feat: Support rollout with AR and DiT separate returns for QwenImage DualGRPO",
-      "url": "https://github.com/verl-project/verl-omni/pull/654",
-      "createdAt": "2026-09-22T01:17:50Z"
+      "title": "refactor: move speculative verification sampling into the rejection sampler.",
+      "url": "https://github.com/xLLM-AI/xllm/pull/2498",
+      "createdAt": "2026-10-16T06:08:03Z"
     },
     {
-      "title": "fix(p2p): keep the established dht identity instead of replacing it at runtime",
-      "url": "https://github.com/33cn/chain33/pull/1408",
-      "createdAt": "2026-10-16T05:39:48Z"
-    },
-    {
-      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
-      "createdAt": "2026-10-06T11:40:04Z"
+      "title": "[None][perf] One-model speculative decoding: host work between steps, worker-produced target logits, KDA drafts' records",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/19989",
+      "createdAt": "2026-10-08T14:23:11Z"
     }
   ]
 }
