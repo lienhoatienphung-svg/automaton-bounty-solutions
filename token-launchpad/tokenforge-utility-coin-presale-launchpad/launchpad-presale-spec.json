@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T08:41:09.741Z",
-  "latencyMs": 352,
+  "executedAt": "2026-10-16T08:41:26.317Z",
+  "latencyMs": 552,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
   "workTitle": "Growth & Sales Sprint #116: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52675361,
+    "liveBlockNumber": 52675369,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 235383,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "near",
+        "tokenAddress": "three-de86d6.launchpad.justhoot.near",
+        "description": "“Three digits minimum” \n\nLaunched on justhoot 🦉 \n\nRewards in NEAR.\n\nBuy through near intents with phantom or MetaMask on Solana or EVM. \n\nThree is NEAR.",
+        "url": "https://dexscreener.com/near/three-de86d6.launchpad.justhoot.near"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9YJbvjar1HgagKrpgiZXUfmSVgGfaEHjSbSzwBDNpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "8DQzWohFEMWruKUC5G2hEgBcs4bhJ1y7oJuyxZHpump",
         "description": "🐾 $LULU INU\nCUTE FACE. MISCHIEVOUS SOUL. ONE GROWING PACK.",
         "url": "https://dexscreener.com/solana/8dqzwohfemwrukuc5g2hegbcs4bhj1y7ojuyxzhpump"
-      },
-      {
-        "chainId": "xrpl",
-        "tokenAddress": "rBnJn8fHNwmjrkMjjQm9ubJ9rxFmjfjr86",
-        "description": "🏷️ $dTAG: The Officially-Unofficial Claims Department of the XRPL. \n\nFumbled a transaction? Forgot your Destination Tag? Sent your XRP into an exchange black h",
-        "url": "https://dexscreener.com/xrpl/rbnjn8fhnwmjrkmjjqm9ubj9rxfmjfjr86"
       }
     ]
   },
