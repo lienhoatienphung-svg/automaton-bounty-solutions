@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T09:57:35.223Z",
-  "latencyMs": 1039,
+  "executedAt": "2026-10-16T09:59:09.315Z",
+  "latencyMs": 1117,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #140: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
+  "workTitle": "Delivery Sprint #141: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "docs(bench): refresh published benchmark figures (Oct 2026) and pin Meltano in the harness",
+      "url": "https://github.com/faucet-hq/faucet-stream/pull/913",
+      "createdAt": "2026-10-16T08:52:28Z"
+    },
+    {
       "title": "Update weekly dependencies",
       "url": "https://github.com/inoUwU/blog-and-portfolio/pull/156",
       "createdAt": "2026-08-16T18:15:39Z"
+    },
+    {
+      "title": "Add modular text SFT, LoRA and trainable Engram offload",
+      "url": "https://github.com/PACTHEMAN123/Tiny-DSV41/pull/6",
+      "createdAt": "2026-10-16T00:14:58Z"
     },
     {
       "title": "candidates: ZCode 插件候选清单(每日自动)",
@@ -283,16 +293,6 @@
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "feat: upgrade wallet to SDK 0.5",
-      "url": "https://github.com/arkade-os/wallet/pull/936",
-      "createdAt": "2026-08-31T14:43:36Z"
-    },
-    {
-      "title": "[I18-audit] Produce evaluation-integrity receipts for load-bearing claims",
-      "url": "https://github.com/UnknownAlienHuman/eliot-memory-os/issues/1922",
-      "createdAt": "2026-09-16T17:49:52Z"
     }
   ]
 }
