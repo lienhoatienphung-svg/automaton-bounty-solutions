@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T20:54:54.213Z",
-  "latencyMs": 1163,
+  "executedAt": "2026-10-16T21:02:04.821Z",
+  "latencyMs": 1231,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #293: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #294: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "SC-019 A2: checkout i jednokrotne rozliczenie PRESELEKCJI — rdzeń płatności",
-          "url": "https://github.com/krzysztofsyska/skillcheck-core/pull/129",
-          "repositoryUrl": "https://api.github.com/repos/krzysztofsyska/skillcheck-core",
-          "updatedAt": "2026-10-16T20:54:51Z"
+          "title": "Phase 1, slice 1: v10 control schema, per-tenant API key tokens and the migrator CLI (DRAFT, not in the request path)",
+          "url": "https://github.com/warheart1984-ctrl/persistence-memory/pull/107",
+          "repositoryUrl": "https://api.github.com/repos/warheart1984-ctrl/persistence-memory",
+          "updatedAt": "2026-10-16T21:02:01Z"
         },
         {
-          "title": "Update dependency vitest to v4 [SECURITY]",
-          "url": "https://github.com/clevyr/nova-page-builder/pull/38",
-          "repositoryUrl": "https://api.github.com/repos/clevyr/nova-page-builder",
-          "updatedAt": "2026-10-16T20:54:51Z"
+          "title": "feat(compile)!: credential-isolated package feed access via permissions.packages",
+          "url": "https://github.com/githubnext/ado-aw/pull/2315",
+          "repositoryUrl": "https://api.github.com/repos/githubnext/ado-aw",
+          "updatedAt": "2026-10-16T21:02:02Z"
         },
         {
-          "title": "Upgrade ONNX Runtime 1.30 and CUDA 13 for Linux x86-64",
-          "url": "https://github.com/NVIDIA/Model-Optimizer/pull/2809",
-          "repositoryUrl": "https://api.github.com/repos/NVIDIA/Model-Optimizer",
-          "updatedAt": "2026-10-16T20:54:49Z"
+          "title": "Add native private video playback with bounded grant renewal",
+          "url": "https://github.com/transloadit/node-sdk/pull/569",
+          "repositoryUrl": "https://api.github.com/repos/transloadit/node-sdk",
+          "updatedAt": "2026-10-16T21:01:58Z"
         },
         {
-          "title": "Repair source bindings and qualify shared Immigration candidates",
-          "url": "https://github.com/dhart54/political_fingerprint/pull/198",
-          "repositoryUrl": "https://api.github.com/repos/dhart54/political_fingerprint",
-          "updatedAt": "2026-10-16T20:54:49Z"
+          "title": "feat(m0): public read-only access, private administrator and Free Supabase",
+          "url": "https://github.com/StanleyLl0yd/FootballForecast/pull/25",
+          "repositoryUrl": "https://api.github.com/repos/StanleyLl0yd/FootballForecast",
+          "updatedAt": "2026-10-16T21:01:58Z"
         },
         {
-          "title": "fix: web search hides an expired provider sign-in behind a generic error",
-          "url": "https://github.com/openclaw/openclaw/pull/174651",
+          "title": "Phase 1, slice 2: authenticate requests with per-tenant API keys behind JARVIS_KEY_TENANTS (DRAFT, stacked on #107)",
+          "url": "https://github.com/warheart1984-ctrl/persistence-memory/pull/108",
+          "repositoryUrl": "https://api.github.com/repos/warheart1984-ctrl/persistence-memory",
+          "updatedAt": "2026-10-16T21:02:03Z"
+        },
+        {
+          "title": "Consolidate parent and child permission requests",
+          "url": "https://github.com/arcee-ai/nac/pull/386",
+          "repositoryUrl": "https://api.github.com/repos/arcee-ai/nac",
+          "updatedAt": "2026-10-16T21:01:57Z"
+        },
+        {
+          "title": "M5 oracles: count failure classes F1 to F9 per run and tier (#1030, unit 1)",
+          "url": "https://github.com/ahrav/eidnara-sim/pull/14",
+          "repositoryUrl": "https://api.github.com/repos/ahrav/eidnara-sim",
+          "updatedAt": "2026-10-16T21:01:57Z"
+        },
+        {
+          "title": "chore(ci): update app token and Ruby setup actions",
+          "url": "https://github.com/openclaw/openclaw/pull/174055",
           "repositoryUrl": "https://api.github.com/repos/openclaw/openclaw",
-          "updatedAt": "2026-10-16T20:54:48Z"
-        },
-        {
-          "title": "[Bug]: macOS app resolves every exec approval as allow-once itself, even with allowlist + ask policy",
-          "url": "https://github.com/openclaw/openclaw/issues/174663",
-          "repositoryUrl": "https://api.github.com/repos/openclaw/openclaw",
-          "updatedAt": "2026-10-16T20:54:47Z"
-        },
-        {
-          "title": "fix: align advice with selected rules and player count",
-          "url": "https://github.com/f000167a/daifugo-analyzer/pull/9",
-          "repositoryUrl": "https://api.github.com/repos/f000167a/daifugo-analyzer",
-          "updatedAt": "2026-10-16T20:54:49Z"
-        },
-        {
-          "title": "[Self-hosting/Simplification] Make repo-guard the exemplar consumer of executable requirement relations",
-          "url": "https://github.com/netkeep80/repo-guard/issues/645",
-          "repositoryUrl": "https://api.github.com/repos/netkeep80/repo-guard",
-          "updatedAt": "2026-10-16T20:54:47Z"
+          "updatedAt": "2026-10-16T21:01:56Z"
         }
       ]
     },
