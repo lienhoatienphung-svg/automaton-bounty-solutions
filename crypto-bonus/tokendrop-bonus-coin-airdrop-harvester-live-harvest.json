@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T03:25:07.554Z",
-  "latencyMs": 935,
+  "executedAt": "2026-10-16T03:31:01.978Z",
+  "latencyMs": 1271,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #21: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #22: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0xd5D49D68a555f3C50cCDa9BD9a8691692E5ce172",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Join Us and get $BUSTED!  \n\nA tribute to the GTA VI and chaos! A token for the culture with Rewards &\nAchievements. \n\nBuild the crew. Hit the milestones. Every ",
+      "url": "https://dexscreener.com/robinhood/0xd5d49d68a555f3c50ccda9bd9a8691692e5ce172"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "Eizz6UJUBmoH4CxqLR5XBRyEGfoaKeckjmsraobSpump",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "The digital store for X with personalised shopping agents\n\nNot affiliated with X or Grok",
       "url": "https://dexscreener.com/solana/ch7gzzqhzrnhnljjsdpypnghgn3fdjuxqtr5qewppump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "FR2kf3htna5puoSxAjPedG7rgTkxfXvZjrL8x4zQpump",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/fr2kf3htna5puosxajpedg7rgtkxfxvzjrl8x4zqpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,24 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "test(mock): move the fifteen nothing-new chain-bound tests to the mock chain",
-      "url": "https://github.com/zingolabs/zingolib/pull/2996",
-      "createdAt": "2026-10-16T00:58:54Z"
+      "title": "新トップ画面をデザインする",
+      "url": "https://github.com/ksyunnnn/synsk.me/issues/148",
+      "createdAt": "2026-10-14T09:57:50Z"
     },
     {
-      "title": "[Perf] [NVIDIA] DSv4.1: DSpark draft model and sampling on the low-latency decode paths",
-      "url": "https://github.com/sgl-project/sglang/pull/44628",
-      "createdAt": "2026-10-16T01:50:56Z"
+      "title": "test(mock): move the acceptance-bearing chain-bound tests to the mock chain",
+      "url": "https://github.com/zingolabs/zingolib/pull/2997",
+      "createdAt": "2026-10-16T01:06:23Z"
     },
     {
-      "title": "feat(earn): phone My portfolio on the positions endpoint (OK-61377)",
-      "url": "https://github.com/OneKeyHQ/app-monorepo/pull/13825",
-      "createdAt": "2026-10-09T03:47:22Z"
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
     },
     {
-      "title": "Unify eval creation, behavior monitoring, and agent judge workflows",
-      "url": "https://github.com/Fergana-Labs/stash/pull/1244",
-      "createdAt": "2026-10-15T20:21:40Z"
+      "title": "SF-010: live upgrade-security and browser wallet acceptance on testnet",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/70",
+      "createdAt": "2026-10-15T06:19:09Z"
     },
     {
       "title": "[lifebank/payments] Crate fails to compile: claim_vested uses an undefined `reward_token`, and create_vesting calls the deprecated events AP",
@@ -290,9 +290,9 @@
       "createdAt": "2026-10-14T21:54:10Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
+      "createdAt": "2026-10-06T11:40:04Z"
     }
   ]
 }
