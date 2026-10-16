@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T18:55:02.175Z",
-  "latencyMs": 1243,
+  "executedAt": "2026-10-16T18:57:20.289Z",
+  "latencyMs": 753,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #266: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #267: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "21. WP: gebündelte automatische Quellenaufnahme, DIP-Folgeschritte, Prüfqualität und Betrieb",
-          "url": "https://github.com/Erzkon/ordnungsrufe/pull/4",
-          "repositoryUrl": "https://api.github.com/repos/Erzkon/ordnungsrufe",
-          "updatedAt": "2026-10-16T18:54:56Z"
+          "title": "feat: multi-tenant sessions — id-addressed auth flows, LRU cache, revoke_own_grant",
+          "url": "https://github.com/jvsena42/pubky-core-ffi-fork/pull/17",
+          "repositoryUrl": "https://api.github.com/repos/jvsena42/pubky-core-ffi-fork",
+          "updatedAt": "2026-10-16T18:57:15Z"
         },
         {
-          "title": "fix(eve): report a sign-in once completeAuthorization settles",
-          "url": "https://github.com/vercel/eve/pull/4762",
-          "repositoryUrl": "https://api.github.com/repos/vercel/eve",
-          "updatedAt": "2026-10-16T18:54:57Z"
+          "title": "CONFIG C0: semantic inventory, case matrix and independent review (in progress)",
+          "url": "https://github.com/datrab/kubeclaw/pull/18",
+          "repositoryUrl": "https://api.github.com/repos/datrab/kubeclaw",
+          "updatedAt": "2026-10-16T18:57:15Z"
         },
         {
-          "title": "Add a plan-first skill and the work log it writes to",
-          "url": "https://github.com/Phazzie/WhispersAndFlames/pull/92",
-          "repositoryUrl": "https://api.github.com/repos/Phazzie/WhispersAndFlames",
-          "updatedAt": "2026-10-16T18:54:57Z"
+          "title": "build(deps-dev): bump supabase from 2.119.0 to 2.120.0",
+          "url": "https://github.com/attaulhaq0/Cuevo/pull/61",
+          "repositoryUrl": "https://api.github.com/repos/attaulhaq0/Cuevo",
+          "updatedAt": "2026-10-16T18:57:15Z"
         },
         {
-          "title": "refactor(env): share canonical configuration policies",
-          "url": "https://github.com/JovieInc/Jovie/pull/22128",
-          "repositoryUrl": "https://api.github.com/repos/JovieInc/Jovie",
-          "updatedAt": "2026-10-16T18:54:58Z"
+          "title": "feat(skills): grant role-pack skills lazily per ADR-050 lane 1",
+          "url": "https://github.com/momoshell/dev-team-claude-plugin/pull/1833",
+          "repositoryUrl": "https://api.github.com/repos/momoshell/dev-team-claude-plugin",
+          "updatedAt": "2026-10-16T18:57:14Z"
         },
         {
-          "title": "Página /planes con precios desde la base y Círculo Deslizapp (aro, tarjeta, admin)",
-          "url": "https://github.com/onedayoneproj-blip/deslizapp-app/pull/139",
-          "repositoryUrl": "https://api.github.com/repos/onedayoneproj-blip/deslizapp-app",
-          "updatedAt": "2026-10-16T18:54:53Z"
+          "title": "RED TEAM reviewer-only: frozen #208/#246 + revoked-grant #252 on combined #251",
+          "url": "https://github.com/DanielCWeng/predictions-cup/pull/253",
+          "repositoryUrl": "https://api.github.com/repos/DanielCWeng/predictions-cup",
+          "updatedAt": "2026-10-16T18:57:14Z"
         },
         {
-          "title": "feat(fabric-local): channel roles over Channel (#113)",
-          "url": "https://github.com/kauki-labs/sandy/pull/202",
-          "repositoryUrl": "https://api.github.com/repos/kauki-labs/sandy",
-          "updatedAt": "2026-10-16T18:54:53Z"
+          "title": "chore(deps): update dependency react-native-permissions to v5.6.3",
+          "url": "https://github.com/jellydn/ai-photo-coach/pull/71",
+          "repositoryUrl": "https://api.github.com/repos/jellydn/ai-photo-coach",
+          "updatedAt": "2026-10-16T18:57:14Z"
         },
         {
-          "title": "[OMNIML-6078] [19/21] Add the Kimi-K2.5 and Kimi-VL expert-parallel adapters",
-          "url": "https://github.com/NVIDIA/Model-Optimizer/pull/2748",
-          "repositoryUrl": "https://api.github.com/repos/NVIDIA/Model-Optimizer",
-          "updatedAt": "2026-10-16T18:54:53Z"
+          "title": "New package: Mythaia.MythaiaPro version 1.2.0",
+          "url": "https://github.com/microsoft/winget-pkgs/pull/454090",
+          "repositoryUrl": "https://api.github.com/repos/microsoft/winget-pkgs",
+          "updatedAt": "2026-10-16T18:57:14Z"
         },
         {
-          "title": "fix(service,desktop): a workspace's Linear is held on a Linear API connector, so Linear stops refusing it",
-          "url": "https://github.com/ReviewStage/luke/pull/3124",
-          "repositoryUrl": "https://api.github.com/repos/ReviewStage/luke",
-          "updatedAt": "2026-10-16T18:54:52Z"
+          "title": "feat(datasource-dynamodb): add a DynamoDB datasource",
+          "url": "https://github.com/ForestAdmin/agent-nodejs/pull/2023",
+          "repositoryUrl": "https://api.github.com/repos/ForestAdmin/agent-nodejs",
+          "updatedAt": "2026-10-16T18:57:14Z"
         }
       ]
     },
