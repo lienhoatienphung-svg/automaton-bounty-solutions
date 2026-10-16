@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-16T13:01:22.747Z",
-  "latencyMs": 220,
+  "executedAt": "2026-10-16T13:01:24.839Z",
+  "latencyMs": 1484,
   "companyName": "PayStream x402 Pay-Per-Call AI & Market Intelligence API Gateway",
   "workTitle": "Growth & Sales Sprint #696: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetUrl": "https://polymarket.com/event/uk-election-called-by",
@@ -128,8 +128,79 @@
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 5,
+    "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Manila Recruitment",
+        "roleOrTask": "Director US Tax & Accounting #35344",
+        "industryTags": [
+          "exec",
+          "accounting",
+          "education",
+          "technical",
+          "customer support"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Twoconnect",
+        "roleOrTask": "Project and Quality Administrator Work From Home Dayshift",
+        "industryTags": [
+          "work from home",
+          "jira",
+          "sys admin",
+          "education",
+          "customer support"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Somnio Software",
+        "roleOrTask": "Sr REACT NATIVE",
+        "industryTags": [
+          "react native",
+          "react",
+          "dev",
+          "python",
+          "javascript"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Akicita Federal, LLC",
+        "roleOrTask": "Contracts Manager Federal",
+        "industryTags": [
+          "exec",
+          "medical",
+          "recruiter"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-contracts-manager-federal-akicita-federal-llc-1137522",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Akicita Federal, LLC",
+        "roleOrTask": "Federal Account Manager Client Relationships",
+        "industryTags": [
+          "exec",
+          "golang",
+          "recruiter"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "Arbeitnow-GlobalB2B",
         "company": "intercom",
