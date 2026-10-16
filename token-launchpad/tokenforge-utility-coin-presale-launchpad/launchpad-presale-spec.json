@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T17:17:58.634Z",
-  "latencyMs": 370,
+  "executedAt": "2026-10-16T17:19:53.480Z",
+  "latencyMs": 324,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #260: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
+  "workTitle": "Delivery Sprint #261: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52690865,
-    "liveGasPriceGwei": 0.006,
+    "liveBlockNumber": 52690923,
+    "liveGasPriceGwei": 0.0061,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 292203,
+    "baseMainnetTopPoolsVolume24hUsd": 293408,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "QWHXiDg7vko5aCpwyTVYMkhyzidwZArvaBupti8pump",
+        "description": "Pair any coin with 10 different stocks or coins",
+        "url": "https://dexscreener.com/solana/qwhxidg7vko5acpwytvymkhyzidwzarvabupti8pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Bfk6pYshc5F5314MyiaHbGFkgBuTMwzyqQitDWX4pump",
@@ -75,12 +81,6 @@
         "tokenAddress": "9KcwEpr7TnnaTuoXVcc3J4wxq5ptVr7fsH53w9M7pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/9kcwepr7tnnatuoxvcc3j4wxq5ptvr7fsh53w9m7pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2aqkYwRa1sZrpvZ5nottuVs3csGtXJEYsc9QRY9wpump",
-        "description": "The Roadster that flew, reborn as a cat. Four wheels, nine lives, zero gravity. $FTC on Solana.",
-        "url": "https://dexscreener.com/solana/2aqkywra1szrpvz5nottuvs3csgtxjeysc9qry9wpump"
       }
     ]
   },
