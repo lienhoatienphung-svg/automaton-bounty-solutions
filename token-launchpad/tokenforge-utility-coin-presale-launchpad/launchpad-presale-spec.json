@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T18:03:16.251Z",
-  "latencyMs": 316,
+  "executedAt": "2026-10-16T18:07:02.905Z",
+  "latencyMs": 581,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #272: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #273: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52692224,
+    "liveBlockNumber": 52692337,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 280172,
+    "baseMainnetTopPoolsVolume24hUsd": 280718,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GR6QkXU7KhFxVsWYutqnLDS958e76dPjeQPQNUG9pump",
+        "description": "$FARTSLA is fair-launched on Pumpfun, and it’s the first electric car with real emissions. Zero emissions. Almost.",
+        "url": "https://dexscreener.com/solana/gr6qkxu7khfxvswyutqnlds958e76dpjeqpqnug9pump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x8EA252aA4Ec8bf9E2b0Ff6E7c067CC878d5E615f",
+        "description": "The Mascot of Elons new Roadster launch",
+        "url": "https://dexscreener.com/robinhood/0x8ea252aa4ec8bf9e2b0ff6e7c067cc878d5e615f"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "AiCc1V168H2yjfCUHXoGDhhkpc2sYuy9WNjJvdGpump",
+        "description": "This dog purr has been going insanely viral on Instagram, already sitting at over 1M followers and 50M+ likes",
+        "url": "https://dexscreener.com/solana/aicc1v168h2yjfcuhxogdhhkpc2syuy9wnjjvdgpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BY9L93YrcBaNynetM7DQMYowpTH9ccU3JaqEqz8dpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "6ZMdBWGDSDACCFLyNDcBhwKvJyLCmXViToRo1bP2pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/6zmdbwgdsdaccflyndcbhwkvjylcmxvitoro1bp2pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FBUjGuDtSdzyf8rx2TGpDEawNs7CKK5sqPKPUe2Kpump",
-        "description": "Blastar",
-        "url": "https://dexscreener.com/solana/fbujgudtsdzyf8rx2tgpdeawns7ckk5sqpkpue2kpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "xZCMNn96CKUkomT67jUv9rw1241y1XSdzrNwYwvpump",
-        "description": "250 years of America. One golden meme. Inspired by the U.S. Mint’s historic 24K Trump Gold Coin. From 1776 to 2026, history meets crypto. Unofficial memecoin.",
-        "url": "https://dexscreener.com/solana/xzcmnn96ckukomt67juv9rw1241y1xsdzrnwywvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FTADiuJGyzbxZ9wwdwxtWHe45V5UPPYVFRmQ1U8mpump",
-        "description": "Perps on Solana: crypto, stocks, commodities.\nAgents trade them. Your limits are hard limits.",
-        "url": "https://dexscreener.com/solana/ftadiujgyzbxz9wwdwxtwhe45v5uppyvfrmq1u8mpump"
       }
     ]
   },
