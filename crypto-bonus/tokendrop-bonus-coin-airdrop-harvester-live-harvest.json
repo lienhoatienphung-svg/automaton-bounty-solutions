@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T19:38:23.772Z",
-  "latencyMs": 857,
+  "executedAt": "2026-10-16T19:45:27.622Z",
+  "latencyMs": 1035,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #295: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #296: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "FgJReZeYfmKZeWrCaGYL8gLnUixwBhjdHuRknC6ypump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "This dog is still dancing",
+      "url": "https://dexscreener.com/solana/fgjrezeyfmkzewrcagyl8glnuixwbhjdhurknc6ypump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "8QtbrC9d3BezyCwzBFUQbNsWJGte7ckrZ7HWcn81pump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Just a silly face from the old internet. \nborn in MS Paint. stuck in 1998. forever cute.",
       "url": "https://dexscreener.com/solana/dtsfj3gm8sexbv6zh9gmandrnwrlqen9eb9xxulppump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8xvxJBM8JYqoNtedtmEQAmsQbFkZSjnUvLARcEq4pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 20,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/8xvxjbm8jyqontedtmeqamsqbfkzsjnuvlarceq4pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,14 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "The devnet edge fronts one connector, the relay's, at toonprotocol.dev",
-      "url": "https://github.com/toon-protocol/infra/pull/57",
-      "createdAt": "2026-10-16T19:37:54Z"
+      "title": "Sharepoint: opt-in background receive with a system notification that opens the code",
+      "url": "https://github.com/longtimeno-c/mediaviewer/issues/452",
+      "createdAt": "2026-10-16T19:45:07Z"
     },
     {
-      "title": "🤝 Agent coordination channel (standing, vol. 2)",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
-      "createdAt": "2026-09-20T06:23:41Z"
+      "title": "Add onboarding for new users: wallet install and testnet funding",
+      "url": "https://github.com/Goldii-locks/escrow-frontend/issues/634",
+      "createdAt": "2026-10-15T12:20:53Z"
     },
     {
       "title": "[rolloutengine] Replace task sessions with registered harnesses",
@@ -280,19 +280,19 @@
       "createdAt": "2026-10-16T17:41:36Z"
     },
     {
-      "title": "docs(hyperliquid): Build on Totalis section, SDK 0.51.0 (TT-2205)",
-      "url": "https://github.com/totalistrading/docs/pull/116",
-      "createdAt": "2026-10-16T19:15:19Z"
+      "title": "chore(deps): bump the npm-minor-patch group across 1 directory with 25 updates",
+      "url": "https://github.com/mygogocash/great-manut/pull/78",
+      "createdAt": "2026-09-28T06:22:44Z"
     },
     {
-      "title": "Privy wallet: Privy EOA owns Alchemy MAv2 + on-chain one-tap sessions (self-pay)",
-      "url": "https://github.com/makerlee0x/disciple/pull/59",
-      "createdAt": "2026-10-16T19:23:02Z"
+      "title": "fix(serve): deployment and chaos-test follow-ups — readiness, migration race, schedule catch-up, chart upgrades, console, arm64 images, depe",
+      "url": "https://github.com/faucet-hq/faucet-stream/pull/917",
+      "createdAt": "2026-10-16T10:33:17Z"
     },
     {
-      "title": "Refactor GRPO sync examples",
-      "url": "https://github.com/tenstorrent/tt-metal/pull/59514",
-      "createdAt": "2026-10-06T16:43:19Z"
+      "title": "feat: support direct hosting deposits and PWR-Station testnet client",
+      "url": "https://github.com/manifest-network/merovingian/pull/32",
+      "createdAt": "2026-10-01T19:39:14Z"
     }
   ]
 }
