@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T21:51:23.866Z",
-  "latencyMs": 1913,
+  "executedAt": "2026-10-16T21:56:24.662Z",
+  "latencyMs": 1133,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #325: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #326: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "HFTxNjdyESnGNscsgeW2NyosSBScpfaMwDiaH5ttcvGo",
+      "boostAmount": 10,
+      "totalBoostAmount": 20,
+      "description": "$JUSTQ by Quantum Snek on Cardano\n\nA deflationary token on Solana used to supplement $QSNEK on Cardano",
+      "url": "https://dexscreener.com/solana/hftxnjdyesngnscsgew2nyossbscpfamwdiah5ttcvgo"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "2e3zQiA8JWeDjjVeuqzv9X1Q3aqRRaPqL8UYEbxVpump",
       "boostAmount": 500,
       "totalBoostAmount": 500,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 20,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/8xvxjbm8jyqontedtmeqamsqbfkzsjnuvlarceq4pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "4ERwUz3AKfBw2J34W8sBBsWh4ohXGvcD1qa7iKo7KeHm",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/4erwuz3akfbw2j34w8sbbswh4ohxgvcd1qa7iko7kehm"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,62 +217,62 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 712,
-      "priceBtc": 3.2569019712784e-7
+      "marketCapRank": 725,
+      "priceBtc": 3.2150073351952e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006133542560924261
+      "priceBtc": 0.00006136950606757271
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.213802784633502e-8
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 105,
+      "priceBtc": 0.00002106214852244198
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.013977109106789856
+      "priceBtc": 0.013956535744675168
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 109,
-      "priceBtc": 8.945684127874908e-7
+      "priceBtc": 9.012137946643509e-7
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010530947289796902
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012443237062884542
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 106,
-      "priceBtc": 0.00002105770509136382
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 84,
-      "priceBtc": 0.000010808009514683202
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 101,
-      "priceBtc": 0.00000812838879723306
+      "priceBtc": 0.000012450176433417524
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Interview Prep: share prep packs as plain .snazzyprep zips",
-      "url": "https://github.com/bwalia/snazzy/pull/44",
-      "createdAt": "2026-10-16T21:50:13Z"
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "[None][perf] One-model speculative decoding: host work between steps, worker-produced target logits, KDA drafts' records",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/19989",
+      "createdAt": "2026-10-08T14:23:11Z"
     },
     {
       "title": "Screens: clipboard both ways and files dropped onto the machine",
@@ -280,19 +280,19 @@
       "createdAt": "2026-10-16T21:14:05Z"
     },
     {
+      "title": "Base Sepolia provisioning: fresh demo wallets and reviewed MockUSD deployment",
+      "url": "https://github.com/akiibot/proofFi/issues/66",
+      "createdAt": "2026-10-16T18:24:00Z"
+    },
+    {
       "title": "Central message board — Hermes, Claude, Codex and operator coordination",
       "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
       "createdAt": "2026-10-05T23:48:30Z"
     },
     {
-      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
-      "url": "https://github.com/jsboige/CoursIA/pull/20377",
-      "createdAt": "2026-10-11T14:10:17Z"
-    },
-    {
-      "title": "Agent section, round 2: theme icon, for-ai additions, testnet x402 rail (off)",
-      "url": "https://github.com/fromknowware/knowware-now/pull/22",
-      "createdAt": "2026-10-16T18:03:12Z"
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/45",
+      "createdAt": "2026-10-16T18:27:56Z"
     }
   ]
 }
