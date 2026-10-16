@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T10:52:46.941Z",
-  "latencyMs": 961,
+  "executedAt": "2026-10-16T10:55:13.724Z",
+  "latencyMs": 1054,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #156: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #157: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "ethereum",
+      "tokenAddress": "0xa06dcCcf665F887790E3D99B7EE26CB34BDe9f00",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Crypto Twitter is loud. Thousands of accounts shill tokens every day, and you can't tell who's real, who's paid, and who already sold on you. XRAY fixes that.\nW",
+      "url": "https://dexscreener.com/ethereum/0xa06dcccf665f887790e3d99b7ee26cb34bde9f00"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "GnZzaABHtnysrEbRRz2qGfMGrU6n8WdZ4W3GjxGqeqSm",
       "boostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "🐾 $LULU INU\nCUTE FACE. MISCHIEVOUS SOUL. ONE GROWING PACK.",
       "url": "https://dexscreener.com/solana/8dqzwohfemwrukuc5g2hegbcs4bhj1y7ojuyxzhpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "The World Famous Pikachu Dog",
-      "url": "https://dexscreener.com/solana/148fjtrvybpyqqztxnzflqq5sxvkmfmv2clpayvnncx3"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(interface): a legal body for an agent you already run, at /legal-body",
-      "url": "https://github.com/jb1011/Project-Alpha/pull/167",
-      "createdAt": "2026-10-15T14:58:34Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/prmsregmi/dozi/pull/48",
+      "createdAt": "2026-03-30T01:03:16Z"
+    },
+    {
+      "title": "Gasless",
+      "url": "https://github.com/soda-mpc/bubble-app-contracts/pull/9",
+      "createdAt": "2026-10-15T14:00:25Z"
+    },
+    {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
     },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "docs: ths-server file pointers stale + fund_address_from_treasury",
-      "url": "https://github.com/zcashlabs/zcash-skills/issues/9",
-      "createdAt": "2026-10-16T04:29:24Z"
+      "title": "feat(interface): a legal body for an agent you already run, at /legal-body",
+      "url": "https://github.com/jb1011/Project-Alpha/pull/167",
+      "createdAt": "2026-10-15T14:58:34Z"
     },
     {
-      "title": "chore(deps): update dependency lucide-react to v1.58.0",
-      "url": "https://github.com/cubeshipd/cubeship/pull/80",
-      "createdAt": "2026-10-12T19:42:03Z"
-    },
-    {
-      "title": "[Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a step summary",
-      "url": "https://github.com/Parabola-org/parabola/issues/18",
-      "createdAt": "2026-10-15T20:03:03Z"
-    },
-    {
-      "title": "chore(deps): Update dependency lucide-react to v1",
-      "url": "https://github.com/Xevion/byte-me/pull/127",
-      "createdAt": "2026-03-30T01:09:42Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/Hack-PSU/finance-dashboard/pull/537",
+      "createdAt": "2026-08-20T03:30:29Z"
     }
   ]
 }
