@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T16:37:57.582Z",
-  "latencyMs": 1191,
+  "executedAt": "2026-10-16T16:42:45.025Z",
+  "latencyMs": 1657,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #253: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #254: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "8PPBwReYK4w6iToNmhQqVCepp569CWQ56QC4VCf1pump",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "The Solana memecoin scene belongs to cats right now. Enter $CATCYCLE! 🐈‍⬛💨\nCombining the unstoppable cat meta with lightning-fast two-wheel speed. Grab the ha",
+      "url": "https://dexscreener.com/solana/8ppbwreyk4w6itonmhqqvcepp569cwq56qc4vcf1pump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "HFTxNjdyESnGNscsgeW2NyosSBScpfaMwDiaH5ttcvGo",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "$JUSTQ by Quantum Snek on Cardano\n\nA deflationary token on Solana used to supplement $QSNEK on Cardano",
+      "url": "https://dexscreener.com/solana/hftxnjdyesngnscsgew2nyossbscpfamwdiah5ttcvgo"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "G3NKPRK3BVrNDPLCbtG53SibytphwDqiTrnaiUq9pump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Quantum-powered blockchain engineered for maximum security, performance, and scalability. EVM compatible. Proof Of Quantum",
       "url": "https://dexscreener.com/robinhood/0x302dacc52492095fb054937112a5aac4617ecfb3"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xe6613D2Bbd5f5C5bb203C36eE414ffaA4a47a977",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Safevano Wallet is the first premium non-custodial wallet built on the Robinhood Chain, featuring AI-powered assistance, RWA integration, DeFi access, aggregate",
-      "url": "https://dexscreener.com/robinhood/0xe6613d2bbd5f5c5bb203c36ee414ffaa4a47a977"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
-      "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,19 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "FLOP CHATGPT HANDOFF — NEWEST COMMENT IS SOLE CURRENT AUTHORITY (historical archive preserved)",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/765",
-      "createdAt": "2026-10-06T05:27:29Z"
+      "title": "Feature: unique-personhood / nullifier per app to prevent Sybil reuse",
+      "url": "https://github.com/ToluLabs/StellarCred/issues/395",
+      "createdAt": "2026-08-30T12:47:54Z"
     },
     {
-      "title": "Onboarding: coordinated first-run experience so new users reach value before key, squad, and treasury cliffs",
-      "url": "https://github.com/covenant-gov/pacto-app/issues/85",
-      "createdAt": "2026-07-16T05:09:46Z"
+      "title": "Merge master-2.0 into master",
+      "url": "https://github.com/solana-foundation/solana-playground/pull/27",
+      "createdAt": "2026-10-13T17:19:42Z"
     },
     {
-      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
-      "createdAt": "2026-10-12T04:03:25Z"
+      "title": "docs: deploy the builder walkthroughs to the latest testnet, staging is down",
+      "url": "https://github.com/gnolang/gno/pull/6378",
+      "createdAt": "2026-10-16T15:08:21Z"
     },
     {
       "title": "Roadmap: Black Anvil network rollout",
@@ -285,14 +285,14 @@
       "createdAt": "2026-10-16T02:23:31Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "feat: wallet register, and preflight refuses a wallet nobody can sign for",
+      "url": "https://github.com/Zoldenburg-me/Zold-app/pull/460",
+      "createdAt": "2026-10-16T16:41:27Z"
     },
     {
-      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
-      "createdAt": "2026-10-06T11:40:04Z"
+      "title": "Add streak-freeze tokens to protect user streaks from missed days",
+      "url": "https://github.com/privexlabs/BrandBlitz/issues/1012",
+      "createdAt": "2026-08-22T12:17:37Z"
     }
   ]
 }
