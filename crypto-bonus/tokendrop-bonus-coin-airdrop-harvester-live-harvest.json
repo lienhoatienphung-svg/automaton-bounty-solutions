@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T07:01:19.652Z",
-  "latencyMs": 844,
+  "executedAt": "2026-10-16T07:01:29.829Z",
+  "latencyMs": 1230,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Growth & Sales Sprint #86: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
+    },
+    {
+      "title": "perf(jit): fold MLOADs of known memory words",
+      "url": "https://github.com/alloy-rs/evm2/pull/652",
+      "createdAt": "2026-10-16T02:02:15Z"
+    },
+    {
       "title": "Update dependency lucide-react to v1 (main)",
       "url": "https://github.com/cloudogu/alpakalypse-now/pull/5",
       "createdAt": "2026-09-17T09:01:34Z"
@@ -283,16 +293,6 @@
       "title": "refactor: move speculative verification sampling into the rejection sampler.",
       "url": "https://github.com/xLLM-AI/xllm/pull/2498",
       "createdAt": "2026-10-16T06:08:03Z"
-    },
-    {
-      "title": "deps: bump npm dependencies (minor)",
-      "url": "https://github.com/holomush/holomush/pull/5016",
-      "createdAt": "2026-08-17T07:10:18Z"
-    },
-    {
-      "title": "feat: verify hardfork schedule",
-      "url": "https://github.com/raylsnetwork/axyl/pull/271",
-      "createdAt": "2026-10-13T06:52:04Z"
     }
   ]
 }
