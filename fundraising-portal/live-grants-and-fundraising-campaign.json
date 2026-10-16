@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T17:18:30.881Z",
-  "latencyMs": 1553,
+  "executedAt": "2026-10-16T17:19:57.759Z",
+  "latencyMs": 1455,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #244: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #245: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "feat: 既存Taskの参照をProject ownerとDotsへ接続する",
+          "url": "https://github.com/Kotodama-Project/Kotodama-project/pull/427",
+          "repositoryUrl": "https://api.github.com/repos/Kotodama-Project/Kotodama-project",
+          "updatedAt": "2026-10-16T17:19:51Z"
+        },
+        {
+          "title": "feat(gateway): accept virtual keys from LiteLLM_VerificationToken",
+          "url": "https://github.com/BerriAI/litellm/pull/46819",
+          "repositoryUrl": "https://api.github.com/repos/BerriAI/litellm",
+          "updatedAt": "2026-10-16T17:19:49Z"
+        },
+        {
+          "title": "fix(client): explain unavailable organization links",
+          "url": "https://github.com/MCPJam/inspector/pull/6525",
+          "repositoryUrl": "https://api.github.com/repos/MCPJam/inspector",
+          "updatedAt": "2026-10-16T17:19:49Z"
+        },
+        {
+          "title": "feat(cli): one compose-api CLI with Auth0 sign-in, keychain sessions and /auth/me",
+          "url": "https://github.com/biosimulations/compose-api/pull/319",
+          "repositoryUrl": "https://api.github.com/repos/biosimulations/compose-api",
+          "updatedAt": "2026-10-16T17:19:48Z"
+        },
+        {
+          "title": "docs: consumer-facing docs and package metadata for v0.1.0",
+          "url": "https://github.com/vig-os/vigil/pull/154",
+          "repositoryUrl": "https://api.github.com/repos/vig-os/vigil",
+          "updatedAt": "2026-10-16T17:19:48Z"
+        },
+        {
+          "title": "docs(dx): add a reproducible local bootstrap",
+          "url": "https://github.com/slippay-labs/slippay/issues/352",
+          "repositoryUrl": "https://api.github.com/repos/slippay-labs/slippay",
+          "updatedAt": "2026-10-16T17:19:47Z"
+        },
+        {
+          "title": "Broker M2: WHOOP native integration (preset, OAuth, tools, webhooks/poll, fake WHOOP)",
+          "url": "https://github.com/wynn-dev/agentinbox/pull/57",
+          "repositoryUrl": "https://api.github.com/repos/wynn-dev/agentinbox",
+          "updatedAt": "2026-10-16T17:19:47Z"
+        },
+        {
+          "title": "feat(extensions): add chrome.userScripts and chrome.offscreen",
+          "url": "https://github.com/samuelmaddock/electron-browser-shell/pull/187",
+          "repositoryUrl": "https://api.github.com/repos/samuelmaddock/electron-browser-shell",
+          "updatedAt": "2026-10-16T17:19:45Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
