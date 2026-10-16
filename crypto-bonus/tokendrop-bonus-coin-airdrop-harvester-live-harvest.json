@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T16:22:11.292Z",
-  "latencyMs": 1203,
+  "executedAt": "2026-10-16T16:24:14.667Z",
+  "latencyMs": 1613,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #248: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #249: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 950823,
-      "apyBase": 18.41,
-      "apyRewardBonus": 134145.13,
-      "apyTotal": 134163.54,
+      "tvlUsd": 959047,
+      "apyBase": 19.04,
+      "apyRewardBonus": 323639.7,
+      "apyTotal": 323658.74,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 603807,
-      "apyBase": 4,
-      "apyRewardBonus": 109598.22,
-      "apyTotal": 109602.21,
+      "tvlUsd": 601701,
+      "apyBase": 4.1,
+      "apyRewardBonus": 238753.26,
+      "apyTotal": 238757.36,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -42,12 +42,25 @@
     },
     {
       "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-VELVET",
+      "tvlUsd": 1128752,
+      "apyBase": 1.55,
+      "apyRewardBonus": 81995.48,
+      "apyTotal": 81997.03,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c07a115f-7299-4dd1-ac25-2de459010b6b"
+    },
+    {
+      "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 56671,
+      "tvlUsd": 55459,
       "apyBase": 0,
-      "apyRewardBonus": 39271.46,
-      "apyTotal": 39271.46,
+      "apyRewardBonus": 39258.29,
+      "apyTotal": 39258.29,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -56,24 +69,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-VELVET",
-      "tvlUsd": 1128255,
-      "apyBase": 1.61,
-      "apyRewardBonus": 19030.52,
-      "apyTotal": 19032.13,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c07a115f-7299-4dd1-ac25-2de459010b6b"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 266174,
-      "apyBase": 78.9,
-      "apyRewardBonus": 14151.52,
-      "apyTotal": 14230.42,
+      "tvlUsd": 262444,
+      "apyBase": 93.95,
+      "apyRewardBonus": 15537.95,
+      "apyTotal": 15631.9,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -82,24 +82,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "AVNT-USDC",
-      "tvlUsd": 707988,
-      "apyBase": 0.57,
-      "apyRewardBonus": 9831.43,
-      "apyTotal": 9832,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "eb27d0be-9de4-4ed9-8d36-a754e18d3358"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 163446,
-      "apyBase": 25.74,
-      "apyRewardBonus": 6770.2,
-      "apyTotal": 6795.94,
+      "tvlUsd": 151180,
+      "apyBase": 28.8,
+      "apyRewardBonus": 10311.02,
+      "apyTotal": 10339.82,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -108,24 +95,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "FUN-USDC",
-      "tvlUsd": 276243,
-      "apyBase": 92.94,
-      "apyRewardBonus": 6264.67,
-      "apyTotal": 6357.61,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "18674a4f-57ea-4c91-99ce-ea1a2b37aa3d"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "USDC-MUC",
-      "tvlUsd": 1002451,
-      "apyBase": 181.77,
-      "apyRewardBonus": 5678.81,
-      "apyTotal": 5860.58,
+      "tvlUsd": 1002929,
+      "apyBase": 229.72,
+      "apyRewardBonus": 8707.94,
+      "apyTotal": 8937.66,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -134,15 +108,41 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-CBBTC",
-      "tvlUsd": 2086689,
-      "apyBase": 87.02,
-      "apyRewardBonus": 5342.47,
-      "apyTotal": 5429.49,
+      "symbol": "AVNT-USDC",
+      "tvlUsd": 705528,
+      "apyBase": 0.48,
+      "apyRewardBonus": 7045.3,
+      "apyTotal": 7045.79,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+      "poolId": "eb27d0be-9de4-4ed9-8d36-a754e18d3358"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-SNDKC",
+      "tvlUsd": 1313109,
+      "apyBase": 194.34,
+      "apyRewardBonus": 6519.4,
+      "apyTotal": 6713.74,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 207659,
+      "apyBase": 29.3,
+      "apyRewardBonus": 6478.27,
+      "apyTotal": 6507.58,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Migrate workspace to rand 0.10 and update crypto dependencies",
-      "url": "https://github.com/mobilecoinfoundation/mobilecoin/pull/4120",
-      "createdAt": "2026-10-14T21:30:50Z"
-    },
-    {
-      "title": "AI-generated implementations for DaCe library nodes",
-      "url": "https://github.com/spcl/dace/pull/2557",
-      "createdAt": "2026-09-07T07:37:21Z"
-    },
-    {
-      "title": "ENG-2448 ENG-2402 ENG-2401: preserve skill installs and npm releases",
-      "url": "https://github.com/radiustechsystems/tools/pull/79",
-      "createdAt": "2026-10-16T16:01:31Z"
-    },
-    {
-      "title": "fix(server): stabilize reorg recovery verification",
-      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/388",
-      "createdAt": "2026-10-16T16:20:58Z"
-    },
-    {
       "title": "Add kv-cache-pruning-sglang",
       "url": "https://github.com/scaleapi/rsi-benchmark/pull/14",
       "createdAt": "2026-09-22T07:01:10Z"
     },
     {
-      "title": "Feegrant: when my OperatorAuthorization include feegrant...",
-      "url": "https://github.com/norahmou/Support/issues/6",
-      "createdAt": "2026-10-16T16:20:34Z"
+      "title": "Roadmap: Black Anvil network rollout",
+      "url": "https://github.com/LegendofKEK/bichael/issues/341",
+      "createdAt": "2026-10-16T02:23:31Z"
+    },
+    {
+      "title": "Update all major dependencies (major)",
+      "url": "https://github.com/Mbehbahani/JobPilot/pull/18",
+      "createdAt": "2026-08-05T16:21:46Z"
+    },
+    {
+      "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
+      "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
+      "createdAt": "2026-10-09T09:52:33Z"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "url": "https://github.com/reddoorla/medical-solutions-of-texas/pull/68",
+      "createdAt": "2026-09-21T16:45:08Z"
+    },
+    {
+      "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
+      "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
+      "createdAt": "2026-10-15T12:16:48Z"
     }
   ]
 }
