@@ -3,12 +3,12 @@
 - **Target Issue**: [Add drag-and-drop CSV batch upload zone with visual upload progress feedback](https://github.com/OphirPay/OphirPay/issues/1378)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
-- **Fork Fix Branch**: [fix/issue-1378](https://github.com/lienhoatienphung-svg/OphirPay)
-- **Pull Request**: Ready on branch fix/issue-1378
+- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Fork Fix Branch**: [fix/issue-1378](https://github.com/lienhoatienphung-svg/OphirPay/tree/fix/issue-1378)
+- **Pull Request**: [https://github.com/lienhoatienphung-svg/OphirPay/pull/6](https://github.com/lienhoatienphung-svg/OphirPay/pull/6)
 - **Inspected Source File**: `root tree`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-16T01:07:25.660Z`
+- **Timestamp**: `2026-10-16T01:07:35.302Z`
 
 ## 1. Repository Root Structure (`OphirPay/OphirPay`)
 - `.commitlintrc.json`
@@ -111,5 +111,5 @@ In `src/components/CsvBatchImport.tsx`, batch CSV files can currently only be se
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #1378`
-- Pull Request: https://github.com/lienhoatienphung-svg/OphirPay
+- Pull Request: https://github.com/lienhoatienphung-svg/OphirPay/pull/6
 - EVM / Base USDC Address: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
