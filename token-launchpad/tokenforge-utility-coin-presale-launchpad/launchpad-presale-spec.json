@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T22:34:16.197Z",
-  "latencyMs": 588,
+  "executedAt": "2026-10-16T22:40:40.245Z",
+  "latencyMs": 253,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #331: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #332: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52700354,
+    "liveBlockNumber": 52700546,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 289764,
+    "baseMainnetTopPoolsVolume24hUsd": 289742,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xdeBD0D345b54d56BcD637C2Dd34816E39c498CD4",
+        "description": "Know Where to Ape Before anyone else.",
+        "url": "https://dexscreener.com/robinhood/0xdebd0d345b54d56bcd637c2dd34816e39c498cd4"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GysVd8CyRvYn6yVp5zGzmbsW9zVkTQCjVE5pMb68pump",
+        "description": "Pokémon card battle arena powered by \n@Collector_Crypt\n. \nBuild your deck, beat your friends.",
+        "url": "https://dexscreener.com/solana/gysvd8cyrvyn6yvp5zgzmbsw9zvktqcjve5pmb68pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "H5tY2DKmwWEapuUTExdp9fpQmDSgesnEbuuwtphVpump",
+        "description": "Sent from my Pumpfun app",
+        "url": "https://dexscreener.com/solana/h5ty2dkmwweapuutexdp9fpqmdsgesnebuuwtphvpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "63jFLp6eRDPFCj4Szo1YoBUpRvjfQw7mE16Y18hDpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "6536pbtsUcBDe4tVX4sRF5SPBDvqoKjmohVNCsVBpump",
         "description": "BLINDSPOT is a local-first privacy workspace for files, browsing and Web3. Detect exposed metadata, permanently redact sensitive information, encrypt files and ",
         "url": "https://dexscreener.com/solana/6536pbtsucbde4tvx4srf5spbdvqokjmohvncsvbpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DWGR8nYdzzJJs8aygKwpENW2Qfc7YhK4tENk3Yxvvk6h",
-        "description": "ve(3,3) for Solana. Lock $PIT, vote, eat. Voters take 100% of pool fees + bribes, paid in SOL.",
-        "url": "https://dexscreener.com/solana/dwgr8nydzzjjs8aygkwpenw2qfc7yhk4tenk3yxvvk6h"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7xEffe2jyDMiaZpFwGU8Rf8AS8txpkwqWPgGx93Npump",
-        "description": "stay chill $DUDE",
-        "url": "https://dexscreener.com/solana/7xeffe2jydmiazpfwgu8rf8as8txpkwqwpggx93npump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Dj4QVtDAGLahokxsghSXJfMoFkESA7ivB95nGatWpump",
-        "description": "The aliens didn’t invade. They took office",
-        "url": "https://dexscreener.com/solana/dj4qvtdaglahokxsghsxjfmofkesa7ivb95ngatwpump"
       }
     ]
   },
