@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T21:58:44.448Z",
-  "latencyMs": 618,
+  "executedAt": "2026-10-16T22:05:57.430Z",
+  "latencyMs": 1707,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #327: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #328: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0xa01fF10774CFe53C3FBC1D7D124c42e19F6AfcBD",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Nobody knows where OWOWO came from.\n\nNo roadmap. No promises. Just vibes and a stare you can’t unsee.",
+      "url": "https://dexscreener.com/robinhood/0xa01ff10774cfe53c3fbc1d7d124c42e19f6afcbd"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "2Y1SU9ntRrfMi3EbDzPcUCBRqkTa94h6CLJKiyLxjxoz",
       "boostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "This dog is still dancing",
       "url": "https://dexscreener.com/solana/fgjrezeyfmkzewrcagyl8glnuixwbhjdhurknc6ypump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8QtbrC9d3BezyCwzBFUQbNsWJGte7ckrZ7HWcn81pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Connecting the internet again with dickbutt",
-      "url": "https://dexscreener.com/solana/8qtbrc9d3bezycwzbfuqbnswjgte7ckrz7hwcn81pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,51 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 725,
-      "priceBtc": 3.2150073351952e-7
+      "marketCapRank": 736,
+      "priceBtc": 3.1735449427634997e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006136950606757271
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.213802784633502e-8
+      "priceBtc": 0.0000613977100894573
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 105,
-      "priceBtc": 0.00002106214852244198
+      "priceBtc": 0.000021078003389022895
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.013956535744675168
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 109,
-      "priceBtc": 9.012137946643509e-7
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.245746846272887e-8
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010530947289796902
+      "priceBtc": 0.00010544384603628043
     },
     {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000012450176433417524
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 84,
+      "priceBtc": 0.000010799061637449638
+    },
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 49,
+      "priceBtc": 5.613325311386301e-8
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.013991190775873958
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Base Sepolia provisioning: fresh demo wallets and reviewed MockUSD deployment",
+      "url": "https://github.com/akiibot/proofFi/issues/66",
+      "createdAt": "2026-10-16T18:24:00Z"
+    },
+    {
+      "title": "New daily trending repos in Dart",
+      "url": "https://github.com/vitalets/github-trending-repos/issues/102",
+      "createdAt": "2018-02-24T18:08:35Z"
+    },
+    {
+      "title": "[None][perf] One-model speculative decoding: host work between steps, worker-produced target logits, KDA drafts' records",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/19989",
+      "createdAt": "2026-10-08T14:23:11Z"
+    },
+    {
+      "title": "Showcase plan 6: magic and use-on district",
+      "url": "https://github.com/lorecrafting/lokacore/pull/415",
+      "createdAt": "2026-10-16T20:20:06Z"
+    },
+    {
+      "title": "Suunto Ocean and Nautic support",
+      "url": "https://github.com/deepsealabs/libdc-swift/issues/29",
+      "createdAt": "2026-08-28T16:22:32Z"
+    },
+    {
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
+    }
+  ]
 }
