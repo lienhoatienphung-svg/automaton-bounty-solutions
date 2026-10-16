@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T08:05:21.200Z",
-  "latencyMs": 249,
+  "executedAt": "2026-10-16T08:10:27.837Z",
+  "latencyMs": 540,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #107: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #108: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52674287,
+    "liveBlockNumber": 52674440,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458995,
-    "baseMainnetTopPoolsVolume24hUsd": 243190,
+    "baseMainnetTopPoolsVolume24hUsd": 242435,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "21aory2QsMHai8BJUQnRHnZ7Hq3Y9mPcaxctmHgLpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/21aory2qsmhai8bjuqnrhnz7hq3y9mpcaxctmhglpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "8BwEQTbuKD6DyHsr57FpF8L6RRvzr8Gm4TRMMqfbpump",
+        "description": "get fat, get paid. free blob game, the pot is the $GULP creator fees",
+        "url": "https://dexscreener.com/solana/8bweqtbukd6dyhsr57fpf8l6rrvzr8gm4trmmqfbpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
         "description": "Biggest halloween memecoin!!",
         "url": "https://dexscreener.com/solana/dqrupvxa3wskcaasviottiuhrkgdhybrub6jnapjpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x36237a2A7Dfe0Cd52fB4c81b36d2a82f2a4b0cd3",
-        "description": "Uniting the Tesla × SpaceX narrative behind Elon's next-gen Roadster.",
-        "url": "https://dexscreener.com/robinhood/0x36237a2a7dfe0cd52fb4c81b36d2a82f2a4b0cd3"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8rAhJEyM72smDNgGUcPETXoVi21x7k2R8u2AMXGQpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8rahjeym72smdnggucpetxovi21x7k2r8u2amxgqpump"
       }
     ]
   },
