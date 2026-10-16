@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T19:21:21.391Z",
-  "latencyMs": 368,
+  "executedAt": "2026-10-16T19:23:15.889Z",
+  "latencyMs": 313,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #288: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #289: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52694567,
+    "liveBlockNumber": 52694624,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 286813,
+    "baseMainnetTopPoolsVolume24hUsd": 286674,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3JjsPYmPLC5WARk6SBC4JaBdGMxKtbe1XKSNzH9Zpump",
+        "description": "The bank for your bags. Borrow SOL & USDC 100+ memecoins, xStocks and blue chips, up to 70%.",
+        "url": "https://dexscreener.com/solana/3jjspymplc5wark6sbc4jabdgmxktbe1xksnzh9zpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "G4ea3acQYNUFa1VbYbe43Ppj12mXwCx5ra2KDCeypump",
@@ -75,12 +81,6 @@
         "tokenAddress": "23Wt75ddEYw6eY6nBE1C57zcDqhr6swRkDJkNXTopump",
         "description": "$BLINDSPOT the first quantum proof zero-knowledge privacy layer for Solana that lets you shield any token on Solana with a single signature, after which you can",
         "url": "https://dexscreener.com/solana/23wt75ddeyw6ey6nbe1c57zcdqhr6swrkdjknxtopump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GnB49MYfQzJnwxzkgzt1hHv2xdygyr7qFWP9soUgpump",
-        "description": "Go long or short on any Solana memecoin at up to 20x, as soon as it has a pool.",
-        "url": "https://dexscreener.com/solana/gnb49myfqzjnwxzkgzt1hhv2xdygyr7qfwp9sougpump"
       }
     ]
   },
