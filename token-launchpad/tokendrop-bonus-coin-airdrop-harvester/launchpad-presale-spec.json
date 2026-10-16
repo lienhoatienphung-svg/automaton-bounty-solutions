@@ -1,0 +1,88 @@
+{
+  "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
+  "executedAt": "2026-10-16T02:20:25.551Z",
+  "latencyMs": 322,
+  "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
+  "workTitle": "[Crypto Bonus & Utility Token Launchpad] Execute Live TokenDrop Bonus Coin & Airdrop Harvester Sprint #1",
+  "targetNetwork": {
+    "chainName": "Base Mainnet",
+    "chainId": 8453,
+    "liveBlockNumber": 52663939,
+    "liveGasPriceGwei": 0.006,
+    "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
+    "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
+  },
+  "problemSolvedAndUtilityModel": {
+    "tokenName": "Sovereign AI Utility & Settlement Token (SAIT)",
+    "coreProblemSolved": "Eliminates high B2B SaaS payment friction, fake volume, and rug-pull presale risk by binding token value directly to real HTTP 402 (x402) AI API usage credits, automated B2B Smart Escrow fee discounts, and on-chain revenue buybacks.",
+    "reputableAntiRugGuarantees": [
+      "100% On-Chain Softcap Refund Guarantee (`claimSoftcapRefund()`) if 25,000 USDC softcap is not reached.",
+      "Fixed 100,000,000 Max Supply — Zero owner mint function, zero blacklist/honeypot transfer tax.",
+      "30% Liquidity Pool Lock + 15% Team Allocation subject to 6-month cliff and 24-month linear vesting.",
+      "B2B Launchpad Service Fee: 2% USDC raised + 2% vested utility token allocation settled to Sovereign Wallet."
+    ],
+    "tokenomicsBreakdown": {
+      "maxSupply": "100,000,000 SAIT",
+      "publicPresale": "35% (35,000,000 SAIT @ $0.020 USDC)",
+      "lockedDexLiquidity": "30% (30,000,000 SAIT locked 365 days on Aerodrome/Uniswap V3 Base)",
+      "ecosystemAndUsageBonus": "20% (20,000,000 SAIT for B2B x402 API callers & Stakers)",
+      "teamAndRAndDVesting": "15% (15,000,000 SAIT — 6-month cliff, 24-month linear release)"
+    }
+  },
+  "liveMarketBenchmarks": {
+    "baseMainnetTopPoolsLiquidityUsd": 459008,
+    "baseMainnetTopPoolsVolume24hUsd": 265069,
+    "recentTokenProfileLaunchesCount": 8,
+    "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "84AaE16zkQ97UqeRsbZwkkDQJn9L3v4nUqrMMZ3Xpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/84aae16zkq97uqersbzwkkdqjn9l3v4nuqrmmz3xpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DEo8JhDt9Evd2FvEmBC9dtRd7yJUZfuuFPFUMCSQpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/deo8jhdt9evd2fvembc9dtrd7yjuzfuufpfumcsqpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
+        "description": "The original (first-generation) Tesla Roadster, produced from 2008–2012, was internally code-named DarkStar during development.",
+        "url": "https://dexscreener.com/solana/9jybtj84nzpqrs3zpkngdwdrmmda6i6wvaetu1x5pump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xb8f0CD88B020e005dB741e14968bb2c9033057E4",
+        "description": "the viral Rocket League trend",
+        "url": "https://dexscreener.com/robinhood/0xb8f0cd88b020e005db741e14968bb2c9033057e4"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7bnH5FcnRrGphmWASwtY69Rmdrd8K6EX4A9NKnDfpump",
+        "description": "Everyone’s calling the new Roadster a Rocket League car with its jet thrusters. So I made it playable. Win matches, earn SOL.",
+        "url": "https://dexscreener.com/solana/7bnh5fcnrrgphmwaswty69rmdrd8k6ex4a9nkndfpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "52Bg636UdPLGYZrB3eut7B4wSGHQBEfeUeLp8UFWpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/52bg636udplgyzrb3eut7b4wsghqbefeuelp8ufwpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Ewzy4cxD7LsB86pUziRZrAXar6z8KWyNNg4WYEJspump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/ewzy4cxd7lsb86puzirzraxar6z8kwynng4wyejspump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xb39619059eff1f992e157d32ff3e21407ca3233a",
+        "description": "The first dark web launchpad on Robinhood Chain. Launch through Tor, your wallet never shows as the creator.",
+        "url": "https://dexscreener.com/robinhood/0xb39619059eff1f992e157d32ff3e21407ca3233a"
+      }
+    ]
+  },
+  "publishedContractUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/token-launchpad/tokendrop-bonus-coin-airdrop-harvester/SovereignAIUtilityToken.sol"
+}
