@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T18:18:11.133Z",
-  "latencyMs": 356,
+  "executedAt": "2026-10-16T18:18:14.752Z",
+  "latencyMs": 798,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Growth & Sales Sprint #276: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -263,5 +263,36 @@
       "priceBtc": 0.000008452422470018795
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
+      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
+      "createdAt": "2026-10-12T21:43:27Z"
+    },
+    {
+      "title": "feat(web): public feedback page, one-click unsubscribe and prefilled redeem",
+      "url": "https://github.com/phaseoteam/Phaseo/pull/2910",
+      "createdAt": "2026-10-13T15:30:12Z"
+    },
+    {
+      "title": "feat(mongodb-search-and-ai): add guided quickstart walkthrough",
+      "url": "https://github.com/mongodb/agent-skills/pull/66",
+      "createdAt": "2026-09-17T23:10:10Z"
+    },
+    {
+      "title": "TransactionType is missing 26 transaction types the mirror node accepts",
+      "url": "https://github.com/hiero-hackers/hiero-enterprise-js/issues/332",
+      "createdAt": "2026-10-16T18:16:32Z"
+    },
+    {
+      "title": "Assembling sometimes panics with \"invalid source span: starting byte is out of bounds\" (wrong procedure name, missing imports)",
+      "url": "https://github.com/0xMiden/miden-vm/issues/2778",
+      "createdAt": "2026-03-05T03:12:36Z"
+    },
+    {
+      "title": "Wrong masm file shown on certain kinds of errors (missing import, possibly other)",
+      "url": "https://github.com/0xMiden/miden-vm/issues/2762",
+      "createdAt": "2026-03-02T18:05:13Z"
+    }
+  ]
 }
