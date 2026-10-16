@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T21:09:37.073Z",
-  "latencyMs": 373,
+  "executedAt": "2026-10-16T21:15:48.973Z",
+  "latencyMs": 380,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #313: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #314: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52697814,
+    "liveBlockNumber": 52698000,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 285620,
+    "baseMainnetTopPoolsVolume24hUsd": 287660,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "H7oLdpnF3qiinJ7sDjH7BTsBbPbHMcU2hbLyVehxpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/h7oldpnf3qiinj7sdjh7btsbbpbhmcu2hblyvehxpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "81gszkGUaFgc5CUzGBfQvqQ9KZAWPG4WJngoaYi6pump",
+        "description": "Retail",
+        "url": "https://dexscreener.com/solana/81gszkguafgc5cuzgbfqvqq9kzawpg4wjngoayi6pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "G4a7LoNyXGf7ENGMqpqioEwuq9A7z6veuLPAR4Xapump",
@@ -69,18 +81,6 @@
         "tokenAddress": "HygnX1kQ7SQFjmAr8sNuRQYe6UXyoWxhMEvVKp4Lpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/hygnx1kq7sqfjmar8snurqye6uxyowxhmevvkp4lpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GiRaaEcTLUeYztLJdMT6Xrve9QiMhggtnRKFQb94pump",
-        "description": "a mocking term for someone so dependent on AI that they can’t think, write, or create anything without it.",
-        "url": "https://dexscreener.com/solana/giraaectlueyztljdmt6xrve9qimhggtnrkfqb94pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "hJuZxPTJAPoYvg4wi3k9Lzasow2kqkmZec4BfuJpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hjuzxptjapoyvg4wi3k9lzasow2kqkmzec4bfujpump"
       }
     ]
   },
