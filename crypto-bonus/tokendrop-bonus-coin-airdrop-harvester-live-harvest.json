@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T21:08:08.009Z",
-  "latencyMs": 891,
+  "executedAt": "2026-10-16T21:11:57.550Z",
+  "latencyMs": 1379,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #315: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #316: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Beta: onboarding and resolver alert",
-      "url": "https://github.com/tote-hq/solana/pull/28",
-      "createdAt": "2026-10-16T21:02:12Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1.57.0",
-      "url": "https://github.com/jonahsnider/logos.frc.sh/pull/17",
-      "createdAt": "2026-09-05T02:10:25Z"
-    },
-    {
-      "title": "Plan: reconcile October migration drift and safely restore missing DB workflows",
-      "url": "https://github.com/fowlerontherun/rockmundo-genesis-project/issues/4072",
-      "createdAt": "2026-10-14T18:52:45Z"
-    },
-    {
-      "title": "merkle-airdrop template: admin can sweep while claims are still open",
-      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/533",
-      "createdAt": "2026-10-15T21:48:32Z"
-    },
-    {
       "title": "Agent section, round 2: theme icon, for-ai additions, testnet x402 rail (off)",
       "url": "https://github.com/fromknowware/knowware-now/pull/22",
       "createdAt": "2026-10-16T18:03:12Z"
     },
     {
+      "title": "First sync can fail with missing protocol config",
+      "url": "https://github.com/0xMiden/rust-sdk/issues/2715",
+      "createdAt": "2026-10-16T17:41:32Z"
+    },
+    {
+      "title": "perf(jit): sink LICM-hoisted constants on high pressure",
+      "url": "https://github.com/alloy-rs/evm2/pull/670",
+      "createdAt": "2026-10-16T17:41:18Z"
+    },
+    {
+      "title": "perf(jit): switch dynamic jumps on a dense index",
+      "url": "https://github.com/alloy-rs/evm2/pull/609",
+      "createdAt": "2026-10-15T00:19:06Z"
+    },
+    {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "\"eat some food\" action",
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
+      "createdAt": "2026-10-07T03:48:40Z"
     }
   ]
 }
