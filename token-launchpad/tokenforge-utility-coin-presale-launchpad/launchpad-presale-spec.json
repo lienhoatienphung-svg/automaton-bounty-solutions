@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T20:17:29.214Z",
-  "latencyMs": 340,
+  "executedAt": "2026-10-16T20:23:38.473Z",
+  "latencyMs": 315,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #301: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #302: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52696250,
-    "liveGasPriceGwei": 0.006,
+    "liveBlockNumber": 52696435,
+    "liveGasPriceGwei": 0.0062,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459008,
-    "baseMainnetTopPoolsVolume24hUsd": 289153,
+    "baseMainnetTopPoolsVolume24hUsd": 288987,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x37383C2011112730B86f54c32b020E41AaF68f6B",
+        "description": "OG Wojak is now on Robinhood.",
+        "url": "https://dexscreener.com/robinhood/0x37383c2011112730b86f54c32b020e41aaf68f6b"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "ZaNzo3XktmDASB1DkSFjL97Xot79G7vmrmzSdddf32n",
+        "description": "ZANZO: THE DUEL is a free-to-play multiplayer arena game featuring fast-paced PvP, precision gunplay, sword combat, and boss battles. Play instantly in your bro",
+        "url": "https://dexscreener.com/solana/zanzo3xktmdasb1dksfjl97xot79g7vmrmzsdddf32n"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "fund9yjz4WzdnzLYASUSeus8C44xCtTZb6D1Zaq3TVo",
+        "description": "AI agent-managed vaults on Solana.",
+        "url": "https://dexscreener.com/solana/fund9yjz4wzdnzlyasuseus8c44xcttzb6d1zaq3tvo"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "AbrrBru4MGSTsWQ9yoxjzd5qv61W5LUv1fwrTWerpump",
+        "description": "The U.S. Mint is releasing an official $250 Donald Trump coin for America’s 250th anniversary.",
+        "url": "https://dexscreener.com/solana/abrrbru4mgstswq9yoxjzd5qv61w5luv1fwrtwerpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5ubruMYpgKqw9ip5J1qrXbVGmMdn2VCsMg421B4bpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "5k2utd3WLwfYoXmvReuwjxRdZnf8My5EN7G8SFBMpump",
         "description": "Two legends. One Roadster. Infinite adventures.",
         "url": "https://dexscreener.com/solana/5k2utd3wlwfyoxmvreuwjxrdznf8my5en7g8sfbmpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xe461639de74b2818d4Bc451Fd08549C7c31A1de4",
-        "description": "Reptilians are real",
-        "url": "https://dexscreener.com/robinhood/0xe461639de74b2818d4bc451fd08549c7c31a1de4"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9DeNpcyvuzCS1zRkvrydXsDqsjqLsCkT7rkqWRY1pump",
-        "description": "a public experiment where an AI lives only on its token’s fees, knows it dies when people stop buying, and lets you read its private thoughts as the timer runs ",
-        "url": "https://dexscreener.com/solana/9denpcyvuzcs1zrkvrydxsdqsjqlsckt7rkqwry1pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CfGjgbwnyPzdeuSj9kAD5aoCiBwfPrq13KDvQyz4pump",
-        "description": "Stay fluffy. Fly high. Glow forever.",
-        "url": "https://dexscreener.com/solana/cfgjgbwnypzdeusj9kad5aocibwfprq13kdvqyz4pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5oZbhxYrdoUiLWsgTxAPx3rgcvBCErw47oD5vXjnoisd",
-        "description": "The ultimate security layer for Solana",
-        "url": "https://dexscreener.com/solana/5ozbhxyrdouilwsgtxapx3rgcvbcerw47od5vxjnoisd"
       }
     ]
   },
