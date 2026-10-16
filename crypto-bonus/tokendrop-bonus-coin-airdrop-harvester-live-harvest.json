@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T12:58:01.451Z",
-  "latencyMs": 1031,
+  "executedAt": "2026-10-16T12:58:48.265Z",
+  "latencyMs": 841,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #194: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #195: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore(deps): update dependency lucide-react to v1.58.0",
-      "url": "https://github.com/F88/mugen-protopedia/pull/163",
-      "createdAt": "2026-06-28T17:45:34Z"
+      "title": "Full SimpleFIN production audit and disconnect confirmation fix",
+      "url": "https://github.com/load66/bonus-tracker/pull/75",
+      "createdAt": "2026-10-16T12:43:24Z"
+    },
+    {
+      "title": "Security(deps): bump lucide-react from 0.516.0 to 1.47.0 in /dashboard-mvp",
+      "url": "https://github.com/dagimhaile1627-ux/project-management-excel/pull/4",
+      "createdAt": "2026-09-23T15:50:56Z"
     },
     {
       "title": "perf(jit): resolve dynamic jumps per call context",
@@ -275,24 +280,19 @@
       "createdAt": "2026-10-16T00:19:13Z"
     },
     {
+      "title": "chore(deps): update dependency lucide-react to v1.58.0",
+      "url": "https://github.com/F88/mugen-protopedia/pull/163",
+      "createdAt": "2026-06-28T17:45:34Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
       "title": "feat(symbiotic): add vault, RFQ, rewards and V2 curator descriptors",
       "url": "https://github.com/ethereum/clear-signing-erc7730-registry/pull/2990",
       "createdAt": "2026-09-14T20:59:24Z"
-    },
-    {
-      "title": "Suspected: withdrawals/start and deposits/start have no idempotency protection against client retries",
-      "url": "https://github.com/Konfirm-xyz/konfirm-backend/issues/142",
-      "createdAt": "2026-10-16T00:12:55Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/marc-aurele-besner/mymultisig-app/pull/701",
-      "createdAt": "2026-10-16T01:48:52Z"
-    },
-    {
-      "title": "Showcase: Homestead district (plan 4)",
-      "url": "https://github.com/lorecrafting/lokacore/pull/407",
-      "createdAt": "2026-10-16T11:04:17Z"
     }
   ]
 }
