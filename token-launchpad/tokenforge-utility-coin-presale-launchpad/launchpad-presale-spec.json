@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T07:41:43.076Z",
-  "latencyMs": 623,
+  "executedAt": "2026-10-16T07:44:59.702Z",
+  "latencyMs": 254,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #99: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #100: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52673577,
+    "liveBlockNumber": 52673676,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458995,
-    "baseMainnetTopPoolsVolume24hUsd": 250618,
+    "baseMainnetTopPoolsVolume24hUsd": 250477,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
+        "description": "Biggest halloween memecoin!!",
+        "url": "https://dexscreener.com/solana/dqrupvxa3wskcaasviottiuhrkgdhybrub6jnapjpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x36237a2A7Dfe0Cd52fB4c81b36d2a82f2a4b0cd3",
@@ -75,12 +81,6 @@
         "tokenAddress": "47bJRwnaLdsq8pg64ZudaXnNFrL3Taw3BFMjZuSLEppw",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/47bjrwnaldsq8pg64zudaxnnfrl3taw3bfmjzusleppw"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7gcmyjcykhz3qjh3e5vqi4j9qapdb3xninkgk6sypump"
       }
     ]
   },
