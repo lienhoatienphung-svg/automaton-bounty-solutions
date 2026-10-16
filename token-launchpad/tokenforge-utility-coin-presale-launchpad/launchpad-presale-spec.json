@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T09:06:42.682Z",
-  "latencyMs": 366,
+  "executedAt": "2026-10-16T09:08:53.034Z",
+  "latencyMs": 250,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #124: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #125: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52676127,
+    "liveBlockNumber": 52676192,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 314033,
+    "baseMainnetTopPoolsVolume24hUsd": 314277,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xb1F6543524678002acdba03E7B0B84cf93F2CF27",
+        "description": "So in fact we actually can get robots, flying cars, superintelligence, fast internet on planes, space travel, space colonies, orbital data centers, unlimited en",
+        "url": "https://dexscreener.com/robinhood/0xb1f6543524678002acdba03e7b0b84cf93f2cf27"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DFPXxy17iwsnzmQd4oa5bQjdoEbi5ZJYmFVtBpkLpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "GjkMsvYmuFR37SyKnJoD8DwccLb3HKMQBnNe5Nqbpump",
         "description": "GOAT11",
         "url": "https://dexscreener.com/solana/gjkmsvymufr37syknjod8dwcclb3hkmqbnne5nqbpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x5aBCaa98e19c0BAB678C458F229191Bd16b87a32",
-        "description": "The genesis collection of Surf. 6,666 SurfBoards marking the beginning of the Surf ecosystem — built at the intersection of AI, crypto, and stocks.",
-        "url": "https://dexscreener.com/robinhood/0x5abcaa98e19c0bab678c458f229191bd16b87a32"
       }
     ]
   },
