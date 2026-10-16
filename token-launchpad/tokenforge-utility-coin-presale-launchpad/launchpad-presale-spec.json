@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T15:41:03.362Z",
-  "latencyMs": 547,
+  "executedAt": "2026-10-16T15:42:42.330Z",
+  "latencyMs": 383,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #234: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #235: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52687958,
+    "liveBlockNumber": 52688007,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 286170,
+    "baseMainnetTopPoolsVolume24hUsd": 285904,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "ChxAKf1EBbp5n3kXLxrPKmZR9KRPvPQBdfqWcn3Ppump",
+        "description": "No Risk No Roadster. For everyone who knows the best things in life start with a little conviction and a full tank of memes.",
+        "url": "https://dexscreener.com/solana/chxakf1ebbp5n3kxlxrpkmzr9krpvpqbdfqwcn3ppump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "H3b7aDD7Gzm9XAN2xcn5GTv75TR3NSVGTfYnkeEwpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "7okHj8BvSdLGbGtGSLZk8cDo5W4iRhwAisaqPn1c5dNk",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/7okhj8bvsdlgbgtgslzk8cdo5w4irhwaisaqpn1c5dnk"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xe2744AC129DA19F50f23549E57290C5FE3aEC5B2",
-        "description": "The first RWA powered farming game on Robinhood Chain 🌾⛏️🛢️\nReal-market gold, silver and oil. Plant, raise and battle with your clan.",
-        "url": "https://dexscreener.com/robinhood/0xe2744ac129da19f50f23549e57290c5fe3aec5b2"
       }
     ]
   },
