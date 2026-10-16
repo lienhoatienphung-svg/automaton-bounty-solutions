@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T15:34:39.453Z",
-  "latencyMs": 1458,
+  "executedAt": "2026-10-16T15:40:37.111Z",
+  "latencyMs": 1496,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #235: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #236: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "5e8GPzhqxLKFVU6gb87aJLZMoSQnbjBhQupXvCCZpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Faster than a speeding bullet. Stronger than gravity.",
+      "url": "https://dexscreener.com/solana/5e8gpzhqxlkfvu6gb87ajlzmosqnbjbhqupxvcczpump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x302DAcc52492095fb054937112A5aaC4617ecfb3",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/bpfu7v4ylxkbwiweqeszygrnp3favtfgxepgdzv3pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3xmzHi86JTUdye7bUuT9TdBPZLeBK9nBCA44JHRdpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Audacity Roadster",
-      "url": "https://dexscreener.com/solana/3xmzhi86jtudye7buut9tdbpzlebk9nbca44jhrdpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 747,
-      "priceBtc": 3.394315380099e-7
+      "marketCapRank": 723,
+      "priceBtc": 3.197192107391294e-7
     },
     {
       "name": "astronaut",
       "symbol": "ASTRO",
-      "marketCapRank": 994,
-      "priceBtc": 1.8151766816831358e-7
+      "marketCapRank": 987,
+      "priceBtc": 1.8539895342467965e-7
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 97,
-      "priceBtc": 0.00000851829208860657
+      "priceBtc": 0.000008510791783123592
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00010882969298106614
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 610,
-      "priceBtc": 0.0014404443960502457
+      "priceBtc": 0.00011007418740410596
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 34,
-      "priceBtc": 0.003439513764116469
+      "priceBtc": 0.0034482234462384687
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 615,
+      "priceBtc": 0.0014248537275351543
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.000021950482144190056
+      "priceBtc": 0.000021915108506601896
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009677463231156124
+      "priceBtc": 0.0009669893380245714
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "Convert `dng` to `jpeg` before upload",
+      "url": "https://github.com/Expensify/App/pull/102057",
+      "createdAt": "2026-09-23T12:14:26Z"
     },
     {
-      "title": "Roadmap: Black Anvil network rollout",
-      "url": "https://github.com/LegendofKEK/bichael/issues/341",
-      "createdAt": "2026-10-16T02:23:31Z"
+      "title": "feat(finder): add configurable file and document tools",
+      "url": "https://github.com/vorssaint/vorssaint-utils/pull/3163",
+      "createdAt": "2026-10-16T15:13:54Z"
     },
     {
-      "title": "Feat: port Omdrop to Rust, adding omdrop-core",
-      "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/74",
-      "createdAt": "2026-10-16T08:20:48Z"
+      "title": "chore(integration-tests): reduce integration tests time",
+      "url": "https://github.com/0xMiden/rust-sdk/pull/2706",
+      "createdAt": "2026-10-15T20:03:25Z"
     },
     {
-      "title": "Config-stored authorities + privilege split + gate airdrop/reset (incident remediation)",
-      "url": "https://github.com/MyWewe-io/WEWE-solana-programs/pull/83",
-      "createdAt": "2026-10-13T19:46:08Z"
+      "title": "fix(web-client): hold the store lock for every chain MMR writer",
+      "url": "https://github.com/0xMiden/web-sdk/pull/482",
+      "createdAt": "2026-10-16T13:02:21Z"
     },
     {
-      "title": "[adapters] Port BioMysteryBench for evaluation with a Daytona pilot",
-      "url": "https://github.com/marin-community/harbor/issues/161",
-      "createdAt": "2026-09-18T21:32:59Z"
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
     },
     {
-      "title": "Book fixtures with TxL and validate via worker tickets",
-      "url": "https://github.com/txodds/tx-on-chain/pull/10",
-      "createdAt": "2026-10-08T08:56:25Z"
+      "title": "Suspected: withdrawals/start and deposits/start have no idempotency protection against client retries",
+      "url": "https://github.com/Konfirm-xyz/konfirm-backend/issues/142",
+      "createdAt": "2026-10-16T00:12:55Z"
     }
   ]
 }
