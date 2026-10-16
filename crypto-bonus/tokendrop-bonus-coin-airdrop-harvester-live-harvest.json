@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T12:33:53.793Z",
-  "latencyMs": 1082,
+  "executedAt": "2026-10-16T12:36:09.168Z",
+  "latencyMs": 1608,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #186: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #187: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,53 +217,73 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 809,
-      "priceBtc": 2.445863979773086e-7
+      "marketCapRank": 798,
+      "priceBtc": 2.6917906026026714e-7
     },
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 781,
-      "priceBtc": 2.791719007831617e-7
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00011028178108204569
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 99,
-      "priceBtc": 0.00000848251143189821
+      "marketCapRank": 806,
+      "priceBtc": 2.6455763291828374e-7
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.39480479151453e-8
+      "priceBtc": 9.447259812944613e-8
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00011093872788669445
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 99,
+      "priceBtc": 0.000008534968770438786
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012724156105864215
+      "priceBtc": 0.000012789312531388561
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.000022223832471598803
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9996606761126828
-    },
-    {
-      "name": "Backpack",
-      "symbol": "BP",
-      "marketCapRank": 158,
-      "priceBtc": 0.00001289406313668554
+      "priceBtc": 1.0001291347884824
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/marc-aurele-besner/mymultisig-app/pull/701",
+      "createdAt": "2026-10-16T01:48:52Z"
+    },
+    {
+      "title": "feat(contracts): implement DAO ragequit, NFT royalties, Merkle distributor, and VRF consumer",
+      "url": "https://github.com/StellarDevHub/Web3-Student-Lab/pull/1697",
+      "createdAt": "2026-10-16T12:34:48Z"
+    },
+    {
+      "title": "Enable fuel tank containers and native original iron/cobalt melting recipes",
+      "url": "https://github.com/totevr31-ux/TinkersConstruct/pull/62",
+      "createdAt": "2026-10-16T12:17:23Z"
+    },
+    {
+      "title": "Gasless",
+      "url": "https://github.com/soda-mpc/bubble-app-contracts/pull/9",
+      "createdAt": "2026-10-15T14:00:25Z"
+    },
     {
       "title": "fix(usdcx): reserve a burn's dry-run fee on Max",
       "url": "https://github.com/0xMiden/wallet/pull/1494",
@@ -273,26 +293,6 @@
       "title": "fix(deps): update dependency lucide-react to v1",
       "url": "https://github.com/Replikanti/flowlint-weblinter/pull/265",
       "createdAt": "2026-03-26T20:39:49Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/marc-aurele-besner/mymultisig-app/pull/701",
-      "createdAt": "2026-10-16T01:48:52Z"
-    },
-    {
-      "title": "Gasless",
-      "url": "https://github.com/soda-mpc/bubble-app-contracts/pull/9",
-      "createdAt": "2026-10-15T14:00:25Z"
-    },
-    {
-      "title": "Add bitmap claim bounds tests for examples/airdrop-bitmap",
-      "url": "https://github.com/Soroban-Cookbook/Soroban_Cookbook_online/issues/1134",
-      "createdAt": "2026-10-16T12:32:42Z"
-    },
-    {
-      "title": "Launch Another DoraHacks Bounty Post",
-      "url": "https://github.com/ubiquity/business-development/issues/174",
-      "createdAt": "2025-03-15T13:57:24Z"
     }
   ]
 }
