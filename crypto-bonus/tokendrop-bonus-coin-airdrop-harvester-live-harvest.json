@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T03:24:04.226Z",
-  "latencyMs": 1695,
+  "executedAt": "2026-10-16T03:25:07.554Z",
+  "latencyMs": 935,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #20: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
+  "workTitle": "Delivery Sprint #21: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "Eizz6UJUBmoH4CxqLR5XBRyEGfoaKeckjmsraobSpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/eizz6ujubmoh4cxqlr5xbryegfoakeckjmsraobspump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/fr2kf3htna5puosxajpedg7rgtkxfxvzjrl8x4zqpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "EaqXJVr1aFPhMyTJbDCpwvTeiKc8x4gueFjFKKBvtcWY",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/eaqxjvr1afphmytjbdcpwvteikc8x4guefjfkkbvtcwy"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "IGNITION",
       "symbol": "IGNITION",
-      "marketCapRank": 891,
-      "priceBtc": 2.228038612712308e-7
+      "marketCapRank": 902,
+      "priceBtc": 2.179810043753855e-7
     },
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 734,
-      "priceBtc": 3.094447811146759e-7
+      "marketCapRank": 731,
+      "priceBtc": 3.0919753943528886e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00011103919185849371
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 103,
-      "priceBtc": 0.000001027364946735836
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 635,
-      "priceBtc": 0.0013535071848857052
+      "priceBtc": 0.00011052478532141893
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006413802367914389
+      "priceBtc": 0.00006441695076832831
     },
     {
-      "name": "ZKsync",
-      "symbol": "ZK",
-      "marketCapRank": 197,
-      "priceBtc": 2.0309292767865768e-7
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 103,
+      "priceBtc": 0.0000010288657224589747
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9996617851480569
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 635,
+      "priceBtc": 0.0013547737943878895
+    },
+    {
+      "name": "Grass",
+      "symbol": "GRASS",
+      "marketCapRank": 121,
+      "priceBtc": 0.000008146130511956448
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 90,
+      "priceBtc": 0.000037686199888851034
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
-      "createdAt": "2026-10-06T11:40:04Z"
+      "title": "test(mock): move the fifteen nothing-new chain-bound tests to the mock chain",
+      "url": "https://github.com/zingolabs/zingolib/pull/2996",
+      "createdAt": "2026-10-16T00:58:54Z"
     },
     {
-      "title": "Pipeline trials: wire the runner for P1-P3 and run the first one-shot trials",
-      "url": "https://github.com/jtouley/harness-benchmark/pull/31",
-      "createdAt": "2026-10-16T01:39:31Z"
+      "title": "[Perf] [NVIDIA] DSv4.1: DSpark draft model and sampling on the low-latency decode paths",
+      "url": "https://github.com/sgl-project/sglang/pull/44628",
+      "createdAt": "2026-10-16T01:50:56Z"
     },
     {
-      "title": "chore(deps): bump tempo dependencies to e4acf9c",
-      "url": "https://github.com/kogisin/foundry/pull/87",
-      "createdAt": "2026-10-16T03:22:27Z"
+      "title": "feat(earn): phone My portfolio on the positions endpoint (OK-61377)",
+      "url": "https://github.com/OneKeyHQ/app-monorepo/pull/13825",
+      "createdAt": "2026-10-09T03:47:22Z"
+    },
+    {
+      "title": "Unify eval creation, behavior monitoring, and agent judge workflows",
+      "url": "https://github.com/Fergana-Labs/stash/pull/1244",
+      "createdAt": "2026-10-15T20:21:40Z"
+    },
+    {
+      "title": "[lifebank/payments] Crate fails to compile: claim_vested uses an undefined `reward_token`, and create_vesting calls the deprecated events AP",
+      "url": "https://github.com/Emeka000/Health-chain-stellar/issues/1597",
+      "createdAt": "2026-10-14T21:54:10Z"
     },
     {
       "title": "Central message board — Hermes, Claude, Codex and operator coordination",
       "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
       "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/43",
-      "createdAt": "2026-10-16T02:40:42Z"
     }
   ]
 }
