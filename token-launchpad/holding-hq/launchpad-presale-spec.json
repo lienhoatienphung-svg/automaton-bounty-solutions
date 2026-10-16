@@ -1,0 +1,88 @@
+{
+  "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
+  "executedAt": "2026-10-16T10:31:17.350Z",
+  "latencyMs": 390,
+  "companyName": "Holding HQ",
+  "workTitle": "Live Network Execution: [tokenforge-utility-launchpad] Growth & Sales Sprint #148: B2B ICP outreach & technical audit for [Polymarket Arbitr",
+  "targetNetwork": {
+    "chainName": "Base Mainnet",
+    "chainId": 8453,
+    "liveBlockNumber": 52678665,
+    "liveGasPriceGwei": 0.006,
+    "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
+    "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
+  },
+  "problemSolvedAndUtilityModel": {
+    "tokenName": "Sovereign AI Utility & Settlement Token (SAIT)",
+    "coreProblemSolved": "Eliminates high B2B SaaS payment friction, fake volume, and rug-pull presale risk by binding token value directly to real HTTP 402 (x402) AI API usage credits, automated B2B Smart Escrow fee discounts, and on-chain revenue buybacks.",
+    "reputableAntiRugGuarantees": [
+      "100% On-Chain Softcap Refund Guarantee (`claimSoftcapRefund()`) if 25,000 USDC softcap is not reached.",
+      "Fixed 100,000,000 Max Supply — Zero owner mint function, zero blacklist/honeypot transfer tax.",
+      "30% Liquidity Pool Lock + 15% Team Allocation subject to 6-month cliff and 24-month linear vesting.",
+      "B2B Launchpad Service Fee: 2% USDC raised + 2% vested utility token allocation settled to Sovereign Wallet."
+    ],
+    "tokenomicsBreakdown": {
+      "maxSupply": "100,000,000 SAIT",
+      "publicPresale": "35% (35,000,000 SAIT @ $0.020 USDC)",
+      "lockedDexLiquidity": "30% (30,000,000 SAIT locked 365 days on Aerodrome/Uniswap V3 Base)",
+      "ecosystemAndUsageBonus": "20% (20,000,000 SAIT for B2B x402 API callers & Stakers)",
+      "teamAndRAndDVesting": "15% (15,000,000 SAIT — 6-month cliff, 24-month linear release)"
+    }
+  },
+  "liveMarketBenchmarks": {
+    "baseMainnetTopPoolsLiquidityUsd": 459006,
+    "baseMainnetTopPoolsVolume24hUsd": 310881,
+    "recentTokenProfileLaunchesCount": 8,
+    "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6i13wKaK4BEeAL7PrdYhg7aGybjVqsxKNKyHf18jpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6i13wkak4beeal7prdyhg7agybjvqsxknkyhf18jpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xca9F238B7ADcE9499434Df005fB91754E0E74A43",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0xca9f238b7adce9499434df005fb91754e0e74a43"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0xf3F6c29bDB0f9125921C1E4d32e88c6C6dB17777",
+        "description": "🇨🇳🐱 Dorito Ear Cat——China's Explosive AI Feline Sensation, Total Views Across the Web Surpass 2.2 Billion!\n\nBefore Dorito Ear Cat went viral, Chinese interne",
+        "url": "https://dexscreener.com/bsc/0xf3f6c29bdb0f9125921c1e4d32e88c6c6db17777"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DBHbh97znAUMwufxKBTKcsvusJQQ17x8b8bEVzmgpump",
+        "description": "Launch a coin paired against a pumpfun runner instead of SOL. Buying the beta means buying the runner, and a cut of every trade goes back to beta holders in the",
+        "url": "https://dexscreener.com/solana/dbhbh97znaumwufxkbtkcsvusjqq17x8b8bevzmgpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CaGJEqcDsyUrQuCZcHQmMkMKjzyb4VRewC8GPiv3pump",
+        "description": "mine the belt, build your ship, dock it and cash out in SOL",
+        "url": "https://dexscreener.com/solana/cagjeqcdsyurquczchqmmkmkjzyb4vrewc8gpiv3pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "YwCKitMEdf7nagejZbvpDvxDui5CdoQ3NuJsE5Tpump",
+        "description": "Going to onboard Clav on stream.",
+        "url": "https://dexscreener.com/solana/ywckitmedf7nagejzbvpdvxdui5cdoq3nujse5tpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "PdtREY9H6Fp9jVMpG36aywtCgxTtsQZetmehKqgyern",
+        "description": "A little idea is a new beginning.",
+        "url": "https://dexscreener.com/solana/pdtrey9h6fp9jvmpg36aywtcgxttsqzetmehkqgyern"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6ZDKgWopksQPMBPQvmdZrP13JEPApbNrSUQLPPbQpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6zdkgwopksqpmbpqvmdzrp13jepapbnrsuqlppbqpump"
+      }
+    ]
+  },
+  "publishedContractUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/token-launchpad/holding-hq/SovereignAIUtilityToken.sol"
+}
