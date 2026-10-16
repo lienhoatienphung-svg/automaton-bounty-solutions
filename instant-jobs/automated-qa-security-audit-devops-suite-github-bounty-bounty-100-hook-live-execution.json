@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-16T11:41:17.173Z",
-  "latencyMs": 581,
+  "executedAt": "2026-10-16T11:46:05.985Z",
+  "latencyMs": 630,
   "companyName": "Automated QA, Security Audit & DevOps Suite: GitHub Bounty   BOUNTY  100  HOOK  ",
-  "workTitle": "Delivery Sprint #575: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
-  "targetUrl": "https://polymarket.com/event/china-x-india-military-clash-by-december-31",
+  "workTitle": "Growth & Sales Sprint #576: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656621,
-        "liquidityUsd": 42362,
+        "liquidityUsd": 42583,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2500493,
-        "liquidityUsd": 25159,
+        "liquidityUsd": 24103,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2170310,
-        "liquidityUsd": 94781,
+        "liquidityUsd": 94776,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 17784,
+        "liquidityUsd": 17774,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -72,7 +72,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00013,
         "liquidityUsd": 103138,
-        "volume24hUsd": 87260,
+        "volume24hUsd": 88642,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -82,7 +82,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00016,
         "liquidityUsd": 140028,
-        "volume24hUsd": 77340,
+        "volume24hUsd": 77341,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00012,
+        "priceUsd": 1.00014,
         "liquidityUsd": 21385,
-        "volume24hUsd": 105663,
+        "volume24hUsd": 107605,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -112,7 +112,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000093,
         "liquidityUsd": 12034,
-        "volume24hUsd": 3075,
+        "volume24hUsd": 3017,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
@@ -122,7 +122,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000099,
         "liquidityUsd": 14836,
-        "volume24hUsd": 375,
+        "volume24hUsd": 373,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       }
     ]
@@ -203,58 +203,58 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "SIDES (SimplyDelivery GmbH)",
-        "roleOrTask": "Senior Full Stack Engineer - PHP/Go + Flutter (m/f/x)",
+        "company": "Stay-Stiftung für multiplikative Entwicklung",
+        "roleOrTask": "Praktikum Human Resources (m/w/d) AB SOFORT",
+        "industryTags": [
+          "Recruitment and Selection"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/stay-stiftung-fur-multiplikative-entwicklung/praktikum-human-resources-ab-sofort-stuttgart-216269",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "7NXT GmbH",
+        "roleOrTask": "(Senior) Backend Engineer – Golang",
         "industryTags": [
           "Software Development"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/sides-simplydelivery-gmbh/senior-full-stack-engineer-php-go-flutter-berlin-332401",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/senior-backend-engineer-golang-berlin-16523",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "SIDES (SimplyDelivery GmbH)",
-        "roleOrTask": "Junior Customer Success Specialist (m/f/x)",
+        "company": "benuta GmbH",
+        "roleOrTask": "Videograph / Filmemacher KI (m/w/d)",
         "industryTags": [
-          "Customer Service"
+          "Product Management"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/sides-simplydelivery-gmbh/junior-customer-success-specialist-berlin-350634",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/benuta-gmbh/videograph-filmemacher-ki-bonn-176450",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Einrichtungshaus Mathes",
-        "roleOrTask": "Social Media Manager/in (m/w/d) in Voll- oder Teilzeit",
+        "company": "7NXT GmbH",
+        "roleOrTask": "Werkstudent:in Influencer & Creator Marketing",
         "industryTags": [
           "Social Media Manager"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/einrichtungshaus-mathes/social-media-manager-in-in-voll-oder-teilzeit-aachen-147910",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/werkstudentin-influencer-creator-marketing-berlin-268763",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "LIGANOVA GmbH",
-        "roleOrTask": "Junior Art Director (all genders)",
+        "company": "Tarebase",
+        "roleOrTask": "Founding Engineer (Remote - EEA/UK)",
         "industryTags": [
-          "Graphic Arts and Communication Design"
+          "Remote",
+          "Software Development"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/liganova-gmbh/junior-art-director-all-genders-stuttgart-58441",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Pertemps ERP",
-        "roleOrTask": "SAP Inhouse Consultant FI / MM-IV (m/w/d)",
-        "industryTags": [
-          "SAP/ERP Consulting",
-          "Development"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-inhouse-consultant-fi-mm-iv-kiel-291340",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/tarebase/founding-engineer-remote-eea-uk-berlin-162955",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
