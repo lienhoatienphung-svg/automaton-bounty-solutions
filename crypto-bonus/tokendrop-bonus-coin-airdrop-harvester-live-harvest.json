@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T12:05:19.412Z",
-  "latencyMs": 919,
+  "executedAt": "2026-10-16T12:09:06.141Z",
+  "latencyMs": 863,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #177: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #178: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "PdtREY9H6Fp9jVMpG36aywtCgxTtsQZetmehKqgyern",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "A little idea is a new beginning.",
+      "url": "https://dexscreener.com/solana/pdtrey9h6fp9jvmpg36aywtcgxttsqzetmehkqgyern"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "4ti7DQpMPKHcC72t8WBCQj2M8q9CkNu7Fbhwp1u1pump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Walk a loop.\nOwn the land.\nEarn $GRAB.",
       "url": "https://dexscreener.com/solana/5rb2z8xprugx75ml8q7bzljdkftzajyhhtpkmazspump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "1EwcGE6WrssiY2sKSadB5E5DE9WhPDQvBC6kev1EDGE",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "1EDGE Official token \nAnti bundle, Anti Sniper Launchpad",
-      "url": "https://dexscreener.com/solana/1ewcge6wrssiy2sksadb5e5de9whpdqvbc6kev1edge"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,14 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Add spending limits to `AuthMultisigSmart`",
-      "url": "https://github.com/0xMiden/protocol/issues/4064",
-      "createdAt": "2026-10-16T12:05:03Z"
+      "title": "Roadmap: Black Anvil network rollout",
+      "url": "https://github.com/LegendofKEK/bichael/issues/341",
+      "createdAt": "2026-10-16T02:23:31Z"
     },
     {
-      "title": "Dispatch noncreature graveyard triggers and ten complete Standard bodies",
-      "url": "https://github.com/altf4/rustmage/pull/157",
-      "createdAt": "2026-10-16T12:00:14Z"
+      "title": "Add 200 GP to the crown purses on every check-in, and give the doctor an ECONOMY block",
+      "url": "https://github.com/AuthorOfTheSurf/pintakasi-bloodlines/pull/27",
+      "createdAt": "2026-10-16T11:14:35Z"
+    },
+    {
+      "title": "faucet template: admin cannot withdraw funds or change the claim settings",
+      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/539",
+      "createdAt": "2026-10-15T21:49:08Z"
     },
     {
       "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
@@ -280,19 +285,14 @@
       "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "Import by proof writes a tracked block header with an MMR path trimmed to a stale checkpoint, bricking the store",
-      "url": "https://github.com/0xMiden/rust-sdk/issues/2713",
-      "createdAt": "2026-10-16T12:04:07Z"
+      "title": "fix: [Account] keep /account to the connected account and drop the corporation facts",
+      "url": "https://github.com/verana-labs/verana-frontend/pull/533",
+      "createdAt": "2026-10-12T14:13:23Z"
     },
     {
-      "title": "LND: qualify Taproot Assets mint, transfer, and RFQ payments on signet",
-      "url": "https://github.com/OpenAgentsInc/openagents/issues/11863",
-      "createdAt": "2026-10-16T12:03:26Z"
-    },
-    {
-      "title": "Audit require_auth on mutating methods in examples/faucet",
-      "url": "https://github.com/Soroban-Cookbook/Soroban_Cookbook_online/issues/1077",
-      "createdAt": "2026-10-16T12:03:43Z"
+      "title": "site: per-coin live chat backend + SSE transport",
+      "url": "https://github.com/makerlee0x/disciple/pull/46",
+      "createdAt": "2026-10-16T12:05:13Z"
     }
   ]
 }
