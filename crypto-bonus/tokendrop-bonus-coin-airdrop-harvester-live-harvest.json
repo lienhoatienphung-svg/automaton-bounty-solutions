@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T15:25:27.188Z",
-  "latencyMs": 1585,
+  "executedAt": "2026-10-16T15:27:10.536Z",
+  "latencyMs": 1435,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #232: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #233: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix: security and SSR issues (#842-845)",
+      "url": "https://github.com/SO4-Markets/interface/pull/980",
+      "createdAt": "2026-10-16T15:26:55Z"
+    },
+    {
+      "title": "SF-056: separate release compilation from protocol-checked testnet submission",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/115",
+      "createdAt": "2026-10-16T14:44:25Z"
+    },
+    {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
       "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
       "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
       "createdAt": "2026-10-06T11:40:04Z"
@@ -278,21 +293,6 @@
       "title": "feat!: add Tron support and replace walletAddress with activeWallet",
       "url": "https://github.com/0xsequence/kotlin-sdk/pull/100",
       "createdAt": "2026-10-08T11:13:04Z"
-    },
-    {
-      "title": "Roadmap: Black Anvil network rollout",
-      "url": "https://github.com/LegendofKEK/bichael/issues/341",
-      "createdAt": "2026-10-16T02:23:31Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "Paid A2A: optional x402 payment gate on POST /a2a (Radius Testnet SBC)",
-      "url": "https://github.com/radius-workshop/radius-hermes-railway-template/pull/58",
-      "createdAt": "2026-10-15T19:38:04Z"
     }
   ]
 }
