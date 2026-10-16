@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T19:42:36.666Z",
-  "latencyMs": 405,
+  "executedAt": "2026-10-16T19:49:29.935Z",
+  "latencyMs": 259,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #293: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #294: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52695204,
+    "liveBlockNumber": 52695411,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 281893,
+    "baseMainnetTopPoolsVolume24hUsd": 281830,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5rGb6hdKydden4fmRw5YZuy1caj8JoZAGR3FtTKJpump",
+        "description": "Neuralink has just implanted a cat named $THOR with an N1 brain chip",
+        "url": "https://dexscreener.com/solana/5rgb6hdkydden4fmrw5yzuy1caj8jozagr3fttkjpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "WELLm6DoKrEQsWKFo3Gz68KwRSnxkKVFgZZKEX6REcc",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/wellm6dokreqswkfo3gz68kwrsnxkkvfgzzkex6recc"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EnT1UxLuZcxr4AkVsRcGJQLcH31vGqUJnixyTZJoMEME",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/ent1uxluzcxr4akvsrcgjqlch31vgqujnixytzjomeme"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "EN3rLpbQa6ZUdH1SrS9oHkkWQUkQBj6VjnqZQhzrpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "9dEcnp1Hy6BNw2SjLoqXfapoJQXcqPhwBnMc1Zn2pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/9decnp1hy6bnw2sjloqxfapojqxcqphwbnmc1zn2pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xC8f0D1076b2135b33b980598D84E2c6584cfc9C4",
-        "description": "The first human companion robot. Built using Deepmind (Google) and Nvidia AI tech.",
-        "url": "https://dexscreener.com/robinhood/0xc8f0d1076b2135b33b980598d84e2c6584cfc9c4"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FSh1geE1CWrYE8LTBuDxHpfCiwsitXqVi5Lo8WkKpump",
-        "description": "Privacy built on Zcash. Private by design.",
-        "url": "https://dexscreener.com/solana/fsh1gee1cwrye8ltbudxhpfciwsitxqvi5lo8wkkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7Q8G7V9F696TnsRWkzxg6wgAZffarwNRg3uiaYgZpump",
-        "description": "Claude found the seeds.",
-        "url": "https://dexscreener.com/solana/7q8g7v9f696tnsrwkzxg6wgazffarwnrg3uiaygzpump"
       }
     ]
   },
