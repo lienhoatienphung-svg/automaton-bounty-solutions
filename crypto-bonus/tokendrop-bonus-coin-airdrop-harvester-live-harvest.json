@@ -1,0 +1,298 @@
+{
+  "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
+  "executedAt": "2026-10-16T02:18:55.859Z",
+  "latencyMs": 1169,
+  "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
+  "workTitle": "Harvest Live Bonus Reward Tokens & Boosted Coins",
+  "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
+  "onChainBaseBonusBalances": {
+    "USDC": 0,
+    "AERO": 0,
+    "WELL": 0,
+    "DEGEN": 0,
+    "BRETT": 0
+  },
+  "bonusRewardTokenPoolsCount": 10,
+  "topBonusRewardTokenPools": [
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "CTR-USDC",
+      "tvlUsd": 591524,
+      "apyBase": 5.85,
+      "apyRewardBonus": 231620.06,
+      "apyTotal": 231625.92,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "47bb2cb3-6a91-43ee-9dde-abceb2ded03f"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-PROS",
+      "tvlUsd": 906455,
+      "apyBase": 16.76,
+      "apyRewardBonus": 178003.74,
+      "apyTotal": 178020.49,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "TRUST-USDC",
+      "tvlUsd": 263257,
+      "apyBase": 58.04,
+      "apyRewardBonus": 93138.96,
+      "apyTotal": 93197,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-VELVET",
+      "tvlUsd": 1128921,
+      "apyBase": 1.94,
+      "apyRewardBonus": 86823.06,
+      "apyTotal": 86825,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c07a115f-7299-4dd1-ac25-2de459010b6b"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-v1",
+      "symbol": "WETH-W",
+      "tvlUsd": 56189,
+      "apyBase": 0,
+      "apyRewardBonus": 41021.08,
+      "apyTotal": 41021.08,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "9218880d-1a29-450b-8a3b-0a1323deb2f2"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "AVNT-USDC",
+      "tvlUsd": 710885,
+      "apyBase": 1.19,
+      "apyRewardBonus": 13785.71,
+      "apyTotal": 13786.91,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "eb27d0be-9de4-4ed9-8d36-a754e18d3358"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "WETH-USDC",
+      "tvlUsd": 155935,
+      "apyBase": 36.11,
+      "apyRewardBonus": 10513.98,
+      "apyTotal": 10550.09,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "FUN-USDC",
+      "tvlUsd": 282755,
+      "apyBase": 68.85,
+      "apyRewardBonus": 5728.84,
+      "apyTotal": 5797.69,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "18674a4f-57ea-4c91-99ce-ea1a2b37aa3d"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 2217712,
+      "apyBase": 120.85,
+      "apyRewardBonus": 4813.91,
+      "apyTotal": 4934.76,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 208825,
+      "apyBase": 61.33,
+      "apyRewardBonus": 4009.37,
+      "apyTotal": 4070.7,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
+    }
+  ],
+  "dexScreenerBoostedCoinsCount": 8,
+  "dexScreenerBoostedCoins": [
+    {
+      "chainId": "solana",
+      "tokenAddress": "HLSh9nsmPnNNmGau97z3uwsuFPS6sXBpdkYiHYJcpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Akita Inu",
+      "url": "https://dexscreener.com/solana/hlsh9nsmpnnnmgau97z3uwsufps6sxbpdkyihyjcpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "GPojeXRcXthWBMWxWC6iY5TMjY8dLf25Q2Ft4kMVRwD4",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Bunker Seal ($BUNKY) is a community meme coin on Solana. Fair launch on pump fun. The creator holds about 28.2% of supply, with 204.8M locked via Streamflow unt",
+      "url": "https://dexscreener.com/solana/gpojexrcxthwbmwxwc6iy5tmjy8dlf25q2ft4kmvrwd4"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework—fus",
+      "url": "https://dexscreener.com/solana/9hv1i7xafdrdv6newtfzvqwyn19m6gthc2dsnzaepump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "Ch7gZZqhZRnHnLJJsdpypNghGn3fDjuxQtr5qeWPpump",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "The digital store for X with personalised shopping agents\n\nNot affiliated with X or Grok",
+      "url": "https://dexscreener.com/solana/ch7gzzqhzrnhnljjsdpypnghgn3fdjuxqtr5qewppump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "FR2kf3htna5puoSxAjPedG7rgTkxfXvZjrL8x4zQpump",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/fr2kf3htna5puosxajpedg7rgtkxfxvzjrl8x4zqpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "EaqXJVr1aFPhMyTJbDCpwvTeiKc8x4gueFjFKKBvtcWY",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/eaqxjvr1afphmytjbdcpwvteikc8x4guefjfkkbvtcwy"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "BswbLYXpo679JvdAit6J1S92ZzCph77QZW5GLBRFinUL",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/bswblyxpo679jvdait6j1s92zzcph77qzw5glbrfinul"
+    },
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0xCA0c66Ba9979c66477bB5c61aA0D91A5e8CA31BE",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "From Normie to Jeet. They said trust the process. Jeetie sold the process and bought a penthouse.",
+      "url": "https://dexscreener.com/robinhood/0xca0c66ba9979c66477bb5c61aa0d91a5e8ca31be"
+    }
+  ],
+  "coinGeckoTrendingCoinsCount": 8,
+  "coinGeckoTrendingCoins": [
+    {
+      "name": "streamoors",
+      "symbol": "STREAM",
+      "marketCapRank": 747,
+      "priceBtc": 2.966192298351165e-7
+    },
+    {
+      "name": "IGNITION",
+      "symbol": "IGNITION",
+      "marketCapRank": 880,
+      "priceBtc": 2.2719637860432152e-7
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 86,
+      "priceBtc": 0.00010570980822082951
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 83,
+      "priceBtc": 0.000011183409074236825
+    },
+    {
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "marketCapRank": 197,
+      "priceBtc": 2.0070236317396404e-7
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 147,
+      "priceBtc": 0.0000040137627363302445
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000012546320996882524
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.000022629860932839447
+    }
+  ],
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "feat(gateway): W2 testnet faucet for linked wallets (stacked on #632)",
+      "url": "https://github.com/LamaSu/physical-capability-cloud/pull/642",
+      "createdAt": "2026-10-16T00:04:38Z"
+    },
+    {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
+      "title": "perf(jit): ignore dead jumps in block analysis",
+      "url": "https://github.com/alloy-rs/evm2/pull/654",
+      "createdAt": "2026-10-16T02:18:17Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/Replikanti/flowlint-weblinter/pull/265",
+      "createdAt": "2026-03-26T20:39:49Z"
+    },
+    {
+      "title": "lab #937 PR F: freeze format 34 — the freeze test (literals) and the freeze record",
+      "url": "https://github.com/qumbra-labs/qumbra-lab/pull/948",
+      "createdAt": "2026-10-14T17:35:56Z"
+    }
+  ]
+}
