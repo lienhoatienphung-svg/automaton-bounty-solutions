@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T20:18:03.578Z",
-  "latencyMs": 808,
+  "executedAt": "2026-10-16T20:23:42.752Z",
+  "latencyMs": 1012,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #303: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #304: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 605681,
-      "apyBase": 4.45,
-      "apyRewardBonus": 231406.79,
-      "apyTotal": 231411.24,
+      "tvlUsd": 606183,
+      "apyBase": 4.54,
+      "apyRewardBonus": 234482.71,
+      "apyTotal": 234487.24,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 948342,
-      "apyBase": 20.52,
-      "apyRewardBonus": 155571.22,
-      "apyTotal": 155591.75,
+      "tvlUsd": 949070,
+      "apyBase": 21.02,
+      "apyRewardBonus": 207717.79,
+      "apyTotal": 207738.81,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -43,11 +43,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "TRUST-USDC",
+      "tvlUsd": 255975,
+      "apyBase": 113.5,
+      "apyRewardBonus": 61096.05,
+      "apyTotal": 61209.55,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1127013,
-      "apyBase": 1.42,
-      "apyRewardBonus": 56346.29,
-      "apyTotal": 56347.71,
+      "tvlUsd": 1125022,
+      "apyBase": 1.44,
+      "apyRewardBonus": 57298.68,
+      "apyTotal": 57300.12,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -57,10 +70,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 54440,
+      "tvlUsd": 54902,
       "apyBase": 0,
-      "apyRewardBonus": 39144.38,
-      "apyTotal": 39144.38,
+      "apyRewardBonus": 39372.35,
+      "apyTotal": 39372.35,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -69,24 +82,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "TRUST-USDC",
-      "tvlUsd": 256532,
-      "apyBase": 103.77,
-      "apyRewardBonus": 18576.9,
-      "apyTotal": 18680.67,
+      "symbol": "USDC-MUC",
+      "tvlUsd": 980304,
+      "apyBase": 273.11,
+      "apyRewardBonus": 13444.34,
+      "apyTotal": 13717.45,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
+      "poolId": "3cd9aba2-1527-529a-9ecc-6bdc447494af"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 150332,
-      "apyBase": 32.32,
-      "apyRewardBonus": 15404.24,
-      "apyTotal": 15436.56,
+      "tvlUsd": 150572,
+      "apyBase": 31.34,
+      "apyRewardBonus": 10344.61,
+      "apyTotal": 10375.94,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -95,54 +108,41 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-SNDKC",
-      "tvlUsd": 1293597,
-      "apyBase": 291.08,
-      "apyRewardBonus": 10008.66,
-      "apyTotal": 10299.74,
+      "symbol": "AVNT-USDC",
+      "tvlUsd": 701386,
+      "apyBase": 0.45,
+      "apyRewardBonus": 9151.06,
+      "apyTotal": 9151.51,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-MSTRC",
-      "tvlUsd": 1553380,
-      "apyBase": 180.98,
-      "apyRewardBonus": 8711.09,
-      "apyTotal": 8892.08,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "06ae14ef-c2e3-5e30-9876-3e06c8b2f9a9"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "WETH-CBBTC",
-      "tvlUsd": 2046204,
-      "apyBase": 101.02,
-      "apyRewardBonus": 7486.54,
-      "apyTotal": 7587.56,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+      "poolId": "eb27d0be-9de4-4ed9-8d36-a754e18d3358"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-CBBTC",
-      "tvlUsd": 188822,
-      "apyBase": 36.52,
-      "apyRewardBonus": 7229.01,
-      "apyTotal": 7265.53,
+      "tvlUsd": 176417,
+      "apyBase": 39.75,
+      "apyRewardBonus": 7410.38,
+      "apyTotal": 7450.13,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 2074363,
+      "apyBase": 95.66,
+      "apyRewardBonus": 6497.13,
+      "apyTotal": 6592.79,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(cli): « alter-cli chain add 100 » répond « non trouvée dans ChainList » alors que ChainList contient la chaîne",
-      "url": "https://github.com/VISIALIS/alter/issues/152",
-      "createdAt": "2026-10-11T21:29:25Z"
+      "title": "test: add test_zero_total_amount_fails for issue #124",
+      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/pull/274",
+      "createdAt": "2026-10-16T20:23:11Z"
     },
     {
-      "title": "chore(deps): update dependency @lucide/astro to v1.58.0",
-      "url": "https://github.com/magic-akari/lodash-challenges/pull/7",
-      "createdAt": "2026-09-05T15:43:18Z"
+      "title": "Follow-up to #57: the devnet edge stops serving the old connector names (do not merge until the new toon CLI has been out a while)",
+      "url": "https://github.com/toon-protocol/infra/pull/58",
+      "createdAt": "2026-10-16T20:21:34Z"
     },
     {
-      "title": "Update dependency ethers to v6",
-      "url": "https://github.com/Franck-Fernandez-pro/share-your-seat/pull/4",
-      "createdAt": "2023-03-26T10:43:07Z"
+      "title": "Roadmap: Black Anvil network rollout",
+      "url": "https://github.com/LegendofKEK/bichael/issues/341",
+      "createdAt": "2026-10-16T02:23:31Z"
     },
     {
-      "title": "SCOUT verified coverage V1 — scale real reward observations beyond seven tracked tokens",
-      "url": "https://github.com/fuzzysniper/scout-stonk-intel/issues/81",
-      "createdAt": "2026-10-16T20:15:14Z"
+      "title": "feat!: support direct hosting deposits and PWR-Station testnet client",
+      "url": "https://github.com/manifest-network/merovingian/pull/32",
+      "createdAt": "2026-10-01T19:39:14Z"
     },
     {
-      "title": "Add storages, security, and ramps coverage for 11 under-covered EVM networks",
-      "url": "https://github.com/Chain-Love/chain-love/pull/2450",
-      "createdAt": "2026-08-03T00:39:54Z"
+      "title": "feat: stock drop (DropAutomationV2 + staking V2)",
+      "url": "https://github.com/moonwell-fi/mamo-contracts/pull/113",
+      "createdAt": "2026-09-28T19:33:58Z"
     },
     {
-      "title": "fix(lre): derive the event run from the catalog schedule and goal from the unit's step",
-      "url": "https://github.com/TacticusPlanner/tacticus-planner-apps/pull/227",
-      "createdAt": "2026-10-16T20:14:43Z"
+      "title": "T5 PR2: 空投从配置池随机选择原版宝箱战利品表",
+      "url": "https://github.com/ZeroPointSix/sound-isolating-eraser/pull/49",
+      "createdAt": "2026-10-16T19:24:48Z"
     }
   ]
 }
