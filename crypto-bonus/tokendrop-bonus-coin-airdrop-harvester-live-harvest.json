@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T17:06:38.121Z",
-  "latencyMs": 371,
+  "executedAt": "2026-10-16T17:11:18.556Z",
+  "latencyMs": 830,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #260: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
+  "workTitle": "Delivery Sprint #261: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "G3NKPRK3BVrNDPLCbtG53SibytphwDqiTrnaiUq9pump",
+      "boostAmount": 100,
+      "totalBoostAmount": 200,
+      "description": "Uniting the Tesla × SpaceX narrative behind Elon's next-gen Roadster.",
+      "url": "https://dexscreener.com/solana/g3nkprk3bvrndplcbtg53sibytphwdqitrnaiuq9pump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "2aqkYwRa1sZrpvZ5nottuVs3csGtXJEYsc9QRY9wpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "The Roadster that flew, reborn as a cat. Four wheels, nine lives, zero gravity. $FTC on Solana.",
+      "url": "https://dexscreener.com/solana/2aqkywra1szrpvz5nottuvs3csgtxjeysc9qry9wpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "6jijW4Ne924kqj8XYLKXFrhpeHy5y2qxoKgGzJHQpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -183,7 +199,7 @@
       "chainId": "solana",
       "tokenAddress": "G3NKPRK3BVrNDPLCbtG53SibytphwDqiTrnaiUq9pump",
       "boostAmount": 100,
-      "totalBoostAmount": 100,
+      "totalBoostAmount": 200,
       "description": "Uniting the Tesla × SpaceX narrative behind Elon's next-gen Roadster.",
       "url": "https://dexscreener.com/solana/g3nkprk3bvrndplcbtg53sibytphwdqitrnaiuq9pump"
     },
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Meet Santaro (サンタロウ), a baby western lowland gorilla born at Kyoto City Zoo.\n\nSantaro is becoming an internet sensation with his funny creative personality.",
       "url": "https://dexscreener.com/solana/f5ftus4svy2o36rvowgeke3fjnfn5hrpm4u6egvspump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "2qfUSuUfKuxHyYEMYreiYdK3YyapFzbgq2c6hhfPpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "LarpScanner is a Solana onchain security tool designed to expose suspicious wallets, potential scams, drainer connections, and hidden red flags. Going beyond tr",
-      "url": "https://dexscreener.com/solana/2qfusuufkuxhyyemyreiydk3yyapfzbgq2c6hhfppump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "9g4Pib6AM3oVdP9YA7ZcssAXAuhoUzkjR8w27doYpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Token for Pepper The Racccoon, redirecting fees to his Owner",
-      "url": "https://dexscreener.com/solana/9g4pib6am3ovdp9ya7zcssaxauhouzkjr8w27doypump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -263,5 +263,36 @@
       "priceBtc": 5.280923327360445e-8
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "ENG-2448 ENG-2402 ENG-2401: preserve skill installs and npm releases",
+      "url": "https://github.com/radiustechsystems/tools/pull/79",
+      "createdAt": "2026-10-16T16:01:31Z"
+    },
+    {
+      "title": "🤝 Agent coordination channel (standing, vol. 2)",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
+      "createdAt": "2026-09-20T06:23:41Z"
+    },
+    {
+      "title": "The booking preview plans the preparation, and the booking's evidence is executed (part of #491)",
+      "url": "https://github.com/lambdasistemi/singular/pull/684",
+      "createdAt": "2026-10-16T16:14:39Z"
+    },
+    {
+      "title": "Merge master-2.0 into master",
+      "url": "https://github.com/solana-foundation/solana-playground/pull/27",
+      "createdAt": "2026-10-13T17:19:42Z"
+    },
+    {
+      "title": "Add integration, metadata, ABI-stability, and migrate tests",
+      "url": "https://github.com/SaboStudios/Tycoon-Monorepo/pull/2025",
+      "createdAt": "2026-10-16T17:08:15Z"
+    },
+    {
+      "title": "Add a browser smoke test that fails on console errors and SSR fallbacks for every route",
+      "url": "https://github.com/SO4-Markets/interface/issues/861",
+      "createdAt": "2026-10-15T19:08:35Z"
+    }
+  ]
 }
