@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T16:36:14.460Z",
-  "latencyMs": 353,
+  "executedAt": "2026-10-16T16:38:48.224Z",
+  "latencyMs": 568,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #250: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
+  "workTitle": "Delivery Sprint #251: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52689613,
+    "liveBlockNumber": 52689690,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 289736,
+    "baseMainnetTopPoolsVolume24hUsd": 289493,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "E416wJCtCgjVPeRirpHd1qDvKRUy5oW6dnNhWQuxpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/e416wjctcgjvperirphd1qdvkruy5ow6dnnhwquxpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4eTknJyuvzcFNS9swypDsfYnhBFJ4d7VqZTqK21RYUh5",
@@ -75,12 +81,6 @@
         "tokenAddress": "F57KqEazb6X9wzZ7aFFu3ubmFmf25tBCM9S6RSXDpump",
         "description": "Old school MMO. $CROWN is the in-game currency",
         "url": "https://dexscreener.com/solana/f57kqeazb6x9wzz7affu3ubmfmf25tbcm9s6rsxdpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8QtbrC9d3BezyCwzBFUQbNsWJGte7ckrZ7HWcn81pump",
-        "description": "Connecting the internet again with dickbutt",
-        "url": "https://dexscreener.com/solana/8qtbrc9d3bezycwzbfuqbnswjgte7ckrz7hwcn81pump"
       }
     ]
   },
