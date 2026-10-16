@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T14:01:07.897Z",
-  "latencyMs": 250,
+  "executedAt": "2026-10-16T14:03:20.888Z",
+  "latencyMs": 413,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #208: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #209: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52684960,
+    "liveBlockNumber": 52685026,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 293608,
+    "baseMainnetTopPoolsVolume24hUsd": 293524,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0xacF4a28e49E385E6a79B6D3FF60B080981067777",
+        "description": "🌹 Dividends have been distributed in the stock, and if you want to open a contract, do you still need to sell it? No need to sell, no need to sell, no need to ",
+        "url": "https://dexscreener.com/bsc/0xacf4a28e49e385e6a79b6d3ff60b080981067777"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "KXj1FQSqKfzoEAjBY9QTdkts3S3eHnSuL2Dk8pspump",
@@ -75,12 +81,6 @@
         "tokenAddress": "93RFugk8jVwxBjAL3WY1uiGgA2UNqE9oRuHNrGMipump",
         "description": "WHAT THE FUCK WE HAVE A NEW BABY HIPPO?\n\n'Higashiyama Zoo, gave birth to a tiny calf. Three years earlier she'd lost a baby the day after it was born, so the wh",
         "url": "https://dexscreener.com/solana/93rfugk8jvwxbjal3wy1uigga2unqe9oruhnrgmipump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7Jain9Efy7C4HvGkEPkNUUiGUmgu5tkff7NWvCvGpump",
-        "description": "Pumpfun nodded to “we ate off that twin” in their note regarding Callout multipliers. Go to your profile, check your stats,and scroll down! Paired w Pump / Rewa",
-        "url": "https://dexscreener.com/solana/7jain9efy7c4hvgkepknuuigumgu5tkff7nwvcvgpump"
       }
     ]
   },
