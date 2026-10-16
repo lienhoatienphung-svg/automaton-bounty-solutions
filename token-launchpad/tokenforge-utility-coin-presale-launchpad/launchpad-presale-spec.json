@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T09:08:53.034Z",
-  "latencyMs": 250,
+  "executedAt": "2026-10-16T09:13:41.035Z",
+  "latencyMs": 270,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #125: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #126: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52676192,
+    "liveBlockNumber": 52676336,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 314277,
+    "baseMainnetTopPoolsVolume24hUsd": 314206,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "AnWDdzzYXXCMrYbn2cuaUy9DjvtxA9PVnNYYd6v9pump",
+        "description": "Everyone thought I was paying DEX but actually I just sent a 300$ transaction to a company that lets me place a banner and update links and add a description to",
+        "url": "https://dexscreener.com/solana/anwddzzyxxcmrybn2cuauy9djvtxa9pvnnyyd6v9pump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xb1F6543524678002acdba03E7B0B84cf93F2CF27",
@@ -75,12 +81,6 @@
         "tokenAddress": "HiKU8Lsa8aUFkhtCMWp3ySCcpZ899zEhRqzvEgnSpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/hiku8lsa8aufkhtcmwp3ysccpz899zehrqzvegnspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GjkMsvYmuFR37SyKnJoD8DwccLb3HKMQBnNe5Nqbpump",
-        "description": "GOAT11",
-        "url": "https://dexscreener.com/solana/gjkmsvymufr37syknjod8dwcclb3hkmqbnne5nqbpump"
       }
     ]
   },
