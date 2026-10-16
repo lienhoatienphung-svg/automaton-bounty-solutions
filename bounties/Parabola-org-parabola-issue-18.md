@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a step summary](https://github.com/Parabola-org/parabola/issues/18)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Fork Fix Branch**: [fix/issue-18](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-18)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/16](https://github.com/lienhoatienphung-svg/parabola/pull/16)
 - **Inspected Source File**: `.github/workflows/ci.yml`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:05:56.460Z`
+- **Timestamp**: `2026-10-16T00:13:21.011Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -107,8 +107,9 @@ Restructure the script into named steps (fund/check, approve+burn, attestation w
 - Final summary lists every step with
 ```
 
-## 4. Existing Claim Activity (1)
+## 4. Existing Claim Activity (2)
 - **@yodakkak** (2026-10-15T20:49:06Z): `I am working on a focused PR for this issue (#18).`
+- **@yggdrasilworld** (2026-10-16T00:11:42Z): `/claim #18  Settlement wallet (Base USDC): `0xfBa20992174e777eaBbdd7D10755699B84d030Fd``
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #18`
