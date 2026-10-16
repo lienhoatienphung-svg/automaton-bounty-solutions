@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T05:59:29.692Z",
-  "latencyMs": 719,
+  "executedAt": "2026-10-16T06:02:46.340Z",
+  "latencyMs": 720,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #66: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #67: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(algorithms): add score centering policy loss",
+      "url": "https://github.com/redai-studio/Relax/pull/440",
+      "createdAt": "2026-10-15T04:03:58Z"
+    },
+    {
+      "title": "role_store::get_all_roles, test_faucet's cooldown getters, and referral_storage::get_trader_referral_code have zero test coverage",
+      "url": "https://github.com/SO4-Markets/contracts/issues/590",
+      "createdAt": "2026-08-22T07:50:01Z"
+    },
+    {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
-      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
-      "createdAt": "2026-10-09T07:30:01Z"
+      "title": "feat(sdk,cli): add setActive method and pause/unpause commands (#110)",
+      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/pull/217",
+      "createdAt": "2026-10-16T06:00:20Z"
     },
     {
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/midnightntwrk/midnight-faucet-api/issues/3",
-      "createdAt": "2026-07-28T15:02:31Z"
+      "title": "feat(sdk): add vitest coverage reporting (#125)",
+      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/pull/216",
+      "createdAt": "2026-10-16T06:00:10Z"
     },
     {
-      "title": "[KAIOS AU WINDOW] Digital Ant｜AI Ant Company CEO・接案與神經突觸公開窗口",
-      "url": "https://github.com/klineodyssey/kline-odyssey/issues/577",
-      "createdAt": "2026-10-11T10:53:50Z"
-    },
-    {
-      "title": "feat(deps): update dependency lucide-react ( 0.536.0 → 1.57.0 )",
-      "url": "https://github.com/juftin/camply-web/pull/191",
-      "createdAt": "2026-10-16T05:56:52Z"
-    },
-    {
-      "title": "perf(jit): resolve dynamic jumps per call context",
-      "url": "https://github.com/alloy-rs/evm2/pull/638",
-      "createdAt": "2026-10-16T00:19:13Z"
+      "title": "docs: add pnpm workspace first-time setup section (#111)",
+      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/pull/215",
+      "createdAt": "2026-10-16T05:59:58Z"
     }
   ]
 }
