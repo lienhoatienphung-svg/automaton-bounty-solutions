@@ -1,0 +1,83 @@
+{
+  "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
+  "executedAt": "2026-10-16T03:14:50.486Z",
+  "latencyMs": 1102,
+  "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
+  "workTitle": "Launch Global Grant Application, Crowdfunding Vault & GitHub Sponsors Donation Portal",
+  "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
+  "onChainBalances": {
+    "baseMainnetEth": 0,
+    "baseMainnetUsdc": 0
+  },
+  "capitalFormationChannels": {
+    "directDonationsAndTipping": {
+      "model": "GitHub Sponsors (.github/FUNDING.yml) + EIP-681 Instant Base USDC/ETH Tipping + Corporate Open-Source Patronage",
+      "minTicketUsd": 1,
+      "settlementWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
+    },
+    "nonDilutiveEcosystemGrants": {
+      "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
+      "targetGrantSizeUsd": "15,000 - 50,000 USDC",
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "Check disks at launch and measure the shrink limit once",
+          "url": "https://github.com/diogovalada/omarchy-installer/pull/37",
+          "repositoryUrl": "https://api.github.com/repos/diogovalada/omarchy-installer",
+          "updatedAt": "2026-10-16T03:14:45Z"
+        },
+        {
+          "title": "Load a frozen Spec from the platform run id",
+          "url": "https://github.com/boxliy/buildbox/pull/4",
+          "repositoryUrl": "https://api.github.com/repos/boxliy/buildbox",
+          "updatedAt": "2026-10-16T03:14:45Z"
+        },
+        {
+          "title": "feat(mcp): add exact-grant community moderator tools",
+          "url": "https://github.com/vouchington/vouchington/pull/2972",
+          "repositoryUrl": "https://api.github.com/repos/vouchington/vouchington",
+          "updatedAt": "2026-10-16T03:14:44Z"
+        },
+        {
+          "title": "docs(security): refresh threat model for grant TTL, SSRF guards, re-auth and KEK rewrap",
+          "url": "https://github.com/TogetherWeOwn/nntunev2/pull/69",
+          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/nntunev2",
+          "updatedAt": "2026-10-16T03:14:43Z"
+        },
+        {
+          "title": "Catalog: line up a custom bucket icon with the initials disc",
+          "url": "https://github.com/quiltdata/quilt/pull/5339",
+          "repositoryUrl": "https://api.github.com/repos/quiltdata/quilt",
+          "updatedAt": "2026-10-16T03:14:43Z"
+        },
+        {
+          "title": "Refuse MCP tokens in app write functions",
+          "url": "https://github.com/Reilley64/mtgscan/issues/294",
+          "repositoryUrl": "https://api.github.com/repos/Reilley64/mtgscan",
+          "updatedAt": "2026-10-16T03:14:42Z"
+        },
+        {
+          "title": "feat(platform): add the stage 1 SQL functions",
+          "url": "https://github.com/e-suiss/relay/pull/4",
+          "repositoryUrl": "https://api.github.com/repos/e-suiss/relay",
+          "updatedAt": "2026-10-16T03:14:41Z"
+        },
+        {
+          "title": "feat(nix): route the daemon's uncached downloads through Clash",
+          "url": "https://github.com/NoSugarCoffee/dotnix/pull/259",
+          "repositoryUrl": "https://api.github.com/repos/NoSugarCoffee/dotnix",
+          "updatedAt": "2026-10-16T03:14:41Z"
+        }
+      ]
+    },
+    "crowdfundingAndAngelVcInvestment": {
+      "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
+      "targetRaiseUsd": "150,000 USDC",
+      "minCrowdfundingTicketUsd": 50,
+      "liveInvestorAndCrowdfundingSignals": []
+    }
+  },
+  "publishedFundingYmlUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/.github/FUNDING.yml",
+  "publishedPortalUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/fundraising-portal/SUPPORT_AND_INVEST_PORTAL.md",
+  "publishedVaultContractUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/fundraising-portal/SovereignCrowdfundingAndPatronVault.sol"
+}
