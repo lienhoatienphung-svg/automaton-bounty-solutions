@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T19:07:27.269Z",
-  "latencyMs": 524,
+  "executedAt": "2026-10-16T19:14:08.681Z",
+  "latencyMs": 320,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #285: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #286: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52694150,
+    "liveBlockNumber": 52694350,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,34 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 284967,
+    "baseMainnetTopPoolsLiquidityUsd": 459009,
+    "baseMainnetTopPoolsVolume24hUsd": 287001,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8o1m1hY7qqJcKMb51aLWsbQB6iQZdYcQtp6mwhn6pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8o1m1hy7qqjckmb51alwsbqb6iqzdycqtp6mwhn6pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3EpeFVGnJaSUx7MDXpDApbCuzALg26VrLUqVMLe4pump",
+        "description": "Lock it. Earn the fees. Fees are paid in SOL to everyone who locks it on Streamflow, up to 30x for longer locks.",
+        "url": "https://dexscreener.com/solana/3epefvgnjasux7mdxpdapbcuzalg26vrluqvmle4pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4pg2xFnhiYwgDCcPVxxQ9SFSo71dMWANXmxBEbTNLQzL",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4pg2xfnhiywgdccpvxxq9sfso71dmwanxmxbebtnlqzl"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DTsfJ3GM8SeXBv6zH9GMANDRnWrLqEn9eb9XXULppump",
+        "description": "Just a silly face from the old internet. \nborn in MS Paint. stuck in 1998. forever cute.",
+        "url": "https://dexscreener.com/solana/dtsfj3gm8sexbv6zh9gmandrnwrlqen9eb9xxulppump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "23Wt75ddEYw6eY6nBE1C57zcDqhr6swRkDJkNXTopump",
@@ -57,30 +81,6 @@
         "tokenAddress": "2vbUZNjfdiNfou1H38tWUwQmfVTWL5ptmbhZ59Pjpump",
         "description": "Tesla new car can fly woahhh",
         "url": "https://dexscreener.com/solana/2vbuznjfdinfou1h38twuwqmfvtwl5ptmbhz59pjpump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x87B525bC5Ff6D7211f16291219c363e082ed4e9F",
-        "description": "IMDO Offset Protocol",
-        "url": "https://dexscreener.com/ethereum/0x87b525bc5ff6d7211f16291219c363e082ed4e9f"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DiStBvLwCtgArqTrYkzW9cNep9RVsXWDpHEvkhkGqE18",
-        "description": "Origami puts your bag to work. A 5% fee on $ORIGAMI buys and sells funds PAPER farming on Papertrade. Farmed PAPER is allocated to holders and staked for USDC, ",
-        "url": "https://dexscreener.com/solana/distbvlwctgarqtrykzw9cnep9rvsxwdphevkhkgqe18"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x6a967dBea60Ca2050eB629551EEF63d21CaCf5D5",
-        "description": "Programmable asset protection and security infrastructure for the decentralized blockchain ecosystem.",
-        "url": "https://dexscreener.com/ethereum/0x6a967dbea60ca2050eb629551eef63d21cacf5d5"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Adv1f8fukVk6iLQr6H8T5ySvpzPyFYYbVWK9o2P4D6Ba",
-        "description": "Borrow SOL against your PF coins without selling. No interest, no deadline. Creator fees buy every coin back into a pool that only grows.",
-        "url": "https://dexscreener.com/solana/adv1f8fukvk6ilqr6h8t5ysvpzpyfyybvwk9o2p4d6ba"
       }
     ]
   },
