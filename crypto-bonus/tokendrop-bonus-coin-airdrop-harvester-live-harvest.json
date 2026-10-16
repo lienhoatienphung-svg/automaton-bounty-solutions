@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T17:25:09.055Z",
-  "latencyMs": 1327,
+  "executedAt": "2026-10-16T17:31:05.469Z",
+  "latencyMs": 995,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #265: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #266: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "GyWkSn2ah7dqLyPeZAjEZmfxuU2H4nwfGvgJhfYDVegn",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Bul is bullish",
+      "url": "https://dexscreener.com/solana/gywksn2ah7dqlypezajezmfxuu2h4nwfgvgjhfydvegn"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "G3NKPRK3BVrNDPLCbtG53SibytphwDqiTrnaiUq9pump",
       "boostAmount": 100,
       "totalBoostAmount": 200,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 200,
       "description": "Uniting the Tesla × SpaceX narrative behind Elon's next-gen Roadster.",
       "url": "https://dexscreener.com/solana/g3nkprk3bvrndplcbtg53sibytphwdqitrnaiuq9pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "F5FtUS4SVy2o36RvowgEKe3FJnFN5HRPM4u6Egvspump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Meet Santaro (サンタロウ), a baby western lowland gorilla born at Kyoto City Zoo.\n\nSantaro is becoming an internet sensation with his funny creative personality.",
-      "url": "https://dexscreener.com/solana/f5ftus4svy2o36rvowgeke3fjnfn5hrpm4u6egvspump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 753,
-      "priceBtc": 2.9514473996967e-7
+      "marketCapRank": 706,
+      "priceBtc": 3.3449431351279825e-7
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 612,
+      "priceBtc": 0.0014299693207009692
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.000021693923523360146
+      "priceBtc": 0.000021809766490975387
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006153877728287066
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 613,
-      "priceBtc": 0.0014323162876295828
+      "priceBtc": 0.00006112115836320852
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 99,
-      "priceBtc": 0.000008268165794464997
+      "priceBtc": 0.000008322446830144006
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9981377366849009
+      "priceBtc": 0.9990910691241287
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "marketCapRank": 34,
+      "priceBtc": 0.0033722556532730296
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009699527401812146
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.0001063457892102524
+      "priceBtc": 0.0009720545780415835
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
-      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
-      "createdAt": "2026-10-11T10:45:50Z"
+      "title": "fix(deps): update npm",
+      "url": "https://github.com/WarningImHack3r/svelte-changelog/pull/224",
+      "createdAt": "2026-09-02T12:02:39Z"
     },
     {
-      "title": "feat!: add Tron support and replace walletAddress with activeWallet",
-      "url": "https://github.com/0xsequence/kotlin-sdk/pull/100",
-      "createdAt": "2026-10-08T11:13:04Z"
+      "title": "feat(web-client): add withFeeAwareAuth and TransactionRequest.withAuthArgs",
+      "url": "https://github.com/0xMiden/web-sdk/pull/477",
+      "createdAt": "2026-10-14T19:22:53Z"
     },
     {
-      "title": "Bump the minor-and-patch group across 1 directory with 17 updates",
-      "url": "https://github.com/Luke-works/luke-consumer-ui/pull/115",
-      "createdAt": "2026-10-02T17:26:23Z"
+      "title": "Add a `show` subcommand to the Trajectory Explorer.",
+      "url": "https://github.com/google/tunix/pull/2953",
+      "createdAt": "2026-10-16T17:28:44Z"
     },
     {
-      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
-      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
-      "createdAt": "2026-10-07T16:13:30Z"
+      "title": "Migrate workspace to rand 0.10 and update crypto dependencies",
+      "url": "https://github.com/mobilecoinfoundation/mobilecoin/pull/4120",
+      "createdAt": "2026-10-14T21:30:50Z"
     },
     {
-      "title": "Add a `summary` subcommand to the Trajectory Explorer.",
-      "url": "https://github.com/google/tunix/pull/2933",
-      "createdAt": "2026-10-15T21:03:50Z"
+      "title": "ENG-2448 ENG-2402 ENG-2401: use radius@tools and preserve releases",
+      "url": "https://github.com/radiustechsystems/tools/pull/79",
+      "createdAt": "2026-10-16T16:01:31Z"
     },
     {
-      "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
-      "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
-      "createdAt": "2026-10-16T09:56:24Z"
+      "title": "Cut post impressions/saves over to the member post-stats API (needs r_member_postAnalytics)",
+      "url": "https://github.com/christopherqueenconsulting/linkedin_engagement_manager/issues/695",
+      "createdAt": "2026-07-27T02:48:01Z"
     }
   ]
 }
