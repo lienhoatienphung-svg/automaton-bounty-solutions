@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T16:02:29.122Z",
-  "latencyMs": 571,
+  "executedAt": "2026-10-16T16:08:21.900Z",
+  "latencyMs": 257,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #241: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #242: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52688600,
+    "liveBlockNumber": 52688777,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 290080,
+    "baseMainnetTopPoolsLiquidityUsd": 459007,
+    "baseMainnetTopPoolsVolume24hUsd": 290183,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "cronos",
+        "tokenAddress": "0x59679cfe70D4d5F683bA87831fDea968EDcC2161",
+        "description": "1. VEXOR\nBlue Wolf — The Leader\n2. RAGNAR\nRed Wolf — The Destroyer\n3. FROSTVEIL\nWhite Wolf — The Strategist\n4. SOLARIS\nGolden Wolf — The Wildcard\n5. NIGHTFANG\nB",
+        "url": "https://dexscreener.com/cronos/0x59679cfe70d4d5f683ba87831fdea968edcc2161"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "xstockfun@gmail.com",
+        "description": "Launch and trade tokens paired with stocks, crypto, stablecoins & more.",
+        "url": "https://dexscreener.com/solana/xstockfun@gmail.com"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5436RHYCRnxDVLh9s5p1A7qsh6J8ArTW2isQWiAnpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "EerxgTnkL6KCNjn8uKMby7ZR8zh91xftS3WFethopump",
         "description": "Fraudulent Tesla Roadster, just on SOL as it's anti-tesla",
         "url": "https://dexscreener.com/solana/eerxgtnkl6kcnjn8ukmby7zr8zh91xfts3wfethopump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "C43ZJvyPUeDPNJLJrBVqRZdE9FM2sdi2KeGgpnqupump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/c43zjvypuedpnjljrbvqrzde9fm2sdi2keggpnqupump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x8Cc63A25C14E6abc438ebB9d74c00D4f9282fC49",
-        "description": "Building a meme launchpad on metric.\n\nLet ideas become real, at anytime, anywhere, for anyone.",
-        "url": "https://dexscreener.com/ethereum/0x8cc63a25c14e6abc438ebb9d74c00d4f9282fc49"
       }
     ]
   },
