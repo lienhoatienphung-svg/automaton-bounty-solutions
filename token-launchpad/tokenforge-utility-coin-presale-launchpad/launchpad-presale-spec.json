@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T17:53:34.362Z",
-  "latencyMs": 345,
+  "executedAt": "2026-10-16T17:53:53.819Z",
+  "latencyMs": 528,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
   "workTitle": "Growth & Sales Sprint #270: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52691933,
+    "liveBlockNumber": 52691943,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 286637,
+    "baseMainnetTopPoolsVolume24hUsd": 280195,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "FTADiuJGyzbxZ9wwdwxtWHe45V5UPPYVFRmQ1U8mpump",
+        "description": "Perps on Solana: crypto, stocks, commodities.\nAgents trade them. Your limits are hard limits.",
+        "url": "https://dexscreener.com/solana/ftadiujgyzbxz9wwdwxtwhe45v5uppyvfrmq1u8mpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "EAekxkHyBEm1Z7WeXxt7yAnzxR5rWYyAnFMMDccnpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x98dcc6f9b8298ae1a225b8df1519e7565d45672d",
         "description": "Ghostdex: trade the stock tokens on Robinhood Chain from ghost wallets, and run AI agents that can only spend what their ghost holds.",
         "url": "https://dexscreener.com/robinhood/0x98dcc6f9b8298ae1a225b8df1519e7565d45672d"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "B2GESkSErPjuCq6n4LcaJP5v2z1kJnw3xHVZnop2sZx",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/b2geskserpjucq6n4lcajp5v2z1kjnw3xhvznop2szx"
       }
     ]
   },
