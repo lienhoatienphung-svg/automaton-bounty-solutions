@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T17:31:05.469Z",
-  "latencyMs": 995,
+  "executedAt": "2026-10-16T17:32:32.310Z",
+  "latencyMs": 1258,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #266: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #267: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -270,6 +270,11 @@
       "createdAt": "2026-09-02T12:02:39Z"
     },
     {
+      "title": "ENG-2448 ENG-2402 ENG-2401: use radius@tools and preserve releases",
+      "url": "https://github.com/radiustechsystems/tools/pull/79",
+      "createdAt": "2026-10-16T16:01:31Z"
+    },
+    {
       "title": "feat(web-client): add withFeeAwareAuth and TransactionRequest.withAuthArgs",
       "url": "https://github.com/0xMiden/web-sdk/pull/477",
       "createdAt": "2026-10-14T19:22:53Z"
@@ -283,11 +288,6 @@
       "title": "Migrate workspace to rand 0.10 and update crypto dependencies",
       "url": "https://github.com/mobilecoinfoundation/mobilecoin/pull/4120",
       "createdAt": "2026-10-14T21:30:50Z"
-    },
-    {
-      "title": "ENG-2448 ENG-2402 ENG-2401: use radius@tools and preserve releases",
-      "url": "https://github.com/radiustechsystems/tools/pull/79",
-      "createdAt": "2026-10-16T16:01:31Z"
     },
     {
       "title": "Cut post impressions/saves over to the member post-stats API (needs r_member_postAnalytics)",
