@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T20:51:41.607Z",
-  "latencyMs": 244,
+  "executedAt": "2026-10-16T20:52:19.270Z",
+  "latencyMs": 402,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
   "workTitle": "Delivery Sprint #309: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52697277,
+    "liveBlockNumber": 52697295,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 282118,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3XYMDKXdYRdFh4r5nnBns7tYgYbikRdn9Ey7UefKpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/3xymdkxdyrdfh4r5nnbns7tygybikrdn9ey7uefkpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "G8tpFBbzUtf8X133THxYYReDN5qvSKotkNm8UFrGpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "FLXmd989LWGKzhjSapB3GTp2b2XDu3Bf4hgWk38zpump",
         "description": "As global conflicts strain oil flows and push diesel and fuel prices higher, the United Energy Reserve brings America’s strategic energy protection on-chain. UE",
         "url": "https://dexscreener.com/solana/flxmd989lwgkzhjsapb3gtp2b2xdu3bf4hgwk38zpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2ExSuXhtQW2YZnP6J7zAQkuDkSV6ThqhW3qPePwQpump",
-        "description": "He made Super Mario 64 playable inside of Scratch.",
-        "url": "https://dexscreener.com/solana/2exsuxhtqw2yznp6j7zaqkudksv6thqhw3qpepwqpump"
       }
     ]
   },
