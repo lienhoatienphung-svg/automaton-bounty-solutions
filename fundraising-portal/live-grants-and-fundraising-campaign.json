@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T18:57:20.289Z",
-  "latencyMs": 753,
+  "executedAt": "2026-10-16T19:02:32.591Z",
+  "latencyMs": 6886,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #267: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #268: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "feat: multi-tenant sessions — id-addressed auth flows, LRU cache, revoke_own_grant",
-          "url": "https://github.com/jvsena42/pubky-core-ffi-fork/pull/17",
-          "repositoryUrl": "https://api.github.com/repos/jvsena42/pubky-core-ffi-fork",
-          "updatedAt": "2026-10-16T18:57:15Z"
+          "title": "Recover handoff-only stacks after uncheckpointed merges with authoritative effect proof",
+          "url": "https://github.com/cbusillo/launchplane/issues/3850",
+          "repositoryUrl": "https://api.github.com/repos/cbusillo/launchplane",
+          "updatedAt": "2026-10-16T19:02:23Z"
         },
         {
-          "title": "CONFIG C0: semantic inventory, case matrix and independent review (in progress)",
-          "url": "https://github.com/datrab/kubeclaw/pull/18",
-          "repositoryUrl": "https://api.github.com/repos/datrab/kubeclaw",
-          "updatedAt": "2026-10-16T18:57:15Z"
+          "title": "Inc 0: recordings, and the fixture-policy debt they retire",
+          "url": "https://github.com/fluxxion82/android-emulator-skill/pull/19",
+          "repositoryUrl": "https://api.github.com/repos/fluxxion82/android-emulator-skill",
+          "updatedAt": "2026-10-16T19:02:22Z"
         },
         {
-          "title": "build(deps-dev): bump supabase from 2.119.0 to 2.120.0",
-          "url": "https://github.com/attaulhaq0/Cuevo/pull/61",
-          "repositoryUrl": "https://api.github.com/repos/attaulhaq0/Cuevo",
-          "updatedAt": "2026-10-16T18:57:15Z"
+          "title": "docs(adr): D-773 정정 — A0 제거, 결정 1을 Fleet Action 층으로",
+          "url": "https://github.com/robotics-team-1213/rosy-platform/pull/56",
+          "repositoryUrl": "https://api.github.com/repos/robotics-team-1213/rosy-platform",
+          "updatedAt": "2026-10-16T19:02:21Z"
         },
         {
-          "title": "feat(skills): grant role-pack skills lazily per ADR-050 lane 1",
-          "url": "https://github.com/momoshell/dev-team-claude-plugin/pull/1833",
-          "repositoryUrl": "https://api.github.com/repos/momoshell/dev-team-claude-plugin",
-          "updatedAt": "2026-10-16T18:57:14Z"
+          "title": "docs: ADMIN-IDENTITY-MODEL (Tier-2 signed off) + Session A backlog (waves A1–A5)",
+          "url": "https://github.com/dynamisinc/pulse/pull/570",
+          "repositoryUrl": "https://api.github.com/repos/dynamisinc/pulse",
+          "updatedAt": "2026-10-16T19:02:21Z"
         },
         {
-          "title": "RED TEAM reviewer-only: frozen #208/#246 + revoked-grant #252 on combined #251",
-          "url": "https://github.com/DanielCWeng/predictions-cup/pull/253",
-          "repositoryUrl": "https://api.github.com/repos/DanielCWeng/predictions-cup",
-          "updatedAt": "2026-10-16T18:57:14Z"
+          "title": "Add document trash, dated numbers, and phone PDFs",
+          "url": "https://github.com/fasourav/dsa-erp/pull/80",
+          "repositoryUrl": "https://api.github.com/repos/fasourav/dsa-erp",
+          "updatedAt": "2026-10-16T19:02:20Z"
         },
         {
-          "title": "chore(deps): update dependency react-native-permissions to v5.6.3",
-          "url": "https://github.com/jellydn/ai-photo-coach/pull/71",
-          "repositoryUrl": "https://api.github.com/repos/jellydn/ai-photo-coach",
-          "updatedAt": "2026-10-16T18:57:14Z"
+          "title": "feat(console): explain failures and empty states with diagnostics",
+          "url": "https://github.com/vite-hub/vitehub/pull/2405",
+          "repositoryUrl": "https://api.github.com/repos/vite-hub/vitehub",
+          "updatedAt": "2026-10-16T19:02:20Z"
         },
         {
-          "title": "New package: Mythaia.MythaiaPro version 1.2.0",
-          "url": "https://github.com/microsoft/winget-pkgs/pull/454090",
-          "repositoryUrl": "https://api.github.com/repos/microsoft/winget-pkgs",
-          "updatedAt": "2026-10-16T18:57:14Z"
+          "title": "chore(deps): update ghcr.io/open-webui/open-webui docker tag to v0.12.3",
+          "url": "https://github.com/auxves/infra/pull/777",
+          "repositoryUrl": "https://api.github.com/repos/auxves/infra",
+          "updatedAt": "2026-10-16T19:02:19Z"
         },
         {
-          "title": "feat(datasource-dynamodb): add a DynamoDB datasource",
-          "url": "https://github.com/ForestAdmin/agent-nodejs/pull/2023",
-          "repositoryUrl": "https://api.github.com/repos/ForestAdmin/agent-nodejs",
-          "updatedAt": "2026-10-16T18:57:14Z"
+          "title": "fix(agents): Opus only for leads: resolved-model reason guard, GPT-6 fallback, recorded switches (smarty-dev#11864)",
+          "url": "https://github.com/Smarty-Pants-Inc/pi-fabric/pull/1119",
+          "repositoryUrl": "https://api.github.com/repos/Smarty-Pants-Inc/pi-fabric",
+          "updatedAt": "2026-10-16T19:02:18Z"
         }
       ]
     },
