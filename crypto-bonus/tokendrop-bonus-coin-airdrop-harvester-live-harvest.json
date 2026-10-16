@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T05:03:32.427Z",
-  "latencyMs": 744,
+  "executedAt": "2026-10-16T05:04:31.986Z",
+  "latencyMs": 679,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #48: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #49: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,24 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Roadmap: Black Anvil network rollout",
-      "url": "https://github.com/LegendofKEK/bichael/issues/341",
-      "createdAt": "2026-10-16T02:23:31Z"
+      "title": "chore(deps): update dependencies",
+      "url": "https://github.com/ocavue/astro-theme-toggle/pull/59",
+      "createdAt": "2026-08-27T20:46:37Z"
     },
     {
-      "title": "👛feat(escrow): wallet readiness check before a guest creates an escrow (XLM, USDC trustline, balance, registered wallet)",
-      "url": "https://github.com/safetrustcr/dApp-SafeTrust/issues/507",
-      "createdAt": "2026-10-16T04:43:25Z"
-    },
-    {
-      "title": "chore(deps): update lucide monorepo to v1.57.0",
-      "url": "https://github.com/ordbokapi/ordbokapi.github.io/pull/9",
-      "createdAt": "2026-05-29T09:48:56Z"
-    },
-    {
-      "title": "fix(trainer): tie the Qwen3.5 lm_head to the input embeddings",
-      "url": "https://github.com/Emilianopp/prime-rl/pull/7",
-      "createdAt": "2026-10-16T05:02:53Z"
+      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
+      "createdAt": "2026-10-07T00:07:47Z"
     },
     {
       "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
@@ -290,9 +280,19 @@
       "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "[UI/UX] Simplify post-E2E payable review and assessment results",
-      "url": "https://github.com/habrahgithub/swd-tameion-assured-payments/pull/72",
-      "createdAt": "2026-10-14T17:35:36Z"
+      "title": "Solana USDC → Martius: converting to gas needs gas. Does \"sponsored\" apply to this route?",
+      "url": "https://github.com/rome-protocol/rome-bridge-api/issues/37",
+      "createdAt": "2026-10-16T05:03:37Z"
+    },
+    {
+      "title": "👛feat(escrow): wallet readiness check before a guest creates an escrow (XLM, USDC trustline, balance, registered wallet)",
+      "url": "https://github.com/safetrustcr/dApp-SafeTrust/issues/507",
+      "createdAt": "2026-10-16T04:43:25Z"
+    },
+    {
+      "title": "[Spike] Surfpool mainnet fork: how Huma create_lender_accounts_v2 handles pre-existing ATAs, third-party payers and PDA lenders",
+      "url": "https://github.com/sebastianmontero/premium-bonds/issues/21",
+      "createdAt": "2026-10-16T05:03:28Z"
     }
   ]
 }
