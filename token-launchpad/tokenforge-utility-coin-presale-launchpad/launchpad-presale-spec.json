@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T15:12:16.099Z",
-  "latencyMs": 364,
+  "executedAt": "2026-10-16T15:15:08.596Z",
+  "latencyMs": 250,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #226: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #227: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52687094,
-    "liveGasPriceGwei": 0.0062,
+    "liveBlockNumber": 52687180,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 286055,
+    "baseMainnetTopPoolsVolume24hUsd": 286123,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CpdbvrkDQNNbZdcLCMpto1U84ep8FrFdfT84Lme6pump",
+        "description": "illusion",
+        "url": "https://dexscreener.com/solana/cpdbvrkdqnnbzdclcmpto1u84ep8frfdft84lme6pump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x093386cAe822e4A46CFfa5B3462Bd64Ae5779a5E",
+        "description": "Swab\n\nCharles Swab",
+        "url": "https://dexscreener.com/robinhood/0x093386cae822e4a46cffa5b3462bd64ae5779a5e"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xAB4767ce2790ea966821808F51Ac2cFa144C2581",
@@ -69,18 +81,6 @@
         "tokenAddress": "9eMKBzeKKEWBpPr5e3oEL2nN84aXtMbszVxxMAAcpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/9emkbzekkewbppr5e3oel2nn84axtmbszvxxmaacpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "1htv5Nzfdy44FJWAdTXZoACJW4BWbB2XwZC6SVopurp",
-        "description": "First 10x PUMP long perpetual meme",
-        "url": "https://dexscreener.com/solana/1htv5nzfdy44fjwadtxzoacjw4bwbb2xwzc6svopurp"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "sSWsp3MY5Zz4TCS5L1K8xNeg87Byn6DHmV6rhgtpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/sswsp3my5zz4tcs5l1k8xneg87byn6dhmv6rhgtpump"
       }
     ]
   },
