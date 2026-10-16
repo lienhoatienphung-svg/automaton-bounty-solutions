@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T08:00:36.455Z",
-  "latencyMs": 256,
+  "executedAt": "2026-10-16T08:04:13.362Z",
+  "latencyMs": 254,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #105: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #106: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52674144,
+    "liveBlockNumber": 52674253,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458995,
-    "baseMainnetTopPoolsVolume24hUsd": 244111,
+    "baseMainnetTopPoolsVolume24hUsd": 243374,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4tf5GEXU1dt7Vfj21oCu4P96ZEKEm3zMYqpzZsoCDeer",
+        "description": "The Kafkaesque Deer",
+        "url": "https://dexscreener.com/solana/4tf5gexu1dt7vfj21ocu4p96zekem3zmyqpzzsocdeer"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "D2obxUYEgBZcJTjGJGH8M9eVMvG6FXCmE2Y3V46rpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "CEuqMZ7iVEVnBKmP1aBBqC4VjRdpr5KCqnYEZjwswbux",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/ceuqmz7ivevnbkmp1abbqc4vjrdpr5kcqnyezjwswbux"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BVik4jBJjYzVb1YikUEPXywryof87SAcf5s9LPLsEsft",
-        "description": "Project GoHusky",
-        "url": "https://dexscreener.com/solana/bvik4jbjjyzvb1yikuepxywryof87sacf5s9lplsesft"
       }
     ]
   },
