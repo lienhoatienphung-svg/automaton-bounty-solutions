@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T10:02:35.030Z",
-  "latencyMs": 863,
+  "executedAt": "2026-10-16T10:05:24.765Z",
+  "latencyMs": 1030,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #142: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #143: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 674,
-      "priceBtc": 3.602980641553476e-7
-    },
-    {
-      "name": "IGNITION",
-      "symbol": "IGNITION",
-      "marketCapRank": 877,
-      "priceBtc": 2.3023076837570824e-7
+      "marketCapRank": 639,
+      "priceBtc": 3.8089569025251996e-7
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 101,
-      "priceBtc": 0.000008354538442957543
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.397575863794886e-8
+      "priceBtc": 0.000008345672297698403
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00011200597344465223
+      "priceBtc": 0.00011162276885068174
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.35804132296558e-8
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 102,
-      "priceBtc": 0.00002302802013792399
+      "priceBtc": 0.000022936114735748577
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006419441514088304
+      "priceBtc": 0.00006391458824020244
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 637,
+      "priceBtc": 0.001354873903688114
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
-      "marketCapRank": 106,
-      "priceBtc": 9.589206412686507e-7
+      "marketCapRank": 107,
+      "priceBtc": 9.510071627453477e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
+      "title": "feat(products): fundtest, a Paseo funding provider the testnet apps bundle",
+      "url": "https://github.com/paritytech/trinity-user-agents/pull/1402",
+      "createdAt": "2026-10-14T08:11:56Z"
     },
     {
-      "title": "[Frontend] Wallet balance check in create bounty form",
-      "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1068",
-      "createdAt": "2026-10-16T09:43:44Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/Dead-Antler/burberry/pull/91",
+      "createdAt": "2026-08-23T07:05:11Z"
     },
     {
-      "title": "[WIP] Support PPO with shared actor and critic packing",
-      "url": "https://github.com/InternLM/xtuner/pull/2186",
-      "createdAt": "2026-10-16T08:06:54Z"
+      "title": "chore(deps): update dependency @lucide/svelte to v1",
+      "url": "https://github.com/yshalsager/mini-baheth/pull/58",
+      "createdAt": "2026-04-25T02:16:47Z"
     },
     {
-      "title": "Zero test coverage across links, sessions, deposits, and payments business logic",
-      "url": "https://github.com/Konfirm-xyz/konfirm-backend/issues/75",
-      "createdAt": "2026-10-14T17:51:52Z"
+      "title": "chore(deps): update lucide monorepo to v1.58.0",
+      "url": "https://github.com/ordbokapi/ordbokapi.github.io/pull/9",
+      "createdAt": "2026-05-29T09:48:56Z"
     },
     {
-      "title": "Suspected: withdrawals/start and deposits/start have no idempotency protection against client retries",
-      "url": "https://github.com/Konfirm-xyz/konfirm-backend/issues/142",
-      "createdAt": "2026-10-16T00:12:55Z"
+      "title": "Add contract test for concurrent-style claims (multi-claimant)",
+      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/119",
+      "createdAt": "2026-09-18T18:06:19Z"
     }
   ]
 }
