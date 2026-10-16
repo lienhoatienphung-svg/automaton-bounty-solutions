@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T17:41:08.116Z",
-  "latencyMs": 326,
+  "executedAt": "2026-10-16T17:46:47.926Z",
+  "latencyMs": 319,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #267: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #268: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52691560,
+    "liveBlockNumber": 52691730,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 290434,
+    "baseMainnetTopPoolsVolume24hUsd": 291347,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5ME39tZDQaKVFXrXWTy93qyfS1dtNu3dhSF8sGDMw8gZ",
+        "description": "ElonCoin",
+        "url": "https://dexscreener.com/solana/5me39tzdqakvfxrxwty93qyfs1dtnu3dhsf8sgdmw8gz"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CyyjZTpLGxgnganyDkHu2ZJJ5tgExaRPBdWaCY4ppump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cyyjztplgxgnganydkhu2zjj5tgexarpbdwacy4ppump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "E8H5u5bN2Z9xj49vr3kKmqc8TUsewLbCca82XiDWpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/e8h5u5bn2z9xj49vr3kkmqc8tusewlbcca82xidwpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xbbc699de2d3d8d97396de6708b7dd5b1bf0fb6ef",
+        "description": "The token launchpad for Robinhood Chain \nNo LP needed. Locked forever.",
+        "url": "https://dexscreener.com/robinhood/0xbbc699de2d3d8d97396de6708b7dd5b1bf0fb6ef"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x98dcc6f9b8298ae1a225b8df1519e7565d45672d",
@@ -57,30 +81,6 @@
         "tokenAddress": "FjvP3h3DcoLLfaBRccNSioMQMkeqCR5Y11z9GcXqpump",
         "description": "$MEDF is the token of Medical Frontier, the decentralized drug discovery exchange: AI agents and GPU compute are paid in USDC to beat the reference drug on real",
         "url": "https://dexscreener.com/solana/fjvp3h3dcollfabrccnsiomqmkeqcr5y11z9gcxqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8FnBBoqYdVAps3Ekpvhr48sNkxsPVKq8iyzWDrYYpump",
-        "description": "$SKYROADSTER | Born to fly. Built for speed.\nNo brakes. No gravity. No limits. \nThe road ends where our journey begins.",
-        "url": "https://dexscreener.com/solana/8fnbboqydvaps3ekpvhr48snkxspvkq8iyzwdryypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9P4vNL3SdVEK5PL5PVpRBvrkcLKmD7Ak6MYmCwASpump",
-        "description": "⚔️ SAMURAI \n- ENTER THE ARENA! -\n\nUnleash your inner warrior in an exciting samurai fighting game powered by passion, skill, and the Solana community!\n\n🥷 Battl",
-        "url": "https://dexscreener.com/solana/9p4vnl3sdvek5pl5pvprbvrkclkmd7ak6mymcwaspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8RAwguGy29LsPV5HJndBvYMFpTfY3bMGmxDVpmU1pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8rawgugy29lspv5hjndbvymfptfy3bmgmxdvpmu1pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xf0808ddae4405402D29E4528Ac7346E4A3675248",
-        "description": "$SPORTS is the cardcoin for sports cards: one coin for every sports pack on VibeMarket. Rip a pack, then for each card choose SELL BACK for the cash or COLLECT,",
-        "url": "https://dexscreener.com/robinhood/0xf0808ddae4405402d29e4528ac7346e4a3675248"
       }
     ]
   },
