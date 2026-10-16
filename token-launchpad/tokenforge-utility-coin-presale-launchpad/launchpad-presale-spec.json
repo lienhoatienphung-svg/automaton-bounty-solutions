@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T15:54:02.024Z",
-  "latencyMs": 252,
+  "executedAt": "2026-10-16T15:56:02.984Z",
+  "latencyMs": 309,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #238: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #239: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52688347,
+    "liveBlockNumber": 52688407,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 287794,
+    "baseMainnetTopPoolsVolume24hUsd": 287735,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "D76bHiftcAiFYznSGCoxWWordS9PnzSejvYxayuhpump",
+        "description": "Play online Rocket League with the new Tesla Roadster.",
+        "url": "https://dexscreener.com/solana/d76bhiftcaifyznsgcoxwwords9pnzsejvyxayuhpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5sZEfsXywF3qxhLhTJPMUCq3ZK1uLbFh7c1jjx1Epump",
+        "description": "Battle monster hordes, upgrade your weapons, crush bosses and climb the leaderboard.",
+        "url": "https://dexscreener.com/solana/5szefsxywf3qxhlhtjpmucq3zk1ulbfh7c1jjx1epump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EerxgTnkL6KCNjn8uKMby7ZR8zh91xftS3WFethopump",
+        "description": "Fraudulent Tesla Roadster, just on SOL as it's anti-tesla",
+        "url": "https://dexscreener.com/solana/eerxgtnkl6kcnjn8ukmby7zr8zh91xfts3wfethopump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "C43ZJvyPUeDPNJLJrBVqRZdE9FM2sdi2KeGgpnqupump",
@@ -63,24 +81,6 @@
         "tokenAddress": "4ZDYBwrMsaeh1H9fWu5q4ab5VZSRm817qGUXfnuFpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/4zdybwrmsaeh1h9fwu5q4ab5vzsrm817qguxfnufpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ChxAKf1EBbp5n3kXLxrPKmZR9KRPvPQBdfqWcn3Ppump",
-        "description": "No Risk No Roadster. For everyone who knows the best things in life start with a little conviction and a full tank of memes.",
-        "url": "https://dexscreener.com/solana/chxakf1ebbp5n3kxlxrpkmzr9krpvpqbdfqwcn3ppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "H3b7aDD7Gzm9XAN2xcn5GTv75TR3NSVGTfYnkeEwpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/h3b7add7gzm9xan2xcn5gtv75tr3nsvgtfynkeewpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "A4WbSuKb3dBMGDWq1uCewAa1mHiUoN6hW7GaTCpLNCEd",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/a4wbsukb3dbmgdwq1ucewaa1mhiuon6hw7gatcplnced"
       }
     ]
   },
