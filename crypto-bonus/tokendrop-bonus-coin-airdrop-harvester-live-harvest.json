@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T08:58:32.053Z",
-  "latencyMs": 1544,
+  "executedAt": "2026-10-16T09:01:05.603Z",
+  "latencyMs": 1244,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #121: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #122: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "ArenDYANqFNkp8ZqAXt69vT5Dz7WD4zDfSpVw6oPpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Where every token becomes playable.",
+      "url": "https://dexscreener.com/solana/arendyanqfnkp8zqaxt69vt5dz7wd4zdfspvw6oppump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "8DQzWohFEMWruKUC5G2hEgBcs4bhJ1y7oJuyxZHpump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "This aint no state property",
       "url": "https://dexscreener.com/solana/6hjamcrpvb4degphqghxmgipb2vrgqwmewzbavslpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "From Earth to Mars. 🚀🔴 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
-      "url": "https://dexscreener.com/solana/gu3jgzr26txn6tuhwomurimgbb4fffw13774bxeipump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "release: rc.11 retained Alpha projects above corrected reputation source",
-      "url": "https://github.com/MontrealAI/AGIJobsv0/pull/3978",
-      "createdAt": "2026-10-16T07:11:58Z"
+      "title": "[UI/UX] Simplify post-E2E payable review and assessment results",
+      "url": "https://github.com/habrahgithub/swd-tameion-assured-payments/pull/72",
+      "createdAt": "2026-10-14T17:35:36Z"
     },
     {
-      "title": "docs: AAVE is off until a redeploy, and name Arbitrum Sepolia as the plan",
-      "url": "https://github.com/gosh-sh/bridge/pull/108",
-      "createdAt": "2026-10-15T10:27:35Z"
+      "title": "fix(iota-localnet): serve the fullnode gRPC API at the default address with --with-faucet",
+      "url": "https://github.com/iotaledger/iota/pull/13223",
+      "createdAt": "2026-10-16T07:48:05Z"
     },
     {
-      "title": "Frontend: Implement Asset Balance Refresh & Low Balance Warning Badge",
-      "url": "https://github.com/Fracverse/InheritX/issues/1096",
-      "createdAt": "2026-08-28T08:46:10Z"
+      "title": "Update benchmark figures to the October 2026 re-run",
+      "url": "https://github.com/faucet-hq/faucet-hq.github.io/pull/81",
+      "createdAt": "2026-10-16T09:00:52Z"
     },
     {
-      "title": "Update dependency lucide-react to v1.58.0",
-      "url": "https://github.com/fredrikmork/bike-condition/pull/64",
-      "createdAt": "2026-06-28T18:03:39Z"
+      "title": "[WIP] Support PPO with shared actor and critic packing",
+      "url": "https://github.com/InternLM/xtuner/pull/2186",
+      "createdAt": "2026-10-16T08:06:54Z"
     },
     {
-      "title": "feat: upgrade wallet to SDK 0.5",
-      "url": "https://github.com/arkade-os/wallet/pull/936",
-      "createdAt": "2026-08-31T14:43:36Z"
+      "title": "chore(deps): update all non-major dependencies",
+      "url": "https://github.com/saud-alnasser/rentable/pull/806",
+      "createdAt": "2026-08-24T02:09:28Z"
     },
     {
-      "title": "flare: add FXRP calldata descriptors for AssetManager, FAsset, MintingTagManager",
-      "url": "https://github.com/ethereum/clear-signing-erc7730-registry/pull/2984",
-      "createdAt": "2026-09-14T10:43:11Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     }
   ]
 }
