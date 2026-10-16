@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T13:51:20.536Z",
-  "latencyMs": 388,
+  "executedAt": "2026-10-16T13:56:33.316Z",
+  "latencyMs": 1159,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #208: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #209: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,51 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 807,
-      "priceBtc": 2.5883926131617085e-7
+      "marketCapRank": 805,
+      "priceBtc": 2.68004518554191e-7
     },
     {
       "name": "astronaut",
       "symbol": "ASTRO",
-      "marketCapRank": 829,
-      "priceBtc": 2.497653088996045e-7
+      "marketCapRank": 875,
+      "priceBtc": 2.313160834142635e-7
     },
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 864,
-      "priceBtc": 2.402853564554129e-7
+      "marketCapRank": 869,
+      "priceBtc": 2.3829163593396513e-7
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
-      "marketCapRank": 95,
-      "priceBtc": 0.000008695856837501135
-    },
-    {
-      "name": "NeoSoul",
-      "symbol": "DNA",
-      "marketCapRank": 586,
-      "priceBtc": 0.0000034381523014313334
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.00001271190166217117
+      "marketCapRank": 97,
+      "priceBtc": 0.00000865122647539136
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00011178769815250921
+      "priceBtc": 0.00011148825752261498
+    },
+    {
+      "name": "NeoSoul",
+      "symbol": "DNA",
+      "marketCapRank": 577,
+      "priceBtc": 0.000003497863145768654
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.000022081568518907357
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 612,
-      "priceBtc": 0.0014404554901542644
+      "priceBtc": 0.001445423192345863
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "New felony: OpenAI — Unidentified holder of a Sepolia testnet account derived from a public developer recovery phrase",
+      "url": "https://github.com/avleen/felonybench.ai/pull/67",
+      "createdAt": "2026-10-16T13:51:54Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/kairos-io/AuroraBoot/pull/926",
+      "createdAt": "2026-10-08T04:23:24Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/doublewordai/control-layer/pull/911",
+      "createdAt": "2026-03-23T17:01:28Z"
+    },
+    {
+      "title": "Update bun non-major dependencies",
+      "url": "https://github.com/webermarci/weberkft/pull/7",
+      "createdAt": "2026-08-03T01:02:06Z"
+    },
+    {
+      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
+      "url": "https://github.com/jsboige/CoursIA/pull/20377",
+      "createdAt": "2026-10-11T14:10:17Z"
+    },
+    {
+      "title": "feat(staking): BUILD 1 — HeroSingleSidedStaking (HERO→HERO, DAO vote source)",
+      "url": "https://github.com/jratdish1/hero-dapp/pull/119",
+      "createdAt": "2026-09-27T22:49:15Z"
+    }
+  ]
 }
