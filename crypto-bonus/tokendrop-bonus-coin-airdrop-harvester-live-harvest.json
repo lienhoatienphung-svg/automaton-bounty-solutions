@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T14:14:42.499Z",
-  "latencyMs": 1537,
+  "executedAt": "2026-10-16T14:15:00.761Z",
+  "latencyMs": 1329,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Growth & Sales Sprint #214: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Add moe-router-design task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/28",
+      "createdAt": "2026-09-27T02:38:45Z"
+    },
+    {
       "title": "docs(L1): record steps 28, 29, and 30 in integration log",
       "url": "https://github.com/happyhippovip/2026-courier/pull/692",
       "createdAt": "2026-10-16T14:10:37Z"
@@ -288,11 +293,6 @@
       "title": "fix(deps): update dependency lucide-react to v1",
       "url": "https://github.com/wilfredinni/javascript-cheatsheet/pull/160",
       "createdAt": "2026-03-23T18:08:19Z"
-    },
-    {
-      "title": "fix(serve): deployment and chaos-test follow-ups — readiness, migration race, chart upgrades, console, arm64 images, chaos harness",
-      "url": "https://github.com/faucet-hq/faucet-stream/pull/917",
-      "createdAt": "2026-10-16T10:33:17Z"
     }
   ]
 }
