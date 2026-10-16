@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T05:36:08.652Z",
-  "latencyMs": 1375,
+  "executedAt": "2026-10-16T05:37:10.078Z",
+  "latencyMs": 1187,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #58: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #59: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Add a holder registry map that tracks all wallet addresses that have ever held a creator key",
+      "url": "https://github.com/accesslayerorg/accesslayer-contracts/issues/831",
+      "createdAt": "2026-08-30T20:03:02Z"
+    },
+    {
+      "title": "perf(jit): resolve dynamic jumps per call context",
+      "url": "https://github.com/alloy-rs/evm2/pull/638",
+      "createdAt": "2026-10-16T00:19:13Z"
+    },
+    {
+      "title": "perf(jit): dedup discovered jump edges in O(1)",
+      "url": "https://github.com/alloy-rs/evm2/pull/658",
+      "createdAt": "2026-10-16T03:07:05Z"
+    },
+    {
       "title": "fix(integrity): KotH proof tokens, OOBscan argv from buildArgs, compilable LSM codegen (Tier 9)",
       "url": "https://github.com/DeployCoop/vigilante/pull/11",
       "createdAt": "2026-10-16T05:34:43Z"
@@ -278,21 +293,6 @@
       "title": "[SF-031] Run wallet-to-testnet-to-Raspberry-Pi OTA acceptance tests",
       "url": "https://github.com/tyler-suifleet/suifleet/issues/32",
       "createdAt": "2026-10-14T02:29:26Z"
-    },
-    {
-      "title": "Block explorer + Testnet infrastructure 2025",
-      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/53",
-      "createdAt": "2025-06-10T15:38:24Z"
-    },
-    {
-      "title": "perf(jit): fold MLOADs of known memory words",
-      "url": "https://github.com/alloy-rs/evm2/pull/652",
-      "createdAt": "2026-10-16T02:02:15Z"
-    },
-    {
-      "title": "perf(jit): dedup discovered jump edges in O(1)",
-      "url": "https://github.com/alloy-rs/evm2/pull/658",
-      "createdAt": "2026-10-16T03:07:05Z"
     }
   ]
 }
