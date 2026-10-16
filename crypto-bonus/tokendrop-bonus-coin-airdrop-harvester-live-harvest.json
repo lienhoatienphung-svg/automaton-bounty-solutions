@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T04:23:39.382Z",
-  "latencyMs": 1393,
+  "executedAt": "2026-10-16T04:24:27.404Z",
+  "latencyMs": 829,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #38: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #39: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
+      "createdAt": "2026-10-07T00:07:47Z"
+    },
+    {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
       "title": "fix(deps): update dependency lucide-react to 1.57",
       "url": "https://github.com/javirub/glaber/pull/10",
       "createdAt": "2026-09-19T14:54:04Z"
@@ -280,19 +290,9 @@
       "createdAt": "2026-10-16T03:26:51Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
       "title": "[TRTLLM-16780][feat] Honor per-request seeds in one-model speculative decoding's acceptance step",
       "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/20147",
       "createdAt": "2026-10-12T08:48:28Z"
-    },
-    {
-      "title": "Wallet: Addresses / square All cards / Airdrops row, content-sized and centred",
-      "url": "https://github.com/b0ase/yours-mobile/pull/136",
-      "createdAt": "2026-10-16T04:21:39Z"
     }
   ]
 }
