@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T19:02:23.722Z",
-  "latencyMs": 1094,
+  "executedAt": "2026-10-16T19:09:48.930Z",
+  "latencyMs": 828,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #287: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #288: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "8xvxJBM8JYqoNtedtmEQAmsQbFkZSjnUvLARcEq4pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/8xvxjbm8jyqontedtmeqamsqbfkzsjnuvlarceq4pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "INULABS is a community-driven crypto project built around strong branding, entertainment, and long-term community growth. The project was developed with a compl",
       "url": "https://dexscreener.com/solana/578ptpfhyjzgndeeb5dn2vgq3as4gkmd7s6qkcp8pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "AiCc1V168H2yjfCUHXoGDhhkpc2sYuy9WNjJvdGpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "This dog purr has been going insanely viral on Instagram, already sitting at over 1M followers and 50M+ likes",
-      "url": "https://dexscreener.com/solana/aicc1v168h2yjfcuhxogdhhkpc2syuy9wnjjvdgpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 754,
-      "priceBtc": 3.01099590268e-7
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010581747210042744
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006119115655750592
+      "marketCapRank": 748,
+      "priceBtc": 3.1113244729319997e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 614,
-      "priceBtc": 0.001424092188386565
+      "priceBtc": 0.0014253027505838102
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9985374408891075
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010584150782422857
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006147004287880988
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 105,
-      "priceBtc": 0.00002147373457660753
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000012372921667193203
+      "priceBtc": 0.00002125465684963123
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 109,
-      "priceBtc": 8.85003474860895e-7
+      "priceBtc": 8.885343478367813e-7
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 99,
+      "priceBtc": 0.000008325957186086583
+    },
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 49,
+      "priceBtc": 5.274127678555887e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Qwen3.5 to 3.8 dense support (9B first)",
-      "url": "https://github.com/tpurtell/cuteafd/issues/276",
-      "createdAt": "2026-10-15T06:49:05Z"
+      "title": "Add nano-gpt-curriculum-specialization task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/62",
+      "createdAt": "2026-10-08T14:37:15Z"
     },
     {
-      "title": "test(functional): cover community token mint, airdrop, and burn",
-      "url": "https://github.com/status-im/status-go/pull/7942",
-      "createdAt": "2026-10-15T09:09:13Z"
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/45",
+      "createdAt": "2026-10-16T18:27:56Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "\"eat some food\" action",
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
+      "createdAt": "2026-10-07T03:48:40Z"
     },
     {
-      "title": "docs(website): an FAQ an AI agent can quote: is it safe to connect my agent to Ghostly?",
-      "url": "https://github.com/MiguelMedeiros/ghostly/pull/3009",
-      "createdAt": "2026-10-16T18:57:58Z"
+      "title": "Resolve and record the base model's revision across train, ship and export",
+      "url": "https://github.com/MakazhanAlpamys/Soup/issues/1902",
+      "createdAt": "2026-10-14T14:06:53Z"
     },
     {
-      "title": "[KAIOS AU WINDOW] 衡曜｜General Manager・神經突觸公開窗口",
-      "url": "https://github.com/klineodyssey/kline-odyssey/issues/584",
-      "createdAt": "2026-10-12T07:28:20Z"
+      "title": "feat(scripts): build an unsigned IPA locally + docs/SIDESTORE.md install steps",
+      "url": "https://github.com/cknowlesbadluck/QuicksilverV1/pull/328",
+      "createdAt": "2026-10-16T19:02:37Z"
     },
     {
-      "title": "Add anytime-valid improvement auditor",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/76",
-      "createdAt": "2026-10-13T03:26:58Z"
+      "title": "P36: joined two-unit SDK acceptance and qualification boundary",
+      "url": "https://github.com/arnabnandikgp/cinder/pull/82",
+      "createdAt": "2026-10-16T19:07:40Z"
     }
   ]
 }
