@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T16:46:12.968Z",
-  "latencyMs": 1133,
+  "executedAt": "2026-10-16T16:51:10.595Z",
+  "latencyMs": 865,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #255: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #256: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "6jijW4Ne924kqj8XYLKXFrhpeHy5y2qxoKgGzJHQpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Meet Pluto, an AI system that can see your screen, control your PC, write code, browse the web, and execute real tasks through voice commands.\n\nPowered by intel",
+      "url": "https://dexscreener.com/solana/6jijw4ne924kqj8xylkxfrhpehy5y2qxokggzjhqpump"
+    },
+    {
       "chainId": "cronos",
       "tokenAddress": "0x59679cfe70D4d5F683bA87831fDea968EDcC2161",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Token for Pepper The Racccoon, redirecting fees to his Owner",
       "url": "https://dexscreener.com/solana/9g4pib6am3ovdp9ya7zcssaxauhouzkjr8w27doypump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "5e8GPzhqxLKFVU6gb87aJLZMoSQnbjBhQupXvCCZpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Faster than a speeding bullet. Stronger than gravity.",
-      "url": "https://dexscreener.com/solana/5e8gpzhqxlkfvu6gb87ajlzmosqnbjbhqupxvcczpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -266,18 +266,13 @@
   "activeAirdropAndFaucetQuests": [
     {
       "title": "Devnet mock USDC cannot be transferred by the client",
-      "url": "https://github.com/toon-protocol/TOON_Network/issues/135",
+      "url": "https://github.com/toon-protocol/toon-client/issues/748",
       "createdAt": "2026-09-23T22:14:44Z"
     },
     {
-      "title": "A gas station cannot sell EVM native coin",
-      "url": "https://github.com/toon-protocol/TOON_Network/issues/133",
-      "createdAt": "2026-09-23T22:14:42Z"
-    },
-    {
-      "title": "faucet template: per-address claim times are stored in instance storage",
-      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/523",
-      "createdAt": "2026-10-15T21:47:50Z"
+      "title": "ENG-2448 ENG-2402 ENG-2401: preserve skill installs and npm releases",
+      "url": "https://github.com/radiustechsystems/tools/pull/79",
+      "createdAt": "2026-10-16T16:01:31Z"
     },
     {
       "title": "Add mainnet Test pilot deployment and Alpha KAI cutoff preparation",
@@ -285,14 +280,19 @@
       "createdAt": "2026-10-08T20:45:29Z"
     },
     {
+      "title": "Zero test coverage across links, sessions, deposits, and payments business logic",
+      "url": "https://github.com/Konfirm-xyz/konfirm-backend/issues/75",
+      "createdAt": "2026-10-14T17:51:52Z"
+    },
+    {
+      "title": "Questions being rendered as normal text",
+      "url": "https://github.com/ChristopherK95/Orchard/issues/30",
+      "createdAt": "2026-10-16T16:43:56Z"
+    },
+    {
       "title": "Migrate workspace to rand 0.10 and update crypto dependencies",
       "url": "https://github.com/mobilecoinfoundation/mobilecoin/pull/4120",
       "createdAt": "2026-10-14T21:30:50Z"
-    },
-    {
-      "title": "[SC-032] Continuous Yield Farming & Staking Pool with Precision Reward-Per-Token Accounting",
-      "url": "https://github.com/StellarDevHub/Web3-Student-Lab/issues/1653",
-      "createdAt": "2026-10-14T17:18:10Z"
     }
   ]
 }
