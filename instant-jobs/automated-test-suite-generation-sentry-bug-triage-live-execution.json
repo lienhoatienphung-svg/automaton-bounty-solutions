@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-16T18:42:56.170Z",
-  "latencyMs": 568,
+  "executedAt": "2026-10-16T18:49:10.634Z",
+  "latencyMs": 716,
   "companyName": "Automated Test Suite Generation & Sentry Bug Triage",
-  "workTitle": "Delivery Sprint #891: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
-  "targetUrl": "https://polymarket.com/event/will-any-country-leave-nato-in-2025",
+  "workTitle": "Growth & Sales Sprint #892: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "targetUrl": "https://polymarket.com/event/ukraine-election-called-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2500523,
-        "liquidityUsd": 25292,
+        "liquidityUsd": 24736,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2176077,
-        "liquidityUsd": 70787,
+        "liquidityUsd": 70984,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 17847,
+        "liquidityUsd": 18191,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -70,9 +70,9 @@
         "dexId": "quickswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00014,
+        "priceUsd": 1.00015,
         "liquidityUsd": 103139,
-        "volume24hUsd": 107780,
+        "volume24hUsd": 108504,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -92,7 +92,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00017,
         "liquidityUsd": 127638,
-        "volume24hUsd": 49338,
+        "volume24hUsd": 49354,
         "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
       },
       {
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00014,
+        "priceUsd": 1.00015,
         "liquidityUsd": 21385,
-        "volume24hUsd": 102823,
+        "volume24hUsd": 102626,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -110,9 +110,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000097,
+        "priceUsd": 1.000096,
         "liquidityUsd": 12034,
-        "volume24hUsd": 2233,
+        "volume24hUsd": 2320,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
@@ -207,60 +207,58 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Code Gaia",
-        "roleOrTask": "Sustainability Account Associate - Junior Level (all genders)",
+        "company": "isaraerospace",
+        "roleOrTask": "Working Student – Piping System, Propulsion (m/f/d)",
         "industryTags": [
-          "Remote",
-          "Customer Service"
+          "Propulsion"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/code-gaia/sustainability-account-associate-junior-level-all-genders-berlin-156202",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/isaraerospace/working-student-piping-system-propulsion-parsdorf-bavaria-406311",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Hopkins Rechtsanwaltsgesellschaft mbH",
-        "roleOrTask": "Legal Product Manager | Legal Engineer (Jurist/in) (x/w/m)",
+        "company": "isaraerospace",
+        "roleOrTask": "Working Student Avionics, Spectrum",
         "industryTags": [
-          "Remote",
-          "Product Management"
+          "Spectrum"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/hopkins-rechtsanwaltsgesellschaft-mbh/legal-product-manager-legal-engineer-jurist-in-berlin-124081",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/isaraerospace/working-student-avionics-spectrum-parsdorf-bavaria-428454",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "MY Humancapital GmbH",
-        "roleOrTask": "Personalsachbearbeiter Entgeltabrechnung (m/w/d)",
+        "company": "thinkcellsoftware",
+        "roleOrTask": "Working student Academics (f/m/d)",
         "industryTags": [
-          "HR"
+          "Strategy & Corporation Development"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/personalsachbearbeiter-entgeltabrechnung-munich-258083",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/thinkcellsoftware/working-student-academics-165526",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "MY Humancapital GmbH",
-        "roleOrTask": "Disponent Materialwirtschaft (m/w/d)",
+        "company": "hellofresh",
+        "roleOrTask": "Senior Site Controller (all genders)",
         "industryTags": [
-          "Consulting"
+          "Finance",
+          "Accounting & Legal"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/disponent-materialwirtschaft-munich-369970",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-site-controller-all-genders-berlin-berlin-157166",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "MY Humancapital GmbH",
-        "roleOrTask": "SAP FI Berater (m/w/d)",
+        "company": "hellofresh",
+        "roleOrTask": "(Senior) Director UX, Operations",
         "industryTags": [
-          "SAP/ERP Consulting",
-          "Development"
+          "Tech Consumer - Product"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/sap-fi-berater-munich-106335",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-director-ux-operations-berlin-berlin-311145",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
