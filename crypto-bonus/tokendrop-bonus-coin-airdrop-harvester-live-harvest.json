@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T16:42:45.025Z",
-  "latencyMs": 1657,
+  "executedAt": "2026-10-16T16:46:12.968Z",
+  "latencyMs": 1133,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #254: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #255: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "cronos",
+      "tokenAddress": "0x59679cfe70D4d5F683bA87831fDea968EDcC2161",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "1. VEXOR\nBlue Wolf — The Leader\n2. RAGNAR\nRed Wolf — The Destroyer\n3. FROSTVEIL\nWhite Wolf — The Strategist\n4. SOLARIS\nGolden Wolf — The Wildcard\n5. NIGHTFANG\nB",
+      "url": "https://dexscreener.com/cronos/0x59679cfe70d4d5f683ba87831fdea968edcc2161"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "8PPBwReYK4w6iToNmhQqVCepp569CWQ56QC4VCf1pump",
       "boostAmount": 50,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "Faster than a speeding bullet. Stronger than gravity.",
       "url": "https://dexscreener.com/solana/5e8gpzhqxlkfvu6gb87ajlzmosqnbjbhqupxvcczpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x302DAcc52492095fb054937112A5aaC4617ecfb3",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Quantum-powered blockchain engineered for maximum security, performance, and scalability. EVM compatible. Proof Of Quantum",
-      "url": "https://dexscreener.com/robinhood/0x302dacc52492095fb054937112a5aac4617ecfb3"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 749,
-      "priceBtc": 2.9637497816154867e-7
+      "marketCapRank": 745,
+      "priceBtc": 3.0862922925750573e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.000021795718224026348
+      "priceBtc": 0.000021817556851864205
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00010983521377164833
+      "priceBtc": 0.0001069259255167983
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006252190597608433
+      "priceBtc": 0.00006227322732508691
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 618,
+      "priceBtc": 0.0014213397222990658
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 99,
+      "priceBtc": 0.000008364383443647251
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 34,
-      "priceBtc": 0.0034464045940077385
+      "priceBtc": 0.0034277770374005847
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.315407330937726e-8
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 616,
-      "priceBtc": 0.0014208255271575705
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 85,
-      "priceBtc": 0.000010724690186040523
+      "priceBtc": 9.303861896572612e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Feature: unique-personhood / nullifier per app to prevent Sybil reuse",
-      "url": "https://github.com/ToluLabs/StellarCred/issues/395",
-      "createdAt": "2026-08-30T12:47:54Z"
+      "title": "Devnet mock USDC cannot be transferred by the client",
+      "url": "https://github.com/toon-protocol/TOON_Network/issues/135",
+      "createdAt": "2026-09-23T22:14:44Z"
     },
     {
-      "title": "Merge master-2.0 into master",
-      "url": "https://github.com/solana-foundation/solana-playground/pull/27",
-      "createdAt": "2026-10-13T17:19:42Z"
+      "title": "A gas station cannot sell EVM native coin",
+      "url": "https://github.com/toon-protocol/TOON_Network/issues/133",
+      "createdAt": "2026-09-23T22:14:42Z"
     },
     {
-      "title": "docs: deploy the builder walkthroughs to the latest testnet, staging is down",
-      "url": "https://github.com/gnolang/gno/pull/6378",
-      "createdAt": "2026-10-16T15:08:21Z"
+      "title": "faucet template: per-address claim times are stored in instance storage",
+      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/523",
+      "createdAt": "2026-10-15T21:47:50Z"
     },
     {
-      "title": "Roadmap: Black Anvil network rollout",
-      "url": "https://github.com/LegendofKEK/bichael/issues/341",
-      "createdAt": "2026-10-16T02:23:31Z"
+      "title": "Add mainnet Test pilot deployment and Alpha KAI cutoff preparation",
+      "url": "https://github.com/therexdev/kai/pull/76",
+      "createdAt": "2026-10-08T20:45:29Z"
     },
     {
-      "title": "feat: wallet register, and preflight refuses a wallet nobody can sign for",
-      "url": "https://github.com/Zoldenburg-me/Zold-app/pull/460",
-      "createdAt": "2026-10-16T16:41:27Z"
+      "title": "Migrate workspace to rand 0.10 and update crypto dependencies",
+      "url": "https://github.com/mobilecoinfoundation/mobilecoin/pull/4120",
+      "createdAt": "2026-10-14T21:30:50Z"
     },
     {
-      "title": "Add streak-freeze tokens to protect user streaks from missed days",
-      "url": "https://github.com/privexlabs/BrandBlitz/issues/1012",
-      "createdAt": "2026-08-22T12:17:37Z"
+      "title": "[SC-032] Continuous Yield Farming & Staking Pool with Precision Reward-Per-Token Accounting",
+      "url": "https://github.com/StellarDevHub/Web3-Student-Lab/issues/1653",
+      "createdAt": "2026-10-14T17:18:10Z"
     }
   ]
 }
