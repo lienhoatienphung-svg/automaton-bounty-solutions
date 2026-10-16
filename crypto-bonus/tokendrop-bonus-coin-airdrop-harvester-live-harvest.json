@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T13:06:04.529Z",
-  "latencyMs": 1463,
+  "executedAt": "2026-10-16T13:07:51.421Z",
+  "latencyMs": 946,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #196: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #197: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Strip an agent's narration from its re-sent history",
-      "url": "https://github.com/agencyenterprise/GlossoGen/pull/235",
-      "createdAt": "2026-10-16T12:37:34Z"
+      "title": "feat(products): fundtest, a Paseo funding provider the testnet apps bundle",
+      "url": "https://github.com/paritytech/trinity-user-agents/pull/1402",
+      "createdAt": "2026-10-14T08:11:56Z"
+    },
+    {
+      "title": "Pay the kiosk's tips on-chain from 50K sats",
+      "url": "https://github.com/OogaBoogaX/oogaboogaland/pull/218",
+      "createdAt": "2026-10-16T13:03:37Z"
     },
     {
       "title": "Showcase: Homestead district (plan 4)",
@@ -275,24 +280,19 @@
       "createdAt": "2026-10-16T11:04:17Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "fix(reward): isolate hostile recipients in batch payouts (SC-051)",
+      "url": "https://github.com/DigiNodes/truthbounty-contract/pull/789",
+      "createdAt": "2026-10-16T13:01:36Z"
     },
     {
-      "title": "CHATGPT HANDOFF FREEZE v68 — R839 REAL resource NO-GO / Capture P0 / PROD HOLD — 2026-10-09 JST",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/765",
-      "createdAt": "2026-10-06T05:27:29Z"
+      "title": "feat: verify hardfork schedule",
+      "url": "https://github.com/raylsnetwork/axyl/pull/271",
+      "createdAt": "2026-10-13T06:52:04Z"
     },
     {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
-    },
-    {
-      "title": "[UI/UX] Simplify post-E2E payable review and assessment results",
-      "url": "https://github.com/habrahgithub/swd-tameion-assured-payments/pull/72",
-      "createdAt": "2026-10-14T17:35:36Z"
+      "title": "Add RustCore Wallet",
+      "url": "https://github.com/massalabs/wallet-provider/pull/366",
+      "createdAt": "2026-10-07T14:07:12Z"
     }
   ]
 }
