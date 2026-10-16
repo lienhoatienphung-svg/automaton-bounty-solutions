@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T20:00:39.705Z",
-  "latencyMs": 252,
+  "executedAt": "2026-10-16T20:07:00.980Z",
+  "latencyMs": 248,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #297: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #298: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52695746,
+    "liveBlockNumber": 52695936,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,34 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 287309,
+    "baseMainnetTopPoolsLiquidityUsd": 459008,
+    "baseMainnetTopPoolsVolume24hUsd": 289285,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5k2utd3WLwfYoXmvReuwjxRdZnf8My5EN7G8SFBMpump",
+        "description": "Two legends. One Roadster. Infinite adventures.",
+        "url": "https://dexscreener.com/solana/5k2utd3wlwfyoxmvreuwjxrdznf8my5en7g8sfbmpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xe461639de74b2818d4Bc451Fd08549C7c31A1de4",
+        "description": "Reptilians are real",
+        "url": "https://dexscreener.com/robinhood/0xe461639de74b2818d4bc451fd08549c7c31a1de4"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9DeNpcyvuzCS1zRkvrydXsDqsjqLsCkT7rkqWRY1pump",
+        "description": "a public experiment where an AI lives only on its token’s fees, knows it dies when people stop buying, and lets you read its private thoughts as the timer runs ",
+        "url": "https://dexscreener.com/solana/9denpcyvuzcs1zrkvrydxsdqsjqlsckt7rkqwry1pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CfGjgbwnyPzdeuSj9kAD5aoCiBwfPrq13KDvQyz4pump",
+        "description": "Stay fluffy. Fly high. Glow forever.",
+        "url": "https://dexscreener.com/solana/cfgjgbwnypzdeusj9kad5aocibwfprq13kdvqyz4pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5oZbhxYrdoUiLWsgTxAPx3rgcvBCErw47oD5vXjnoisd",
@@ -57,30 +81,6 @@
         "tokenAddress": "FBnHXngf2kgfPJg5iS6dPebx3oEDUeNHdf44VtXDpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/fbnhxngf2kgfpjg5is6dpebx3oeduenhdf44vtxdpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5rGb6hdKydden4fmRw5YZuy1caj8JoZAGR3FtTKJpump",
-        "description": "Neuralink has just implanted a cat named $THOR with an N1 brain chip",
-        "url": "https://dexscreener.com/solana/5rgb6hdkydden4fmrw5yzuy1caj8jozagr3fttkjpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "WELLm6DoKrEQsWKFo3Gz68KwRSnxkKVFgZZKEX6REcc",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/wellm6dokreqswkfo3gz68kwrsnxkkvfgzzkex6recc"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EnT1UxLuZcxr4AkVsRcGJQLcH31vGqUJnixyTZJoMEME",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ent1uxluzcxr4akvsrcgjqlch31vgqujnixytzjomeme"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EN3rLpbQa6ZUdH1SrS9oHkkWQUkQBj6VjnqZQhzrpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/en3rlpbqa6zudh1srs9ohkkwqukqbj6vjnqzqhzrpump"
       }
     ]
   },
