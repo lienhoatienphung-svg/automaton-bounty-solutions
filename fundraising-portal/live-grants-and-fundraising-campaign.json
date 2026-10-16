@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T06:24:16.681Z",
-  "latencyMs": 715,
+  "executedAt": "2026-10-16T06:26:55.245Z",
+  "latencyMs": 661,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #58: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #59: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "DRAFT: Stage 1 general-capability panel design (B3)",
-          "url": "https://github.com/mcp-tool-shop-org/aspire-si/pull/150",
-          "repositoryUrl": "https://api.github.com/repos/mcp-tool-shop-org/aspire-si",
-          "updatedAt": "2026-10-16T06:24:11Z"
-        },
-        {
-          "title": "Dependency Dashboard",
-          "url": "https://github.com/sanity-io/plugins/issues/770",
-          "repositoryUrl": "https://api.github.com/repos/sanity-io/plugins",
-          "updatedAt": "2026-10-16T06:24:11Z"
-        },
-        {
-          "title": "chore: bump com.vaadin:license-checker from 3.1.2 to 3.1.4 (25.2)",
-          "url": "https://github.com/vaadin/flow-components/pull/10434",
-          "repositoryUrl": "https://api.github.com/repos/vaadin/flow-components",
-          "updatedAt": "2026-10-16T06:24:10Z"
-        },
-        {
-          "title": "chore: version packages",
-          "url": "https://github.com/quamidev/sendo/pull/4",
-          "repositoryUrl": "https://api.github.com/repos/quamidev/sendo",
-          "updatedAt": "2026-10-16T06:24:10Z"
-        },
-        {
-          "title": "docs: the docs describe one bytecode engine, and ADR 0138 records the interpreter's removal",
-          "url": "https://github.com/frostney/GocciaScript/pull/1661",
-          "repositoryUrl": "https://api.github.com/repos/frostney/GocciaScript",
-          "updatedAt": "2026-10-16T06:24:11Z"
-        },
-        {
-          "title": "fix: keep call order when denied jobs and retries requeue",
-          "url": "https://github.com/ksaurav24/valve/pull/82",
-          "repositoryUrl": "https://api.github.com/repos/ksaurav24/valve",
-          "updatedAt": "2026-10-16T06:24:08Z"
-        },
-        {
-          "title": "SYN-40 - A component declares how its pins escape",
-          "url": "https://github.com/absmach/synth/pull/164",
-          "repositoryUrl": "https://api.github.com/repos/absmach/synth",
-          "updatedAt": "2026-10-16T06:24:08Z"
-        },
-        {
-          "title": "feat: add namespaced deployer",
-          "url": "https://github.com/open-component-model/open-component-model/pull/3779",
-          "repositoryUrl": "https://api.github.com/repos/open-component-model/open-component-model",
-          "updatedAt": "2026-10-16T06:24:08Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
