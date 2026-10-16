@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T22:57:43.939Z",
-  "latencyMs": 1293,
+  "executedAt": "2026-10-16T23:09:53.695Z",
+  "latencyMs": 802,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #339: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #340: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 650,
-      "priceBtc": 3.7703211818304e-7
+      "marketCapRank": 691,
+      "priceBtc": 3.441017517364e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.000021250347589481223
+      "priceBtc": 0.000021320552863779167
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.0000621706469087882
-    },
-    {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.688655337110973e-8
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 37,
-      "priceBtc": 0.002452111009379733
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 617,
+      "priceBtc": 0.0014170495047844973
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 109,
-      "priceBtc": 8.923047669491623e-7
+      "priceBtc": 8.948731972682287e-7
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006258059756102909
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 37,
+      "priceBtc": 0.0024520489661258257
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010633629376737023
+      "priceBtc": 0.00010629791478671654
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 614,
-      "priceBtc": 0.0014202807617334525
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 49,
+      "priceBtc": 5.6830844761043424e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Cover claim behavior in examples/faucet",
-      "url": "https://github.com/Soroban-Cookbook/Soroban_Cookbook_online/issues/1303",
-      "createdAt": "2026-10-16T22:57:33Z"
+      "title": "feat(web): testnet faucets, network badge, PAGES_NOTICE switch, new-build prompt and honest prices",
+      "url": "https://github.com/PastaPastaPasta/dash-forge/pull/510",
+      "createdAt": "2026-10-16T22:32:48Z"
     },
     {
-      "title": "Cover claim behavior in examples/airdrop-bitmap",
-      "url": "https://github.com/Soroban-Cookbook/Soroban_Cookbook_online/issues/1290",
-      "createdAt": "2026-10-16T22:57:14Z"
+      "title": "feat(hub): faucet hub import openapi — draft a source template from an API description",
+      "url": "https://github.com/faucet-hq/faucet-stream/pull/922",
+      "createdAt": "2026-10-16T22:42:05Z"
     },
     {
-      "title": "[mirror #12995] Unsloth Studio / Desktop: write GRPO rewards in Python, run in the OS sandbox",
-      "url": "https://github.com/LeoBorcherding/unsloth/pull/312",
-      "createdAt": "2026-10-16T12:45:46Z"
+      "title": "feat: add flag-gated AI curator, pricing oracle, moderation triage an…",
+      "url": "https://github.com/PHASE-STELLAR/Phase/pull/570",
+      "createdAt": "2026-10-16T23:08:48Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "Retroactive Grant Application - Valargroup Ironwood work",
+      "url": "https://github.com/Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram/issues/64",
+      "createdAt": "2026-08-14T19:51:55Z"
     },
     {
-      "title": "Cotizador: parámetros desde el Excel de Alex → server, y trabajo a la par Alex/Mikey",
-      "url": "https://github.com/Mikey3003/beebags-deploy/issues/1",
-      "createdAt": "2026-10-15T20:29:24Z"
+      "title": "fix(reward): isolate hostile recipients in batch payouts (SC-051)",
+      "url": "https://github.com/DigiNodes/truthbounty-contract/pull/789",
+      "createdAt": "2026-10-16T13:01:36Z"
     },
     {
-      "title": "Phase 2a: bounded caches + boot/soak bench tooling",
-      "url": "https://github.com/WERSIT35/Provider/pull/93",
-      "createdAt": "2026-10-16T22:55:35Z"
+      "title": "Point canonical and Open Graph URLs at robotsexnickels.com",
+      "url": "https://github.com/caaconwinner/RSN/pull/5",
+      "createdAt": "2026-10-16T23:08:03Z"
     }
   ]
 }
