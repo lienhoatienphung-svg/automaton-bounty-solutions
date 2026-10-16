@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T20:04:50.890Z",
-  "latencyMs": 673,
+  "executedAt": "2026-10-16T20:05:44.801Z",
+  "latencyMs": 687,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #300: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
+  "workTitle": "Delivery Sprint #301: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,62 +217,67 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 762,
-      "priceBtc": 2.9679421422066e-7
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.0004246498660967
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010687714730838858
+      "marketCapRank": 774,
+      "priceBtc": 2.9008222920481553e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 105,
-      "priceBtc": 0.000021180686510923278
+      "priceBtc": 0.000020997336825633
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 612,
-      "priceBtc": 0.0014300216916441595
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9983239345812869
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010643648344795529
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.213833614113864e-8
+      "priceBtc": 9.182559830762058e-8
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 611,
+      "priceBtc": 0.0014182448572227439
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 109,
-      "priceBtc": 8.860860072346654e-7
+      "priceBtc": 8.837795604470483e-7
     },
     {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 90,
-      "priceBtc": 0.00003833767511757276
+      "name": "Monad",
+      "symbol": "MON",
+      "marketCapRank": 153,
+      "priceBtc": 2.759436442565079e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Docs: a Mainnet and a Devnet section listing the one connector, the relay and the ILP addresses",
-      "url": "https://github.com/toon-protocol/website/issues/48",
-      "createdAt": "2026-10-16T19:05:39Z"
+      "title": "WEB-06: Integrate Website Authentication and Role-Based Access",
+      "url": "https://github.com/sibongiseni-ngwamba/ReLoop_Technologies_Web_App/issues/22",
+      "createdAt": "2026-10-16T20:05:20Z"
     },
     {
       "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
       "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
       "createdAt": "2026-10-07T00:07:47Z"
+    },
+    {
+      "title": "Docs: a Mainnet and a Devnet section listing the one connector, the relay and the ILP addresses",
+      "url": "https://github.com/toon-protocol/website/issues/48",
+      "createdAt": "2026-10-16T19:05:39Z"
     },
     {
       "title": "Inventory and migrate current Standard card pool",
@@ -288,11 +293,6 @@
       "title": "feat(tools): list aztec first in the send picker and mint it on testnet",
       "url": "https://github.com/alejoamiras/unleashed/pull/22",
       "createdAt": "2026-10-16T20:03:35Z"
-    },
-    {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
     }
   ]
 }
