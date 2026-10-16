@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T12:40:09.964Z",
-  "latencyMs": 246,
+  "executedAt": "2026-10-16T12:41:33.372Z",
+  "latencyMs": 485,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #186: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #187: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52682531,
+    "liveBlockNumber": 52682572,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 331003,
+    "baseMainnetTopPoolsVolume24hUsd": 330941,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5aGRLchKmNDvNtzZ7qv2sPW1v349pPYWQZu88uNcTTLG",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/5agrlchkmndvntzz7qv2spw1v349ppywqzu88uncttlg"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xFEBF83711BF233B69Bf9021fB76401E255D73E5C",
@@ -75,12 +81,6 @@
         "tokenAddress": "GpDvSvNdwx8VRK7JimFdtqAufjckLUPFB9Ht63qrpump",
         "description": "Driving the future at full throttle\nBuckle up. The road to the moon starts here.",
         "url": "https://dexscreener.com/solana/gpdvsvndwx8vrk7jimfdtqaufjcklupfb9ht63qrpump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0xBAa01d6Bd2FfE0606941B09Dfa5bcDa6BE7e7777",
-        "description": "i got that cawt in me",
-        "url": "https://dexscreener.com/bsc/0xbaa01d6bd2ffe0606941b09dfa5bcda6be7e7777"
       }
     ]
   },
