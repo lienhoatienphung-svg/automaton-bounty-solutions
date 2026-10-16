@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T15:17:16.132Z",
-  "latencyMs": 930,
+  "executedAt": "2026-10-16T15:18:41.770Z",
+  "latencyMs": 1083,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #230: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
+  "workTitle": "Delivery Sprint #231: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "[adapters] Port BioMysteryBench for evaluation with a Daytona pilot",
+      "url": "https://github.com/marin-community/harbor/issues/161",
+      "createdAt": "2026-09-18T21:32:59Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide-react to v1.57.0",
+      "url": "https://github.com/jonahsnider/logos.frc.sh/pull/17",
+      "createdAt": "2026-09-05T02:10:25Z"
+    },
+    {
       "title": "send-to-peer: dial an Android phone's announced AirDrop port, and keep it awake through a send",
       "url": "https://github.com/netmojo-systems/omdrop-awdl/pull/41",
       "createdAt": "2026-10-15T09:36:28Z"
@@ -283,16 +293,6 @@
       "title": "fix(web-client): hold the store lock for every chain MMR writer",
       "url": "https://github.com/0xMiden/web-sdk/pull/482",
       "createdAt": "2026-10-16T13:02:21Z"
-    },
-    {
-      "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
-      "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
-      "createdAt": "2026-10-15T12:16:48Z"
-    },
-    {
-      "title": "feat(products): fundtest, a Paseo funding provider the testnet apps bundle",
-      "url": "https://github.com/paritytech/trinity-user-agents/pull/1402",
-      "createdAt": "2026-10-14T08:11:56Z"
     }
   ]
 }
