@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T19:32:17.537Z",
-  "latencyMs": 407,
+  "executedAt": "2026-10-16T19:39:06.287Z",
+  "latencyMs": 243,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #291: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #292: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52694895,
+    "liveBlockNumber": 52695099,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 286839,
+    "baseMainnetTopPoolsVolume24hUsd": 282555,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x259bcd1be2bec1f1b159d11821a068b038922dbb",
+        "description": "snakes is a multiplayer snake arena where carried value determines your size. Players collect energy to boost, compete for dropped value, and survive a five-sec",
+        "url": "https://dexscreener.com/robinhood/0x259bcd1be2bec1f1b159d11821a068b038922dbb"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9dEcnp1Hy6BNw2SjLoqXfapoJQXcqPhwBnMc1Zn2pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9decnp1hy6bnw2sjloqxfapojqxcqphwbnmc1zn2pump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xC8f0D1076b2135b33b980598D84E2c6584cfc9C4",
@@ -69,18 +81,6 @@
         "tokenAddress": "5AmtC7ZEQ2SEHYeJMjVom52bhx9bXaKsVMmob9kCpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/5amtc7zeq2sehyejmjvom52bhx9bxaksvmmob9kcpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xb2d1Fa50508550B3488C0e9860d1f08937a29145",
-        "description": "The first perpetual trading hub powered by\nHyperliquid on Robinhood Chain. Borrow, lend & trade in one place. Gold & Silver rewards.",
-        "url": "https://dexscreener.com/robinhood/0xb2d1fa50508550b3488c0e9860d1f08937a29145"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xC5E3b544548D68968AAF348e3Ac922c5644d5C28",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0xc5e3b544548d68968aaf348e3ac922c5644d5c28"
       }
     ]
   },
