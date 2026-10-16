@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T20:23:59.502Z",
-  "latencyMs": 1380,
+  "executedAt": "2026-10-16T20:25:27.058Z",
+  "latencyMs": 1313,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #304: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #305: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,5 +263,36 @@
       "priceBtc": 2.7651145462123764e-7
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "chore(deps): update dependency lucide-react to v1.58.0",
+      "url": "https://github.com/HexSleeves/portfolio/pull/14",
+      "createdAt": "2026-06-14T16:06:42Z"
+    },
+    {
+      "title": "Update dependency lucide to v1",
+      "url": "https://github.com/michielvha/image-resizer/pull/9",
+      "createdAt": "2026-03-31T11:38:03Z"
+    },
+    {
+      "title": "fix: stock drop external audit findings (Halborn H36–H53)",
+      "url": "https://github.com/moonwell-fi/mamo-contracts/pull/117",
+      "createdAt": "2026-10-16T15:59:11Z"
+    },
+    {
+      "title": "test: add test_zero_total_amount_fails for issue #124",
+      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/pull/274",
+      "createdAt": "2026-10-16T20:23:11Z"
+    },
+    {
+      "title": "chore(deps): bump the frontend-minor-patch group across 1 directory with 12 updates",
+      "url": "https://github.com/Pranoym17/Sprintern/pull/31",
+      "createdAt": "2026-09-11T20:26:17Z"
+    },
+    {
+      "title": "Follow-up to #57: the devnet edge stops serving the old connector names (do not merge until the new toon CLI has been out a while)",
+      "url": "https://github.com/toon-protocol/infra/pull/58",
+      "createdAt": "2026-10-16T20:21:34Z"
+    }
+  ]
 }
