@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T06:24:12.572Z",
-  "latencyMs": 469,
+  "executedAt": "2026-10-16T06:26:37.018Z",
+  "latencyMs": 364,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #74: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #75: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52671252,
+    "liveBlockNumber": 52671324,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458992,
-    "baseMainnetTopPoolsVolume24hUsd": 230485,
+    "baseMainnetTopPoolsVolume24hUsd": 230356,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "AscYZ2oUKWXJ6P7RgqxSaEmn5hxddrpLEerozYXxpump",
+        "description": "london BATMAN",
+        "url": "https://dexscreener.com/solana/ascyz2oukwxj6p7rgqxsaemn5hxddrpleerozyxxpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3Z1UDdcBmkAJTMf96HUyfW9jNXgbqqhHSQzYSKUWpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "DuaSA2YynBhqyW26n48EX7qtdRWKHtnVjR8fsE5spump",
         "description": "Elons pet goldfish",
         "url": "https://dexscreener.com/solana/duasa2yynbhqyw26n48ex7qtdrwkhtnvjr8fse5spump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "inMxWovQE5CrgXCLeXZhZroqikRuZzNmWgJd4YfKone",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/inmxwovqe5crgxclexzhzroqikruzznmwgjd4yfkone"
       }
     ]
   },
