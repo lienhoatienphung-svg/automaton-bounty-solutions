@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T20:25:29.400Z",
-  "latencyMs": 248,
+  "executedAt": "2026-10-16T20:25:51.172Z",
+  "latencyMs": 866,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
   "workTitle": "Delivery Sprint #303: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52696491,
+    "liveBlockNumber": 52696501,
     "liveGasPriceGwei": 0.0061,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459008,
-    "baseMainnetTopPoolsVolume24hUsd": 288987,
+    "baseMainnetTopPoolsVolume24hUsd": 288984,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "FV7Gqu47CicsSh8KEDF5Yacw7pgic6bcsEWb5q1kpump",
+        "description": "normie",
+        "url": "https://dexscreener.com/solana/fv7gqu47cicssh8kedf5yacw7pgic6bcsewb5q1kpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HYSnHe719YFudUdQft6QePedYes5rVyAyNrUM8dqpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hysnhe719yfududqft6qepedyes5rvyaynrum8dqpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4treZD6YwEZVppibweU1LWcizA7C33Re2RHU4xZSpump",
+        "description": "fees to Kevin hes askin for donos and posted his github",
+        "url": "https://dexscreener.com/solana/4trezd6ywezvppibweu1lwciza7c33re2rhu4xzspump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x37383C2011112730B86f54c32b020E41AaF68f6B",
@@ -63,24 +81,6 @@
         "tokenAddress": "5ubruMYpgKqw9ip5J1qrXbVGmMdn2VCsMg421B4bpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/5ubrumypgkqw9ip5j1qrxbvgmmdn2vcsmg421b4bpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8jNrFaRyhNh8vccpSQ9o55R4hhinmFc1XfSWwDJhpump",
-        "description": "flegs surf crypto X live, collecting posts and mapping connections to build Fleg AI (trainable LLM)",
-        "url": "https://dexscreener.com/solana/8jnrfaryhnh8vccpsq9o55r4hhinmfc1xfswwdjhpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xcf595c67a50c423cd663e90f47922c4651f91cd6",
-        "description": "Proof of work, in colour. Your computer guesses; the dark hashes become blocks on Robinhood Chain.",
-        "url": "https://dexscreener.com/robinhood/0xcf595c67a50c423cd663e90f47922c4651f91cd6"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5k2utd3WLwfYoXmvReuwjxRdZnf8My5EN7G8SFBMpump",
-        "description": "Two legends. One Roadster. Infinite adventures.",
-        "url": "https://dexscreener.com/solana/5k2utd3wlwfyoxmvreuwjxrdznf8my5en7g8sfbmpump"
       }
     ]
   },
