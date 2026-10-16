@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T07:44:57.656Z",
-  "latencyMs": 953,
+  "executedAt": "2026-10-16T07:47:32.096Z",
+  "latencyMs": 959,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #100: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
+  "workTitle": "Delivery Sprint #101: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,69 +215,64 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "streamoors",
-      "symbol": "STREAM",
-      "marketCapRank": 741,
-      "priceBtc": 3.138500197669834e-7
-    },
-    {
       "name": "IGNITION",
       "symbol": "IGNITION",
-      "marketCapRank": 878,
-      "priceBtc": 2.298211093964467e-7
+      "marketCapRank": 867,
+      "priceBtc": 2.3609569168404884e-7
+    },
+    {
+      "name": "streamoors",
+      "symbol": "STREAM",
+      "marketCapRank": 739,
+      "priceBtc": 3.1436736139206787e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.0001124341016835281
+      "priceBtc": 0.00011323563747121805
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00006328949490283799
+      "marketCapRank": 19,
+      "priceBtc": 0.00006352277517208338
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 104,
-      "priceBtc": 0.00002235092787329226
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 635,
-      "priceBtc": 0.001351251194724019
+      "marketCapRank": 103,
+      "priceBtc": 0.000022487323495529274
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 86,
-      "priceBtc": 0.000027282336318627723
+      "priceBtc": 0.000027279671759569192
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 635,
+      "priceBtc": 0.0013519069689220307
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 101,
-      "priceBtc": 0.000008117412594737747
+      "priceBtc": 0.0000081307895199954
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "test(sui): ledger stream e2e on a subscription-enabled localnet GraphQL service (3.0 stack)",
-      "url": "https://github.com/MystenLabs/ts-sdks/pull/1355",
-      "createdAt": "2026-10-16T05:45:20Z"
+      "title": "Stage-0: paid proving — the prover is paid inside the transaction; no accounts, no tokens (supersedes #924 Q-5A-1)",
+      "url": "https://github.com/qumbra-labs/qumbra-lab/issues/937",
+      "createdAt": "2026-10-08T11:57:41Z"
     },
     {
-      "title": "feat(activity): return canonical wallet transaction history",
-      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/361",
-      "createdAt": "2026-10-15T14:12:23Z"
-    },
-    {
-      "title": "test(functional): cover community token mint, airdrop, and burn",
-      "url": "https://github.com/status-im/status-go/pull/7942",
-      "createdAt": "2026-10-15T09:09:13Z"
+      "title": "feat(products): fundtest, a Paseo funding provider the testnet apps bundle",
+      "url": "https://github.com/paritytech/trinity-user-agents/pull/1402",
+      "createdAt": "2026-10-14T08:11:56Z"
     },
     {
       "title": "refactor: move speculative verification sampling into the rejection sampler.",
@@ -290,9 +285,14 @@
       "createdAt": "2026-10-16T07:43:42Z"
     },
     {
-      "title": "Human-only QA: verify the core customer and operator flows",
-      "url": "https://github.com/MrSufferer/mend/issues/32",
-      "createdAt": "2026-10-16T03:48:40Z"
+      "title": "test(functional): cover community token mint, airdrop, and burn",
+      "url": "https://github.com/status-im/status-go/pull/7942",
+      "createdAt": "2026-10-15T09:09:13Z"
+    },
+    {
+      "title": "[Kotlin] Restore Referred Friends paging, refresh, and truthful error state",
+      "url": "https://github.com/Code-City-LLC/KOTLIN_APP/issues/70",
+      "createdAt": "2026-07-12T20:16:29Z"
     }
   ]
 }
