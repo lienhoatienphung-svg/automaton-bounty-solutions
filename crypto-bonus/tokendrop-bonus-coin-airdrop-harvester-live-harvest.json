@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T15:18:41.770Z",
-  "latencyMs": 1083,
+  "executedAt": "2026-10-16T15:25:27.188Z",
+  "latencyMs": 1585,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #231: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #232: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 938846,
-      "apyBase": 18.37,
-      "apyRewardBonus": 304912.4,
-      "apyTotal": 304930.77,
+      "tvlUsd": 950823,
+      "apyBase": 18.41,
+      "apyRewardBonus": 134145.13,
+      "apyTotal": 134163.54,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 599726,
-      "apyBase": 4.07,
-      "apyRewardBonus": 104488.59,
-      "apyTotal": 104492.66,
+      "tvlUsd": 603807,
+      "apyBase": 4,
+      "apyRewardBonus": 109598.22,
+      "apyTotal": 109602.21,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -42,25 +42,12 @@
     },
     {
       "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-VELVET",
-      "tvlUsd": 1124863,
-      "apyBase": 1.59,
-      "apyRewardBonus": 87814.81,
-      "apyTotal": 87816.4,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c07a115f-7299-4dd1-ac25-2de459010b6b"
-    },
-    {
-      "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 56262,
+      "tvlUsd": 56671,
       "apyBase": 0,
-      "apyRewardBonus": 40172.82,
-      "apyTotal": 40172.82,
+      "apyRewardBonus": 39271.46,
+      "apyTotal": 39271.46,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -69,41 +56,28 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "USDC-VELVET",
+      "tvlUsd": 1128255,
+      "apyBase": 1.61,
+      "apyRewardBonus": 19030.52,
+      "apyTotal": 19032.13,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c07a115f-7299-4dd1-ac25-2de459010b6b"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 265042,
-      "apyBase": 75.67,
-      "apyRewardBonus": 13778.32,
-      "apyTotal": 13853.99,
+      "tvlUsd": 266174,
+      "apyBase": 78.9,
+      "apyRewardBonus": 14151.52,
+      "apyTotal": 14230.42,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-SNDKC",
-      "tvlUsd": 714600,
-      "apyBase": 212.52,
-      "apyRewardBonus": 11955.7,
-      "apyTotal": 12168.22,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-MUC",
-      "tvlUsd": 418087,
-      "apyBase": 264.08,
-      "apyRewardBonus": 10716.06,
-      "apyTotal": 10980.14,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "3cd9aba2-1527-529a-9ecc-6bdc447494af"
     },
     {
       "chain": "Base",
@@ -121,32 +95,66 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-CBBTC",
-      "tvlUsd": 2059443,
-      "apyBase": 100.71,
-      "apyRewardBonus": 7928,
-      "apyTotal": 8028.71,
+      "symbol": "WETH-USDC",
+      "tvlUsd": 163446,
+      "apyBase": 25.74,
+      "apyRewardBonus": 6770.2,
+      "apyTotal": 6795.94,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-MSTRC",
-      "tvlUsd": 1597626,
-      "apyBase": 361.35,
-      "apyRewardBonus": 7032.3,
-      "apyTotal": 7393.65,
+      "symbol": "FUN-USDC",
+      "tvlUsd": 276243,
+      "apyBase": 92.94,
+      "apyRewardBonus": 6264.67,
+      "apyTotal": 6357.61,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "06ae14ef-c2e3-5e30-9876-3e06c8b2f9a9"
+      "poolId": "18674a4f-57ea-4c91-99ce-ea1a2b37aa3d"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-MUC",
+      "tvlUsd": 1002451,
+      "apyBase": 181.77,
+      "apyRewardBonus": 5678.81,
+      "apyTotal": 5860.58,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "3cd9aba2-1527-529a-9ecc-6bdc447494af"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 2086689,
+      "apyBase": 87.02,
+      "apyRewardBonus": 5342.47,
+      "apyTotal": 5429.49,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0xe6613D2Bbd5f5C5bb203C36eE414ffaA4a47a977",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Safevano Wallet is the first premium non-custodial wallet built on the Robinhood Chain, featuring AI-powered assistance, RWA integration, DeFi access, aggregate",
+      "url": "https://dexscreener.com/robinhood/0xe6613d2bbd5f5c5bb203c36ee414ffaa4a47a977"
+    },
     {
       "chainId": "solana",
       "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/arylafko78q6rkjbizngcrovs3el1wsmyzvwygz4pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8xDiE7TYxmmS3ZTeR8y7L6xSrG5WTGTnrDUvSkQ2pump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Jean Cul (CUL) is a meme token launched on the Solana blockchain.\n\nInspired by internet meme culture, Jean Cul brings humor, creativity, and entertainment to th",
-      "url": "https://dexscreener.com/solana/8xdie7tyxmms3zter8y7l6xsrg5wtgtnrduvskq2pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,72 +217,72 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 796,
-      "priceBtc": 2.706936953189e-7
+      "marketCapRank": 747,
+      "priceBtc": 3.394315380099e-7
+    },
+    {
+      "name": "astronaut",
+      "symbol": "ASTRO",
+      "marketCapRank": 994,
+      "priceBtc": 1.8151766816831358e-7
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
-      "marketCapRank": 98,
-      "priceBtc": 0.000008526311383899145
+      "marketCapRank": 97,
+      "priceBtc": 0.00000851829208860657
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00010912522738204346
+      "priceBtc": 0.00010882969298106614
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 610,
-      "priceBtc": 0.0014501915756854188
+      "priceBtc": 0.0014404443960502457
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 34,
-      "priceBtc": 0.00345961208089974
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.294927174998053e-8
+      "priceBtc": 0.003439513764116469
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.000021984068034635222
+      "priceBtc": 0.000021950482144190056
     },
     {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 85,
-      "priceBtc": 0.000010856830569165925
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009677463231156124
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[adapters] Port BioMysteryBench for evaluation with a Daytona pilot",
-      "url": "https://github.com/marin-community/harbor/issues/161",
-      "createdAt": "2026-09-18T21:32:59Z"
+      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
+      "createdAt": "2026-10-06T11:40:04Z"
     },
     {
-      "title": "chore(deps): update dependency lucide-react to v1.57.0",
-      "url": "https://github.com/jonahsnider/logos.frc.sh/pull/17",
-      "createdAt": "2026-09-05T02:10:25Z"
+      "title": "[Bug] The over-balance deposit guard never runs in the app",
+      "url": "https://github.com/drydocs/meridian/issues/1063",
+      "createdAt": "2026-10-16T15:24:06Z"
     },
     {
-      "title": "send-to-peer: dial an Android phone's announced AirDrop port, and keep it awake through a send",
-      "url": "https://github.com/netmojo-systems/omdrop-awdl/pull/41",
-      "createdAt": "2026-10-15T09:36:28Z"
+      "title": "feat!: add Tron support and replace walletAddress with activeWallet",
+      "url": "https://github.com/0xsequence/kotlin-sdk/pull/100",
+      "createdAt": "2026-10-08T11:13:04Z"
     },
     {
-      "title": "SSR crashes on /trade, /pools and /faucet: sessionStorage read during render",
-      "url": "https://github.com/SO4-Markets/interface/issues/844",
-      "createdAt": "2026-10-15T19:07:42Z"
+      "title": "Roadmap: Black Anvil network rollout",
+      "url": "https://github.com/LegendofKEK/bichael/issues/341",
+      "createdAt": "2026-10-16T02:23:31Z"
     },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
@@ -290,9 +290,9 @@
       "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "fix(web-client): hold the store lock for every chain MMR writer",
-      "url": "https://github.com/0xMiden/web-sdk/pull/482",
-      "createdAt": "2026-10-16T13:02:21Z"
+      "title": "Paid A2A: optional x402 payment gate on POST /a2a (Radius Testnet SBC)",
+      "url": "https://github.com/radius-workshop/radius-hermes-railway-template/pull/58",
+      "createdAt": "2026-10-15T19:38:04Z"
     }
   ]
 }
