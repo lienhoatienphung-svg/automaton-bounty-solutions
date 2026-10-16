@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T11:16:22.643Z",
-  "latencyMs": 297,
+  "executedAt": "2026-10-16T11:21:25.705Z",
+  "latencyMs": 602,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #161: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #162: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52680017,
+    "liveBlockNumber": 52680169,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459002,
-    "baseMainnetTopPoolsVolume24hUsd": 327566,
+    "baseMainnetTopPoolsLiquidityUsd": 459001,
+    "baseMainnetTopPoolsVolume24hUsd": 324728,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9sv13ToY5M3Y1RHAz7bgHtMWskCjWQhEk6ZECHERpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9sv13toy5m3y1rhaz7bghtmwskcjwqhek6zecherpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2ZXs9k7xt8pF7MuhvBxKZQd2cQeVERxiRfz7e2YCpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0xf9282d8624C2fCd50E552D24d8D10E63F3Ff89E8",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/robinhood/0xf9282d8624c2fcd50e552d24d8d10e63f3ff89e8"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Aq8Jdz2m4VdaWqC7EFJ1bsS1wZfUy9su3WNJWBdzpump",
-        "description": "Ira, a 20-year-old female orangutan, is going viral after surviving the wildfires in Central Kalimantan, Indonesia.\n\nSending 100% of the creator fees to Orangut",
-        "url": "https://dexscreener.com/solana/aq8jdz2m4vdawqc7efj1bss1wzfuy9su3wnjwbdzpump"
       }
     ]
   },
