@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T08:55:29.710Z",
-  "latencyMs": 251,
+  "executedAt": "2026-10-16T09:00:13.939Z",
+  "latencyMs": 382,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #121: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #122: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52675791,
+    "liveBlockNumber": 52675933,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 314092,
+    "baseMainnetTopPoolsVolume24hUsd": 314141,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DFPXxy17iwsnzmQd4oa5bQjdoEbi5ZJYmFVtBpkLpump",
+        "description": "Most memes live on timelines. STARMAN lives in orbit.",
+        "url": "https://dexscreener.com/solana/dfpxxy17iwsnzmqd4oa5bqjdoebi5zjymfvtbpklpump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x960C501A57cB52A0fC61c572d6029d1b8f007777",
+        "description": "FMFN｜BSC On-Chain Trading Terminal  \nDiscover Memes · View K-Line Charts · Quick Trading  \n3% Platform Token Tax Supports Product Development｜100% Buyback of FM",
+        "url": "https://dexscreener.com/bsc/0x960c501a57cb52a0fc61c572d6029d1b8f007777"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x8fd48EdC40645A86aE73CE238F5CD840Fd8e0087",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0x8fd48edc40645a86ae73ce238f5cd840fd8e0087"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "G6NnKQTgN7Dmo9yrJXwoqiDm35FznQmQ1qXVFAXPpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "0x5aBCaa98e19c0BAB678C458F229191Bd16b87a32",
         "description": "The genesis collection of Surf. 6,666 SurfBoards marking the beginning of the Surf ecosystem — built at the intersection of AI, crypto, and stocks.",
         "url": "https://dexscreener.com/robinhood/0x5abcaa98e19c0bab678c458f229191bd16b87a32"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x7755B8428732BF5676383267cF8ae181c4E9EA1f",
-        "description": "OneCrypto (ONE) is a BEP-20 token built on BNB Smart Chain, featuring a fixed total supply of 1 ONE with 18 decimal places.\n\nThe OneCrypto ecosystem provides a ",
-        "url": "https://dexscreener.com/bsc/0x7755b8428732bf5676383267cf8ae181c4e9ea1f"
-      },
-      {
-        "chainId": "near",
-        "tokenAddress": "three-de86d6.launchpad.justhoot.near",
-        "description": "“Three digits minimum” \n\nLaunched on justhoot 🦉 \n\nRewards in NEAR.\n\nBuy through near intents with phantom or MetaMask on Solana or EVM. \n\nThree is NEAR.",
-        "url": "https://dexscreener.com/near/three-de86d6.launchpad.justhoot.near"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9YJbvjar1HgagKrpgiZXUfmSVgGfaEHjSbSzwBDNpump",
-        "description": "holy shit",
-        "url": "https://dexscreener.com/solana/9yjbvjar1hgagkrpgizxufmsvggfaehjsbszwbdnpump"
       }
     ]
   },
