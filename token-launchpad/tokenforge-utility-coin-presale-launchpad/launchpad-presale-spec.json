@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T15:49:08.861Z",
-  "latencyMs": 319,
+  "executedAt": "2026-10-16T15:54:02.024Z",
+  "latencyMs": 252,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #237: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #238: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52688200,
+    "liveBlockNumber": 52688347,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 287306,
+    "baseMainnetTopPoolsVolume24hUsd": 287794,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "C43ZJvyPUeDPNJLJrBVqRZdE9FM2sdi2KeGgpnqupump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/c43zjvypuedpnjljrbvqrzde9fm2sdi2keggpnqupump"
+      },
       {
         "chainId": "ethereum",
         "tokenAddress": "0x8Cc63A25C14E6abc438ebB9d74c00D4f9282fC49",
@@ -75,12 +81,6 @@
         "tokenAddress": "A4WbSuKb3dBMGDWq1uCewAa1mHiUoN6hW7GaTCpLNCEd",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/a4wbsukb3dbmgdwq1ucewaa1mhiuon6hw7gatcplnced"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9Cxa8h6QZU2HQraVL6isjcC7HfJHRthwCihb6Xdbpump",
-        "description": "Solana tokens, relaunched on Robinhood Chain. Bond ETH, get the mirror token plus a share of its pool’s fees for good. 13% of every pool’s fees is set aside for",
-        "url": "https://dexscreener.com/solana/9cxa8h6qzu2hqravl6isjcc7hfjhrthwcihb6xdbpump"
       }
     ]
   },
