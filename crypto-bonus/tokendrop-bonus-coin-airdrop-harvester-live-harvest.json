@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T20:59:21.790Z",
-  "latencyMs": 754,
+  "executedAt": "2026-10-16T21:05:13.053Z",
+  "latencyMs": 500,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #313: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #314: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,36 +263,5 @@
       "priceBtc": 8.931975912905774e-7
     }
   ],
-  "activeAirdropAndFaucetQuests": [
-    {
-      "title": "perf(jit): resolve jumps through deep stacks and try/catch",
-      "url": "https://github.com/alloy-rs/evm2/pull/671",
-      "createdAt": "2026-10-16T18:24:54Z"
-    },
-    {
-      "title": "ci: Bump MBridge.",
-      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4752",
-      "createdAt": "2026-10-15T22:02:19Z"
-    },
-    {
-      "title": "# Spike 686 — MCP server for PHASE with tools for ledgers, worlds and signals",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/549",
-      "createdAt": "2026-10-15T11:19:00Z"
-    },
-    {
-      "title": "feat(cc): reconstruct training segments from ordinary rollout history",
-      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4124",
-      "createdAt": "2026-09-14T16:29:16Z"
-    },
-    {
-      "title": "fix(faucet): a SOL retry while the server's send is pending says so again",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3541",
-      "createdAt": "2026-10-16T20:58:18Z"
-    },
-    {
-      "title": "[faucet] Retrying SOL while the server's send is pending makes a second airdrop and reports a failure",
-      "url": "https://github.com/dcccrypto/percolator-launch/issues/3540",
-      "createdAt": "2026-10-16T20:58:17Z"
-    }
-  ]
+  "activeAirdropAndFaucetQuests": []
 }
