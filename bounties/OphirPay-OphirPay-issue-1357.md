@@ -3,9 +3,9 @@
 - **Target Issue**: [Add stream cancellation pro-rata refund verification for partial elapsed periods](https://github.com/OphirPay/OphirPay/issues/1357)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-16T01:54:27.297Z`
+- **Timestamp**: `2026-10-16T01:55:32.217Z`
 
 ## 1. Repository Root Structure (`OphirPay/OphirPay`)
 - `.commitlintrc.json`
