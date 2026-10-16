@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T09:34:52.443Z",
-  "latencyMs": 556,
+  "executedAt": "2026-10-16T09:38:56.411Z",
+  "latencyMs": 968,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #117: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #118: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "docs(cache): R2 eviction and TTL policy with archive reservation guard",
+          "url": "https://github.com/TogetherWeOwn/nntunev2/pull/53",
+          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/nntunev2",
+          "updatedAt": "2026-10-16T09:38:52Z"
+        },
+        {
+          "title": "perf(server): Windows git reads no longer start a console host",
+          "url": "https://github.com/pingdotgg/t3code/pull/19288",
+          "repositoryUrl": "https://api.github.com/repos/pingdotgg/t3code",
+          "updatedAt": "2026-10-16T09:38:49Z"
+        },
+        {
+          "title": "fix(location): roll up child area on insert, delete and move; check coordinates",
+          "url": "https://github.com/frappe/erpnext/pull/60016",
+          "repositoryUrl": "https://api.github.com/repos/frappe/erpnext",
+          "updatedAt": "2026-10-16T09:38:47Z"
+        },
+        {
+          "title": "[OMNIML-6083] [16/21] Write a sharded model's HF checkpoint without gathering it",
+          "url": "https://github.com/NVIDIA/Model-Optimizer/pull/2752",
+          "repositoryUrl": "https://api.github.com/repos/NVIDIA/Model-Optimizer",
+          "updatedAt": "2026-10-16T09:38:47Z"
+        },
+        {
+          "title": "feat(signaling): go-remote control plane — device policy, notifications, approvals, TURN ops",
+          "url": "https://github.com/ilh-github/go-remote-next/pull/1",
+          "repositoryUrl": "https://api.github.com/repos/ilh-github/go-remote-next",
+          "updatedAt": "2026-10-16T09:38:46Z"
+        },
+        {
+          "title": "Keep dogs walking: stamp steps, rings around the home base, marks and weekly goals",
+          "url": "https://github.com/mwalterskirchen/gassipass/issues/140",
+          "repositoryUrl": "https://api.github.com/repos/mwalterskirchen/gassipass",
+          "updatedAt": "2026-10-16T09:38:46Z"
+        },
+        {
+          "title": "feat: Add opt-in Waypoint posts for GPX waypoints",
+          "url": "https://github.com/SirLouen/gpx-route-map/pull/62",
+          "repositoryUrl": "https://api.github.com/repos/SirLouen/gpx-route-map",
+          "updatedAt": "2026-10-16T09:38:46Z"
+        },
+        {
+          "title": "WIP: integrate upstream Kima v1.11 runtime while retaining fork security (experimental)",
+          "url": "https://github.com/OxygenGS/kima-hub/pull/7",
+          "repositoryUrl": "https://api.github.com/repos/OxygenGS/kima-hub",
+          "updatedAt": "2026-10-16T09:38:46Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
