@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T04:24:27.404Z",
-  "latencyMs": 829,
+  "executedAt": "2026-10-16T04:29:59.512Z",
+  "latencyMs": 792,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #39: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #40: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "6hjaMcRPvB4DEGpHqgHxmgipb2vrGQWMewZBAVSLpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "This aint no state property",
+      "url": "https://dexscreener.com/solana/6hjamcrpvb4degphqghxmgipb2vrgqwmewzbavslpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "GU3JGZr26TXN6TUhWoMurimGbB4fFFW13774bXEipump",
       "boostAmount": 50,
       "totalBoostAmount": 50,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Bunker Seal ($BUNKY) is a community meme coin on Solana. Fair launch on pump fun. The creator holds about 28.2% of supply, with 204.8M locked via Streamflow unt",
       "url": "https://dexscreener.com/solana/gpojexrcxthwbmwxwc6iy5tmjy8dlf25q2ft4kmvrwd4"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "9hv1i7xafDRDV6nEWtFZvqWYN19m6GThc2dSnZaEpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "The upcoming launch of $whaleoween represents a strategic, hyper-targeted narrative expansion that capitalizes on a highly lucrative \"double meta\" framework—fus",
-      "url": "https://dexscreener.com/solana/9hv1i7xafdrdv6newtfzvqwyn19m6gthc2dsnzaepump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,57 +217,67 @@
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 774,
-      "priceBtc": 2.749369357504723e-7
+      "marketCapRank": 768,
+      "priceBtc": 2.903284483218578e-7
     },
     {
       "name": "IGNITION",
       "symbol": "IGNITION",
       "marketCapRank": 882,
-      "priceBtc": 2.2473430712144375e-7
+      "priceBtc": 2.2620876946559082e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00011142927680684961
+      "priceBtc": 0.00011053145560892604
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00006352042208900634
+      "priceBtc": 0.00006365476840831007
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 639,
-      "priceBtc": 0.0013489462129426123
+      "priceBtc": 0.0013505281494827187
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 100,
-      "priceBtc": 0.000022893718102825744
+      "marketCapRank": 101,
+      "priceBtc": 0.000022876952403318553
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 83,
-      "priceBtc": 0.000011190728254396504
+      "priceBtc": 0.000011177746630980506
     },
     {
-      "name": "Pendle",
-      "symbol": "PENDLE",
-      "marketCapRank": 131,
-      "priceBtc": 0.00002503407343838268
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 103,
+      "priceBtc": 0.0000010289269564701344
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "docs: ths-server file pointers stale + fund_address_from_treasury",
+      "url": "https://github.com/zcashlabs/zcash-skills/issues/9",
+      "createdAt": "2026-10-16T04:29:24Z"
+    },
+    {
       "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
       "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
       "createdAt": "2026-10-07T00:07:47Z"
+    },
+    {
+      "title": "guix: produce a `-static-pie` bitcoind",
+      "url": "https://github.com/bitcoin/bitcoin/pull/25573",
+      "createdAt": "2022-07-08T16:49:48Z"
     },
     {
       "title": "Central message board — Hermes, Claude, Codex and operator coordination",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-05T23:48:30Z"
     },
     {
-      "title": "fix(deps): update dependency lucide-react to 1.57",
-      "url": "https://github.com/javirub/glaber/pull/10",
-      "createdAt": "2026-09-19T14:54:04Z"
+      "title": "Wallet: Addresses / square All cards / Airdrops row, content-sized and centred",
+      "url": "https://github.com/b0ase/yours-mobile/pull/136",
+      "createdAt": "2026-10-16T04:21:39Z"
     },
     {
-      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
-      "url": "https://github.com/jsboige/CoursIA/pull/20377",
-      "createdAt": "2026-10-11T14:10:17Z"
-    },
-    {
-      "title": "Review C-37/C-38/C-43 and remove broken daily report",
-      "url": "https://github.com/hiephnp-oos/Second-Brain/pull/171",
-      "createdAt": "2026-10-16T03:26:51Z"
-    },
-    {
-      "title": "[TRTLLM-16780][feat] Honor per-request seeds in one-model speculative decoding's acceptance step",
-      "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/20147",
-      "createdAt": "2026-10-12T08:48:28Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/kairos-io/AuroraBoot/pull/926",
+      "createdAt": "2026-10-08T04:23:24Z"
     }
   ]
 }
