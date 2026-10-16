@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T07:37:59.197Z",
-  "latencyMs": 1257,
+  "executedAt": "2026-10-16T07:39:55.557Z",
+  "latencyMs": 926,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #98: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #99: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
-      "url": "https://github.com/jsboige/CoursIA/pull/20377",
-      "createdAt": "2026-10-11T14:10:17Z"
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "feat(ads): admob adapter",
+      "url": "https://github.com/RevenueCat/purchases-flutter/pull/1946",
+      "createdAt": "2026-10-11T19:49:28Z"
+    },
+    {
+      "title": "fuzz: Add libFuzzer invariant fuzz target for auction bidding, anti-sniping, and settlements",
+      "url": "https://github.com/Fidelis900/soroban-starter-kit/issues/1207",
+      "createdAt": "2026-09-22T06:58:11Z"
     },
     {
       "title": "SESSION-NOAPPROVE: no token approve in the session (P-65)",
@@ -280,19 +285,14 @@
       "createdAt": "2026-10-16T07:13:23Z"
     },
     {
-      "title": "Roadmap: Black Anvil network rollout",
-      "url": "https://github.com/LegendofKEK/bichael/issues/341",
-      "createdAt": "2026-10-16T02:23:31Z"
+      "title": "fix(p2p): keep the established dht identity instead of replacing it at runtime",
+      "url": "https://github.com/33cn/chain33/pull/1408",
+      "createdAt": "2026-10-16T05:39:48Z"
     },
     {
-      "title": "chore(hosts): remove the Meld on-ramp and the Android fund module",
-      "url": "https://github.com/paritytech/trinity-user-agents/pull/1332",
-      "createdAt": "2026-10-08T09:06:25Z"
-    },
-    {
-      "title": "refactor: move speculative verification sampling into the rejection sampler.",
-      "url": "https://github.com/xLLM-AI/xllm/pull/2498",
-      "createdAt": "2026-10-16T06:08:03Z"
+      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
+      "url": "https://github.com/jsboige/CoursIA/pull/20377",
+      "createdAt": "2026-10-11T14:10:17Z"
     }
   ]
 }
