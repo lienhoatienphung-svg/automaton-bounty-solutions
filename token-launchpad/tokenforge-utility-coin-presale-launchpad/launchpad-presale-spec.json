@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T06:44:30.645Z",
-  "latencyMs": 265,
+  "executedAt": "2026-10-16T06:48:57.352Z",
+  "latencyMs": 445,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #81: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #82: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52671861,
+    "liveBlockNumber": 52671994,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458992,
-    "baseMainnetTopPoolsVolume24hUsd": 231435,
+    "baseMainnetTopPoolsVolume24hUsd": 230686,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4MmUFLyXiMtAcJaE7jqbSowTsqDAcM8Uc95q9czSpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4mmuflyximtacjae7jqbsowtsqdacm8uc95q9czspump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3JjudqkVUTaqmmNeiiiVrcGzDEqzLDRo9ivMMHcWpump",
@@ -51,12 +57,6 @@
         "tokenAddress": "0x8953e3D1674CaCF330aCc81C35D945C7bADEDe49",
         "description": "Doge Pepe will run on Robinhood.\nThe empire is coming.\nFrom memes to the moon",
         "url": "https://dexscreener.com/robinhood/0x8953e3d1674cacf330acc81c35d945c7badede49"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6US32XFjLauSjfvd4tWu5u1F6aSP5zd6HnUc4TSppump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6us32xfjlausjfvd4twu5u1f6asp5zd6hnuc4tsppump"
       },
       {
         "chainId": "solana",
