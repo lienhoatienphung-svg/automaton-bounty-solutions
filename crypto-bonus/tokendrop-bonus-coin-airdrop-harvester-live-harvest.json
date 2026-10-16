@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T22:14:10.017Z",
-  "latencyMs": 1045,
+  "executedAt": "2026-10-16T22:15:39.218Z",
+  "latencyMs": 664,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #330: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
+  "workTitle": "Delivery Sprint #331: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,53 +217,68 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 736,
-      "priceBtc": 3.1735449427634997e-7
+      "marketCapRank": 713,
+      "priceBtc": 3.24090586092e-7
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 106,
+      "priceBtc": 0.00002101752406172197
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.0000613977100894573
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 105,
-      "priceBtc": 0.000021078003389022895
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.245746846272887e-8
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010544384603628043
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 84,
-      "priceBtc": 0.000010799061637449638
-    },
-    {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.613325311386301e-8
+      "priceBtc": 0.00006160500427499463
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.013991190775873958
+      "priceBtc": 0.014005141886600967
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9997092072611387
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010537827625150844
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 614,
+      "priceBtc": 0.0014206556309750715
+    },
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 49,
+      "priceBtc": 5.71424559799421e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "fix(deps): update dependency lucide to v1.58.0",
+      "url": "https://github.com/airscripts/awesome-steam-deck/pull/68",
+      "createdAt": "2026-09-12T01:12:20Z"
+    },
+    {
+      "title": "feat(growth): User Referral Leaderboard with monthly prize pools and bonus rewards",
+      "url": "https://github.com/FinesseStudioLab/Trivela/issues/1275",
+      "createdAt": "2026-09-24T02:41:24Z"
+    },
+    {
+      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
+      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
+      "createdAt": "2026-10-09T07:30:01Z"
+    },
     {
       "title": "Header: Tock turns the valve to open the Nickel Faucet",
       "url": "https://github.com/caaconwinner/RSN/pull/2",
@@ -278,21 +293,6 @@
       "title": "\"eat some food\" action",
       "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
       "createdAt": "2026-10-07T03:48:40Z"
-    },
-    {
-      "title": "feat(growth): Campaign Co-Funding & Crowdfunded Prize Pool module",
-      "url": "https://github.com/FinesseStudioLab/Trivela/issues/1287",
-      "createdAt": "2026-09-24T02:42:18Z"
-    },
-    {
-      "title": "fix(deps): update frontend core",
-      "url": "https://github.com/AutoGitr/Overture/pull/17",
-      "createdAt": "2026-10-16T21:38:54Z"
-    },
-    {
-      "title": "[BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structured comment",
-      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4",
-      "createdAt": "2026-03-27T00:55:42Z"
     }
   ]
 }
