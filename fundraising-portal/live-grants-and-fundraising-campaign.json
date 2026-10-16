@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T06:33:56.566Z",
-  "latencyMs": 811,
+  "executedAt": "2026-10-16T06:37:04.523Z",
+  "latencyMs": 631,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #61: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #62: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "Build VibeCast.tv bootstrap with isolated CI and guarded Pages delivery",
-          "url": "https://github.com/pcvantol/djconnect-vibecast-receiver/pull/17",
-          "repositoryUrl": "https://api.github.com/repos/pcvantol/djconnect-vibecast-receiver",
-          "updatedAt": "2026-10-16T06:33:53Z"
-        },
-        {
-          "title": "Connect an AI app to a workspace over a remote MCP endpoint",
-          "url": "https://github.com/desktopmachineshop/OpenV/pull/655",
-          "repositoryUrl": "https://api.github.com/repos/desktopmachineshop/OpenV",
-          "updatedAt": "2026-10-16T06:33:50Z"
-        },
-        {
-          "title": "[WIP][#106] Phase 2 owner golden custody + parallel-anchor read-only claims + safe path-length foundations",
-          "url": "https://github.com/reallakshman19/XML_Compare_Utilities/pull/107",
-          "repositoryUrl": "https://api.github.com/repos/reallakshman19/XML_Compare_Utilities",
-          "updatedAt": "2026-10-16T06:33:49Z"
-        },
-        {
-          "title": "SPEC: canonical 検証のスループット — ホスト単一 lease の直列化で 12 窓が数時間待つ状態を N 並列で解消する（lease family の owner）",
-          "url": "https://github.com/akiojin/gwt/issues/5082",
-          "repositoryUrl": "https://api.github.com/repos/akiojin/gwt",
-          "updatedAt": "2026-10-16T06:33:52Z"
-        },
-        {
-          "title": "AGY-4: init prints and doctor checks the agy permissions.allow and permissions.deny entries",
-          "url": "https://github.com/choughton/llm-handoff/pull/62",
-          "repositoryUrl": "https://api.github.com/repos/choughton/llm-handoff",
-          "updatedAt": "2026-10-16T06:33:48Z"
-        },
-        {
-          "title": "chore: version packages",
-          "url": "https://github.com/ksaurav24/valve/pull/84",
-          "repositoryUrl": "https://api.github.com/repos/ksaurav24/valve",
-          "updatedAt": "2026-10-16T06:33:48Z"
-        },
-        {
-          "title": "GC Treasury — jw10678-o087 (NIRCam)",
-          "url": "https://github.com/JWST-GC/data-qa/issues/331",
-          "repositoryUrl": "https://api.github.com/repos/JWST-GC/data-qa",
-          "updatedAt": "2026-10-16T06:33:48Z"
-        },
-        {
-          "title": "[POLICY v3.2][DEV AGENT HARNESS] E2E Continuous Execution, Checkpoints & Delegated BALLOT",
-          "url": "https://github.com/boxs-51/assistant/issues/551",
-          "repositoryUrl": "https://api.github.com/repos/boxs-51/assistant",
-          "updatedAt": "2026-10-16T06:33:47Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
@@ -77,7 +28,7 @@
       "liveInvestorAndCrowdfundingSignals": []
     }
   },
-  "publishedFundingYmlUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/.github/FUNDING.yml",
+  "publishedFundingYmlUrl": null,
   "publishedPortalUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/fundraising-portal/SUPPORT_AND_INVEST_PORTAL.md",
   "publishedVaultContractUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/fundraising-portal/SovereignCrowdfundingAndPatronVault.sol"
 }
