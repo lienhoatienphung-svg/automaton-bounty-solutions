@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T06:37:48.811Z",
-  "latencyMs": 374,
+  "executedAt": "2026-10-16T06:43:43.964Z",
+  "latencyMs": 419,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #79: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #80: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52671660,
+    "liveBlockNumber": 52671838,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458992,
-    "baseMainnetTopPoolsVolume24hUsd": 230851,
+    "baseMainnetTopPoolsVolume24hUsd": 231634,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3JjudqkVUTaqmmNeiiiVrcGzDEqzLDRo9ivMMHcWpump",
+        "description": "he might be sit but he still pretty fly. \nInspired by Nikola. Paired holder rewards with TSLAx",
+        "url": "https://dexscreener.com/solana/3jjudqkvutaqmmneiiivrcgzdeqzldro9ivmmhcwpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DjrijJNopHheVub1JdtJ7snqHS55kNY6kC5HNViTpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "TB6QtGti9j2zadAryKYKCm7tX1zVvTH4ZQcoXd9pump",
         "description": "The roadster has been years in the making, and it’s finally made its debut. This is a new era, so our goals must change… our mentality must change.\nNo Risk… No ",
         "url": "https://dexscreener.com/solana/tb6qtgti9j2zadarykykcm7tx1zvvth4zqcoxd9pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x7920726344F85781aaAeF846232A28ccef0a21e4",
-        "description": "Small creature. Big energy. ⚡\n\nMeet VoltPangolin ($VPANG) — a golden, battery-scaled pangolin with electric-blue vibes and a fully charged sense of humor.\n\nMark",
-        "url": "https://dexscreener.com/robinhood/0x7920726344f85781aaaef846232a28ccef0a21e4"
       }
     ]
   },
