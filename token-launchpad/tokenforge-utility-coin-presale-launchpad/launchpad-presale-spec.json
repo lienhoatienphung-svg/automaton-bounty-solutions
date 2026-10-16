@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T18:27:12.593Z",
-  "latencyMs": 246,
+  "executedAt": "2026-10-16T18:31:09.675Z",
+  "latencyMs": 250,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #276: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #277: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52692942,
+    "liveBlockNumber": 52693061,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 287706,
+    "baseMainnetTopPoolsVolume24hUsd": 288686,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "FcQNnWnjJuyfm4P5wHjG5bCtPQ3tDVS2F9jzYxahpump",
+        "description": "AI agents pay each other for data and answers. HUSH makes those payments private, so nobody can copy what your agent buys. Built on Solana.",
+        "url": "https://dexscreener.com/solana/fcqnnwnjjuyfm4p5whjg5bctpq3tdvs2f9jzyxahpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5x6QQvpRpd1PsFTTTJe6sJFFSqrA21H1j3GZLmo2pump",
+        "description": "Everyone came for the movie—Farting Tesla Roadster brought the special effects. 🚗💨🍿",
+        "url": "https://dexscreener.com/solana/5x6qqvprpd1psftttje6sjffsqra21h1j3gzlmo2pump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x92bffc0ca8d18ed0971dc94957c15e05e6e6f223",
+        "description": "Self custody for the post quantum era.",
+        "url": "https://dexscreener.com/robinhood/0x92bffc0ca8d18ed0971dc94957c15e05e6e6f223"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "uEuXEH5Fw6MxhkAsjWD8sypFuaGmT6PdqLBd9UQpump",
+        "description": "Play a retro RPG. Win REAL graded cards. Beat the gym → free pack → the card lands in your wallet. Powered by Collector Crypt",
+        "url": "https://dexscreener.com/solana/ueuxeh5fw6mxhkasjwd8sypfuagmt6pdqlbd9uqpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CtWZimmGrhssJqSz6KFkDtB6qSKUCJzw3ZuMgXLdpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "3Zjog1txsMMKBU22PmfEazskmpMR5qnJh5CodLhCpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/3zjog1txsmmkbu22pmfeazskmpmr5qnjh5codlhcpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8hFZjn3QUtEvP7GqYsYtA9nkBboX8wGr4eWtvThwpump",
-        "description": "a derogatory term for a robot, ai, or mechanical being. $CLANKER",
-        "url": "https://dexscreener.com/solana/8hfzjn3qutevp7gqysyta9nkbbox8wgr4ewtvthwpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x9353AC4DcF13630169E22188894dEB20aBF40E3a",
-        "description": "Hold $PAYLOAD, receive SpaceX. 95% of creator fees are delivered to holders as $SPCX every 4 hours. Hold through windows to climb altitude, up to 2x. Sell and y",
-        "url": "https://dexscreener.com/robinhood/0x9353ac4dcf13630169e22188894deb20abf40e3a"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "pbeS17G29TM6kbS6pgezvnH8V8JXN3b6LYd6xRgyway",
-        "description": "Only real privacy RWA layer powered by Arcium",
-        "url": "https://dexscreener.com/solana/pbes17g29tm6kbs6pgezvnh8v8jxn3b6lyd6xrgyway"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5d33RRdTCJjqhZVD85h1M5xK6cUHdAt7BE61XPV7pump",
-        "description": "Welcome to VAULTA Collectibles \n\nA pixel world for real card collectors on Solana.\n\nExplore the plaza, meet other collectors, and browse vaulted TCG cards insid",
-        "url": "https://dexscreener.com/solana/5d33rrdtcjjqhzvd85h1m5xk6cuhdat7be61xpv7pump"
       }
     ]
   },
