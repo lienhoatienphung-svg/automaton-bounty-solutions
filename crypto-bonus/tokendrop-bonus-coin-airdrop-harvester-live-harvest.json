@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T15:05:15.637Z",
-  "latencyMs": 865,
+  "executedAt": "2026-10-16T15:11:31.574Z",
+  "latencyMs": 925,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #227: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #228: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,50 +217,50 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 773,
-      "priceBtc": 2.850758044130891e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 610,
-      "priceBtc": 0.0014381397836945784
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 95,
-      "priceBtc": 0.000008716785262308665
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 104,
-      "priceBtc": 0.000021754564186234815
+      "marketCapRank": 802,
+      "priceBtc": 2.741145671053465e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00011018476352530606
+      "priceBtc": 0.00010959026987287635
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 97,
+      "priceBtc": 0.00000860385144084745
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 610,
+      "priceBtc": 0.0014430075356998034
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.00002184691604713449
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.374740783040693e-8
+      "priceBtc": 9.363611242113151e-8
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 34,
-      "priceBtc": 0.003493485484957661
+      "priceBtc": 0.003480472628267219
     },
     {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "marketCapRank": 86,
-      "priceBtc": 0.000026410181247997255
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.0012866898960548609
     }
   ],
   "activeAirdropAndFaucetQuests": [
@@ -270,29 +270,29 @@
       "createdAt": "2026-10-14T08:11:56Z"
     },
     {
-      "title": "fix: sequential UI, security, API and partial financial safeguards v2026.10.15.639",
-      "url": "https://github.com/wtrdd1-hash/Woldeok-Moneyverse-Migration/pull/844",
-      "createdAt": "2026-10-15T01:35:37Z"
+      "title": "SF-010: live upgrade-security and browser wallet acceptance on testnet",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/70",
+      "createdAt": "2026-10-15T06:19:09Z"
     },
     {
-      "title": "fix(deps): update all non-major dependencies",
-      "url": "https://github.com/dsm23/dsm23-svelte-kit-template/pull/1758",
-      "createdAt": "2026-08-07T00:26:22Z"
+      "title": "feat: moderate commits with Jev rules",
+      "url": "https://github.com/nunomaduro/dev-null.sh/pull/125",
+      "createdAt": "2026-10-15T17:48:05Z"
     },
     {
-      "title": "Refactor app architecture and modernize codebase",
-      "url": "https://github.com/Kazuto-dev/thesismob/pull/4",
-      "createdAt": "2026-10-09T07:22:31Z"
+      "title": "feat!: add Tron support and replace walletAddress with activeWallet",
+      "url": "https://github.com/0xsequence/swift-sdk/pull/49",
+      "createdAt": "2026-10-08T11:07:16Z"
     },
     {
-      "title": "[UI/UX] Simplify post-E2E payable review and assessment results",
-      "url": "https://github.com/habrahgithub/swd-tameion-assured-payments/pull/72",
-      "createdAt": "2026-10-14T17:35:36Z"
+      "title": "fix(send): localize the pending onchain warning, plus three drive-bys",
+      "url": "https://github.com/arkade-os/wallet/pull/1077",
+      "createdAt": "2026-10-16T12:45:28Z"
     },
     {
-      "title": "feat(web): one greyed style for missing items and bosses, no image backdrops",
-      "url": "https://github.com/kqesar/alltp-tracker/pull/179",
-      "createdAt": "2026-10-16T15:03:06Z"
+      "title": "Add professional in-app bank onboarding with secure SimpleFIN authorization",
+      "url": "https://github.com/load66/bonus-tracker/pull/86",
+      "createdAt": "2026-10-16T15:07:04Z"
     }
   ]
 }
