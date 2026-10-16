@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T17:37:30.490Z",
-  "latencyMs": 1570,
+  "executedAt": "2026-10-16T17:38:36.082Z",
+  "latencyMs": 874,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #268: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #269: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "📦 Pending promotion: dev → main",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
+      "createdAt": "2026-06-29T11:18:37Z"
+    },
+    {
       "title": "fix: move all agent paths to /v1/agents/* and parse nested agent.api_key",
       "url": "https://github.com/Deva-me-AI/mcp-server/pull/9",
       "createdAt": "2026-10-16T16:39:11Z"
@@ -288,11 +293,6 @@
       "title": "fix(web-client): hold the store lock for every chain MMR writer",
       "url": "https://github.com/0xMiden/web-sdk/pull/482",
       "createdAt": "2026-10-16T13:02:21Z"
-    },
-    {
-      "title": "TASK: newcomer cold-start test",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/2",
-      "createdAt": "2026-10-03T18:39:14Z"
     }
   ]
 }
