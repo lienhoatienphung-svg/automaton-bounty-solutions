@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T16:18:10.810Z",
-  "latencyMs": 800,
+  "executedAt": "2026-10-16T16:21:38.760Z",
+  "latencyMs": 918,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #247: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #248: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(templates): validate and recover contract funds",
-      "url": "https://github.com/soroban-forge-labs/soroban-forge/pull/566",
-      "createdAt": "2026-10-16T16:17:48Z"
+      "title": "ENG-2448 ENG-2402 ENG-2401: preserve skill installs and npm releases",
+      "url": "https://github.com/radiustechsystems/tools/pull/79",
+      "createdAt": "2026-10-16T16:01:31Z"
     },
     {
-      "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
-      "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
-      "createdAt": "2026-10-09T09:52:33Z"
+      "title": "fix(server): stabilize reorg recovery verification",
+      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/388",
+      "createdAt": "2026-10-16T16:20:58Z"
+    },
+    {
+      "title": "Add kv-cache-pruning-sglang",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/14",
+      "createdAt": "2026-09-22T07:01:10Z"
+    },
+    {
+      "title": "AI-generated implementations for DaCe library nodes",
+      "url": "https://github.com/spcl/dace/pull/2557",
+      "createdAt": "2026-09-07T07:37:21Z"
+    },
+    {
+      "title": "Feegrant: when my OperatorAuthorization include feegrant...",
+      "url": "https://github.com/norahmou/Support/issues/6",
+      "createdAt": "2026-10-16T16:20:34Z"
     },
     {
       "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
       "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
       "createdAt": "2026-10-15T12:16:48Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "Qwen3.5 to 3.8 dense support (9B first)",
-      "url": "https://github.com/tpurtell/cuteafd/issues/276",
-      "createdAt": "2026-10-15T06:49:05Z"
-    },
-    {
-      "title": "fix: stock drop external audit findings (Halborn H36–H53)",
-      "url": "https://github.com/moonwell-fi/mamo-contracts/pull/117",
-      "createdAt": "2026-10-16T15:59:11Z"
     }
   ]
 }
