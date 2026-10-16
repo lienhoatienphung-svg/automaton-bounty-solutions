@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T14:32:26.613Z",
-  "latencyMs": 1278,
+  "executedAt": "2026-10-16T14:33:18.297Z",
+  "latencyMs": 1159,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #218: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #219: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Convert `dng` to `jpeg` before upload",
+      "url": "https://github.com/Expensify/App/pull/102057",
+      "createdAt": "2026-09-23T12:14:26Z"
+    },
+    {
       "title": "fix(deps): update dependency lucide-react to v1.50.0",
       "url": "https://github.com/SterlingJF/ce-pattern-kit/pull/13",
       "createdAt": "2026-10-05T06:02:44Z"
@@ -288,11 +293,6 @@
       "title": "chore(hosts): remove the Meld on-ramp and the Android fund module",
       "url": "https://github.com/paritytech/trinity-user-agents/pull/1332",
       "createdAt": "2026-10-08T09:06:25Z"
-    },
-    {
-      "title": "LND: qualify Taproot Assets mint, transfer, and RFQ payments on signet",
-      "url": "https://github.com/OpenAgentsInc/openagents/issues/11863",
-      "createdAt": "2026-10-16T12:03:26Z"
     }
   ]
 }
