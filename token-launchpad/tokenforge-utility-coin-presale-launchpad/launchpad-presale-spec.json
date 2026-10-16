@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T02:52:55.039Z",
-  "latencyMs": 541,
+  "executedAt": "2026-10-16T02:58:23.609Z",
+  "latencyMs": 383,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #11: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #12: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52664913,
+    "liveBlockNumber": 52665078,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 245008,
+    "baseMainnetTopPoolsVolume24hUsd": 243108,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xd4986f21f8BD939D4C1aB413916E777F6Cf47de4",
+        "description": "Flying Tesla Roadster",
+        "url": "https://dexscreener.com/robinhood/0xd4986f21f8bd939d4c1ab413916e777f6cf47de4"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "TB6QtGti9j2zadAryKYKCm7tX1zVvTH4ZQcoXd9pump",
+        "description": "No risk, no roadster.",
+        "url": "https://dexscreener.com/solana/tb6qtgti9j2zadarykykcm7tx1zvvth4zqcoxd9pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HL8QfkRjinVcSDAPUVRjfk1Xe2CgS8A3CAtTxxyxpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "4auAZ2EVgAn53sLFpPgiyRpaiNgp65FtpqgdCQJQpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/4auaz2evgan53slfppgiyrpaingp65ftpqgdcqjqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6BbFopQe5GTJGvkb1VuwRs3RaMTgxfLJuz7UBHwpXixV",
-        "description": "The official $GRDNT token for the Gradient launchpad.",
-        "url": "https://dexscreener.com/solana/6bbfopqe5gtjgvkb1vuwrs3ramtgxfljuz7ubhwpxixv"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x9994Bfa979179aF4BB0fbcD7f2dF0D20a86637dE",
-        "description": "bankers in control.",
-        "url": "https://dexscreener.com/robinhood/0x9994bfa979179af4bb0fbcd7f2df0d20a86637de"
       }
     ]
   },
