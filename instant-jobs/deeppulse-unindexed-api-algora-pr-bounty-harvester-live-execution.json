@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-16T14:59:04.008Z",
-  "latencyMs": 723,
+  "executedAt": "2026-10-16T14:59:40.816Z",
+  "latencyMs": 566,
   "companyName": "DeepPulse Unindexed API & Algora PR Bounty Harvester",
   "workTitle": "Delivery Sprint #683: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetUrl": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2500523,
-        "liquidityUsd": 24748,
+        "liquidityUsd": 24249,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2171434,
-        "liquidityUsd": 93691,
+        "liquidityUsd": 89261,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059853,
-        "liquidityUsd": 868,
+        "liquidityUsd": 859,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -62,7 +62,7 @@
     ]
   },
   "crossDexArbitrageDesk": {
-    "basePoolsScanned": 11,
+    "basePoolsScanned": 12,
     "wethMaxSpreadBps": 0,
     "topLiquidPools": [
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00011,
         "liquidityUsd": 21385,
-        "volume24hUsd": 99900,
+        "volume24hUsd": 99837,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
