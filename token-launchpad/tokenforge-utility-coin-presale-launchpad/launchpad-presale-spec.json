@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T18:37:56.587Z",
-  "latencyMs": 506,
+  "executedAt": "2026-10-16T18:39:08.121Z",
+  "latencyMs": 253,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #278: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #279: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52693264,
+    "liveBlockNumber": 52693300,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 289248,
+    "baseMainnetTopPoolsVolume24hUsd": 289141,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xcf9aaca9b71b383046b01090c88317e593e032f3",
+        "description": "Peer-to-peer lending against Stock Tokens on Robinhood Chain. Borrow USDG without selling, or lend at a rate you set. Every loan settles on-chain.",
+        "url": "https://dexscreener.com/robinhood/0xcf9aaca9b71b383046b01090c88317e593e032f3"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DPv2NrsFCqMpBP1qPtTkdAPsaxjV7fsLhQyQv767pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/dpv2nrsfcqmpbp1qpttkdapsaxjv7fslhqyqv767pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2gMueg9hHaqxHLubCgDFXjJ6ayhgmXWPLuoPwvNPbonk",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x92bffc0ca8d18ed0971dc94957c15e05e6e6f223",
         "description": "Self custody for the post quantum era.",
         "url": "https://dexscreener.com/robinhood/0x92bffc0ca8d18ed0971dc94957c15e05e6e6f223"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "uEuXEH5Fw6MxhkAsjWD8sypFuaGmT6PdqLBd9UQpump",
-        "description": "Play a retro RPG. Win REAL graded cards. Beat the gym → free pack → the card lands in your wallet. Powered by Collector Crypt",
-        "url": "https://dexscreener.com/solana/ueuxeh5fw6mxhkasjwd8sypfuagmt6pdqlbd9uqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CtWZimmGrhssJqSz6KFkDtB6qSKUCJzw3ZuMgXLdpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ctwzimmgrhssjqsz6kfkdtb6qskucjzw3zumgxldpump"
       }
     ]
   },
