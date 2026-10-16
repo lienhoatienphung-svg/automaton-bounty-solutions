@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T13:08:17.231Z",
-  "latencyMs": 2257,
+  "executedAt": "2026-10-16T13:14:19.468Z",
+  "latencyMs": 1338,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #197: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #198: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "8xDiE7TYxmmS3ZTeR8y7L6xSrG5WTGTnrDUvSkQ2pump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Jean Cul (CUL) is a meme token launched on the Solana blockchain.\n\nInspired by internet meme culture, Jean Cul brings humor, creativity, and entertainment to th",
+      "url": "https://dexscreener.com/solana/8xdie7tyxmms3zter8y7l6xsrg5wtgtnrduvskq2pump"
+    },
+    {
       "chainId": "bsc",
       "tokenAddress": "0x7D0443CdDFc8E11AF105F4fE44Dd28c630237777",
       "boostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "meme + coin = moin.\n\nmemecoins were never about the 'tek' or a new useless launchpad, they were about memes!\n\nthe thesis is simple.\n\nhold something as stupid as",
       "url": "https://dexscreener.com/solana/8dxqvuopcdvilvujtcpweqkkzb43arp6e1axzsee5btq"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Dinky is a real duck with an extraordinary story. Born with wry neck, a condition that leaves his head permanently tilted, he's captured millions of hearts with",
-      "url": "https://dexscreener.com/solana/3yncesdqhsgvsd4aarhc4rdqxpjyw9cwjosh82hnpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,9 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(symbiotic): add vault, RFQ, rewards and V2 curator descriptors",
-      "url": "https://github.com/ethereum/clear-signing-erc7730-registry/pull/2990",
-      "createdAt": "2026-09-14T20:59:24Z"
+      "title": "[SC-018] Sybil Resistance Staking Contract with Multi-Chain Proof Validation",
+      "url": "https://github.com/StellarDevHub/Web3-Student-Lab/issues/1639",
+      "createdAt": "2026-10-14T17:17:15Z"
+    },
+    {
+      "title": "📦 Pending promotion: dev → main",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
+      "createdAt": "2026-06-29T11:18:37Z"
+    },
+    {
+      "title": "Add the vision-encoder-objective task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/84",
+      "createdAt": "2026-10-14T17:20:01Z"
+    },
+    {
+      "title": "Automate Drop Forge launch and durable EMMA processing",
+      "url": "https://github.com/6529-Collections/6529seize-backend/pull/2143",
+      "createdAt": "2026-10-09T09:31:34Z"
     },
     {
       "title": "fix(deps): update dependency lucide-react to v1",
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-16T01:48:52Z"
     },
     {
-      "title": "feat(products): fundtest, a Paseo funding provider the testnet apps bundle",
-      "url": "https://github.com/paritytech/trinity-user-agents/pull/1402",
-      "createdAt": "2026-10-14T08:11:56Z"
-    },
-    {
-      "title": "Pay the kiosk's tips on-chain from 50K sats",
-      "url": "https://github.com/OogaBoogaX/oogaboogaland/pull/218",
-      "createdAt": "2026-10-16T13:03:37Z"
-    },
-    {
-      "title": "Showcase: Homestead district (plan 4)",
-      "url": "https://github.com/lorecrafting/lokacore/pull/407",
-      "createdAt": "2026-10-16T11:04:17Z"
-    },
-    {
-      "title": "fix(reward): isolate hostile recipients in batch payouts (SC-051)",
-      "url": "https://github.com/DigiNodes/truthbounty-contract/pull/789",
-      "createdAt": "2026-10-16T13:01:36Z"
+      "title": "Add EMMA processing and Craft Launch/Update Claim controls",
+      "url": "https://github.com/6529-Collections/6529seize-frontend/pull/4207",
+      "createdAt": "2026-10-09T09:31:42Z"
     }
   ]
 }
