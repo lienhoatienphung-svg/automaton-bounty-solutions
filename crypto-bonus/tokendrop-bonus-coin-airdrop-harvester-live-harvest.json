@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T22:47:00.009Z",
-  "latencyMs": 1043,
+  "executedAt": "2026-10-16T22:56:13.439Z",
+  "latencyMs": 1210,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #337: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #338: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,50 +217,50 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 709,
-      "priceBtc": 3.2619120638399997e-7
+      "marketCapRank": 650,
+      "priceBtc": 3.7703211818304e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 105,
-      "priceBtc": 0.000021076698157549323
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010634199484332884
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.258711580268131e-8
-    },
-    {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.737011170743282e-8
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 37,
-      "priceBtc": 0.002462972781756265
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 615,
-      "priceBtc": 0.0014143436509463456
+      "marketCapRank": 104,
+      "priceBtc": 0.000021250347589481223
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006202566714699077
+      "priceBtc": 0.0000621706469087882
+    },
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 49,
+      "priceBtc": 5.688655337110973e-8
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 37,
+      "priceBtc": 0.002452111009379733
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 109,
+      "priceBtc": 8.923047669491623e-7
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010633629376737023
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 614,
+      "priceBtc": 0.0014202807617334525
     }
   ],
   "activeAirdropAndFaucetQuests": [
@@ -270,29 +270,29 @@
       "createdAt": "2026-10-15T20:29:24Z"
     },
     {
-      "title": "feat(web): testnet faucets, network badge, PAGES_NOTICE switch, new-build prompt and honest prices",
-      "url": "https://github.com/PastaPastaPasta/dash-forge/pull/510",
-      "createdAt": "2026-10-16T22:32:48Z"
+      "title": "Phase 2a: bounded caches + boot/soak bench tooling",
+      "url": "https://github.com/WERSIT35/Provider/pull/93",
+      "createdAt": "2026-10-16T22:55:35Z"
     },
     {
-      "title": "feat: Reduce Motion, rolling digits, haptic on open, AirDrop from the shelf",
-      "url": "https://github.com/GcdZ03/CreativeNotch/pull/26",
-      "createdAt": "2026-10-16T22:46:14Z"
-    },
-    {
-      "title": "fix(deps): update frontend core",
-      "url": "https://github.com/AutoGitr/Overture/pull/17",
-      "createdAt": "2026-10-16T21:38:54Z"
-    },
-    {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
-    },
-    {
-      "title": "fix(registry): resolve the system vault and PoS through legacy and F1r3fly aliases",
+      "title": "fix(registry): restore the legacy vault and PoS shorthands and add F1r3fly aliases",
       "url": "https://github.com/F1R3FLY-io/f1r3node-rust/pull/733",
       "createdAt": "2026-10-15T16:41:58Z"
+    },
+    {
+      "title": "test(xrpl): reach every reader with untrusted input",
+      "url": "https://github.com/justmoon/dassie/pull/104",
+      "createdAt": "2026-10-16T22:53:49Z"
+    },
+    {
+      "title": "feat(nemo_gym): per-group rollout-metrics hook and union-of-fields agent metrics",
+      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4448",
+      "createdAt": "2026-10-03T04:53:13Z"
+    },
+    {
+      "title": "Add a test that claiming the same index twice does not flip extra bitmap bits",
+      "url": "https://github.com/Soroban-Cookbook/Soroban_Cookbook_online/issues/1189",
+      "createdAt": "2026-10-16T22:54:23Z"
     }
   ]
 }
