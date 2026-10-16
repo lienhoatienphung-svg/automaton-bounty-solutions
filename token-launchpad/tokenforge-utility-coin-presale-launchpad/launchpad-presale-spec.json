@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T10:44:23.797Z",
-  "latencyMs": 419,
+  "executedAt": "2026-10-16T10:46:25.729Z",
+  "latencyMs": 250,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #152: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #153: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52679058,
+    "liveBlockNumber": 52679119,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 311086,
+    "baseMainnetTopPoolsVolume24hUsd": 310384,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Aq8Jdz2m4VdaWqC7EFJ1bsS1wZfUy9su3WNJWBdzpump",
+        "description": "Ira, a 20-year-old female orangutan, is going viral after surviving the wildfires in Central Kalimantan, Indonesia.\n\nSending 100% of the creator fees to Orangut",
+        "url": "https://dexscreener.com/solana/aq8jdz2m4vdawqc7efj1bss1wzfuy9su3wnjwbdzpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "AaLefSSGaKvQ4dwzj2z72SH1V6bXBQJMzumaGMRnpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/aalefssgakvq4dwzj2z72sh1v6bxbqjmzumagmrnpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3kJrh7qS2kGNQGJki1196j9GBp8uEgqNx1iTUfsjpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0xf3F6c29bDB0f9125921C1E4d32e88c6C6dB17777",
         "description": "🇨🇳🐱 Dorito Ear Cat——China's Explosive AI Feline Sensation, Total Views Across the Web Surpass 2.2 Billion!\n\nBefore Dorito Ear Cat went viral, Chinese interne",
         "url": "https://dexscreener.com/bsc/0xf3f6c29bdb0f9125921c1e4d32e88c6c6db17777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DBHbh97znAUMwufxKBTKcsvusJQQ17x8b8bEVzmgpump",
-        "description": "Launch a coin paired against a pumpfun runner instead of SOL. Buying the beta means buying the runner, and a cut of every trade goes back to beta holders in the",
-        "url": "https://dexscreener.com/solana/dbhbh97znaumwufxkbtkcsvusjqq17x8b8bevzmgpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CaGJEqcDsyUrQuCZcHQmMkMKjzyb4VRewC8GPiv3pump",
-        "description": "mine the belt, build your ship, dock it and cash out in SOL",
-        "url": "https://dexscreener.com/solana/cagjeqcdsyurquczchqmmkmkjzyb4vrewc8gpiv3pump"
       }
     ]
   },
