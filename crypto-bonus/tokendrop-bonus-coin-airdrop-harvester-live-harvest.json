@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T11:16:20.093Z",
-  "latencyMs": 840,
+  "executedAt": "2026-10-16T11:21:23.615Z",
+  "latencyMs": 721,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #163: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #164: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "5rB2Z8xPrUGX75mL8Q7BZLjdKFtzaJYHhtPKMazSpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Walk a loop.\nOwn the land.\nEarn $GRAB.",
+      "url": "https://dexscreener.com/solana/5rb2z8xprugx75ml8q7bzljdkftzajyhhtpkmazspump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "1EwcGE6WrssiY2sKSadB5E5DE9WhPDQvBC6kev1EDGE",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "GRAVI is the token of GraviFi: index baskets of tokenized stocks, crypto and memecoins on Solana, each held as one token in your own wallet. Every basket mint a",
       "url": "https://dexscreener.com/solana/trgnternbrtvkamj1mqu4dzsekhrtd2qfesh6rgravi"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x9A7C661Be578e50927268fb770146D701b3368e7",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "INVARA Core is building infrastructure for synthetic equities on Robinhood Chain, connecting traditional market intelligence with on-chain execution.",
-      "url": "https://dexscreener.com/robinhood/0x9a7c661be578e50927268fb770146d701b3368e7"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "test(functional): cover community token mint, airdrop, and burn",
-      "url": "https://github.com/status-im/status-go/pull/7942",
-      "createdAt": "2026-10-15T09:09:13Z"
+      "title": "LND: qualify remote signing and SCB recovery on signet",
+      "url": "https://github.com/OpenAgentsInc/openagents/issues/11862",
+      "createdAt": "2026-10-16T11:21:15Z"
     },
     {
-      "title": "[Slurm] Support REST API versions and recover completed jobs",
-      "url": "https://github.com/NVIDIA/cloudai/pull/1099",
-      "createdAt": "2026-10-15T10:23:09Z"
+      "title": "# Spike 673 — Edition management with numbered editions, artist proofs and supply modes",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/536",
+      "createdAt": "2026-10-15T11:12:09Z"
     },
     {
-      "title": "chore(deps): update dependency lucide-react to v1.58.0",
-      "url": "https://github.com/KasumiMercury/tag-crucible/pull/100",
-      "createdAt": "2026-05-28T15:01:52Z"
+      "title": "# Spike 674 — Collaborative drops with automatic N-way revenue splits at settle",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/537",
+      "createdAt": "2026-10-15T11:12:33Z"
     },
     {
-      "title": "Add 200 GP to the crown purses on every check-in, and give the doctor an ECONOMY block",
-      "url": "https://github.com/AuthorOfTheSurf/pintakasi-bloodlines/pull/27",
-      "createdAt": "2026-10-16T11:14:35Z"
+      "title": "# Spike 672 — Timed drops with countdown plus server-authoritative anti-bot queue lobby",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/535",
+      "createdAt": "2026-10-15T11:11:31Z"
     },
     {
-      "title": "chore(deps): update dependency lucide-react to v1.58.0",
-      "url": "https://github.com/layertwo/groundwork/pull/182",
-      "createdAt": "2026-06-12T19:51:21Z"
+      "title": "# Spike 675 — Dutch auction drops with descending-price primary mint",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/538",
+      "createdAt": "2026-10-15T11:13:10Z"
     },
     {
-      "title": "Showcase: Homestead district (plan 4)",
-      "url": "https://github.com/lorecrafting/lokacore/pull/407",
-      "createdAt": "2026-10-16T11:04:17Z"
+      "title": "feat(quota): advise 4–5 day weekly subscription utilization pacing",
+      "url": "https://github.com/dddd2024/Nerelan/pull/1187",
+      "createdAt": "2026-10-16T11:20:58Z"
     }
   ]
 }
