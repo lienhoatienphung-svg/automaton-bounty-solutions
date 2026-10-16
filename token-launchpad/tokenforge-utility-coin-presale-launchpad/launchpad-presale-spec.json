@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T02:38:50.296Z",
-  "latencyMs": 420,
+  "executedAt": "2026-10-16T02:39:45.056Z",
+  "latencyMs": 326,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #6: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #7: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52664491,
+    "liveBlockNumber": 52664518,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459008,
-    "baseMainnetTopPoolsVolume24hUsd": 256317,
+    "baseMainnetTopPoolsVolume24hUsd": 256319,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6vs4oxwMnHjoZzdQ7YVNTxjUivqoNjF6Dz8vaAe9pump",
+        "description": "Banana lore 6 years ago Vs now",
+        "url": "https://dexscreener.com/solana/6vs4oxwmnhjozzdq7yvntxjuivqonjf6dz8vaae9pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4auAZ2EVgAn53sLFpPgiyRpaiNgp65FtpqgdCQJQpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "DEo8JhDt9Evd2FvEmBC9dtRd7yJUZfuuFPFUMCSQpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/deo8jhdt9evd2fvembc9dtrd7yjuzfuufpfumcsqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
-        "description": "The original (first-generation) Tesla Roadster, produced from 2008–2012, was internally code-named DarkStar during development.",
-        "url": "https://dexscreener.com/solana/9jybtj84nzpqrs3zpkngdwdrmmda6i6wvaetu1x5pump"
       }
     ]
   },
