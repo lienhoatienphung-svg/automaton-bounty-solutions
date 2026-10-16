@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T06:37:04.523Z",
-  "latencyMs": 631,
+  "executedAt": "2026-10-16T06:37:55.269Z",
+  "latencyMs": 839,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #62: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #63: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "GAME-PUBLIC-PROJ-PRODUCER-1: Game producer of highscores, character_profile and world_online public projections",
+          "url": "https://github.com/Oteryn/Oteryn-Game/pull/2224",
+          "repositoryUrl": "https://api.github.com/repos/Oteryn/Oteryn-Game",
+          "updatedAt": "2026-10-16T06:37:51Z"
+        },
+        {
+          "title": "D-47: weather every 24 hours, then 12 hours and 2 hours before kickoff",
+          "url": "https://github.com/seanbalz/guess-the-lines-repo/pull/123",
+          "repositoryUrl": "https://api.github.com/repos/seanbalz/guess-the-lines-repo",
+          "updatedAt": "2026-10-16T06:37:51Z"
+        },
+        {
+          "title": "add: saveScreenshotAsync with onScreenshotSave, and MicInput::startAsync with onStart and isStarting (#796 PR-G2)",
+          "url": "https://github.com/TrussC-org/TrussC/pull/853",
+          "repositoryUrl": "https://api.github.com/repos/TrussC-org/TrussC",
+          "updatedAt": "2026-10-16T06:37:49Z"
+        },
+        {
+          "title": "Clarify whole-list context scope in review and B5 without inferring item attribution",
+          "url": "https://github.com/warblersafety/wilson-next/issues/159",
+          "repositoryUrl": "https://api.github.com/repos/warblersafety/wilson-next",
+          "updatedAt": "2026-10-16T06:37:48Z"
+        },
+        {
+          "title": "feat(safenet): sign payer transactions with AWS KMS",
+          "url": "https://github.com/safe-global/safe-client-gateway/pull/3565",
+          "repositoryUrl": "https://api.github.com/repos/safe-global/safe-client-gateway",
+          "updatedAt": "2026-10-16T06:37:48Z"
+        },
+        {
+          "title": "Hand off new-window requests with explicit supported semantics",
+          "url": "https://github.com/KeplerBrowser/ExplorerKit/issues/55",
+          "repositoryUrl": "https://api.github.com/repos/KeplerBrowser/ExplorerKit",
+          "updatedAt": "2026-10-16T06:37:48Z"
+        },
+        {
+          "title": "feat: support anonymous and offline local workspaces",
+          "url": "https://github.com/lopugit/thingtime/pull/1000",
+          "repositoryUrl": "https://api.github.com/repos/lopugit/thingtime",
+          "updatedAt": "2026-10-16T06:37:51Z"
+        },
+        {
+          "title": "Version Packages",
+          "url": "https://github.com/repobuddy/repobuddy/pull/823",
+          "repositoryUrl": "https://api.github.com/repos/repobuddy/repobuddy",
+          "updatedAt": "2026-10-16T06:37:47Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
@@ -28,7 +77,7 @@
       "liveInvestorAndCrowdfundingSignals": []
     }
   },
-  "publishedFundingYmlUrl": null,
+  "publishedFundingYmlUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/.github/FUNDING.yml",
   "publishedPortalUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/fundraising-portal/SUPPORT_AND_INVEST_PORTAL.md",
   "publishedVaultContractUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/fundraising-portal/SovereignCrowdfundingAndPatronVault.sol"
 }
