@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T03:43:29.044Z",
-  "latencyMs": 1388,
+  "executedAt": "2026-10-16T03:44:28.852Z",
+  "latencyMs": 1528,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #26: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #27: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "\"eat some food\" action",
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
+      "createdAt": "2026-10-07T03:48:40Z"
+    },
+    {
+      "title": "fix(gateway): W1 r7, the consent promises only the funds W2 sends; near misses at every hex position (follow-up to #632)",
+      "url": "https://github.com/LamaSu/physical-capability-cloud/pull/647",
+      "createdAt": "2026-10-16T03:42:02Z"
+    },
+    {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
@@ -280,19 +290,9 @@
       "createdAt": "2026-10-05T23:48:30Z"
     },
     {
-      "title": "fix(gateway): W1 r7, the consent promises only the funds W2 sends; near misses at every hex position (follow-up to #632)",
-      "url": "https://github.com/LamaSu/physical-capability-cloud/pull/647",
-      "createdAt": "2026-10-16T03:42:02Z"
-    },
-    {
       "title": "chore(deps): bump tempo dependencies to e4acf9c",
       "url": "https://github.com/tskoyo/foundry/pull/18",
       "createdAt": "2026-07-11T02:50:41Z"
-    },
-    {
-      "title": "新トップ画面をデザインする",
-      "url": "https://github.com/ksyunnnn/synsk.me/issues/148",
-      "createdAt": "2026-10-14T09:57:50Z"
     }
   ]
 }
