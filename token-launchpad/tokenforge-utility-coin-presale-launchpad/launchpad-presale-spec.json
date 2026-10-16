@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T10:25:34.591Z",
-  "latencyMs": 280,
+  "executedAt": "2026-10-16T10:31:20.867Z",
+  "latencyMs": 328,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #147: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #148: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52678493,
+    "liveBlockNumber": 52678666,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 310834,
+    "baseMainnetTopPoolsLiquidityUsd": 459006,
+    "baseMainnetTopPoolsVolume24hUsd": 310881,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6i13wKaK4BEeAL7PrdYhg7aGybjVqsxKNKyHf18jpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6i13wkak4beeal7prdyhg7agybjvqsxknkyhf18jpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xca9F238B7ADcE9499434Df005fB91754E0E74A43",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0xca9f238b7adce9499434df005fb91754e0e74a43"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0xf3F6c29bDB0f9125921C1E4d32e88c6C6dB17777",
@@ -69,18 +81,6 @@
         "tokenAddress": "6ZDKgWopksQPMBPQvmdZrP13JEPApbNrSUQLPPbQpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/6zdkgwopksqpmbpqvmdzrp13jepapbnrsuqlppbqpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x2b5Bc381bF1303aA8c28f908E1F50639F938884c",
-        "description": "Elon-san Changing the World, One Impossible Dream at a Time.",
-        "url": "https://dexscreener.com/robinhood/0x2b5bc381bf1303aa8c28f908e1f50639f938884c"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6pub1XbJn779gJ8XqgXnYHNs1myPQCCv1ZG2JBPHpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6pub1xbjn779gj8xqgxnyhns1mypqccv1zg2jbphpump"
       }
     ]
   },
