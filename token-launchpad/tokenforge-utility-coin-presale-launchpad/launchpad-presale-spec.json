@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T11:21:25.705Z",
-  "latencyMs": 602,
+  "executedAt": "2026-10-16T11:24:06.043Z",
+  "latencyMs": 345,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #162: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #163: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52680169,
+    "liveBlockNumber": 52680249,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459001,
-    "baseMainnetTopPoolsVolume24hUsd": 324728,
+    "baseMainnetTopPoolsLiquidityUsd": 459002,
+    "baseMainnetTopPoolsVolume24hUsd": 324678,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
+        "description": "survival of the fittest, for trading bots.",
+        "url": "https://dexscreener.com/solana/ddvxe425xze27fhy41pr8dwfl3vczydyjjawdc1jpump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0xA5D0F84a8693e5B4E63840aEf43274513643025E",
+        "description": "Build circuits. Solve logic puzzles. Follow the signal. An Ethereum circuit lab. Free to build and practice.",
+        "url": "https://dexscreener.com/ethereum/0xa5d0f84a8693e5b4e63840aef43274513643025e"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "WoSEeboezubBQxuTAa642kFhJ1XP3KXW9GSiUSgWqtU",
+        "description": "The World's Oil Supply Exchange For The Digital Age",
+        "url": "https://dexscreener.com/solana/woseeboezubbqxutaa642kfhj1xp3kxw9gsiusgwqtu"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9sv13ToY5M3Y1RHAz7bgHtMWskCjWQhEk6ZECHERpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "4673spr9Zth4E3ZtZ493RTvqhdD8hW9o6pWjCd5Spump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/4673spr9zth4e3ztz493rtvqhdd8hw9o6pwjcd5spump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0xa06dcCcf665F887790E3D99B7EE26CB34BDe9f00",
-        "description": "Crypto Twitter is loud. Thousands of accounts shill tokens every day, and you can't tell who's real, who's paid, and who already sold on you. XRAY fixes that.\nW",
-        "url": "https://dexscreener.com/ethereum/0xa06dcccf665f887790e3d99b7ee26cb34bde9f00"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "QnZqGv2jD1c9HuN82tizQD1dpDcUTiuiJQuBZ7Npump",
-        "description": "The Citroën 2CV is the ultimate beta play for FTR.\n\nThis new Citroën concept is getting memed all over the internet \n\nThe ultimate contrast between Elon Musk an",
-        "url": "https://dexscreener.com/solana/qnzqgv2jd1c9hun82tizqd1dpdcutiuijqubz7npump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xf9282d8624C2fCd50E552D24d8D10E63F3Ff89E8",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0xf9282d8624c2fcd50e552d24d8d10e63f3ff89e8"
       }
     ]
   },
