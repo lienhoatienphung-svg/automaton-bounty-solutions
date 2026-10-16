@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T02:31:45.778Z",
-  "latencyMs": 840,
+  "executedAt": "2026-10-16T02:37:09.154Z",
+  "latencyMs": 850,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #5: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #6: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,72 +217,62 @@
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 755,
-      "priceBtc": 3.0534297454955116e-7
+      "marketCapRank": 746,
+      "priceBtc": 3.0815583012103586e-7
     },
     {
       "name": "IGNITION",
       "symbol": "IGNITION",
-      "marketCapRank": 882,
-      "priceBtc": 2.2456020760540524e-7
+      "marketCapRank": 878,
+      "priceBtc": 2.296173027799836e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010705086470586167
+      "priceBtc": 0.00010792201941655737
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 104,
-      "priceBtc": 0.000022502604871252534
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 636,
-      "priceBtc": 0.0013435449113236896
+      "marketCapRank": 100,
+      "priceBtc": 0.00002278910318337653
     },
     {
       "name": "ZKsync",
       "symbol": "ZK",
       "marketCapRank": 197,
-      "priceBtc": 2.0066275746593146e-7
+      "priceBtc": 2.0080807257476803e-7
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9994026156258139
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 636,
+      "priceBtc": 0.001342987131272231
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
-      "marketCapRank": 100,
-      "priceBtc": 0.0000010305499589134544
+      "marketCapRank": 103,
+      "priceBtc": 0.0000010306918175580886
+    },
+    {
+      "name": "Grass",
+      "symbol": "GRASS",
+      "marketCapRank": 121,
+      "priceBtc": 0.000008071152427252128
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "perf(jit): resolve dynamic jumps per call context",
-      "url": "https://github.com/alloy-rs/evm2/pull/638",
-      "createdAt": "2026-10-16T00:19:13Z"
+      "title": "support training decision (\"System One\") models with `SFTTrainer`",
+      "url": "https://github.com/huggingface/trl/issues/7623",
+      "createdAt": "2026-10-10T08:48:37Z"
     },
     {
-      "title": "perf(jit): fold MLOADs of known memory words",
-      "url": "https://github.com/alloy-rs/evm2/pull/652",
-      "createdAt": "2026-10-16T02:02:15Z"
-    },
-    {
-      "title": "Roadmap: Black Anvil network rollout",
-      "url": "https://github.com/LegendofKEK/bichael/issues/341",
-      "createdAt": "2026-10-16T02:23:31Z"
-    },
-    {
-      "title": "perf(jit): ignore dead jumps in block analysis",
-      "url": "https://github.com/alloy-rs/evm2/pull/654",
-      "createdAt": "2026-10-16T02:18:17Z"
+      "title": "chore(deps): update all non-major dependencies",
+      "url": "https://github.com/reddoorla/caltex-landing/pull/66",
+      "createdAt": "2026-09-21T16:44:32Z"
     },
     {
       "title": "Central message board — Hermes, Claude, Codex and operator coordination",
@@ -290,9 +280,19 @@
       "createdAt": "2026-10-05T23:48:30Z"
     },
     {
-      "title": "fix(city): pre-entry caption and installed Forge runtime verification",
-      "url": "https://github.com/ZeroPointSix/sound-isolating-eraser/pull/34",
-      "createdAt": "2026-10-15T03:37:07Z"
+      "title": "perf(jit): fold MLOADs of known memory words",
+      "url": "https://github.com/alloy-rs/evm2/pull/652",
+      "createdAt": "2026-10-16T02:02:15Z"
+    },
+    {
+      "title": "[SF-016] Support platform-owned installers and explicit application recovery",
+      "url": "https://github.com/tyler-suifleet/suifleet/issues/21",
+      "createdAt": "2026-10-14T01:04:08Z"
+    },
+    {
+      "title": "fix(live): keep the ample-balance faucet skip for every organ seller",
+      "url": "https://github.com/cX3po/pathos-dacs-ref/pull/107",
+      "createdAt": "2026-10-16T02:32:05Z"
     }
   ]
 }
