@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T05:53:00.504Z",
-  "latencyMs": 839,
+  "executedAt": "2026-10-16T05:57:33.319Z",
+  "latencyMs": 790,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #47: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #48: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "feat(workflow): advance stage execution and capability proof",
-          "url": "https://github.com/rgomids/axiom/pull/320",
-          "repositoryUrl": "https://api.github.com/repos/rgomids/axiom",
-          "updatedAt": "2026-10-16T05:52:56Z"
+          "title": "reactionRoles: live claim/revoke audit embeds never post — logReactionRoleChange called with raw client instead of OutboundClient",
+          "url": "https://github.com/metalsp0rk/boiler-snake/issues/356",
+          "repositoryUrl": "https://api.github.com/repos/metalsp0rk/boiler-snake",
+          "updatedAt": "2026-10-16T05:57:29Z"
         },
         {
-          "title": "Retro fixes REQ-018 to 021: findings 1-42 and the after-window items 1-8 (D-2244; a rejected report keeps its Commission clock; adoption nam",
-          "url": "https://github.com/haideralii/readyline/pull/74",
-          "repositoryUrl": "https://api.github.com/repos/haideralii/readyline",
-          "updatedAt": "2026-10-16T05:52:55Z"
+          "title": "omuzaki-test eval: checks, scripted driver, runner, gate, eval sets, rating page and lint",
+          "url": "https://github.com/dazsel/omuzaki/pull/2133",
+          "repositoryUrl": "https://api.github.com/repos/dazsel/omuzaki",
+          "updatedAt": "2026-10-16T05:57:29Z"
         },
         {
-          "title": "connector-influx: Write live gap lines and count lost seqs, with #2553 part B",
-          "url": "https://github.com/synnaxlabs/foundation/pull/2794",
-          "repositoryUrl": "https://api.github.com/repos/synnaxlabs/foundation",
-          "updatedAt": "2026-10-16T05:52:54Z"
+          "title": "Confine dispatched workers: ReadWritePaths is worktree, not /opt/gunbc",
+          "url": "https://github.com/gunb-ai/gunbc/pull/13942",
+          "repositoryUrl": "https://api.github.com/repos/gunb-ai/gunbc",
+          "updatedAt": "2026-10-16T05:57:28Z"
         },
         {
-          "title": "ci(release): build releases in a reusable workflow at SLSA Build L3",
-          "url": "https://github.com/cordanaLLM/20-watts-was-enough/pull/279",
-          "repositoryUrl": "https://api.github.com/repos/cordanaLLM/20-watts-was-enough",
-          "updatedAt": "2026-10-16T05:52:53Z"
+          "title": "feat(BA-8319): add the session group read layer",
+          "url": "https://github.com/lablup/backend.ai/pull/15661",
+          "repositoryUrl": "https://api.github.com/repos/lablup/backend.ai",
+          "updatedAt": "2026-10-16T05:57:27Z"
         },
         {
-          "title": "docs(quest): narrow the next release and reconcile stale plans",
-          "url": "https://github.com/moq-dev/moq/pull/5679",
-          "repositoryUrl": "https://api.github.com/repos/moq-dev/moq",
-          "updatedAt": "2026-10-16T05:52:53Z"
+          "title": "CSL-212: Define the Cockpit replacement program",
+          "url": "https://github.com/CSL-Laboratories/ai-investment-cockpit/pull/151",
+          "repositoryUrl": "https://api.github.com/repos/CSL-Laboratories/ai-investment-cockpit",
+          "updatedAt": "2026-10-16T05:57:26Z"
         },
         {
-          "title": "release(goal): converge final swarm candidate, sync source, publish 0.11, and back-sync K",
-          "url": "https://github.com/EffortlessMetrics/ripr-swarm/issues/2379",
-          "repositoryUrl": "https://api.github.com/repos/EffortlessMetrics/ripr-swarm",
-          "updatedAt": "2026-10-16T05:52:53Z"
+          "title": "AI gen 13 (improve): in training, nothing promoted yet",
+          "url": "https://github.com/Jlore-Studios/JackiOh/pull/597",
+          "repositoryUrl": "https://api.github.com/repos/Jlore-Studios/JackiOh",
+          "updatedAt": "2026-10-16T05:57:26Z"
         },
         {
-          "title": "fix(api): reject invalid list limit and empty metric filters",
-          "url": "https://github.com/bowerbird-app/RecordingStudio_api/pull/51",
-          "repositoryUrl": "https://api.github.com/repos/bowerbird-app/RecordingStudio_api",
-          "updatedAt": "2026-10-16T05:52:52Z"
+          "title": "Retain protected government choices through voting and consent",
+          "url": "https://github.com/ClankerWorldOrg/ClankerWorld/pull/2054",
+          "repositoryUrl": "https://api.github.com/repos/ClankerWorldOrg/ClankerWorld",
+          "updatedAt": "2026-10-16T05:57:25Z"
         },
         {
-          "title": "[Autofix] [Monitor][competitor-gap] expand supported generation options and default model setting with chat history declaration",
-          "url": "https://github.com/nilesh32236/duoport-connect-for-opencode/pull/173",
-          "repositoryUrl": "https://api.github.com/repos/nilesh32236/duoport-connect-for-opencode",
-          "updatedAt": "2026-10-16T05:52:52Z"
+          "title": "Architecture: card statistics from condensed totals, each game's detail kept a week",
+          "url": "https://github.com/Jlore-Studios/JackiOh/pull/1046",
+          "repositoryUrl": "https://api.github.com/repos/Jlore-Studios/JackiOh",
+          "updatedAt": "2026-10-16T05:57:31Z"
         }
       ]
     },
