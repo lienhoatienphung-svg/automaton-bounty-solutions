@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T03:03:14.863Z",
-  "latencyMs": 1086,
+  "executedAt": "2026-10-16T03:04:12.817Z",
+  "latencyMs": 641,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #14: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #15: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(algorithms): add score centering policy loss",
+      "url": "https://github.com/redai-studio/Relax/pull/440",
+      "createdAt": "2026-10-15T04:03:58Z"
+    },
+    {
+      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
+      "createdAt": "2026-10-12T04:03:25Z"
+    },
+    {
+      "title": "build(deps): update production dependencies (major)",
+      "url": "https://github.com/neuland-ingolstadt/neuland.app-docs/pull/24",
+      "createdAt": "2026-08-28T07:06:18Z"
+    },
+    {
+      "title": "perf(jit): resolve dynamic jumps per call context",
+      "url": "https://github.com/alloy-rs/evm2/pull/638",
+      "createdAt": "2026-10-16T00:19:13Z"
+    },
+    {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
@@ -273,26 +293,6 @@
       "title": "New Crowdin translations",
       "url": "https://github.com/fm-sys/pairdrop-android/pull/429",
       "createdAt": "2026-05-13T02:49:58Z"
-    },
-    {
-      "title": "perf(jit): resolve dynamic jumps per call context",
-      "url": "https://github.com/alloy-rs/evm2/pull/638",
-      "createdAt": "2026-10-16T00:19:13Z"
-    },
-    {
-      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
-      "url": "https://github.com/jsboige/CoursIA/pull/20377",
-      "createdAt": "2026-10-11T14:10:17Z"
-    },
-    {
-      "title": "Make the site and Mac app pick up where you left off",
-      "url": "https://github.com/Blakew316/Highlight-/pull/6",
-      "createdAt": "2026-10-16T02:50:13Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
     }
   ]
 }
