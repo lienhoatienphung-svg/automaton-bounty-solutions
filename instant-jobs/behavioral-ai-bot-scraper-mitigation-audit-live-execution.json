@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-16T21:41:04.808Z",
-  "latencyMs": 728,
+  "executedAt": "2026-10-16T21:46:48.493Z",
+  "latencyMs": 587,
   "companyName": "Behavioral AI Bot & Scraper Mitigation Audit",
-  "workTitle": "Delivery Sprint #915: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
-  "targetUrl": "https://polymarket.com/event/china-x-india-military-clash-by-december-31",
+  "workTitle": "Growth & Sales Sprint #916: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2500535,
-        "liquidityUsd": 18993,
+        "liquidityUsd": 18438,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2176077,
-        "liquidityUsd": 90138,
+        "liquidityUsd": 90188,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059853,
-        "liquidityUsd": 873,
+        "liquidityUsd": 878,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 19132,
+        "liquidityUsd": 19251,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -70,9 +70,9 @@
         "dexId": "quickswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00012,
+        "priceUsd": 1.00011,
         "liquidityUsd": 103138,
-        "volume24hUsd": 113698,
+        "volume24hUsd": 114101,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -92,7 +92,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00016,
         "liquidityUsd": 140028,
-        "volume24hUsd": 17110,
+        "volume24hUsd": 17180,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00012,
+        "priceUsd": 1.00011,
         "liquidityUsd": 21385,
-        "volume24hUsd": 104899,
+        "volume24hUsd": 104741,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -112,7 +112,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000095,
         "liquidityUsd": 12034,
-        "volume24hUsd": 2242,
+        "volume24hUsd": 2197,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
@@ -120,9 +120,9 @@
         "dexId": "pancakeswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.0002,
+        "priceUsd": 1.00022,
         "liquidityUsd": 14836,
-        "volume24hUsd": 399,
+        "volume24hUsd": 438,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       }
     ]
@@ -207,59 +207,56 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "hairfree",
-        "roleOrTask": "(Senior) Sales Manager (m/w/d) | Rosenheim",
+        "company": "BEfit Health Club",
+        "roleOrTask": "Medizinische Fachangestellte:r (15-30 Stunden in der Woche)",
         "industryTags": [
-          "Sales",
-          "vocational"
+          "Management",
+          "Team Leader"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/hairfree/senior-sales-manager-rosenheim-304257",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/befit-health-club/medizinische-fachangestellter-15-30-stunden-in-der-woche-wuppertal-427040",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "isaraerospace",
-        "roleOrTask": "Working Student – Piping System, Propulsion (m/f/d)",
-        "industryTags": [
-          "Propulsion"
-        ],
+        "company": "Flix",
+        "roleOrTask": "Senior Product Owner (m/f/d)",
+        "industryTags": [],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/isaraerospace/working-student-piping-system-propulsion-parsdorf-bavaria-406311",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/flix/senior-product-owner-berlin-457306",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "isaraerospace",
-        "roleOrTask": "Working Student Avionics, Spectrum",
+        "company": "Engagedmd",
+        "roleOrTask": "Head of Urology",
         "industryTags": [
-          "Spectrum"
+          "Market Expansion"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/isaraerospace/working-student-avionics-spectrum-parsdorf-bavaria-428454",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/engagedmd/remote-head-of-urology-232681",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "thinkcellsoftware",
-        "roleOrTask": "Working student Academics (f/m/d)",
+        "company": "Roadsurfer",
+        "roleOrTask": "Regional Fleet Manager (m/f/d) - North-East",
         "industryTags": [
-          "Strategy & Corporation Development"
+          "Fleet Operations"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/thinkcellsoftware/working-student-academics-165526",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/roadsurfer/regional-fleet-manager-north-east-berlin-105732",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "hellofresh",
-        "roleOrTask": "Senior Site Controller (all genders)",
+        "company": "Roadsurfer",
+        "roleOrTask": "Regional Fleet Manager (m/f/d) - South-West",
         "industryTags": [
-          "Finance",
-          "Accounting & Legal"
+          "Fleet Operations"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-site-controller-all-genders-berlin-berlin-157166",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/roadsurfer/regional-fleet-manager-south-west-frankfurt-am-main-366708",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
