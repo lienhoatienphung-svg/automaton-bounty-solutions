@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T19:57:14.170Z",
-  "latencyMs": 1108,
+  "executedAt": "2026-10-16T20:04:50.890Z",
+  "latencyMs": 673,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #299: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #300: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(server): send quotes return 500 before the wallet has scanned",
-      "url": "https://github.com/zcashlabs/thus-spoke-zakura/issues/250",
-      "createdAt": "2026-10-14T06:54:26Z"
+      "title": "Docs: a Mainnet and a Devnet section listing the one connector, the relay and the ILP addresses",
+      "url": "https://github.com/toon-protocol/website/issues/48",
+      "createdAt": "2026-10-16T19:05:39Z"
     },
     {
-      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
-      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
-      "createdAt": "2026-10-09T07:30:01Z"
+      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
+      "createdAt": "2026-10-07T00:07:47Z"
     },
     {
-      "title": "feat(cli): add `ths snapshot` and `ths revert`",
-      "url": "https://github.com/zcashlabs/thus-spoke-zakura/issues/232",
-      "createdAt": "2026-10-13T07:00:57Z"
+      "title": "Inventory and migrate current Standard card pool",
+      "url": "https://github.com/altf4/rustmage/issues/4",
+      "createdAt": "2026-10-15T15:51:44Z"
     },
     {
-      "title": "feat(server): add interval and mempool-triggered mining",
-      "url": "https://github.com/zcashlabs/thus-spoke-zakura/issues/230",
-      "createdAt": "2026-10-13T07:00:53Z"
+      "title": "[Wallet Rewards] Latest eligibility",
+      "url": "https://github.com/oguzpoyrazyasin/poyraz/issues/5",
+      "createdAt": "2026-09-21T21:54:47Z"
     },
     {
-      "title": "Add a detached mode to ths start for scripts and CI",
-      "url": "https://github.com/zcashlabs/thus-spoke-zakura/issues/147",
-      "createdAt": "2026-10-03T20:07:57Z"
+      "title": "feat(tools): list aztec first in the send picker and mint it on testnet",
+      "url": "https://github.com/alejoamiras/unleashed/pull/22",
+      "createdAt": "2026-10-16T20:03:35Z"
     },
     {
-      "title": "Privy wallet: Privy EOA owns Alchemy MAv2 + on-chain one-tap sessions (self-pay)",
-      "url": "https://github.com/makerlee0x/disciple/pull/59",
-      "createdAt": "2026-10-16T19:23:02Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     }
   ]
 }
