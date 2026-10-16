@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T15:11:31.574Z",
-  "latencyMs": 925,
+  "executedAt": "2026-10-16T15:12:57.580Z",
+  "latencyMs": 913,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #228: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #229: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Feat/cli notes show details",
+      "url": "https://github.com/0xMiden/rust-sdk/pull/2666",
+      "createdAt": "2026-10-04T10:43:38Z"
+    },
+    {
+      "title": "Add the sandbagging-elicitation task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/31",
+      "createdAt": "2026-09-27T12:37:00Z"
+    },
+    {
+      "title": "send-to-peer: dial an Android phone's announced AirDrop port, and keep it awake through a send",
+      "url": "https://github.com/netmojo-systems/omdrop-awdl/pull/41",
+      "createdAt": "2026-10-15T09:36:28Z"
+    },
+    {
+      "title": "[adapters] Port BioMysteryBench for evaluation with a Daytona pilot",
+      "url": "https://github.com/marin-community/harbor/issues/161",
+      "createdAt": "2026-09-18T21:32:59Z"
+    },
+    {
+      "title": "Qwen3.5 to 3.8 dense support (9B first)",
+      "url": "https://github.com/tpurtell/cuteafd/issues/276",
+      "createdAt": "2026-10-15T06:49:05Z"
+    },
+    {
       "title": "feat(products): fundtest, a Paseo funding provider the testnet apps bundle",
       "url": "https://github.com/paritytech/trinity-user-agents/pull/1402",
       "createdAt": "2026-10-14T08:11:56Z"
-    },
-    {
-      "title": "SF-010: live upgrade-security and browser wallet acceptance on testnet",
-      "url": "https://github.com/tyler-suifleet/suifleet/pull/70",
-      "createdAt": "2026-10-15T06:19:09Z"
-    },
-    {
-      "title": "feat: moderate commits with Jev rules",
-      "url": "https://github.com/nunomaduro/dev-null.sh/pull/125",
-      "createdAt": "2026-10-15T17:48:05Z"
-    },
-    {
-      "title": "feat!: add Tron support and replace walletAddress with activeWallet",
-      "url": "https://github.com/0xsequence/swift-sdk/pull/49",
-      "createdAt": "2026-10-08T11:07:16Z"
-    },
-    {
-      "title": "fix(send): localize the pending onchain warning, plus three drive-bys",
-      "url": "https://github.com/arkade-os/wallet/pull/1077",
-      "createdAt": "2026-10-16T12:45:28Z"
-    },
-    {
-      "title": "Add professional in-app bank onboarding with secure SimpleFIN authorization",
-      "url": "https://github.com/load66/bonus-tracker/pull/86",
-      "createdAt": "2026-10-16T15:07:04Z"
     }
   ]
 }
