@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals](https://github.com/Parabola-org/parabola/issues/10)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
+- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
 - **Fork Fix Branch**: [fix/issue-10](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-10)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/11](https://github.com/lienhoatienphung-svg/parabola/pull/11)
 - **Inspected Source File**: `src/constants.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-15T21:04:54.142Z`
+- **Timestamp**: `2026-10-16T00:15:22.915Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -75,10 +75,11 @@ Add a pre-flight validation in `transfer()` (before the burn, alongside the reci
 **Acceptance C
 ```
 
-## 4. Existing Claim Activity (3)
+## 4. Existing Claim Activity (4)
 - **@fy-god** (2026-10-15T20:44:03Z): `Implemented in #25. Local verification: pnpm test (115 passed), pnpm run typecheck, pnpm run build.`
 - **@fy-god** (2026-10-15T20:50:39Z): `Update on #25: this is an executable implementation in `src/transfer.ts`, with a typed exported `AmountPrecisionError`. It validates significant decimal precisi`
 - **@fy-god** (2026-10-15T20:55:15Z): `For anyone picking this up: canonical PR #25 is already open and fully implemented against `Parabola-org/parabola` (not a patch note or fork-only document). It `
+- **@yggdrasilworld** (2026-10-16T00:11:39Z): `/claim #10  Settlement wallet (Base USDC): `0xfBa20992174e777eaBbdd7D10755699B84d030Fd``
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #10`
