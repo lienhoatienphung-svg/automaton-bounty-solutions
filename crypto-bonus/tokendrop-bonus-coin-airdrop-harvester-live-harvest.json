@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T21:14:30.834Z",
-  "latencyMs": 782,
+  "executedAt": "2026-10-16T21:21:33.375Z",
+  "latencyMs": 341,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #317: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #318: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "2e3zQiA8JWeDjjVeuqzv9X1Q3aqRRaPqL8UYEbxVpump",
+      "boostAmount": 500,
+      "totalBoostAmount": 500,
+      "description": "Prompt to launch. The era of launchbots are here.",
+      "url": "https://dexscreener.com/solana/2e3zqia8jwedjjveuqzv9x1q3aqrrapql8uyebxvpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "nPD9vif19C2oY1jhHRrAJSSpMu9tJQtibfxoZ4qcxph",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Launch and trade tokens paired with stocks, crypto, stablecoins & more.",
+      "url": "https://dexscreener.com/solana/npd9vif19c2oy1jhhrrajsspmu9tjqtibfxoz4qcxph"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "GetLnVcK3csLW6aTb5mBTHaw9V4vN3fx9oMWQrQxpump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/4erwuz3akfbw2j34w8sbbswh4ohxgvcd1qa7iko7kehm"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xb2d1Fa50508550B3488C0e9860d1f08937a29145",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "The first perpetual trading hub powered by\nHyperliquid on Robinhood Chain. Borrow, lend & trade in one place. Gold & Silver rewards.",
-      "url": "https://dexscreener.com/robinhood/0xb2d1fa50508550b3488c0e9860d1f08937a29145"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3dgGDYKaab1pAZhaEC6gZQS3PrbZdShXMcoWeVZJpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 20,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/3dggdykaab1pazhaec6gzqs3prbzdshxmcowevzjpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,51 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 761,
-      "priceBtc": 3.069618740356e-7
+      "marketCapRank": 724,
+      "priceBtc": 3.220099642744e-7
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.00001243542672901991
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 614,
-      "priceBtc": 0.0014174471587792491
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 109,
-      "priceBtc": 8.900690526784229e-7
+      "priceBtc": 0.000012441358355792272
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.01396719018389755
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.181381059181537e-8
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9991915725812417
+      "priceBtc": 0.01394200703477495
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 105,
-      "priceBtc": 0.00002100054939897027
+      "priceBtc": 0.00002092445384515795
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 616,
+      "priceBtc": 0.0014174205323494757
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010432672141044705
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.197721496383021e-8
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 109,
+      "priceBtc": 8.899198327042007e-7
     }
   ],
-  "activeAirdropAndFaucetQuests": [
-    {
-      "title": "merkle-airdrop template: admin can sweep while claims are still open",
-      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/533",
-      "createdAt": "2026-10-15T21:48:32Z"
-    },
-    {
-      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
-      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
-      "createdAt": "2026-10-09T07:30:01Z"
-    },
-    {
-      "title": "Screens: clipboard both ways and files dropped onto the machine",
-      "url": "https://github.com/AFK-surf/still.fail/pull/497",
-      "createdAt": "2026-10-16T21:14:05Z"
-    },
-    {
-      "title": "feat(event): implement Full Moon Rift dungeon defense event",
-      "url": "https://github.com/ZeusAFK/LibreKO/pull/172",
-      "createdAt": "2026-10-15T05:22:35Z"
-    },
-    {
-      "title": "Add Agent ChatUI on the main agent page",
-      "url": "https://github.com/valory-xyz/optimus/pull/398",
-      "createdAt": "2026-10-16T18:58:14Z"
-    },
-    {
-      "title": "[UI/UX] Simplify post-E2E payable review and assessment results",
-      "url": "https://github.com/habrahgithub/swd-tameion-assured-payments/pull/72",
-      "createdAt": "2026-10-14T17:35:36Z"
-    }
-  ]
+  "activeAirdropAndFaucetQuests": []
 }
