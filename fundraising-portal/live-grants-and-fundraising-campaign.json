@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T08:00:40.999Z",
-  "latencyMs": 866,
+  "executedAt": "2026-10-16T08:04:16.766Z",
+  "latencyMs": 808,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #89: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #90: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "Feature/db2 database connection",
-          "url": "https://github.com/rosettadb/dbt-studio/pull/474",
-          "repositoryUrl": "https://api.github.com/repos/rosettadb/dbt-studio",
-          "updatedAt": "2026-10-16T08:00:37Z"
+          "title": "Draft P0: fail-closed canonical scan and per-position quote receipt gate (successor only)",
+          "url": "https://github.com/lopushniakoleksij-png/Alpha-Hunter/pull/341",
+          "repositoryUrl": "https://api.github.com/repos/lopushniakoleksij-png/Alpha-Hunter",
+          "updatedAt": "2026-10-16T08:04:14Z"
         },
         {
-          "title": "DB scale 09: enforce reader ownership consistency at graph and library write boundaries",
-          "url": "https://github.com/JoshCLWren/comic-pile/issues/3225",
-          "repositoryUrl": "https://api.github.com/repos/JoshCLWren/comic-pile",
-          "updatedAt": "2026-10-16T08:00:36Z"
+          "title": "feat(github): Let Pilots read private repositories through a GitHub App",
+          "url": "https://github.com/frappe/central/pull/496",
+          "repositoryUrl": "https://api.github.com/repos/frappe/central",
+          "updatedAt": "2026-10-16T08:04:10Z"
         },
         {
-          "title": "feat(agentserver): honour params.agent_skills_available per request",
-          "url": "https://github.com/openJiuwen-ai/jiuwenswarm/pull/7748",
-          "repositoryUrl": "https://api.github.com/repos/openJiuwen-ai/jiuwenswarm",
-          "updatedAt": "2026-10-16T08:00:36Z"
+          "title": "feat: enable merge-queue execution gate and add merge_group check template",
+          "url": "https://github.com/rjwalters/loom/pull/12400",
+          "repositoryUrl": "https://api.github.com/repos/rjwalters/loom",
+          "updatedAt": "2026-10-16T08:04:10Z"
         },
         {
-          "title": "fix(agent-friction-r3-r4): 8 high+medium priority audit fixes from 24-conversation Antigravity audit",
-          "url": "https://github.com/taitran501/ai-harness/pull/51",
-          "repositoryUrl": "https://api.github.com/repos/taitran501/ai-harness",
-          "updatedAt": "2026-10-16T08:00:35Z"
-        },
-        {
-          "title": "Multi-tranche loans: capture the tranche schedule at application and add/remove tranches afterwards",
-          "url": "https://github.com/apache/fineract-backoffice-ui/issues/781",
+          "title": "Audit trail: add an entry detail view (request payload, maker/checker) and server-side search filters",
+          "url": "https://github.com/apache/fineract-backoffice-ui/issues/788",
           "repositoryUrl": "https://api.github.com/repos/apache/fineract-backoffice-ui",
-          "updatedAt": "2026-10-16T08:00:35Z"
+          "updatedAt": "2026-10-16T08:04:10Z"
         },
         {
-          "title": "security(G-9): schedule commands enforce EOS Core company authority — do not merge without Owner authorization",
-          "url": "https://github.com/TaylorService-spec/Taylor_Parts/pull/2111",
-          "repositoryUrl": "https://api.github.com/repos/TaylorService-spec/Taylor_Parts",
-          "updatedAt": "2026-10-16T08:00:34Z"
+          "title": "feat(entitlements): apply user tags and a subscription from partner signup rules",
+          "url": "https://github.com/Bike4Mind/bike4mind/pull/4857",
+          "repositoryUrl": "https://api.github.com/repos/Bike4Mind/bike4mind",
+          "updatedAt": "2026-10-16T08:04:09Z"
         },
         {
-          "title": "feat(access): add record-reach helpers (realmMatch evaluation, unbounded reach)",
-          "url": "https://github.com/authup/authup/pull/3732",
-          "repositoryUrl": "https://api.github.com/repos/authup/authup",
-          "updatedAt": "2026-10-16T08:00:33Z"
+          "title": "Add an independent Sheets prototype with a tested calculation and persistence core",
+          "url": "https://github.com/PerchAnton/breakfree-sheets/pull/1",
+          "repositoryUrl": "https://api.github.com/repos/PerchAnton/breakfree-sheets",
+          "updatedAt": "2026-10-16T08:04:09Z"
         },
         {
-          "title": "feat(platform): rich completion notifications with expert attribution",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT/pull/15456",
-          "repositoryUrl": "https://api.github.com/repos/Significant-Gravitas/AutoGPT",
-          "updatedAt": "2026-10-16T08:00:33Z"
+          "title": "feat(cli): flatDeprecated — per-name flat-spelling retirement knob (bro-vlmrb.3)",
+          "url": "https://github.com/ThePlenkov/bro/pull/557",
+          "repositoryUrl": "https://api.github.com/repos/ThePlenkov/bro",
+          "updatedAt": "2026-10-16T08:04:09Z"
+        },
+        {
+          "title": "feat(terminal): open the project in an allowlisted external terminal app",
+          "url": "https://github.com/kirodotdev/KiroCrew/pull/19600",
+          "repositoryUrl": "https://api.github.com/repos/kirodotdev/KiroCrew",
+          "updatedAt": "2026-10-16T08:04:08Z"
         }
       ]
     },
