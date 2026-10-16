@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T22:26:06.258Z",
-  "latencyMs": 1165,
+  "executedAt": "2026-10-16T22:31:10.294Z",
+  "latencyMs": 705,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #333: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #334: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x652720b02272C37d9328f08EE8343554D1CAa8e7",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "KlineO ($KLO) powers an agentic trading and liquidity intelligence ecosystem built for traders, creators, token projects, and digital asset teams.\n\nKlineO Tradi",
+      "url": "https://dexscreener.com/robinhood/0x652720b02272c37d9328f08ee8343554d1caa8e7"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "2JVEVXoRsskapZ8T56MjMNJq6Dk3feEUYSRmzkkipump",
       "boostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/getlnvck3cslw6atb5mbthaw9v4vn3fx9omwqrqxpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "CvmRz15WYyhLRskuUFfRe6EybPjQdUqFA8URVcmSpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "refer your frens and make money together with referral code",
-      "url": "https://dexscreener.com/solana/cvmrz15wyyhlrskuuffre6eybpjqduqfa8urvcmspump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,24 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Update dependency lucide-react to v1.58.0",
-      "url": "https://github.com/JaimeTR/amysashop/pull/13",
-      "createdAt": "2026-10-06T04:05:44Z"
+      "title": "fix(deps): update frontend core",
+      "url": "https://github.com/AutoGitr/Overture/pull/17",
+      "createdAt": "2026-10-16T21:38:54Z"
     },
     {
-      "title": "Header: Tock turns the valve to open the Nickel Faucet",
-      "url": "https://github.com/caaconwinner/RSN/pull/2",
-      "createdAt": "2026-10-16T22:13:55Z"
+      "title": "design(governance): token, proposal, and voting architecture",
+      "url": "https://github.com/soroban-tooling/soroban-keeper-network/issues/488",
+      "createdAt": "2026-08-29T22:33:25Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "[UI/UX] Simplify post-E2E payable review and assessment results",
+      "url": "https://github.com/habrahgithub/swd-tameion-assured-payments/pull/72",
+      "createdAt": "2026-10-14T17:35:36Z"
     },
     {
-      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
-      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
-      "createdAt": "2026-10-09T07:30:01Z"
+      "title": "Inventory and migrate current Standard card pool",
+      "url": "https://github.com/altf4/rustmage/issues/4",
+      "createdAt": "2026-10-15T15:51:44Z"
     },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
@@ -290,9 +290,9 @@
       "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "Add Agent ChatUI on the main agent page",
-      "url": "https://github.com/valory-xyz/optimus/pull/398",
-      "createdAt": "2026-10-16T18:58:14Z"
+      "title": "feat(community): add BlockVectra llms.txt documentation",
+      "url": "https://github.com/thedaviddias/llms-txt-hub/pull/2021",
+      "createdAt": "2026-10-16T00:48:01Z"
     }
   ]
 }
