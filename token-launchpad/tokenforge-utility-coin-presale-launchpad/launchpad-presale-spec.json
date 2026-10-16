@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T14:56:31.016Z",
-  "latencyMs": 612,
+  "executedAt": "2026-10-16T15:00:07.817Z",
+  "latencyMs": 513,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #222: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #223: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52686621,
+    "liveBlockNumber": 52686730,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 282949,
+    "baseMainnetTopPoolsVolume24hUsd": 282858,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "sSWsp3MY5Zz4TCS5L1K8xNeg87Byn6DHmV6rhgtpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/sswsp3my5zz4tcs5l1k8xneg87byn6dhmv6rhgtpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2PWKseuWbrDrFupnqyi884aLEd4LYcXehhRyahsUUUCx",
@@ -75,12 +81,6 @@
         "tokenAddress": "H1gvhywBhxXSd8i7nG2ujQ3ncBFB3jpa1eoKX4oTpump",
         "description": "IPHONE DUO IS NUMBER 1 TRENDING TODAY AND JUST CREATED THE PERFECT NARRA FOR IT",
         "url": "https://dexscreener.com/solana/h1gvhywbhxxsd8i7ng2ujq3ncbfb3jpa1eokx4otpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xde97752448fd7d958caa7749dae91a6fe14a3133",
-        "description": "Oath Network puts AI under oath. Your prompt is answered inside a sealed machine that cannot read it, the answer returns signed, and three witnesses in browser ",
-        "url": "https://dexscreener.com/robinhood/0xde97752448fd7d958caa7749dae91a6fe14a3133"
       }
     ]
   },
