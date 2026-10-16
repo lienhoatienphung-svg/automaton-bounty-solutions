@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T08:04:13.362Z",
-  "latencyMs": 254,
+  "executedAt": "2026-10-16T08:05:21.200Z",
+  "latencyMs": 249,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #106: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #107: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52674253,
+    "liveBlockNumber": 52674287,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458995,
-    "baseMainnetTopPoolsVolume24hUsd": 243374,
+    "baseMainnetTopPoolsVolume24hUsd": 243190,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DZVADw7Qkfqg2mqQCQBYD2kNsNbq4c2Q9nhBmhtNpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/dzvadw7qkfqg2mqqcqbyd2knsnbq4c2q9nhbmhtnpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4tf5GEXU1dt7Vfj21oCu4P96ZEKEm3zMYqpzZsoCDeer",
@@ -75,12 +81,6 @@
         "tokenAddress": "8rAhJEyM72smDNgGUcPETXoVi21x7k2R8u2AMXGQpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/8rahjeym72smdnggucpetxovi21x7k2r8u2amxgqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CEuqMZ7iVEVnBKmP1aBBqC4VjRdpr5KCqnYEZjwswbux",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ceuqmz7ivevnbkmp1abbqc4vjrdpr5kcqnyezjwswbux"
       }
     ]
   },
