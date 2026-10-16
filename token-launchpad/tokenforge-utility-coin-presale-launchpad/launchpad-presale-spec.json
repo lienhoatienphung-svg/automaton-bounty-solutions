@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T10:46:25.729Z",
-  "latencyMs": 250,
+  "executedAt": "2026-10-16T10:52:48.686Z",
+  "latencyMs": 301,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #153: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #154: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52679119,
+    "liveBlockNumber": 52679310,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 310384,
+    "baseMainnetTopPoolsLiquidityUsd": 459002,
+    "baseMainnetTopPoolsVolume24hUsd": 306787,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "QnZqGv2jD1c9HuN82tizQD1dpDcUTiuiJQuBZ7Npump",
+        "description": "The Citroën 2CV is the ultimate beta play for FTR.\n\nThis new Citroën concept is getting memed all over the internet \n\nThe ultimate contrast between Elon Musk an",
+        "url": "https://dexscreener.com/solana/qnzqgv2jd1c9hun82tizqd1dpdcutiuijqubz7npump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xf9282d8624C2fCd50E552D24d8D10E63F3Ff89E8",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0xf9282d8624c2fcd50e552d24d8d10e63f3ff89e8"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Aq8Jdz2m4VdaWqC7EFJ1bsS1wZfUy9su3WNJWBdzpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "6i13wKaK4BEeAL7PrdYhg7aGybjVqsxKNKyHf18jpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/6i13wkak4beeal7prdyhg7agybjvqsxknkyhf18jpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xca9F238B7ADcE9499434Df005fB91754E0E74A43",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0xca9f238b7adce9499434df005fb91754e0e74a43"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0xf3F6c29bDB0f9125921C1E4d32e88c6C6dB17777",
-        "description": "🇨🇳🐱 Dorito Ear Cat——China's Explosive AI Feline Sensation, Total Views Across the Web Surpass 2.2 Billion!\n\nBefore Dorito Ear Cat went viral, Chinese interne",
-        "url": "https://dexscreener.com/bsc/0xf3f6c29bdb0f9125921c1e4d32e88c6c6db17777"
       }
     ]
   },
