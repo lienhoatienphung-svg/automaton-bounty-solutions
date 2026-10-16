@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T02:26:49.133Z",
-  "latencyMs": 323,
+  "executedAt": "2026-10-16T02:32:21.919Z",
+  "latencyMs": 399,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #3: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #4: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52664131,
+    "liveBlockNumber": 52664297,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459008,
-    "baseMainnetTopPoolsVolume24hUsd": 258745,
+    "baseMainnetTopPoolsVolume24hUsd": 257535,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6BbFopQe5GTJGvkb1VuwRs3RaMTgxfLJuz7UBHwpXixV",
+        "description": "The official $GRDNT token for the Gradient launchpad.",
+        "url": "https://dexscreener.com/solana/6bbfopqe5gtjgvkb1vuwrs3ramtgxfljuz7ubhwpxixv"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "84H3BUrmo3tQ7YQX1zwcaf4yuzfpkJUKgi96wKuMpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/84h3burmo3tq7yqx1zwcaf4yuzfpkjukgi96wkumpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x9994Bfa979179aF4BB0fbcD7f2dF0D20a86637dE",
+        "description": "bankers in control.",
+        "url": "https://dexscreener.com/robinhood/0x9994bfa979179af4bb0fbcd7f2df0d20a86637de"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x2fC15e8cAc04540d51eb71b6def2Fe269f4fB25a",
@@ -63,24 +81,6 @@
         "tokenAddress": "0xb8f0CD88B020e005dB741e14968bb2c9033057E4",
         "description": "the viral Rocket League trend",
         "url": "https://dexscreener.com/robinhood/0xb8f0cd88b020e005db741e14968bb2c9033057e4"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7bnH5FcnRrGphmWASwtY69Rmdrd8K6EX4A9NKnDfpump",
-        "description": "Everyone’s calling the new Roadster a Rocket League car with its jet thrusters. So I made it playable. Win matches, earn SOL.",
-        "url": "https://dexscreener.com/solana/7bnh5fcnrrgphmwaswty69rmdrd8k6ex4a9nkndfpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "52Bg636UdPLGYZrB3eut7B4wSGHQBEfeUeLp8UFWpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/52bg636udplgyzrb3eut7b4wsghqbefeuelp8ufwpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Ewzy4cxD7LsB86pUziRZrAXar6z8KWyNNg4WYEJspump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ewzy4cxd7lsb86puzirzraxar6z8kwynng4wyejspump"
       }
     ]
   },
