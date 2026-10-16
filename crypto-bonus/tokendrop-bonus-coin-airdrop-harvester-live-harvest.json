@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T13:29:31.393Z",
-  "latencyMs": 1392,
+  "executedAt": "2026-10-16T13:30:26.281Z",
+  "latencyMs": 891,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #202: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #203: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat: verify hardfork schedule",
+      "url": "https://github.com/raylsnetwork/axyl/pull/271",
+      "createdAt": "2026-10-13T06:52:04Z"
+    },
+    {
+      "title": "chore(hosts): remove the Meld on-ramp and the Android fund module",
+      "url": "https://github.com/paritytech/trinity-user-agents/pull/1332",
+      "createdAt": "2026-10-08T09:06:25Z"
+    },
+    {
       "title": "Update weekly dependencies",
       "url": "https://github.com/inoUwU/blog-and-portfolio/pull/156",
       "createdAt": "2026-08-16T18:15:39Z"
@@ -280,19 +290,9 @@
       "createdAt": "2026-10-12T21:43:27Z"
     },
     {
-      "title": "chore(hosts): remove the Meld on-ramp and the Android fund module",
-      "url": "https://github.com/paritytech/trinity-user-agents/pull/1332",
-      "createdAt": "2026-10-08T09:06:25Z"
-    },
-    {
       "title": "Showcase fixes: Aldous talk, text gaps, Low Wardle promises, toll gate, store door",
       "url": "https://github.com/lorecrafting/lokacore/pull/408",
       "createdAt": "2026-10-16T13:18:30Z"
-    },
-    {
-      "title": "Roadmap: Black Anvil network rollout",
-      "url": "https://github.com/LegendofKEK/bichael/issues/341",
-      "createdAt": "2026-10-16T02:23:31Z"
     }
   ]
 }
