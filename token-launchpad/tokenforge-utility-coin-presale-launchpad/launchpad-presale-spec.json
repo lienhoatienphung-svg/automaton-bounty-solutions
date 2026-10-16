@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T03:39:43.863Z",
-  "latencyMs": 322,
+  "executedAt": "2026-10-16T03:45:16.155Z",
+  "latencyMs": 447,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #25: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #26: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52666318,
+    "liveBlockNumber": 52666484,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459014,
-    "baseMainnetTopPoolsVolume24hUsd": 236680,
+    "baseMainnetTopPoolsLiquidityUsd": 459010,
+    "baseMainnetTopPoolsVolume24hUsd": 236359,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "FTbLCDt9XQUF3VnqRikkM3XNnbRMXJUPUtpra51Dpump",
+        "description": "Floki",
+        "url": "https://dexscreener.com/solana/ftblcdt9xquf3vnqrikkm3xnnbrmxjuputpra51dpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FSJbL5UjbZkkMWNeKnUgjG6PHQKdbhhycugDo1LCpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "8M5T67bs2wpqVLvphPxDEd5zEPaqFzRVw9eCVVKUpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/8m5t67bs2wpqvlvphpxded5zepaqfzrvw9ecvvkupump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FAvr8awFPPEaUnS1D7YjSWPjGCeSLWMzLeV6yWGDpump",
-        "description": "Banana - paired to FTR - Dividends of TSLA and SPCX",
-        "url": "https://dexscreener.com/solana/favr8awfppeauns1d7yjswpjgceslwmzlev6ywgdpump"
       }
     ]
   },
