@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T17:44:49.329Z",
-  "latencyMs": 850,
+  "executedAt": "2026-10-16T17:46:42.906Z",
+  "latencyMs": 978,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #270: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
+  "workTitle": "Delivery Sprint #271: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,53 +217,73 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 731,
-      "priceBtc": 3.1814527127994e-7
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006136732681873513
+      "marketCapRank": 715,
+      "priceBtc": 3.240442574247e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 612,
-      "priceBtc": 0.0014261758871356512
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.0006437359258127
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 100,
-      "priceBtc": 0.000008340669963492691
+      "marketCapRank": 613,
+      "priceBtc": 0.0014181806246759915
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.000021764905662802217
+      "priceBtc": 0.000021595214276420208
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.000155857251981
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 98,
+      "priceBtc": 0.000008549887670612255
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.234516411110081e-8
+      "priceBtc": 9.232115698990937e-8
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 34,
-      "priceBtc": 0.003393806009876859
+      "priceBtc": 0.0034204437577049045
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006247959242087671
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
+      "title": "perf(jit): sink LICM-hoisted constants on high pressure",
+      "url": "https://github.com/alloy-rs/evm2/pull/670",
+      "createdAt": "2026-10-16T17:41:18Z"
+    },
+    {
+      "title": "First sync can fail with missing protocol config",
+      "url": "https://github.com/0xMiden/rust-sdk/issues/2715",
+      "createdAt": "2026-10-16T17:41:32Z"
+    },
+    {
+      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
+      "createdAt": "2026-10-06T11:40:04Z"
+    },
     {
       "title": "feat(grpo)!: cost penalty (length_penalty.type = \"cost\")",
       "url": "https://github.com/PrimeIntellect-ai/prime-rl/pull/3801",
@@ -273,26 +293,6 @@
       "title": "Add simulate-only tDEMO supply on Base and Arb Sepolia",
       "url": "https://github.com/SAW72/STRANDED/pull/48",
       "createdAt": "2026-10-13T21:01:22Z"
-    },
-    {
-      "title": "Split the auction fee between the guild vault and the treasury",
-      "url": "https://github.com/LegendofKEK/bichael/pull/386",
-      "createdAt": "2026-10-16T17:31:03Z"
-    },
-    {
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/sambaum/k8s/issues/5",
-      "createdAt": "2023-09-13T15:01:55Z"
-    },
-    {
-      "title": "Showcase: economy and law district (plan 5)",
-      "url": "https://github.com/lorecrafting/lokacore/pull/409",
-      "createdAt": "2026-10-16T14:04:49Z"
-    },
-    {
-      "title": "feat: add Dependabot configuration for automated dependency updates",
-      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/pull/253",
-      "createdAt": "2026-10-16T17:43:25Z"
     }
   ]
 }
