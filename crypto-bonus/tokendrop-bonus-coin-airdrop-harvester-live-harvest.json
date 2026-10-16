@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T18:06:16.877Z",
-  "latencyMs": 1506,
+  "executedAt": "2026-10-16T18:07:00.976Z",
+  "latencyMs": 1830,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Delivery Sprint #275: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Migrate workspace to rand 0.10 and update crypto dependencies",
+      "url": "https://github.com/mobilecoinfoundation/mobilecoin/pull/4120",
+      "createdAt": "2026-10-14T21:30:50Z"
+    },
+    {
+      "title": "Ignore dust movements below a configurable threshold",
+      "url": "https://github.com/useconcord/concord/issues/312",
+      "createdAt": "2026-10-16T18:06:40Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
       "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
       "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
       "createdAt": "2026-10-15T12:16:48Z"
@@ -278,21 +293,6 @@
       "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
       "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
       "createdAt": "2026-09-09T13:01:57Z"
-    },
-    {
-      "title": "Roadmap: Black Anvil network rollout",
-      "url": "https://github.com/LegendofKEK/bichael/issues/341",
-      "createdAt": "2026-10-16T02:23:31Z"
-    },
-    {
-      "title": "Add anytime-valid improvement auditor",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/76",
-      "createdAt": "2026-10-13T03:26:58Z"
-    },
-    {
-      "title": "Showcase: economy and law district (plan 5)",
-      "url": "https://github.com/lorecrafting/lokacore/pull/409",
-      "createdAt": "2026-10-16T14:04:49Z"
     }
   ]
 }
