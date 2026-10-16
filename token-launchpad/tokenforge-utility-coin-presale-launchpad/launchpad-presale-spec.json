@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T13:06:25.355Z",
-  "latencyMs": 314,
+  "executedAt": "2026-10-16T13:08:19.373Z",
+  "latencyMs": 469,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #194: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #195: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52683319,
+    "liveBlockNumber": 52683375,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 291777,
+    "baseMainnetTopPoolsVolume24hUsd": 291802,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8xDiE7TYxmmS3ZTeR8y7L6xSrG5WTGTnrDUvSkQ2pump",
+        "description": "Jean Cul (CUL) is a meme token launched on the Solana blockchain.\n\nInspired by internet meme culture, Jean Cul brings humor, creativity, and entertainment to th",
+        "url": "https://dexscreener.com/solana/8xdie7tyxmms3zter8y7l6xsrg5wtgtnrduvskq2pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Egk3cjzrq86WF1hxL7SzcKiiTDghMXb7y1BKueQHpump",
+        "description": "there are no runners without sockss.",
+        "url": "https://dexscreener.com/solana/egk3cjzrq86wf1hxl7szckiitdghmxb7y1bkueqhpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x1CEDa8cd4Ee1bb32D85C62ECB91eD4FB189C157c",
@@ -69,18 +81,6 @@
         "tokenAddress": "6yfQL6Fqfe9SnhLVxZxjGaWAQboBb8YYqZBYceP4pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/6yfql6fqfe9snhlvxzxjgawaqbobb8yyqzbycep4pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DZP4mo7zocshZfMoFSqxzbVdgRbJHdBrfsjUUWVepump",
-        "description": "RoadsterDoge is unhappy with the state of the world. He has embarked on a journey. He's going out there among the stars in search of life, any sign of true supe",
-        "url": "https://dexscreener.com/solana/dzp4mo7zocshzfmofsqxzbvdgrbjhdbrfsjuuwvepump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5aGRLchKmNDvNtzZ7qv2sPW1v349pPYWQZu88uNcTTLG",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5agrlchkmndvntzz7qv2spw1v349ppywqzu88uncttlg"
       }
     ]
   },
