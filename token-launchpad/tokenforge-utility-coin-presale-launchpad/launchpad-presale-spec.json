@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T11:59:01.635Z",
-  "latencyMs": 408,
+  "executedAt": "2026-10-16T12:02:30.910Z",
+  "latencyMs": 248,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #173: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #174: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52681297,
+    "liveBlockNumber": 52681401,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 326996,
+    "baseMainnetTopPoolsLiquidityUsd": 459003,
+    "baseMainnetTopPoolsVolume24hUsd": 325501,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4ti7DQpMPKHcC72t8WBCQj2M8q9CkNu7Fbhwp1u1pump",
+        "description": "Much power. Such flight. Doge Tesla Roadster is taking meme energy to new heights. 🐕⚡️🚀",
+        "url": "https://dexscreener.com/solana/4ti7dqpmpkhcc72t8wbcqj2m8q9cknu7fbhwp1u1pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DG5cR2W2Ms5QnWz5VrAoCbq5xQCB9UWVTCtkugsSpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/dg5cr2w2ms5qnwz5vraocbq5xqcb9uwvtctkugsspump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FYpFjKdLD1MRjq5cbvbnwmAeUDNxe1LrVRyvCDWwpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "2xHJt6sTyRj5aaWSSR9ZTm9C44DoYjmfAbth6tzypump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/2xhjt6styrj5aawssr9ztm9c44doyjmfabth6tzypump"
-      },
-      {
-        "chainId": "near",
-        "tokenAddress": "arson.nearlytrade.near",
-        "description": "\"And it made me think of arsoncoin, a joke coin whose mining involves burning down a structure, and mentioning during the court proceedings the hash of the prev",
-        "url": "https://dexscreener.com/near/arson.nearlytrade.near"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump",
-        "description": "Barron 1$ coin",
-        "url": "https://dexscreener.com/solana/5qjzeb3bubaxqfyg1nqwxgguwybzyagvfezqo31dpump"
       }
     ]
   },
