@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T20:09:00.276Z",
-  "latencyMs": 774,
+  "executedAt": "2026-10-16T20:16:01.858Z",
+  "latencyMs": 1603,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #299: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #300: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52695996,
+    "liveBlockNumber": 52696206,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459008,
-    "baseMainnetTopPoolsVolume24hUsd": 289282,
+    "baseMainnetTopPoolsVolume24hUsd": 289295,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5ubruMYpgKqw9ip5J1qrXbVGmMdn2VCsMg421B4bpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/5ubrumypgkqw9ip5j1qrxbvgmmdn2vcsmg421b4bpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "8jNrFaRyhNh8vccpSQ9o55R4hhinmFc1XfSWwDJhpump",
+        "description": "flegs surf crypto X live, collecting posts and mapping connections to build Fleg AI (trainable LLM)",
+        "url": "https://dexscreener.com/solana/8jnrfaryhnh8vccpsq9o55r4hhinmfc1xfswwdjhpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xcf595c67a50c423cd663e90f47922c4651f91cd6",
+        "description": "Proof of work, in colour. Your computer guesses; the dark hashes become blocks on Robinhood Chain.",
+        "url": "https://dexscreener.com/robinhood/0xcf595c67a50c423cd663e90f47922c4651f91cd6"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5k2utd3WLwfYoXmvReuwjxRdZnf8My5EN7G8SFBMpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "5oZbhxYrdoUiLWsgTxAPx3rgcvBCErw47oD5vXjnoisd",
         "description": "The ultimate security layer for Solana",
         "url": "https://dexscreener.com/solana/5ozbhxyrdouilwsgtxapx3rgcvbcerw47od5vxjnoisd"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x9B6a2C3E00F4bAABF2313217F5bFeAAe4E5C7a72",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/bsc/0x9b6a2c3e00f4baabf2313217f5bfeaae4e5c7a72"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CqsmuSz3zvZLGrdzKNdJni5wEoAwdFW74Y8cXNhupump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/cqsmusz3zvzlgrdzkndjni5weoawdfw74y8cxnhupump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FBnHXngf2kgfPJg5iS6dPebx3oEDUeNHdf44VtXDpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fbnhxngf2kgfpjg5is6dpebx3oeduenhdf44vtxdpump"
       }
     ]
   },
