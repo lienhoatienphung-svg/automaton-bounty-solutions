@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T21:21:33.375Z",
-  "latencyMs": 341,
+  "executedAt": "2026-10-16T21:23:56.105Z",
+  "latencyMs": 1593,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #318: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #319: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 606183,
-      "apyBase": 4.54,
-      "apyRewardBonus": 234482.71,
-      "apyTotal": 234487.24,
+      "tvlUsd": 607734,
+      "apyBase": 0,
+      "apyRewardBonus": 233097.05,
+      "apyTotal": 233097.05,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 949070,
-      "apyBase": 21.02,
-      "apyRewardBonus": 207717.79,
-      "apyTotal": 207738.81,
+      "tvlUsd": 952383,
+      "apyBase": 0,
+      "apyRewardBonus": 157896.16,
+      "apyTotal": 157896.16,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -43,24 +43,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "TRUST-USDC",
-      "tvlUsd": 255975,
-      "apyBase": 113.5,
-      "apyRewardBonus": 61096.05,
-      "apyTotal": 61209.55,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1125022,
-      "apyBase": 1.44,
-      "apyRewardBonus": 57298.68,
-      "apyTotal": 57300.12,
+      "tvlUsd": 1130699,
+      "apyBase": 1.43,
+      "apyRewardBonus": 81228.95,
+      "apyTotal": 81230.38,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -70,10 +57,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 54902,
+      "tvlUsd": 55309,
       "apyBase": 0,
-      "apyRewardBonus": 39372.35,
-      "apyTotal": 39372.35,
+      "apyRewardBonus": 38943.25,
+      "apyTotal": 38943.25,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -82,28 +69,15 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-MUC",
-      "tvlUsd": 980304,
-      "apyBase": 273.11,
-      "apyRewardBonus": 13444.34,
-      "apyTotal": 13717.45,
+      "symbol": "TRUST-USDC",
+      "tvlUsd": 258138,
+      "apyBase": 0,
+      "apyRewardBonus": 22372.03,
+      "apyTotal": 22372.03,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "3cd9aba2-1527-529a-9ecc-6bdc447494af"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "WETH-USDC",
-      "tvlUsd": 150572,
-      "apyBase": 31.34,
-      "apyRewardBonus": 10344.61,
-      "apyTotal": 10375.94,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
+      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
     },
     {
       "chain": "Base",
@@ -121,11 +95,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "WETH-USDC",
+      "tvlUsd": 150651,
+      "apyBase": 0,
+      "apyRewardBonus": 7855.3,
+      "apyTotal": 7855.3,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "USDC-CBBTC",
-      "tvlUsd": 176417,
-      "apyBase": 39.75,
-      "apyRewardBonus": 7410.38,
-      "apyTotal": 7450.13,
+      "tvlUsd": 178081,
+      "apyBase": 0,
+      "apyRewardBonus": 6599.03,
+      "apyTotal": 6599.03,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -135,14 +122,27 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-CBBTC",
-      "tvlUsd": 2074363,
-      "apyBase": 95.66,
-      "apyRewardBonus": 6497.13,
-      "apyTotal": 6592.79,
+      "tvlUsd": 2078011,
+      "apyBase": 0,
+      "apyRewardBonus": 5761.24,
+      "apyTotal": 5761.24,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "SOL-USDC",
+      "tvlUsd": 642864,
+      "apyBase": 0,
+      "apyRewardBonus": 3745.01,
+      "apyTotal": 3745.01,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "a6a1fe38-a220-4f68-a2b9-d2749c3e4664"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
@@ -263,5 +263,36 @@
       "priceBtc": 8.899198327042007e-7
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "[Sampling] Add `SGLANG_RENORM_DETERMINISTIC` for bit-identical top-p / top-k renorm",
+      "url": "https://github.com/sgl-project/sglang/pull/38565",
+      "createdAt": "2026-09-08T21:08:36Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "chore(main): release 1.16.0",
+      "url": "https://github.com/lifekit-hq/finance-sentry/pull/1122",
+      "createdAt": "2026-10-15T22:02:31Z"
+    },
+    {
+      "title": "Gas low on the agent-run accounts",
+      "url": "https://github.com/edxzh/agent-wallet/issues/1",
+      "createdAt": "2026-10-14T05:07:14Z"
+    },
+    {
+      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
+      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
+      "createdAt": "2026-10-09T07:30:01Z"
+    },
+    {
+      "title": "Add unilateral exit, ArkadeCash, and offline LNURL receive demos",
+      "url": "https://github.com/arkade-os/demos/pull/14",
+      "createdAt": "2026-10-16T18:57:04Z"
+    }
+  ]
 }
