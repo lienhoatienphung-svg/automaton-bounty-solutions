@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T19:58:14.761Z",
-  "latencyMs": 680,
+  "executedAt": "2026-10-16T20:00:39.705Z",
+  "latencyMs": 252,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #296: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #297: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52695673,
+    "liveBlockNumber": 52695746,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 281885,
+    "baseMainnetTopPoolsVolume24hUsd": 287309,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5oZbhxYrdoUiLWsgTxAPx3rgcvBCErw47oD5vXjnoisd",
+        "description": "The ultimate security layer for Solana",
+        "url": "https://dexscreener.com/solana/5ozbhxyrdouilwsgtxapx3rgcvbcerw47od5vxjnoisd"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x9B6a2C3E00F4bAABF2313217F5bFeAAe4E5C7a72",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/bsc/0x9b6a2c3e00f4baabf2313217f5bfeaae4e5c7a72"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CqsmuSz3zvZLGrdzKNdJni5wEoAwdFW74Y8cXNhupump",
@@ -69,18 +81,6 @@
         "tokenAddress": "EN3rLpbQa6ZUdH1SrS9oHkkWQUkQBj6VjnqZQhzrpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/en3rlpbqa6zudh1srs9ohkkwqukqbj6vjnqzqhzrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3dgGDYKaab1pAZhaEC6gZQS3PrbZdShXMcoWeVZJpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3dggdykaab1pazhaec6gzqs3prbzdshxmcowevzjpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "43YUMagwus6uxQvQZhE1B95i9os77pyNEr1ipqYjpump",
-        "description": "two binaries in, one game out\ntake a world from one classic and a hero from another, in your browser. create the combo, earn creator fees while people play it",
-        "url": "https://dexscreener.com/solana/43yumagwus6uxqvqzhe1b95i9os77pyner1ipqyjpump"
       }
     ]
   },
