@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T10:46:24.186Z",
-  "latencyMs": 757,
+  "executedAt": "2026-10-16T10:52:46.941Z",
+  "latencyMs": 961,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #155: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #156: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "GnZzaABHtnysrEbRRz2qGfMGrU6n8WdZ4W3GjxGqeqSm",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "$PUMPKINCAT, Following the cat meta, but with a pumpkin twist. \n\nThe perfect mix of cat culture and pumpkin season.",
+      "url": "https://dexscreener.com/solana/gnzzaabhtnysrebrrz2qgfmgru6n8wdz4w3gjxgqeqsm"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
       "boostAmount": 50,
       "totalBoostAmount": 50,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "The World Famous Pikachu Dog",
       "url": "https://dexscreener.com/solana/148fjtrvybpyqqztxnzflqq5sxvkmfmv2clpayvnncx3"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3JjudqkVUTaqmmNeiiiVrcGzDEqzLDRo9ivMMHcWpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "he might be sit but he still pretty fly. \nInspired by Nikola. Paired holder rewards with TSLAx",
-      "url": "https://dexscreener.com/solana/3jjudqkvutaqmmneiiivrcgzdeqzldro9ivmmhcwpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(interface): a legal body for an agent you already run, at /legal-body",
+      "url": "https://github.com/jb1011/Project-Alpha/pull/167",
+      "createdAt": "2026-10-15T14:58:34Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "docs: ths-server file pointers stale + fund_address_from_treasury",
+      "url": "https://github.com/zcashlabs/zcash-skills/issues/9",
+      "createdAt": "2026-10-16T04:29:24Z"
+    },
+    {
       "title": "chore(deps): update dependency lucide-react to v1.58.0",
-      "url": "https://github.com/jefferson-calmon/next-starter/pull/30",
-      "createdAt": "2025-04-21T10:13:58Z"
+      "url": "https://github.com/cubeshipd/cubeship/pull/80",
+      "createdAt": "2026-10-12T19:42:03Z"
     },
     {
-      "title": "On-policy joint-choice Non-Combat improvement under frozen potion-enabled Search",
-      "url": "https://github.com/lsmfttb/spire-research/issues/60",
-      "createdAt": "2026-10-16T04:02:07Z"
+      "title": "[Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a step summary",
+      "url": "https://github.com/Parabola-org/parabola/issues/18",
+      "createdAt": "2026-10-15T20:03:03Z"
     },
     {
-      "title": "README, .env.example and config/tokens.json point at a different testnet deployment from the one documented in SO4-Markets/contracts",
-      "url": "https://github.com/SO4-Markets/so4-oracle/issues/1234",
-      "createdAt": "2026-10-14T06:46:31Z"
-    },
-    {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/JaimeTR/Envialo/pull/10",
-      "createdAt": "2026-09-04T06:00:49Z"
-    },
-    {
-      "title": "fix(cli): wait for environments that are still starting",
-      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/277",
-      "createdAt": "2026-10-14T09:21:24Z"
-    },
-    {
-      "title": "Add contract test for admin query before and after initialize",
-      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/137",
-      "createdAt": "2026-09-18T18:07:06Z"
+      "title": "chore(deps): Update dependency lucide-react to v1",
+      "url": "https://github.com/Xevion/byte-me/pull/127",
+      "createdAt": "2026-03-30T01:09:42Z"
     }
   ]
 }
