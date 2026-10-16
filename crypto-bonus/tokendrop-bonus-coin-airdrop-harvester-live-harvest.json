@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T20:50:54.824Z",
-  "latencyMs": 1512,
+  "executedAt": "2026-10-16T20:51:40.052Z",
+  "latencyMs": 981,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #310: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
+  "workTitle": "Delivery Sprint #311: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "build(sdk): move every Platform pin to 5.0.0-rc.3, the version testnet runs",
+      "url": "https://github.com/PastaPastaPasta/dash-forge/pull/490",
+      "createdAt": "2026-10-16T20:49:00Z"
+    },
+    {
+      "title": "chore(sync): merge upstream/main eff118c2",
+      "url": "https://github.com/Polkadot-Community-Foundation/polkadot-ios-community/pull/74",
+      "createdAt": "2026-10-16T20:50:58Z"
+    },
+    {
       "title": "Multi-network faucet: network picker, above-the-fold claim, deps upgrade",
       "url": "https://github.com/bsv-blockchain-demos/ttn-faucet/pull/8",
       "createdAt": "2026-10-16T20:27:12Z"
@@ -280,19 +290,9 @@
       "createdAt": "2026-10-16T15:24:06Z"
     },
     {
-      "title": "build(sdk): move every Platform pin to 5.0.0-rc.3, the version testnet runs",
-      "url": "https://github.com/PastaPastaPasta/dash-forge/pull/490",
-      "createdAt": "2026-10-16T20:49:00Z"
-    },
-    {
       "title": "fix(l1): RPC rate-limit identity per IPv6 /64; gateways never trust the leftmost X-Forwarded-For (P1-02)",
       "url": "https://github.com/zyron249/-zyronchain/pull/1037",
       "createdAt": "2026-10-16T20:46:06Z"
-    },
-    {
-      "title": "TEN4: burn genesis LP, schedule ride emission, rename the coin",
-      "url": "https://github.com/recferret-bit/freightchain/pull/3",
-      "createdAt": "2026-10-16T20:49:02Z"
     }
   ]
 }
