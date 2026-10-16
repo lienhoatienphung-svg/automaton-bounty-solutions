@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T09:34:40.068Z",
-  "latencyMs": 969,
+  "executedAt": "2026-10-16T09:38:47.290Z",
+  "latencyMs": 1128,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #133: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #134: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "TRGNtERnbRtVkaMJ1MqU4DzSEkHrtd2qFesh6Rgravi",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "GRAVI is the token of GraviFi: index baskets of tokenized stocks, crypto and memecoins on Solana, each held as one token in your own wallet. Every basket mint a",
+      "url": "https://dexscreener.com/solana/trgnternbrtvkamj1mqu4dzsekhrtd2qfesh6rgravi"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x9A7C661Be578e50927268fb770146D701b3368e7",
       "boostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "The index token of the OTC ecosystem. Holders are rewarded in leading OTC ecosystem coins through a dynamic top-10 index. Built for the community, powered by th",
       "url": "https://dexscreener.com/solana/enambdkvymxytcsdy8g32e2xy61q4tpyt3reh47qlygk"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3AkNtx7ZYEmMZKciNyrwUNiHMpP4AUNPqHCmAJcsYCus",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Tesla built the car. SpaceX launched it. Starman became the icon.",
-      "url": "https://dexscreener.com/solana/3akntx7zyemmzkcinyrwunihmpp4aunpqhcmajcsycus"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 561,
-      "priceBtc": 4.601094580588604e-7
+      "marketCapRank": 581,
+      "priceBtc": 4.3809859396380747e-7
+    },
+    {
+      "name": "IGNITION",
+      "symbol": "IGNITION",
+      "marketCapRank": 865,
+      "priceBtc": 2.3533152154903936e-7
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 101,
-      "priceBtc": 0.000008350382777878114
-    },
-    {
-      "name": "IGNITION",
-      "symbol": "IGNITION",
-      "marketCapRank": 869,
-      "priceBtc": 2.336299272847589e-7
+      "priceBtc": 0.000008278877786693034
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00011171169979109001
+      "priceBtc": 0.00011155378730528606
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.360537565469373e-8
-    },
-    {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "marketCapRank": 86,
-      "priceBtc": 0.00002707813172145376
+      "priceBtc": 9.362368018972313e-8
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 639,
-      "priceBtc": 0.001349980719541908
+      "marketCapRank": 640,
+      "priceBtc": 0.0013519174054793508
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 102,
-      "priceBtc": 0.00002309060449835113
+      "priceBtc": 0.000022986018101203424
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "marketCapRank": 86,
+      "priceBtc": 0.000027128389750005885
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "iSabi v4: email sign-in, profiles with pictures, campaigns board and …",
-      "url": "https://github.com/Kingkanzi0/stablestudy/pull/8",
-      "createdAt": "2026-10-16T09:27:09Z"
+      "title": "Improve financial accounts integration and security messaging",
+      "url": "https://github.com/load66/bonus-tracker/pull/66",
+      "createdAt": "2026-10-16T09:23:56Z"
     },
     {
-      "title": "test(functional): cover community token mint, airdrop, and burn",
-      "url": "https://github.com/status-im/status-go/pull/7942",
-      "createdAt": "2026-10-15T09:09:13Z"
+      "title": "feat: moderate commits with Jev rules",
+      "url": "https://github.com/nunomaduro/dev-null.sh/pull/125",
+      "createdAt": "2026-10-15T17:48:05Z"
     },
     {
-      "title": "chore(deps): update dependency lucide-react to v1.58.0",
-      "url": "https://github.com/YsraEstudos/FiscalConsultas/pull/287",
-      "createdAt": "2026-05-14T11:57:19Z"
+      "title": "feat: upgrade wallet to SDK 0.5",
+      "url": "https://github.com/arkade-os/wallet/pull/936",
+      "createdAt": "2026-08-31T14:43:36Z"
     },
     {
-      "title": "chore(deps): update dependency @lucide/svelte to v1",
-      "url": "https://github.com/huzvanec/Listujeme/pull/16",
-      "createdAt": "2026-03-23T20:54:11Z"
+      "title": "Add Rust doc tests for public library functions",
+      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/131",
+      "createdAt": "2026-09-18T18:06:50Z"
     },
     {
-      "title": "refactor: move speculative verification sampling into the rejection sampler.",
-      "url": "https://github.com/xLLM-AI/xllm/pull/2498",
-      "createdAt": "2026-10-16T06:08:03Z"
+      "title": "Update bun non-major dependencies",
+      "url": "https://github.com/webermarci/weberkft/pull/7",
+      "createdAt": "2026-08-03T01:02:06Z"
     },
     {
-      "title": "feat(lore): discover the Clearance Protocol through existing content paths",
-      "url": "https://github.com/ElderEvil/falloutProject/pull/988",
-      "createdAt": "2026-10-13T16:34:58Z"
+      "title": "chore: enable database features only in the respective connectors",
+      "url": "https://github.com/faucet-hq/faucet-stream/pull/901",
+      "createdAt": "2026-10-15T14:38:26Z"
     }
   ]
 }
