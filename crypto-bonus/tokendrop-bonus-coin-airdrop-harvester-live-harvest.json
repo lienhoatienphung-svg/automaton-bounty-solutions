@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T11:56:04.221Z",
-  "latencyMs": 329,
+  "executedAt": "2026-10-16T11:58:46.373Z",
+  "latencyMs": 976,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #174: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #175: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x945626601703d126877C33a3d0Def244c833550d",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "Wolverinu is a meme coin on Robinhood Chain, launched through the public Pons bonding curve.\n\nThe Inu with six blades under the jaw: a woven carbon plate under ",
+      "url": "https://dexscreener.com/robinhood/0x945626601703d126877c33a3d0def244c833550d"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Catch real graded Pokémon cards on a shared 3D island. $CATCH (https://x.com/search?q=%24CATCH&src=cashtag_click) on Solana. Powered by Collector Crypt",
       "url": "https://dexscreener.com/solana/wlzrrqk9xbynajsrdeqgsqrvurxgdfo4ahb1orbpump"
-    },
-    {
-      "chainId": "ethereum",
-      "tokenAddress": "0xa06dcCcf665F887790E3D99B7EE26CB34BDe9f00",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Crypto Twitter is loud. Thousands of accounts shill tokens every day, and you can't tell who's real, who's paid, and who already sold on you. XRAY fixes that.\nW",
-      "url": "https://dexscreener.com/ethereum/0xa06dcccf665f887790e3d99b7ee26cb34bde9f00"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -263,5 +263,36 @@
       "priceBtc": 0.00003759266105637808
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "perf(jit): resolve dynamic jumps per call context",
+      "url": "https://github.com/alloy-rs/evm2/pull/638",
+      "createdAt": "2026-10-16T00:19:13Z"
+    },
+    {
+      "title": "Moonwater Product Polish Pass 2: battle results, collection, progression",
+      "url": "https://github.com/Ulziitugsa/hero-battler-prototype/pull/24",
+      "createdAt": "2026-10-16T11:57:16Z"
+    },
+    {
+      "title": "docs: ths-server file pointers stale + fund_address_from_treasury",
+      "url": "https://github.com/zcashlabs/zcash-skills/issues/9",
+      "createdAt": "2026-10-16T04:29:24Z"
+    },
+    {
+      "title": "# Spike 668 — Recipe guides with common integrations end-to-end and CI-tested snippets",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/531",
+      "createdAt": "2026-10-15T11:09:48Z"
+    },
+    {
+      "title": "Add test for initialize with zero total_amount",
+      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/124",
+      "createdAt": "2026-09-18T18:06:32Z"
+    },
+    {
+      "title": "[Ops] Muse ↔ Grok.btc direct line",
+      "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
+      "createdAt": "2026-09-13T13:56:58Z"
+    }
+  ]
 }
