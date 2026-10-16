@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T07:31:39.167Z",
-  "latencyMs": 793,
+  "executedAt": "2026-10-16T07:34:19.987Z",
+  "latencyMs": 888,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #96: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #97: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
-      "createdAt": "2026-10-06T11:40:04Z"
+      "title": "fix(sampling): make per-request single-token draws independent of prefill chunking",
+      "url": "https://github.com/lightseekorg/tokenspeed/pull/2380",
+      "createdAt": "2026-10-15T13:42:04Z"
     },
     {
-      "title": "Integrate NFT rewards for campaign backers on Stellar",
-      "url": "https://github.com/Fundable-Protocol/stellar_client_os/issues/1241",
-      "createdAt": "2026-10-16T07:30:56Z"
+      "title": "⚠️ [MEDIUM] Unchecked Return Values in ERC-20 Transfer Calls inside `Airdrop.sol`",
+      "url": "https://github.com/StellarFlow-Network/stellarflow-contracts/issues/1187",
+      "createdAt": "2026-10-08T11:48:25Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "[Perf] Optimize DSV4.1 SM90 Indexer/TopK",
+      "url": "https://github.com/bytedance-iaas/sglang/pull/816",
+      "createdAt": "2026-10-09T10:15:53Z"
     },
     {
-      "title": "feat(algorithms): add score centering policy loss",
-      "url": "https://github.com/redai-studio/Relax/pull/440",
-      "createdAt": "2026-10-15T04:03:58Z"
+      "title": "chore(hosts): remove the Meld on-ramp and the Android fund module",
+      "url": "https://github.com/paritytech/trinity-user-agents/pull/1332",
+      "createdAt": "2026-10-08T09:06:25Z"
+    },
+    {
+      "title": "docs(adr): Sepolia tUSDC address and Safe T Circle USDC reading (#230)",
+      "url": "https://github.com/Nostidus4/TreasuryPilot/pull/566",
+      "createdAt": "2026-10-16T07:33:20Z"
     },
     {
       "title": "Central message board — Hermes, Claude, Codex and operator coordination",
       "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
       "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "fix(core)!: apply the service manifest to any plugin list and pick job queues per process",
-      "url": "https://github.com/blurifycom/openora/pull/298",
-      "createdAt": "2026-10-13T09:33:35Z"
     }
   ]
 }
