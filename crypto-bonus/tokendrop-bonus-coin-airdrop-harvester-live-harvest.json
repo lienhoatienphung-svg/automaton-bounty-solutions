@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T18:45:26.130Z",
-  "latencyMs": 901,
+  "executedAt": "2026-10-16T18:48:06.248Z",
+  "latencyMs": 1342,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #282: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #283: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 733,
-      "priceBtc": 3.1895238235316e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 615,
-      "priceBtc": 0.0014204858189804514
+      "marketCapRank": 746,
+      "priceBtc": 3.10019391864e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006142313085784928
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 105,
-      "priceBtc": 0.000021357749157678335
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9999761538906332
+      "priceBtc": 0.0000611752482311925
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010509660120928067
+      "priceBtc": 0.00010525818958314905
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9963875130235034
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 613,
+      "priceBtc": 0.001420415168157299
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 105,
+      "priceBtc": 0.000021429604378098696
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000012378675092090544
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 49,
-      "priceBtc": 5.2603060744501486e-8
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 99,
-      "priceBtc": 0.000008347889402822878
+      "priceBtc": 5.2380183188682146e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "`compound_stake` Credits Rewards That Were Never Funded",
+      "url": "https://github.com/NovaGrids/VaultDAO/issues/1906",
+      "createdAt": "2026-10-15T15:27:12Z"
+    },
+    {
+      "title": "Add contract test for admin query before and after initialize",
+      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/137",
+      "createdAt": "2026-09-18T18:07:06Z"
+    },
+    {
+      "title": "perf(jit): resolve jumps through deep stacks and try/catch",
+      "url": "https://github.com/alloy-rs/evm2/pull/671",
+      "createdAt": "2026-10-16T18:24:54Z"
+    },
+    {
+      "title": "feat: add on-chain Merkle batch payment proof verifier for bulk disbursements",
+      "url": "https://github.com/MetroLogic/fluxapay_contract/issues/1027",
+      "createdAt": "2026-10-15T20:01:13Z"
+    },
     {
       "title": "test(sui): ledger stream e2e on a subscription-enabled localnet GraphQL service (3.0 stack)",
       "url": "https://github.com/MystenLabs/ts-sdks/pull/1355",
       "createdAt": "2026-10-16T05:45:20Z"
     },
     {
-      "title": "feat(activity): return canonical wallet transaction history",
-      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/361",
-      "createdAt": "2026-10-15T14:12:23Z"
-    },
-    {
-      "title": "Roadmap: Black Anvil network rollout",
-      "url": "https://github.com/LegendofKEK/bichael/issues/341",
-      "createdAt": "2026-10-16T02:23:31Z"
-    },
-    {
-      "title": "加入「進度同步」：手機和 iPad 互相帶「我會了」的勾選",
-      "url": "https://github.com/some-one-go-dieing/calc-review/pull/5",
-      "createdAt": "2026-10-16T18:44:33Z"
-    },
-    {
-      "title": "👛feat(escrow): wallet readiness check before a guest creates an escrow (XLM, USDC trustline, balance, registered wallet)",
-      "url": "https://github.com/safetrustcr/dApp-SafeTrust/issues/507",
-      "createdAt": "2026-10-16T04:43:25Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "feat: add Merkle batch payment proof verification for bulk disbursements",
+      "url": "https://github.com/MetroLogic/fluxapay_contract/issues/1026",
+      "createdAt": "2026-10-15T19:47:30Z"
     }
   ]
 }
