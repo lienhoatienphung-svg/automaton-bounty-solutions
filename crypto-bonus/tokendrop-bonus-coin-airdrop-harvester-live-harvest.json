@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T02:30:30.271Z",
-  "latencyMs": 1206,
+  "executedAt": "2026-10-16T02:31:45.778Z",
+  "latencyMs": 840,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #4: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #5: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "perf(jit): resolve dynamic jumps per call context",
+      "url": "https://github.com/alloy-rs/evm2/pull/638",
+      "createdAt": "2026-10-16T00:19:13Z"
+    },
+    {
       "title": "perf(jit): fold MLOADs of known memory words",
       "url": "https://github.com/alloy-rs/evm2/pull/652",
       "createdAt": "2026-10-16T02:02:15Z"
@@ -288,11 +293,6 @@
       "title": "fix(city): pre-entry caption and installed Forge runtime verification",
       "url": "https://github.com/ZeroPointSix/sound-isolating-eraser/pull/34",
       "createdAt": "2026-10-15T03:37:07Z"
-    },
-    {
-      "title": "Add the vision-encoder-objective task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/84",
-      "createdAt": "2026-10-14T17:20:01Z"
     }
   ]
 }
