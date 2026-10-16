@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T16:00:36.934Z",
-  "latencyMs": 1142,
+  "executedAt": "2026-10-16T16:02:22.676Z",
+  "latencyMs": 706,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #242: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #243: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,36 +263,5 @@
       "priceBtc": 9.292121108582761e-8
     }
   ],
-  "activeAirdropAndFaucetQuests": [
-    {
-      "title": "Add batch deposit for multiple recipients in one transaction",
-      "url": "https://github.com/soterika/aura-vault-protocol/issues/932",
-      "createdAt": "2026-09-21T21:59:58Z"
-    },
-    {
-      "title": "docs: add SDK cookbook with 10 runnable recipe scripts (closes #1109)",
-      "url": "https://github.com/mergemint-mint/mergemint-contracts/pull/1132",
-      "createdAt": "2026-10-16T15:59:59Z"
-    },
-    {
-      "title": "fix(evals): keep registered-agent MCP secret templates literal through Gym's config loader",
-      "url": "https://github.com/NVIDIA-NeMo/nemo-helix/pull/3008",
-      "createdAt": "2026-10-15T20:05:20Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "fix: stock drop external audit findings (Halborn H36–H53)",
-      "url": "https://github.com/moonwell-fi/mamo-contracts/pull/117",
-      "createdAt": "2026-10-16T15:59:11Z"
-    },
-    {
-      "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
-      "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
-      "createdAt": "2026-10-15T12:16:48Z"
-    }
-  ]
+  "activeAirdropAndFaucetQuests": []
 }
