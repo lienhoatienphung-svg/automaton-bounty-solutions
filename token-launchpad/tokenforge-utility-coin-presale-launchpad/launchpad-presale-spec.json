@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T07:22:23.120Z",
-  "latencyMs": 403,
+  "executedAt": "2026-10-16T07:26:23.735Z",
+  "latencyMs": 255,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #93: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #94: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52672997,
+    "liveBlockNumber": 52673118,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458995,
-    "baseMainnetTopPoolsVolume24hUsd": 253334,
+    "baseMainnetTopPoolsVolume24hUsd": 252711,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8rAhJEyM72smDNgGUcPETXoVi21x7k2R8u2AMXGQpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8rahjeym72smdnggucpetxovi21x7k2r8u2amxgqpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CEuqMZ7iVEVnBKmP1aBBqC4VjRdpr5KCqnYEZjwswbux",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/ceuqmz7ivevnbkmp1abbqc4vjrdpr5kcqnyezjwswbux"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BVik4jBJjYzVb1YikUEPXywryof87SAcf5s9LPLsEsft",
+        "description": "Project GoHusky",
+        "url": "https://dexscreener.com/solana/bvik4jbjjyzvb1yikuepxywryof87sacf5s9lplsesft"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FnWnRBfFBiuYFnR1ayiyEJ1x94QaEnw4UQJMsgnqpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "4MmUFLyXiMtAcJaE7jqbSowTsqDAcM8Uc95q9czSpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/4mmuflyximtacjae7jqbsowtsqdacm8uc95q9czspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3JjudqkVUTaqmmNeiiiVrcGzDEqzLDRo9ivMMHcWpump",
-        "description": "he might be sit but he still pretty fly. \nInspired by Nikola. Paired holder rewards with TSLAx",
-        "url": "https://dexscreener.com/solana/3jjudqkvutaqmmneiiivrcgzdeqzldro9ivmmhcwpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DjrijJNopHheVub1JdtJ7snqHS55kNY6kC5HNViTpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/djrijjnophhevub1jdtj7snqhs55kny6kc5hnvitpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x8953e3D1674CaCF330aCc81C35D945C7bADEDe49",
-        "description": "Doge Pepe will run on Robinhood.\nThe empire is coming.\nFrom memes to the moon",
-        "url": "https://dexscreener.com/robinhood/0x8953e3d1674cacf330acc81c35d945c7badede49"
       }
     ]
   },
