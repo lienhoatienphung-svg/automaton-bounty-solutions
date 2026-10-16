@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T15:54:43.746Z",
-  "latencyMs": 912,
+  "executedAt": "2026-10-16T16:00:36.934Z",
+  "latencyMs": 1142,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #241: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #242: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 763,
-      "priceBtc": 2.883827315136999e-7
+      "marketCapRank": 754,
+      "priceBtc": 2.973105071176704e-7
     },
     {
       "name": "astronaut",
       "symbol": "ASTRO",
-      "marketCapRank": 980,
-      "priceBtc": 1.7802407461180852e-7
+      "marketCapRank": 992,
+      "priceBtc": 1.8216959394223704e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00011049501335043524
+      "priceBtc": 0.00011007829499999966
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
-      "marketCapRank": 98,
-      "priceBtc": 0.000008577780455655167
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "marketCapRank": 34,
-      "priceBtc": 0.0034556109213657125
+      "marketCapRank": 95,
+      "priceBtc": 0.000008593574220350887
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.00002196318077499557
+      "priceBtc": 0.000021831492686375955
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010821542316656789
+      "priceBtc": 0.000010765218463046543
     },
     {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 109,
-      "priceBtc": 9.137467166701957e-7
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "marketCapRank": 34,
+      "priceBtc": 0.0034346943760789244
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.292121108582761e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore(deps): update solders requirement from >=0.21.0 to >=0.29.0",
-      "url": "https://github.com/quillhog0/claime/pull/2",
-      "createdAt": "2026-10-16T15:54:14Z"
+      "title": "Add batch deposit for multiple recipients in one transaction",
+      "url": "https://github.com/soterika/aura-vault-protocol/issues/932",
+      "createdAt": "2026-09-21T21:59:58Z"
     },
     {
-      "title": "Roadmap: Black Anvil network rollout",
-      "url": "https://github.com/LegendofKEK/bichael/issues/341",
-      "createdAt": "2026-10-16T02:23:31Z"
+      "title": "docs: add SDK cookbook with 10 runnable recipe scripts (closes #1109)",
+      "url": "https://github.com/mergemint-mint/mergemint-contracts/pull/1132",
+      "createdAt": "2026-10-16T15:59:59Z"
+    },
+    {
+      "title": "fix(evals): keep registered-agent MCP secret templates literal through Gym's config loader",
+      "url": "https://github.com/NVIDIA-NeMo/nemo-helix/pull/3008",
+      "createdAt": "2026-10-15T20:05:20Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "fix: stock drop external audit findings (Halborn H36–H53)",
+      "url": "https://github.com/moonwell-fi/mamo-contracts/pull/117",
+      "createdAt": "2026-10-16T15:59:11Z"
     },
     {
       "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
       "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
       "createdAt": "2026-10-15T12:16:48Z"
-    },
-    {
-      "title": "chore(deps): update all non-major dependencies",
-      "url": "https://github.com/reddoorla/caltex-landing/pull/66",
-      "createdAt": "2026-09-21T16:44:32Z"
-    },
-    {
-      "title": "feat(products): fundtest, a Paseo funding provider the testnet apps bundle",
-      "url": "https://github.com/paritytech/trinity-user-agents/pull/1402",
-      "createdAt": "2026-10-14T08:11:56Z"
-    },
-    {
-      "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
-      "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
-      "createdAt": "2026-10-09T09:52:33Z"
     }
   ]
 }
