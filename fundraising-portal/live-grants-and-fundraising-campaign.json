@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T13:33:39.650Z",
-  "latencyMs": 934,
+  "executedAt": "2026-10-16T13:38:27.115Z",
+  "latencyMs": 760,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #185: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #186: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "fix(#926): distinguish pending owner/assistant invitations from actual managers",
-          "url": "https://github.com/koith/attendance-proto/pull/927",
-          "repositoryUrl": "https://api.github.com/repos/koith/attendance-proto",
-          "updatedAt": "2026-10-16T13:33:35Z"
-        },
-        {
-          "title": "Add private setup and Feishu/iMessage storage alerts",
-          "url": "https://github.com/byliu-labs/agent-storage-guard/pull/7",
-          "repositoryUrl": "https://api.github.com/repos/byliu-labs/agent-storage-guard",
-          "updatedAt": "2026-10-16T13:33:34Z"
-        },
-        {
-          "title": "chore(deps): update pnpm to v12",
-          "url": "https://github.com/kazupon/gh-changelogen/pull/166",
-          "repositoryUrl": "https://api.github.com/repos/kazupon/gh-changelogen",
-          "updatedAt": "2026-10-16T13:33:34Z"
-        },
-        {
-          "title": "Add App Studio, with owner-only Sign in with Freepod",
-          "url": "https://github.com/erikvanzijst/freepod/pull/191",
-          "repositoryUrl": "https://api.github.com/repos/erikvanzijst/freepod",
-          "updatedAt": "2026-10-16T13:33:33Z"
-        },
-        {
-          "title": "Devops/prep",
-          "url": "https://github.com/vilnius-vmsa/dev-standard/pull/65",
-          "repositoryUrl": "https://api.github.com/repos/vilnius-vmsa/dev-standard",
-          "updatedAt": "2026-10-16T13:33:33Z"
-        },
-        {
-          "title": "feat(evals): add security cases",
-          "url": "https://github.com/HexamindOrganisation/hexgate/pull/367",
-          "repositoryUrl": "https://api.github.com/repos/HexamindOrganisation/hexgate",
-          "updatedAt": "2026-10-16T13:33:32Z"
-        },
-        {
-          "title": "feat(session-share): filter by person and open original sessions",
-          "url": "https://github.com/openclaw/openclaw/pull/156736",
-          "repositoryUrl": "https://api.github.com/repos/openclaw/openclaw",
-          "updatedAt": "2026-10-16T13:33:32Z"
-        },
-        {
-          "title": "MEM: preserve governed SET and scope through grounded personal recall",
-          "url": "https://github.com/agustealo/AI-Karen/pull/423",
-          "repositoryUrl": "https://api.github.com/repos/agustealo/AI-Karen",
-          "updatedAt": "2026-10-16T13:33:31Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
