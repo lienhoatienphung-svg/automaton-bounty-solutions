@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T05:19:36.297Z",
-  "latencyMs": 689,
+  "executedAt": "2026-10-16T05:24:57.004Z",
+  "latencyMs": 930,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #53: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #54: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 589064,
-      "apyBase": 4.45,
-      "apyRewardBonus": 230559.47,
-      "apyTotal": 230563.92,
+      "tvlUsd": 591667,
+      "apyBase": 4.29,
+      "apyRewardBonus": 227169.19,
+      "apyTotal": 227173.48,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 907953,
-      "apyBase": 15.98,
-      "apyRewardBonus": 176434.13,
-      "apyTotal": 176450.11,
+      "tvlUsd": 907562,
+      "apyBase": 16.19,
+      "apyRewardBonus": 176600.55,
+      "apyTotal": 176616.74,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -44,10 +44,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1134872,
-      "apyBase": 1.62,
-      "apyRewardBonus": 87192.18,
-      "apyTotal": 87193.8,
+      "tvlUsd": 1142879,
+      "apyBase": 1.61,
+      "apyRewardBonus": 85377.31,
+      "apyTotal": 85378.93,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -55,12 +55,25 @@
     },
     {
       "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "TRUST-USDC",
+      "tvlUsd": 262685,
+      "apyBase": 83.43,
+      "apyRewardBonus": 41819.8,
+      "apyTotal": 41903.23,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
+    },
+    {
+      "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 57063,
+      "tvlUsd": 56980,
       "apyBase": 0,
-      "apyRewardBonus": 40090.35,
-      "apyTotal": 40090.35,
+      "apyRewardBonus": 39691.97,
+      "apyTotal": 39691.97,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -69,24 +82,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "TRUST-USDC",
-      "tvlUsd": 262372,
-      "apyBase": 63.48,
-      "apyRewardBonus": 23901.26,
-      "apyTotal": 23964.74,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 156164,
-      "apyBase": 29.56,
-      "apyRewardBonus": 10402.55,
-      "apyTotal": 10432.11,
+      "tvlUsd": 156775,
+      "apyBase": 28.18,
+      "apyRewardBonus": 9946.27,
+      "apyTotal": 9974.45,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -108,24 +108,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-SNDKC",
-      "tvlUsd": 1263094,
-      "apyBase": 185.49,
-      "apyRewardBonus": 6151.74,
-      "apyTotal": 6337.23,
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 208853,
+      "apyBase": 46.41,
+      "apyRewardBonus": 4214.43,
+      "apyTotal": 4260.84,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-MUC",
-      "tvlUsd": 1069561,
-      "apyBase": 184.87,
-      "apyRewardBonus": 4011.88,
-      "apyTotal": 4196.75,
+      "tvlUsd": 1071779,
+      "apyBase": 185.68,
+      "apyRewardBonus": 4107.89,
+      "apyTotal": 4293.57,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -134,15 +134,15 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-CBBTC",
-      "tvlUsd": 208527,
-      "apyBase": 48.27,
-      "apyRewardBonus": 3860.7,
-      "apyTotal": 3908.98,
+      "symbol": "USDC-SNDKC",
+      "tvlUsd": 1261285,
+      "apyBase": 157.69,
+      "apyRewardBonus": 4072.1,
+      "apyTotal": 4229.79,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
+      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(serve): cross-instance cancel reports cancelled before the owner stops; cancelled runs logged as completed",
-      "url": "https://github.com/faucet-hq/faucet-stream/issues/907",
-      "createdAt": "2026-10-16T05:19:27Z"
+      "title": "deps Update lucide to v1.57.0",
+      "url": "https://github.com/weishaodaren/agentkit/pull/56",
+      "createdAt": "2026-08-05T04:05:31Z"
     },
     {
-      "title": "fix(helm): single-pod serve with a volume upgrades with RollingUpdate (Multi-Attach hang, two writers on SQLite)",
-      "url": "https://github.com/faucet-hq/faucet-stream/issues/906",
-      "createdAt": "2026-10-16T05:19:18Z"
+      "title": "feat(envs): add a BWM world-model backend for RoboTwin",
+      "url": "https://github.com/RLinf/RLinf/pull/1714",
+      "createdAt": "2026-10-16T04:48:04Z"
     },
     {
-      "title": "fix(serve): /readyz reports ready while the cluster's history database is unreachable",
-      "url": "https://github.com/faucet-hq/faucet-stream/issues/905",
-      "createdAt": "2026-10-16T05:19:09Z"
+      "title": "[Perf][AMD] Drop the per-step whole-vocab gather of draft logits via sharded accept on DSV4.1",
+      "url": "https://github.com/sgl-project/sglang/pull/44465",
+      "createdAt": "2026-10-15T10:24:13Z"
     },
     {
-      "title": "Roadmap: Black Anvil network rollout",
-      "url": "https://github.com/LegendofKEK/bichael/issues/341",
-      "createdAt": "2026-10-16T02:23:31Z"
+      "title": "SF-010: live upgrade-security and browser wallet acceptance on testnet",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/70",
+      "createdAt": "2026-10-15T06:19:09Z"
     },
     {
-      "title": "[Bugfix][OpenAI] Respect allowed_token_ids in beam search",
-      "url": "https://github.com/vllm-project/vllm/pull/47630",
-      "createdAt": "2026-07-05T06:13:07Z"
+      "title": "perf(jit): dedup discovered jump edges in O(1)",
+      "url": "https://github.com/alloy-rs/evm2/pull/658",
+      "createdAt": "2026-10-16T03:07:05Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "👛feat(escrow): wallet readiness check before a guest creates an escrow (XLM, USDC trustline, balance, registered wallet)",
+      "url": "https://github.com/safetrustcr/dApp-SafeTrust/issues/507",
+      "createdAt": "2026-10-16T04:43:25Z"
     }
   ]
 }
