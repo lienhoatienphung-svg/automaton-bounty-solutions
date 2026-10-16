@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T17:38:44.055Z",
-  "latencyMs": 353,
+  "executedAt": "2026-10-16T17:41:08.116Z",
+  "latencyMs": 326,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #266: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #267: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52691488,
+    "liveBlockNumber": 52691560,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 290796,
+    "baseMainnetTopPoolsVolume24hUsd": 290434,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x98dcc6f9b8298ae1a225b8df1519e7565d45672d",
+        "description": "Ghostdex: trade the stock tokens on Robinhood Chain from ghost wallets, and run AI agents that can only spend what their ghost holds.",
+        "url": "https://dexscreener.com/robinhood/0x98dcc6f9b8298ae1a225b8df1519e7565d45672d"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "B2GESkSErPjuCq6n4LcaJP5v2z1kJnw3xHVZnop2sZx",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/b2geskserpjucq6n4lcajp5v2z1kjnw3xhvznop2szx"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "AxkiXdYD9ATjT7K2ATPYyn6mUpGBNkP9YieDAQ91pump",
+        "description": "pGO turns real places into coins on pumpfun. Pin a coin to any spot on Earth or walk to a famous place and launch it as its creator. Trading fees fill packs of ",
+        "url": "https://dexscreener.com/solana/axkixdyd9atjt7k2atpyyn6mupgbnkp9yiedaq91pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FjvP3h3DcoLLfaBRccNSioMQMkeqCR5Y11z9GcXqpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "0xf0808ddae4405402D29E4528Ac7346E4A3675248",
         "description": "$SPORTS is the cardcoin for sports cards: one coin for every sports pack on VibeMarket. Rip a pack, then for each card choose SELL BACK for the cash or COLLECT,",
         "url": "https://dexscreener.com/robinhood/0xf0808ddae4405402d29e4528ac7346e4a3675248"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2CNSSZv9iaJLc9RTRxAgJr5oMkNFSTUD1Ag94gzspump",
-        "description": "🚀 TESLA FLY GAME ($TFG) 🎮\n\nOne Game. One Coin. One Community.\n\n$TFG is a community-driven meme coin connected to TESLA FLY GAME, an independent 3D racing game",
-        "url": "https://dexscreener.com/solana/2cnsszv9iajlc9rtrxagjr5omknfstud1ag94gzspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BMgkPM5G5kLtB6Ffv5wnRAh2quN8qBdQC1wFnVXNpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bmgkpm5g5kltb6ffv5wnrah2qun8qbdqc1wfnvxnpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "91BdETsex3dR8dgqwnAsxr9h3n5u8aKfg27GeKTdpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/91bdetsex3dr8dgqwnasxr9h3n5u8akfg27gektdpump"
       }
     ]
   },
