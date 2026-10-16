@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T16:15:45.066Z",
-  "latencyMs": 326,
+  "executedAt": "2026-10-16T16:18:32.727Z",
+  "latencyMs": 635,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #244: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #245: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52688998,
+    "liveBlockNumber": 52689082,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 289684,
+    "baseMainnetTopPoolsVolume24hUsd": 289748,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7cNGyBBjcRZt7RSWZzh4fzXojg5mpsDLVuixgS8bpump",
+        "description": "CryptoCars (CRS) is a Web3 racing game on Solana featuring collectible cars, competitive racing, vehicle upgrades, a player marketplace, and a token-based Play-",
+        "url": "https://dexscreener.com/solana/7cngybbjcrzt7rswzzh4fzxojg5mpsdlvuixgs8bpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9n5Ygs6RnchQKeQJjTf1VbQw6tekS5Hyx52rcpHcpump",
@@ -43,7 +49,7 @@
       {
         "chainId": "arc",
         "tokenAddress": "0x2Aac0370340F6d4b53049C5AE28A6a9898Cbd613",
-        "description": "Verified Token Profile Launch",
+        "description": "Stop guessing. Start reading the chain.",
         "url": "https://dexscreener.com/arc/0x2aac0370340f6d4b53049c5ae28a6a9898cbd613"
       },
       {
@@ -75,12 +81,6 @@
         "tokenAddress": "0x59679cfe70D4d5F683bA87831fDea968EDcC2161",
         "description": "1. VEXOR\nBlue Wolf — The Leader\n2. RAGNAR\nRed Wolf — The Destroyer\n3. FROSTVEIL\nWhite Wolf — The Strategist\n4. SOLARIS\nGolden Wolf — The Wildcard\n5. NIGHTFANG\nB",
         "url": "https://dexscreener.com/cronos/0x59679cfe70d4d5f683ba87831fdea968edcc2161"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "xstockfun@gmail.com",
-        "description": "Launch and trade tokens paired with stocks, crypto, stablecoins & more.",
-        "url": "https://dexscreener.com/solana/xstockfun@gmail.com"
       }
     ]
   },
