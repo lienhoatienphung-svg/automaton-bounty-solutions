@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T09:41:07.746Z",
-  "latencyMs": 255,
+  "executedAt": "2026-10-16T09:46:00.001Z",
+  "latencyMs": 457,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #135: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #136: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52677160,
+    "liveBlockNumber": 52677306,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 310577,
+    "baseMainnetTopPoolsVolume24hUsd": 310500,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CJYeeoFQsK8rfewC1PdHH1JuNuFfhAuRq7W1w4QGpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cjyeeofqsk8rfewc1pdhh1junuffhaurq7w1w4qgpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "pFibPnQk8ekCCtuBoQFJqeJjHVo92dAME3uH8A4pump",
+        "description": "1000X",
+        "url": "https://dexscreener.com/solana/pfibpnqk8ekcctuboqfjqejjhvo92dame3uh8a4pump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x9A7C661Be578e50927268fb770146D701b3368e7",
@@ -69,18 +81,6 @@
         "tokenAddress": "HUARGQHB7ovbPkUaYUmsqGBCLG4uHpCEr3q8zGcupump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/huargqhb7ovbpkuayumsqgbclg4uhpcer3q8zgcupump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x04f750A7ae4aFDbE79148731B4a69bAC3B0a1b22",
-        "description": "Six Seven AI ($67AI) is a memecoin launched on 14 October 2026 on the BNB Smart Chain (BEP-20). The token is deployed using the LayerZero OFT (Omnichain Fungibl",
-        "url": "https://dexscreener.com/bsc/0x04f750a7ae4afdbe79148731b4a69bac3b0a1b22"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AnWDdzzYXXCMrYbn2cuaUy9DjvtxA9PVnNYYd6v9pump",
-        "description": "Everyone thought I was paying DEX but actually I just sent a 300$ transaction to a company that lets me place a banner and update links and add a description to",
-        "url": "https://dexscreener.com/solana/anwddzzyxxcmrybn2cuauy9djvtxa9pvnnyyd6v9pump"
       }
     ]
   },
