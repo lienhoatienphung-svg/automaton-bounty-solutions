@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T19:50:20.543Z",
-  "latencyMs": 631,
+  "executedAt": "2026-10-16T19:58:14.761Z",
+  "latencyMs": 680,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #295: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #296: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52695436,
+    "liveBlockNumber": 52695673,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 281830,
+    "baseMainnetTopPoolsVolume24hUsd": 281885,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CqsmuSz3zvZLGrdzKNdJni5wEoAwdFW74Y8cXNhupump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cqsmusz3zvzlgrdzkndjni5weoawdfw74y8cxnhupump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FBnHXngf2kgfPJg5iS6dPebx3oEDUeNHdf44VtXDpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fbnhxngf2kgfpjg5is6dpebx3oeduenhdf44vtxdpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5rGb6hdKydden4fmRw5YZuy1caj8JoZAGR3FtTKJpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "43YUMagwus6uxQvQZhE1B95i9os77pyNEr1ipqYjpump",
         "description": "two binaries in, one game out\ntake a world from one classic and a hero from another, in your browser. create the combo, earn creator fees while people play it",
         "url": "https://dexscreener.com/solana/43yumagwus6uxqvqzhe1b95i9os77pyner1ipqyjpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x259bcd1be2bec1f1b159d11821a068b038922dbb",
-        "description": "snakes is a multiplayer snake arena where carried value determines your size. Players collect energy to boost, compete for dropped value, and survive a five-sec",
-        "url": "https://dexscreener.com/robinhood/0x259bcd1be2bec1f1b159d11821a068b038922dbb"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9dEcnp1Hy6BNw2SjLoqXfapoJQXcqPhwBnMc1Zn2pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9decnp1hy6bnw2sjloqxfapojqxcqphwbnmc1zn2pump"
       }
     ]
   },
