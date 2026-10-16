@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T13:29:28.190Z",
-  "latencyMs": 350,
+  "executedAt": "2026-10-16T13:29:31.393Z",
+  "latencyMs": 1392,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Growth & Sales Sprint #202: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -263,5 +263,36 @@
       "priceBtc": 0.00002221792581926771
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Update weekly dependencies",
+      "url": "https://github.com/inoUwU/blog-and-portfolio/pull/156",
+      "createdAt": "2026-08-16T18:15:39Z"
+    },
+    {
+      "title": "[Bugfix][Watermarking] Skip incomplete opening contexts",
+      "url": "https://github.com/vllm-project/vllm/pull/61194",
+      "createdAt": "2026-10-12T10:35:03Z"
+    },
+    {
+      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
+      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
+      "createdAt": "2026-10-12T21:43:27Z"
+    },
+    {
+      "title": "chore(hosts): remove the Meld on-ramp and the Android fund module",
+      "url": "https://github.com/paritytech/trinity-user-agents/pull/1332",
+      "createdAt": "2026-10-08T09:06:25Z"
+    },
+    {
+      "title": "Showcase fixes: Aldous talk, text gaps, Low Wardle promises, toll gate, store door",
+      "url": "https://github.com/lorecrafting/lokacore/pull/408",
+      "createdAt": "2026-10-16T13:18:30Z"
+    },
+    {
+      "title": "Roadmap: Black Anvil network rollout",
+      "url": "https://github.com/LegendofKEK/bichael/issues/341",
+      "createdAt": "2026-10-16T02:23:31Z"
+    }
+  ]
 }
