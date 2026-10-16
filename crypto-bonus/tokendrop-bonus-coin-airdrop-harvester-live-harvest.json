@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T11:58:46.373Z",
-  "latencyMs": 976,
+  "executedAt": "2026-10-16T12:02:28.846Z",
+  "latencyMs": 1193,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #175: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #176: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "4ti7DQpMPKHcC72t8WBCQj2M8q9CkNu7Fbhwp1u1pump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Much power. Such flight. Doge Tesla Roadster is taking meme energy to new heights. 🐕⚡️🚀",
+      "url": "https://dexscreener.com/solana/4ti7dqpmpkhcc72t8wbcqj2m8q9cknu7fbhwp1u1pump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x945626601703d126877C33a3d0Def244c833550d",
       "boostAmount": 50,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "1EDGE Official token \nAnti bundle, Anti Sniper Launchpad",
       "url": "https://dexscreener.com/solana/1ewcge6wrssiy2sksadb5e5de9whpdqvbc6kev1edge"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "wLZrRQk9XBynAJSRdeQgsQrVURXGdfo4ahb1oRBpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Catch real graded Pokémon cards on a shared 3D island. $CATCH (https://x.com/search?q=%24CATCH&src=cashtag_click) on Solana. Powered by Collector Crypt",
-      "url": "https://dexscreener.com/solana/wlzrrqk9xbynajsrdeqgsqrvurxgdfo4ahb1orbpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "Merge master-2.0 into master",
+      "url": "https://github.com/solana-foundation/solana-playground/pull/27",
+      "createdAt": "2026-10-13T17:19:42Z"
+    },
+    {
+      "title": "[add] BlockVectra MCP — chain discovery, RPC and developer documentation",
+      "url": "https://github.com/satohubai/onchain-agents/issues/18",
+      "createdAt": "2026-10-16T10:07:46Z"
+    },
+    {
+      "title": "Dispatch noncreature graveyard triggers and ten complete Standard bodies",
+      "url": "https://github.com/altf4/rustmage/pull/157",
+      "createdAt": "2026-10-16T12:00:14Z"
+    },
+    {
       "title": "perf(jit): resolve dynamic jumps per call context",
       "url": "https://github.com/alloy-rs/evm2/pull/638",
       "createdAt": "2026-10-16T00:19:13Z"
     },
     {
-      "title": "Moonwater Product Polish Pass 2: battle results, collection, progression",
-      "url": "https://github.com/Ulziitugsa/hero-battler-prototype/pull/24",
-      "createdAt": "2026-10-16T11:57:16Z"
-    },
-    {
-      "title": "docs: ths-server file pointers stale + fund_address_from_treasury",
-      "url": "https://github.com/zcashlabs/zcash-skills/issues/9",
-      "createdAt": "2026-10-16T04:29:24Z"
-    },
-    {
-      "title": "# Spike 668 — Recipe guides with common integrations end-to-end and CI-tested snippets",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/531",
-      "createdAt": "2026-10-15T11:09:48Z"
-    },
-    {
-      "title": "Add test for initialize with zero total_amount",
-      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/issues/124",
-      "createdAt": "2026-09-18T18:06:32Z"
-    },
-    {
-      "title": "[Ops] Muse ↔ Grok.btc direct line",
-      "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
-      "createdAt": "2026-09-13T13:56:58Z"
+      "title": "cake_kda: deterministic chunked KDA training backward and a selectable KDA backend",
+      "url": "https://github.com/radixark/miles/pull/3628",
+      "createdAt": "2026-09-23T05:51:01Z"
     }
   ]
 }
