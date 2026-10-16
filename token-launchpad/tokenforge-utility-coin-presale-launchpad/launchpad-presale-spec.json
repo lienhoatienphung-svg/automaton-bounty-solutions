@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T04:32:22.066Z",
-  "latencyMs": 499,
+  "executedAt": "2026-10-16T04:41:14.635Z",
+  "latencyMs": 328,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #41: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #42: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52667897,
+    "liveBlockNumber": 52668163,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 227149,
+    "baseMainnetTopPoolsVolume24hUsd": 226998,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6zVwic7BRVTcMjhuEruV52HV8iXgcaRA3UsgSv6zpump",
+        "description": "The Roadster Whale",
+        "url": "https://dexscreener.com/solana/6zvwic7brvtcmjhueruv52hv8ixgcara3usgsv6zpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xC7cD6a607D5E7457567Ac3Ca5293920f7FE22890",
+        "description": "Trade with your friends. Keep out your foes.",
+        "url": "https://dexscreener.com/robinhood/0xc7cd6a607d5e7457567ac3ca5293920f7fe22890"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "ETSdyqD8pxcPcQmbkQrd3yc3YqsuBzGzmiPUWJKMpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "g65soYY9VALJHEsJMDbUUcfJjZew4cNYN4Khgqrpump",
         "description": "The Hottest Flame\nin the On-Chain Universe.\nThe blue flame represents heat in its purest, most absolute form. LUMINOUS arrives packing infinite energy—incinerat",
         "url": "https://dexscreener.com/solana/g65soyy9valjhesjmdbuucfjjzew4cnyn4khgqrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Hf3rEfh9DxsMhv44bq4y9kveZn8mKSo2hppJURYrpump",
-        "description": "Describe an agent. Launch its coin. 🤖\nAI agents with their own coins on Solana.",
-        "url": "https://dexscreener.com/solana/hf3refh9dxsmhv44bq4y9kvezn8mkso2hppjuryrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9HwgyhM3gPP5GNoqeb5SWPiF83qFnMvbhaao75bZpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9hwgyhm3gpp5gnoqeb5swpif83qfnmvbhaao75bzpump"
       }
     ]
   },
