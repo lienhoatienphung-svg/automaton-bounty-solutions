@@ -1,0 +1,298 @@
+{
+  "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
+  "executedAt": "2026-10-16T20:17:23.665Z",
+  "latencyMs": 791,
+  "companyName": "Holding HQ",
+  "workTitle": "Live Network Execution: [tokendrop-bonus-harvester] Delivery Sprint #303: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine",
+  "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
+  "onChainBaseBonusBalances": {
+    "USDC": 0,
+    "AERO": 0,
+    "WELL": 0,
+    "DEGEN": 0,
+    "BRETT": 0
+  },
+  "bonusRewardTokenPoolsCount": 10,
+  "topBonusRewardTokenPools": [
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "CTR-USDC",
+      "tvlUsd": 605681,
+      "apyBase": 4.45,
+      "apyRewardBonus": 231406.79,
+      "apyTotal": 231411.24,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "47bb2cb3-6a91-43ee-9dde-abceb2ded03f"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-PROS",
+      "tvlUsd": 948342,
+      "apyBase": 20.52,
+      "apyRewardBonus": 155571.22,
+      "apyTotal": 155591.75,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-VELVET",
+      "tvlUsd": 1127013,
+      "apyBase": 1.42,
+      "apyRewardBonus": 56346.29,
+      "apyTotal": 56347.71,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c07a115f-7299-4dd1-ac25-2de459010b6b"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-v1",
+      "symbol": "WETH-W",
+      "tvlUsd": 54440,
+      "apyBase": 0,
+      "apyRewardBonus": 39144.38,
+      "apyTotal": 39144.38,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "9218880d-1a29-450b-8a3b-0a1323deb2f2"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "TRUST-USDC",
+      "tvlUsd": 256532,
+      "apyBase": 103.77,
+      "apyRewardBonus": 18576.9,
+      "apyTotal": 18680.67,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "WETH-USDC",
+      "tvlUsd": 150332,
+      "apyBase": 32.32,
+      "apyRewardBonus": 15404.24,
+      "apyTotal": 15436.56,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-SNDKC",
+      "tvlUsd": 1293597,
+      "apyBase": 291.08,
+      "apyRewardBonus": 10008.66,
+      "apyTotal": 10299.74,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-MSTRC",
+      "tvlUsd": 1553380,
+      "apyBase": 180.98,
+      "apyRewardBonus": 8711.09,
+      "apyTotal": 8892.08,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "06ae14ef-c2e3-5e30-9876-3e06c8b2f9a9"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 2046204,
+      "apyBase": 101.02,
+      "apyRewardBonus": 7486.54,
+      "apyTotal": 7587.56,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 188822,
+      "apyBase": 36.52,
+      "apyRewardBonus": 7229.01,
+      "apyTotal": 7265.53,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
+    }
+  ],
+  "dexScreenerBoostedCoinsCount": 8,
+  "dexScreenerBoostedCoins": [
+    {
+      "chainId": "solana",
+      "tokenAddress": "FgJReZeYfmKZeWrCaGYL8gLnUixwBhjdHuRknC6ypump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "This dog is still dancing",
+      "url": "https://dexscreener.com/solana/fgjrezeyfmkzewrcagyl8glnuixwbhjdhurknc6ypump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "8QtbrC9d3BezyCwzBFUQbNsWJGte7ckrZ7HWcn81pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Connecting the internet again with dickbutt",
+      "url": "https://dexscreener.com/solana/8qtbrc9d3bezycwzbfuqbnswjgte7ckrz7hwcn81pump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "8xvxJBM8JYqoNtedtmEQAmsQbFkZSjnUvLARcEq4pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 20,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/8xvxjbm8jyqontedtmeqamsqbfkzsjnuvlarceq4pump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "4ERwUz3AKfBw2J34W8sBBsWh4ohXGvcD1qa7iKo7KeHm",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/4erwuz3akfbw2j34w8sbbswh4ohxgvcd1qa7iko7kehm"
+    },
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0xb2d1Fa50508550B3488C0e9860d1f08937a29145",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "The first perpetual trading hub powered by\nHyperliquid on Robinhood Chain. Borrow, lend & trade in one place. Gold & Silver rewards.",
+      "url": "https://dexscreener.com/robinhood/0xb2d1fa50508550b3488c0e9860d1f08937a29145"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "3dgGDYKaab1pAZhaEC6gZQS3PrbZdShXMcoWeVZJpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 20,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/3dggdykaab1pazhaec6gzqs3prbzdshxmcowevzjpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "3dgGDYKaab1pAZhaEC6gZQS3PrbZdShXMcoWeVZJpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 20,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/3dggdykaab1pazhaec6gzqs3prbzdshxmcowevzjpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "DTsfJ3GM8SeXBv6zH9GMANDRnWrLqEn9eb9XXULppump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Just a silly face from the old internet. \nborn in MS Paint. stuck in 1998. forever cute.",
+      "url": "https://dexscreener.com/solana/dtsfj3gm8sexbv6zh9gmandrnwrlqen9eb9xxulppump"
+    }
+  ],
+  "coinGeckoTrendingCoinsCount": 8,
+  "coinGeckoTrendingCoins": [
+    {
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "marketCapRank": 799,
+      "priceBtc": 2.7957333499575005e-7
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.181541902541876e-8
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9983365205195948
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.00002105934034980208
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 611,
+      "priceBtc": 0.0014249805265400103
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010603369120326141
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 109,
+      "priceBtc": 8.838675105254482e-7
+    },
+    {
+      "name": "Monad",
+      "symbol": "MON",
+      "marketCapRank": 153,
+      "priceBtc": 2.7651145462123764e-7
+    }
+  ],
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "chore(deps): update dependency @lucide/astro to v1.58.0",
+      "url": "https://github.com/magic-akari/lodash-challenges/pull/7",
+      "createdAt": "2026-09-05T15:43:18Z"
+    },
+    {
+      "title": "Update dependency ethers to v6",
+      "url": "https://github.com/Franck-Fernandez-pro/share-your-seat/pull/4",
+      "createdAt": "2023-03-26T10:43:07Z"
+    },
+    {
+      "title": "SCOUT verified coverage V1 — scale real reward observations beyond seven tracked tokens",
+      "url": "https://github.com/fuzzysniper/scout-stonk-intel/issues/81",
+      "createdAt": "2026-10-16T20:15:14Z"
+    },
+    {
+      "title": "Add storages, security, and ramps coverage for 11 under-covered EVM networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2450",
+      "createdAt": "2026-08-03T00:39:54Z"
+    },
+    {
+      "title": "fix(lre): derive the event run from the catalog schedule and goal from the unit's step",
+      "url": "https://github.com/TacticusPlanner/tacticus-planner-apps/pull/227",
+      "createdAt": "2026-10-16T20:14:43Z"
+    },
+    {
+      "title": "feat!: support direct hosting deposits and PWR-Station testnet client",
+      "url": "https://github.com/manifest-network/merovingian/pull/32",
+      "createdAt": "2026-10-01T19:39:14Z"
+    }
+  ]
+}
