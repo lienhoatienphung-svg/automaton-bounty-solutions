@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T10:14:38.346Z",
-  "latencyMs": 1080,
+  "executedAt": "2026-10-16T10:19:01.435Z",
+  "latencyMs": 846,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #128: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #129: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "fix(container): update image ghcr.io/home-operations/charts/kritika (0.0.69 ➔ 0.0.72)",
-          "url": "https://github.com/Faustvii/home-ops/pull/1631",
-          "repositoryUrl": "https://api.github.com/repos/Faustvii/home-ops",
-          "updatedAt": "2026-10-16T10:14:34Z"
+          "title": "Update ANGLE to 2026-10-12 (e9f64dda0c5b45ee1c22a7034036eeba845f6ff0)",
+          "url": "https://github.com/WebKit/WebKit/pull/77257",
+          "repositoryUrl": "https://api.github.com/repos/WebKit/WebKit",
+          "updatedAt": "2026-10-16T10:18:58Z"
         },
         {
-          "title": "fix(treasury): reject non-finite shared ledger amounts (ZMED-255)",
-          "url": "https://github.com/belalaamer/ZMedico/pull/183",
-          "repositoryUrl": "https://api.github.com/repos/belalaamer/ZMedico",
-          "updatedAt": "2026-10-16T10:14:33Z"
+          "title": "Gasless",
+          "url": "https://github.com/soda-mpc/bubble-app-contracts/pull/9",
+          "repositoryUrl": "https://api.github.com/repos/soda-mpc/bubble-app-contracts",
+          "updatedAt": "2026-10-16T10:18:56Z"
         },
         {
-          "title": "[P2][feature] Add Canvas items and bounded image reads (#131)",
-          "url": "https://github.com/makesomethingshit/open-design-registry/pull/167",
-          "repositoryUrl": "https://api.github.com/repos/makesomethingshit/open-design-registry",
-          "updatedAt": "2026-10-16T10:14:31Z"
+          "title": "Sandbox profiles: off, relaxed (worker default), strict, per role",
+          "url": "https://github.com/cortexkit/aft/pull/449",
+          "repositoryUrl": "https://api.github.com/repos/cortexkit/aft",
+          "updatedAt": "2026-10-16T10:18:56Z"
         },
         {
-          "title": "diag: surface file-profile fail-closed blocks on the operator contract (Product Experience)",
-          "url": "https://github.com/KidCarmi/Culvert/pull/1623",
-          "repositoryUrl": "https://api.github.com/repos/KidCarmi/Culvert",
-          "updatedAt": "2026-10-16T10:14:31Z"
+          "title": "Update all non-major dependencies",
+          "url": "https://github.com/open-pioneer/trails-build-tools/pull/233",
+          "repositoryUrl": "https://api.github.com/repos/open-pioneer/trails-build-tools",
+          "updatedAt": "2026-10-16T10:19:00Z"
         },
         {
-          "title": "Bump aws-cdk-lib from 2.257.0 to 2.273.0",
-          "url": "https://github.com/nuxeo-sandbox/nuxeo-aws-cdk-deployment/pull/112",
-          "repositoryUrl": "https://api.github.com/repos/nuxeo-sandbox/nuxeo-aws-cdk-deployment",
-          "updatedAt": "2026-10-16T10:14:31Z"
+          "title": "Never show a grantee an ask its owner did not approve",
+          "url": "https://github.com/Matronhq/matron-journal/pull/22",
+          "repositoryUrl": "https://api.github.com/repos/Matronhq/matron-journal",
+          "updatedAt": "2026-10-16T10:18:55Z"
         },
         {
-          "title": "feat(container): update image ghcr.io/paperless-ngx/paperless-ngx (3.2.1 ➔ 3.3.2)",
-          "url": "https://github.com/brianporeilly/home-ops/pull/1129",
-          "repositoryUrl": "https://api.github.com/repos/brianporeilly/home-ops",
-          "updatedAt": "2026-10-16T10:14:31Z"
+          "title": "feat(auth): add optional OpenID Connect provider",
+          "url": "https://github.com/WeblateOrg/weblate/pull/22191",
+          "repositoryUrl": "https://api.github.com/repos/WeblateOrg/weblate",
+          "updatedAt": "2026-10-16T10:18:55Z"
         },
         {
-          "title": "M1 epic: deterministic config, state, streaming, headless run, demos",
-          "url": "https://github.com/mitchins/needletail-harness/pull/2",
-          "repositoryUrl": "https://api.github.com/repos/mitchins/needletail-harness",
-          "updatedAt": "2026-10-16T10:14:31Z"
+          "title": "fix: read the live team file in every command",
+          "url": "https://github.com/floor/teamcli/pull/523",
+          "repositoryUrl": "https://api.github.com/repos/floor/teamcli",
+          "updatedAt": "2026-10-16T10:18:54Z"
         },
         {
-          "title": "Tech debt before the next version: what the PDF reader's stack (#294–#298) leaves to clear",
-          "url": "https://github.com/SRjoeee/ReadarXiv/issues/299",
-          "repositoryUrl": "https://api.github.com/repos/SRjoeee/ReadarXiv",
-          "updatedAt": "2026-10-16T10:14:31Z"
+          "title": "Estimate #98: a close-enough, tunable watched-match engine",
+          "url": "https://github.com/diegoami/goal2/pull/122",
+          "repositoryUrl": "https://api.github.com/repos/diegoami/goal2",
+          "updatedAt": "2026-10-16T10:18:54Z"
         }
       ]
     },
