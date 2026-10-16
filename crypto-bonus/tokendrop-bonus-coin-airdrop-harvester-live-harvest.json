@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T16:07:12.530Z",
-  "latencyMs": 3362,
+  "executedAt": "2026-10-16T16:09:05.568Z",
+  "latencyMs": 1183,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #244: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #245: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(web-client): hold the store lock for every chain MMR writer",
-      "url": "https://github.com/0xMiden/web-sdk/pull/482",
-      "createdAt": "2026-10-16T13:02:21Z"
-    },
-    {
       "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
       "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
       "createdAt": "2026-10-15T12:16:48Z"
     },
     {
+      "title": "chore(deps): update all non-major dependencies",
+      "url": "https://github.com/reddoorla/revogen/pull/82",
+      "createdAt": "2026-09-21T16:46:12Z"
+    },
+    {
+      "title": "fix(web-client): hold the store lock for every chain MMR writer",
+      "url": "https://github.com/0xMiden/web-sdk/pull/482",
+      "createdAt": "2026-10-16T13:02:21Z"
+    },
+    {
+      "title": "Checkout and faucet long-polls can update state after unmount",
+      "url": "https://github.com/Konfirm-xyz/konfirm-frontend/issues/39",
+      "createdAt": "2026-10-14T17:40:44Z"
+    },
+    {
+      "title": "Verifiable Merkle Airdrop Claim Contract on Soroban",
+      "url": "https://github.com/Lumen-Nexora/Nexora/issues/16",
+      "createdAt": "2026-10-16T11:34:26Z"
+    },
+    {
       "title": "Add batch deposit for multiple recipients in one transaction",
       "url": "https://github.com/soterika/aura-vault-protocol/issues/932",
       "createdAt": "2026-09-21T21:59:58Z"
-    },
-    {
-      "title": "Pay the kiosk's tips on-chain",
-      "url": "https://github.com/OogaBoogaX/oogaboogaland/pull/218",
-      "createdAt": "2026-10-16T13:03:37Z"
-    },
-    {
-      "title": "AI-generated implementations for DaCe library nodes",
-      "url": "https://github.com/spcl/dace/pull/2557",
-      "createdAt": "2026-09-07T07:37:21Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
     }
   ]
 }
