@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T08:11:43.935Z",
-  "latencyMs": 1901,
+  "executedAt": "2026-10-16T08:16:40.392Z",
+  "latencyMs": 1438,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #109: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #110: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "8DQzWohFEMWruKUC5G2hEgBcs4bhJ1y7oJuyxZHpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "🐾 $LULU INU\nCUTE FACE. MISCHIEVOUS SOUL. ONE GROWING PACK.",
+      "url": "https://dexscreener.com/solana/8dqzwohfemwrukuc5g2hegbcs4bhj1y7ojuyxzhpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "From Earth to Mars. 🚀🔴 The future of driving is interplanetary. Powered by ambition, driven beyond limits.\n\nNot affiliated with SpaceX or Tesla.",
       "url": "https://dexscreener.com/solana/gu3jgzr26txn6tuhwomurimgbb4fffw13774bxeipump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xd5D49D68a555f3C50cCDa9BD9a8691692E5ce172",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Join Us and get $BUSTED!  \n\nA tribute to the GTA VI and chaos! A token for the culture with Rewards &\nAchievements. \n\nBuild the crew. Hit the milestones. Every ",
-      "url": "https://dexscreener.com/robinhood/0xd5d49d68a555f3c50ccda9bd9a8691692e5ce172"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 733,
-      "priceBtc": 3.215669140549186e-7
+      "marketCapRank": 709,
+      "priceBtc": 3.34005786971614e-7
     },
     {
       "name": "IGNITION",
       "symbol": "IGNITION",
-      "marketCapRank": 845,
-      "priceBtc": 2.4440103548311423e-7
+      "marketCapRank": 841,
+      "priceBtc": 2.444629448083429e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00011272456358576507
+      "priceBtc": 0.00011235915965455872
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006343078953120999
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 104,
-      "priceBtc": 0.000022355167578609774
+      "priceBtc": 0.00006341471924343814
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 638,
-      "priceBtc": 0.0013484720822277026
+      "priceBtc": 0.0013479332899047833
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 86,
-      "priceBtc": 0.000027284861365720346
+      "priceBtc": 0.00002723991557663292
     },
     {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 80,
-      "priceBtc": 0.000011709297627064305
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.00002249759660537989
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 101,
+      "priceBtc": 0.000008053974071151647
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[Bugfix][OpenAI] Respect allowed_token_ids in beam search",
-      "url": "https://github.com/vllm-project/vllm/pull/47630",
-      "createdAt": "2026-07-05T06:13:07Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "Stage-0: paid proving — the prover is paid inside the transaction; no accounts, no tokens (supersedes #924 Q-5A-1)",
-      "url": "https://github.com/qumbra-labs/qumbra-lab/issues/937",
-      "createdAt": "2026-10-08T11:57:41Z"
+      "title": "Support the inference-money USDC as a second payment token",
+      "url": "https://github.com/Galactica-corp/aztec-x402/pull/16",
+      "createdAt": "2026-10-16T08:15:55Z"
     },
     {
-      "title": "Security: verify session-bound rewards and featured approvals; stage legacy lockdown",
-      "url": "https://github.com/pilotf369u-sys/meshwar-system-v2/pull/967",
-      "createdAt": "2026-10-15T22:27:25Z"
+      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
+      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
+      "createdAt": "2026-10-09T07:30:01Z"
     },
     {
-      "title": "On-policy joint-choice Non-Combat improvement under frozen potion-enabled Search",
-      "url": "https://github.com/lsmfttb/spire-research/issues/60",
-      "createdAt": "2026-10-16T04:02:07Z"
+      "title": "fix(deps): update dependency mppx to v0.13.4",
+      "url": "https://github.com/brave/bx402/pull/154",
+      "createdAt": "2026-10-16T03:57:50Z"
     },
     {
-      "title": "新トップ画面をデザインする",
-      "url": "https://github.com/ksyunnnn/synsk.me/issues/148",
-      "createdAt": "2026-10-14T09:57:50Z"
+      "title": "Update dependency lucide-react to v1.56.0",
+      "url": "https://github.com/kasemAlem/myOfficeManager/pull/9",
+      "createdAt": "2026-04-22T00:23:44Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
+      "createdAt": "2026-10-06T11:40:04Z"
     }
   ]
 }
