@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T11:24:06.043Z",
-  "latencyMs": 345,
+  "executedAt": "2026-10-16T11:28:04.232Z",
+  "latencyMs": 865,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #163: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #164: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52680249,
+    "liveBlockNumber": 52680368,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459002,
-    "baseMainnetTopPoolsVolume24hUsd": 324678,
+    "baseMainnetTopPoolsVolume24hUsd": 323713,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BPVUcKX5ASPNsAFnBqByBHkfVc9ysQj7ZmSsFAmapump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bpvuckx5aspnsafnbqbybhkfvc9ysqj7zmssfamapump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3eZfHskJcxHnuyu3t2izbJNgFNRiXxJ6ddT5JgmYpump",
+        "description": "United States of Acceleration ($us/acc), named after @beffjezos's e/acc post. Creator fees route to Beff via UsePaid, claimable by him. Not affiliated or endors",
+        "url": "https://dexscreener.com/solana/3ezfhskjcxhnuyu3t2izbjngfnrixxj6ddt5jgmypump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DdVXE425xZe27FhY41PR8dwfL3VczYdyJJAWDC1jpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "5rB2Z8xPrUGX75mL8Q7BZLjdKFtzaJYHhtPKMazSpump",
         "description": "Walk a loop.\nOwn the land.\nEarn $GRAB.",
         "url": "https://dexscreener.com/solana/5rb2z8xprugx75ml8q7bzljdkftzajyhhtpkmazspump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x19DAE9A0c7E67FD92C57e7c5612d3E98b9677777",
-        "description": "Flying Tesla Stock.",
-        "url": "https://dexscreener.com/bsc/0x19dae9a0c7e67fd92c57e7c5612d3e98b9677777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4673spr9Zth4E3ZtZ493RTvqhdD8hW9o6pWjCd5Spump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4673spr9zth4e3ztz493rtvqhdd8hw9o6pwjcd5spump"
       }
     ]
   },
