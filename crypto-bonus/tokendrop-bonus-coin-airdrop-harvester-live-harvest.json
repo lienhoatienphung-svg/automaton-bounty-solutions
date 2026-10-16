@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T07:51:42.725Z",
-  "latencyMs": 1250,
+  "executedAt": "2026-10-16T07:53:52.192Z",
+  "latencyMs": 771,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #102: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #103: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "test(sui): ledger stream e2e on a subscription-enabled localnet GraphQL service (3.0 stack)",
+      "url": "https://github.com/MystenLabs/ts-sdks/pull/1355",
+      "createdAt": "2026-10-16T05:45:20Z"
+    },
+    {
+      "title": "Tame the coin lighting, pick coins out, and make the cash card a wallet",
+      "url": "https://github.com/paritytech/polkadot-ios-community/pull/284",
+      "createdAt": "2026-10-12T04:07:50Z"
+    },
+    {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
@@ -283,16 +293,6 @@
       "title": "feat(frontend): move to ui-library 3 and Tailwind CSS 4",
       "url": "https://github.com/rotki/rotki/pull/13334",
       "createdAt": "2026-10-09T14:27:26Z"
-    },
-    {
-      "title": "test(functional): cover community token mint, airdrop, and burn",
-      "url": "https://github.com/status-im/status-go/pull/7942",
-      "createdAt": "2026-10-15T09:09:13Z"
-    },
-    {
-      "title": "chore(hosts): remove the Meld on-ramp and the Android fund module",
-      "url": "https://github.com/paritytech/trinity-user-agents/pull/1332",
-      "createdAt": "2026-10-08T09:06:25Z"
     }
   ]
 }
