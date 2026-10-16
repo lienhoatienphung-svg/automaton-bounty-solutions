@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T15:26:31.159Z",
-  "latencyMs": 504,
+  "executedAt": "2026-10-16T15:27:45.733Z",
+  "latencyMs": 334,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #230: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
+  "workTitle": "Delivery Sprint #231: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52687521,
+    "liveBlockNumber": 52687559,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 286975,
+    "baseMainnetTopPoolsVolume24hUsd": 286985,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xe2744AC129DA19F50f23549E57290C5FE3aEC5B2",
+        "description": "The first RWA powered farming game on Robinhood Chain 🌾⛏️🛢️\nReal-market gold, silver and oil. Plant, raise and battle with your clan.",
+        "url": "https://dexscreener.com/robinhood/0xe2744ac129da19f50f23549e57290c5fe3aec5b2"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "83EDK3Ekdg7qauKKAqoc52ysxQDTpyqKJ7caeZxPpump",
+        "description": "When the city goes dark, Super Flying Tesla Roadster brings the power—and the hope—back. ⚡️🚘",
+        "url": "https://dexscreener.com/solana/83edk3ekdg7qaukkaqoc52ysxqdtpyqkj7caezxppump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Hj3sKonzEUXRW8jbw6WSwbeeprVhv1KtjMNmZDRkpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "jr963C1eUWRYk7TYAxii7MRyJqr1zJhVyZuYgVYpump",
         "description": "Buy 7 or 30 days of a Meteora fee position's income and claim what actually comes in. Holding $CUTS opens the Pro Desk, and a share of every creator fee buys ba",
         "url": "https://dexscreener.com/solana/jr963c1euwryk7tyaxii7mryjqr1zjhvyzuygvypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7mupUtwu17wevEfnyrE6XsWa1X9WWntAPeqdckd2pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7muputwu17wevefnyre6xswa1x9wwntapeqdckd2pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ADkd6izPxJtKueHAzKsDEnGRNEq5ERu1g3ses1wKpump",
-        "description": "Iphone duo",
-        "url": "https://dexscreener.com/solana/adkd6izpxjtkuehazksdengrneq5eru1g3ses1wkpump"
       }
     ]
   },
