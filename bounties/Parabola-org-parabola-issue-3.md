@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBurn](https://github.com/Parabola-org/parabola/issues/3)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: DeepPulse Unindexed API & Algora PR Bounty Harvester
 - **Fork Fix Branch**: [fix/issue-3](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-3)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/12](https://github.com/lienhoatienphung-svg/parabola/pull/12)
 - **Inspected Source File**: `src/iris/poll.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-16T01:32:52.954Z`
+- **Timestamp**: `2026-10-16T01:37:49.976Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
