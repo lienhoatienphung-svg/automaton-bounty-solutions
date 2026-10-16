@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T09:20:26.314Z",
-  "latencyMs": 411,
+  "executedAt": "2026-10-16T09:25:52.323Z",
+  "latencyMs": 461,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #129: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #130: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52676539,
+    "liveBlockNumber": 52676702,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 313920,
+    "baseMainnetTopPoolsVolume24hUsd": 313670,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6VdcMnBTCj4tJVwtNdJZNzWeYmxzMnygVSzcfY35pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6vdcmnbtcj4tjvwtndjznzweymxzmnygvszcfy35pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2MdBA1Yiy3oCFmwyFTQdwaAMNybGWzm1zr9JziVQpump",
+        "description": "Fund your repo with a coin. 100% of creator fees to you, claimed in one click with GitHub. $GITPAID",
+        "url": "https://dexscreener.com/solana/2mdba1yiy3ocfmwyftqdwaamnybgwzm1zr9jzivqpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DYhpuvytVM4SCiR56q8oz4nXAN2BPFaYnxVftS9wpump",
@@ -69,20 +81,8 @@
         "tokenAddress": "DFPXxy17iwsnzmQd4oa5bQjdoEbi5ZJYmFVtBpkLpump",
         "description": "Most memes live on timelines. STARMAN lives in orbit.",
         "url": "https://dexscreener.com/solana/dfpxxy17iwsnzmqd4oa5bqjdoebi5zjymfvtbpklpump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x960C501A57cB52A0fC61c572d6029d1b8f007777",
-        "description": "FMFN｜BSC On-Chain Trading Terminal  \nDiscover Memes · View K-Line Charts · Quick Trading  \n3% Platform Token Tax Supports Product Development｜100% Buyback of FM",
-        "url": "https://dexscreener.com/bsc/0x960c501a57cb52a0fc61c572d6029d1b8f007777"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x8fd48EdC40645A86aE73CE238F5CD840Fd8e0087",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0x8fd48edc40645a86ae73ce238f5cd840fd8e0087"
       }
     ]
   },
-  "publishedContractUrl": null
+  "publishedContractUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/token-launchpad/tokenforge-utility-coin-presale-launchpad/SovereignAIUtilityToken.sol"
 }
