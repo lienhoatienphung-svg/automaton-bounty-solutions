@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T15:56:02.984Z",
-  "latencyMs": 309,
+  "executedAt": "2026-10-16T16:01:07.155Z",
+  "latencyMs": 346,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #239: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #240: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52688407,
-    "liveGasPriceGwei": 0.006,
+    "liveBlockNumber": 52688559,
+    "liveGasPriceGwei": 0.0061,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 287735,
+    "baseMainnetTopPoolsVolume24hUsd": 289963,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5436RHYCRnxDVLh9s5p1A7qsh6J8ArTW2isQWiAnpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/5436rhycrnxdvlh9s5p1a7qsh6j8artw2isqwianpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4ap92c69E33ecQsxXyJS8DxuDDEgJKnq24gpTMRDpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4ap92c69e33ecqsxxyjs8dxuddegjknq24gptmrdpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2ZZFYPDypQcah5tcYhLnpdNmcxLCiec7oA6X6uFnpump",
+        "description": "The First Global Real Estate Perps Market.\nTrade Residential housing, Property Stock across World\nLong or short with USDC On Solana",
+        "url": "https://dexscreener.com/solana/2zzfypdypqcah5tcyhlnpdnmcxlciec7oa6x6ufnpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "D76bHiftcAiFYznSGCoxWWordS9PnzSejvYxayuhpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "0x8Cc63A25C14E6abc438ebB9d74c00D4f9282fC49",
         "description": "Building a meme launchpad on metric.\n\nLet ideas become real, at anytime, anywhere, for anyone.",
         "url": "https://dexscreener.com/ethereum/0x8cc63a25c14e6abc438ebb9d74c00d4f9282fc49"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DdYM5vGwPaCBwx2ApGr15x4vc5MnMCLCLjxfCRqdpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ddym5vgwpacbwx2apgr15x4vc5mnmclcljxfcrqdpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3CfvbDfQ1pcmu1mxKWYB7mtYECLAVvuKNUZbrxSBpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3cfvbdfq1pcmu1mxkwyb7mtyeclavvuknuzbrxsbpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4ZDYBwrMsaeh1H9fWu5q4ab5VZSRm817qGUXfnuFpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4zdybwrmsaeh1h9fwu5q4ab5vzsrm817qguxfnufpump"
       }
     ]
   },
