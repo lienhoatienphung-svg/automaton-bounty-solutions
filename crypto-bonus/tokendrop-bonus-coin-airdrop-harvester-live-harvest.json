@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T15:33:13.230Z",
-  "latencyMs": 865,
+  "executedAt": "2026-10-16T15:34:39.453Z",
+  "latencyMs": 1458,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #234: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #235: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
       "title": "Roadmap: Black Anvil network rollout",
       "url": "https://github.com/LegendofKEK/bichael/issues/341",
       "createdAt": "2026-10-16T02:23:31Z"
@@ -273,11 +278,6 @@
       "title": "Feat: port Omdrop to Rust, adding omdrop-core",
       "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/74",
       "createdAt": "2026-10-16T08:20:48Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
       "title": "Config-stored authorities + privilege split + gate airdrop/reset (incident remediation)",
