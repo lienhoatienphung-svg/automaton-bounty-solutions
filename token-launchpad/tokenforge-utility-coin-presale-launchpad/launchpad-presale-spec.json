@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T15:33:19.304Z",
-  "latencyMs": 881,
+  "executedAt": "2026-10-16T15:34:42.003Z",
+  "latencyMs": 249,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #232: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #233: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52687725,
+    "liveBlockNumber": 52687767,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 286940,
+    "baseMainnetTopPoolsVolume24hUsd": 286770,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "74Ano8HssvNpWTCrrNY4NkbYiZqnFRVYyTPqrTvEpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/74ano8hssvnpwtcrrny4nkbyizqnfrvyytpqrtvepump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "8rHHAPSfcW5FFJJZjp6g2G6Mb9f8s6eufVHZk1W6pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8rhhapsfcw5ffjjzjp6g2g6mb9f8s6eufvhzk1w6pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7okHj8BvSdLGbGtGSLZk8cDo5W4iRhwAisaqPn1c5dNk",
@@ -69,18 +81,6 @@
         "tokenAddress": "GnVMZ3tDek9DhyYcfn6pGKgPntj1JqdavcvriDXepump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/gnvmz3tdek9dhyycfn6pgkgpntj1jqdavcvridxepump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7LRpCucrnANenJcvPLTwSCyG7qBsaGwt1qvc6W4Upump",
-        "description": "Trade the world's money on @solana. 64 FX perps, up to 25x, 24/7, settled in USDC, powered by $VEVO.",
-        "url": "https://dexscreener.com/solana/7lrpcucrnanenjcvpltwscyg7qbsagwt1qvc6w4upump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5e8GPzhqxLKFVU6gb87aJLZMoSQnbjBhQupXvCCZpump",
-        "description": "Faster than a speeding bullet. Stronger than gravity.",
-        "url": "https://dexscreener.com/solana/5e8gpzhqxlkfvu6gb87ajlzmosqnbjbhqupxvcczpump"
       }
     ]
   },
