@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T10:07:36.648Z",
-  "latencyMs": 247,
+  "executedAt": "2026-10-16T10:09:22.409Z",
+  "latencyMs": 340,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #142: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #143: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52677954,
+    "liveBlockNumber": 52678007,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 311222,
+    "baseMainnetTopPoolsVolume24hUsd": 311172,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DBHbh97znAUMwufxKBTKcsvusJQQ17x8b8bEVzmgpump",
+        "description": "Launch a coin paired against a pumpfun runner instead of SOL. Buying the beta means buying the runner, and a cut of every trade goes back to beta holders in the",
+        "url": "https://dexscreener.com/solana/dbhbh97znaumwufxkbtkcsvusjqq17x8b8bevzmgpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CaGJEqcDsyUrQuCZcHQmMkMKjzyb4VRewC8GPiv3pump",
@@ -75,12 +81,6 @@
         "tokenAddress": "APK3kNoLGwi2pZAuCdRRA5oenvREMC9eaqhqwL3cpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/apk3knolgwi2pzaucdrra5oenvremc9eaqhqwl3cpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CJYeeoFQsK8rfewC1PdHH1JuNuFfhAuRq7W1w4QGpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/cjyeeofqsk8rfewc1pdhh1junuffhaurq7w1w4qgpump"
       }
     ]
   },
