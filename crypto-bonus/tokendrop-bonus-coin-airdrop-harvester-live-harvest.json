@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T15:40:37.111Z",
-  "latencyMs": 1496,
+  "executedAt": "2026-10-16T15:42:40.333Z",
+  "latencyMs": 1226,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #236: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #237: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -270,6 +270,21 @@
       "createdAt": "2026-09-23T12:14:26Z"
     },
     {
+      "title": "chore(hosts): remove the Meld on-ramp and the Android fund module",
+      "url": "https://github.com/paritytech/trinity-user-agents/pull/1332",
+      "createdAt": "2026-10-08T09:06:25Z"
+    },
+    {
+      "title": "`compound_stake` Credits Rewards That Were Never Funded",
+      "url": "https://github.com/NovaGrids/VaultDAO/issues/1906",
+      "createdAt": "2026-10-15T15:27:12Z"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "url": "https://github.com/reddoorla/vineyard-custom-homes/pull/68",
+      "createdAt": "2026-09-21T16:47:53Z"
+    },
+    {
       "title": "feat(finder): add configurable file and document tools",
       "url": "https://github.com/vorssaint/vorssaint-utils/pull/3163",
       "createdAt": "2026-10-16T15:13:54Z"
@@ -278,21 +293,6 @@
       "title": "chore(integration-tests): reduce integration tests time",
       "url": "https://github.com/0xMiden/rust-sdk/pull/2706",
       "createdAt": "2026-10-15T20:03:25Z"
-    },
-    {
-      "title": "fix(web-client): hold the store lock for every chain MMR writer",
-      "url": "https://github.com/0xMiden/web-sdk/pull/482",
-      "createdAt": "2026-10-16T13:02:21Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "Suspected: withdrawals/start and deposits/start have no idempotency protection against client retries",
-      "url": "https://github.com/Konfirm-xyz/konfirm-backend/issues/142",
-      "createdAt": "2026-10-16T00:12:55Z"
     }
   ]
 }
