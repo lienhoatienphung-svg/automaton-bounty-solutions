@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T10:18:37.140Z",
-  "latencyMs": 2120,
+  "executedAt": "2026-10-16T10:18:56.109Z",
+  "latencyMs": 2517,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Delivery Sprint #147: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Gasless",
+      "url": "https://github.com/soda-mpc/bubble-app-contracts/pull/9",
+      "createdAt": "2026-10-15T14:00:25Z"
+    },
+    {
       "title": "On-policy joint-choice Non-Combat improvement under frozen potion-enabled Search",
       "url": "https://github.com/lsmfttb/spire-research/issues/60",
       "createdAt": "2026-10-16T04:02:07Z"
@@ -288,11 +293,6 @@
       "title": "test(functional): cover community token mint, airdrop, and burn",
       "url": "https://github.com/status-im/status-go/pull/7942",
       "createdAt": "2026-10-15T09:09:13Z"
-    },
-    {
-      "title": "feat(web): frontend for the whole platform, with e2e tests (P16 slice 2)",
-      "url": "https://github.com/KhannGia/wallet/pull/18",
-      "createdAt": "2026-10-16T10:16:46Z"
     }
   ]
 }
