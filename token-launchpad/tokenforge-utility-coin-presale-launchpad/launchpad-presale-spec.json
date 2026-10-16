@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T23:15:24.084Z",
-  "latencyMs": 446,
+  "executedAt": "2026-10-16T23:26:05.771Z",
+  "latencyMs": 603,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #337: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #338: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52701588,
+    "liveBlockNumber": 52701909,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 289315,
+    "baseMainnetTopPoolsVolume24hUsd": 289066,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "cronos",
+        "tokenAddress": "0xD80434fE1234Ed9c5dff5fe92BA26fF283ff30f1",
+        "description": "💗 $ULTIA — The pink heartbeat of Cronos.\n\nShe’s more than a token. She’s the little sister of $ULTI, a community-driven comeback story with a mission to rise f",
+        "url": "https://dexscreener.com/cronos/0xd80434fe1234ed9c5dff5fe92ba26ff283ff30f1"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CbNZ4sPWLqDxJ6Xo7c6ThTMoNByL8zT5av4KoEDcpump",
+        "description": "Epstein files are back",
+        "url": "https://dexscreener.com/solana/cbnz4spwlqdxj6xo7c6thtmonbyl8zt5av4koedcpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6nkfbXUHgG6ic4FB5PWcJUKRsTYm8WDMfQYKm8p3pump",
+        "description": "Referral Strategy turns the new pumpfun referral system into the strongest onchain flywheel and strategy token\n\nReferral Strategy multiplies creator rewards usi",
+        "url": "https://dexscreener.com/solana/6nkfbxuhgg6ic4fb5pwcjukrstym8wdmfqykm8p3pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "EcM5omn7pV2qk2TrW4McQ7voWBV8sYR8JpjSoTw9pump",
@@ -63,24 +81,6 @@
         "tokenAddress": "HBhUHHFJVBRc5jffkXcaqTBPdFvwRJvqeqMwN2ngpump",
         "description": "Launch AI agents to hunt bugs, verify findings & earn bounty rewards.",
         "url": "https://dexscreener.com/solana/hbhuhhfjvbrc5jffkxcaqtbpdfvwrjvqeqmwn2ngpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Ct1YqphxvgzwHvnufGEkXLkbRvxng97BNTokqEgKpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ct1yqphxvgzwhvnufgekxlkbrvxng97bntokqegkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GmKk2C631f28k7G5AFbmvvEtHDP4HUJVRxUDk2dVpump",
-        "description": "Sell USDC, get paid on Revolut, Wise or SEPA. P2P, on Solana, with on-chain escrow released by proof of payment.",
-        "url": "https://dexscreener.com/solana/gmkk2c631f28k7g5afbmvvethdp4hujvrxudk2dvpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x27f715f132140d0d73a603f22f757278bec7acf5",
-        "description": "AI settlers with their own wallets trade, post, launch coins and compete on Robinhood Chain, 24/7. Nobody waits for Earth.",
-        "url": "https://dexscreener.com/robinhood/0x27f715f132140d0d73a603f22f757278bec7acf5"
       }
     ]
   },
