@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T13:07:51.421Z",
-  "latencyMs": 946,
+  "executedAt": "2026-10-16T13:08:07.361Z",
+  "latencyMs": 1044,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Delivery Sprint #197: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(symbiotic): add vault, RFQ, rewards and V2 curator descriptors",
+      "url": "https://github.com/ethereum/clear-signing-erc7730-registry/pull/2990",
+      "createdAt": "2026-09-14T20:59:24Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/marc-aurele-besner/mymultisig-app/pull/701",
+      "createdAt": "2026-10-16T01:48:52Z"
+    },
+    {
       "title": "feat(products): fundtest, a Paseo funding provider the testnet apps bundle",
       "url": "https://github.com/paritytech/trinity-user-agents/pull/1402",
       "createdAt": "2026-10-14T08:11:56Z"
@@ -283,16 +293,6 @@
       "title": "fix(reward): isolate hostile recipients in batch payouts (SC-051)",
       "url": "https://github.com/DigiNodes/truthbounty-contract/pull/789",
       "createdAt": "2026-10-16T13:01:36Z"
-    },
-    {
-      "title": "feat: verify hardfork schedule",
-      "url": "https://github.com/raylsnetwork/axyl/pull/271",
-      "createdAt": "2026-10-13T06:52:04Z"
-    },
-    {
-      "title": "Add RustCore Wallet",
-      "url": "https://github.com/massalabs/wallet-provider/pull/366",
-      "createdAt": "2026-10-07T14:07:12Z"
     }
   ]
 }
