@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $125] Add AbortSignal support across transfer, completeMint, and attestation polling](https://github.com/Parabola-org/parabola/issues/5)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Fork Fix Branch**: [fix/issue-5](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-5)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/10](https://github.com/lienhoatienphung-svg/parabola/pull/10)
 - **Inspected Source File**: `src/iris/poll.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-16T00:57:53.874Z`
+- **Timestamp**: `2026-10-16T00:58:03.526Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
