@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T07:15:41.834Z",
-  "latencyMs": 1130,
+  "executedAt": "2026-10-16T07:15:46.834Z",
+  "latencyMs": 1120,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
   "workTitle": "Growth & Sales Sprint #74: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "feat(hunt): hunt threats on SIEM, XDR, EDR and data lakes with scheduled and AI-assisted hunts (#18671)",
-          "url": "https://github.com/OpenCTI-Platform/opencti/pull/18755",
-          "repositoryUrl": "https://api.github.com/repos/OpenCTI-Platform/opencti",
-          "updatedAt": "2026-10-16T07:15:36Z"
+          "title": "#629 F1: refusals in a separate append-only store (PostgreSQL table, migration 018)",
+          "url": "https://github.com/WilliamGomes41/Metis-DS/pull/636",
+          "repositoryUrl": "https://api.github.com/repos/WilliamGomes41/Metis-DS",
+          "updatedAt": "2026-10-16T07:15:41Z"
         },
         {
-          "title": "fix(queue): read cross-realm request regions",
-          "url": "https://github.com/vite-hub/vitehub/pull/2160",
-          "repositoryUrl": "https://api.github.com/repos/vite-hub/vitehub",
-          "updatedAt": "2026-10-16T07:15:36Z"
+          "title": "registration: bind ed25519 device_id to key, fix IPv6 trust CIDR, strict CA pin (Issue #5044)",
+          "url": "https://github.com/cfg-is/cfgms/pull/5057",
+          "repositoryUrl": "https://api.github.com/repos/cfg-is/cfgms",
+          "updatedAt": "2026-10-16T07:15:41Z"
         },
         {
-          "title": "Pet-first directory, per-pet prices, security hardening, UI/UX review",
-          "url": "https://github.com/skorpionas/smilo-book-app/pull/6",
-          "repositoryUrl": "https://api.github.com/repos/skorpionas/smilo-book-app",
+          "title": "test(scope): 97 original-gate/session tests and 7 open authorization REDs (#1476) [DRAFT/HOLD]",
+          "url": "https://github.com/Zennay/Lightup/pull/1477",
+          "repositoryUrl": "https://api.github.com/repos/Zennay/Lightup",
+          "updatedAt": "2026-10-16T07:15:40Z"
+        },
+        {
+          "title": "atomesh(compass): periodic tasks fire on the router LP clock as daemon deadlines",
+          "url": "https://github.com/jgong5/ATOM/pull/1202",
+          "repositoryUrl": "https://api.github.com/repos/jgong5/ATOM",
+          "updatedAt": "2026-10-16T07:15:42Z"
+        },
+        {
+          "title": "fix(#1054): harden 0125 WFM preflight and regression gates",
+          "url": "https://github.com/erwinmehehe/payrollph/pull/1120",
+          "repositoryUrl": "https://api.github.com/repos/erwinmehehe/payrollph",
+          "updatedAt": "2026-10-16T07:15:40Z"
+        },
+        {
+          "title": "feat: universal quota detection, BYOK orchestration, and semantic activity sanitization",
+          "url": "https://github.com/8-BitRhyon/bantay-tui/pull/63",
+          "repositoryUrl": "https://api.github.com/repos/8-BitRhyon/bantay-tui",
+          "updatedAt": "2026-10-16T07:15:40Z"
+        },
+        {
+          "title": "feat(release): ship the WASM plugin host in supported release artifacts",
+          "url": "https://github.com/zeroclaw-labs/zeroclaw/pull/11347",
+          "repositoryUrl": "https://api.github.com/repos/zeroclaw-labs/zeroclaw",
           "updatedAt": "2026-10-16T07:15:39Z"
         },
         {
-          "title": "chore: fold api audit events into activity events",
-          "url": "https://github.com/Maji-Studio/noma-dmrv/pull/1082",
-          "repositoryUrl": "https://api.github.com/repos/Maji-Studio/noma-dmrv",
-          "updatedAt": "2026-10-16T07:15:35Z"
-        },
-        {
-          "title": "Venspera readiness: secure tenant governance and operational superuser billing console",
-          "url": "https://github.com/periljames/amo-portal/pull/564",
-          "repositoryUrl": "https://api.github.com/repos/periljames/amo-portal",
-          "updatedAt": "2026-10-16T07:15:35Z"
-        },
-        {
-          "title": "fix(sandbox): encode cross-realm byte arrays",
-          "url": "https://github.com/vite-hub/vitehub/pull/2161",
-          "repositoryUrl": "https://api.github.com/repos/vite-hub/vitehub",
-          "updatedAt": "2026-10-16T07:15:35Z"
-        },
-        {
-          "title": "fix(rate-limit): validate limiter options",
-          "url": "https://github.com/vite-hub/vitehub/pull/2162",
-          "repositoryUrl": "https://api.github.com/repos/vite-hub/vitehub",
-          "updatedAt": "2026-10-16T07:15:35Z"
-        },
-        {
-          "title": "chore(deps): Bump aws-cdk-lib from 2.272.0 to 2.273.0 in the aws-cdk group",
-          "url": "https://github.com/masaminh/nar_api/pull/211",
-          "repositoryUrl": "https://api.github.com/repos/masaminh/nar_api",
-          "updatedAt": "2026-10-16T07:15:34Z"
+          "title": "Prepare viewer accounts, recovery and storage choices",
+          "url": "https://github.com/FromAStoryteller/fromastoryteller.github.io/pull/7",
+          "repositoryUrl": "https://api.github.com/repos/FromAStoryteller/fromastoryteller.github.io",
+          "updatedAt": "2026-10-16T07:15:39Z"
         }
       ]
     },
