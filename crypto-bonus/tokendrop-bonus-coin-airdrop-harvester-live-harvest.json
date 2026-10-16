@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T05:41:15.717Z",
-  "latencyMs": 840,
+  "executedAt": "2026-10-16T05:42:20.925Z",
+  "latencyMs": 815,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #60: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
+  "workTitle": "Delivery Sprint #61: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Mine ELECTRIC on the CPU with a keyless fee pot",
+      "url": "https://github.com/CyberAshven/pickaxe-miner/pull/51",
+      "createdAt": "2026-10-15T15:31:06Z"
+    },
+    {
       "title": "Add passkey player access and a testnet wallet recovery lab",
       "url": "https://github.com/GEEKProtocol0110/geek-protocol-hq/pull/119",
       "createdAt": "2026-10-15T19:41:17Z"
     },
     {
-      "title": "Mine ELECTRIC on the CPU with a keyless fee pot",
-      "url": "https://github.com/CyberAshven/pickaxe-miner/pull/51",
-      "createdAt": "2026-10-15T15:31:06Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
       "title": "Central message board — Hermes, Claude, Codex and operator coordination",
@@ -288,11 +293,6 @@
       "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
       "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
       "createdAt": "2026-10-06T11:40:04Z"
-    },
-    {
-      "title": "perf(jit): dedup discovered jump edges in O(1)",
-      "url": "https://github.com/alloy-rs/evm2/pull/658",
-      "createdAt": "2026-10-16T03:07:05Z"
     }
   ]
 }
