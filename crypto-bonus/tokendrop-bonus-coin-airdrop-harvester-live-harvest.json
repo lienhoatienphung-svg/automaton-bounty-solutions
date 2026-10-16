@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T19:56:22.601Z",
-  "latencyMs": 10007,
+  "executedAt": "2026-10-16T19:57:14.170Z",
+  "latencyMs": 1108,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #298: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #299: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -145,9 +145,154 @@
       "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
     }
   ],
-  "dexScreenerBoostedCoinsCount": 0,
-  "dexScreenerBoostedCoins": [],
-  "coinGeckoTrendingCoinsCount": 0,
-  "coinGeckoTrendingCoins": [],
-  "activeAirdropAndFaucetQuests": []
+  "dexScreenerBoostedCoinsCount": 8,
+  "dexScreenerBoostedCoins": [
+    {
+      "chainId": "solana",
+      "tokenAddress": "FgJReZeYfmKZeWrCaGYL8gLnUixwBhjdHuRknC6ypump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "This dog is still dancing",
+      "url": "https://dexscreener.com/solana/fgjrezeyfmkzewrcagyl8glnuixwbhjdhurknc6ypump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "8QtbrC9d3BezyCwzBFUQbNsWJGte7ckrZ7HWcn81pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Connecting the internet again with dickbutt",
+      "url": "https://dexscreener.com/solana/8qtbrc9d3bezycwzbfuqbnswjgte7ckrz7hwcn81pump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "8xvxJBM8JYqoNtedtmEQAmsQbFkZSjnUvLARcEq4pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 20,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/8xvxjbm8jyqontedtmeqamsqbfkzsjnuvlarceq4pump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "4ERwUz3AKfBw2J34W8sBBsWh4ohXGvcD1qa7iKo7KeHm",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/4erwuz3akfbw2j34w8sbbswh4ohxgvcd1qa7iko7kehm"
+    },
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0xb2d1Fa50508550B3488C0e9860d1f08937a29145",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "The first perpetual trading hub powered by\nHyperliquid on Robinhood Chain. Borrow, lend & trade in one place. Gold & Silver rewards.",
+      "url": "https://dexscreener.com/robinhood/0xb2d1fa50508550b3488c0e9860d1f08937a29145"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "3dgGDYKaab1pAZhaEC6gZQS3PrbZdShXMcoWeVZJpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 20,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/3dggdykaab1pazhaec6gzqs3prbzdshxmcowevzjpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "3dgGDYKaab1pAZhaEC6gZQS3PrbZdShXMcoWeVZJpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 20,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/3dggdykaab1pazhaec6gzqs3prbzdshxmcowevzjpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "DTsfJ3GM8SeXBv6zH9GMANDRnWrLqEn9eb9XXULppump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Just a silly face from the old internet. \nborn in MS Paint. stuck in 1998. forever cute.",
+      "url": "https://dexscreener.com/solana/dtsfj3gm8sexbv6zh9gmandrnwrlqen9eb9xxulppump"
+    }
+  ],
+  "coinGeckoTrendingCoinsCount": 8,
+  "coinGeckoTrendingCoins": [
+    {
+      "name": "Dacity Coin",
+      "symbol": "DACITY",
+      "marketCapRank": 762,
+      "priceBtc": 2.9679421422066e-7
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.0004246498660967
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010687714730838858
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 105,
+      "priceBtc": 0.000021180686510923278
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 612,
+      "priceBtc": 0.0014300216916441595
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.213833614113864e-8
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 109,
+      "priceBtc": 8.860860072346654e-7
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 90,
+      "priceBtc": 0.00003833767511757276
+    }
+  ],
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "fix(server): send quotes return 500 before the wallet has scanned",
+      "url": "https://github.com/zcashlabs/thus-spoke-zakura/issues/250",
+      "createdAt": "2026-10-14T06:54:26Z"
+    },
+    {
+      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
+      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
+      "createdAt": "2026-10-09T07:30:01Z"
+    },
+    {
+      "title": "feat(cli): add `ths snapshot` and `ths revert`",
+      "url": "https://github.com/zcashlabs/thus-spoke-zakura/issues/232",
+      "createdAt": "2026-10-13T07:00:57Z"
+    },
+    {
+      "title": "feat(server): add interval and mempool-triggered mining",
+      "url": "https://github.com/zcashlabs/thus-spoke-zakura/issues/230",
+      "createdAt": "2026-10-13T07:00:53Z"
+    },
+    {
+      "title": "Add a detached mode to ths start for scripts and CI",
+      "url": "https://github.com/zcashlabs/thus-spoke-zakura/issues/147",
+      "createdAt": "2026-10-03T20:07:57Z"
+    },
+    {
+      "title": "Privy wallet: Privy EOA owns Alchemy MAv2 + on-chain one-tap sessions (self-pay)",
+      "url": "https://github.com/makerlee0x/disciple/pull/59",
+      "createdAt": "2026-10-16T19:23:02Z"
+    }
+  ]
 }
