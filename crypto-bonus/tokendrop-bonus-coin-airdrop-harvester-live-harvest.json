@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T16:24:14.667Z",
-  "latencyMs": 1613,
+  "executedAt": "2026-10-16T16:29:28.228Z",
+  "latencyMs": 1294,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #249: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #250: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "G3NKPRK3BVrNDPLCbtG53SibytphwDqiTrnaiUq9pump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Uniting the Tesla × SpaceX narrative behind Elon's next-gen Roadster.",
+      "url": "https://dexscreener.com/solana/g3nkprk3bvrndplcbtg53sibytphwdqitrnaiuq9pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "F5FtUS4SVy2o36RvowgEKe3FJnFN5HRPM4u6Egvspump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
       "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "CpdbvrkDQNNbZdcLCMpto1U84ep8FrFdfT84Lme6pump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "illusion",
-      "url": "https://dexscreener.com/solana/cpdbvrkdqnnbzdclcmpto1u84ep8frfdft84lme6pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 764,
-      "priceBtc": 2.9762728120802577e-7
+      "marketCapRank": 745,
+      "priceBtc": 3.079218124570334e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00011051594159026047
+      "priceBtc": 0.00011039703580137573
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.000021808539364225363
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "marketCapRank": 34,
-      "priceBtc": 0.003454493254007468
+      "priceBtc": 0.00002173185187959317
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.317529921699535e-8
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 99,
-      "priceBtc": 0.000008381202545571876
+      "priceBtc": 9.313695885015423e-8
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006218944666592722
+      "priceBtc": 0.00006244037878934076
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 614,
-      "priceBtc": 0.0014236502097359628
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "marketCapRank": 34,
+      "priceBtc": 0.00344493264578092
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 85,
+      "priceBtc": 0.000010716615512279586
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 109,
+      "priceBtc": 9.081285975563208e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Add kv-cache-pruning-sglang",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/14",
-      "createdAt": "2026-09-22T07:01:10Z"
+      "title": "docs: add contract ABI and spec documentation",
+      "url": "https://github.com/eogenyi23-creator/soroban-merkle-airdrop/pull/247",
+      "createdAt": "2026-10-16T16:29:06Z"
     },
     {
-      "title": "Roadmap: Black Anvil network rollout",
-      "url": "https://github.com/LegendofKEK/bichael/issues/341",
-      "createdAt": "2026-10-16T02:23:31Z"
+      "title": "fix(web-client): hold the store lock for every chain MMR writer",
+      "url": "https://github.com/0xMiden/web-sdk/pull/482",
+      "createdAt": "2026-10-16T13:02:21Z"
     },
     {
-      "title": "Update all major dependencies (major)",
-      "url": "https://github.com/Mbehbahani/JobPilot/pull/18",
-      "createdAt": "2026-08-05T16:21:46Z"
+      "title": "feat!: add Tron support and replace walletAddress with activeWallet",
+      "url": "https://github.com/0xsequence/kotlin-sdk/pull/100",
+      "createdAt": "2026-10-08T11:13:04Z"
     },
     {
-      "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
-      "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
-      "createdAt": "2026-10-09T09:52:33Z"
-    },
-    {
-      "title": "chore(deps): update all non-major dependencies",
-      "url": "https://github.com/reddoorla/medical-solutions-of-texas/pull/68",
-      "createdAt": "2026-09-21T16:45:08Z"
+      "title": "feat!: add Tron support and replace walletAddress with activeWallet",
+      "url": "https://github.com/0xsequence/swift-sdk/pull/49",
+      "createdAt": "2026-10-08T11:07:16Z"
     },
     {
       "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
       "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
       "createdAt": "2026-10-15T12:16:48Z"
+    },
+    {
+      "title": "feat!: add Tron support and replace walletAddress with activeWallet",
+      "url": "https://github.com/0xPolygon/oms-wallet-typescript-sdk/pull/104",
+      "createdAt": "2026-10-05T14:41:10Z"
     }
   ]
 }
