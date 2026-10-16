@@ -3,12 +3,12 @@
 - **Target Issue**: [[Bounty: $75] Website: accessibility and motion-preference fixes for the landing page](https://github.com/Parabola-org/parabola/issues/16)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Automated Test Suite Generation & Sentry Bug Triage
+- **Subsidiary Desk**: Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 
 - **Fork Fix Branch**: [fix/issue-16](https://github.com/lienhoatienphung-svg/parabola/tree/fix/issue-16)
 - **Pull Request**: [https://github.com/lienhoatienphung-svg/parabola/pull/15](https://github.com/lienhoatienphung-svg/parabola/pull/15)
 - **Inspected Source File**: `website/src/hero-animation.ts`
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-16T00:12:12.102Z`
+- **Timestamp**: `2026-10-16T00:29:03.988Z`
 
 ## 1. Repository Root Structure (`Parabola-org/parabola`)
 - `.editorconfig`
@@ -108,12 +108,13 @@ Audit the landing page against WCAG 2.1 AA basics and fix what's found: honor `p
 - Full keyboard pass: tab order reaches every c
 ```
 
-## 4. Existing Claim Activity (5)
+## 4. Existing Claim Activity (6)
 - **@Ollie520** (2026-10-15T20:28:35Z): `# Solution for [github/Parabola-org_parabola_16]: [Parabola-org/parabola] [Bounty: $75] Website: accessibility and motion-preference fixes for the landing page`
 - **@yodakkak** (2026-10-15T20:49:03Z): `I am working on a focused PR for this issue (#16).`
 - **@ayqy** (2026-10-15T22:53:18Z): `Hi maintainers, is there still a paid assignment for the complete landing-page audit and fixes in #16, given the open #41? Main already includes reduced-motion `
 - **@hxsworrk-lab** (2026-10-15T23:45:08Z): `With #41 open, is this $75 bounty still accepting another contributor? Before I claim or begin work, could an authorized maintainer confirm the payer, currency/`
 - **@phauranta-naresh** (2026-10-16T00:10:56Z): `/claim `
+- **@yggdrasilworld** (2026-10-16T00:27:03Z): `/claim #16  Settlement wallet (Base USDC): `0xfBa20992174e777eaBbdd7D10755699B84d030Fd``
 
 ## 5. Settlement & Claim Header
 - Claim Command: `/claim #16`
