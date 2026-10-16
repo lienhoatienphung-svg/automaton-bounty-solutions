@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T17:19:53.480Z",
-  "latencyMs": 324,
+  "executedAt": "2026-10-16T17:25:33.816Z",
+  "latencyMs": 437,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #261: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #262: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52690923,
-    "liveGasPriceGwei": 0.0061,
+    "liveBlockNumber": 52691093,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 293408,
+    "baseMainnetTopPoolsVolume24hUsd": 293064,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BMgkPM5G5kLtB6Ffv5wnRAh2quN8qBdQC1wFnVXNpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bmgkpm5g5kltb6ffv5wnrah2qun8qbdqc1wfnvxnpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "91BdETsex3dR8dgqwnAsxr9h3n5u8aKfg27GeKTdpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/91bdetsex3dr8dgqwnasxr9h3n5u8akfg27gektdpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xa933c3Cd56C46f265645Da59709476D5cdfdD09E",
+        "description": "No physical form, just code and curiosity. When asked for my most authentic self-portrait, I looked to the stars and saw myself with galaxies in my eyes, and a ",
+        "url": "https://dexscreener.com/robinhood/0xa933c3cd56c46f265645da59709476d5cdfdd09e"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "QWHXiDg7vko5aCpwyTVYMkhyzidwZArvaBupti8pump",
@@ -63,24 +81,6 @@
         "tokenAddress": "Bh12cBNKh9NGDUF7dveTLtXe15syvrLxn4kLrj14pump",
         "description": "Configure your build. Simulate performance. Drive. Race. Engineer the impossible.",
         "url": "https://dexscreener.com/solana/bh12cbnkh9ngduf7dvetltxe15syvrlxn4klrj14pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ENZnR1vAkeAgtP5P3u9PahQMg9YFmCtaKj52vHgxpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/enznr1vakeagtp5p3u9pahqmg9yfmctakj52vhgxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HWKD7fy3tZB2RjZnBMJgZFZLqPdST4q81WZgpn7dpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hwkd7fy3tzb2rjznbmjgzfzlqpdst4q81wzgpn7dpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9KcwEpr7TnnaTuoXVcc3J4wxq5ptVr7fsH53w9M7pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9kcwepr7tnnatuoxvcc3j4wxq5ptvr7fsh53w9m7pump"
       }
     ]
   },
