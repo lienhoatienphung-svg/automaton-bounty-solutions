@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T20:45:30.828Z",
-  "latencyMs": 700,
+  "executedAt": "2026-10-16T20:50:54.824Z",
+  "latencyMs": 1512,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #309: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #310: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "CvmRz15WYyhLRskuUFfRe6EybPjQdUqFA8URVcmSpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "refer your frens and make money together with referral code",
+      "url": "https://dexscreener.com/solana/cvmrz15wyyhlrskuuffre6eybpjqduqfa8urvcmspump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "FgJReZeYfmKZeWrCaGYL8gLnUixwBhjdHuRknC6ypump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 20,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/3dggdykaab1pazhaec6gzqs3prbzdshxmcowevzjpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DTsfJ3GM8SeXBv6zH9GMANDRnWrLqEn9eb9XXULppump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Just a silly face from the old internet. \nborn in MS Paint. stuck in 1998. forever cute.",
-      "url": "https://dexscreener.com/solana/dtsfj3gm8sexbv6zh9gmandrnwrlqen9eb9xxulppump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(lre): derive the event run from the catalog schedule and goal from the unit's step",
-      "url": "https://github.com/TacticusPlanner/tacticus-planner-apps/pull/227",
-      "createdAt": "2026-10-16T20:14:43Z"
+      "title": "Multi-network faucet: network picker, above-the-fold claim, deps upgrade",
+      "url": "https://github.com/bsv-blockchain-demos/ttn-faucet/pull/8",
+      "createdAt": "2026-10-16T20:27:12Z"
     },
     {
-      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
-      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
-      "createdAt": "2026-10-07T16:13:30Z"
+      "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
+      "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
+      "createdAt": "2026-10-09T09:52:33Z"
     },
     {
-      "title": "[UI/UX] Simplify post-E2E payable review and assessment results",
-      "url": "https://github.com/habrahgithub/swd-tameion-assured-payments/pull/72",
-      "createdAt": "2026-10-14T17:35:36Z"
+      "title": "[Bug] The over-balance deposit guard never runs in the app",
+      "url": "https://github.com/drydocs/meridian/issues/1063",
+      "createdAt": "2026-10-16T15:24:06Z"
     },
     {
-      "title": "Add mainnet Test pilot deployment and Alpha KAI cutoff preparation",
-      "url": "https://github.com/therexdev/kai/pull/76",
-      "createdAt": "2026-10-08T20:45:29Z"
+      "title": "build(sdk): move every Platform pin to 5.0.0-rc.3, the version testnet runs",
+      "url": "https://github.com/PastaPastaPasta/dash-forge/pull/490",
+      "createdAt": "2026-10-16T20:49:00Z"
     },
     {
-      "title": "fix(xrpl): settle only on the testnet",
-      "url": "https://github.com/justmoon/dassie/pull/85",
-      "createdAt": "2026-10-16T20:37:47Z"
+      "title": "fix(l1): RPC rate-limit identity per IPv6 /64; gateways never trust the leftmost X-Forwarded-For (P1-02)",
+      "url": "https://github.com/zyron249/-zyronchain/pull/1037",
+      "createdAt": "2026-10-16T20:46:06Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "TEN4: burn genesis LP, schedule ride emission, rename the coin",
+      "url": "https://github.com/recferret-bit/freightchain/pull/3",
+      "createdAt": "2026-10-16T20:49:02Z"
     }
   ]
 }
