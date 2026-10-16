@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T12:53:52.661Z",
-  "latencyMs": 566,
+  "executedAt": "2026-10-16T12:58:03.300Z",
+  "latencyMs": 335,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #191: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #192: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52682942,
+    "liveBlockNumber": 52683068,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 293376,
+    "baseMainnetTopPoolsVolume24hUsd": 293328,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x8a64DD261385cCAA79c4f2dC941F2e2683186666",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/bsc/0x8a64dd261385ccaa79c4f2dc941f2e2683186666"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "kpw3mRFBxzWFcQiLjPE1AXM6bSQhwFoUY8WQAKbpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/kpw3mrfbxzwfcqiljpe1axm6bsqhwfouy8wqakbpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6bnxDNE7WzGistby4toDe6ezt27myUy2MiCXrk2epump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0xFEBF83711BF233B69Bf9021fB76401E255D73E5C",
         "description": "THE LIBRARY\nEvery token launched on Robinhood Chain, written on-chain.",
         "url": "https://dexscreener.com/robinhood/0xfebf83711bf233b69bf9021fb76401e255d73e5c"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9nQNALg2SqBC9HT3e8dEG2EeoFZBBfBmFRoN19xXpump",
-        "description": "Cat named Cat",
-        "url": "https://dexscreener.com/solana/9nqnalg2sqbc9ht3e8deg2eeofzbbfbmfron19xxpump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x3B076DFa4fEFEC34Ce356eC14F2F540E7E738B7D",
-        "description": "ORAXEL is a Daily Price Prediction Game on BNB CHAIN where users Predict whether BNB will close Above or Below The Daily Strike Price. \n\nHow Does it Works.\n\n⏺️ ",
-        "url": "https://dexscreener.com/bsc/0x3b076dfa4fefec34ce356ec14f2f540e7e738b7d"
       }
     ]
   },
