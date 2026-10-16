@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T06:49:56.587Z",
-  "latencyMs": 725,
+  "executedAt": "2026-10-16T06:51:05.401Z",
+  "latencyMs": 766,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #66: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #67: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "Update paperlessngx/paperless-ngx Docker tag to v3.3.2",
+          "url": "https://github.com/gyulaasztalos/homelab-charts/pull/66",
+          "repositoryUrl": "https://api.github.com/repos/gyulaasztalos/homelab-charts",
+          "updatedAt": "2026-10-16T06:51:00Z"
+        },
+        {
+          "title": "test(airprop): register Core jurisdiction resolver artifacts",
+          "url": "https://github.com/ontripai/cladora-website/pull/436",
+          "repositoryUrl": "https://api.github.com/repos/ontripai/cladora-website",
+          "updatedAt": "2026-10-16T06:51:02Z"
+        },
+        {
+          "title": "fix(bidi): une formule traverse le gras et l'italique d'un cours",
+          "url": "https://github.com/MBeji/yahia-quest-arena/pull/1177",
+          "repositoryUrl": "https://api.github.com/repos/MBeji/yahia-quest-arena",
+          "updatedAt": "2026-10-16T06:50:59Z"
+        },
+        {
+          "title": "T24: stable signing identity for builds (user creates it once)",
+          "url": "https://github.com/luckysharda/dedock/pull/43",
+          "repositoryUrl": "https://api.github.com/repos/luckysharda/dedock",
+          "updatedAt": "2026-10-16T06:50:59Z"
+        },
+        {
+          "title": "refactor(catalog): add cross-manufacturer promotion framework",
+          "url": "https://github.com/physicslu/plasma/pull/960",
+          "repositoryUrl": "https://api.github.com/repos/physicslu/plasma",
+          "updatedAt": "2026-10-16T06:50:58Z"
+        },
+        {
+          "title": "refactor!: delete the second analyzer and outputs no one reads",
+          "url": "https://github.com/tangle-network/traces/pull/196",
+          "repositoryUrl": "https://api.github.com/repos/tangle-network/traces",
+          "updatedAt": "2026-10-16T06:50:58Z"
+        },
+        {
+          "title": "Sound: rimshot spectrum, maracas envelope/band balance, and hat/cymbal qualification — cover every advertised drum",
+          "url": "https://github.com/2AMLogic/gf180-parasynth/issues/336",
+          "repositoryUrl": "https://api.github.com/repos/2AMLogic/gf180-parasynth",
+          "updatedAt": "2026-10-16T06:50:58Z"
+        },
+        {
+          "title": "fix: native follow-ups: Apps uninstall entry, MOK cert probe, plan-check docs",
+          "url": "https://github.com/tuna-os/wootc/pull/635",
+          "repositoryUrl": "https://api.github.com/repos/tuna-os/wootc",
+          "updatedAt": "2026-10-16T06:50:57Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
