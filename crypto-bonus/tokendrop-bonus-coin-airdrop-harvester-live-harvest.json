@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T12:02:28.846Z",
-  "latencyMs": 1193,
+  "executedAt": "2026-10-16T12:05:19.412Z",
+  "latencyMs": 919,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #176: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #177: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,66 +218,56 @@
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00011081570686222702
+      "priceBtc": 0.00011074688250270889
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 99,
-      "priceBtc": 0.00000839525807747872
+      "priceBtc": 0.000008412430947098036
     },
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 712,
-      "priceBtc": 3.2099960661425075e-7
+      "marketCapRank": 738,
+      "priceBtc": 3.166774407952214e-7
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012729435071833443
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.386096551024481e-8
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9986588946695851
+      "priceBtc": 0.000012699194389332264
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.00002239354586427477
+      "priceBtc": 0.000022291075099188587
     },
     {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 92,
-      "priceBtc": 0.00003759266105637808
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.345429770486776e-8
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9977038670478091
+    },
+    {
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "marketCapRank": 95,
+      "priceBtc": 0.000001089025902129312
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "Merge master-2.0 into master",
-      "url": "https://github.com/solana-foundation/solana-playground/pull/27",
-      "createdAt": "2026-10-13T17:19:42Z"
-    },
-    {
-      "title": "[add] BlockVectra MCP — chain discovery, RPC and developer documentation",
-      "url": "https://github.com/satohubai/onchain-agents/issues/18",
-      "createdAt": "2026-10-16T10:07:46Z"
+      "title": "Add spending limits to `AuthMultisigSmart`",
+      "url": "https://github.com/0xMiden/protocol/issues/4064",
+      "createdAt": "2026-10-16T12:05:03Z"
     },
     {
       "title": "Dispatch noncreature graveyard triggers and ten complete Standard bodies",
@@ -285,14 +275,24 @@
       "createdAt": "2026-10-16T12:00:14Z"
     },
     {
-      "title": "perf(jit): resolve dynamic jumps per call context",
-      "url": "https://github.com/alloy-rs/evm2/pull/638",
-      "createdAt": "2026-10-16T00:19:13Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "cake_kda: deterministic chunked KDA training backward and a selectable KDA backend",
-      "url": "https://github.com/radixark/miles/pull/3628",
-      "createdAt": "2026-09-23T05:51:01Z"
+      "title": "Import by proof writes a tracked block header with an MMR path trimmed to a stale checkpoint, bricking the store",
+      "url": "https://github.com/0xMiden/rust-sdk/issues/2713",
+      "createdAt": "2026-10-16T12:04:07Z"
+    },
+    {
+      "title": "LND: qualify Taproot Assets mint, transfer, and RFQ payments on signet",
+      "url": "https://github.com/OpenAgentsInc/openagents/issues/11863",
+      "createdAt": "2026-10-16T12:03:26Z"
+    },
+    {
+      "title": "Audit require_auth on mutating methods in examples/faucet",
+      "url": "https://github.com/Soroban-Cookbook/Soroban_Cookbook_online/issues/1077",
+      "createdAt": "2026-10-16T12:03:43Z"
     }
   ]
 }
