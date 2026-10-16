@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T17:17:07.853Z",
-  "latencyMs": 747,
+  "executedAt": "2026-10-16T17:18:10.064Z",
+  "latencyMs": 884,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #262: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #263: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,19 +265,9 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Merge master-2.0 into master",
-      "url": "https://github.com/solana-foundation/solana-playground/pull/27",
-      "createdAt": "2026-10-13T17:19:42Z"
-    },
-    {
-      "title": "[UI/UX] Simplify post-E2E payable review and assessment results",
-      "url": "https://github.com/habrahgithub/swd-tameion-assured-payments/pull/72",
-      "createdAt": "2026-10-14T17:35:36Z"
-    },
-    {
-      "title": "\"eat some food\" action",
-      "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
-      "createdAt": "2026-10-07T03:48:40Z"
+      "title": "fix: move all agent paths to /v1/agents/* and parse nested agent.api_key",
+      "url": "https://github.com/Deva-me-AI/mcp-server/pull/9",
+      "createdAt": "2026-10-16T16:39:11Z"
     },
     {
       "title": "Inventory and migrate current Standard card pool",
@@ -285,14 +275,24 @@
       "createdAt": "2026-10-15T15:51:44Z"
     },
     {
-      "title": "feat(gym): support Environment Server tasksets",
-      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4429",
-      "createdAt": "2026-10-02T22:40:32Z"
+      "title": "feat(web-client): add withFeeAwareAuth",
+      "url": "https://github.com/0xMiden/web-sdk/pull/477",
+      "createdAt": "2026-10-14T19:22:53Z"
     },
     {
-      "title": "ENG-2448 ENG-2402 ENG-2401: use radius@tools and preserve releases",
-      "url": "https://github.com/radiustechsystems/tools/pull/79",
-      "createdAt": "2026-10-16T16:01:31Z"
+      "title": "fix(mtp): logprobs requests no longer 500 with MTP speculative decoding",
+      "url": "https://github.com/raullenchai/Rapid-MLX/pull/4733",
+      "createdAt": "2026-10-16T16:56:58Z"
+    },
+    {
+      "title": "merkle-airdrop template: admin can sweep while claims are still open",
+      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/533",
+      "createdAt": "2026-10-15T21:48:32Z"
+    },
+    {
+      "title": "Merge master-2.0 into master",
+      "url": "https://github.com/solana-foundation/solana-playground/pull/27",
+      "createdAt": "2026-10-13T17:19:42Z"
     }
   ]
 }
