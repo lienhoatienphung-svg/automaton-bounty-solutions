@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-16T07:43:29.323Z",
-  "latencyMs": 633,
+  "executedAt": "2026-10-16T07:44:33.925Z",
+  "latencyMs": 585,
   "companyName": "RelayGrid Nostr NIP-90 Decentralized P2P Data Vending Machine Desk",
-  "workTitle": "Growth & Sales Sprint #532: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
-  "targetUrl": "https://polymarket.com/event/ukraine-election-called-in-2025",
+  "workTitle": "Delivery Sprint #533: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "targetUrl": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2169082,
-        "liquidityUsd": 95464,
+        "liquidityUsd": 95535,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059853,
-        "liquidityUsd": 3051,
+        "liquidityUsd": 2837,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 18201,
+        "liquidityUsd": 17315,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -72,7 +72,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000084,
         "liquidityUsd": 103136,
-        "volume24hUsd": 66644,
+        "volume24hUsd": 66617,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000085,
         "liquidityUsd": 21385,
-        "volume24hUsd": 84738,
+        "volume24hUsd": 84681,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -200,57 +200,62 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Wppproduction",
-        "roleOrTask": "Senior Post Producer (m/w/d)",
+        "company": "Kögel Bau GmbH & Co. KG",
+        "roleOrTask": "Projektleiter (m/w/d) Technische Gebäudeausrüstung",
         "industryTags": [
-          "WPP Production Roles"
+          "Building",
+          "Supply",
+          "Safety Services Engineering"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/wppproduction/senior-post-producer-hamburg-403939",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/kogel-bau-gmbh-co-kg/projektleiter-technische-gebaudeausrustung-bad-oeynhausen-122742",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Duck Duck Go",
-        "roleOrTask": "Senior Strategic Finance Manager",
+        "company": "fino data services GmbH",
+        "roleOrTask": "Product Expert E-Invoicing (all genders) - 100% Homeoffice",
         "industryTags": [
-          "Finance"
+          "Remote",
+          "Product Management"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-strategic-finance-manager-277426",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/fino-data-services-gmbh/product-expert-e-invoicing-all-genders-100-homeoffice-berlin-120034",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "EverAI",
-        "roleOrTask": "Senior Lifecycle Marketing Manager (Full Remote - Germany)",
+        "company": "assemblean",
+        "roleOrTask": "Projektmanagement (m/w/d)",
         "industryTags": [
-          "Growth"
+          "Engineering"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/everai/senior-lifecycle-marketing-manager-full-remote-germany-386855",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/assemblean/projektmanagement-paderborn-133905",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "EverAI",
-        "roleOrTask": "Senior Performance Marketer (Full Remote - Germany)",
+        "company": "Taxtalente.de",
+        "roleOrTask": "Steuerberater (m/w/d) in Leubsdorf, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
         "industryTags": [
-          "Growth"
+          "Directors",
+          "Chief Executives"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/everai/senior-performance-marketer-full-remote-germany-249155",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-leubsdorf-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-228367",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "EverAI",
-        "roleOrTask": "Product Manager - Trust & Safety (Full Remote - Germany)",
+        "company": "Taxtalente.de",
+        "roleOrTask": "Steuerberater (m/w/d) in Birresborn, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
         "industryTags": [
-          "Operations"
+          "Directors",
+          "Chief Executives"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/everai/product-manager-trust-safety-full-remote-germany-483423",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-birresborn-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-24134",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
