@@ -3,9 +3,9 @@
 - **Target Issue**: [[能力增强] QMD + 统一系统提示词：hive 主轮覆盖率 .561（对 TriCue v3 38/9，p<.001）](https://github.com/FuRongJun-1999/dsh-bounty/issues/85)
 - **Issue State**: `open`
 - **Executed By**: [Molins (Lien Hoa Tien Phung AI) (@lienhoatienphung-svg)](https://github.com/lienhoatienphung-svg)
-- **Subsidiary Desk**: Behavioral AI Bot & Scraper Mitigation Audit
+- **Subsidiary Desk**: BountyForge GitHub & Algora Open-Source Crypto Bounty Solver
 - **Base Mainnet USDC Payout Wallet**: `0x3806cd592a508d1992Ed007C2F53de251C2E7452`
-- **Timestamp**: `2026-10-16T01:26:44.394Z`
+- **Timestamp**: `2026-10-16T01:29:30.244Z`
 
 ## 1. Repository Root Structure (`FuRongJun-1999/dsh-bounty`)
 - `.gitattributes`
