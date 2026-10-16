@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T19:01:40.232Z",
-  "latencyMs": 386,
+  "executedAt": "2026-10-16T19:07:04.140Z",
+  "latencyMs": 312,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #284: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #285: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52693976,
+    "liveBlockNumber": 52694138,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 285687,
+    "baseMainnetTopPoolsVolume24hUsd": 284967,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "23Wt75ddEYw6eY6nBE1C57zcDqhr6swRkDJkNXTopump",
+        "description": "$BLINDSPOT the first quantum proof zero-knowledge privacy layer for Solana that lets you shield any token on Solana with a single signature, after which you can",
+        "url": "https://dexscreener.com/solana/23wt75ddeyw6ey6nbe1c57zcdqhr6swrkdjknxtopump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GnB49MYfQzJnwxzkgzt1hHv2xdygyr7qFWP9soUgpump",
+        "description": "Go long or short on any Solana memecoin at up to 20x, as soon as it has a pool.",
+        "url": "https://dexscreener.com/solana/gnb49myfqzjnwxzkgzt1hhv2xdygyr7qfwp9sougpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FS8ZSohYyG5tNm1ZAHzpvRgK2tJsCLSCDYX4xigNpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "Adv1f8fukVk6iLQr6H8T5ySvpzPyFYYbVWK9o2P4D6Ba",
         "description": "Borrow SOL against your PF coins without selling. No interest, no deadline. Creator fees buy every coin back into a pool that only grows.",
         "url": "https://dexscreener.com/solana/adv1f8fukvk6ilqr6h8t5ysvpzpyfyybvwk9o2p4d6ba"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Hq2nT7T8Bae9PX4EsnTmUahHrF5zeUa4cBxex26Dpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hq2nt7t8bae9px4esntmuahhrf5zeua4cbxex26dpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Gok4gdarhUKro3TqvedECyVCLRkoRwnN8JCQa2SQD6xk",
-        "description": "Launched on Souvenir, holders are randomly selected to receive MUSK4.",
-        "url": "https://dexscreener.com/solana/gok4gdarhukro3tqvedecyvclrkorwnn8jcqa2sqd6xk"
       }
     ]
   },
