@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T09:25:44.281Z",
-  "latencyMs": 1607,
+  "executedAt": "2026-10-16T09:26:50.928Z",
+  "latencyMs": 1174,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #130: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
+  "workTitle": "Delivery Sprint #131: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,5 +263,36 @@
       "priceBtc": 0.00002309060449835113
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "chore(hosts): remove the Meld on-ramp and the Android fund module",
+      "url": "https://github.com/paritytech/trinity-user-agents/pull/1332",
+      "createdAt": "2026-10-08T09:06:25Z"
+    },
+    {
+      "title": "Improve financial accounts integration and security messaging",
+      "url": "https://github.com/load66/bonus-tracker/pull/66",
+      "createdAt": "2026-10-16T09:23:56Z"
+    },
+    {
+      "title": "Update dependency @lucide/vue to v1.58.0",
+      "url": "https://github.com/Taskeren/activism-report-triumph/pull/15",
+      "createdAt": "2026-08-10T10:46:18Z"
+    },
+    {
+      "title": "Promo cards plan: players see Betfinal's live promotions as a bento of promo cards",
+      "url": "https://github.com/michaelbetfinal/ai-test-driven-cashio/issues/158",
+      "createdAt": "2026-10-15T13:45:45Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "Book fixtures with TxL and validate via worker tickets",
+      "url": "https://github.com/txodds/tx-on-chain/pull/10",
+      "createdAt": "2026-10-08T08:56:25Z"
+    }
+  ]
 }
