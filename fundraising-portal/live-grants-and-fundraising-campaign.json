@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T14:27:10.684Z",
-  "latencyMs": 1203,
+  "executedAt": "2026-10-16T14:33:04.391Z",
+  "latencyMs": 1287,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #199: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #200: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "Native Mac app (Sparkle auto-update)",
-          "url": "https://github.com/tommy-muckstack/granolaisdead/pull/4",
-          "repositoryUrl": "https://api.github.com/repos/tommy-muckstack/granolaisdead",
-          "updatedAt": "2026-10-16T14:27:06Z"
-        },
-        {
-          "title": "Remove full-access fallback from ordinary API key authentication",
-          "url": "https://github.com/Pidoko257/proxypay/issues/756",
-          "repositoryUrl": "https://api.github.com/repos/Pidoko257/proxypay",
-          "updatedAt": "2026-10-16T14:27:05Z"
-        },
-        {
-          "title": "APP-1: durable selected appearance and AccountUnlock set (skeleton)",
-          "url": "https://github.com/Oteryn/Oteryn-Game/pull/2170",
-          "repositoryUrl": "https://api.github.com/repos/Oteryn/Oteryn-Game",
-          "updatedAt": "2026-10-16T14:27:05Z"
-        },
-        {
-          "title": "Make CLONE REST SERVICE copy the whole service",
-          "url": "https://github.com/mariadb-corporation/mariadb-shell/pull/85",
-          "repositoryUrl": "https://api.github.com/repos/mariadb-corporation/mariadb-shell",
-          "updatedAt": "2026-10-16T14:27:04Z"
-        },
-        {
-          "title": "fix(chat): improve encrypted interactions and outbox delivery",
-          "url": "https://github.com/exordos/workspace_ui/pull/387",
-          "repositoryUrl": "https://api.github.com/repos/exordos/workspace_ui",
-          "updatedAt": "2026-10-16T14:27:03Z"
-        },
-        {
-          "title": "fix(sensors,agent): keep SELinux AVC denials reachable when eBPF is primary (#780)",
-          "url": "https://github.com/synthaea-lab/edr/pull/828",
-          "repositoryUrl": "https://api.github.com/repos/synthaea-lab/edr",
-          "updatedAt": "2026-10-16T14:27:03Z"
-        },
-        {
-          "title": "[NF-000][RFC] Near Future architecture and delivery roadmap",
-          "url": "https://github.com/mirkoEscobedo/NearFuture/issues/1",
-          "repositoryUrl": "https://api.github.com/repos/mirkoEscobedo/NearFuture",
-          "updatedAt": "2026-10-16T14:27:02Z"
-        },
-        {
-          "title": "chore(deps): update pnpm to v12",
-          "url": "https://github.com/cyco130/sfotty-pie/pull/74",
-          "repositoryUrl": "https://api.github.com/repos/cyco130/sfotty-pie",
-          "updatedAt": "2026-10-16T14:27:03Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
