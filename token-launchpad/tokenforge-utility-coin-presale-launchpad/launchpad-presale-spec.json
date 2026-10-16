@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T07:44:59.702Z",
-  "latencyMs": 254,
+  "executedAt": "2026-10-16T07:45:20.269Z",
+  "latencyMs": 344,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
   "workTitle": "Growth & Sales Sprint #100: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] AO Garcia Agency: Client Engagement",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52673676,
+    "liveBlockNumber": 52673686,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 250477,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "34HExr1pEVFWkx99AXVwSBPcy3XmBYKkSyorxPzVpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/34hexr1pevfwkx99axvwsbpcy3xmbykksyorxpzvpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DqrupVXA3WSKCAasVioTtiUHrKGdhybRub6JNaPjpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "UZcE4ws4kERR6prnmgGMCSfUL1XynhZbzJCyKo5pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/uzce4ws4kerr6prnmggmcsful1xynhzbzjcyko5pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "47bJRwnaLdsq8pg64ZudaXnNFrL3Taw3BFMjZuSLEppw",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/47bjrwnaldsq8pg64zudaxnnfrl3taw3bfmjzusleppw"
       }
     ]
   },
