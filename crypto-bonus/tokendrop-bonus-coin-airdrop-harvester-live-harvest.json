@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T02:18:55.859Z",
-  "latencyMs": 1169,
+  "executedAt": "2026-10-16T02:24:53.801Z",
+  "latencyMs": 1187,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Harvest Live Bonus Reward Tokens & Boosted Coins",
+  "workTitle": "Growth & Sales Sprint #2: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -17,24 +17,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "CTR-USDC",
-      "tvlUsd": 591524,
-      "apyBase": 5.85,
-      "apyRewardBonus": 231620.06,
-      "apyTotal": 231625.92,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "47bb2cb3-6a91-43ee-9dde-abceb2ded03f"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 906455,
-      "apyBase": 16.76,
-      "apyRewardBonus": 178003.74,
-      "apyTotal": 178020.49,
+      "tvlUsd": 904785,
+      "apyBase": 16.65,
+      "apyRewardBonus": 176566.57,
+      "apyTotal": 176583.22,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -43,11 +30,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "CTR-USDC",
+      "tvlUsd": 589001,
+      "apyBase": 5.82,
+      "apyRewardBonus": 173246.27,
+      "apyTotal": 173252.08,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "47bb2cb3-6a91-43ee-9dde-abceb2ded03f"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 263257,
-      "apyBase": 58.04,
-      "apyRewardBonus": 93138.96,
-      "apyTotal": 93197,
+      "tvlUsd": 263258,
+      "apyBase": 59.87,
+      "apyRewardBonus": 61069.71,
+      "apyTotal": 61129.57,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -57,10 +57,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1128921,
+      "tvlUsd": 1125695,
       "apyBase": 1.94,
-      "apyRewardBonus": 86823.06,
-      "apyTotal": 86825,
+      "apyRewardBonus": 59800.61,
+      "apyTotal": 59802.56,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -70,10 +70,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 56189,
+      "tvlUsd": 56181,
       "apyBase": 0,
-      "apyRewardBonus": 41021.08,
-      "apyTotal": 41021.08,
+      "apyRewardBonus": 40671.44,
+      "apyTotal": 40671.44,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -96,10 +96,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 155935,
-      "apyBase": 36.11,
-      "apyRewardBonus": 10513.98,
-      "apyTotal": 10550.09,
+      "tvlUsd": 155718,
+      "apyBase": 35.09,
+      "apyRewardBonus": 10435.87,
+      "apyTotal": 10470.96,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -108,41 +108,41 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "FUN-USDC",
-      "tvlUsd": 282755,
-      "apyBase": 68.85,
-      "apyRewardBonus": 5728.84,
-      "apyTotal": 5797.69,
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 208564,
+      "apyBase": 60.28,
+      "apyRewardBonus": 5186.7,
+      "apyTotal": 5246.98,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "18674a4f-57ea-4c91-99ce-ea1a2b37aa3d"
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-TSLAC",
+      "tvlUsd": 837123,
+      "apyBase": 194.35,
+      "apyRewardBonus": 3701.78,
+      "apyTotal": 3896.13,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c83d36b0-bfaf-55f9-9c63-a265d53facf7"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-CBBTC",
-      "tvlUsd": 2217712,
-      "apyBase": 120.85,
-      "apyRewardBonus": 4813.91,
-      "apyTotal": 4934.76,
+      "tvlUsd": 2201405,
+      "apyBase": 114.62,
+      "apyRewardBonus": 3690.21,
+      "apyTotal": 3804.84,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-CBBTC",
-      "tvlUsd": 208825,
-      "apyBase": 61.33,
-      "apyRewardBonus": 4009.37,
-      "apyTotal": 4070.7,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
@@ -265,14 +265,9 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(gateway): W2 testnet faucet for linked wallets (stacked on #632)",
-      "url": "https://github.com/LamaSu/physical-capability-cloud/pull/642",
-      "createdAt": "2026-10-16T00:04:38Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "v0.6.0: Nuclear Chaos, Animal Challenge, multiplayer targeting, TikTok/YouTube rework, and a full fix pass",
+      "url": "https://github.com/musicman0917/SDVChatVsStreamer/pull/1",
+      "createdAt": "2026-08-31T20:30:59Z"
     },
     {
       "title": "perf(jit): ignore dead jumps in block analysis",
@@ -280,19 +275,24 @@
       "createdAt": "2026-10-16T02:18:17Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "[BugFix][Model] Fix GLM-5.3-Flash MTP embeddings with PP",
+      "url": "https://github.com/vllm-project/vllm-ascend/pull/18931",
+      "createdAt": "2026-10-16T02:21:21Z"
     },
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/Replikanti/flowlint-weblinter/pull/265",
-      "createdAt": "2026-03-26T20:39:49Z"
+      "title": "Roadmap: Black Anvil network rollout",
+      "url": "https://github.com/LegendofKEK/bichael/issues/341",
+      "createdAt": "2026-10-16T02:23:31Z"
     },
     {
-      "title": "lab #937 PR F: freeze format 34 — the freeze test (literals) and the freeze record",
-      "url": "https://github.com/qumbra-labs/qumbra-lab/pull/948",
-      "createdAt": "2026-10-14T17:35:56Z"
+      "title": "merkle-airdrop template: initialize has no re-init guard, so anyone can take over admin and sweep",
+      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/505",
+      "createdAt": "2026-10-15T21:46:17Z"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "url": "https://github.com/reddoorla/erp-industrial/pull/60",
+      "createdAt": "2026-09-21T16:44:38Z"
     }
   ]
 }
