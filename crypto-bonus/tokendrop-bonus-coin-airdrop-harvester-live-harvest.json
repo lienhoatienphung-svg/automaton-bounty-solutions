@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T05:56:01.981Z",
-  "latencyMs": 1131,
+  "executedAt": "2026-10-16T05:59:29.692Z",
+  "latencyMs": 719,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #65: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #66: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "3vMEBLJAAwx7MaHTmT6Sk5ddZfWXwLmVeBWVUpTapump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "The OG Telsa Roadster paired with TSLA and SPCX",
+      "url": "https://dexscreener.com/solana/3vmebljaawx7mahtmt6sk5ddzfwxwlmvebwvuptapump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "EnAMBDkVYMxytcSdy8G32E2xy61Q4tpyt3rEH47QLYgK",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
       "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "9JYbTj84nzPQrS3zpkNGdwDRmmDA6i6wVaEtu1x5pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "The original (first-generation) Tesla Roadster, produced from 2008–2012, was internally code-named DarkStar during development.",
-      "url": "https://dexscreener.com/solana/9jybtj84nzpqrs3zpkngdwdrmmda6i6wvaetu1x5pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[None][perf] One-model speculative decoding: host work between steps, worker-produced target logits, KDA drafts' records",
-      "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/19989",
-      "createdAt": "2026-10-08T14:23:11Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "perf(jit): fold MLOADs of known memory words",
-      "url": "https://github.com/alloy-rs/evm2/pull/652",
-      "createdAt": "2026-10-16T02:02:15Z"
+      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
+      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
+      "createdAt": "2026-10-09T07:30:01Z"
     },
     {
-      "title": "test(sui): ledger stream e2e on a subscription-enabled localnet GraphQL service (3.0 stack)",
-      "url": "https://github.com/MystenLabs/ts-sdks/pull/1355",
-      "createdAt": "2026-10-16T05:45:20Z"
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/midnightntwrk/midnight-faucet-api/issues/3",
+      "createdAt": "2026-07-28T15:02:31Z"
     },
     {
-      "title": "Restore aircraft racks, occupied vehicle transport and cargo drops",
-      "url": "https://github.com/thisisforfreeAI/26.2-port-of-mcheli-cm/pull/19",
-      "createdAt": "2026-10-16T05:51:19Z"
+      "title": "[KAIOS AU WINDOW] Digital Ant｜AI Ant Company CEO・接案與神經突觸公開窗口",
+      "url": "https://github.com/klineodyssey/kline-odyssey/issues/577",
+      "createdAt": "2026-10-11T10:53:50Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "feat(deps): update dependency lucide-react ( 0.536.0 → 1.57.0 )",
+      "url": "https://github.com/juftin/camply-web/pull/191",
+      "createdAt": "2026-10-16T05:56:52Z"
     },
     {
-      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
-      "createdAt": "2026-10-06T11:40:04Z"
+      "title": "perf(jit): resolve dynamic jumps per call context",
+      "url": "https://github.com/alloy-rs/evm2/pull/638",
+      "createdAt": "2026-10-16T00:19:13Z"
     }
   ]
 }
