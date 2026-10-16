@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T23:49:04.227Z",
-  "latencyMs": 689,
+  "executedAt": "2026-10-16T23:50:31.297Z",
+  "latencyMs": 1362,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #346: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #347: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -152,7 +152,7 @@
       "tokenAddress": "Fak3rJEBfR4Vb8DoFpecf6yoxbkkr1gGUH5tdj2rpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
+      "description": "MarsX endorsed by the creator @arikuschnir",
       "url": "https://dexscreener.com/solana/fak3rjebfr4vb8dofpecf6yoxbkkr1gguh5tdj2rpump"
     },
     {
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(deps): update dependency lucide-react to v1.56.0",
+      "url": "https://github.com/leonunesbs/justificativas/pull/40",
+      "createdAt": "2026-10-04T15:21:01Z"
+    },
+    {
+      "title": "⬆️ upgrade `lucide-react` to `v1`",
+      "url": "https://github.com/antoinekm/antoinek.fr/pull/697",
+      "createdAt": "2026-03-23T14:19:16Z"
+    },
+    {
       "title": "Unify dialog UX and guard account approval context",
       "url": "https://github.com/syscoin/pali-wallet/pull/895",
       "createdAt": "2026-10-16T23:06:27Z"
@@ -283,16 +293,6 @@
       "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
       "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
       "createdAt": "2026-10-12T04:03:25Z"
-    },
-    {
-      "title": "R954 DRAFT: verify Radar evidence hash chain and index on independent restore",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/pull/871",
-      "createdAt": "2026-10-16T23:45:30Z"
-    },
-    {
-      "title": "[Catalog P4] Atlas — AAVE Staked Token",
-      "url": "https://github.com/matheus-junio-da-silva/Web3Bugs/pull/2",
-      "createdAt": "2026-10-16T23:46:23Z"
     }
   ]
 }
