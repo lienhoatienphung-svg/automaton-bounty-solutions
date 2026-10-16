@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T22:40:38.401Z",
-  "latencyMs": 929,
+  "executedAt": "2026-10-16T22:47:00.009Z",
+  "latencyMs": 1043,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #336: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #337: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,62 +217,67 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 759,
-      "priceBtc": 2.95540794429465e-7
+      "marketCapRank": 709,
+      "priceBtc": 3.2619120638399997e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 105,
-      "priceBtc": 0.0000210150597074739
-    },
-    {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.7557850074680774e-8
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 615,
-      "priceBtc": 0.0014171780972985556
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.266341644069717e-8
+      "priceBtc": 0.000021076698157549323
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010628465862873299
+      "priceBtc": 0.00010634199484332884
     },
     {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 90,
-      "priceBtc": 0.000039024289910543066
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.258711580268131e-8
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.000133242467812
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 49,
+      "priceBtc": 5.737011170743282e-8
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 37,
+      "priceBtc": 0.002462972781756265
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 615,
+      "priceBtc": 0.0014143436509463456
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006202566714699077
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Roadmap: Black Anvil network rollout",
-      "url": "https://github.com/LegendofKEK/bichael/issues/341",
-      "createdAt": "2026-10-16T02:23:31Z"
+      "title": "Cotizador: parámetros desde el Excel de Alex → server, y trabajo a la par Alex/Mikey",
+      "url": "https://github.com/Mikey3003/beebags-deploy/issues/1",
+      "createdAt": "2026-10-15T20:29:24Z"
     },
     {
-      "title": "docs(release): propose version increase rules and node status signals",
-      "url": "https://github.com/F1R3FLY-io/f1r3node-rust/pull/743",
-      "createdAt": "2026-10-16T04:31:50Z"
+      "title": "feat(web): testnet faucets, network badge, PAGES_NOTICE switch, new-build prompt and honest prices",
+      "url": "https://github.com/PastaPastaPasta/dash-forge/pull/510",
+      "createdAt": "2026-10-16T22:32:48Z"
+    },
+    {
+      "title": "feat: Reduce Motion, rolling digits, haptic on open, AirDrop from the shelf",
+      "url": "https://github.com/GcdZ03/CreativeNotch/pull/26",
+      "createdAt": "2026-10-16T22:46:14Z"
     },
     {
       "title": "fix(deps): update frontend core",
@@ -280,19 +285,14 @@
       "createdAt": "2026-10-16T21:38:54Z"
     },
     {
-      "title": "feat(governance): the KPRS token contract",
-      "url": "https://github.com/soroban-tooling/soroban-keeper-network/issues/489",
-      "createdAt": "2026-08-29T22:33:29Z"
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
     },
     {
-      "title": "design(governance): token, proposal, and voting architecture",
-      "url": "https://github.com/soroban-tooling/soroban-keeper-network/issues/488",
-      "createdAt": "2026-08-29T22:33:25Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "fix(registry): resolve the system vault and PoS through legacy and F1r3fly aliases",
+      "url": "https://github.com/F1R3FLY-io/f1r3node-rust/pull/733",
+      "createdAt": "2026-10-15T16:41:58Z"
     }
   ]
 }
