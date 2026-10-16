@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T18:03:14.273Z",
-  "latencyMs": 813,
+  "executedAt": "2026-10-16T18:06:16.877Z",
+  "latencyMs": 1506,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #274: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #275: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,62 +217,67 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 757,
-      "priceBtc": 3.0085587531102e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 614,
-      "priceBtc": 0.001418082846235243
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 104,
-      "priceBtc": 0.000021574455624955947
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.206207921705012e-8
+      "marketCapRank": 789,
+      "priceBtc": 2.8251684559706e-7
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9977132222197062
+      "priceBtc": 0.9998314430764239
     },
     {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 98,
-      "priceBtc": 0.000008487415793108855
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.221085348979637e-8
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 104,
+      "priceBtc": 0.000021559150295333567
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 614,
+      "priceBtc": 0.0014288114235590516
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006195980949556951
+      "priceBtc": 0.00006184943417091
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 99,
+      "priceBtc": 0.000008470519323417162
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 34,
-      "priceBtc": 0.003393437201407672
+      "priceBtc": 0.003391520402444471
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Cut post impressions/saves over to the member post-stats API (needs r_member_postAnalytics)",
-      "url": "https://github.com/christopherqueenconsulting/linkedin_engagement_manager/issues/695",
-      "createdAt": "2026-07-27T02:48:01Z"
-    },
-    {
       "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
       "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
       "createdAt": "2026-10-15T12:16:48Z"
+    },
+    {
+      "title": "audit: gate legacy wallet fixes and Faucet V2 integration",
+      "url": "https://github.com/eriqueedw-star/winmar-chain/pull/41",
+      "createdAt": "2026-10-16T18:04:58Z"
+    },
+    {
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     },
     {
       "title": "Roadmap: Black Anvil network rollout",
@@ -280,19 +285,14 @@
       "createdAt": "2026-10-16T02:23:31Z"
     },
     {
-      "title": "Migrate workspace to rand 0.10 and update crypto dependencies",
-      "url": "https://github.com/mobilecoinfoundation/mobilecoin/pull/4120",
-      "createdAt": "2026-10-14T21:30:50Z"
+      "title": "Add anytime-valid improvement auditor",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/76",
+      "createdAt": "2026-10-13T03:26:58Z"
     },
     {
-      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
-      "url": "https://github.com/jsboige/CoursIA/pull/20377",
-      "createdAt": "2026-10-11T14:10:17Z"
-    },
-    {
-      "title": "Swept VTXO can't be recovered; replenisher races SDK settle",
-      "url": "https://github.com/Kukks/arkade-faucet-daemon/issues/2",
-      "createdAt": "2026-10-16T17:49:03Z"
+      "title": "Showcase: economy and law district (plan 5)",
+      "url": "https://github.com/lorecrafting/lokacore/pull/409",
+      "createdAt": "2026-10-16T14:04:49Z"
     }
   ]
 }
