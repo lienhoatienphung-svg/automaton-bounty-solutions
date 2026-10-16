@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T12:47:45.893Z",
-  "latencyMs": 865,
+  "executedAt": "2026-10-16T12:52:14.528Z",
+  "latencyMs": 1051,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #191: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #192: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,19 +265,9 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/marc-aurele-besner/mymultisig-app/pull/701",
-      "createdAt": "2026-10-16T01:48:52Z"
-    },
-    {
-      "title": "fix(send): localize the pending onchain warning, plus three drive-bys",
-      "url": "https://github.com/arkade-os/wallet/pull/1077",
-      "createdAt": "2026-10-16T12:45:28Z"
-    },
-    {
-      "title": "Add a holder registry map that tracks all wallet addresses that have ever held a creator key",
-      "url": "https://github.com/accesslayerorg/accesslayer-contracts/issues/831",
-      "createdAt": "2026-08-30T20:03:02Z"
+      "title": "Showcase: Homestead district (plan 4)",
+      "url": "https://github.com/lorecrafting/lokacore/pull/407",
+      "createdAt": "2026-10-16T11:04:17Z"
     },
     {
       "title": "DPO: expose LD-DPO length desensitization as dpo_ld_alpha; drop the stale liger loss-type guard",
@@ -285,14 +275,24 @@
       "createdAt": "2026-10-16T12:43:23Z"
     },
     {
-      "title": "Strip an agent's narration from its re-sent history",
-      "url": "https://github.com/agencyenterprise/GlossoGen/pull/235",
-      "createdAt": "2026-10-16T12:37:34Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/marc-aurele-besner/mymultisig-app/pull/701",
+      "createdAt": "2026-10-16T01:48:52Z"
     },
     {
-      "title": "Branded sharing: no image share on web, public posts only (QA-61, QA-62)",
-      "url": "https://github.com/AryAiX/AceAiX/pull/39",
-      "createdAt": "2026-10-16T12:44:39Z"
+      "title": "🤝 Agent coordination channel (standing, vol. 2)",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
+      "createdAt": "2026-09-20T06:23:41Z"
+    },
+    {
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
+    },
+    {
+      "title": "solana-cli: add feeds publisher-rewards configure",
+      "url": "https://github.com/malbeclabs/doublezero/pull/4416",
+      "createdAt": "2026-10-16T12:49:33Z"
     }
   ]
 }
