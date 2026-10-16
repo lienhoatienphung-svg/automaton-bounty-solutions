@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T09:51:19.561Z",
+  "executedAt": "2026-10-16T09:51:41.348Z",
   "latencyMs": 625,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
   "workTitle": "Growth & Sales Sprint #138: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52677466,
+    "liveBlockNumber": 52677477,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 311471,
+    "baseMainnetTopPoolsVolume24hUsd": 311246,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x2b5Bc381bF1303aA8c28f908E1F50639F938884c",
+        "description": "Elon-san Changing the World, One Impossible Dream at a Time.",
+        "url": "https://dexscreener.com/robinhood/0x2b5bc381bf1303aa8c28f908e1f50639f938884c"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6pub1XbJn779gJ8XqgXnYHNs1myPQCCv1ZG2JBPHpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6pub1xbjn779gj8xqgxnyhns1mypqccv1zg2jbphpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "APK3kNoLGwi2pZAuCdRRA5oenvREMC9eaqhqwL3cpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/apk3knolgwi2pzaucdrra5oenvremc9eaqhqwl3cpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CJYeeoFQsK8rfewC1PdHH1JuNuFfhAuRq7W1w4QGpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "6VdcMnBTCj4tJVwtNdJZNzWeYmxzMnygVSzcfY35pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/6vdcmnbtcj4tjvwtndjznzweymxzmnygvszcfy35pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2MdBA1Yiy3oCFmwyFTQdwaAMNybGWzm1zr9JziVQpump",
-        "description": "Fund your repo with a coin. 100% of creator fees to you, claimed in one click with GitHub. $GITPAID",
-        "url": "https://dexscreener.com/solana/2mdba1yiy3ocfmwyftqdwaamnybgwzm1zr9jzivqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DYhpuvytVM4SCiR56q8oz4nXAN2BPFaYnxVftS9wpump",
-        "description": "deer in subway",
-        "url": "https://dexscreener.com/solana/dyhpuvytvm4scir56q8oz4nxan2bpfaynxvfts9wpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HUARGQHB7ovbPkUaYUmsqGBCLG4uHpCEr3q8zGcupump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/huargqhb7ovbpkuayumsqgbclg4uhpcer3q8zgcupump"
       }
     ]
   },
