@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T16:21:38.760Z",
-  "latencyMs": 918,
+  "executedAt": "2026-10-16T16:22:11.292Z",
+  "latencyMs": 1203,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Growth & Sales Sprint #248: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Migrate workspace to rand 0.10 and update crypto dependencies",
+      "url": "https://github.com/mobilecoinfoundation/mobilecoin/pull/4120",
+      "createdAt": "2026-10-14T21:30:50Z"
+    },
+    {
+      "title": "AI-generated implementations for DaCe library nodes",
+      "url": "https://github.com/spcl/dace/pull/2557",
+      "createdAt": "2026-09-07T07:37:21Z"
+    },
+    {
       "title": "ENG-2448 ENG-2402 ENG-2401: preserve skill installs and npm releases",
       "url": "https://github.com/radiustechsystems/tools/pull/79",
       "createdAt": "2026-10-16T16:01:31Z"
@@ -280,19 +290,9 @@
       "createdAt": "2026-09-22T07:01:10Z"
     },
     {
-      "title": "AI-generated implementations for DaCe library nodes",
-      "url": "https://github.com/spcl/dace/pull/2557",
-      "createdAt": "2026-09-07T07:37:21Z"
-    },
-    {
       "title": "Feegrant: when my OperatorAuthorization include feegrant...",
       "url": "https://github.com/norahmou/Support/issues/6",
       "createdAt": "2026-10-16T16:20:34Z"
-    },
-    {
-      "title": "feat(experiment): AgentLedger Monad Testnet Pay → Execute → Prove prototype",
-      "url": "https://github.com/avaargsh/agent-control-plane/pull/157",
-      "createdAt": "2026-10-15T12:16:48Z"
     }
   ]
 }
