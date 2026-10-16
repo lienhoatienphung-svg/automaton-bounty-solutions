@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T12:58:48.265Z",
-  "latencyMs": 841,
+  "executedAt": "2026-10-16T13:06:04.529Z",
+  "latencyMs": 1463,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #195: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #196: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,72 +217,62 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 797,
-      "priceBtc": 2.695205195770897e-7
+      "marketCapRank": 783,
+      "priceBtc": 2.7800919085371086e-7
     },
     {
       "name": "streamoors",
       "symbol": "STREAM",
-      "marketCapRank": 819,
-      "priceBtc": 2.5732744424524995e-7
+      "marketCapRank": 859,
+      "priceBtc": 2.3567303469604084e-7
+    },
+    {
+      "name": "astronaut",
+      "symbol": "ASTRO",
+      "marketCapRank": 979,
+      "priceBtc": 1.9472112776205534e-7
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.378076417879645e-8
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.0001108491340473674
+      "priceBtc": 9.377605258971284e-8
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 99,
-      "priceBtc": 0.000008529458990094327
+      "priceBtc": 0.000008463894377206498
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00011076880048222469
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012667636273537004
+      "priceBtc": 0.000012684091303406834
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 632,
-      "priceBtc": 0.001371787584184906
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9988476177587073
+      "marketCapRank": 626,
+      "priceBtc": 0.0013977006321398383
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Full SimpleFIN production audit and disconnect confirmation fix",
-      "url": "https://github.com/load66/bonus-tracker/pull/75",
-      "createdAt": "2026-10-16T12:43:24Z"
+      "title": "Strip an agent's narration from its re-sent history",
+      "url": "https://github.com/agencyenterprise/GlossoGen/pull/235",
+      "createdAt": "2026-10-16T12:37:34Z"
     },
     {
-      "title": "Security(deps): bump lucide-react from 0.516.0 to 1.47.0 in /dashboard-mvp",
-      "url": "https://github.com/dagimhaile1627-ux/project-management-excel/pull/4",
-      "createdAt": "2026-09-23T15:50:56Z"
-    },
-    {
-      "title": "perf(jit): resolve dynamic jumps per call context",
-      "url": "https://github.com/alloy-rs/evm2/pull/638",
-      "createdAt": "2026-10-16T00:19:13Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1.58.0",
-      "url": "https://github.com/F88/mugen-protopedia/pull/163",
-      "createdAt": "2026-06-28T17:45:34Z"
+      "title": "Showcase: Homestead district (plan 4)",
+      "url": "https://github.com/lorecrafting/lokacore/pull/407",
+      "createdAt": "2026-10-16T11:04:17Z"
     },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
@@ -290,9 +280,19 @@
       "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "feat(symbiotic): add vault, RFQ, rewards and V2 curator descriptors",
-      "url": "https://github.com/ethereum/clear-signing-erc7730-registry/pull/2990",
-      "createdAt": "2026-09-14T20:59:24Z"
+      "title": "CHATGPT HANDOFF FREEZE v68 — R839 REAL resource NO-GO / Capture P0 / PROD HOLD — 2026-10-09 JST",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/765",
+      "createdAt": "2026-10-06T05:27:29Z"
+    },
+    {
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
+    },
+    {
+      "title": "[UI/UX] Simplify post-E2E payable review and assessment results",
+      "url": "https://github.com/habrahgithub/swd-tameion-assured-payments/pull/72",
+      "createdAt": "2026-10-14T17:35:36Z"
     }
   ]
 }
