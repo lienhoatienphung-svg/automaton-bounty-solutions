@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-16T09:34:04.497Z",
-  "latencyMs": 843,
+  "executedAt": "2026-10-16T09:34:52.443Z",
+  "latencyMs": 556,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #116: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #117: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "Add Java docs snippets for category permissions",
-          "url": "https://github.com/pubnub/kotlin/pull/433",
-          "repositoryUrl": "https://api.github.com/repos/pubnub/kotlin",
-          "updatedAt": "2026-10-16T09:33:58Z"
-        },
-        {
-          "title": "fix(review): preserve scoped approvals across weekly backlog refreshes",
-          "url": "https://github.com/stranske/Workflows/pull/3933",
-          "repositoryUrl": "https://api.github.com/repos/stranske/Workflows",
-          "updatedAt": "2026-10-16T09:33:58Z"
-        },
-        {
-          "title": "test(core): cover layers, every styles control and per-device buckets in the real editor",
-          "url": "https://github.com/withplumix/plumix/pull/3145",
-          "repositoryUrl": "https://api.github.com/repos/withplumix/plumix",
-          "updatedAt": "2026-10-16T09:33:57Z"
-        },
-        {
-          "title": "docs: add Antigravity to Supabase agent plugin docs",
-          "url": "https://github.com/supabase/supabase/pull/51647",
-          "repositoryUrl": "https://api.github.com/repos/supabase/supabase",
-          "updatedAt": "2026-10-16T09:33:57Z"
-        },
-        {
-          "title": "Write API: add file upload",
-          "url": "https://github.com/decidim/decidim/pull/17071",
-          "repositoryUrl": "https://api.github.com/repos/decidim/decidim",
-          "updatedAt": "2026-10-16T09:34:00Z"
-        },
-        {
-          "title": "feat(container): update image ghcr.io/n8n-io/n8n to v2.44.3",
-          "url": "https://github.com/cschmittiey/k8s-homelab/pull/1177",
-          "repositoryUrl": "https://api.github.com/repos/cschmittiey/k8s-homelab",
-          "updatedAt": "2026-10-16T09:34:01Z"
-        },
-        {
-          "title": "Hand-over and contributor review follow-ups",
-          "url": "https://github.com/Matronhq/matron-journal/pull/21",
-          "repositoryUrl": "https://api.github.com/repos/Matronhq/matron-journal",
-          "updatedAt": "2026-10-16T09:33:56Z"
-        },
-        {
-          "title": "feat(web): connect Terrevo field manager and admin workspaces to live APIs",
-          "url": "https://github.com/madhupadishala/Terrevo/pull/50",
-          "repositoryUrl": "https://api.github.com/repos/madhupadishala/Terrevo",
-          "updatedAt": "2026-10-16T09:33:56Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
