@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T13:30:28.215Z",
-  "latencyMs": 256,
+  "executedAt": "2026-10-16T13:33:11.734Z",
+  "latencyMs": 374,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #200: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Twoconnect: Project and Quality Adm",
+  "workTitle": "Delivery Sprint #201: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52684040,
+    "liveBlockNumber": 52684122,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 300326,
+    "baseMainnetTopPoolsVolume24hUsd": 301609,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6KodYiP8E1ixDgkqW6ET9uto3hc8Der7n3vS6MNwpump",
+        "description": "Launch a coin, own its fees as an NFT. Powered by @tensor_hq",
+        "url": "https://dexscreener.com/solana/6kodyip8e1ixdgkqw6et9uto3hc8der7n3vs6mnwpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BALftXRKPbjbQ3h7dwQHNTRF7NH6hCiqwaLQWa5Zpump",
+        "description": "Elon Tesla Roadster brings a flying red Roadster and Elon’s larger-than-life persona into meme culture. ⚡️🚀",
+        "url": "https://dexscreener.com/solana/balftxrkpbjbq3h7dwqhntrf7nh6hciqwalqwa5zpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Ag62xENbRgbRfL1HAYgN6pyESJTyjnQKniB1GPZppump",
@@ -69,18 +81,6 @@
         "tokenAddress": "Egk3cjzrq86WF1hxL7SzcKiiTDghMXb7y1BKueQHpump",
         "description": "there are no runners without sockss.",
         "url": "https://dexscreener.com/solana/egk3cjzrq86wf1hxl7szckiitdghmxb7y1bkueqhpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x1CEDa8cd4Ee1bb32D85C62ECB91eD4FB189C157c",
-        "description": "Meet OrbitOpossum ($OPOSS), the universe’s least qualified space captain. 🛸 AI calculated a million routes. He chewed through the navigation cable. Now every w",
-        "url": "https://dexscreener.com/robinhood/0x1ceda8cd4ee1bb32d85c62ecb91ed4fb189c157c"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x8a64DD261385cCAA79c4f2dC941F2e2683186666",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/bsc/0x8a64dd261385ccaa79c4f2dc941f2e2683186666"
       }
     ]
   },
