@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-16T02:20:28.490Z",
-  "latencyMs": 254,
+  "executedAt": "2026-10-16T02:25:49.027Z",
+  "latencyMs": 592,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "[Crypto Bonus & Utility Token Launchpad] Execute Live TokenForge Utility Coin & Presale Launchpad Sprint #1",
+  "workTitle": "Growth & Sales Sprint #2: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52663941,
+    "liveBlockNumber": 52664100,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459008,
-    "baseMainnetTopPoolsVolume24hUsd": 265069,
+    "baseMainnetTopPoolsVolume24hUsd": 258745,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x2fC15e8cAc04540d51eb71b6def2Fe269f4fB25a",
+        "description": "Launch Tokens on Metric",
+        "url": "https://dexscreener.com/robinhood/0x2fc15e8cac04540d51eb71b6def2fe269f4fb25a"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "84AaE16zkQ97UqeRsbZwkkDQJn9L3v4nUqrMMZ3Xpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "Ewzy4cxD7LsB86pUziRZrAXar6z8KWyNNg4WYEJspump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/ewzy4cxd7lsb86puzirzraxar6z8kwynng4wyejspump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xb39619059eff1f992e157d32ff3e21407ca3233a",
-        "description": "The first dark web launchpad on Robinhood Chain. Launch through Tor, your wallet never shows as the creator.",
-        "url": "https://dexscreener.com/robinhood/0xb39619059eff1f992e157d32ff3e21407ca3233a"
       }
     ]
   },
