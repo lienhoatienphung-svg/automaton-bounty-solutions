@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-16T12:03:07.549Z",
-  "latencyMs": 620,
+  "executedAt": "2026-10-16T12:56:45.824Z",
+  "latencyMs": 1176,
   "companyName": "Holding HQ",
-  "workTitle": "Live Network Execution: [relaygrid-nostr-nip-90-decentralized-p2p] Delivery Sprint #615: Ship turnkey automation package for [Polymarket Arb",
+  "workTitle": "Live Network Execution: [chaingrowth-web3-technical-seo-crypto-af] Delivery Sprint #675: Ship turnkey automation package for [Polymarket Arb",
   "targetUrl": "https://polymarket.com/event/will-any-country-leave-nato-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656621,
-        "liquidityUsd": 42583,
+        "liquidityUsd": 42362,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -26,8 +26,8 @@
       {
         "eventId": "18576",
         "title": "Ukraine election held by...?",
-        "volumeUsd": 2500493,
-        "liquidityUsd": 24602,
+        "volumeUsd": 2500523,
+        "liquidityUsd": 25152,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -35,8 +35,8 @@
       {
         "eventId": "16263",
         "title": "Macron out by...?",
-        "volumeUsd": 2170310,
-        "liquidityUsd": 94776,
+        "volumeUsd": 2171434,
+        "liquidityUsd": 93668,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 17769,
+        "liquidityUsd": 17922,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -72,7 +72,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00014,
         "liquidityUsd": 103139,
-        "volume24hUsd": 87653,
+        "volume24hUsd": 92309,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -82,7 +82,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00016,
         "liquidityUsd": 140028,
-        "volume24hUsd": 76713,
+        "volume24hUsd": 40200,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -91,8 +91,8 @@
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00017,
-        "liquidityUsd": 127635,
-        "volume24hUsd": 50082,
+        "liquidityUsd": 127638,
+        "volume24hUsd": 49885,
         "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
       },
       {
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00015,
+        "priceUsd": 1.00013,
         "liquidityUsd": 21385,
-        "volume24hUsd": 107442,
+        "volume24hUsd": 107324,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -110,9 +110,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000093,
+        "priceUsd": 1.000095,
         "liquidityUsd": 12034,
-        "volume24hUsd": 3016,
+        "volume24hUsd": 2939,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
@@ -120,9 +120,9 @@
         "dexId": "pancakeswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000099,
+        "priceUsd": 1.00011,
         "liquidityUsd": 14836,
-        "volume24hUsd": 373,
+        "volume24hUsd": 429,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       }
     ]
@@ -203,58 +203,57 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Stay-Stiftung für multiplikative Entwicklung",
-        "roleOrTask": "Praktikum Human Resources (m/w/d) AB SOFORT",
+        "company": "intercom",
+        "roleOrTask": "Staff Product Engineer",
         "industryTags": [
-          "Recruitment and Selection"
+          "Engineering"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/stay-stiftung-fur-multiplikative-entwicklung/praktikum-human-resources-ab-sofort-stuttgart-216269",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/intercom/staff-product-engineer-berlin-383624",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "7NXT GmbH",
-        "roleOrTask": "(Senior) Backend Engineer – Golang",
+        "company": "celonis",
+        "roleOrTask": "Associate Account Executive (Top Talent Sales Program - Lunar)",
         "industryTags": [
-          "Software Development"
+          "Sales & Partner Mgmt"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/senior-backend-engineer-golang-berlin-16523",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/celonis/associate-account-executive-top-talent-sales-program-lunar-munich-278756",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "benuta GmbH",
-        "roleOrTask": "Videograph / Filmemacher KI (m/w/d)",
+        "company": "wolt",
+        "roleOrTask": "Senior Associate, Internal Communications, International",
         "industryTags": [
-          "Product Management"
+          "Communications"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/benuta-gmbh/videograph-filmemacher-ki-bonn-176450",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/wolt/senior-associate-internal-communications-international-berlin-281795",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "7NXT GmbH",
-        "roleOrTask": "Werkstudent:in Influencer & Creator Marketing",
+        "company": "sumup",
+        "roleOrTask": "Senior DevOps Engineer",
         "industryTags": [
-          "Social Media Manager"
+          "Engineering"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/werkstudentin-influencer-creator-marketing-berlin-268763",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/sumup/senior-devops-engineer-berlin-75396",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Tarebase",
-        "roleOrTask": "Founding Engineer (Remote - EEA/UK)",
+        "company": "caronsale",
+        "roleOrTask": "Engineering Manager – Auctions (m/w/d)",
         "industryTags": [
-          "Remote",
-          "Software Development"
+          "Engineering"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/tarebase/founding-engineer-remote-eea-uk-berlin-162955",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/caronsale/engineering-manager-auctions-berlin-424054",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
