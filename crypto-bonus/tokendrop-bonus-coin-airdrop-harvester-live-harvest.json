@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T22:56:13.439Z",
-  "latencyMs": 1210,
+  "executedAt": "2026-10-16T22:57:43.939Z",
+  "latencyMs": 1293,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #338: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #339: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Cover claim behavior in examples/faucet",
+      "url": "https://github.com/Soroban-Cookbook/Soroban_Cookbook_online/issues/1303",
+      "createdAt": "2026-10-16T22:57:33Z"
+    },
+    {
+      "title": "Cover claim behavior in examples/airdrop-bitmap",
+      "url": "https://github.com/Soroban-Cookbook/Soroban_Cookbook_online/issues/1290",
+      "createdAt": "2026-10-16T22:57:14Z"
+    },
+    {
+      "title": "[mirror #12995] Unsloth Studio / Desktop: write GRPO rewards in Python, run in the OS sandbox",
+      "url": "https://github.com/LeoBorcherding/unsloth/pull/312",
+      "createdAt": "2026-10-16T12:45:46Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
       "title": "Cotizador: parámetros desde el Excel de Alex → server, y trabajo a la par Alex/Mikey",
       "url": "https://github.com/Mikey3003/beebags-deploy/issues/1",
       "createdAt": "2026-10-15T20:29:24Z"
@@ -273,26 +293,6 @@
       "title": "Phase 2a: bounded caches + boot/soak bench tooling",
       "url": "https://github.com/WERSIT35/Provider/pull/93",
       "createdAt": "2026-10-16T22:55:35Z"
-    },
-    {
-      "title": "fix(registry): restore the legacy vault and PoS shorthands and add F1r3fly aliases",
-      "url": "https://github.com/F1R3FLY-io/f1r3node-rust/pull/733",
-      "createdAt": "2026-10-15T16:41:58Z"
-    },
-    {
-      "title": "test(xrpl): reach every reader with untrusted input",
-      "url": "https://github.com/justmoon/dassie/pull/104",
-      "createdAt": "2026-10-16T22:53:49Z"
-    },
-    {
-      "title": "feat(nemo_gym): per-group rollout-metrics hook and union-of-fields agent metrics",
-      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4448",
-      "createdAt": "2026-10-03T04:53:13Z"
-    },
-    {
-      "title": "Add a test that claiming the same index twice does not flip extra bitmap bits",
-      "url": "https://github.com/Soroban-Cookbook/Soroban_Cookbook_online/issues/1189",
-      "createdAt": "2026-10-16T22:54:23Z"
     }
   ]
 }
