@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T18:56:25.847Z",
-  "latencyMs": 1284,
+  "executedAt": "2026-10-16T19:00:47.239Z",
+  "latencyMs": 873,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #285: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #286: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "docs(website): an FAQ an AI agent can quote: is it safe to connect my agent to Ghostly?",
+      "url": "https://github.com/MiguelMedeiros/ghostly/pull/3009",
+      "createdAt": "2026-10-16T18:57:58Z"
+    },
+    {
       "title": "test(functional): cover community token mint, airdrop, and burn",
       "url": "https://github.com/status-im/status-go/pull/7942",
       "createdAt": "2026-10-15T09:09:13Z"
     },
     {
-      "title": "docs(messaging): run a delivery node with an RLN membership on LEZ",
-      "url": "https://github.com/logos-co/logos-docs/pull/571",
-      "createdAt": "2026-10-16T00:23:13Z"
+      "title": "Add anytime-valid improvement auditor",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/76",
+      "createdAt": "2026-10-13T03:26:58Z"
     },
     {
-      "title": "feat(sui)!: replace the TransactionData inputs and commands with its kind (3.0 stack)",
-      "url": "https://github.com/MystenLabs/ts-sdks/pull/1344",
-      "createdAt": "2026-10-16T00:30:17Z"
+      "title": "👛feat(escrow): wallet readiness check before a guest creates an escrow (XLM, USDC trustline, balance, registered wallet)",
+      "url": "https://github.com/safetrustcr/dApp-SafeTrust/issues/507",
+      "createdAt": "2026-10-16T04:43:25Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "fix(lre): count kill score and high score as separate awards",
+      "url": "https://github.com/TacticusPlanner/tacticus-planner-apps/pull/223",
+      "createdAt": "2026-10-16T18:54:16Z"
     },
     {
-      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
-      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
-      "createdAt": "2026-10-12T21:43:27Z"
-    },
-    {
-      "title": "test(sui): bump localnet image to sui v1.81.1, enable gRPC query parity, fix gRPC epoch read mask",
-      "url": "https://github.com/MystenLabs/ts-sdks/pull/1322",
-      "createdAt": "2026-10-13T20:51:23Z"
+      "title": "Add Agent ChatUI on the main agent page",
+      "url": "https://github.com/valory-xyz/optimus/pull/398",
+      "createdAt": "2026-10-16T18:58:14Z"
     }
   ]
 }
