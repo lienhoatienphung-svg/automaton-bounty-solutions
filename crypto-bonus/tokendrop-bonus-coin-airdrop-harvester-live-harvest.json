@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T07:19:19.375Z",
-  "latencyMs": 772,
+  "executedAt": "2026-10-17T07:21:00.609Z",
+  "latencyMs": 710,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #412: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #413: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -224,46 +224,66 @@
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 92,
-      "priceBtc": 0.00000896990901804036
+      "priceBtc": 0.000008884924495107645
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 614,
-      "priceBtc": 0.001413107551985774
+      "priceBtc": 0.0014129352964914238
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 104,
-      "priceBtc": 0.00002160267905526553
+      "priceBtc": 0.000021417949800677952
     },
     {
       "name": "Pons",
       "symbol": "PONS",
-      "marketCapRank": 179,
-      "priceBtc": 0.000003893962161668985
+      "marketCapRank": 180,
+      "priceBtc": 0.0000038627538043408454
+    },
+    {
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "marketCapRank": 47,
+      "priceBtc": 0.000005563535421659706
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9991536488786055
+      "priceBtc": 0.998427020809713
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009792319940519333
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "marketCapRank": 34,
-      "priceBtc": 0.0033758581935909708
+      "priceBtc": 0.00097769092362361
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "#13: versioned bonus rules - engine, migration 0056, starter pack on link_bonus, bonus-rule CLI",
+      "url": "https://github.com/ChaoticMelnik/binarius/pull/575",
+      "createdAt": "2026-10-16T22:59:10Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "#116: referral reward - 50 tokens to the inviter for an invitee's partner account",
+      "url": "https://github.com/ChaoticMelnik/binarius/pull/577",
+      "createdAt": "2026-10-16T23:53:29Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
     {
       "title": "Token balances on the account screen: built-in Sepolia tokens, verified balanceOf (part 4/11 of feature/wallet-ux)",
       "url": "https://github.com/biafra23/serotine/pull/20",
@@ -273,26 +293,6 @@
       "title": "TrenchMart POC: API, escrow ledger, and AI review",
       "url": "https://github.com/Milerius/trenchmart/pull/1",
       "createdAt": "2026-10-17T06:20:27Z"
-    },
-    {
-      "title": "[Perf] [AMD] dsv41: Drop the per-step whole-vocab gather of draft logits via sharded accept",
-      "url": "https://github.com/sgl-project/sglang/pull/44465",
-      "createdAt": "2026-10-15T10:24:13Z"
-    },
-    {
-      "title": "chore: Implementer inbox — instructions from the Orchestrator",
-      "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
-      "createdAt": "2026-10-06T01:05:54Z"
-    },
-    {
-      "title": "[CR][MEDIUM] Improve onboarding and Connections clarity with named external addresses and verified address guidance",
-      "url": "https://github.com/cirrus147/trnzit-qa/issues/18",
-      "createdAt": "2026-10-15T06:19:50Z"
-    },
-    {
-      "title": "[CR][UX] Enrich Suggestions with transaction context and receipt-scoped sender identity",
-      "url": "https://github.com/cirrus147/trnzit-qa/issues/30",
-      "createdAt": "2026-10-15T17:09:54Z"
     }
   ]
 }
