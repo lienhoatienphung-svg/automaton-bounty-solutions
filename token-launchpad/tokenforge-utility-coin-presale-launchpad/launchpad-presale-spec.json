@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T13:54:09.797Z",
-  "latencyMs": 374,
+  "executedAt": "2026-10-17T13:55:49.615Z",
+  "latencyMs": 264,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #464: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #465: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52727951,
+    "liveBlockNumber": 52728001,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 455647,
-    "baseMainnetTopPoolsVolume24hUsd": 220738,
+    "baseMainnetTopPoolsLiquidityUsd": 455649,
+    "baseMainnetTopPoolsVolume24hUsd": 220695,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "NbW8YUUBuYVhN4qSUjU8mAqVqrQ7gATFrsngibNpump",
+        "description": "onboard the Chinese 🧧💊",
+        "url": "https://dexscreener.com/solana/nbw8yuubuyvhn4qsuju8maqvqrq7gatfrsngibnpump"
+      },
       {
         "chainId": "avalanche",
         "tokenAddress": "0xe916BeB9ADdfEcC2c7C12C241d8EC65e0c55897F",
@@ -75,12 +81,6 @@
         "tokenAddress": "AwxaSLff7eFgcA6GzzqD8F9oNHGAfZ5mARe2eT8Zpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/awxaslff7efgca6gzzqd8f9onhgafz5mare2et8zpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
-        "description": "PINGUS is a community-driven memecoin built for memes, fun, and a strong community. Powered by the people who believe in $PINGUS.",
-        "url": "https://dexscreener.com/solana/7uhdnpeqqpe4yne3xh47a38zikdqp1r18x8pcrqhpump"
       }
     ]
   },
