@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T11:18:35.131Z",
-  "latencyMs": 1091,
+  "executedAt": "2026-10-17T11:20:10.724Z",
+  "latencyMs": 794,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #446: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #447: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,5 +263,36 @@
       "priceBtc": 0.000012290670209062882
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Daily Shorts Pipeline — Reports",
+      "url": "https://github.com/caleblschulte0-ux/Shorts-pipeline/issues/1",
+      "createdAt": "2026-05-28T21:54:45Z"
+    },
+    {
+      "title": "perf(jit): drop optimization passes that do nothing",
+      "url": "https://github.com/alloy-rs/evm2/pull/677",
+      "createdAt": "2026-10-17T09:32:43Z"
+    },
+    {
+      "title": "perf: use memory ranges for call inputs",
+      "url": "https://github.com/alloy-rs/evm2/pull/473",
+      "createdAt": "2026-09-23T14:41:52Z"
+    },
+    {
+      "title": "[Spec] Sample from the target when the rejection residual is empty in TreeSpeculativeSamplingTargetOnly",
+      "url": "https://github.com/sgl-project/sglang/pull/42850",
+      "createdAt": "2026-10-07T01:55:10Z"
+    },
+    {
+      "title": "perf(jit): switch dynamic jumps on a dense index",
+      "url": "https://github.com/alloy-rs/evm2/pull/609",
+      "createdAt": "2026-10-15T00:19:06Z"
+    },
+    {
+      "title": "Screens: clipboard both ways and files dropped onto the machine",
+      "url": "https://github.com/AFK-surf/still.fail/pull/497",
+      "createdAt": "2026-10-16T21:14:05Z"
+    }
+  ]
 }
