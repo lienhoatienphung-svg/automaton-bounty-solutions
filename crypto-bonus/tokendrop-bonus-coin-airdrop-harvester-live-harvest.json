@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T09:08:55.545Z",
-  "latencyMs": 1134,
+  "executedAt": "2026-10-17T09:10:43.891Z",
+  "latencyMs": 827,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #428: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #429: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "4wfGP1KYF2xaugEbopK73o8kw9HavaSC3wN6ohv9pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/4wfgp1kyf2xaugebopk73o8kw9havasc3wn6ohv9pump"
+    },
+    {
       "chainId": "bsc",
       "tokenAddress": "0x7d03759E5B41E36899833cb2E008455d69A24444",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Momo is a catwifmotion",
       "url": "https://dexscreener.com/solana/fhtrvakqeialrjhyc13dbnhgw9n8zpacvonakfxxpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DfbhY8XtNc317jpSEJDQejLD83QUMHtBzyn9EjgSTWGW",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/dfbhy8xtnc317jpsejdqejld83qumhtbzyn9ejgstwgw"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore(deps): update dependency lucide-react to v1.59.0",
-      "url": "https://github.com/chrisye96/k-tools/pull/15",
-      "createdAt": "2026-09-21T11:48:05Z"
-    },
-    {
-      "title": "FLOP CHATGPT HANDOFF — NEWEST COMMENT IS SOLE CURRENT AUTHORITY (historical archive preserved)",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/765",
-      "createdAt": "2026-10-06T05:27:29Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/dkarter/neoblog/pull/24",
-      "createdAt": "2026-03-23T18:10:11Z"
-    },
-    {
-      "title": "Add governed recovery for untracked protocol assets",
-      "url": "https://github.com/DigiNodes/truthbounty-contract/pull/831",
-      "createdAt": "2026-10-17T09:07:55Z"
-    },
-    {
-      "title": "chore(deps): update development dependencies (patch and minor)",
-      "url": "https://github.com/AgentsKit-io/harness/pull/186",
-      "createdAt": "2026-10-12T04:12:46Z"
-    },
-    {
       "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/mpotane/markybot/pull/127",
-      "createdAt": "2025-08-07T17:31:04Z"
+      "url": "https://github.com/ofalvai/homecooked/pull/302",
+      "createdAt": "2026-03-23T14:19:58Z"
+    },
+    {
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
+    },
+    {
+      "title": "feat(contracts): oracle speed bonuses and heartbeats, soulbound badges, treasury fee split",
+      "url": "https://github.com/degenspot/BACKit-onStellar/pull/722",
+      "createdAt": "2026-10-17T08:54:00Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide-react to ^1.59.0",
+      "url": "https://github.com/channel3-ai/channel3-ui/pull/39",
+      "createdAt": "2026-08-15T06:33:10Z"
+    },
+    {
+      "title": "Worked authority-at-dispatch and effect comparison",
+      "url": "https://github.com/aaif/wg-identity-and-trust/issues/13",
+      "createdAt": "2026-10-03T22:38:35Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
