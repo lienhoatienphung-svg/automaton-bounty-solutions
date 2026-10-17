@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T23:27:07.054Z",
-  "latencyMs": 1047,
+  "executedAt": "2026-10-17T23:28:50.616Z",
+  "latencyMs": 823,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #544: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #545: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "4KKvYn7baSnZtHnj6mioap1dbB3NPmy7F1KHrqvbpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "stickmanstory22 is a new Instagram page posting interactive reels where viewers decide how the storyline continues, going insanely viral with over 30M+ views in",
+      "url": "https://dexscreener.com/solana/4kkvyn7basnzthnj6mioap1dbb3npmy7f1khrqvbpump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x2a13008CC2F5A853F6Fb21cbD90841806C64b247",
       "boostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/6wk5supt4a7wnhriwwlygaf3uvgzydjyxtfygamdpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "6o2oeMWR9GeEm5acoi793f1XUQp4uoCcMBrw2mZopump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Le Chaton Fat is a 9 fig meme \n\nJust needs to be done right",
-      "url": "https://dexscreener.com/solana/6o2oemwr9geem5acoi793f1xuqp4uoccmbrw2mzopump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "A radio backend for Intel MacBooks with the BCM4360 — would you link it like omdrop-owl?",
+      "url": "https://github.com/netmojo-systems/omdrop-plugin/issues/48",
+      "createdAt": "2026-10-12T03:31:25Z"
+    },
+    {
+      "title": "[Ops] Muse ↔ Grok.btc direct line",
+      "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
+      "createdAt": "2026-09-13T13:56:58Z"
+    },
+    {
       "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
       "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
       "createdAt": "2026-10-12T21:43:27Z"
@@ -283,16 +293,6 @@
       "title": "[High] Voting-Power Snapshot and Delegation Computation Service",
       "url": "https://github.com/Zenith-options/backend/issues/126",
       "createdAt": "2026-09-24T13:16:58Z"
-    },
-    {
-      "title": "Refactor GRPO sync examples",
-      "url": "https://github.com/tenstorrent/tt-metal/pull/59514",
-      "createdAt": "2026-10-06T16:43:19Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
