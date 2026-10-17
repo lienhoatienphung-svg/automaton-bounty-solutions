@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T12:59:47.461Z",
-  "latencyMs": 676,
+  "executedAt": "2026-10-17T13:12:01.947Z",
+  "latencyMs": 1092,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #461: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #462: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 615,
-      "priceBtc": 0.0014114006939101448
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010586779026333288
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006218129120084594
-    },
-    {
-      "name": "Sei",
-      "symbol": "SEI",
-      "marketCapRank": 124,
-      "priceBtc": 7.742646259979408e-7
-    },
-    {
-      "name": "Derive",
-      "symbol": "DRV",
-      "marketCapRank": 125,
-      "priceBtc": 0.000005207495968558177
+      "marketCapRank": 614,
+      "priceBtc": 0.0014112812248344233
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9988572188010865
+      "priceBtc": 0.9993083748422743
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.158886814002589e-8
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010574355614169313
+    },
+    {
+      "name": "Derive",
+      "symbol": "DRV",
+      "marketCapRank": 124,
+      "priceBtc": 0.000005187379204923904
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 89,
+      "priceBtc": 0.00003890587385939144
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006187468885881141
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.0142177515850108
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.000012202618953038633
+      "priceBtc": 0.014187238024197349
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(x-signup): reserve the X account before the sponsored mint, not after",
-      "url": "https://github.com/GilgameshCaw/Caw/pull/300",
-      "createdAt": "2026-10-13T09:56:32Z"
+      "title": "[BE-027] Algorithmic Feed Ranking Engine with Time-Decay & Volume Multipliers",
+      "url": "https://github.com/degenspot/BACKit-onStellar/issues/646",
+      "createdAt": "2026-09-25T05:40:34Z"
     },
     {
-      "title": "[FLOP X] New official X signal",
-      "url": "https://github.com/raindogkitetu/Plain-text-codex-lab/issues/8",
-      "createdAt": "2026-09-22T10:07:33Z"
+      "title": "chore(deps): bump the production-dependencies group with 6 updates",
+      "url": "https://github.com/XaidenLabs/usekratose/pull/6",
+      "createdAt": "2026-09-30T15:34:27Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "Slots: Real RSN mode (deposit, play, withdraw), off by default",
+      "url": "https://github.com/caaconwinner/RSN/pull/21",
+      "createdAt": "2026-10-17T13:10:23Z"
     },
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/48",
-      "createdAt": "2026-10-17T06:48:17Z"
+      "title": "feat: bonding-curve game modes (PVE/PVP/TRENCH) + swap gas optimisation + DISCIPLE audit fixes",
+      "url": "https://github.com/makerlee0x/disciple/pull/75",
+      "createdAt": "2026-10-17T03:44:55Z"
     },
     {
-      "title": "CP: mechanics waves tracker (draft, not for merge)",
-      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
-      "createdAt": "2026-10-15T07:00:56Z"
+      "title": "Inventory and migrate current Standard card pool",
+      "url": "https://github.com/altf4/rustmage/issues/4",
+      "createdAt": "2026-10-15T15:51:44Z"
     },
     {
-      "title": "[MEDIUM][markets] Liquidity providers receive no share of fees or payouts — no incentive model",
-      "url": "https://github.com/dultimateade/hermes/issues/241",
-      "createdAt": "2026-10-14T22:05:38Z"
+      "title": "[reward,trainer] fix: gather prompt strings for groupwise rewards",
+      "url": "https://github.com/X-GenGroup/Flow-Factory/pull/249",
+      "createdAt": "2026-10-17T13:07:03Z"
     }
   ]
 }
