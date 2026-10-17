@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T07:07:07.731Z",
-  "latencyMs": 1198,
+  "executedAt": "2026-10-17T07:19:19.375Z",
+  "latencyMs": 772,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #411: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #412: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 715,
+      "marketCapRank": 717,
       "priceBtc": 3.211198411121736e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 616,
-      "priceBtc": 0.0014133198629472479
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 92,
-      "priceBtc": 0.000009043242738046094
+      "priceBtc": 0.00000896990901804036
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9988097829546685
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 614,
+      "priceBtc": 0.001413107551985774
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 105,
-      "priceBtc": 0.000020745538499515763
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009782639525168896
+      "marketCapRank": 104,
+      "priceBtc": 0.00002160267905526553
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "marketCapRank": 179,
-      "priceBtc": 0.000003904320792211771
+      "priceBtc": 0.000003893962161668985
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.277713130324303e-8
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9991536488786055
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009792319940519333
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "marketCapRank": 34,
+      "priceBtc": 0.0033758581935909708
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
+      "title": "Token balances on the account screen: built-in Sepolia tokens, verified balanceOf (part 4/11 of feature/wallet-ux)",
+      "url": "https://github.com/biafra23/serotine/pull/20",
+      "createdAt": "2026-10-17T07:02:14Z"
     },
     {
-      "title": "Inventory and migrate current Standard card pool",
-      "url": "https://github.com/altf4/rustmage/issues/4",
-      "createdAt": "2026-10-15T15:51:44Z"
+      "title": "TrenchMart POC: API, escrow ledger, and AI review",
+      "url": "https://github.com/Milerius/trenchmart/pull/1",
+      "createdAt": "2026-10-17T06:20:27Z"
     },
     {
-      "title": "Add Omdrop 0.18.0",
-      "url": "https://github.com/omacom/omarchy-pkgs/pull/1210",
-      "createdAt": "2026-10-17T06:48:29Z"
+      "title": "[Perf] [AMD] dsv41: Drop the per-step whole-vocab gather of draft logits via sharded accept",
+      "url": "https://github.com/sgl-project/sglang/pull/44465",
+      "createdAt": "2026-10-15T10:24:13Z"
     },
     {
-      "title": "fix(deps): update dependency lucide to v1",
-      "url": "https://github.com/wenisch-tech/s3webui/pull/39",
-      "createdAt": "2026-09-07T21:06:32Z"
+      "title": "chore: Implementer inbox — instructions from the Orchestrator",
+      "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
+      "createdAt": "2026-10-06T01:05:54Z"
     },
     {
-      "title": "chore(deps): update dependency @lucide/svelte to v1.57.0",
-      "url": "https://github.com/maybemaby/sveltekit-fyi/pull/24",
-      "createdAt": "2026-06-30T04:56:34Z"
+      "title": "[CR][MEDIUM] Improve onboarding and Connections clarity with named external addresses and verified address guidance",
+      "url": "https://github.com/cirrus147/trnzit-qa/issues/18",
+      "createdAt": "2026-10-15T06:19:50Z"
     },
     {
-      "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
-      "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
-      "createdAt": "2026-10-09T09:52:33Z"
+      "title": "[CR][UX] Enrich Suggestions with transaction context and receipt-scoped sender identity",
+      "url": "https://github.com/cirrus147/trnzit-qa/issues/30",
+      "createdAt": "2026-10-15T17:09:54Z"
     }
   ]
 }
