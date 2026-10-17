@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T19:59:10.491Z",
-  "latencyMs": 896,
+  "executedAt": "2026-10-17T20:11:52.690Z",
+  "latencyMs": 1268,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #517: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #518: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "Crp1ceeVfN9STCA6rSu9sxAYpjimXApS3wam2cifkfog",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "VOLLEY is the official token of volley (dot) fun, a launchpad on Solana and Robinhood Chain. Launch coins in minutes, trade them, and scan tokens before you buy",
+      "url": "https://dexscreener.com/solana/crp1ceevfn9stca6rsu9sxaypjimxaps3wam2cifkfog"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 200,
       "description": "Nobody knows where OWOWO came from.\n\nNo roadmap. No promises. Just vibes and a stare you can’t unsee.",
       "url": "https://dexscreener.com/robinhood/0xa01ff10774cfe53c3fbc1d7d124c42e19f6afcbd"
-    },
-    {
-      "chainId": "base",
-      "tokenAddress": "0xB2000000000000000000005bd7AE89b9E6189Bb5",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/base/0xb2000000000000000000005bd7ae89b9e6189bb5"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 107,
-      "priceBtc": 0.0000015182895076803577
+      "marketCapRank": 109,
+      "priceBtc": 0.0000014813414362288872
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.000061002982715879846
+      "priceBtc": 0.0000611454643014856
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 120,
-      "priceBtc": 9.275009536265314e-8
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 102,
-      "priceBtc": 0.000022900936828655136
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 39,
-      "priceBtc": 0.002439042974691912
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 631,
-      "priceBtc": 0.0013547390005471634
+      "priceBtc": 9.291169378458744e-8
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 29,
-      "priceBtc": 0.00001214893987033455
+      "priceBtc": 0.00001215316288551971
     },
     {
-      "name": "Monad",
-      "symbol": "MON",
-      "marketCapRank": 156,
-      "priceBtc": 2.6970947294042377e-7
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 116,
+      "priceBtc": 7.995677053937293e-7
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 631,
+      "priceBtc": 0.0013470491514161373
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 38,
+      "priceBtc": 0.002454768015436563
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 102,
+      "priceBtc": 0.000022786017299980044
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[rolloutengine] Replace task sessions with registered harnesses",
-      "url": "https://github.com/marin-community/marin/pull/10203",
-      "createdAt": "2026-10-16T17:41:36Z"
+      "title": "[Ops] Muse ↔ Grok.btc direct line",
+      "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
+      "createdAt": "2026-09-13T13:56:58Z"
     },
     {
-      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
-      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
-      "createdAt": "2026-10-12T21:43:27Z"
+      "title": "bindings: reward-manager and nft-reward initialize signatures are stale",
+      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1327",
+      "createdAt": "2026-10-16T09:40:54Z"
     },
     {
-      "title": "Readiness reporting: nothing detects the missing receiver UFW rule, and `receiver_libs_installed` tests a shadowed `python3`",
-      "url": "https://github.com/netmojo-systems/omdrop-plugin/issues/52",
-      "createdAt": "2026-10-13T00:42:43Z"
+      "title": "deploy: fresh Base Sepolia + Arbitrum Sepolia redeploy (2026-10-17) and the deploy build step skips the test tree",
+      "url": "https://github.com/vaipakam/vaipakam/pull/2545",
+      "createdAt": "2026-10-17T18:52:07Z"
     },
     {
-      "title": "Contract-Change: prove existing durable Arena admission lifecycle",
-      "url": "https://github.com/Pak209/HolobotsMobile/pull/120",
-      "createdAt": "2026-10-17T19:57:09Z"
+      "title": "ops(hadrian): redeploy Comet market + faucet on the current wrappers",
+      "url": "https://github.com/rome-protocol/compound-on-rome-comet/pull/58",
+      "createdAt": "2026-10-17T20:05:57Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "Generic examples, handyman-first trades catalog, and landing categories (#93)",
+      "url": "https://github.com/jarpless/price_ranger/pull/147",
+      "createdAt": "2026-10-17T19:54:30Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "Harden bridge recovery and network release checks",
+      "url": "https://github.com/solana-classic/solana-classic/pull/6",
+      "createdAt": "2026-10-15T10:38:56Z"
     }
   ]
 }
