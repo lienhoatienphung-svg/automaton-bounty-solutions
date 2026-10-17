@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T22:41:42.361Z",
-  "latencyMs": 1034,
+  "executedAt": "2026-10-17T22:43:53.402Z",
+  "latencyMs": 330,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #534: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #535: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52743777,
+    "liveBlockNumber": 52743843,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 195293,
+    "baseMainnetTopPoolsVolume24hUsd": 195562,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6JaSSBa9dzdqDJGbMVTpxYM1KS1govSF2F57qTPhpump",
+        "description": "Neko",
+        "url": "https://dexscreener.com/solana/6jassba9dzdqdjgbmvtpxym1ks1govsf2f57qtphpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GSwjY9MGSh641msiGGzTrhyAhq4iYfNTgrKM3jn2pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gswjy9mgsh641msiggztrhyahq4iyfntgrkm3jn2pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "76eRq2QDrvF52WhHTseF5Dt4mNbnkiCZY7BdFHV7yLnk",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x77895dD3774F471FB88ca5B79959193B04f399E4",
         "description": "One of the most recognizable PFP cats",
         "url": "https://dexscreener.com/robinhood/0x77895dd3774f471fb88ca5b79959193b04f399e4"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xff6A3387cF21Ef2Ed2E94dA324BCE290Ca9ABC3B",
-        "description": "Automated execution and trailing infrastructure for Hyperliquid. Zero-custody systematic trading with dynamic orderbook trailing, risk guards, and multi-tier ex",
-        "url": "https://dexscreener.com/robinhood/0xff6a3387cf21ef2ed2e94da324bce290ca9abc3b"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DZjL9UwU9vHnD5rftSavwNCjx1QgFz5eNFjQDmtUpump",
-        "description": "Mint any post. Live in seconds.",
-        "url": "https://dexscreener.com/solana/dzjl9uwu9vhnd5rftsavwncjx1qgfz5enfjqdmtupump"
       }
     ]
   },
