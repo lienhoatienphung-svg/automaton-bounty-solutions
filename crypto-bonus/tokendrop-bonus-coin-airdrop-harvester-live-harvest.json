@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T05:17:43.133Z",
-  "latencyMs": 936,
+  "executedAt": "2026-10-17T05:19:20.874Z",
+  "latencyMs": 822,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #394: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #395: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "SF-057: Add scoped AWS IoT component credential exchange",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/141",
+      "createdAt": "2026-10-17T02:51:49Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "deps Update lucide to v1.58.0",
+      "url": "https://github.com/weishaodaren/agentkit/pull/56",
+      "createdAt": "2026-08-05T04:05:31Z"
+    },
+    {
       "title": "bankr: weekly sync with CLI 0.3.48, spend limits, signing rules and files",
       "url": "https://github.com/BankrBot/skills/pull/791",
       "createdAt": "2026-10-17T05:17:34Z"
@@ -273,26 +293,6 @@
       "title": "chore: Implementer inbox — instructions from the Orchestrator",
       "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
       "createdAt": "2026-10-06T01:05:54Z"
-    },
-    {
-      "title": "test(sui): ledger stream e2e on a subscription-enabled localnet GraphQL service (3.0 stack)",
-      "url": "https://github.com/MystenLabs/ts-sdks/pull/1355",
-      "createdAt": "2026-10-16T05:45:20Z"
-    },
-    {
-      "title": "[KAIOS AU WINDOW] 衡曜｜General Manager・神經突觸公開窗口",
-      "url": "https://github.com/klineodyssey/kline-odyssey/issues/584",
-      "createdAt": "2026-10-12T07:28:20Z"
-    },
-    {
-      "title": "Suunto Ocean and Nautic support",
-      "url": "https://github.com/deepsealabs/libdc-swift/issues/29",
-      "createdAt": "2026-08-28T16:22:32Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
     }
   ]
 }
