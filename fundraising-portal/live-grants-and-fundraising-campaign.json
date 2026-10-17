@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T05:31:52.900Z",
-  "latencyMs": 1373,
+  "executedAt": "2026-10-17T05:33:38.860Z",
+  "latencyMs": 733,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #376: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #377: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "Implement guest authorization workflows in MistHelper",
+          "url": "https://github.com/jmorrison-juniper/MistHelper/issues/4278",
+          "repositoryUrl": "https://api.github.com/repos/jmorrison-juniper/MistHelper",
+          "updatedAt": "2026-10-17T05:33:36Z"
+        },
+        {
+          "title": "docs(events): add event-host privacy checklist",
+          "url": "https://github.com/TogetherWeOwn/two-web-next/pull/943",
+          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/two-web-next",
+          "updatedAt": "2026-10-17T05:33:32Z"
+        },
+        {
+          "title": "[Handover Master] HM-01/03/04: v3.6 version-amendment preview (#408)",
+          "url": "https://github.com/reallakshman19/Common/pull/410",
+          "repositoryUrl": "https://api.github.com/repos/reallakshman19/Common",
+          "updatedAt": "2026-10-17T05:33:32Z"
+        },
+        {
+          "title": "Converge deterministic Admin QA fixtures and Auth projection",
+          "url": "https://github.com/chase-sets/chase-sets/pull/9833",
+          "repositoryUrl": "https://api.github.com/repos/chase-sets/chase-sets",
+          "updatedAt": "2026-10-17T05:33:32Z"
+        },
+        {
+          "title": "Continuous Paper Trader — Live Status",
+          "url": "https://github.com/Dtwosam/Cocomelon/issues/469",
+          "repositoryUrl": "https://api.github.com/repos/Dtwosam/Cocomelon",
+          "updatedAt": "2026-10-17T05:33:32Z"
+        },
+        {
+          "title": "fix(cli): keep one-shot system reminders out of the user's own message",
+          "url": "https://github.com/QwenLM/qwen-code/pull/11562",
+          "repositoryUrl": "https://api.github.com/repos/QwenLM/qwen-code",
+          "updatedAt": "2026-10-17T05:33:32Z"
+        },
+        {
+          "title": "Extend secret-in-output to cover more key formats (related to #254)",
+          "url": "https://github.com/neatlogs/neatroots/pull/276",
+          "repositoryUrl": "https://api.github.com/repos/neatlogs/neatroots",
+          "updatedAt": "2026-10-17T05:33:31Z"
+        },
+        {
+          "title": "fix(wakes): one guest-aware identity resolver for the wake legs (#3764, #3777)",
+          "url": "https://github.com/Uuriko/project-room/pull/3799",
+          "repositoryUrl": "https://api.github.com/repos/Uuriko/project-room",
+          "updatedAt": "2026-10-17T05:33:31Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
