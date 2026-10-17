@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T12:01:02.584Z",
-  "latencyMs": 1179,
+  "executedAt": "2026-10-17T12:02:39.014Z",
+  "latencyMs": 678,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #452: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #453: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "9H8iVVQycrmhMRQTFie6ZrdUgid8iye7Z78pJrn8pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/9h8ivvqycrmhmrqtfie6zrdugid8iye7z78pjrn8pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "jr963C1eUWRYk7TYAxii7MRyJqr1zJhVyZuYgVYpump",
       "boostAmount": 50,
       "totalBoostAmount": 50,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/4wfgp1kyf2xaugebopk73o8kw9havasc3wn6ohv9pump"
-    },
-    {
-      "chainId": "bsc",
-      "tokenAddress": "0x7d03759E5B41E36899833cb2E008455d69A24444",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "PRICELESS — BNB Meme Coin\n\nPRICELESS is a community-driven meme coin built on BNB Chain, inspired by the idea that some things simply can’t be measured in money",
-      "url": "https://dexscreener.com/bsc/0x7d03759e5b41e36899833cb2e008455d69a24444"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,52 +218,72 @@
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 101,
-      "priceBtc": 0.00000819858757929984
+      "priceBtc": 0.000008202116372379495
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 109,
-      "priceBtc": 8.782454559753957e-7
+      "priceBtc": 8.779574761791425e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.0000628704187884535
+      "priceBtc": 0.00006294760232707082
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 614,
+      "priceBtc": 0.0014130144480735643
+    },
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 49,
+      "priceBtc": 5.6023148833453744e-8
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9990649004319839
+      "priceBtc": 0.9989176592679048
     },
     {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 106,
-      "priceBtc": 0.00002078887560273311
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "marketCapRank": 90,
+      "priceBtc": 0.000023870324114333815
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 612,
-      "priceBtc": 0.0014204700636333515
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 38,
-      "priceBtc": 0.0025099599693849265
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 89,
-      "priceBtc": 0.000039135711947022126
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 29,
+      "priceBtc": 0.000012260361649498945
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "[比較] Apple Dockの動作とDockStudioの不足一覧",
+      "url": "https://github.com/CHU1PC/dock/issues/7",
+      "createdAt": "2026-10-17T12:02:27Z"
+    },
+    {
+      "title": "Add anytime-valid improvement auditor",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/76",
+      "createdAt": "2026-10-13T03:26:58Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "CP: mechanics waves tracker (draft, not for merge)",
+      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
+      "createdAt": "2026-10-15T07:00:56Z"
+    },
     {
       "title": "docs: sync Java SDK docs to v2.79.0",
       "url": "https://github.com/theekrystallee/hedera-docs-sdk-sync-test/pull/5",
@@ -273,26 +293,6 @@
       "title": "docs: sync JavaScript SDK docs to v2.90.1",
       "url": "https://github.com/theekrystallee/hedera-docs-sdk-sync-test/pull/4",
       "createdAt": "2026-10-02T17:32:50Z"
-    },
-    {
-      "title": "chore(deps): update dependency @lucide/vue to v1.59.0",
-      "url": "https://github.com/jdbnet/goproxy/pull/4",
-      "createdAt": "2026-09-04T21:00:42Z"
-    },
-    {
-      "title": "System share service (Share menu and targets for apps)",
-      "url": "https://github.com/silica-os/silica-desktop/issues/217",
-      "createdAt": "2026-10-17T11:59:38Z"
-    },
-    {
-      "title": "fix(x-signup): reserve the X account before the sponsored mint, not after",
-      "url": "https://github.com/GilgameshCaw/Caw/pull/300",
-      "createdAt": "2026-10-13T09:56:32Z"
-    },
-    {
-      "title": "faucet template: one person can claim with any number of addresses",
-      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/597",
-      "createdAt": "2026-10-16T22:11:39Z"
     }
   ]
 }
