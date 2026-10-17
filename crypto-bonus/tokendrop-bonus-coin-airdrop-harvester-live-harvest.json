@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T22:11:49.399Z",
-  "latencyMs": 973,
+  "executedAt": "2026-10-17T22:14:10.122Z",
+  "latencyMs": 1190,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #534: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #535: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,5 +263,36 @@
       "priceBtc": 9.100580705484736e-8
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "[BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structured comment",
+      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4",
+      "createdAt": "2026-03-27T00:55:42Z"
+    },
+    {
+      "title": "[BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project",
+      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2",
+      "createdAt": "2026-03-27T00:55:38Z"
+    },
+    {
+      "title": "[BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history",
+      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1",
+      "createdAt": "2026-03-27T00:55:36Z"
+    },
+    {
+      "title": "[Idea]: let the faucet send to a pasted address without connecting a wallet first",
+      "url": "https://github.com/Arkiv-Network/reported-issues/issues/20",
+      "createdAt": "2026-10-17T22:12:16Z"
+    },
+    {
+      "title": "[Bug]: faucet page crashes when you pick MetaMask and it's not installed or locked",
+      "url": "https://github.com/Arkiv-Network/reported-issues/issues/19",
+      "createdAt": "2026-10-17T22:12:15Z"
+    },
+    {
+      "title": "Ghost <-> Echo comms",
+      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
+      "createdAt": "2026-10-16T18:46:23Z"
+    }
+  ]
 }
