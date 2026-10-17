@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T00:46:50.314Z",
-  "latencyMs": 861,
+  "executedAt": "2026-10-17T00:59:15.078Z",
+  "latencyMs": 864,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #355: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #356: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -224,60 +224,55 @@
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.252838561772187e-8
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9989385228326324
+      "priceBtc": 9.241604446070181e-8
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 106,
-      "priceBtc": 0.0000209485037949758
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006137792818500763
+      "priceBtc": 0.000020919027291139974
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 49,
-      "priceBtc": 5.546157114192768e-8
+      "priceBtc": 5.545322180283696e-8
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9997006002117894
+    },
+    {
+      "name": "Monad",
+      "symbol": "MON",
+      "marketCapRank": 153,
+      "priceBtc": 2.7902026125139e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010638130719072968
+      "priceBtc": 0.00010713615427703747
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 617,
-      "priceBtc": 0.001415753303281032
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "marketCapRank": 77,
+      "priceBtc": 0.0000037105122483341755
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore: add ux bench playground for tempo wallet and webauthn adapters",
+      "title": "feat: add ux bench for tempo wallet and webauthn adapters with scored pr reports",
       "url": "https://github.com/tempoxyz/accounts/pull/887",
       "createdAt": "2026-10-17T00:42:35Z"
     },
     {
-      "title": "[Catalog P4] Atlas — AAVE Staked Token",
-      "url": "https://github.com/matheus-junio-da-silva/Web3Bugs/pull/2",
-      "createdAt": "2026-10-16T23:46:23Z"
-    },
-    {
-      "title": "Rewards module does not emit events for downstream consumers",
-      "url": "https://github.com/augustina-jpg/scoopdope/issues/1168",
-      "createdAt": "2026-10-15T18:09:56Z"
+      "title": "[reward, ray, cfg, doc] feat: share async scorer concurrency across reward workers",
+      "url": "https://github.com/verl-project/verl/pull/8270",
+      "createdAt": "2026-10-17T00:46:43Z"
     },
     {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
@@ -285,14 +280,19 @@
       "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "[Bug]: Payfetch 1.0.1 paid request not decoded by x402 2.17.0 server due to payment-header mismatch",
-      "url": "https://github.com/x402-foundation/x402/issues/3837",
-      "createdAt": "2026-10-17T00:42:08Z"
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "Share a document (email, Teams, Slack, Messages, cloud links)",
+      "url": "https://github.com/danjboyd/ObjcMarkdown/issues/170",
+      "createdAt": "2026-10-16T19:55:50Z"
+    },
+    {
+      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
+      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
+      "createdAt": "2026-10-09T07:30:01Z"
     }
   ]
 }
