@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T12:17:51.579Z",
-  "latencyMs": 520,
+  "executedAt": "2026-10-17T12:20:03.264Z",
+  "latencyMs": 898,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #434: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #435: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "feat(api): connect frontend and backend with device sync API",
+          "url": "https://github.com/Zennay/Supa/pull/3777",
+          "repositoryUrl": "https://api.github.com/repos/Zennay/Supa",
+          "updatedAt": "2026-10-17T12:20:00Z"
+        },
+        {
+          "title": "amend PR #1171: merge-precheck holes from security review (#1169)",
+          "url": "https://github.com/rafarc21/fleetflare/issues/1176",
+          "repositoryUrl": "https://api.github.com/repos/rafarc21/fleetflare",
+          "updatedAt": "2026-10-17T12:19:59Z"
+        },
+        {
+          "title": "fix: preserve activation continuity and gate explicit baseline recovery",
+          "url": "https://github.com/xinglun/ai-cockpit/pull/1047",
+          "repositoryUrl": "https://api.github.com/repos/xinglun/ai-cockpit",
+          "updatedAt": "2026-10-17T12:19:59Z"
+        },
+        {
+          "title": "Harden exposed security-definer RPCs",
+          "url": "https://github.com/abdulrazaqafolarin-droid/receptionist-craft/pull/56",
+          "repositoryUrl": "https://api.github.com/repos/abdulrazaqafolarin-droid/receptionist-craft",
+          "updatedAt": "2026-10-17T12:19:57Z"
+        },
+        {
+          "title": "[Evidence] landing-live · implementer L1 g3 · 01a149bf",
+          "url": "https://github.com/reallakshman19/CoordinatorLandingpage/issues/64",
+          "repositoryUrl": "https://api.github.com/repos/reallakshman19/CoordinatorLandingpage",
+          "updatedAt": "2026-10-17T12:19:56Z"
+        },
+        {
+          "title": "Migrate ledger storage to relational records and atomic revision-checked saves",
+          "url": "https://github.com/kinkintrukindo/kinkin-app/pull/7",
+          "repositoryUrl": "https://api.github.com/repos/kinkintrukindo/kinkin-app",
+          "updatedAt": "2026-10-17T12:19:55Z"
+        },
+        {
+          "title": "R9d: Firefly master + Krita/Godot + R9d-05 foreground depth (Draft)",
+          "url": "https://github.com/roronoazoroshao/game-artist-mcp/pull/43",
+          "repositoryUrl": "https://api.github.com/repos/roronoazoroshao/game-artist-mcp",
+          "updatedAt": "2026-10-17T12:19:55Z"
+        },
+        {
+          "title": "feat(mb,ingest): add release-to-recordings route and fill recording_mbids",
+          "url": "https://github.com/TogetherWeOwn/nntunev2/pull/143",
+          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/nntunev2",
+          "updatedAt": "2026-10-17T12:19:54Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
