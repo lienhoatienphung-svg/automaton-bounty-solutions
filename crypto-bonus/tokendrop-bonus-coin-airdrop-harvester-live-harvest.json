@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T03:17:44.147Z",
-  "latencyMs": 601,
+  "executedAt": "2026-10-17T03:19:07.815Z",
+  "latencyMs": 688,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #376: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #377: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,19 +265,9 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore(deps): bump tempo dependencies to dee08cf",
-      "url": "https://github.com/mowind/foundry/pull/2",
-      "createdAt": "2026-07-28T02:34:15Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "[chain · Tier K] ADR / spec factory — the decisions before the code",
-      "url": "https://github.com/Phantom-X-007/intafaced/issues/937",
-      "createdAt": "2026-08-07T03:08:29Z"
+      "title": "[Fix] sampling: deterministic top-p / top-k renorm when attn_tp_size > 1 (TP rank divergence in DFlash/DSpark)",
+      "url": "https://github.com/sgl-project/sglang/pull/38565",
+      "createdAt": "2026-09-08T21:08:36Z"
     },
     {
       "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
@@ -285,14 +275,24 @@
       "createdAt": "2026-10-07T16:13:30Z"
     },
     {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "chore(deps): bump tempo dependencies to dee08cf",
+      "url": "https://github.com/mowind/foundry/pull/2",
+      "createdAt": "2026-07-28T02:34:15Z"
+    },
+    {
+      "title": "[chain · Tier K] ADR / spec factory — the decisions before the code",
+      "url": "https://github.com/Phantom-X-007/intafaced/issues/937",
+      "createdAt": "2026-08-07T03:08:29Z"
+    },
+    {
       "title": "[KAIOS AU WINDOW] 衡曜｜General Manager・神經突觸公開窗口",
       "url": "https://github.com/klineodyssey/kline-odyssey/issues/584",
       "createdAt": "2026-10-12T07:28:20Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
