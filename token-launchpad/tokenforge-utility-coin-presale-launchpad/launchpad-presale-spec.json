@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T13:40:14.502Z",
-  "latencyMs": 357,
+  "executedAt": "2026-10-17T13:41:56.810Z",
+  "latencyMs": 355,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #462: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #463: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52727533,
+    "liveBlockNumber": 52727584,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 455641,
-    "baseMainnetTopPoolsVolume24hUsd": 221485,
+    "baseMainnetTopPoolsLiquidityUsd": 455647,
+    "baseMainnetTopPoolsVolume24hUsd": 221484,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "avalanche",
+        "tokenAddress": "0xe916BeB9ADdfEcC2c7C12C241d8EC65e0c55897F",
+        "description": "The launchpad for stocks and memecoins on Avalanche.",
+        "url": "https://dexscreener.com/avalanche/0xe916beb9addfecc2c7c12c241d8ec65e0c55897f"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "AN1BH5QYxLj1MDzpbXkmHwvbHn6T1Xy9Gc2PAtwzpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "7uhdNpeqQpE4YNe3xH47A38ziKDqP1r18x8Pcrqhpump",
         "description": "PINGUS is a community-driven memecoin built for memes, fun, and a strong community. Powered by the people who believe in $PINGUS.",
         "url": "https://dexscreener.com/solana/7uhdnpeqqpe4yne3xh47a38zikdqp1r18x8pcrqhpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ew9ezwtqvn3v8rpdkmeqai8n5bmajuipnc4ubv7zpump"
       }
     ]
   },
