@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T12:28:51.668Z",
-  "latencyMs": 1111,
+  "executedAt": "2026-10-17T12:30:31.588Z",
+  "latencyMs": 1783,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #456: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #457: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,30 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "ethereum",
+      "tokenAddress": "0x787873c9ae96855bdB032F6fF1Ef76a5e1Fc8aDC",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "The alter ego and mascot of Grok",
+      "url": "https://dexscreener.com/ethereum/0x787873c9ae96855bdb032f6ff1ef76a5e1fc8adc"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "6hjaMcRPvB4DEGpHqgHxmgipb2vrGQWMewZBAVSLpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "This aint no state property",
+      "url": "https://dexscreener.com/solana/6hjamcrpvb4degphqghxmgipb2vrgqwmewzbavslpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "KVjKrtzwFKmocPVoYVswKUbxTkNuuCKeJ4r8688pump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/kvjkrtzwfkmocpvoyvswkubxtknuuckej4r8688pump"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "9H8iVVQycrmhMRQTFie6ZrdUgid8iye7Z78pJrn8pump",
       "boostAmount": 10,
@@ -186,30 +210,6 @@
       "totalBoostAmount": 10,
       "description": "PLUTO AI — The AI That Controls Your Computer.\n\nPLUTO is an autonomous AI desktop assistant designed to turn your voice into real actions on your computer. Unli",
       "url": "https://dexscreener.com/solana/6jijw4ne924kqj8xylkxfrhpehy5y2qxokggzjhqpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "7Xgc5RacHtGzfhw2HukUBk5V986yBbvshr7rrCoopump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Official Derek Mercer token",
-      "url": "https://dexscreener.com/solana/7xgc5rachtgzfhw2hukubk5v986ybbvshr7rrcoopump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "2mbsJYGvH9PucXwcbhrWUqQ7oD8ZiKh8Q9eAk7dGoSN9",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/2mbsjygvh9pucxwcbhrwuqq7od8zikh8q9eak7dgosn9"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "4wfGP1KYF2xaugEbopK73o8kw9HavaSC3wN6ohv9pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/4wfgp1kyf2xaugebopk73o8kw9havasc3wn6ohv9pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -270,14 +270,14 @@
       "createdAt": "2026-10-09T07:30:01Z"
     },
     {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
       "title": "feat: faucet calls transfer-me for native tokens",
       "url": "https://github.com/arthneura/market/pull/13",
       "createdAt": "2026-10-17T12:28:09Z"
-    },
-    {
-      "title": "Gestão G3: financeiro, DRE e pacote do contador",
-      "url": "https://github.com/feliciofc-debug/hello-buddy-launchpad/pull/32",
-      "createdAt": "2026-10-17T12:24:57Z"
     },
     {
       "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
