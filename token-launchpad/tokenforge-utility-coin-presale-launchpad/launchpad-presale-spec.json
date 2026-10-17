@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T19:41:56.354Z",
-  "latencyMs": 430,
+  "executedAt": "2026-10-17T19:43:30.729Z",
+  "latencyMs": 261,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #510: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sanctuary Computer: Head of Technol",
+  "workTitle": "Delivery Sprint #511: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52738384,
+    "liveBlockNumber": 52738431,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458998,
-    "baseMainnetTopPoolsVolume24hUsd": 204222,
+    "baseMainnetTopPoolsVolume24hUsd": 204411,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CATA9Q8D15r7t7EqJ85EK8dvTxvVQAfZZaRxBeiFpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cata9q8d15r7t7eqj85ek8dvtxvvqafzzarxbeifpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "wiben7BURMAbyWyHrSD7bsBV1Svr7cQaJ9rPmu9SPu4",
@@ -49,7 +55,7 @@
       {
         "chainId": "solana",
         "tokenAddress": "9fahoNzobVmh9Cz2n3eaK5aKSD7jjqGd92sUnGk9pump",
-        "description": "Verified Token Profile Launch",
+        "description": "Mayhem breaks out beside peaceful demonstrations in Paris, Marseille and elsewhere as resentment rises over affordability and government budget cuts",
         "url": "https://dexscreener.com/solana/9fahonzobvmh9cz2n3eak5aksd7jjqgd92sungk9pump"
       },
       {
@@ -75,12 +81,6 @@
         "tokenAddress": "EYLjBuEd7NUF5ZwjcpawqCKnzbaZMDsyHkeA72P2pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/eyljbued7nuf5zwjcpawqcknzbazmdsyhkea72p2pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2yxjYSyAY3sYgBWy9HbgFgfASvWByfDKpSjK94Wbpump",
-        "description": "it's just tv, but every show has its own coin",
-        "url": "https://dexscreener.com/solana/2yxjysyay3sygbwy9hbgfgfasvwbyfdkpsjk94wbpump"
       }
     ]
   },
