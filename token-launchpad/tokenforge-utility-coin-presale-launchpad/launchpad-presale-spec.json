@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T17:41:03.663Z",
-  "latencyMs": 342,
+  "executedAt": "2026-10-17T17:42:42.324Z",
+  "latencyMs": 261,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #494: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #495: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52734758,
+    "liveBlockNumber": 52734807,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 455647,
-    "baseMainnetTopPoolsVolume24hUsd": 216474,
+    "baseMainnetTopPoolsVolume24hUsd": 215677,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Dmwjp83r9TrnRRiHkH79DVsScLEyJ7Ss6dngvrbrpump",
+        "description": "Launch a market making ai bot.",
+        "url": "https://dexscreener.com/solana/dmwjp83r9trnrrihkh79dvsscleyj7ss6dngvrbrpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DSo3ozuciZDhpVvPNq7JRPrWkVD7EoX547y4yRpQpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "EfGXXe6yU5UsLSbzKht2jUUyPu1pMGzQdUjSLoFrpump",
         "description": "Your timeline has always been a collection of people.\n\nThe traders you watch. The creators you follow. The accounts you discovered before everyone else.\n\nSTACK ",
         "url": "https://dexscreener.com/solana/efgxxe6yu5uslsbzkht2juuypu1pmgzqdujslofrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DTGbujkhM3q3Md4mytyRE7jYR5w92ZwzbkJrBwtXpump",
-        "description": "Tesla Super Games is a 3D racing arcade on Solana. Pay 0.01 SOL to enter, clear the level and 0.02 SOL comes straight back. Miss it and your entry buys $TESLASG",
-        "url": "https://dexscreener.com/solana/dtgbujkhm3q3md4mytyre7jyr5w92zwzbkjrbwtxpump"
       }
     ]
   },
