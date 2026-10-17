@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T03:19:07.815Z",
-  "latencyMs": 688,
+  "executedAt": "2026-10-17T03:30:09.204Z",
+  "latencyMs": 1158,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #377: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #378: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -17,37 +17,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-PROS",
-      "tvlUsd": 945638,
-      "apyBase": 23.47,
-      "apyRewardBonus": 106056.07,
-      "apyTotal": 106079.54,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-VELVET",
-      "tvlUsd": 1129757,
-      "apyBase": 1.38,
-      "apyRewardBonus": 81642.47,
-      "apyTotal": 81643.85,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c07a115f-7299-4dd1-ac25-2de459010b6b"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 605879,
-      "apyBase": 5.86,
-      "apyRewardBonus": 72781.82,
-      "apyTotal": 72787.68,
+      "tvlUsd": 606427,
+      "apyBase": 6.09,
+      "apyRewardBonus": 72864.6,
+      "apyTotal": 72870.69,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -55,12 +29,25 @@
     },
     {
       "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-VELVET",
+      "tvlUsd": 1126761,
+      "apyBase": 1.34,
+      "apyRewardBonus": 57454.69,
+      "apyTotal": 57456.03,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c07a115f-7299-4dd1-ac25-2de459010b6b"
+    },
+    {
+      "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 54922,
+      "tvlUsd": 54779,
       "apyBase": 0,
-      "apyRewardBonus": 39357.67,
-      "apyTotal": 39357.67,
+      "apyRewardBonus": 39546.78,
+      "apyTotal": 39546.78,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -69,11 +56,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "USDC-PROS",
+      "tvlUsd": 941232,
+      "apyBase": 21.82,
+      "apyRewardBonus": 34531.58,
+      "apyTotal": 34553.4,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 258572,
-      "apyBase": 90.53,
-      "apyRewardBonus": 10267.03,
-      "apyTotal": 10357.55,
+      "tvlUsd": 258517,
+      "apyBase": 94.83,
+      "apyRewardBonus": 33307.78,
+      "apyTotal": 33402.61,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -83,10 +83,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 150575,
-      "apyBase": 30.54,
-      "apyRewardBonus": 7860.86,
-      "apyTotal": 7891.4,
+      "tvlUsd": 150440,
+      "apyBase": 32.17,
+      "apyRewardBonus": 7881.82,
+      "apyTotal": 7913.99,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -96,10 +96,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "AVNT-USDC",
-      "tvlUsd": 703669,
-      "apyBase": 0.46,
-      "apyRewardBonus": 4925.49,
-      "apyTotal": 4925.94,
+      "tvlUsd": 701295,
+      "apyBase": 0.41,
+      "apyRewardBonus": 4891.58,
+      "apyTotal": 4891.99,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -108,24 +108,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-CBBTC",
-      "tvlUsd": 2080162,
-      "apyBase": 78.19,
-      "apyRewardBonus": 3713.03,
-      "apyTotal": 3791.22,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "USDC-CBBTC",
-      "tvlUsd": 171856,
-      "apyBase": 36.1,
-      "apyRewardBonus": 3419.64,
-      "apyTotal": 3455.74,
+      "tvlUsd": 171605,
+      "apyBase": 36.14,
+      "apyRewardBonus": 4533.19,
+      "apyTotal": 4569.33,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -134,11 +121,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "USDC-MSTRC",
+      "tvlUsd": 2126424,
+      "apyBase": 103.98,
+      "apyRewardBonus": 2498.1,
+      "apyTotal": 2602.09,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "06ae14ef-c2e3-5e30-9876-3e06c8b2f9a9"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "FUN-USDC",
-      "tvlUsd": 277167,
-      "apyBase": 47.91,
-      "apyRewardBonus": 3153.88,
-      "apyTotal": 3201.79,
+      "tvlUsd": 277353,
+      "apyBase": 41.82,
+      "apyRewardBonus": 2119.6,
+      "apyTotal": 2161.41,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -223,51 +223,61 @@
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 617,
-      "priceBtc": 0.0014173180224422168
+      "marketCapRank": 616,
+      "priceBtc": 0.0014239418140128601
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009804309349124133
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9996367200797607
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 89,
-      "priceBtc": 0.00003890228889924022
-    },
-    {
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "marketCapRank": 25,
-      "priceBtc": 0.00008918124285822168
+      "priceBtc": 0.0009822120360901251
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.0000620347370584273
+      "priceBtc": 0.0000622674740273601
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 89,
+      "priceBtc": 0.000039368053379668334
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "marketCapRank": 25,
+      "priceBtc": 0.00008952662100640915
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.0003501889925732
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012830122239506905
+      "priceBtc": 0.0012845204323450727
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[Fix] sampling: deterministic top-p / top-k renorm when attn_tp_size > 1 (TP rank divergence in DFlash/DSpark)",
-      "url": "https://github.com/sgl-project/sglang/pull/38565",
-      "createdAt": "2026-09-08T21:08:36Z"
+      "title": "Update dependency lucide-react to v1.58.0",
+      "url": "https://github.com/khaleddost/bone-jeopardy/pull/12",
+      "createdAt": "2026-08-01T12:41:21Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/pekay23/goatmaster/pull/7",
+      "createdAt": "2026-08-19T22:58:44Z"
+    },
+    {
+      "title": "REA: Flick → local-first cross-platform file bridge (iOS/macOS/Windows)",
+      "url": "https://github.com/rrahul0904/agent-work-os/issues/262",
+      "createdAt": "2026-10-17T03:29:09Z"
     },
     {
       "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-07T16:13:30Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "chore(deps): bump tempo dependencies to dee08cf",
-      "url": "https://github.com/mowind/foundry/pull/2",
-      "createdAt": "2026-07-28T02:34:15Z"
-    },
-    {
-      "title": "[chain · Tier K] ADR / spec factory — the decisions before the code",
-      "url": "https://github.com/Phantom-X-007/intafaced/issues/937",
-      "createdAt": "2026-08-07T03:08:29Z"
-    },
-    {
-      "title": "[KAIOS AU WINDOW] 衡曜｜General Manager・神經突觸公開窗口",
-      "url": "https://github.com/klineodyssey/kline-odyssey/issues/584",
-      "createdAt": "2026-10-12T07:28:20Z"
+      "title": "Update dependency lucide-react to v1.58.0",
+      "url": "https://github.com/rharkor/vectorview/pull/9",
+      "createdAt": "2026-09-06T15:51:20Z"
     }
   ]
 }
