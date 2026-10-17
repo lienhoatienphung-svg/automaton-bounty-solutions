@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T10:05:53.123Z",
-  "latencyMs": 949,
+  "executedAt": "2026-10-17T10:07:28.267Z",
+  "latencyMs": 957,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #436: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #437: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(server): wait for the mined block hash, not its height, before scanning",
+      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/397",
+      "createdAt": "2026-10-17T03:05:38Z"
+    },
+    {
+      "title": "Harden bridge recovery and network release checks",
+      "url": "https://github.com/solana-classic/solana-classic/pull/6",
+      "createdAt": "2026-10-15T10:38:56Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide-react to v1.59.0",
+      "url": "https://github.com/layertwo/groundwork/pull/182",
+      "createdAt": "2026-06-12T19:51:21Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/prmsregmi/dozi/pull/48",
+      "createdAt": "2026-03-30T01:03:16Z"
+    },
+    {
       "title": "Update dependency lucide-react to v1.59.0",
       "url": "https://github.com/buape/buape-com/pull/342",
       "createdAt": "2026-06-28T21:42:02Z"
@@ -273,26 +293,6 @@
       "title": "Verifiable Merkle Airdrop Claim Contract on Soroban",
       "url": "https://github.com/Lumen-Nexora/Nexora/issues/16",
       "createdAt": "2026-10-16T11:34:26Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/REVREBEL/REVREBEL-Metrics/pull/21",
-      "createdAt": "2026-05-10T00:25:19Z"
-    },
-    {
-      "title": "V6 genesis loader gap: `qumbra-node mine` and qumbra-faucet check/run still load the genesis as the L1 base — refuse a format-10 (V6) net",
-      "url": "https://github.com/qumbra-labs/qumbra-lab/issues/818",
-      "createdAt": "2026-10-01T13:09:44Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1.59.0",
-      "url": "https://github.com/agirmar92/refaleikarnir/pull/548",
-      "createdAt": "2026-06-12T20:03:56Z"
     }
   ]
 }
