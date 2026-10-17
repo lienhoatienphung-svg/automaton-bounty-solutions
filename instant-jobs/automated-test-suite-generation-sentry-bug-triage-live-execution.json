@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-17T17:49:01.288Z",
-  "latencyMs": 608,
+  "executedAt": "2026-10-17T18:00:47.941Z",
+  "latencyMs": 1498,
   "companyName": "Automated Test Suite Generation & Sentry Bug Triage",
-  "workTitle": "Delivery Sprint #1149: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
-  "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
+  "workTitle": "Growth & Sales Sprint #1150: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Kodland: APAC Python (Instant B2B R",
+  "targetUrl": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656621,
-        "liquidityUsd": 40043,
+        "liquidityUsd": 38932,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501800,
-        "liquidityUsd": 18958,
+        "liquidityUsd": 18401,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2178322,
-        "liquidityUsd": 79762,
+        "liquidityUsd": 85714,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059853,
-        "liquidityUsd": 881,
+        "liquidityUsd": 874,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 18826,
+        "liquidityUsd": 19119,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -70,7 +70,7 @@
         "dexId": "quickswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00005,
+        "priceUsd": 1.000048,
         "liquidityUsd": 103134,
         "volume24hUsd": 95553,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000061,
+        "priceUsd": 1.000064,
         "liquidityUsd": 21385,
-        "volume24hUsd": 67685,
+        "volume24hUsd": 67668,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -122,7 +122,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000082,
         "liquidityUsd": 12034,
-        "volume24hUsd": 1338,
+        "volume24hUsd": 1308,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
@@ -130,6 +130,21 @@
   "multiIndustryB2BContracts": {
     "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Sanctuary Computer",
+        "roleOrTask": "Head of Technology",
+        "industryTags": [
+          "dev",
+          "engineer",
+          "senior",
+          "full stack",
+          "front end"
+        ],
+        "compensation": "$140000-$250000",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "RemoteOK-InstantB2B",
         "company": "Self Bill Pro",
@@ -188,21 +203,6 @@
         ],
         "compensation": "$500-$2,500 Instant Retainer",
         "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Hippocratic AI",
-        "roleOrTask": "Director of IT and Workplace",
-        "industryTags": [
-          "exec",
-          "saas",
-          "infosec",
-          "python",
-          "technical"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
         "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
       },
       {
