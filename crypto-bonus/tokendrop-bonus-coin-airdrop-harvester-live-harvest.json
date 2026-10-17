@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T13:26:01.000Z",
-  "latencyMs": 1339,
+  "executedAt": "2026-10-17T13:27:42.395Z",
+  "latencyMs": 896,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #464: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #465: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,19 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "experiment: share account viewing keys through inbox envelopes",
+      "url": "https://github.com/midnightntwrk/passport/pull/177",
+      "createdAt": "2026-10-01T20:19:25Z"
+    },
+    {
       "title": "Add LP rewards contract for liquidity providers on graduated keys",
       "url": "https://github.com/accesslayerorg/accesslayer-contracts/issues/1053",
       "createdAt": "2026-10-17T13:18:14Z"
     },
     {
-      "title": "Epic: x402 monetization — wire existing APIs and add paid pricing, review, reputation and attestation endpoints",
-      "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/200",
-      "createdAt": "2026-10-17T13:16:55Z"
-    },
-    {
       "title": "perf(jit): don't split critical edges in PHI elimination",
       "url": "https://github.com/alloy-rs/evm2/pull/681",
       "createdAt": "2026-10-17T12:17:35Z"
+    },
+    {
+      "title": "Epic: x402 monetization — wire existing APIs and add paid pricing, review, reputation and attestation endpoints",
+      "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/200",
+      "createdAt": "2026-10-17T13:16:55Z"
     },
     {
       "title": "Feat/cli notes show details",
@@ -288,11 +293,6 @@
       "title": "feat: add C-130 cargo system, territory visualization, and split crates",
       "url": "https://github.com/Dillen198/bfnext/pull/1",
       "createdAt": "2026-01-19T07:41:07Z"
-    },
-    {
-      "title": "CP: mechanics waves tracker (draft, not for merge)",
-      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
-      "createdAt": "2026-10-15T07:00:56Z"
     }
   ]
 }
