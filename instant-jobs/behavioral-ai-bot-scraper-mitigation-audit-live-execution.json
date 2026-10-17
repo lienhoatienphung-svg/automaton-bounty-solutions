@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-17T20:44:51.838Z",
-  "latencyMs": 1192,
+  "executedAt": "2026-10-17T20:55:53.326Z",
+  "latencyMs": 687,
   "companyName": "Behavioral AI Bot & Scraper Mitigation Audit",
-  "workTitle": "Delivery Sprint #1145: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
-  "targetUrl": "https://polymarket.com/event/china-x-india-military-clash-by-december-31",
+  "workTitle": "Growth & Sales Sprint #1146: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2178578,
-        "liquidityUsd": 89628,
+        "liquidityUsd": 89691,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 18973,
+        "liquidityUsd": 18837,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000078,
+        "priceUsd": 1.000074,
         "liquidityUsd": 21385,
-        "volume24hUsd": 60489,
+        "volume24hUsd": 60822,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -116,14 +116,14 @@
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       },
       {
-        "pairAddress": "0x06959273E9A65433De71F5A452D529544E07dDD0",
-        "dexId": "uniswap",
+        "pairAddress": "0x27a8Afa3Bd49406e48a074350fB7b2020c43B2bD",
+        "dexId": "aerodrome",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000082,
-        "liquidityUsd": 12034,
-        "volume24hUsd": 1066,
-        "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
+        "priceUsd": 1.00078,
+        "liquidityUsd": 13310,
+        "volume24hUsd": 11,
+        "url": "https://dexscreener.com/base/0x27a8afa3bd49406e48a074350fb7b2020c43b2bd"
       }
     ]
   },
