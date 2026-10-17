@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T01:12:47.245Z",
-  "latencyMs": 701,
+  "executedAt": "2026-10-17T01:14:12.630Z",
+  "latencyMs": 664,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #358: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #359: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat: add ux bench for tempo wallet and webauthn adapters with scored pr reports",
+      "url": "https://github.com/tempoxyz/accounts/pull/887",
+      "createdAt": "2026-10-17T00:42:35Z"
+    },
+    {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "[KAIOS AU WINDOW] 衡曜｜General Manager・神經突觸公開窗口",
+      "url": "https://github.com/klineodyssey/kline-odyssey/issues/584",
+      "createdAt": "2026-10-12T07:28:20Z"
     },
     {
       "title": "ambiguity: R8.5/R8.6 give each account one cohort and one grant tier, but nothing says what an account active in two Era-T roles (miner and ",
@@ -283,16 +293,6 @@
       "title": "[adapters] Port BioMysteryBench for evaluation with a Daytona pilot",
       "url": "https://github.com/marin-community/harbor/issues/161",
       "createdAt": "2026-09-18T21:32:59Z"
-    },
-    {
-      "title": "4.8.2 TUI (text.py) raw traceback text prints straight onto the terminal grid",
-      "url": "https://github.com/spesmilo/electrum/issues/11026",
-      "createdAt": "2026-10-07T21:29:40Z"
-    },
-    {
-      "title": "feat: add ux bench for tempo wallet and webauthn adapters with scored pr reports",
-      "url": "https://github.com/tempoxyz/accounts/pull/887",
-      "createdAt": "2026-10-17T00:42:35Z"
     }
   ]
 }
