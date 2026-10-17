@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T17:26:30.448Z",
-  "latencyMs": 1027,
+  "executedAt": "2026-10-17T17:40:56.691Z",
+  "latencyMs": 1068,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #497: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #498: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "GgDt9qLFxumCfXGHq82Tx2onjepL5SS3xpXXiUshpump",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/ggdt9qlfxumcfxghq82tx2onjepl5ss3xpxxiushpump"
+    },
+    {
       "chainId": "bsc",
       "tokenAddress": "0x7D0443CdDFc8E11AF105F4fE44Dd28c630237777",
       "boostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/hwkd7fy3tzb2rjznbmjgzfzlqpdst4q81wzgpn7dpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xE1838f0dFF03a9327DeA87B2a2285850791297EC",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Onchain inference, priced like a surplus. One API key → every LLM, paid in USDG on Robinhood Chain.",
-      "url": "https://dexscreener.com/robinhood/0xe1838f0dff03a9327dea87b2a2285850791297ec"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 109,
-      "priceBtc": 0.0000014938824810048197
+      "marketCapRank": 108,
+      "priceBtc": 0.0000014822701280784253
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00005965984750591182
+      "priceBtc": 0.00005977854020402621
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "marketCapRank": 120,
-      "priceBtc": 9.1080509432457e-8
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 188,
-      "priceBtc": 0.0000035371581751558894
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 100,
-      "priceBtc": 0.000008037787558004786
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 102,
-      "priceBtc": 0.000022614967811098678
+      "marketCapRank": 119,
+      "priceBtc": 9.117506246556554e-8
     },
     {
       "name": "Quant",
       "symbol": "QNT",
       "marketCapRank": 39,
-      "priceBtc": 0.002429568429053292
+      "priceBtc": 0.0024285503575654146
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 623,
-      "priceBtc": 0.0013691026980491797
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 99,
+      "priceBtc": 0.000022981058968260168
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.01382310264572855
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 100,
+      "priceBtc": 0.00000809677689230175
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "marketCapRank": 90,
+      "priceBtc": 0.0000230220929625281
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "expand \"auto eat\" functionality",
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
+      "createdAt": "2026-10-07T03:48:40Z"
+    },
+    {
+      "title": "feat(mobile): USDC send and QR scan",
+      "url": "https://github.com/HyeokjaeChoi/vaultme/issues/64",
+      "createdAt": "2026-10-17T12:15:43Z"
+    },
     {
       "title": "Ghost <-> Echo comms",
       "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
       "createdAt": "2026-10-16T18:46:23Z"
     },
     {
-      "title": "[DNM] Ablation: per-token change in log-probability from SFT to DPO",
-      "url": "https://github.com/stxxllbu/grounded-refusal/pull/30",
-      "createdAt": "2026-10-16T18:26:56Z"
+      "title": "chore(lockfile): update lucide-react-lockfile #patch",
+      "url": "https://github.com/GlueOps/autoglue/pull/1273",
+      "createdAt": "2026-10-17T08:30:21Z"
     },
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/48",
-      "createdAt": "2026-10-17T06:48:17Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "E2E: полный демоцикл /start → OAuth → демо-сессия → результат",
-      "url": "https://github.com/ChaoticMelnik/binarius/issues/105",
-      "createdAt": "2026-09-30T16:58:05Z"
-    },
-    {
-      "title": "Add the vision-encoder-objective task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/84",
-      "createdAt": "2026-10-14T17:20:01Z"
-    },
-    {
-      "title": "CP: mechanics waves tracker (draft, not for merge)",
-      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
-      "createdAt": "2026-10-15T07:00:56Z"
+      "title": "Feature request: Support Lightning send/receive on regtest",
+      "url": "https://github.com/buildonspark/spark/issues/157",
+      "createdAt": "2026-10-17T17:39:18Z"
     }
   ]
 }
