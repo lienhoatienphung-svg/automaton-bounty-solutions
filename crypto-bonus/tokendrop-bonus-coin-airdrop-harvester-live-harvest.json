@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T15:53:26.811Z",
-  "latencyMs": 889,
+  "executedAt": "2026-10-17T15:55:08.416Z",
+  "latencyMs": 907,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #484: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #485: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(staking): replace bare i128 arithmetic with checked ops",
+      "url": "https://github.com/soroban-forge-labs/soroban-forge/pull/629",
+      "createdAt": "2026-10-17T15:54:53Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "feat(manager): pay for registrations with USDC bridged in from an L2",
+      "url": "https://github.com/ensdomains/apps-monorepo/pull/1395",
+      "createdAt": "2026-10-16T19:16:49Z"
+    },
+    {
       "title": "LF-168 · NFT tokens don't record which milestone they represent",
       "url": "https://github.com/Stellar-songifi/lyricsflip/issues/654",
       "createdAt": "2026-10-15T16:41:47Z"
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-08T18:22:28Z"
     },
     {
-      "title": "feat(manager): pay for registrations with USDC bridged in from an L2",
-      "url": "https://github.com/ensdomains/apps-monorepo/pull/1395",
-      "createdAt": "2026-10-16T19:16:49Z"
-    },
-    {
       "title": "ssf-p2p-node: one chain-access seam over the gateway (S-0 step 1, #231 P7 phase 0)",
       "url": "https://github.com/Bella-Addormentata/StarStationFurlong/pull/270",
       "createdAt": "2026-10-17T15:50:37Z"
-    },
-    {
-      "title": "test: add automated cross-chain verification (unit + on-chain config checks)",
-      "url": "https://github.com/Ellenp2p/Xansfer-Chain/pull/11",
-      "createdAt": "2026-10-17T15:38:57Z"
-    },
-    {
-      "title": "Update dependency lucide to v1",
-      "url": "https://github.com/michielvha/image-resizer/pull/9",
-      "createdAt": "2026-03-31T11:38:03Z"
     }
   ]
 }
