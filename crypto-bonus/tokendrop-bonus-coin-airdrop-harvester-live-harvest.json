@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T04:23:53.815Z",
-  "latencyMs": 1094,
+  "executedAt": "2026-10-17T04:25:26.038Z",
+  "latencyMs": 1419,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #386: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #387: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Suunto Ocean and Nautic support",
+      "url": "https://github.com/deepsealabs/libdc-swift/issues/29",
+      "createdAt": "2026-08-28T16:22:32Z"
+    },
+    {
+      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
+      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
+      "createdAt": "2026-10-09T07:30:01Z"
+    },
+    {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
@@ -275,24 +285,14 @@
       "createdAt": "2026-09-27T12:37:00Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "Bump the admin-dependencies group across 1 directory with 17 updates",
+      "url": "https://github.com/shivamkalra123/roster-app/pull/12",
+      "createdAt": "2026-09-26T04:24:11Z"
     },
     {
-      "title": "contract: referral rewards are credited to ReferralBalance but never escrowed, so claims drain bettor stake",
-      "url": "https://github.com/chunks-labz/predinex-stellar/issues/1271",
-      "createdAt": "2026-09-28T13:19:54Z"
-    },
-    {
-      "title": "feat(gateway): W2 testnet faucet for linked wallets",
-      "url": "https://github.com/LamaSu/physical-capability-cloud/pull/642",
-      "createdAt": "2026-10-16T00:04:38Z"
-    },
-    {
-      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
-      "url": "https://github.com/jsboige/CoursIA/pull/20377",
-      "createdAt": "2026-10-11T14:10:17Z"
+      "title": "Bump the frontend-dependencies group across 1 directory with 16 updates",
+      "url": "https://github.com/shivamkalra123/roster-app/pull/11",
+      "createdAt": "2026-09-26T04:24:11Z"
     }
   ]
 }
