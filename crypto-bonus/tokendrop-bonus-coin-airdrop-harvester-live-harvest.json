@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T10:37:00.276Z",
-  "latencyMs": 1073,
+  "executedAt": "2026-10-17T10:49:45.055Z",
+  "latencyMs": 1257,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #441: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #442: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,69 +215,59 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000012244420885477983
-    },
-    {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "marketCapRank": 90,
-      "priceBtc": 0.00002376265399241412
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010731818226573598
-    },
-    {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 101,
-      "priceBtc": 0.000008399250104971752
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.014429480692858779
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 612,
-      "priceBtc": 0.0014141056345120355
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009770423840297516
+      "priceBtc": 0.000008182929529405296
     },
     {
       "name": "Pi Network",
       "symbol": "PI",
       "marketCapRank": 84,
-      "priceBtc": 9.785401612363725e-7
+      "priceBtc": 9.80250925346911e-7
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000012266522714800044
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010705126952827068
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "marketCapRank": 90,
+      "priceBtc": 0.000023772745338415487
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.014452904519533962
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 615,
+      "priceBtc": 0.0014111400972095772
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006291412636515636
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/TomPlum/activity-trends/pull/32",
-      "createdAt": "2026-06-30T03:40:16Z"
-    },
-    {
-      "title": "On-policy joint-choice Non-Combat improvement under frozen potion-enabled Search",
-      "url": "https://github.com/lsmfttb/spire-research/issues/60",
-      "createdAt": "2026-10-16T04:02:07Z"
-    },
-    {
-      "title": "⬆️ Update dependency @lucide/svelte to v1.57.0",
-      "url": "https://github.com/Phyrone/phyrone.de/pull/1583",
-      "createdAt": "2026-09-10T18:47:44Z"
+      "title": "refactor(routes): audit and mount orphaned backend routers in server.js",
+      "url": "https://github.com/Emmy123222/Stellar-MarketPay-/pull/1932",
+      "createdAt": "2026-10-17T10:49:32Z"
     },
     {
       "title": "feat: bonding-curve game modes (PVE/PVP/TRENCH) + swap gas optimisation + DISCIPLE audit fixes",
@@ -290,9 +280,19 @@
       "createdAt": "2026-10-17T09:32:43Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
+    },
+    {
+      "title": "Phone-only soak recorder in the METRICS panel (PHONE TEST)",
+      "url": "https://github.com/brycejmurrin/f1-game/pull/2700",
+      "createdAt": "2026-10-17T10:40:47Z"
     }
   ]
 }
