@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T00:20:10.368Z",
-  "latencyMs": 1307,
+  "executedAt": "2026-10-17T00:22:45.158Z",
+  "latencyMs": 314,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #346: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #347: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52703531,
+    "liveBlockNumber": 52703608,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 284087,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CM8xgkNPNafY17LjMq1YLxLw7nyyQE3M69EsaGwMEUXj",
+        "description": "An asymptotic bonding curve on Solana: mint and burn against a SOL reserve then it bonds into Meteora at exactly 21M supply.",
+        "url": "https://dexscreener.com/solana/cm8xgknpnafy17ljmq1ylxlw7nyyqe3m69esagwmeuxj"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3arK71TKx2R91FPxd6SGqVJB1zYsoHZc5TrbM7HZpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "3zyiz6ro2vH6B9CyxBMTzRf96vGCqPuVq44KnEsEpump",
         "description": "Bringing back the American Dream",
         "url": "https://dexscreener.com/solana/3zyiz6ro2vh6b9cyxbmtzrf96vgcqpuvq44knesepump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HyPjJLdt3pFJ6YBf9JNnqUvKGxjt3LNb8yi2WTgDpump",
-        "description": "These kids stoned a snapping turtle to death and it is going viral on Facebook.",
-        "url": "https://dexscreener.com/solana/hypjjldt3pfj6ybf9jnnquvkgxjt3lnb8yi2wtgdpump"
       }
     ]
   },
