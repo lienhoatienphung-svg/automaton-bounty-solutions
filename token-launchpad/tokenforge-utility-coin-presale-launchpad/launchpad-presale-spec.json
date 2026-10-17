@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T12:44:03.118Z",
-  "latencyMs": 459,
+  "executedAt": "2026-10-17T12:57:18.366Z",
+  "latencyMs": 335,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #455: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #456: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52725847,
+    "liveBlockNumber": 52726245,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 455637,
-    "baseMainnetTopPoolsVolume24hUsd": 223033,
+    "baseMainnetTopPoolsLiquidityUsd": 455641,
+    "baseMainnetTopPoolsVolume24hUsd": 225245,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "expTxePMTuqfEzBAfkS3QYV7dVHm8UFrDLXjfwhPNTH",
+        "description": "Launch a token with a floor its holders can redeem.",
+        "url": "https://dexscreener.com/solana/exptxepmtuqfezbafks3qyv7dvhm8ufrdlxjfwhpnth"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x2eef2a627ac024cb9f545f6193b1940f0416a1de",
+        "description": "Covenant x402 payment rails for agents.\n\nPaid endpoints in USDG over x402 — instant settlement on Robinhood Chain. The same gateway brokers agent credentials th",
+        "url": "https://dexscreener.com/robinhood/0x2eef2a627ac024cb9f545f6193b1940f0416a1de"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3HYCNHiZ4hVrsNv2YrVkaHgXfr47cNxGSNYA6wRfpump",
+        "description": "France is burning, France is revolting. Join the movement. Join $RIOT. 🔥",
+        "url": "https://dexscreener.com/solana/3hycnhiz4hvrsnv2yrvkahgxfr47cnxgsnya6wrfpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4x3554qe9R2j2cwp59gTEZ2zLk3m15vYnjPMazcYNULL",
@@ -63,24 +81,6 @@
         "tokenAddress": "7VzWURCfosjxvT7KKM9gib5CzqnCg4vKU2UobGp3pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/7vzwurcfosjxvt7kkm9gib5czqncg4vku2uobgp3pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "82C26qv9bB63sM8ei7HP2uVMDPPVWzgSs8ak9PTcBAmo",
-        "description": "THE INTERNET'S MOST INTELLIGENT INU",
-        "url": "https://dexscreener.com/solana/82c26qv9bb63sm8ei7hp2uvmdppvwzgss8ak9ptcbamo"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6LEE8VtuiKBNkFmZ4SdcvgQWmiyGwwG4UAcZXwgXpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6lee8vtuikbnkfmz4sdcvgqwmiygwwg4uaczxwgxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4DjAddbyZtwvMW41SMcUAXWDZq8bkGEcAXwz5YHMpump",
-        "description": "Every buy comes with a receipt. Changed your mind before the return period ends? Take it back and get every SOL you paid for the tokens. And nobody, not even th",
-        "url": "https://dexscreener.com/solana/4djaddbyztwvmw41smcuaxwdzq8bkgecaxwz5yhmpump"
       }
     ]
   },
