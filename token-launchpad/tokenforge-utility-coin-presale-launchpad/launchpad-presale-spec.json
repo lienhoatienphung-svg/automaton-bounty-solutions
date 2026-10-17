@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T06:12:43.084Z",
-  "latencyMs": 262,
+  "executedAt": "2026-10-17T06:24:39.732Z",
+  "latencyMs": 339,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #399: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #400: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52714107,
+    "liveBlockNumber": 52714466,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 273835,
+    "baseMainnetTopPoolsVolume24hUsd": 273107,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6S77uAJNz4gPgfQ5dhfzhoVR8zZ7tFr1usCYdLSbpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6s77uajnz4gpgfq5dhfzhovr8zz7tfr1uscydlsbpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x152f7613f362Abf1C05DB2EF2D6ef220302bf840",
+        "description": "MAG7 is a Bankr index on Robinhood Chain: one token backed 1:1 by Robinhood stock tokens for NVDA, META, AAPL, AMZN, GOOGL, TSLA and MSFT. Buying on Bankr mints",
+        "url": "https://dexscreener.com/robinhood/0x152f7613f362abf1c05db2ef2d6ef220302bf840"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x96672e7a2b855f9977c7f82fb91aca92e5e68a92",
@@ -69,18 +81,6 @@
         "tokenAddress": "3PqPi8Ejxpe3dC9547sWddDKoNLrnCfGfwdrFTRepump",
         "description": "Antefolio records the token, timestamp and thesis before the outcome.  \n\nFollow Solana launches. Make a callout. Get rewarded.",
         "url": "https://dexscreener.com/solana/3pqpi8ejxpe3dc9547swdddkonlrncfgfwdrftrepump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GqhHJcbcJDmkR7N52anVTqvAaS2bW9w6BTV6x7a5pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/gqhhjcbcjdmkr7n52anvtqvaas2bw9w6btv6x7a5pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GFhszS7cFM4xmcfT4tBCSwcLHWAwj4yXhSwuTXKYpump",
-        "description": "Singularity Labs explores the space where artificial intelligence, cryptography, and decentralized computing meet.",
-        "url": "https://dexscreener.com/solana/gfhszs7cfm4xmcft4tbcswclhwawj4yxhswutxkypump"
       }
     ]
   },
