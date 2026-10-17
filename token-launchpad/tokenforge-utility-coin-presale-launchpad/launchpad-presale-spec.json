@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T01:15:39.825Z",
-  "latencyMs": 351,
+  "executedAt": "2026-10-17T01:18:00.527Z",
+  "latencyMs": 418,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #354: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #355: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52705196,
+    "liveBlockNumber": 52705266,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 284572,
+    "baseMainnetTopPoolsVolume24hUsd": 284520,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xEB579e280648B6f48A840086A9e6631500A20684",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0xeb579e280648b6f48a840086a9e6631500a20684"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "A6Gk99cY86ir38nbL9WBZ67G3hyVjNx7jmx8oDcspump",
+        "description": "Flying MAGA Roadster ($FMR) takes meme power sky-high with roaring engines, red-white-blue energy, and a wild ride across the Solana universe.",
+        "url": "https://dexscreener.com/solana/a6gk99cy86ir38nbl9wbz67g3hyvjnx7jmx8odcspump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7tdX2xCUdH7aKRAtzpZ1gtipkJNzB7QMyimksn5ByCzX",
@@ -69,18 +81,6 @@
         "tokenAddress": "8XeEkeGfuaMWbpxuYtxrTL62nmN9bT7DEBMyEHnvpump",
         "description": "Tesla's Flying scooter called Sidester, Tesla engineer posted on X",
         "url": "https://dexscreener.com/solana/8xeekegfuamwbpxuytxrtl62nmn9bt7debmyehnvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Atvvy7bkaZLx1ErMrppqv2bHENi6sJrRRkXwhjDupump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/atvvy7bkazlx1ermrppqv2bheni6sjrrrkxwhjdupump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3Tg6oYBymvbs9pfC5dXBmdf6QGm5z3TmYrfpXdoSpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3tg6oybymvbs9pfc5dxbmdf6qgm5z3tmyrfpxdospump"
       }
     ]
   },
