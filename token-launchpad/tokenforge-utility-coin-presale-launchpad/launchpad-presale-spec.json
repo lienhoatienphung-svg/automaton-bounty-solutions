@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T13:55:49.615Z",
-  "latencyMs": 264,
+  "executedAt": "2026-10-17T14:08:50.841Z",
+  "latencyMs": 353,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #465: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #466: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52728001,
+    "liveBlockNumber": 52728391,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 455649,
-    "baseMainnetTopPoolsVolume24hUsd": 220695,
+    "baseMainnetTopPoolsVolume24hUsd": 222527,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8uB7cqv26jXLBeWvygGEmTpAaQG4z3fn266c36xwpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8ub7cqv26jxlbewvyggemtpaaqg4z3fn266c36xwpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FBUnhNqv3KtYtdWzQBJ2mdT5SsbL17MuzV3YhD6Lpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fbunhnqv3ktytdwzqbj2mdt5ssbl17muzv3yhd6lpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "NbW8YUUBuYVhN4qSUjU8mAqVqrQ7gATFrsngibNpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x6dDE78BbCD7662bE1f493cdE67667c80791E7120",
         "description": "Find your next big bag, the memecoin launchpad for bnb.",
         "url": "https://dexscreener.com/bsc/0x6dde78bbcd7662be1f493cde67667c80791e7120"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9dZdTSDD2WGQgP1sccrSbZFwtCjoA7MMuaxkruFypump",
-        "description": "Solana is making some huge moves in china. This Chinese Solana was predicted 1 year ago with correct name and logo.",
-        "url": "https://dexscreener.com/solana/9dzdtsdd2wgqgp1sccrsbzfwtcjoa7mmuaxkrufypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AwxaSLff7eFgcA6GzzqD8F9oNHGAfZ5mARe2eT8Zpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/awxaslff7efgca6gzzqd8f9onhgafz5mare2et8zpump"
       }
     ]
   },
