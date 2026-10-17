@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T01:26:40.533Z",
-  "latencyMs": 1175,
+  "executedAt": "2026-10-17T01:28:15.551Z",
+  "latencyMs": 1089,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #360: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
+  "workTitle": "Delivery Sprint #361: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Verify anchor tx inputs are signed by the trusted anchor pubkey",
+      "url": "https://github.com/RobGanon/bsv-ai-security/pull/21",
+      "createdAt": "2026-10-17T01:27:15Z"
+    },
+    {
+      "title": "Book fixtures with TxL and validate via worker tickets",
+      "url": "https://github.com/txodds/tx-on-chain/pull/10",
+      "createdAt": "2026-10-08T08:56:25Z"
+    },
+    {
       "title": "feat: add ux bench for tempo wallet and webauthn adapters with scored pr reports",
       "url": "https://github.com/tempoxyz/accounts/pull/887",
       "createdAt": "2026-10-17T00:42:35Z"
@@ -283,16 +293,6 @@
       "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
       "url": "https://github.com/ogabasseyy/Baci/pull/3651",
       "createdAt": "2026-10-09T07:30:01Z"
-    },
-    {
-      "title": "\"eat some food\" action",
-      "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
-      "createdAt": "2026-10-07T03:48:40Z"
-    },
-    {
-      "title": "Merge beta v6.0 into beta",
-      "url": "https://github.com/WookieeMatt/Essence20/pull/998",
-      "createdAt": "2026-10-17T01:21:59Z"
     }
   ]
 }
