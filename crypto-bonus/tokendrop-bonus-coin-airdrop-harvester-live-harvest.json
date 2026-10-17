@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T00:17:24.190Z",
-  "latencyMs": 910,
+  "executedAt": "2026-10-17T00:18:54.145Z",
+  "latencyMs": 1118,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #350: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
+  "workTitle": "Delivery Sprint #351: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
+      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
+      "createdAt": "2026-10-09T07:30:01Z"
+    },
+    {
+      "title": "Faucet: real RSN payout (faucet pays fees, one fill per wallet per 4h)",
+      "url": "https://github.com/caaconwinner/RSN/pull/4",
+      "createdAt": "2026-10-16T23:03:52Z"
+    },
+    {
+      "title": "Version checks without vercmp, and the receiver's own interpreter, in both stacks (follow-up to #53)",
+      "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/77",
+      "createdAt": "2026-10-17T00:09:49Z"
+    },
+    {
+      "title": "[DSV4][Spec] DSPARK verify-merged mixed step, deterministic C4 top-k ties, eager ragged indexer",
+      "url": "https://github.com/sgl-project/sglang/pull/41893",
+      "createdAt": "2026-09-30T13:23:59Z"
+    },
+    {
       "title": "Suunto Ocean and Nautic support",
       "url": "https://github.com/deepsealabs/libdc-swift/issues/29",
       "createdAt": "2026-08-28T16:22:32Z"
@@ -273,26 +293,6 @@
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Release 0.17.2: Figma-style collaborative canvas, refined notch layout, and compact smoking counter",
-      "url": "https://github.com/theShyamsindhia/ALO/pull/18",
-      "createdAt": "2026-10-01T20:24:45Z"
-    },
-    {
-      "title": "docs: sincronizar .env.example de frontend e indexer con las variables que el código realmente lee",
-      "url": "https://github.com/David1984TK/Bimex/issues/400",
-      "createdAt": "2026-10-13T21:41:39Z"
-    },
-    {
-      "title": "test(indexer): endpoints GET /backers/:address/aportaciones y GET /impacto sin tests",
-      "url": "https://github.com/David1984TK/Bimex/issues/395",
-      "createdAt": "2026-10-13T21:41:31Z"
-    },
-    {
-      "title": "Implement Reliable Offline Tebex Purchase Fulfillment and Reward Recovery",
-      "url": "https://github.com/LiamBMX/joshymc-plugin/issues/1175",
-      "createdAt": "2026-10-17T00:13:22Z"
     }
   ]
 }
