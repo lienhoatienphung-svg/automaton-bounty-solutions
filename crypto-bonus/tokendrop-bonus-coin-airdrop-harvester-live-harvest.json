@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T15:39:14.232Z",
-  "latencyMs": 1010,
+  "executedAt": "2026-10-17T15:53:26.811Z",
+  "latencyMs": 889,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #483: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #484: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,30 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "robinhood",
+      "tokenAddress": "0xA6D1AA76bad61f453636e40d048DD07FeC35aE68",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Creators earn 80%. The protocol buys back & burns with 20%.",
+      "url": "https://dexscreener.com/robinhood/0xa6d1aa76bad61f453636e40d048dd07fec35ae68"
+    },
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0x93E7a34dB439a3371D4149eB9e6794343312D4F2",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Howl is the onchain intelligence and safety layer for traders on Robinhood Chain.\n\nHowl SI is an AI agent that watches your wallet onchain: the dev, the top hol",
+      "url": "https://dexscreener.com/robinhood/0x93e7a34db439a3371d4149eb9e6794343312d4f2"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "GZw7LxHtQKSQ1YsGnpNH7SovnBF8X6poYgavHwrmRekp",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "The Mask stays On.\n\nHold MaskCat to earn Mask, hold Mask you earn ZEC.",
+      "url": "https://dexscreener.com/solana/gzw7lxhtqksq1ysgnpnh7sovnbf8x6poygavhwrmrekp"
+    },
+    {
+      "chainId": "robinhood",
       "tokenAddress": "0x2EeF2A627ac024cB9f545F6193b1940F0416a1dE",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -186,113 +210,89 @@
       "totalBoostAmount": 100,
       "description": "The alter ego and mascot of Grok",
       "url": "https://dexscreener.com/ethereum/0x787873c9ae96855bdb032f6ff1ef76a5e1fc8adc"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "6hjaMcRPvB4DEGpHqgHxmgipb2vrGQWMewZBAVSLpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "This aint no state property",
-      "url": "https://dexscreener.com/solana/6hjamcrpvb4degphqghxmgipb2vrgqwmewzbavslpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "KVjKrtzwFKmocPVoYVswKUbxTkNuuCKeJ4r8688pump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/kvjkrtzwfkmocpvoyvswkubxtknuuckej4r8688pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "9H8iVVQycrmhMRQTFie6ZrdUgid8iye7Z78pJrn8pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/9h8ivvqycrmhmrqtfie6zrdugid8iye7z78pjrn8pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 105,
+      "priceBtc": 0.00002092769557345318
+    },
+    {
       "name": "Starknet",
       "symbol": "STRK",
-      "marketCapRank": 113,
-      "priceBtc": 8.188156177860534e-7
+      "marketCapRank": 115,
+      "priceBtc": 8.053570573436583e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 618,
-      "priceBtc": 0.0013927841307193442
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 105,
-      "priceBtc": 0.00002062447036722437
+      "marketCapRank": 617,
+      "priceBtc": 0.0013883899068229298
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 29,
-      "priceBtc": 0.000012105265840388369
+      "priceBtc": 0.000012056075954537994
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.000060963616665044616
+      "priceBtc": 0.00006054686158702437
     },
     {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 101,
-      "priceBtc": 0.000008059016892071965
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.170915056466376e-8
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 89,
-      "priceBtc": 0.00003847884558087664
+      "priceBtc": 0.00003804788205531982
     },
     {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010410234136429549
+      "name": "Plasma",
+      "symbol": "XPL",
+      "marketCapRank": 129,
+      "priceBtc": 9.845905238779917e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "LF-168 · NFT tokens don't record which milestone they represent",
+      "url": "https://github.com/Stellar-songifi/lyricsflip/issues/654",
+      "createdAt": "2026-10-15T16:41:47Z"
+    },
+    {
+      "title": "[Bugfix] Fix biased sampling after a grammar-rejected draft in probablistic spec decode",
+      "url": "https://github.com/vllm-project/vllm/pull/60690",
+      "createdAt": "2026-10-08T18:22:28Z"
+    },
+    {
+      "title": "feat(manager): pay for registrations with USDC bridged in from an L2",
+      "url": "https://github.com/ensdomains/apps-monorepo/pull/1395",
+      "createdAt": "2026-10-16T19:16:49Z"
+    },
+    {
+      "title": "ssf-p2p-node: one chain-access seam over the gateway (S-0 step 1, #231 P7 phase 0)",
+      "url": "https://github.com/Bella-Addormentata/StarStationFurlong/pull/270",
+      "createdAt": "2026-10-17T15:50:37Z"
+    },
     {
       "title": "test: add automated cross-chain verification (unit + on-chain config checks)",
       "url": "https://github.com/Ellenp2p/Xansfer-Chain/pull/11",
       "createdAt": "2026-10-17T15:38:57Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Add Simplified Chinese (zh-Hans) localization",
-      "url": "https://github.com/monuk7735/mew-notch/pull/57",
-      "createdAt": "2026-09-20T11:17:32Z"
-    },
-    {
-      "title": "Add RustCore Wallet",
-      "url": "https://github.com/massalabs/wallet-provider/pull/366",
-      "createdAt": "2026-10-07T14:07:12Z"
-    },
-    {
-      "title": "fix(wallet): report uncertain Solana transfer states to reduce risky retries",
-      "url": "https://github.com/elizaOS/eliza/pull/36706",
-      "createdAt": "2026-10-17T15:31:52Z"
-    },
-    {
-      "title": "Homepage refresh + design system/QA + advanced search & onboarding",
-      "url": "https://github.com/charanpendota98-prog/shubhalagnam/pull/18",
-      "createdAt": "2026-10-15T12:18:48Z"
+      "title": "Update dependency lucide to v1",
+      "url": "https://github.com/michielvha/image-resizer/pull/9",
+      "createdAt": "2026-03-31T11:38:03Z"
     }
   ]
 }
