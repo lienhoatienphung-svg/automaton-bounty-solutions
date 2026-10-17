@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T13:26:08.613Z",
-  "latencyMs": 334,
+  "executedAt": "2026-10-17T13:27:44.162Z",
+  "latencyMs": 465,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #460: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
+  "workTitle": "Delivery Sprint #461: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52727110,
+    "liveBlockNumber": 52727158,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 455642,
-    "baseMainnetTopPoolsVolume24hUsd": 223242,
+    "baseMainnetTopPoolsVolume24hUsd": 223195,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9dZdTSDD2WGQgP1sccrSbZFwtCjoA7MMuaxkruFypump",
+        "description": "Solana is making some huge moves in china. This Chinese Solana was predicted 1 year ago with correct name and logo.",
+        "url": "https://dexscreener.com/solana/9dzdtsdd2wgqgp1sccrsbzfwtcjoa7mmuaxkrufypump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "AwxaSLff7eFgcA6GzzqD8F9oNHGAfZ5mARe2eT8Zpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
         "description": "A playable game inside every contract.",
         "url": "https://dexscreener.com/solana/glx4xzv2e8iuaf2ux94hl5agrmrknuxcjtgwzmmzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3tB21ZDN1VC58jxUHW8Q2v9xhRrpjLmU4zRV1PZXaMMx",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3tb21zdn1vc58jxuhw8q2v9xhrrpjlmu4zrv1pzxammx"
       }
     ]
   },
