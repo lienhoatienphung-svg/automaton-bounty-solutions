@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T06:53:38.669Z",
-  "latencyMs": 863,
+  "executedAt": "2026-10-17T07:05:34.148Z",
+  "latencyMs": 815,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #409: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #410: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "DfbhY8XtNc317jpSEJDQejLD83QUMHtBzyn9EjgSTWGW",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/dfbhy8xtnc317jpsejdqejld83qumhtbzyn9ejgstwgw"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "DKfHUe6apudnNCzvLQenNJWsy9FEviLWk5thif25pump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "BTC, ETH & SOL perps on Solana. Up to 1,000× leverage.",
       "url": "https://dexscreener.com/solana/emorr2dmqspazx7yxymyhz2skgwhdsyfh6v1ydrepump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DT9izTQ3viAwXb3xdLsJnSn3gxLa5fUxXxTwQvGpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "The official token of Playset (playset dot cards). Playset pools graded trading-card slabs vaulted by Collector Crypt, one card at one grade, so anyone can own ",
-      "url": "https://dexscreener.com/solana/dt9iztq3viawxb3xdlsjnsn3gxla5fuxxxtwqvgpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 717,
+      "marketCapRank": 715,
       "priceBtc": 3.211198411121736e-7
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 616,
+      "priceBtc": 0.0014133198629472479
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 92,
-      "priceBtc": 0.000009186829403396652
+      "priceBtc": 0.000009043242738046094
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9990551285456741
+      "priceBtc": 0.9988097829546685
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 106,
-      "priceBtc": 0.000020755423575726594
+      "marketCapRank": 105,
+      "priceBtc": 0.000020745538499515763
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009786361256426286
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 617,
-      "priceBtc": 0.0014137057979603787
-    },
-    {
-      "name": "Impossible Cloud Network Token",
-      "symbol": "ICNT",
-      "marketCapRank": 424,
-      "priceBtc": 0.0000026293120206803398
+      "priceBtc": 0.0009782639525168896
     },
     {
       "name": "Pons",
       "symbol": "PONS",
-      "marketCapRank": 178,
-      "priceBtc": 0.000003915361628804997
+      "marketCapRank": 179,
+      "priceBtc": 0.000003904320792211771
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.277713130324303e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "Add Omdrop 0.18.0",
+      "url": "https://github.com/omacom/omarchy-pkgs/pull/1210",
+      "createdAt": "2026-10-17T06:48:29Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
+      "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
+      "createdAt": "2026-10-09T09:52:33Z"
     },
     {
-      "title": "Unified balance buys, native coin trading and spam filter",
-      "url": "https://github.com/rhynox-ui/kivo-mobile-app/pull/127",
-      "createdAt": "2026-10-17T06:52:43Z"
+      "title": "fix(server): wait for the mined block hash, not its height, before scanning",
+      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/397",
+      "createdAt": "2026-10-17T03:05:38Z"
     },
     {
-      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
-      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
-      "createdAt": "2026-10-12T21:43:27Z"
+      "title": "fix(speculative): clamp ragged batched DFlash accepts so Qwen 3.5 rollback leaves no phantom KV",
+      "url": "https://github.com/lablup/mlxcel/issues/2353",
+      "createdAt": "2026-10-16T00:21:37Z"
     },
     {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/descope-sample-apps/10x-crm-sample-app/pull/36",
-      "createdAt": "2026-03-26T15:05:15Z"
+      "title": "chore(deps): update dependency lucide-react to v1.59.0",
+      "url": "https://github.com/cubeshipd/cubeship/pull/80",
+      "createdAt": "2026-10-12T19:42:03Z"
     },
     {
-      "title": "bump the npm_and_yarn group across 65 directories with 3 updates",
-      "url": "https://github.com/matams/eattheblocks/pull/26",
-      "createdAt": "2026-10-17T06:51:07Z"
+      "title": "Add Muse Glimmer and Muse Glimmer Assistant to Hub",
+      "url": "https://github.com/keras-team/keras-hub/pull/3100",
+      "createdAt": "2026-09-18T15:04:44Z"
     }
   ]
 }
