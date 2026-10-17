@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T04:37:07.228Z",
-  "latencyMs": 1325,
+  "executedAt": "2026-10-17T04:38:43.477Z",
+  "latencyMs": 1090,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #388: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #389: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/Replikanti/flowlint-weblinter/pull/265",
+      "createdAt": "2026-03-26T20:39:49Z"
+    },
+    {
       "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
       "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
       "createdAt": "2026-10-07T16:13:30Z"
@@ -283,11 +288,6 @@
       "title": "Suunto Ocean and Nautic support",
       "url": "https://github.com/deepsealabs/libdc-swift/issues/29",
       "createdAt": "2026-08-28T16:22:32Z"
-    },
-    {
-      "title": "Security: app headers, operator rate limit, whitelist backup, mainnet monitor",
-      "url": "https://github.com/armanalabsai/arlcoin.io/pull/47",
-      "createdAt": "2026-10-17T04:25:28Z"
     },
     {
       "title": "動作確認用にDevelopment署名・公証なしのインストーラを作るdev-pkgターゲットを追加する",
