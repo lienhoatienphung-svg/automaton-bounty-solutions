@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T08:16:16.259Z",
-  "latencyMs": 702,
+  "executedAt": "2026-10-17T08:27:32.606Z",
+  "latencyMs": 1212,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #421: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #422: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 601644,
-      "apyBase": 6.34,
-      "apyRewardBonus": 237513.21,
-      "apyTotal": 237519.55,
+      "tvlUsd": 599856,
+      "apyBase": 6.28,
+      "apyRewardBonus": 236926.77,
+      "apyTotal": 236933.05,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 944981,
-      "apyBase": 25.23,
-      "apyRewardBonus": 183808.35,
-      "apyTotal": 183833.58,
+      "tvlUsd": 947120,
+      "apyBase": 25.41,
+      "apyRewardBonus": 182345.34,
+      "apyTotal": 182370.75,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -44,10 +44,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1127275,
-      "apyBase": 1.26,
-      "apyRewardBonus": 85396.2,
-      "apyTotal": 85397.45,
+      "tvlUsd": 1124977,
+      "apyBase": 1.28,
+      "apyRewardBonus": 80918.1,
+      "apyTotal": 80919.38,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -55,25 +55,12 @@
     },
     {
       "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "TRUST-USDC",
-      "tvlUsd": 257926,
-      "apyBase": 80.91,
-      "apyRewardBonus": 41928.86,
-      "apyTotal": 42009.77,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
-    },
-    {
-      "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 56328,
+      "tvlUsd": 56267,
       "apyBase": 0,
-      "apyRewardBonus": 39192.89,
-      "apyTotal": 39192.89,
+      "apyRewardBonus": 39026.91,
+      "apyTotal": 39026.91,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -82,11 +69,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "TRUST-USDC",
+      "tvlUsd": 258343,
+      "apyBase": 78.75,
+      "apyRewardBonus": 12559.27,
+      "apyTotal": 12638.02,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "USDC-CBBTC",
-      "tvlUsd": 171710,
-      "apyBase": 32.93,
-      "apyRewardBonus": 6989.75,
-      "apyTotal": 7022.67,
+      "tvlUsd": 171808,
+      "apyBase": 32.11,
+      "apyRewardBonus": 6925.27,
+      "apyTotal": 6957.37,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -96,27 +96,14 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 155100,
-      "apyBase": 28.46,
-      "apyRewardBonus": 6931.63,
-      "apyTotal": 6960.09,
+      "tvlUsd": 155216,
+      "apyBase": 28.23,
+      "apyRewardBonus": 6890.82,
+      "apyTotal": 6919.04,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "80739318-c205-4177-9207-3c4322925ac6"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "FUN-USDC",
-      "tvlUsd": 277611,
-      "apyBase": 38.7,
-      "apyRewardBonus": 2700.68,
-      "apyTotal": 2739.38,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "18674a4f-57ea-4c91-99ce-ea1a2b37aa3d"
     },
     {
       "chain": "Base",
@@ -135,18 +122,47 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-CBBTC",
-      "tvlUsd": 2252366,
-      "apyBase": 64.97,
-      "apyRewardBonus": 2121.95,
-      "apyTotal": 2186.92,
+      "tvlUsd": 2246641,
+      "apyBase": 63.56,
+      "apyRewardBonus": 2265.98,
+      "apyTotal": 2329.55,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "FUN-USDC",
+      "tvlUsd": 276492,
+      "apyBase": 33.86,
+      "apyRewardBonus": 1706.27,
+      "apyTotal": 1740.13,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "18674a4f-57ea-4c91-99ce-ea1a2b37aa3d"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
+    {
+      "chainId": "solana",
+      "tokenAddress": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun",
+      "url": "https://dexscreener.com/solana/du6jbpqshzu821x1jkqtcffj4wrm34wfoixs2p8jnubl"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "AeLonprCt3y4dZEWEeRTkPqnUPW2FngSD2YeUmPP6GDk",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Elon has turned Artificial \n\nThe ticker is $AE",
+      "url": "https://dexscreener.com/solana/aelonprct3y4dzeweertkpqnupw2fngsd2yeumpp6gdk"
+    },
     {
       "chainId": "solana",
       "tokenAddress": "GULJDcpdHCvNfvKazgA5JSgjWhWMxb2adqV3M7Jzpump",
@@ -194,22 +210,6 @@
       "totalBoostAmount": 40,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/b2geskserpjucq6n4lcajp5v2z1kjnw3xhvznop2szx"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "HbvnNPAd211nDZe3SxNGWLLqDoV3USgXoqV4HdaBS6Wb",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Welcome to DownTown! Where you get paid to lose! Every 3 hours the top 5 wallets with the worst PnLs get paid in Solana rewards! Also the top 10% of holders get",
-      "url": "https://dexscreener.com/solana/hbvnnpad211ndze3sxngwllqdov3usgxoqv4hdabs6wb"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "D9XtsMSb1LNVdVmUoWHaY8gnvFoyYVjMySkLzeyREPNj",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "MarsCat ($MARSCAT) is the first cat on Mars. He's a black cat astronaut who left Earth's red candles behind, planted a paw on the red planet and gave the chart ",
-      "url": "https://dexscreener.com/solana/d9xtsmsb1lnvdvmuowhay8gnvfoyyvjmysklzeyrepnj"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -224,75 +224,75 @@
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.014288343731542509
+      "priceBtc": 0.014265908941060574
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
-      "marketCapRank": 92,
-      "priceBtc": 0.000008921428877962132
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 105,
-      "priceBtc": 0.00002111435634242898
+      "marketCapRank": 94,
+      "priceBtc": 0.000008858858071726373
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.999051181250794
+      "priceBtc": 0.9991957402668995
     },
     {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 179,
-      "priceBtc": 0.000003870318716229727
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 105,
+      "priceBtc": 0.000021095851564269895
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.0001076984685779205
+      "priceBtc": 0.00010729537935504488
     },
     {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 111,
-      "priceBtc": 8.702634410939352e-7
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 179,
+      "priceBtc": 0.000003879775044565796
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 611,
+      "priceBtc": 0.001416783448053448
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "perf(jit): sink LICM-hoisted constants on high pressure",
-      "url": "https://github.com/alloy-rs/evm2/pull/670",
-      "createdAt": "2026-10-16T17:41:18Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/OpenVoiceOS/ovos-landing-page/pull/66",
+      "createdAt": "2026-10-02T00:55:42Z"
     },
     {
-      "title": "[功能] 传输路径自动选择：点对点 Wi-Fi 优先、局域网次级、蓝牙兜底及 UI 提示",
-      "url": "https://github.com/GHOST-AKU/wozai/issues/23",
-      "createdAt": "2026-10-12T11:07:47Z"
+      "title": "fix(deps): update frontend",
+      "url": "https://github.com/it-infra-meetup/website/pull/83",
+      "createdAt": "2026-07-31T17:41:51Z"
     },
     {
-      "title": "feat: bonding-curve game modes (PVE/PVP/TRENCH) + swap gas optimisation + DISCIPLE audit fixes",
-      "url": "https://github.com/makerlee0x/disciple/pull/75",
-      "createdAt": "2026-10-17T03:44:55Z"
+      "title": "Update lucide-react to 1.55.0",
+      "url": "https://github.com/connorgallopo/tracearr-docs/pull/49",
+      "createdAt": "2026-09-21T00:02:16Z"
     },
     {
-      "title": "chore(deps): update dependency lucide to v1",
-      "url": "https://github.com/4sllan/nuxt-feather-icons/pull/80",
-      "createdAt": "2026-07-25T03:21:32Z"
+      "title": "fix(deps): update dependency lucide-react to v1.59.0",
+      "url": "https://github.com/jellydn/ai-flow/pull/156",
+      "createdAt": "2026-09-11T11:20:02Z"
     },
     {
-      "title": "Add anytime-valid improvement auditor",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/76",
-      "createdAt": "2026-10-13T03:26:58Z"
+      "title": "fix(deps): update npm dependencies",
+      "url": "https://github.com/okaryo/koko/pull/30",
+      "createdAt": "2026-08-14T21:55:38Z"
     },
     {
-      "title": "FLOP CHATGPT HANDOFF — NEWEST COMMENT IS SOLE CURRENT AUTHORITY (historical archive preserved)",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/765",
-      "createdAt": "2026-10-06T05:27:29Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/voku/LinkedInBadge/pull/16",
+      "createdAt": "2026-04-04T05:47:20Z"
     }
   ]
 }
