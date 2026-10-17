@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T22:27:15.987Z",
-  "latencyMs": 877,
+  "executedAt": "2026-10-17T22:40:10.391Z",
+  "latencyMs": 1590,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #537: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #538: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "3ZjRd8BBKMCo1ePn8tykLL5d9mM26x9dqgVrvviXpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "ai trencher. lives in this room 24/7. trades pumpfun live with his own wallet.",
+      "url": "https://dexscreener.com/solana/3zjrd8bbkmco1epn8tykll5d9mm26x9dqgvrvvixpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "FQ47SAH4xuRJArffifAbqZSX1kq3ewE3GxnLuGYypump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "🚀 PoUT Network ($POUT) — Proof of Useful Traffic\n\nWhy waste computing power when network traffic could do useful work?\n\nPoUT is an experimental Rust-based proj",
+      "url": "https://dexscreener.com/solana/fq47sah4xurjarffifabqzsx1kq3ewe3gxnlugyypump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "$P6900 Rewards holders who are holding a minimum of 1 million Pump6900",
       "url": "https://dexscreener.com/solana/guljdcpdhcvnfvkazga5jsgjwhwmxb2adqv3m7jzpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "4by8accPvdRcmDEvJy1svdSJMwfVcNGyWqgQw9EPpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Cate Pepe. \n\nWe all know cate’s are Doge’s",
-      "url": "https://dexscreener.com/solana/4by8accpvdrcmdevjy1svdsjmwfvcngywqgqw9eppump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8zMqKceqftmjAZaxua6FddpWbQjoLoeWArg4UYBNpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "PHONK™\nCreated by MXZI, ATLXS and ALZEEZ. A music-powered memecoin building a private dashboard for holders.",
-      "url": "https://dexscreener.com/solana/8zmqkceqftmjazaxua6fddpwbqjoloewarg4uybnpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 101,
-      "priceBtc": 0.000022681350832931413
+      "marketCapRank": 100,
+      "priceBtc": 0.00002273646944024264
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9990097906169346
+      "priceBtc": 0.9995513283729798
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00005989318314818341
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 117,
-      "priceBtc": 7.933338661026199e-7
-    },
-    {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012631148683492142
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 40,
-      "priceBtc": 0.0023981889386090775
+      "priceBtc": 0.000059841290156828664
     },
     {
       "name": "Ondo",
       "symbol": "ONDO",
       "marketCapRank": 48,
-      "priceBtc": 0.000005360382782977017
+      "priceBtc": 0.000005367196233161422
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 40,
+      "priceBtc": 0.002407935190900062
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.0012650393637197517
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 117,
+      "priceBtc": 7.907309375725477e-7
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 89,
-      "priceBtc": 0.00003828972163347512
+      "priceBtc": 0.00003853480933128198
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Add iPhone and iPad Strike Companion",
-      "url": "https://github.com/Coober666/strike-pro-remapper/pull/75",
-      "createdAt": "2026-10-17T20:20:24Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "Рефералка: уведомление пригласившему о награде (после #116 и #574)",
-      "url": "https://github.com/ChaoticMelnik/binarius/issues/576",
-      "createdAt": "2026-10-16T23:25:47Z"
-    },
-    {
-      "title": "S-0 steps 2–3: Chia peer lane replaces the coinset gateway",
-      "url": "https://github.com/Bella-Addormentata/StarStationFurlong/pull/271",
-      "createdAt": "2026-10-17T17:35:23Z"
-    },
-    {
-      "title": "#576: the inviter's reward notification through the mailing engine",
-      "url": "https://github.com/ChaoticMelnik/binarius/pull/642",
-      "createdAt": "2026-10-17T22:25:00Z"
-    },
-    {
-      "title": "feat(rpc): ordered upstream fallback for /api/rpc and server Connection (dead Helius key)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3563",
-      "createdAt": "2026-10-17T22:23:59Z"
+      "title": "Backfill historical formal reports and alert archives",
+      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/issues/1",
+      "createdAt": "2026-09-03T10:50:04Z"
     },
     {
       "title": "feat(scripts): setup_wallets creates keys in .env and prints balances (Task 1A.1)",
       "url": "https://github.com/sarmadahsan/pay-guard/pull/50",
       "createdAt": "2026-10-17T22:23:19Z"
+    },
+    {
+      "title": "Add a local faucet for devnet",
+      "url": "https://github.com/Smartdevs17/stellarlend/issues/1447",
+      "createdAt": "2026-10-17T09:00:45Z"
+    },
+    {
+      "title": "Draft: continuity ledger, canon fixes, and staged 10k chapter expansion",
+      "url": "https://github.com/danielmartinez-maker/TheSEARemembers/pull/103",
+      "createdAt": "2026-10-14T03:22:20Z"
+    },
+    {
+      "title": "[Wallet Rewards] Latest eligibility",
+      "url": "https://github.com/oguzpoyrazyasin/poyraz/issues/5",
+      "createdAt": "2026-09-21T21:54:47Z"
     }
   ]
 }
