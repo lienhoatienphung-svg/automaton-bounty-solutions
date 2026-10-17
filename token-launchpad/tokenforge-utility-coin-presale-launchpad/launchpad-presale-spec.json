@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T06:38:13.192Z",
-  "latencyMs": 575,
+  "executedAt": "2026-10-17T06:39:45.301Z",
+  "latencyMs": 436,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #402: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #403: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52714872,
+    "liveBlockNumber": 52714918,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 271158,
+    "baseMainnetTopPoolsVolume24hUsd": 270950,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8q8k8fCTtTQbqqeQfrxpmkPtyRw8UqiSb8gArcpspump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8q8k8fctttqbqqeqfrxpmkptyrw8uqisb8garcpspump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4eb6fecpGH1bVGseEDHC29ZGZYYWi91FJAo2KdxRpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "rVWG97Yj6ZbuF9zeQo8TosQG6mUcUeL8BocfHu3pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/rvwg97yj6zbuf9zeqo8tosqg6mucuel8bocfhu3pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4egapru4zMUtjNuNqr66gn9CukWqPoeyeWbxH1Jxpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4egapru4zmutjnunqr66gn9cukwqpoeyewbxh1jxpump"
       }
     ]
   },
