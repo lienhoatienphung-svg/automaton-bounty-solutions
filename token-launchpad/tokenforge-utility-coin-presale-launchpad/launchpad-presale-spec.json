@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T05:58:55.817Z",
-  "latencyMs": 408,
+  "executedAt": "2026-10-17T06:11:00.347Z",
+  "latencyMs": 378,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #397: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #398: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52713694,
+    "liveBlockNumber": 52714056,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 269345,
+    "baseMainnetTopPoolsVolume24hUsd": 273734,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x96672e7a2b855f9977c7f82fb91aca92e5e68a92",
+        "description": "🐸 Hopkin Green Frog: Lost in 2003, discovered by the internet in 2004. A child’s handwritten poster searching for a lost frog became an obscure piece of intern",
+        "url": "https://dexscreener.com/robinhood/0x96672e7a2b855f9977c7f82fb91aca92e5e68a92"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xA1809D8ccB32980d173CC008aDf3aE78D2fc18d7",
+        "description": "🎩🍭 Welcome to the world of Wheelie Wonka.\nA world of pure imagination. An everlasting spin.",
+        "url": "https://dexscreener.com/robinhood/0xa1809d8ccb32980d173cc008adf3ae78d2fc18d7"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "rVWG97Yj6ZbuF9zeQo8TosQG6mUcUeL8BocfHu3pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/rvwg97yj6zbuf9zeqo8tosqg6mucuel8bocfhu3pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4egapru4zMUtjNuNqr66gn9CukWqPoeyeWbxH1Jxpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "GFhszS7cFM4xmcfT4tBCSwcLHWAwj4yXhSwuTXKYpump",
         "description": "Singularity Labs explores the space where artificial intelligence, cryptography, and decentralized computing meet.",
         "url": "https://dexscreener.com/solana/gfhszs7cfm4xmcft4tbcswclhwawj4yxhswutxkypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9aeZXv7DkZDtmLsm53x3YkYswsarg6sszTXm6rPzpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9aezxv7dkzdtmlsm53x3ykyswsarg6ssztxm6rpzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8gfTMmfHoD6PnrWuZ3KsRLNQKahLamy5MTQVNejApump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8gftmmfhod6pnrwuz3ksrlnqkahlamy5mtqvnejapump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CQtdrkMGyubaBVWea4ofrJB3B4ivMAohAHdeBAXbpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/cqtdrkmgyubabvwea4ofrjb3b4ivmaohahdebaxbpump"
       }
     ]
   },
