@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T12:06:13.582Z",
-  "latencyMs": 731,
+  "executedAt": "2026-10-17T12:17:51.579Z",
+  "latencyMs": 520,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #433: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #434: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "New license request: Autonomous Commons Dedication 1.0 (ACD-1.0)",
-          "url": "https://github.com/aboutcode-org/scancode-toolkit/issues/5368",
-          "repositoryUrl": "https://api.github.com/repos/aboutcode-org/scancode-toolkit",
-          "updatedAt": "2026-10-17T12:06:09Z"
-        },
-        {
-          "title": "fix(WLK-330): reject stale Workspace Task notes saves",
-          "url": "https://github.com/scwlkr/openjob/pull/100",
-          "repositoryUrl": "https://api.github.com/repos/scwlkr/openjob",
-          "updatedAt": "2026-10-17T12:06:06Z"
-        },
-        {
-          "title": "fix(ask): restore completed hearing destinations after reload",
-          "url": "https://github.com/famaoai-creator/kyberion/pull/1131",
-          "repositoryUrl": "https://api.github.com/repos/famaoai-creator/kyberion",
-          "updatedAt": "2026-10-17T12:06:06Z"
-        },
-        {
-          "title": "fix(approval): review findings on the 1.22 origin classes and flow trust",
-          "url": "https://github.com/tinyhumansai/tinysecurity/pull/32",
-          "repositoryUrl": "https://api.github.com/repos/tinyhumansai/tinysecurity",
-          "updatedAt": "2026-10-17T12:06:05Z"
-        },
-        {
-          "title": "fix(tools): publish file writes atomically instead of truncating in place",
-          "url": "https://github.com/Twigpine/zero/pull/1159",
-          "repositoryUrl": "https://api.github.com/repos/Twigpine/zero",
-          "updatedAt": "2026-10-17T12:06:05Z"
-        },
-        {
-          "title": "Fail closed when sentinel recovery loses signed run identity",
-          "url": "https://github.com/akaszubski/autonomous-dev/issues/1807",
-          "repositoryUrl": "https://api.github.com/repos/akaszubski/autonomous-dev",
-          "updatedAt": "2026-10-17T12:06:05Z"
-        },
-        {
-          "title": "Retry patient access and restore expired sessions",
-          "url": "https://github.com/AshishBisht5907/LifeLink-Healthcare/pull/12",
-          "repositoryUrl": "https://api.github.com/repos/AshishBisht5907/LifeLink-Healthcare",
-          "updatedAt": "2026-10-17T12:06:04Z"
-        },
-        {
-          "title": "feat(agent-mcp): open every MCP session through the MCP client v2 (#3546)",
-          "url": "https://github.com/woojubb/robota/pull/3548",
-          "repositoryUrl": "https://api.github.com/repos/woojubb/robota",
-          "updatedAt": "2026-10-17T12:06:04Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
