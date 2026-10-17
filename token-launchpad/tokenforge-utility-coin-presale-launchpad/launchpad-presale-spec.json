@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T16:09:01.612Z",
-  "latencyMs": 370,
+  "executedAt": "2026-10-17T16:11:03.856Z",
+  "latencyMs": 254,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #482: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #483: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52731997,
+    "liveBlockNumber": 52732058,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 455650,
-    "baseMainnetTopPoolsVolume24hUsd": 213506,
+    "baseMainnetTopPoolsVolume24hUsd": 213478,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9beC7MT5BTpV7ujYd38oAKEvk2czzWWZC6iQuia4pump",
+        "description": "$NOLVEN is the token of Nolven on Solana. Nolven gives creators a shared 3D canvas to build multiplayer spaces, script interactive objects, and add AI character",
+        "url": "https://dexscreener.com/solana/9bec7mt5btpv7ujyd38oakevk2czzwwzc6iquia4pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GymtcD8viGLKQpXeUQRKY1tAMrL8JkQAhZCPEjGNpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gymtcd8viglkqpxeuqrky1tamrl8jkqahzcpejgnpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "GDSb8cH8kZW8bqSHwJKTys4QZ8CcU6ApYLBmNjyopump",
@@ -69,18 +81,6 @@
         "tokenAddress": "361QLKysXNmXMsk5exDFW31eD8CeuZk2UfH1vSpjpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/361qlkysxnmxmsk5exdfw31ed8ceuzk2ufh1vspjpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2u7CppZjqGmWCLReWBHkmLtfrZWu16fNc7nw3HMopump",
-        "description": "Impact france that's running does 0 for the protests\n\nAnd Gilet is the WHOLE movement regardless of the \"suit\"",
-        "url": "https://dexscreener.com/solana/2u7cppzjqgmwclrewbhkmltfrzwu16fnc7nw3hmopump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HL97PPaT1BzdbF5nddnWYHbsonRuqR3PMBA3VTmapump",
-        "description": "ape inu",
-        "url": "https://dexscreener.com/solana/hl97ppat1bzdbf5nddnwyhbsonruqr3pmba3vtmapump"
       }
     ]
   },
