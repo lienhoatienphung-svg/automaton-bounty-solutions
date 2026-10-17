@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T04:01:24.277Z",
-  "latencyMs": 1350,
+  "executedAt": "2026-10-17T04:12:31.783Z",
+  "latencyMs": 718,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #363: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #364: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "fix(deps): update all non-major dependencies",
-          "url": "https://github.com/moeru-ai/hf-inspector/pull/1",
-          "repositoryUrl": "https://api.github.com/repos/moeru-ai/hf-inspector",
-          "updatedAt": "2026-10-17T04:01:17Z"
+          "title": "fix(ops): Mac agent SSH into smdqcia-pc (WSL + Windows)",
+          "url": "https://github.com/cloudsysops/opsly/pull/1701",
+          "repositoryUrl": "https://api.github.com/repos/cloudsysops/opsly",
+          "updatedAt": "2026-10-17T04:12:28Z"
         },
         {
-          "title": "agent-list-recovery-LENDBACK1：出借实现（第 0 轮）",
-          "url": "https://github.com/shawnlu96/claudestra/pull/1715",
-          "repositoryUrl": "https://api.github.com/repos/shawnlu96/claudestra",
-          "updatedAt": "2026-10-17T04:01:16Z"
-        },
-        {
-          "title": "When using multiline examples the docs generator breaks",
-          "url": "https://github.com/SkriptLang/Skript/issues/8383",
-          "repositoryUrl": "https://api.github.com/repos/SkriptLang/Skript",
-          "updatedAt": "2026-10-17T04:01:15Z"
-        },
-        {
-          "title": "refactor(mcp): trim descriptions and enforce catalog budgets",
-          "url": "https://github.com/vouchington/vouchington/pull/2999",
+          "title": "perf(sql): select base candidates before remaining view reads",
+          "url": "https://github.com/vouchington/vouchington/pull/3018",
           "repositoryUrl": "https://api.github.com/repos/vouchington/vouchington",
-          "updatedAt": "2026-10-17T04:01:18Z"
+          "updatedAt": "2026-10-17T04:12:27Z"
         },
         {
-          "title": "[$250] Inbox - Marking all as read does not clear unread chats and unread markers",
-          "url": "https://github.com/Expensify/App/issues/101684",
-          "repositoryUrl": "https://api.github.com/repos/Expensify/App",
-          "updatedAt": "2026-10-17T04:01:14Z"
+          "title": "feat(skills): surface form-created project skills everywhere (KRTX-2543)",
+          "url": "https://github.com/kortix-ai/suna/pull/10110",
+          "repositoryUrl": "https://api.github.com/repos/kortix-ai/suna",
+          "updatedAt": "2026-10-17T04:12:25Z"
         },
         {
-          "title": "[Control] Record approved thick-packet grants through an authorized writer",
-          "url": "https://github.com/LouPineWays/Loop-Dee-Loup/issues/1214",
-          "repositoryUrl": "https://api.github.com/repos/LouPineWays/Loop-Dee-Loup",
-          "updatedAt": "2026-10-17T04:01:13Z"
+          "title": "feat(eval): add cuecal eval runner with per-field accuracy and comparison tables",
+          "url": "https://github.com/116-Labs/cuecal/pull/122",
+          "repositoryUrl": "https://api.github.com/repos/116-Labs/cuecal",
+          "updatedAt": "2026-10-17T04:12:25Z"
         },
         {
-          "title": "fix(tools): accept D handles in document_ids filters (#774)",
-          "url": "https://github.com/k-sandhu/lumen-copilot/pull/788",
-          "repositoryUrl": "https://api.github.com/repos/k-sandhu/lumen-copilot",
-          "updatedAt": "2026-10-17T04:01:13Z"
+          "title": "feat(pr-pipeline): add an AI review-dependency activity for risky Dependabot bumps",
+          "url": "https://github.com/melodic-software/claude-code-plugins/pull/7698",
+          "repositoryUrl": "https://api.github.com/repos/melodic-software/claude-code-plugins",
+          "updatedAt": "2026-10-17T04:12:24Z"
         },
         {
-          "title": "feat: 로컬·클라우드 메모리 런타임 checkpoint",
-          "url": "https://github.com/chonamdoo/agents-memory/pull/9",
-          "repositoryUrl": "https://api.github.com/repos/chonamdoo/agents-memory",
-          "updatedAt": "2026-10-17T04:01:13Z"
+          "title": "[PRE_KAREN] cluster: lanes on JetStream stage 1 (KV leases + LANES queue, library only)",
+          "url": "https://github.com/rupret007/bob-ops-dashboard/pull/71",
+          "repositoryUrl": "https://api.github.com/repos/rupret007/bob-ops-dashboard",
+          "updatedAt": "2026-10-17T04:12:23Z"
+        },
+        {
+          "title": "Add all-scanned Adobe validation and gradual DNG component hashing",
+          "url": "https://github.com/querygraph/unison/pull/2",
+          "repositoryUrl": "https://api.github.com/repos/querygraph/unison",
+          "updatedAt": "2026-10-17T04:12:23Z"
+        },
+        {
+          "title": "feat(flame-hub): track hub 0.18.0 and authup chart 0.5.1 (beta.69)",
+          "url": "https://github.com/PrivateAIM/helm/pull/207",
+          "repositoryUrl": "https://api.github.com/repos/PrivateAIM/helm",
+          "updatedAt": "2026-10-17T04:12:22Z"
         }
       ]
     },
