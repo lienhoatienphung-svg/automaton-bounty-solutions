@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T16:25:25.941Z",
-  "latencyMs": 708,
+  "executedAt": "2026-10-17T16:38:48.475Z",
+  "latencyMs": 1067,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #489: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #490: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Kodland: APAC Python (Instant B2B R",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "Fak3rJEBfR4Vb8DoFpecf6yoxbkkr1gGUH5tdj2rpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "MarsX endorsed by the creator @arikuschnir",
+      "url": "https://dexscreener.com/solana/fak3rjebfr4vb8dofpecf6yoxbkkr1gguh5tdj2rpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "Ak6t3fmzMEQDEa3YxrSG6ZL5pmphFZvtTJQktHtypump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/ak6t3fmzmeqdea3yxrsg6zl5pmphfzvttjqkthtypump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HWKD7fy3tZB2RjZnBMJgZFZLqPdST4q81WZgpn7dpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Covenant x402 payment rails for agents.\n\nPaid endpoints in USDG over x402 — instant settlement on Robinhood Chain. The same gateway brokers agent credentials th",
       "url": "https://dexscreener.com/robinhood/0x2eef2a627ac024cb9f545f6193b1940f0416a1de"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Professor Inu",
-      "url": "https://dexscreener.com/solana/7npvxgxddkgthszcwov5mcp5opna4utpzrpynxdxpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "GetLnVcK3csLW6aTb5mBTHaw9V4vN3fx9oMWQrQxpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/getlnvck3cslw6atb5mbthaw9v4vn3fx9omwqrqxpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006071456646739329
+      "priceBtc": 0.00006062101247408294
     },
     {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.000012066559633137457
+      "name": "Quack AI",
+      "symbol": "Q",
+      "marketCapRank": 107,
+      "priceBtc": 0.0000015141444199513896
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 103,
-      "priceBtc": 0.000022086407213868
+      "marketCapRank": 102,
+      "priceBtc": 0.000022486912481904616
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.014036230042253387
-    },
-    {
-      "name": "Quack AI",
-      "symbol": "Q",
-      "marketCapRank": 109,
-      "priceBtc": 0.0000014517345972087428
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.172249440767142e-8
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 38,
-      "priceBtc": 0.002455360296836185
+      "priceBtc": 0.01403899766626573
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 89,
-      "priceBtc": 0.000038208827111064925
+      "priceBtc": 0.00003818573473146236
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 621,
+      "priceBtc": 0.00138654973665849
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 29,
+      "priceBtc": 0.000012050689652528065
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 38,
+      "priceBtc": 0.0024528830155151602
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[GROK] G-024, G-025, G-026, G-027, G-078: First pets, mounts, materials, UI, gold",
-      "url": "https://github.com/Itsm00k21/Shardfall/pull/121",
-      "createdAt": "2026-10-17T16:24:51Z"
+      "title": "E2E: полный демоцикл /start → OAuth → демо-сессия → результат",
+      "url": "https://github.com/ChaoticMelnik/binarius/issues/105",
+      "createdAt": "2026-09-30T16:58:05Z"
     },
     {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
+      "title": "Fix promo banner behavior and mobile layout",
+      "url": "https://github.com/gianpaj/sexyvoice/pull/642",
+      "createdAt": "2026-10-17T16:00:31Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Installierte iOS-App: Downloads (Backup, Debug-Datei, PDF, CSV …) passieren stumm nicht",
-      "url": "https://github.com/tbdal/Perma-Design-Kit/issues/8",
-      "createdAt": "2026-10-17T16:14:03Z"
-    },
-    {
-      "title": "fix(wallet): report uncertain Solana transfer states to reduce risky retries",
-      "url": "https://github.com/elizaOS/eliza/pull/36706",
-      "createdAt": "2026-10-17T15:31:52Z"
+      "title": "Add anytime-valid improvement auditor",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/76",
+      "createdAt": "2026-10-13T03:26:58Z"
     },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "CP: mechanics waves tracker (draft, not for merge)",
+      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
+      "createdAt": "2026-10-15T07:00:56Z"
+    },
+    {
+      "title": "[BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structured comment",
+      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4",
+      "createdAt": "2026-03-27T00:55:42Z"
     }
   ]
 }
