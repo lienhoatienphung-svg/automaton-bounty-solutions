@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T05:45:24.876Z",
-  "latencyMs": 485,
+  "executedAt": "2026-10-17T05:46:58.431Z",
+  "latencyMs": 701,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #378: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #379: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "feat(neuron): generation-fenced shared feature V2 and native batched worker port",
+          "url": "https://github.com/TrillionniumFoundation/hepta-private-ci/pull/1498",
+          "repositoryUrl": "https://api.github.com/repos/TrillionniumFoundation/hepta-private-ci",
+          "updatedAt": "2026-10-17T05:46:53Z"
+        },
+        {
+          "title": "Identity refactor: Enforce independent business ownership and one-to-one tenant boundaries",
+          "url": "https://github.com/Roklion/Project_Tabula_Rasa/issues/385",
+          "repositoryUrl": "https://api.github.com/repos/Roklion/Project_Tabula_Rasa",
+          "updatedAt": "2026-10-17T05:46:52Z"
+        },
+        {
+          "title": "docs(research): define cross-scale wisdom evaluation contract",
+          "url": "https://github.com/Luminous-Dynamics/mycelix/pull/5097",
+          "repositoryUrl": "https://api.github.com/repos/Luminous-Dynamics/mycelix",
+          "updatedAt": "2026-10-17T05:46:51Z"
+        },
+        {
+          "title": "docs(config): correct throttle database selection",
+          "url": "https://github.com/TogetherWeOwn/two-web-next/pull/950",
+          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/two-web-next",
+          "updatedAt": "2026-10-17T05:46:51Z"
+        },
+        {
+          "title": "[NAYA] MASTER DIRECTIVE — the single handoff artifact (Law 02 §17)",
+          "url": "https://github.com/SoulSchoolAcademy/NayaPOWER/issues/2601",
+          "repositoryUrl": "https://api.github.com/repos/SoulSchoolAcademy/NayaPOWER",
+          "updatedAt": "2026-10-17T05:46:50Z"
+        },
+        {
+          "title": "feat(workflow): drive local preparation and work through the backend-blind v2 machine",
+          "url": "https://github.com/InstruktAI/TeleClaude/pull/136",
+          "repositoryUrl": "https://api.github.com/repos/InstruktAI/TeleClaude",
+          "updatedAt": "2026-10-17T05:46:50Z"
+        },
+        {
+          "title": "refactor(gateway): G8 mutation-admission/project-entry characterization + move to _MutationAdmissionMixin (Refs #2507)",
+          "url": "https://github.com/James3014/Nexus-new/pull/2517",
+          "repositoryUrl": "https://api.github.com/repos/James3014/Nexus-new",
+          "updatedAt": "2026-10-17T05:46:50Z"
+        },
+        {
+          "title": "fix(git-workflows): repair portable flows",
+          "url": "https://github.com/Jamie-BitFlight/claude_skills/pull/4137",
+          "repositoryUrl": "https://api.github.com/repos/Jamie-BitFlight/claude_skills",
+          "updatedAt": "2026-10-17T05:46:50Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
