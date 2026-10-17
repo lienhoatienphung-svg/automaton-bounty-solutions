@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T14:24:08.365Z",
-  "latencyMs": 1313,
+  "executedAt": "2026-10-17T14:25:49.562Z",
+  "latencyMs": 663,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #472: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #473: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Add anytime-valid improvement auditor",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/76",
+      "createdAt": "2026-10-13T03:26:58Z"
+    },
+    {
+      "title": "chore(deps): update development dependencies (patch and minor)",
+      "url": "https://github.com/AgentsKit-io/harness/pull/186",
+      "createdAt": "2026-10-12T04:12:46Z"
+    },
+    {
+      "title": "[Wallet Rewards] Latest eligibility",
+      "url": "https://github.com/oguzpoyrazyasin/poyraz/issues/5",
+      "createdAt": "2026-09-21T21:54:47Z"
+    },
+    {
       "title": "Merge radly-oct-11-2: Explorer URLs, wallet limit, PIN security, SOL airdrop",
       "url": "https://github.com/shimapay3/codex/pull/1",
       "createdAt": "2026-10-12T05:07:13Z"
@@ -278,21 +293,6 @@
       "title": "Ingestion readiness 2026-10-17 — NOT ready: 18 blockers + 10 security items (discovery prompts tile-only, extraction crash, uploads bound to",
       "url": "https://github.com/creativeghq/material-kai-vision-platform/issues/494",
       "createdAt": "2026-10-16T13:49:06Z"
-    },
-    {
-      "title": "feat: bonding-curve game modes (PVE/PVP/TRENCH) + swap gas optimisation + DISCIPLE audit fixes",
-      "url": "https://github.com/makerlee0x/disciple/pull/75",
-      "createdAt": "2026-10-17T03:44:55Z"
-    },
-    {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/48",
-      "createdAt": "2026-10-17T06:48:17Z"
-    },
-    {
-      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
-      "createdAt": "2026-10-12T04:03:25Z"
     }
   ]
 }
