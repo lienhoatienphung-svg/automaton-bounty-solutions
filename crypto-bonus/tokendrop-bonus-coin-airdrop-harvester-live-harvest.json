@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T15:24:58.067Z",
-  "latencyMs": 1117,
+  "executedAt": "2026-10-17T15:37:32.138Z",
+  "latencyMs": 1017,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #481: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #482: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x2EeF2A627ac024cB9f545F6193b1940F0416a1dE",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Covenant x402 payment rails for agents.\n\nPaid endpoints in USDG over x402 — instant settlement on Robinhood Chain. The same gateway brokers agent credentials th",
+      "url": "https://dexscreener.com/robinhood/0x2eef2a627ac024cb9f545f6193b1940f0416a1de"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
       "boostAmount": 100,
@@ -202,97 +210,89 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/9h8ivvqycrmhmrqtfie6zrdugid8iye7z78pjrn8pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "jr963C1eUWRYk7TYAxii7MRyJqr1zJhVyZuYgVYpump",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "Buy 7 or 30 days of a Meteora fee position's income and claim what actually comes in. Holding $CUTS opens the Pro Desk, and a share of every creator fee buys ba",
-      "url": "https://dexscreener.com/solana/jr963c1euwryk7tyaxii7mryjqr1zjhvyzuygvypump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 113,
+      "priceBtc": 8.188156177860534e-7
+    },
+    {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 618,
-      "priceBtc": 0.0013890602738802983
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 112,
-      "priceBtc": 8.278596344503625e-7
+      "priceBtc": 0.0013927841307193442
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 105,
-      "priceBtc": 0.000020566887078246243
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 101,
-      "priceBtc": 0.000008065462190325039
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010454637386124509
+      "priceBtc": 0.00002062447036722437
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 29,
-      "priceBtc": 0.000012160982865098297
+      "priceBtc": 0.000012105265840388369
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006126786259086119
+      "priceBtc": 0.000060963616665044616
     },
     {
-      "name": "Plasma",
-      "symbol": "XPL",
-      "marketCapRank": 129,
-      "priceBtc": 9.90397771319096e-7
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 101,
+      "priceBtc": 0.000008059016892071965
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 89,
+      "priceBtc": 0.00003847884558087664
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010410234136429549
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Push notification on reward confirmed",
-      "url": "https://github.com/Qyoue/Qyou/issues/1178",
-      "createdAt": "2026-10-17T11:28:23Z"
+      "title": "Add modular text SFT, LoRA and trainable Engram offload",
+      "url": "https://github.com/PACTHEMAN123/Tiny-DSV41/pull/6",
+      "createdAt": "2026-10-16T00:14:58Z"
     },
     {
-      "title": "feat(manager): pay for registrations with USDC bridged in from an L2",
-      "url": "https://github.com/ensdomains/apps-monorepo/pull/1395",
-      "createdAt": "2026-10-16T19:16:49Z"
+      "title": "Add RustCore Wallet",
+      "url": "https://github.com/massalabs/wallet-provider/pull/366",
+      "createdAt": "2026-10-07T14:07:12Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "feat: bonding-curve game modes (PVE/PVP/TRENCH) + swap gas optimisation + DISCIPLE audit fixes",
+      "url": "https://github.com/makerlee0x/disciple/pull/75",
+      "createdAt": "2026-10-17T03:44:55Z"
     },
     {
-      "title": "feat(mobile): Redesign B app, Figma SSOT, Solar icons, restore passphrase (#54)",
-      "url": "https://github.com/HyeokjaeChoi/vaultme/pull/63",
-      "createdAt": "2026-10-17T12:07:10Z"
+      "title": "fix(wallet): report uncertain Solana transfer states to reduce risky retries",
+      "url": "https://github.com/elizaOS/eliza/pull/36706",
+      "createdAt": "2026-10-17T15:31:52Z"
     },
     {
-      "title": "chore(deps): update development dependencies (patch and minor)",
-      "url": "https://github.com/AgentsKit-io/harness/pull/186",
-      "createdAt": "2026-10-12T04:12:46Z"
+      "title": "fix(deps): update dependency lucide-react to v1.57.0",
+      "url": "https://github.com/leonunesbs/justificativas/pull/40",
+      "createdAt": "2026-10-04T15:21:01Z"
     },
     {
-      "title": "[SI PCMA-v1] Factual-only reward learning, baselines and feedback reliability gate",
-      "url": "https://github.com/vinceackermann2-sys/tam-research/pull/1502",
-      "createdAt": "2026-10-17T15:21:05Z"
+      "title": "fix(web): network copy follows the build's settings, never Base Sepolia (#63)",
+      "url": "https://github.com/bytesbrains/copra/pull/67",
+      "createdAt": "2026-10-17T15:31:50Z"
     }
   ]
 }
