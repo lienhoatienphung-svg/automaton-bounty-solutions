@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T15:08:45.652Z",
-  "latencyMs": 346,
+  "executedAt": "2026-10-17T15:10:50.782Z",
+  "latencyMs": 253,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #474: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #475: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52730189,
+    "liveBlockNumber": 52730251,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,20 +31,26 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 455648,
-    "baseMainnetTopPoolsVolume24hUsd": 206245,
+    "baseMainnetTopPoolsVolume24hUsd": 206243,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7VLEHjfm9J1XpaJFZ1uDxsTPbqFX799twAkMQwv9pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7vlehjfm9j1xpajfz1udxstpbqfx799twakmqwv9pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HmpwYEN1a1FjXFgr32jH5rV7GUaEQcvor3dZMemZpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hmpwyen1a1fjxfgr32jh5rv7guaeqcvor3dzmemzpump"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0x817B069fD919638105421Def28651B5fe9197777",
         "description": "BNB Chain officially gave us a name and ticker for a coin on its own GitHub \n\n$Hix (MyToken)",
         "url": "https://dexscreener.com/bsc/0x817b069fd919638105421def28651b5fe9197777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8cQMUM4kYpUvUF7VwMkrHxooL3CBJQ3d8LbgnzJSpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8cqmum4kypuvuf7vwmkrhxool3cbjq3d8lbgnzjspump"
       },
       {
         "chainId": "solana",
@@ -75,12 +81,6 @@
         "tokenAddress": "0xa6d1aa76bad61f453636e40d048dd07fec35ae68",
         "description": "Creators earn 80%. The protocol buys back & burns with 20%.",
         "url": "https://dexscreener.com/robinhood/0xa6d1aa76bad61f453636e40d048dd07fec35ae68"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "13Db7WNnSW8FWAkgGioYAAQRnusQmGLQHZt3xb3mAP7s",
-        "description": "Meteora virtual curves meet ZEC, every launch is etched into Zcash.",
-        "url": "https://dexscreener.com/solana/13db7wnnsw8fwakggioyaaqrnusqmglqhzt3xb3map7s"
       }
     ]
   },
