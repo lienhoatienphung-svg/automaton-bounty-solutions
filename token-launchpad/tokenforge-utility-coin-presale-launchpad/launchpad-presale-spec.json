@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T04:14:15.827Z",
-  "latencyMs": 326,
+  "executedAt": "2026-10-17T04:23:55.564Z",
+  "latencyMs": 257,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #381: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #382: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52710554,
+    "liveBlockNumber": 52710844,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 277009,
+    "baseMainnetTopPoolsVolume24hUsd": 277154,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BBaunKJdi2W5rDmB9yiEw8Y6yXqHbTEAYSSGDbDVeNGc",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bbaunkjdi2w5rdmb9yiew8y6yxqhbteayssgdbdvengc"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xb656EADd009B3b409d7A0971E50dF2f0e4ddef5a",
+        "description": "No subscription. Just your AI influencer.",
+        "url": "https://dexscreener.com/robinhood/0xb656eadd009b3b409d7a0971e50df2f0e4ddef5a"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9vsxEPf1AEaq2wxwrcXDzzHZvUW847HuKt3ka7XYpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "Di3W457xxh9hGzHqZRa5mirb6EfRgMZ5fCbZRWSrpump",
         "description": "THEO'S PLAY GROUND.\nOne click turns into a little detour. One detour turns into a whole new world.\n\nTheo is always chasing the next bright thing. Come see what ",
         "url": "https://dexscreener.com/solana/di3w457xxh9hgzhqzra5mirb6efrgmz5fcbzrwsrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "C3NJTFbZPGntqrGp6fZ7K5EVz9miwCuw2Xb5kB4rpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/c3njtfbzpgntqrgp6fz7k5evz9miwcuw2xb5kb4rpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7PNU6tf3zoGoTAS2JecEByKgZwx4sA5aGBt4z3kMpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7pnu6tf3zogotas2jecebykgzwx4sa5agbt4z3kmpump"
       }
     ]
   },
