@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T02:37:33.553Z",
-  "latencyMs": 762,
+  "executedAt": "2026-10-17T02:49:49.684Z",
+  "latencyMs": 678,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #371: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #372: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,30 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "4jjQjDRYd7xLcFMViRsz4GvtgU6gPZgbVaxN3Rq9pump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "$PONK — Pepe Bonk The unholy (and glorious) fusion of the two greatest memes to ever hit crypto. Pepe the Frog’s chaotic energy meets BONK’s Solana dog spirit, ",
+      "url": "https://dexscreener.com/solana/4jjqjdryd7xlcfmvirsz4gvtgu6gpzgbvaxn3rq9pump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "DMRKspYf38RCq9M6RSHP2CRhXVAPEkPLN9E7MwTfa95h",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Survive the zombie apocalypse in Deadtiles. Scavenge, trade, and choose a side. Play in the browser.",
+      "url": "https://dexscreener.com/solana/dmrkspyf38rcq9m6rshp2crhxvapekpln9e7mwtfa95h"
+    },
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0x27495511b8A2e163efC75d788706a40Dd100Bc27",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "The Brotherhood is a community, first project built on Robinhood Chain for people who are tired of rugs, empty promises and being treated as exit liquidity.\n\n$P",
+      "url": "https://dexscreener.com/robinhood/0x27495511b8a2e163efc75d788706a40dd100bc27"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "BVEaDToN2Ufn8m1Jnqy8rtwwCiiMC7JcFtvmKPxTpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -186,30 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Cate Pepe. \n\nWe all know cate’s are Doge’s",
       "url": "https://dexscreener.com/solana/4by8accpvdrcmdevjy1svdsjmwfvcngywqgqw9eppump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "6S7jwQuVipHuEaASAZ9Kn7r3Zy3jkebhAMFxnuWnpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "The world's first GTA V server with real cryptocurrency integration",
-      "url": "https://dexscreener.com/solana/6s7jwquviphueaasaz9kn7r3zy3jkebhamfxnuwnpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "FcX3YPNqJLFfsRLLgCXc6qQNa4EoneRZEhJXZrjqpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "elon musk is back playing path of exile 2, this time with a character named kekUSA",
-      "url": "https://dexscreener.com/solana/fcx3ypnqjlffsrllgcxc6qqna4eonerzehjxzrjqpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "ECzCvAK6a8ePxG2WUXmn1n1DfFSE8t3uLGoWfQG9pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "- Our goal is simple. Reward those who work for their bags. \n\n- $BEAR token is the base of this ecosystem. Our advance telegram bot will use $BEAR to help conti",
-      "url": "https://dexscreener.com/solana/eczcvak6a8epxg2wuxmn1n1dffse8t3ulgowfqg9pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -224,60 +224,65 @@
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.237142491579663e-8
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 106,
-      "priceBtc": 0.00002068218106418049
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9999937778928202
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 85,
-      "priceBtc": 0.000010743569777151357
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 89,
-      "priceBtc": 0.000038786954927710315
+      "priceBtc": 9.23056005447617e-8
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009780496517716012
+      "priceBtc": 0.0009776864671320348
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9999515237297312
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 85,
+      "priceBtc": 0.000010720485671959727
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "marketCapRank": 25,
+      "priceBtc": 0.0000891905192624178
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 89,
+      "priceBtc": 0.000038823336342293444
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 617,
-      "priceBtc": 0.001419884719775564
+      "marketCapRank": 613,
+      "priceBtc": 0.001423023612781653
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(deps): update npm",
-      "url": "https://github.com/WarningImHack3r/svelte-changelog/pull/224",
-      "createdAt": "2026-09-02T12:02:39Z"
+      "title": "fix: auto-claim rewards on withdrawal & enforce EIP-712 deadline",
+      "url": "https://github.com/StellarFlow-Network/stellarflow-contracts/pull/1260",
+      "createdAt": "2026-10-17T02:43:47Z"
     },
     {
-      "title": "Main theme on the menus, interactive tutorial, and two sound-effect fixes",
-      "url": "https://github.com/FlamingFury00/Cartoon-Hitster/pull/3",
-      "createdAt": "2026-10-17T01:53:44Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "Use ephemeral messages for personal replies in groups",
-      "url": "https://github.com/timbagame/bot/pull/412",
-      "createdAt": "2026-10-17T01:45:24Z"
+      "title": "chore: Implementer inbox — instructions from the Orchestrator",
+      "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
+      "createdAt": "2026-10-06T01:05:54Z"
+    },
+    {
+      "title": "Release 0.17.0: omdrop-core by default, driver 0.10.0",
+      "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/81",
+      "createdAt": "2026-10-17T02:00:30Z"
     },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
@@ -285,14 +290,9 @@
       "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "[Sampling] Add `SGLANG_RENORM_DETERMINISTIC` for bit-identical top-p / top-k renorm",
-      "url": "https://github.com/sgl-project/sglang/pull/38565",
-      "createdAt": "2026-09-08T21:08:36Z"
-    },
-    {
-      "title": "feat: consolidate audit remedies and liquidation redesign",
-      "url": "https://github.com/omnipair/dusk/pull/45",
-      "createdAt": "2026-09-30T23:53:43Z"
+      "title": "LND P4 candidate: Wavelength signet spike — Ark wallet client as an agent-side wallet (experimental)",
+      "url": "https://github.com/OpenAgentsInc/openagents/issues/11770",
+      "createdAt": "2026-10-15T20:37:26Z"
     }
   ]
 }
