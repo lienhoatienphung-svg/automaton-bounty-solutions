@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T03:43:06.317Z",
-  "latencyMs": 906,
+  "executedAt": "2026-10-17T03:44:29.011Z",
+  "latencyMs": 812,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #380: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
+  "workTitle": "Delivery Sprint #381: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "[Fix] sampling: deterministic top-p / top-k renorm when attn_tp_size > 1 (TP rank divergence in DFlash/DSpark)",
+      "url": "https://github.com/sgl-project/sglang/pull/38565",
+      "createdAt": "2026-09-08T21:08:36Z"
+    },
+    {
+      "title": "Epic: LND as our server-side Lightning backend via crates/lnd-sdk (experimental, test in production)",
+      "url": "https://github.com/OpenAgentsInc/openagents/issues/11762",
+      "createdAt": "2026-10-15T20:29:39Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
       "title": "Serve the app over HTTPS so the service worker can run",
       "url": "https://github.com/mkaufman2023/WhiteNoiseMachine/pull/6",
       "createdAt": "2026-10-17T03:42:32Z"
@@ -278,21 +293,6 @@
       "title": "LND P4 candidate: Wavelength signet spike — Ark wallet client as an agent-side wallet (experimental)",
       "url": "https://github.com/OpenAgentsInc/openagents/issues/11770",
       "createdAt": "2026-10-15T20:37:26Z"
-    },
-    {
-      "title": "LND: qualify Taproot Assets mint, transfer, and RFQ payments on signet",
-      "url": "https://github.com/OpenAgentsInc/openagents/issues/11863",
-      "createdAt": "2026-10-16T12:03:26Z"
-    },
-    {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/Ketryon/template-gateway/pull/14",
-      "createdAt": "2026-10-12T10:23:57Z"
-    },
-    {
-      "title": "docs(hyperliquid): Build on Totalis section, SDK 0.51.0 (TT-2205)",
-      "url": "https://github.com/totalistrading/docs/pull/116",
-      "createdAt": "2026-10-16T19:15:19Z"
     }
   ]
 }
