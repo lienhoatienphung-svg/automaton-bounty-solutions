@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-17T17:54:23.648Z",
-  "latencyMs": 1501,
+  "executedAt": "2026-10-17T17:56:13.661Z",
+  "latencyMs": 606,
   "companyName": "Automated QA, Security Audit & DevOps Suite: GitHub Bounty   BOUNTY  100  HOOK  ",
-  "workTitle": "Growth & Sales Sprint #920: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Kodland: APAC Python (Instant B2B R",
-  "targetUrl": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+  "workTitle": "Delivery Sprint #921: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "targetUrl": "https://polymarket.com/event/will-any-country-leave-nato-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00006,
+        "priceUsd": 1.000064,
         "liquidityUsd": 21385,
-        "volume24hUsd": 67566,
+        "volume24hUsd": 67838,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -130,6 +130,21 @@
   "multiIndustryB2BContracts": {
     "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Sanctuary Computer",
+        "roleOrTask": "Head of Technology",
+        "industryTags": [
+          "dev",
+          "engineer",
+          "senior",
+          "full stack",
+          "front end"
+        ],
+        "compensation": "$140000-$250000",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "RemoteOK-InstantB2B",
         "company": "Self Bill Pro",
@@ -188,21 +203,6 @@
         ],
         "compensation": "$500-$2,500 Instant Retainer",
         "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Hippocratic AI",
-        "roleOrTask": "Director of IT and Workplace",
-        "industryTags": [
-          "exec",
-          "saas",
-          "infosec",
-          "python",
-          "technical"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
         "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
       },
       {
