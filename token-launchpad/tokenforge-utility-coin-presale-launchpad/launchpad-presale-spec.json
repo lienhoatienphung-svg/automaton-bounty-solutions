@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T10:05:55.480Z",
-  "latencyMs": 426,
+  "executedAt": "2026-10-17T10:07:30.147Z",
+  "latencyMs": 360,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #432: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #433: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52721104,
+    "liveBlockNumber": 52721151,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459003,
-    "baseMainnetTopPoolsVolume24hUsd": 255841,
+    "baseMainnetTopPoolsVolume24hUsd": 255982,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DR3DLkViQrnc2DkVJFYxkoo3yv65VZuhR3jc2DNjpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/dr3dlkviqrnc2dkvjfyxkoo3yv65vzuhr3jc2dnjpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xBc4cE74b2e2580FfAE99f2a40833e791F36d8b81",
@@ -75,12 +81,6 @@
         "tokenAddress": "3Z97VzbBe9F8qGZahC6RSQUZiwFVzktUfvEEpvt9pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/3z97vzbbe9f8qgzahc6rsquziwfvzktufveepvt9pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xf859dD5B25E19C8d12c9bfa00B2e6fc1c19Ed6D3",
-        "description": "Elon has turned Artificial\nThe ticker is $AE",
-        "url": "https://dexscreener.com/robinhood/0xf859dd5b25e19c8d12c9bfa00b2e6fc1c19ed6d3"
       }
     ]
   },
