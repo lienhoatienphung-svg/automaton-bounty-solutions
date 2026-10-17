@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T09:00:31.853Z",
-  "latencyMs": 2560,
+  "executedAt": "2026-10-17T09:12:33.503Z",
+  "latencyMs": 709,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #407: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #408: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "fix: preserve Board content during state import",
-          "url": "https://github.com/openclaw/ocm/pull/395",
-          "repositoryUrl": "https://api.github.com/repos/openclaw/ocm",
-          "updatedAt": "2026-10-17T09:00:27Z"
+          "title": "Bind independent review and full CI to exact merge candidates (CSL-259)",
+          "url": "https://github.com/CSL-Laboratories/ai-investment-cockpit/pull/168",
+          "repositoryUrl": "https://api.github.com/repos/CSL-Laboratories/ai-investment-cockpit",
+          "updatedAt": "2026-10-17T09:12:29Z"
         },
         {
-          "title": "fix(host): start every child with no signals blocked",
-          "url": "https://github.com/ArcfluxResearch/dudes/pull/95",
-          "repositoryUrl": "https://api.github.com/repos/ArcfluxResearch/dudes",
-          "updatedAt": "2026-10-17T09:00:24Z"
+          "title": "perf(update): reuse verification for owned recovery images",
+          "url": "https://github.com/openclaw/openclaw/pull/175359",
+          "repositoryUrl": "https://api.github.com/repos/openclaw/openclaw",
+          "updatedAt": "2026-10-17T09:12:28Z"
         },
         {
-          "title": "WIP: Overhaul communication kernel and all authored skill prose",
-          "url": "https://github.com/zznabil/lean-agent-skill-collection/pull/35",
-          "repositoryUrl": "https://api.github.com/repos/zznabil/lean-agent-skill-collection",
-          "updatedAt": "2026-10-17T09:00:23Z"
-        },
-        {
-          "title": "feat(graph): read-only RKG × Codebase Atlas × temporal dashboard bridge (stacked on #630)",
-          "url": "https://github.com/humanaios-ui/operations/pull/863",
-          "repositoryUrl": "https://api.github.com/repos/humanaios-ui/operations",
-          "updatedAt": "2026-10-17T09:00:29Z"
-        },
-        {
-          "title": "HARDENING-ITEM-MYPY-SRC-RATCHET: Mypy over all of src with a shrinking exception set",
-          "url": "https://github.com/vibhanshu-agarwal/optimus-cost-agent/issues/329",
-          "repositoryUrl": "https://api.github.com/repos/vibhanshu-agarwal/optimus-cost-agent",
-          "updatedAt": "2026-10-17T09:00:22Z"
-        },
-        {
-          "title": "fix(webapp, drive): גיבוי Drive שגוגל דחה את החיבור שלו נעצר ומבקש להתחבר מחדש",
-          "url": "https://github.com/amirbiron/CodeBot/pull/3571",
-          "repositoryUrl": "https://api.github.com/repos/amirbiron/CodeBot",
-          "updatedAt": "2026-10-17T09:00:21Z"
-        },
-        {
-          "title": "Add quests, NPCs and dialogue with a playable sample town",
-          "url": "https://github.com/aaronson2012/rpg/pull/3",
+          "title": "Controller feel: coyote time, buffering, dodge-cancel, gamepad",
+          "url": "https://github.com/aaronson2012/rpg/pull/16",
           "repositoryUrl": "https://api.github.com/repos/aaronson2012/rpg",
-          "updatedAt": "2026-10-17T09:00:21Z"
+          "updatedAt": "2026-10-17T09:12:28Z"
         },
         {
-          "title": "Fix SQL Explorer selection, multicursor clipboard and caret rendering",
-          "url": "https://github.com/Karapsin/analytics_toolkit/pull/9",
-          "repositoryUrl": "https://api.github.com/repos/Karapsin/analytics_toolkit",
-          "updatedAt": "2026-10-17T09:00:25Z"
+          "title": "CSL-218: paper and dry-run authority/execution/recovery profiles",
+          "url": "https://github.com/CSL-Laboratories/ai-investment-cockpit/pull/173",
+          "repositoryUrl": "https://api.github.com/repos/CSL-Laboratories/ai-investment-cockpit",
+          "updatedAt": "2026-10-17T09:12:27Z"
+        },
+        {
+          "title": "[PM seat] domain:services · seat 2 — ⏳ vacant · stay-behind: #23746 (PR #23837)",
+          "url": "https://github.com/objectstack-ai/objectstack/issues/21118",
+          "repositoryUrl": "https://api.github.com/repos/objectstack-ai/objectstack",
+          "updatedAt": "2026-10-17T09:12:27Z"
+        },
+        {
+          "title": "Document Claude Code, Codex and Aider Git-push workflows",
+          "url": "https://github.com/maida-ai/mai/issues/25",
+          "repositoryUrl": "https://api.github.com/repos/maida-ai/mai",
+          "updatedAt": "2026-10-17T09:12:26Z"
+        },
+        {
+          "title": "PRD: Unbound web foundation (accounts, addon submissions, review, updater)",
+          "url": "https://github.com/marioparaschiv/unbound/issues/148",
+          "repositoryUrl": "https://api.github.com/repos/marioparaschiv/unbound",
+          "updatedAt": "2026-10-17T09:12:26Z"
+        },
+        {
+          "title": "Security hardening: admin-bound RLS, table privileges, QR receipts",
+          "url": "https://github.com/alniser0592314333-commits/chargerpointnew/pull/115",
+          "repositoryUrl": "https://api.github.com/repos/alniser0592314333-commits/chargerpointnew",
+          "updatedAt": "2026-10-17T09:12:25Z"
         }
       ]
     },
