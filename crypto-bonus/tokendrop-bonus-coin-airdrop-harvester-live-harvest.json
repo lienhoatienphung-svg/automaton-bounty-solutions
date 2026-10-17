@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T01:41:44.252Z",
-  "latencyMs": 1131,
+  "executedAt": "2026-10-17T01:53:41.518Z",
+  "latencyMs": 752,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #363: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #364: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x94641b97010608C3827fB058074889f19868FF33",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Commander Vrax created by Vlad and Robinhood at HOOD Summit 2026",
+      "url": "https://dexscreener.com/robinhood/0x94641b97010608c3827fb058074889f19868ff33"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "CMGgEYqtKA4e634ZJ3U18ed2WHqTkNZoZ9FBX9z1pump",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "MarsX endorsed by the creator @arikuschnir",
       "url": "https://dexscreener.com/solana/fak3rjebfr4vb8dofpecf6yoxbkkr1gguh5tdj2rpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x652720b02272C37d9328f08EE8343554D1CAa8e7",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "KlineO ($KLO) powers an agentic trading and liquidity intelligence ecosystem built for traders, creators, token projects, and digital asset teams.\n\nKlineO Tradi",
-      "url": "https://dexscreener.com/robinhood/0x652720b02272c37d9328f08ee8343554d1caa8e7"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,50 +217,50 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 718,
+      "marketCapRank": 717,
       "priceBtc": 3.211198411121736e-7
-    },
-    {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.546746405435469e-8
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.222995307138701e-8
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9987729229064055
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 106,
-      "priceBtc": 0.00002076945208081217
+      "priceBtc": 0.000020756267340720016
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9998538189543893
+    },
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 49,
+      "priceBtc": 5.5621069381965065e-8
     },
     {
       "name": "Monad",
       "symbol": "MON",
       "marketCapRank": 154,
-      "priceBtc": 2.7798365697043456e-7
+      "priceBtc": 2.783971030674133e-7
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.014031902336957454
+      "priceBtc": 0.014059578537319053
     },
     {
-      "name": "STONK",
-      "symbol": "STONK",
-      "marketCapRank": 306,
-      "priceBtc": 0.0000013719932719349099
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006198044685836684
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.226871938737101e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
@@ -270,24 +270,24 @@
       "createdAt": "2026-10-17T00:42:35Z"
     },
     {
-      "title": "fix(usdcx): reserve a burn's dry-run fee on Max",
-      "url": "https://github.com/0xMiden/wallet/pull/1494",
-      "createdAt": "2026-10-16T12:33:39Z"
+      "title": "chore(deps): update all non-major dependencies",
+      "url": "https://github.com/reddoorla/vineyard-custom-homes/pull/68",
+      "createdAt": "2026-09-21T16:47:53Z"
     },
     {
-      "title": "feat(event): implement Full Moon Rift dungeon defense event",
-      "url": "https://github.com/ZeusAFK/LibreKO/pull/172",
-      "createdAt": "2026-10-15T05:22:35Z"
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
     },
     {
-      "title": "Add the sandbagging-elicitation task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/31",
-      "createdAt": "2026-09-27T12:37:00Z"
+      "title": "Update all major dependencies (major)",
+      "url": "https://github.com/Mbehbahani/JobPilot/pull/18",
+      "createdAt": "2026-08-05T16:21:46Z"
     },
     {
-      "title": "SF-010: live upgrade-security and browser wallet acceptance on testnet",
-      "url": "https://github.com/tyler-suifleet/suifleet/pull/70",
-      "createdAt": "2026-10-15T06:19:09Z"
+      "title": "chore(deps): bump tempo dependencies to dee08cf",
+      "url": "https://github.com/dghelm/foundry/pull/107",
+      "createdAt": "2026-10-17T01:51:37Z"
     },
     {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
