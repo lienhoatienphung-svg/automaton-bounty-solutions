@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T10:25:51.181Z",
-  "latencyMs": 677,
+  "executedAt": "2026-10-17T10:38:38.274Z",
+  "latencyMs": 1284,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #419: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #420: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "fix: reset ElastOS data inside the Windows Linux environment",
-          "url": "https://github.com/Elacity/elastos-launcher/pull/55",
-          "repositoryUrl": "https://api.github.com/repos/Elacity/elastos-launcher",
-          "updatedAt": "2026-10-17T10:25:47Z"
-        },
-        {
-          "title": "chore(deps): update ghcr.io/sebastka/paperless docker tag to v3.3.2",
-          "url": "https://github.com/sebastka/charts/pull/10",
-          "repositoryUrl": "https://api.github.com/repos/sebastka/charts",
-          "updatedAt": "2026-10-17T10:25:46Z"
-        },
-        {
-          "title": "Security hardening: admin-bound RLS, table privileges, QR receipts",
-          "url": "https://github.com/alniser0592314333-commits/chargerpointnew/pull/115",
-          "repositoryUrl": "https://api.github.com/repos/alniser0592314333-commits/chargerpointnew",
-          "updatedAt": "2026-10-17T10:25:45Z"
-        },
-        {
-          "title": "feat(receipts): verify at read time re-fetches the linked pull request",
-          "url": "https://github.com/Uuriko/project-room/pull/3631",
-          "repositoryUrl": "https://api.github.com/repos/Uuriko/project-room",
-          "updatedAt": "2026-10-17T10:25:45Z"
-        },
-        {
-          "title": "feat: View foundation and owner runtime integration",
-          "url": "https://github.com/copilotzhq/copilotz/pull/93",
-          "repositoryUrl": "https://api.github.com/repos/copilotzhq/copilotz",
-          "updatedAt": "2026-10-17T10:25:45Z"
-        },
-        {
-          "title": "Helikopter: planerat stopp härlett ur ledighet + filer, \"över beställt\" neutralt",
-          "url": "https://github.com/kompersmalaskog/skogsystem/pull/793",
-          "repositoryUrl": "https://api.github.com/repos/kompersmalaskog/skogsystem",
-          "updatedAt": "2026-10-17T10:25:45Z"
-        },
-        {
-          "title": "PR-B2: hcls: audit endpoint, audit identity and PHI egress guard",
-          "url": "https://github.com/VASTDataMartz/vast-cloudera-blueprints/pull/45",
-          "repositoryUrl": "https://api.github.com/repos/VASTDataMartz/vast-cloudera-blueprints",
-          "updatedAt": "2026-10-17T10:25:45Z"
-        },
-        {
-          "title": "[VexStream Desktop V4] Complete V3-shaped desktop successor + VexLife local join",
-          "url": "https://github.com/vgong24/VexstreamMusic/pull/5",
-          "repositoryUrl": "https://api.github.com/repos/vgong24/VexstreamMusic",
-          "updatedAt": "2026-10-17T10:25:44Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
