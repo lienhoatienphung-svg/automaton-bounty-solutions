@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T08:56:28.464Z",
-  "latencyMs": 430,
+  "executedAt": "2026-10-17T09:09:03.003Z",
+  "latencyMs": 573,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #423: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #424: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52719020,
+    "liveBlockNumber": 52719397,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 240521,
+    "baseMainnetTopPoolsLiquidityUsd": 458998,
+    "baseMainnetTopPoolsVolume24hUsd": 243607,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7UkbvaYoxQzcfAwgACfh3roXZkj3Kttsohv1ytJLpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7ukbvayoxqzcfawgacfh3roxzkj3kttsohv1ytjlpump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x787873c9ae96855bdB032F6fF1Ef76a5e1Fc8aDC",
+        "description": "The alter ego and mascot of Grok",
+        "url": "https://dexscreener.com/ethereum/0x787873c9ae96855bdb032f6ff1ef76a5e1fc8adc"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5do8SkQt2nxp3daqXgKcdF7j2BjgiGgxYi5Avkqppump",
@@ -69,18 +81,6 @@
         "tokenAddress": "9rS42P1UYS6rjZLNFQQ5HmaknAxsU1phcVHTQ3dgpump",
         "description": "Inu With Mask is a meme token on the Solana network, built around a simple philosophy: its light and darkness are shaped by you, the trader.",
         "url": "https://dexscreener.com/solana/9rs42p1uys6rjzlnfqq5hmaknaxsu1phcvhtq3dgpump"
-      },
-      {
-        "chainId": "arc",
-        "tokenAddress": "0xbF1fDC20FBE85c3a58E0124e242662a1952293F9",
-        "description": "🍑 Peach People plant an idea, growing endless possibilities.",
-        "url": "https://dexscreener.com/arc/0xbf1fdc20fbe85c3a58e0124e242662a1952293f9"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x02F9852143C1EA658C8C340a0dB716184E060B80",
-        "description": "Optimus Prime is a meme-coin inspired by Elon Musk's vision of Optimus robots building Optimus Prime. The project was sparked when a community member highlighte",
-        "url": "https://dexscreener.com/robinhood/0x02f9852143c1ea658c8c340a0db716184e060b80"
       }
     ]
   },
