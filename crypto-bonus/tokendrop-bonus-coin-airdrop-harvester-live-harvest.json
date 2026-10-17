@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T07:48:48.815Z",
-  "latencyMs": 687,
+  "executedAt": "2026-10-17T08:01:02.145Z",
+  "latencyMs": 1398,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #417: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #418: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "FhTRVAkQeiaLRJHYc13DBNhgw9N8ZPacvonaKfXxpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Momo is a catwifmotion",
+      "url": "https://dexscreener.com/solana/fhtrvakqeialrjhyc13dbnhgw9n8zpacvonakfxxpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "DfbhY8XtNc317jpSEJDQejLD83QUMHtBzyn9EjgSTWGW",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
       "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "EmoRR2DMqSpAzx7yXyMYhz2skGWhDsYFh6V1ydREpump",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "BTC, ETH & SOL perps on Solana. Up to 1,000× leverage.",
-      "url": "https://dexscreener.com/solana/emorr2dmqspazx7yxymyhz2skgwhdsyfh6v1ydrepump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -224,75 +224,75 @@
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 92,
-      "priceBtc": 0.000008928070532270855
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 612,
-      "priceBtc": 0.0014175001330094168
+      "priceBtc": 0.000008896652597807575
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9990827251565487
+      "priceBtc": 0.9994144651861839
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 104,
-      "priceBtc": 0.000021262775614664035
+      "marketCapRank": 105,
+      "priceBtc": 0.000021159734009304518
     },
     {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 179,
-      "priceBtc": 0.000003880880263807425
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.014289976054664769
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010894327812021949
+      "priceBtc": 0.00010795071619217338
     },
     {
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "marketCapRank": 47,
-      "priceBtc": 0.000005571193289178059
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 179,
+      "priceBtc": 0.0000038802620308694645
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 612,
+      "priceBtc": 0.001411926330011862
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Port P2Poolv2 to Bitcoin Cash with direct PPLNS and Stratum V2",
-      "url": "https://github.com/CyberAshven/BitcoinCash-p2poolv2/pull/1",
-      "createdAt": "2026-10-08T07:38:12Z"
+      "title": "Add anytime-valid improvement auditor",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/76",
+      "createdAt": "2026-10-13T03:26:58Z"
     },
     {
-      "title": "T5 PR3: 三色烟花拖尾、动态光照与激活爆散",
-      "url": "https://github.com/ZeroPointSix/sound-isolating-eraser/pull/51",
-      "createdAt": "2026-10-16T20:40:49Z"
+      "title": "Performance: Claim, Assign, and Resend blast wait on the mail server",
+      "url": "https://github.com/Sparkxt-0318/SASMATTutoring/issues/36",
+      "createdAt": "2026-10-17T06:31:54Z"
     },
     {
-      "title": "feat: bonding-curve game modes (PVE/PVP/TRENCH) + swap gas optimisation + DISCIPLE audit fixes",
-      "url": "https://github.com/makerlee0x/disciple/pull/75",
-      "createdAt": "2026-10-17T03:44:55Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "T5 PR2: 空投从配置池随机选择原版宝箱战利品表",
-      "url": "https://github.com/ZeroPointSix/sound-isolating-eraser/pull/49",
-      "createdAt": "2026-10-16T19:24:48Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "T5 PR1: 修复绿色信号弹落点搜索漏掉合法空投位置",
-      "url": "https://github.com/ZeroPointSix/sound-isolating-eraser/pull/41",
-      "createdAt": "2026-10-16T16:03:49Z"
+      "title": "chore: Implementer inbox — instructions from the Orchestrator",
+      "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
+      "createdAt": "2026-10-06T01:05:54Z"
     },
     {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/bedstack/bedstack/pull/10",
-      "createdAt": "2026-05-08T12:05:08Z"
+      "title": "📦 Pending promotion: dev → main",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
+      "createdAt": "2026-06-29T11:18:37Z"
     }
   ]
 }
