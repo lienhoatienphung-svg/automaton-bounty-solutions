@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T11:47:00.052Z",
-  "latencyMs": 333,
+  "executedAt": "2026-10-17T11:48:33.567Z",
+  "latencyMs": 870,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #446: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #447: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52724136,
+    "liveBlockNumber": 52724182,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 455645,
-    "baseMainnetTopPoolsVolume24hUsd": 222285,
+    "baseMainnetTopPoolsVolume24hUsd": 222395,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xD635BDBaCca403E1671b31363654cF64ea6864F5",
+        "description": "Dolphin Intelligence",
+        "url": "https://dexscreener.com/robinhood/0xd635bdbacca403e1671b31363654cf64ea6864f5"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4c7Q9YXKVqQy5deud3VVxnVaEqqKmCqTKhsypUCxpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "3PDrGxRL6pAUfH7QYJrMufHsvyK8NMTqAP3vEvkTpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/3pdrgxrl6paufh7qyjrmufhsvyk8nmtqap3vevktpump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x922d0aC4404CF457776345bc44b4260e4CcA995E",
-        "description": "Elon recently tweeted that Optimus will soon build Optimus Prime. \nAfter showing a flying roadster, the possibilities are endless.",
-        "url": "https://dexscreener.com/ethereum/0x922d0ac4404cf457776345bc44b4260e4cca995e"
       }
     ]
   },
