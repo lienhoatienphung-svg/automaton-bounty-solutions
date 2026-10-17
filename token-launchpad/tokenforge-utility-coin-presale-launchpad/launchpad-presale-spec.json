@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T03:20:22.600Z",
-  "latencyMs": 423,
+  "executedAt": "2026-10-17T03:22:33.784Z",
+  "latencyMs": 361,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #372: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #373: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52708937,
+    "liveBlockNumber": 52709003,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 278193,
+    "baseMainnetTopPoolsVolume24hUsd": 278201,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "H3MC9GAdTjfnVMr3jxK5AeURYCTACuWpm14Ghrdfpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/h3mc9gadtjfnvmr3jxk5aeuryctacuwpm14ghrdfpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HmqnR7WAWeZgGNF5QbcF74aTfzCAtxcgtsjTEbLHfart",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hmqnr7wawezggnf5qbcf74atfzcatxcgtsjteblhfart"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BuXpPe3Enmb4YFzZudTRfeWeFxRgcqWEL7MLeXGQpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "D9XtsMSb1LNVdVmUoWHaY8gnvFoyYVjMySkLzeyREPNj",
         "description": "MarsCat ($MARSCAT) is the first cat on Mars. He's a black cat astronaut who left Earth's red candles behind, planted a paw on the red planet and gave the chart ",
         "url": "https://dexscreener.com/solana/d9xtsmsb1lnvdvmuowhay8gnvfoyyvjmysklzeyrepnj"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DSMGed9MDKMyVQfnZnXZBYRrgTJdZxAbYgC9Ghiypump",
-        "description": "the world's first experiment turning the company behind pumpfun into a tokenized asset.",
-        "url": "https://dexscreener.com/solana/dsmged9mdkmyvqfnznxzbyrrgtjdzxabygc9ghiypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CY27QvCQBCmLBuz3V7c8snEeD4z67iyoSTkwo35Ypump",
-        "description": "Every movement\nbelongs to a phase.\nMarkets rarely move in a straight line. Activity forms, accelerates, rotates and eventually resets. Eternia turns those chang",
-        "url": "https://dexscreener.com/solana/cy27qvcqbcmlbuz3v7c8sneed4z67iyostkwo35ypump"
       }
     ]
   },
