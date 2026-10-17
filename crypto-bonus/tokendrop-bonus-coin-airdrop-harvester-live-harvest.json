@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T19:41:48.139Z",
-  "latencyMs": 1238,
+  "executedAt": "2026-10-17T19:43:29.084Z",
+  "latencyMs": 1075,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #514: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #515: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,5 +263,36 @@
       "priceBtc": 0.0000227797547131971
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "deploy: fresh Base Sepolia + Arbitrum Sepolia redeploy (2026-10-17) and the deploy build step skips the test tree",
+      "url": "https://github.com/vaipakam/vaipakam/pull/2545",
+      "createdAt": "2026-10-17T18:52:07Z"
+    },
+    {
+      "title": "test(e2e): tier-2 trial with real MetaMask in Chrome (#50)",
+      "url": "https://github.com/bytesbrains/copra/pull/71",
+      "createdAt": "2026-10-17T19:32:37Z"
+    },
+    {
+      "title": "Add an overview",
+      "url": "https://github.com/fungi-protocol/docs/pull/51",
+      "createdAt": "2026-10-13T04:19:56Z"
+    },
+    {
+      "title": "[Wallet Rewards] Latest eligibility",
+      "url": "https://github.com/oguzpoyrazyasin/poyraz/issues/5",
+      "createdAt": "2026-09-21T21:54:47Z"
+    },
+    {
+      "title": "fix(mac): the menu-bar popover gets out of the way when a row navigates",
+      "url": "https://github.com/Dung-L3/dustless/pull/59",
+      "createdAt": "2026-10-17T19:41:42Z"
+    },
+    {
+      "title": "S-0 steps 2–3: Chia peer lane replaces the coinset gateway",
+      "url": "https://github.com/Bella-Addormentata/StarStationFurlong/pull/271",
+      "createdAt": "2026-10-17T17:35:23Z"
+    }
+  ]
 }
