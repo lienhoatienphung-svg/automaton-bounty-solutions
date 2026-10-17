@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T15:08:37.826Z",
-  "latencyMs": 1263,
+  "executedAt": "2026-10-17T15:10:49.084Z",
+  "latencyMs": 1198,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #478: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #479: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Next fork, part 1: stage block versions by height, commit the validity bounds at genesis, and add fundPot",
-      "url": "https://github.com/rchain-community/rchain-rust/pull/373",
-      "createdAt": "2026-10-16T16:04:15Z"
-    },
-    {
       "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
       "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
       "createdAt": "2026-10-12T21:43:27Z"
     },
     {
+      "title": "feat(mobile): Redesign B app, Figma SSOT, Solar icons, restore passphrase (#54)",
+      "url": "https://github.com/HyeokjaeChoi/vaultme/pull/63",
+      "createdAt": "2026-10-17T12:07:10Z"
+    },
+    {
+      "title": "fix(farm): validate the reward count for farm version 4 withdraws",
+      "url": "https://github.com/raydium-io/raydium-sdk-V2/pull/226",
+      "createdAt": "2026-10-17T15:09:23Z"
+    },
+    {
+      "title": "Next fork, part 1: stage block versions by height, commit the validity bounds at genesis, and add fundPot",
+      "url": "https://github.com/rchain-community/rchain-rust/pull/373",
+      "createdAt": "2026-10-16T16:04:15Z"
+    },
+    {
+      "title": "5.1 WhatsApp sharing",
+      "url": "https://github.com/pierregc/sillage/issues/25",
+      "createdAt": "2026-10-17T14:49:31Z"
+    },
+    {
       "title": "Central message board — Hermes, Claude, Codex and operator coordination",
       "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
       "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "Agentic SFT shootout on Snowball v0: plain, RS-multi, relay, recovery, plateau dropping",
-      "url": "https://github.com/marin-community/marin/issues/10213",
-      "createdAt": "2026-10-16T22:05:38Z"
-    },
-    {
-      "title": "CP: mechanics waves tracker (draft, not for merge)",
-      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
-      "createdAt": "2026-10-15T07:00:56Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
