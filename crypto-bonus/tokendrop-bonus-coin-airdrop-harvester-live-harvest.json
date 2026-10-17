@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T17:10:19.575Z",
-  "latencyMs": 876,
+  "executedAt": "2026-10-17T17:12:03.797Z",
+  "latencyMs": 1052,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #494: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #495: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,56 +218,66 @@
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 109,
-      "priceBtc": 0.0000014580959024717036
+      "priceBtc": 0.000001474660472578961
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00005994124674035767
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.013862490745031604
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 99,
-      "priceBtc": 0.000008087245628224798
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 189,
-      "priceBtc": 0.0000035288130320155043
+      "priceBtc": 0.000059710653421745655
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 120,
-      "priceBtc": 9.095017499751116e-8
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9988319396711497
+      "priceBtc": 9.099633675665893e-8
     },
     {
       "name": "Quant",
       "symbol": "QNT",
       "marketCapRank": 39,
-      "priceBtc": 0.002422141539245817
+      "priceBtc": 0.0024204220669477436
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 189,
+      "priceBtc": 0.0000035223642983950445
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 101,
+      "priceBtc": 0.000022628106387979353
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9994707895311271
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 99,
+      "priceBtc": 0.000008038749742331956
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(dev): unblocked Monad Testnet fast lane with isolated throwaway wallet",
-      "url": "https://github.com/musuntana/monad-hackathon/pull/4",
-      "createdAt": "2026-10-17T16:56:34Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "Client modernization: restyle, session data contract, operator key, browser test suite",
+      "url": "https://github.com/pk910/PoWFaucet/pull/556",
+      "createdAt": "2026-10-17T16:15:09Z"
+    },
+    {
+      "title": "Source watch: official Flop Labs / Technocore sources",
+      "url": "https://github.com/Mariukasfak/flop-evidence-scout/issues/3",
+      "createdAt": "2026-08-25T17:32:43Z"
     },
     {
       "title": "Harden bridge recovery and network release checks",
@@ -280,19 +290,9 @@
       "createdAt": "2026-10-16T18:46:23Z"
     },
     {
-      "title": "fix(security): enforce strict CSP to block inline scripts and restric…",
-      "url": "https://github.com/StormSale/StormSale/pull/282",
-      "createdAt": "2026-10-16T14:40:08Z"
-    },
-    {
-      "title": "[Frontend] Reward token allowlist management UI",
-      "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1055",
-      "createdAt": "2026-10-16T09:43:16Z"
-    },
-    {
-      "title": "CP: mechanics waves tracker (draft, not for merge)",
-      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
-      "createdAt": "2026-10-15T07:00:56Z"
+      "title": "fix(wallet): report uncertain Solana transfer states to reduce risky retries",
+      "url": "https://github.com/elizaOS/eliza/pull/36706",
+      "createdAt": "2026-10-17T15:31:52Z"
     }
   ]
 }
