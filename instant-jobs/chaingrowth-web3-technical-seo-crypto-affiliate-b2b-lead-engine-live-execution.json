@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-17T16:17:16.283Z",
-  "latencyMs": 204,
+  "executedAt": "2026-10-17T16:18:39.399Z",
+  "latencyMs": 637,
   "companyName": "ChainGrowth Web3 Technical SEO, Crypto Affiliate & B2B Lead Engine",
-  "workTitle": "Growth & Sales Sprint #1006: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
-  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
+  "workTitle": "Delivery Sprint #1007: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "targetUrl": "https://polymarket.com/event/macron-out-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000061,
         "liquidityUsd": 21385,
-        "volume24hUsd": 67782,
+        "volume24hUsd": 67771,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -128,8 +128,83 @@
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 5,
+    "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Self Bill Pro",
+        "roleOrTask": "Director of Product Management and IT Operations",
+        "industryTags": [
+          "product manager",
+          "exec",
+          "infosec",
+          "technical",
+          "customer support"
+        ],
+        "compensation": "$130000-$160000",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Yopeso Romania SRL",
+        "roleOrTask": "SAP RE FX Consultant",
+        "industryTags": [
+          "consulting",
+          "design",
+          "technical",
+          "customer support",
+          "dev"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Kodland",
+        "roleOrTask": "APAC Python",
+        "industryTags": [
+          "python",
+          "teaching",
+          "education",
+          "customer support",
+          "dev"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "AlgaeCal",
+        "roleOrTask": "Associate Data Scientist",
+        "industryTags": [
+          "design",
+          "python",
+          "customer support",
+          "marketing",
+          "dev"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Hippocratic AI",
+        "roleOrTask": "Director of IT and Workplace",
+        "industryTags": [
+          "exec",
+          "saas",
+          "infosec",
+          "python",
+          "technical"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "Arbeitnow-GlobalB2B",
         "company": "Dragos",
