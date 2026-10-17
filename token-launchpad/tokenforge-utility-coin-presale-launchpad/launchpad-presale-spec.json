@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T21:41:27.983Z",
-  "latencyMs": 377,
+  "executedAt": "2026-10-17T21:43:29.038Z",
+  "latencyMs": 364,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #526: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #527: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52741970,
-    "liveGasPriceGwei": 0.0081,
+    "liveBlockNumber": 52742030,
+    "liveGasPriceGwei": 0.0062,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458997,
-    "baseMainnetTopPoolsVolume24hUsd": 197555,
+    "baseMainnetTopPoolsVolume24hUsd": 197184,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8s2uCK7jJFcPNYGLWT5JoHuPtrS18KPxrVynSbdpump",
+        "description": "autonomous apes. real wallets. real trades. real consequences.",
+        "url": "https://dexscreener.com/solana/8s2uck7jjfcpnyglwt5johuptrs18kpxrvynsbdpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9j4xHyqfxznWZpc1LPZ9kr1rLErEcaDSJhYumRZ5pump",
@@ -75,12 +81,6 @@
         "tokenAddress": "2B1H3kcoPFVoe61Gy7D4LNqPMiFK4L65WPb4e43qpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/2b1h3kcopfvoe61gy7d4lnqpmifk4l65wpb4e43qpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7naRc9SVgHaJg6z4qhKuogCruhc9fa5dQmpv1rA4pump",
-        "description": "Private token buys via a shielded pool → fresh burner wallet. No custody, no accounts, no fees. Beta on mainnet",
-        "url": "https://dexscreener.com/solana/7narc9svghajg6z4qhkuogcruhc9fa5dqmpv1ra4pump"
       }
     ]
   },
