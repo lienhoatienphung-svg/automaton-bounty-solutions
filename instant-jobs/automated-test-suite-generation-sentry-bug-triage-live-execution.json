@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-17T22:11:53.033Z",
-  "latencyMs": 1139,
+  "executedAt": "2026-10-17T22:23:47.644Z",
+  "latencyMs": 578,
   "companyName": "Automated Test Suite Generation & Sentry Bug Triage",
-  "workTitle": "Delivery Sprint #1189: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
-  "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
+  "workTitle": "Growth & Sales Sprint #1190: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sanctuary Computer: Head of Technol",
+  "targetUrl": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2178578,
-        "liquidityUsd": 89547,
+        "liquidityUsd": 83056,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 18809,
+        "liquidityUsd": 18938,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -62,7 +62,7 @@
     ]
   },
   "crossDexArbitrageDesk": {
-    "basePoolsScanned": 10,
+    "basePoolsScanned": 11,
     "wethMaxSpreadBps": 0,
     "topLiquidPools": [
       {
@@ -72,7 +72,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000055,
         "liquidityUsd": 103134,
-        "volume24hUsd": 84840,
+        "volume24hUsd": 82246,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000061,
         "liquidityUsd": 21385,
-        "volume24hUsd": 62005,
+        "volume24hUsd": 61383,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -110,9 +110,9 @@
         "dexId": "pancakeswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000028,
+        "priceUsd": 1.000029,
         "liquidityUsd": 14836,
-        "volume24hUsd": 2761,
+        "volume24hUsd": 2675,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       },
       {
@@ -122,7 +122,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000082,
         "liquidityUsd": 12034,
-        "volume24hUsd": 932,
+        "volume24hUsd": 934,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
