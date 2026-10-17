@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T10:21:43.434Z",
-  "latencyMs": 261,
+  "executedAt": "2026-10-17T10:35:15.008Z",
+  "latencyMs": 321,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #435: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #436: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52721578,
+    "liveBlockNumber": 52721983,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459003,
-    "baseMainnetTopPoolsVolume24hUsd": 255592,
+    "baseMainnetTopPoolsVolume24hUsd": 253205,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "92RNnoS1dahzmsgVr1EvDecoTUiHCd9BtsnsS2Qbpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/92rnnos1dahzmsgvr1evdecotuihcd9btsnss2qbpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4h7jHyjbvie7gAdVKe4k5NFx8jELZeaiDsYaZy45pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4h7jhyjbvie7gadvke4k5nfx8jelzeaidsyazy45pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9MGUZtGegSPs9GPyTKPAd8SdkYToVJqn516aYvAVpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9mguztgegsps9gpytkpad8sdkytovjqn516ayvavpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xAb2C3719B8daEC68d76af9ce8a684D7A6061cf8F",
@@ -63,24 +81,6 @@
         "tokenAddress": "DR3DLkViQrnc2DkVJFYxkoo3yv65VZuhR3jc2DNjpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/dr3dlkviqrnc2dkvjfyxkoo3yv65vzuhr3jc2dnjpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xBc4cE74b2e2580FfAE99f2a40833e791F36d8b81",
-        "description": "Meet NULLION ($NULLN), the AI that mistook a $0.00 balance for infinite wealth. A paper hat. An oversized suit. A throne made of receipts. ZERO MONEY. INFINITE ",
-        "url": "https://dexscreener.com/robinhood/0xbc4ce74b2e2580ffae99f2a40833e791f36d8b81"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DfijGZPKXnSnYfHWrRhFnFPemPPnUgh5eSr6C1Mgpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/dfijgzpkxnsnyfhwrrhfnfpemppnugh5esr6c1mgpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "fsLeRFLA8txtoNo7qpcmnmMbrrSSkCcXrtk8jg9xfun",
-        "description": "🐸 $PEPE has landed on Xtrends. Supply shock loading. Get the frog early, before the whole pond catches on. One frog. Endless memes. Early 🐸",
-        "url": "https://dexscreener.com/solana/fslerfla8txtono7qpcmnmmbrrsskccxrtk8jg9xfun"
       }
     ]
   },
