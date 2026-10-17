@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T21:28:11.351Z",
-  "latencyMs": 793,
+  "executedAt": "2026-10-17T21:41:20.575Z",
+  "latencyMs": 1548,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #529: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #530: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sanctuary Computer: Head of Technol",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "GULJDcpdHCvNfvKazgA5JSgjWhWMxb2adqV3M7Jzpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "$P6900 Rewards holders who are holding a minimum of 1 million Pump6900",
+      "url": "https://dexscreener.com/solana/guljdcpdhcvnfvkazga5jsgjwhwmxb2adqv3m7jzpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "4by8accPvdRcmDEvJy1svdSJMwfVcNGyWqgQw9EPpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Cate Pepe. \n\nWe all know cate’s are Doge’s",
+      "url": "https://dexscreener.com/solana/4by8accpvdrcmdevjy1svdsjmwfvcngywqgqw9eppump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "8zMqKceqftmjAZaxua6FddpWbQjoLoeWArg4UYBNpump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -194,105 +210,89 @@
       "totalBoostAmount": 40,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/9ckhhm5xkyg4eqpxqkipcvhdao5ytdyqwsa9x9wwpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DrLF1dG1K4U6ggx5BZ6bSwzGcPNVrQwYoTJzRDyZpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Elon Musk's Chinese Doppelgänger",
-      "url": "https://dexscreener.com/solana/drlf1dg1k4u6ggx5bz6bswzgcpnvrqwyotjzrdyzpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "9CKHhm5XkYg4eqPXQkiPcvhDao5yTdyqwsA9x9wwpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 40,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/9ckhhm5xkyg4eqpxqkipcvhdao5ytdyqwsa9x9wwpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 632,
-      "priceBtc": 0.0013438256604040078
-    },
-    {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 102,
-      "priceBtc": 0.000022759282876411104
+      "marketCapRank": 99,
+      "priceBtc": 0.000022704780950849698
     },
     {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 85,
-      "priceBtc": 0.000010488399239672983
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 625,
+      "priceBtc": 0.0013580256162442456
     },
     {
-      "name": "Quack AI",
-      "symbol": "Q",
-      "marketCapRank": 108,
-      "priceBtc": 0.0000014941347308669412
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006096682994162677
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9992993960794601
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "marketCapRank": 48,
+      "priceBtc": 0.000005307489437238427
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 117,
-      "priceBtc": 7.924875657965566e-7
+      "priceBtc": 7.8349231194427e-7
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 121,
+      "priceBtc": 8.998431137135642e-8
     },
     {
       "name": "Quant",
       "symbol": "QNT",
-      "marketCapRank": 39,
-      "priceBtc": 0.0024329404262665387
+      "marketCapRank": 40,
+      "priceBtc": 0.0023668157585460523
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00005925473882921481
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 85,
+      "priceBtc": 0.000010355071519569809
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/midnightntwrk/midnight-faucet-api/issues/3",
-      "createdAt": "2026-07-28T15:02:31Z"
+      "title": "feat - BFE-211 - explorer links to BZE Scan",
+      "url": "https://github.com/bze-alphateam/bze-frontend-apps/pull/122",
+      "createdAt": "2026-10-17T21:35:54Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "seadrop shim: optional transfer lock scoped to the drop token",
+      "url": "https://github.com/manifoldxyz/creator-core-extensions-solidity/pull/122",
+      "createdAt": "2026-10-17T21:40:17Z"
     },
     {
-      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
-      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
-      "createdAt": "2026-10-11T10:45:50Z"
+      "title": "Node test harness copies of the napi SDK wrapper drifted from production",
+      "url": "https://github.com/0xMiden/web-sdk/issues/426",
+      "createdAt": "2026-09-24T11:47:13Z"
     },
     {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
+      "title": "S-0 steps 2–3: Chia peer lane replaces the coinset gateway",
+      "url": "https://github.com/Bella-Addormentata/StarStationFurlong/pull/271",
+      "createdAt": "2026-10-17T17:35:23Z"
     },
     {
-      "title": "acquireAddMoneyUserLock always throws (references an undefined error)",
-      "url": "https://github.com/soumen0818/C-Pay/issues/155",
-      "createdAt": "2026-10-16T16:16:04Z"
+      "title": "technocore-attest watch: new activity detected (2026-10-17T21:38Z)",
+      "url": "https://github.com/lupin4th/Flop/issues/110",
+      "createdAt": "2026-10-17T21:38:54Z"
     },
     {
-      "title": "Draft: continuity ledger, canon fixes, and staged 10k chapter expansion",
-      "url": "https://github.com/danielmartinez-maker/TheSEARemembers/pull/103",
-      "createdAt": "2026-10-14T03:22:20Z"
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
     }
   ]
 }
