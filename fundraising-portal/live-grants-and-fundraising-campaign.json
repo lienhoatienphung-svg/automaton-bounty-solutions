@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T10:23:41.213Z",
-  "latencyMs": 908,
+  "executedAt": "2026-10-17T10:25:51.181Z",
+  "latencyMs": 677,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #418: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #419: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "PR5 (draft): USD-only native market price service — shadow reads + CoinGecko adapter",
-          "url": "https://github.com/ChumponphatRangsee/focused-wealth-investment-os/pull/52",
-          "repositoryUrl": "https://api.github.com/repos/ChumponphatRangsee/focused-wealth-investment-os",
-          "updatedAt": "2026-10-17T10:23:36Z"
+          "title": "fix: reset ElastOS data inside the Windows Linux environment",
+          "url": "https://github.com/Elacity/elastos-launcher/pull/55",
+          "repositoryUrl": "https://api.github.com/repos/Elacity/elastos-launcher",
+          "updatedAt": "2026-10-17T10:25:47Z"
         },
         {
-          "title": "TOB：WorkOS 架构与首条异构 Agent 验证路径",
-          "url": "https://github.com/BotHarness/tob/issues/1",
-          "repositoryUrl": "https://api.github.com/repos/BotHarness/tob",
-          "updatedAt": "2026-10-17T10:23:36Z"
-        },
-        {
-          "title": "CB-M03 · Source Connectors, Ingestion & Provenance [PLANNED]",
-          "url": "https://github.com/KayzenRoot/coinblink/issues/10",
-          "repositoryUrl": "https://api.github.com/repos/KayzenRoot/coinblink",
-          "updatedAt": "2026-10-17T10:23:35Z"
-        },
-        {
-          "title": "Datasource and audit cleanup: grants at connect time and in bulk, a private-repo check at sync, clickable audit cards, connector conformance",
-          "url": "https://github.com/codefly-dev/module-saas-starter/issues/966",
-          "repositoryUrl": "https://api.github.com/repos/codefly-dev/module-saas-starter",
-          "updatedAt": "2026-10-17T10:23:34Z"
+          "title": "chore(deps): update ghcr.io/sebastka/paperless docker tag to v3.3.2",
+          "url": "https://github.com/sebastka/charts/pull/10",
+          "repositoryUrl": "https://api.github.com/repos/sebastka/charts",
+          "updatedAt": "2026-10-17T10:25:46Z"
         },
         {
           "title": "Security hardening: admin-bound RLS, table privileges, QR receipts",
           "url": "https://github.com/alniser0592314333-commits/chargerpointnew/pull/115",
           "repositoryUrl": "https://api.github.com/repos/alniser0592314333-commits/chargerpointnew",
-          "updatedAt": "2026-10-17T10:23:34Z"
+          "updatedAt": "2026-10-17T10:25:45Z"
         },
         {
-          "title": "Library L1 — Reading desk, canonical reader entry and source-backed Browse",
-          "url": "https://github.com/thiepn/library/pull/194",
-          "repositoryUrl": "https://api.github.com/repos/thiepn/library",
-          "updatedAt": "2026-10-17T10:23:34Z"
+          "title": "feat(receipts): verify at read time re-fetches the linked pull request",
+          "url": "https://github.com/Uuriko/project-room/pull/3631",
+          "repositoryUrl": "https://api.github.com/repos/Uuriko/project-room",
+          "updatedAt": "2026-10-17T10:25:45Z"
         },
         {
-          "title": "Gate every call site on a permission and delete Need",
-          "url": "https://github.com/getployz/ployz/pull/2182",
-          "repositoryUrl": "https://api.github.com/repos/getployz/ployz",
-          "updatedAt": "2026-10-17T10:23:34Z"
+          "title": "feat: View foundation and owner runtime integration",
+          "url": "https://github.com/copilotzhq/copilotz/pull/93",
+          "repositoryUrl": "https://api.github.com/repos/copilotzhq/copilotz",
+          "updatedAt": "2026-10-17T10:25:45Z"
         },
         {
-          "title": "GPTomek control mailbox",
-          "url": "https://github.com/trvny/trvny/issues/203",
-          "repositoryUrl": "https://api.github.com/repos/trvny/trvny",
-          "updatedAt": "2026-10-17T10:23:40Z"
+          "title": "Helikopter: planerat stopp härlett ur ledighet + filer, \"över beställt\" neutralt",
+          "url": "https://github.com/kompersmalaskog/skogsystem/pull/793",
+          "repositoryUrl": "https://api.github.com/repos/kompersmalaskog/skogsystem",
+          "updatedAt": "2026-10-17T10:25:45Z"
+        },
+        {
+          "title": "PR-B2: hcls: audit endpoint, audit identity and PHI egress guard",
+          "url": "https://github.com/VASTDataMartz/vast-cloudera-blueprints/pull/45",
+          "repositoryUrl": "https://api.github.com/repos/VASTDataMartz/vast-cloudera-blueprints",
+          "updatedAt": "2026-10-17T10:25:45Z"
+        },
+        {
+          "title": "[VexStream Desktop V4] Complete V3-shaped desktop successor + VexLife local join",
+          "url": "https://github.com/vgong24/VexstreamMusic/pull/5",
+          "repositoryUrl": "https://api.github.com/repos/vgong24/VexstreamMusic",
+          "updatedAt": "2026-10-17T10:25:44Z"
         }
       ]
     },
