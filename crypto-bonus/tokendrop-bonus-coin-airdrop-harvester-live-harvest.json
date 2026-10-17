@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T13:54:01.781Z",
-  "latencyMs": 1042,
+  "executedAt": "2026-10-17T13:55:47.952Z",
+  "latencyMs": 737,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #468: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #469: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "CP: mechanics waves tracker (draft, not for merge)",
+      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
+      "createdAt": "2026-10-15T07:00:56Z"
+    },
+    {
+      "title": "Contact page: registrations (enkeltpersonforetak, Enhetsregisteret/Foretaksregisteret, MVA)",
+      "url": "https://github.com/nordic-crypto-org/nordic-crypto/pull/179",
+      "createdAt": "2026-10-17T11:14:50Z"
+    },
+    {
       "title": "deps: bump npm dependencies (minor)",
       "url": "https://github.com/holomush/holomush/pull/5016",
       "createdAt": "2026-08-17T07:10:18Z"
@@ -283,16 +293,6 @@
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "[Security] Server-side validation of shared result data in the OG and share pages",
-      "url": "https://github.com/zintarh/stellar-wrap-frontend/issues/828",
-      "createdAt": "2026-10-17T13:52:21Z"
     }
   ]
 }
