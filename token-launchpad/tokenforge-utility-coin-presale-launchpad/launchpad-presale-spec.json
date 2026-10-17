@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T09:53:49.368Z",
-  "latencyMs": 259,
+  "executedAt": "2026-10-17T10:05:55.480Z",
+  "latencyMs": 426,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #431: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #432: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52720741,
+    "liveBlockNumber": 52721104,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 255568,
+    "baseMainnetTopPoolsLiquidityUsd": 459003,
+    "baseMainnetTopPoolsVolume24hUsd": 255841,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xBc4cE74b2e2580FfAE99f2a40833e791F36d8b81",
+        "description": "Meet NULLION ($NULLN), the AI that mistook a $0.00 balance for infinite wealth. A paper hat. An oversized suit. A throne made of receipts. ZERO MONEY. INFINITE ",
+        "url": "https://dexscreener.com/robinhood/0xbc4ce74b2e2580ffae99f2a40833e791f36d8b81"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EgaTDExurWiJcSFQvGdJpnAqhjnTJz7ATmNkpf9kpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/egatdexurwijcsfqvgdjpnaqhjntjz7atmnkpf9kpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DfijGZPKXnSnYfHWrRhFnFPemPPnUgh5eSr6C1Mgpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/dfijgzpkxnsnyfhwrrhfnfpemppnugh5esr6c1mgpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "fsLeRFLA8txtoNo7qpcmnmMbrrSSkCcXrtk8jg9xfun",
@@ -63,24 +81,6 @@
         "tokenAddress": "0xf859dD5B25E19C8d12c9bfa00B2e6fc1c19Ed6D3",
         "description": "Elon has turned Artificial\nThe ticker is $AE",
         "url": "https://dexscreener.com/robinhood/0xf859dd5b25e19c8d12c9bfa00b2e6fc1c19ed6d3"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HUYpHbkjLLAyRte7dNedYzP1csDY6GNrepVVRvdTpump",
-        "description": "bye",
-        "url": "https://dexscreener.com/solana/huyphbkjllayrte7dnedyzp1csdy6gnrepvvrvdtpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8aC85jZcSx2xNpoMNgVvPvPG5Qsndh3NgtaGUuPcpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8ac85jzcsx2xnpomngvvpvpg5qsndh3ngtaguupcpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CxKyMdoAk88LqRt3YMQGFsGqwess3tkqazjLeyUcpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/cxkymdoak88lqrt3ymqgfsgqwess3tkqazjleyucpump"
       }
     ]
   },
