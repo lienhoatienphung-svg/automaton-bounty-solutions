@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T09:53:46.761Z",
-  "latencyMs": 1140,
+  "executedAt": "2026-10-17T10:05:53.123Z",
+  "latencyMs": 949,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #435: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #436: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,66 +218,61 @@
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 95,
-      "priceBtc": 0.000008747369547090482
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 613,
-      "priceBtc": 0.001417627799127937
+      "priceBtc": 0.000008740404950681426
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.014385011078373205
+      "priceBtc": 0.014455921302796139
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009798222422742718
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 105,
-      "priceBtc": 0.0000209346887943077
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 612,
+      "priceBtc": 0.001416992443199083
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012265884640133053
+      "priceBtc": 0.000012265295265745317
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 105,
+      "priceBtc": 0.00002088508340811401
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009792763305658196
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010723302907085329
+      "priceBtc": 0.00010756384527481744
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 34,
-      "priceBtc": 0.0033609991495517143
+      "priceBtc": 0.0033673226857871058
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/SamuelAlev/dotjs-to-react/pull/138",
-      "createdAt": "2026-03-23T22:01:24Z"
+      "title": "Update dependency lucide-react to v1.59.0",
+      "url": "https://github.com/buape/buape-com/pull/342",
+      "createdAt": "2026-06-28T21:42:02Z"
     },
     {
-      "title": "chore(lockfile): update lucide-react-lockfile #patch",
-      "url": "https://github.com/GlueOps/waggle/pull/183",
-      "createdAt": "2026-10-17T08:20:12Z"
-    },
-    {
-      "title": "build(deps-dev): bump the dev-dependencies group across 1 directory with 4 updates",
-      "url": "https://github.com/taimei-code/taimei-auth/pull/138",
-      "createdAt": "2026-08-09T13:11:41Z"
+      "title": "Verifiable Merkle Airdrop Claim Contract on Soroban",
+      "url": "https://github.com/Lumen-Nexora/Nexora/issues/16",
+      "createdAt": "2026-10-16T11:34:26Z"
     },
     {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
@@ -285,14 +280,19 @@
       "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "fix(deps): update npm",
-      "url": "https://github.com/WarningImHack3r/svelte-changelog/pull/224",
-      "createdAt": "2026-09-02T12:02:39Z"
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/REVREBEL/REVREBEL-Metrics/pull/21",
+      "createdAt": "2026-05-10T00:25:19Z"
     },
     {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
+      "title": "V6 genesis loader gap: `qumbra-node mine` and qumbra-faucet check/run still load the genesis as the L1 base — refuse a format-10 (V6) net",
+      "url": "https://github.com/qumbra-labs/qumbra-lab/issues/818",
+      "createdAt": "2026-10-01T13:09:44Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide-react to v1.59.0",
+      "url": "https://github.com/agirmar92/refaleikarnir/pull/548",
+      "createdAt": "2026-06-12T20:03:56Z"
     }
   ]
 }
