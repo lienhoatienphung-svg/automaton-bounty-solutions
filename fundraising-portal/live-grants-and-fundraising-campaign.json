@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T18:17:47.403Z",
-  "latencyMs": 749,
+  "executedAt": "2026-10-17T18:30:40.128Z",
+  "latencyMs": 2300,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #483: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #484: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "perf(server): translate a conceptmap code once per search request (#763)",
-          "url": "https://github.com/FerroHEALTH/FerroBRIDGE/pull/776",
-          "repositoryUrl": "https://api.github.com/repos/FerroHEALTH/FerroBRIDGE",
-          "updatedAt": "2026-10-17T18:17:42Z"
-        },
-        {
-          "title": "feat(models): run models on a ChatGPT subscription through Codex",
-          "url": "https://github.com/vstorm-co/agenticos/pull/2141",
-          "repositoryUrl": "https://api.github.com/repos/vstorm-co/agenticos",
-          "updatedAt": "2026-10-17T18:17:41Z"
-        },
-        {
-          "title": "docs(onboarding): add onboarding operator guide",
-          "url": "https://github.com/TogetherWeOwn/two-bot-next/pull/1100",
-          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/two-bot-next",
-          "updatedAt": "2026-10-17T18:17:40Z"
-        },
-        {
-          "title": "feat(runtime): validate tool and subagent call observations (refs #1387)",
-          "url": "https://github.com/adea-ai/adea/pull/1399",
-          "repositoryUrl": "https://api.github.com/repos/adea-ai/adea",
-          "updatedAt": "2026-10-17T18:17:40Z"
-        },
-        {
-          "title": "fix(voice): retry transient actor load failures with capped backoff",
-          "url": "https://github.com/TogetherWeOwn/two-bot-next/pull/1049",
-          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/two-bot-next",
-          "updatedAt": "2026-10-17T18:17:40Z"
-        },
-        {
-          "title": "WIP: Takeover League 2.0 – foundation and EXP migration preview",
-          "url": "https://github.com/benditocapela-ux/takeover-league/pull/1",
-          "repositoryUrl": "https://api.github.com/repos/benditocapela-ux/takeover-league",
-          "updatedAt": "2026-10-17T18:17:39Z"
-        },
-        {
-          "title": "CUTOVER: Enforce Current Roles and Reach Across Runtime Requests",
-          "url": "https://github.com/gobifrost/bifrost/pull/996",
-          "repositoryUrl": "https://api.github.com/repos/gobifrost/bifrost",
-          "updatedAt": "2026-10-17T18:17:39Z"
-        },
-        {
-          "title": "Generic certified release discovery, tenant-window fanout and fail-closed execution approvals",
-          "url": "https://github.com/dansut24/Hi5Central-Platform/pull/79",
-          "repositoryUrl": "https://api.github.com/repos/dansut24/Hi5Central-Platform",
-          "updatedAt": "2026-10-17T18:17:38Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
