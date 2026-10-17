@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T04:10:38.649Z",
-  "latencyMs": 1329,
+  "executedAt": "2026-10-17T04:12:29.071Z",
+  "latencyMs": 706,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #384: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #385: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Nightly snippet run failed",
+      "url": "https://github.com/allora-network/docs/issues/179",
+      "createdAt": "2026-08-08T04:27:44Z"
+    },
+    {
+      "title": "eip155-1121.json",
+      "url": "https://github.com/ethereum-lists/chains/pull/8866",
+      "createdAt": "2026-10-15T22:31:46Z"
+    },
+    {
+      "title": "LND: qualify Taproot Assets mint, transfer, and RFQ payments on signet",
+      "url": "https://github.com/OpenAgentsInc/openagents/issues/11863",
+      "createdAt": "2026-10-16T12:03:26Z"
+    },
+    {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
@@ -278,21 +293,6 @@
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "chore: Implementer inbox — instructions from the Orchestrator",
-      "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
-      "createdAt": "2026-10-06T01:05:54Z"
-    },
-    {
-      "title": "test(sui): ledger stream e2e on a subscription-enabled localnet GraphQL service (3.0 stack)",
-      "url": "https://github.com/MystenLabs/ts-sdks/pull/1355",
-      "createdAt": "2026-10-16T05:45:20Z"
-    },
-    {
-      "title": "erratum: the hosted edition ratifies an 85/15 fee split (D-0525) and block-reward unlock credit (D-0527) that mirror 70e691c, decisions/ and",
-      "url": "https://github.com/flop-labs/yellowpaper/issues/165",
-      "createdAt": "2026-10-16T18:26:31Z"
     }
   ]
 }
