@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T06:39:43.504Z",
-  "latencyMs": 744,
+  "executedAt": "2026-10-17T06:51:47.071Z",
+  "latencyMs": 768,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #407: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #408: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,30 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "DKfHUe6apudnNCzvLQenNJWsy9FEviLWk5thif25pump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Optimus Prime. by Elon's kid.",
+      "url": "https://dexscreener.com/solana/dkfhue6apudnnczvlqennjwsy9fevilwk5thif25pump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "B2GESkSErPjuCq6n4LcaJP5v2z1kJnw3xHVZnop2sZx",
+      "boostAmount": 10,
+      "totalBoostAmount": 40,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/b2geskserpjucq6n4lcajp5v2z1kjnw3xhvznop2szx"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "B2GESkSErPjuCq6n4LcaJP5v2z1kJnw3xHVZnop2sZx",
+      "boostAmount": 30,
+      "totalBoostAmount": 40,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/b2geskserpjucq6n4lcajp5v2z1kjnw3xhvznop2szx"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HbvnNPAd211nDZe3SxNGWLLqDoV3USgXoqV4HdaBS6Wb",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -186,30 +210,6 @@
       "totalBoostAmount": 10,
       "description": "The official token of Playset (playset dot cards). Playset pools graded trading-card slabs vaulted by Collector Crypt, one card at one grade, so anyone can own ",
       "url": "https://dexscreener.com/solana/dt9iztq3viawxb3xdlsjnsn3gxla5fuxxxtwqvgpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xb656EADd009B3b409d7A0971E50dF2f0e4ddef5a",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "No subscription. Just your AI influencer.",
-      "url": "https://dexscreener.com/robinhood/0xb656eadd009b3b409d7a0971e50df2f0e4ddef5a"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "C3NJTFbZPGntqrGp6fZ7K5EVz9miwCuw2Xb5kB4rpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/c3njtfbzpgntqrgp6fz7k5evz9miwcuw2xb5kb4rpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "SAtoZGJkh4Eid9EQZYXWnCNVn5asZrWZLouBMX1SHi1",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/satozgjkh4eid9eqzyxwncnvn5aszrwzloubmx1shi1"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 715,
+      "marketCapRank": 717,
       "priceBtc": 3.211198411121736e-7
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 92,
-      "priceBtc": 0.000009196357176064104
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 615,
-      "priceBtc": 0.001413704257702337
+      "priceBtc": 0.000009186829403396652
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9987133065613413
+      "priceBtc": 0.9990551285456741
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 106,
-      "priceBtc": 0.00002075182909785351
+      "priceBtc": 0.000020755423575726594
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009772368546234712
+      "priceBtc": 0.0009786361256426286
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 617,
+      "priceBtc": 0.0014137057979603787
     },
     {
       "name": "Impossible Cloud Network Token",
       "symbol": "ICNT",
-      "marketCapRank": 423,
-      "priceBtc": 0.0000026606259801498793
+      "marketCapRank": 424,
+      "priceBtc": 0.0000026293120206803398
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.01423104571455444
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 178,
+      "priceBtc": 0.000003915361628804997
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(tron): live-network gate for transaction signing and broadcast",
-      "url": "https://github.com/sig-net/mpc/pull/1463",
-      "createdAt": "2026-10-15T04:47:09Z"
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/descope-sample-apps/10x-crm-sample-app/pull/36",
+      "createdAt": "2026-03-26T15:05:15Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "bump the npm_and_yarn group across 65 directories with 3 updates",
+      "url": "https://github.com/matams/eattheblocks/pull/26",
+      "createdAt": "2026-10-17T06:51:07Z"
     },
     {
-      "title": "Port native Smeltery casting, Drain/Faucet transport and original metal processing",
-      "url": "https://github.com/totevr31-ux/TinkersConstruct/pull/62",
-      "createdAt": "2026-10-16T12:17:23Z"
+      "title": "📦 Pending promotion: dev → main",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
+      "createdAt": "2026-06-29T11:18:37Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/descope-sample-apps/docs-gpt/pull/97",
+      "createdAt": "2026-03-26T19:42:07Z"
     },
     {
-      "title": "site: serve the network list at GET /networks on the root domain",
-      "url": "https://github.com/tequdev/xahau-network-generator/pull/41",
-      "createdAt": "2026-10-17T06:38:34Z"
+      "title": "perf(tests): enable vLLM PIECEWISE CUDA graphs in two eager release recipes",
+      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4568",
+      "createdAt": "2026-10-07T13:11:41Z"
     },
     {
-      "title": "feat: bonding-curve game modes (PVE/PVP/TRENCH) + swap gas optimisation + DISCIPLE audit fixes",
-      "url": "https://github.com/makerlee0x/disciple/pull/75",
-      "createdAt": "2026-10-17T03:44:55Z"
+      "title": "docs: explain macOS Gatekeeper quarantine for the unsigned archives",
+      "url": "https://github.com/EffortlessMetrics/ripr-swarm/pull/8416",
+      "createdAt": "2026-10-17T06:43:19Z"
     }
   ]
 }
