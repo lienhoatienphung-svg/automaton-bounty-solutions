@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T04:25:26.038Z",
-  "latencyMs": 1419,
+  "executedAt": "2026-10-17T04:37:07.228Z",
+  "latencyMs": 1325,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #387: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #388: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "EmoRR2DMqSpAzx7yXyMYhz2skGWhDsYFh6V1ydREpump",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "BTC, ETH & SOL perps on Solana. Up to 1,000× leverage.",
+      "url": "https://dexscreener.com/solana/emorr2dmqspazx7yxymyhz2skgwhdsyfh6v1ydrepump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "DT9izTQ3viAwXb3xdLsJnSn3gxLa5fUxXxTwQvGpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Survive the zombie apocalypse in Deadtiles. Scavenge, trade, and choose a side. Play in the browser.",
       "url": "https://dexscreener.com/solana/dmrkspyf38rcq9m6rshp2crhxvapekpln9e7mwtfa95h"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x27495511b8A2e163efC75d788706a40Dd100Bc27",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "The Brotherhood is a community, first project built on Robinhood Chain for people who are tired of rugs, empty promises and being treated as exit liquidity.\n\n$P",
-      "url": "https://dexscreener.com/robinhood/0x27495511b8a2e163efc75d788706a40dd100bc27"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,62 +217,62 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 718,
+      "marketCapRank": 717,
       "priceBtc": 3.211198411121736e-7
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006252333784626581
-    },
-    {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012844229645272167
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.309995638513012e-8
-    },
-    {
-      "name": "NeoSoul",
-      "symbol": "DNA",
-      "marketCapRank": 544,
-      "priceBtc": 0.0000036722215508214113
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 92,
-      "priceBtc": 0.000009070160868756068
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00010924119035589203
+      "priceBtc": 0.00010946417902097791
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.0012837263655676048
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 92,
+      "priceBtc": 0.000009187332505718351
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 109,
+      "priceBtc": 8.790357158037749e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 618,
-      "priceBtc": 0.0014153192406425865
+      "marketCapRank": 619,
+      "priceBtc": 0.0014154490849922598
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006234775988535855
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000012447002868035355
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Suunto Ocean and Nautic support",
-      "url": "https://github.com/deepsealabs/libdc-swift/issues/29",
-      "createdAt": "2026-08-28T16:22:32Z"
+      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
+      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
+      "createdAt": "2026-10-07T16:13:30Z"
     },
     {
-      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
-      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
-      "createdAt": "2026-10-09T07:30:01Z"
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
     },
     {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
@@ -280,19 +280,19 @@
       "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "Add the sandbagging-elicitation task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/31",
-      "createdAt": "2026-09-27T12:37:00Z"
+      "title": "Suunto Ocean and Nautic support",
+      "url": "https://github.com/deepsealabs/libdc-swift/issues/29",
+      "createdAt": "2026-08-28T16:22:32Z"
     },
     {
-      "title": "Bump the admin-dependencies group across 1 directory with 17 updates",
-      "url": "https://github.com/shivamkalra123/roster-app/pull/12",
-      "createdAt": "2026-09-26T04:24:11Z"
+      "title": "Security: app headers, operator rate limit, whitelist backup, mainnet monitor",
+      "url": "https://github.com/armanalabsai/arlcoin.io/pull/47",
+      "createdAt": "2026-10-17T04:25:28Z"
     },
     {
-      "title": "Bump the frontend-dependencies group across 1 directory with 16 updates",
-      "url": "https://github.com/shivamkalra123/roster-app/pull/11",
-      "createdAt": "2026-09-26T04:24:11Z"
+      "title": "動作確認用にDevelopment署名・公証なしのインストーラを作るdev-pkgターゲットを追加する",
+      "url": "https://github.com/mtgto/macSKK/pull/531",
+      "createdAt": "2026-10-17T04:27:30Z"
     }
   ]
 }
