@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T16:11:03.856Z",
-  "latencyMs": 254,
+  "executedAt": "2026-10-17T16:23:49.770Z",
+  "latencyMs": 352,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #483: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #484: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52732058,
+    "liveBlockNumber": 52732441,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 455650,
-    "baseMainnetTopPoolsVolume24hUsd": 213478,
+    "baseMainnetTopPoolsLiquidityUsd": 455646,
+    "baseMainnetTopPoolsVolume24hUsd": 213694,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0xe8461aFB0f56bB25C99988aCd8422e91e7322640",
+        "description": "Pixel survival on Ethereum. Explore, evolve, and survive. Play as a guest or connect your wallet. 🔥",
+        "url": "https://dexscreener.com/ethereum/0xe8461afb0f56bb25c99988acd8422e91e7322640"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6u3Bhgth7DNsWJb5tPSTyffHWrVmyrZkfnvacgCYc77C",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6u3bhgth7dnswjb5tpstyffhwrvmyrzkfnvacgcyc77c"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Eqd2A9abx6w72X1UM94pdArdGbvxqUz2tdG454Rfpump",
+        "description": "He made a full length anime with Claude.",
+        "url": "https://dexscreener.com/solana/eqd2a9abx6w72x1um94pdardgbvxquz2tdg454rfpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9beC7MT5BTpV7ujYd38oAKEvk2czzWWZC6iQuia4pump",
@@ -63,24 +81,6 @@
         "tokenAddress": "D9oJzGanp9kXLeX2uZeVr5WmZQG3CF9i5jNqbRDKpump",
         "description": "The name of the movement happening in France.",
         "url": "https://dexscreener.com/solana/d9ojzganp9kxlex2uzevr5wmzqg3cf9i5jnqbrdkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6fsiuUEpS3cJ9mtEUsLjPyhuRgH4NMvyv6eLiaFbpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6fsiuueps3cj9mteusljpyhurgh4nmvyv6eliafbpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2ToDyk3tzSc3x8BECvrEq33ZdEHutc3iXUzvsgJVnJo9",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2todyk3tzsc3x8becvreq33zdehutc3ixuzvsgjvnjo9"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "361QLKysXNmXMsk5exDFW31eD8CeuZk2UfH1vSpjpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/361qlkysxnmxmsk5exdfw31ed8ceuzk2ufh1vspjpump"
       }
     ]
   },
