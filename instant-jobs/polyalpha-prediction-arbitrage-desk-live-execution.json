@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-16T23:57:42.939Z",
-  "latencyMs": 690,
+  "executedAt": "2026-10-17T00:10:59.908Z",
+  "latencyMs": 592,
   "companyName": "PolyAlpha Prediction & Arbitrage Desk",
-  "workTitle": "Delivery Sprint #369: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
-  "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
+  "workTitle": "Growth & Sales Sprint #370: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Wrapbook: Senior Software Engineer",
+  "targetUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656621,
-        "liquidityUsd": 36507,
+        "liquidityUsd": 37618,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2500535,
-        "liquidityUsd": 17281,
+        "liquidityUsd": 18171,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2176077,
-        "liquidityUsd": 89808,
+        "liquidityUsd": 90494,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 19116,
+        "liquidityUsd": 19589,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -72,7 +72,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00012,
         "liquidityUsd": 103138,
-        "volume24hUsd": 117089,
+        "volume24hUsd": 117091,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -92,7 +92,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00016,
         "liquidityUsd": 140028,
-        "volume24hUsd": 17126,
+        "volume24hUsd": 17128,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00011,
         "liquidityUsd": 21385,
-        "volume24hUsd": 102163,
+        "volume24hUsd": 102011,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -110,9 +110,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000093,
+        "priceUsd": 1.000092,
         "liquidityUsd": 12034,
-        "volume24hUsd": 2186,
+        "volume24hUsd": 2200,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
@@ -130,6 +130,51 @@
   "multiIndustryB2BContracts": {
     "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "AlgaeCal",
+        "roleOrTask": "Associate Data Scientist",
+        "industryTags": [
+          "design",
+          "python",
+          "customer support",
+          "marketing",
+          "dev"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Hippocratic AI",
+        "roleOrTask": "Director of IT and Workplace",
+        "industryTags": [
+          "exec",
+          "saas",
+          "infosec",
+          "python",
+          "technical"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Voltus",
+        "roleOrTask": "Customer Success Associate",
+        "industryTags": [
+          "customer support",
+          "testing",
+          "exec",
+          "ops",
+          "sales"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "RemoteOK-InstantB2B",
         "company": "Allego",
@@ -158,51 +203,6 @@
         ],
         "compensation": "$500-$2,500 Instant Retainer",
         "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Manila Recruitment",
-        "roleOrTask": "Director US Tax & Accounting #35344",
-        "industryTags": [
-          "exec",
-          "accounting",
-          "education",
-          "technical",
-          "customer support"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Twoconnect",
-        "roleOrTask": "Project and Quality Administrator Work From Home Dayshift",
-        "industryTags": [
-          "work from home",
-          "jira",
-          "sys admin",
-          "education",
-          "customer support"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Somnio Software",
-        "roleOrTask": "Sr REACT NATIVE",
-        "industryTags": [
-          "react native",
-          "react",
-          "dev",
-          "python",
-          "javascript"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
         "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
       },
       {
