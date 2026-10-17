@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T00:32:42.486Z",
-  "latencyMs": 675,
+  "executedAt": "2026-10-17T00:44:51.279Z",
+  "latencyMs": 805,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #353: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #354: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "6S7jwQuVipHuEaASAZ9Kn7r3Zy3jkebhAMFxnuWnpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "The world's first GTA V server with real cryptocurrency integration",
+      "url": "https://dexscreener.com/solana/6s7jwquviphueaasaz9kn7r3zy3jkebhamfxnuwnpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "FcX3YPNqJLFfsRLLgCXc6qQNa4EoneRZEhJXZrjqpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "The iconic Pumpfun pill gets a spooky makeover! Halloween colors meet Pumpfun culture, bringing pumpkins, pumps, and pure memecoin energy together!",
       "url": "https://dexscreener.com/solana/2y1su9ntrrfmi3ebdzpcucbrqkta94h6cljkiylxjxoz"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "HFTxNjdyESnGNscsgeW2NyosSBScpfaMwDiaH5ttcvGo",
-      "boostAmount": 10,
-      "totalBoostAmount": 20,
-      "description": "$JUSTQ by Quantum Snek on Cardano\n\nA deflationary token on Solana used to supplement $QSNEK on Cardano",
-      "url": "https://dexscreener.com/solana/hftxnjdyesngnscsgew2nyossbscpfamwdiah5ttcvgo"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -221,53 +221,53 @@
       "priceBtc": 3.211198411121736e-7
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9989636087039396
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 618,
-      "priceBtc": 0.001414463278294035
-    },
-    {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010570879558797939
-    },
-    {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.516991116126399e-8
+      "priceBtc": 0.00010607885361298911
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.0000615337190463207
+      "priceBtc": 0.00006170478593175595
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 616,
+      "priceBtc": 0.001416025804508777
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.0004643579292685
+    },
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 49,
+      "priceBtc": 5.572431294652052e-8
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 106,
-      "priceBtc": 0.000020993269943707616
+      "priceBtc": 0.000021016940515179626
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.014071418282954962
+      "priceBtc": 0.014124581042541478
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
-      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
-      "createdAt": "2026-10-09T07:30:01Z"
+      "title": "Rewards module does not emit events for downstream consumers",
+      "url": "https://github.com/augustina-jpg/scoopdope/issues/1168",
+      "createdAt": "2026-10-15T18:09:56Z"
     },
     {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
@@ -275,24 +275,24 @@
       "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "Daily Shorts Pipeline — Reports",
-      "url": "https://github.com/caleblschulte0-ux/Shorts-pipeline/issues/1",
-      "createdAt": "2026-05-28T21:54:45Z"
+      "title": "[Catalog P4] Atlas — AAVE Staked Token",
+      "url": "https://github.com/matheus-junio-da-silva/Web3Bugs/pull/2",
+      "createdAt": "2026-10-16T23:46:23Z"
     },
     {
-      "title": "Faucet: real RSN payout (faucet pays fees, one fill per wallet per 4h)",
-      "url": "https://github.com/caaconwinner/RSN/pull/4",
-      "createdAt": "2026-10-16T23:03:52Z"
+      "title": "chore: add ux bench playground for tempo wallet and webauthn adapters",
+      "url": "https://github.com/tempoxyz/accounts/pull/887",
+      "createdAt": "2026-10-17T00:42:35Z"
     },
     {
-      "title": "[perf] spec decoding: fuse simulated speculative acceptance tensor preparation",
-      "url": "https://github.com/sgl-project/sglang/pull/41169",
-      "createdAt": "2026-09-24T20:43:54Z"
+      "title": "[Bug]: Payfetch 1.0.1 paid request not decoded by x402 2.17.0 server due to payment-header mismatch",
+      "url": "https://github.com/x402-foundation/x402/issues/3837",
+      "createdAt": "2026-10-17T00:42:08Z"
     },
     {
-      "title": "feat(rwa): role flows — retail LP supply/redeem, issuer console, testnet faucet",
-      "url": "https://github.com/MintwareDevelopers/Mintware-Beta/pull/516",
-      "createdAt": "2026-10-02T18:16:52Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     }
   ]
 }
