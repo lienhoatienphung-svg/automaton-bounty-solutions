@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T22:27:05.896Z",
-  "latencyMs": 259,
+  "executedAt": "2026-10-17T22:28:46.669Z",
+  "latencyMs": 337,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #532: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #533: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52743339,
+    "liveBlockNumber": 52743389,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 195263,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xff6A3387cF21Ef2Ed2E94dA324BCE290Ca9ABC3B",
+        "description": "Automated execution and trailing infrastructure for Hyperliquid. Zero-custody systematic trading with dynamic orderbook trailing, risk guards, and multi-tier ex",
+        "url": "https://dexscreener.com/robinhood/0xff6a3387cf21ef2ed2e94da324bce290ca9abc3b"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DZjL9UwU9vHnD5rftSavwNCjx1QgFz5eNFjQDmtUpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "GwZeWP9MuQ4tGW57fi8rjUJhJmuKxbWC9RgzZppUpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/gwzewp9muq4tgw57fi8rjujhjmukxbwc9rgzzppupump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x8a19d2F16B17E77380Eb48A5272dc6f59E607652",
-        "description": "A DeFi yield platform that allows users to earn rewards while holding their favorite meme coins, without needing to sell them.",
-        "url": "https://dexscreener.com/robinhood/0x8a19d2f16b17e77380eb48a5272dc6f59e607652"
       }
     ]
   },
