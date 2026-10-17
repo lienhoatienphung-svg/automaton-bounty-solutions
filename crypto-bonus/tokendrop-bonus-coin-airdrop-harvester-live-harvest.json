@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T18:29:04.906Z",
-  "latencyMs": 839,
+  "executedAt": "2026-10-17T18:42:04.727Z",
+  "latencyMs": 1103,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #505: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #506: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0xb656EADd009B3b409d7A0971E50dF2f0e4ddef5a",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "No subscription. Just your AI influencer.",
+      "url": "https://dexscreener.com/robinhood/0xb656eadd009b3b409d7a0971e50df2f0e4ddef5a"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/ggdt9qlfxumcfxghq82tx2onjepl5ss3xpxxiushpump"
-    },
-    {
-      "chainId": "bsc",
-      "tokenAddress": "0x7D0443CdDFc8E11AF105F4fE44Dd28c630237777",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "i got that dawg in me",
-      "url": "https://dexscreener.com/bsc/0x7d0443cddfc8e11af105f4fe44dd28c630237777"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 108,
-      "priceBtc": 0.0000015107443812684188
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 38,
-      "priceBtc": 0.002453677451485729
+      "marketCapRank": 107,
+      "priceBtc": 0.0000015154860669270903
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.0000604342333726596
+      "priceBtc": 0.00006071436917555919
     },
     {
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "marketCapRank": 48,
-      "priceBtc": 0.000005414969292594624
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.013883452764046816
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.000012052273528219005
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 38,
+      "priceBtc": 0.0024607401717992436
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 120,
-      "priceBtc": 9.179236359604446e-8
+      "priceBtc": 9.198427605786633e-8
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 98,
-      "priceBtc": 0.000023170565104280468
+      "marketCapRank": 101,
+      "priceBtc": 0.0000229337637638322
+    },
+    {
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "marketCapRank": 48,
+      "priceBtc": 0.000005423215899987745
+    },
+    {
+      "name": "Bitway",
+      "symbol": "BTW",
+      "marketCapRank": 31,
+      "priceBtc": 0.00003159095233932292
+    },
+    {
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "marketCapRank": 16,
+      "priceBtc": 0.00014751002735938643
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Frontend: submit work, verifier approvals, admin dashboard, and token allowlist",
-      "url": "https://github.com/mergemint-mint/mergemint-contracts/pull/1137",
-      "createdAt": "2026-10-17T18:28:50Z"
+      "title": "test(web): route tests for settle/resolver/faucet/session/deposit-status, typecheck in CI, quieter trust cues",
+      "url": "https://github.com/tote-hq/stellar/pull/81",
+      "createdAt": "2026-10-17T18:40:59Z"
     },
     {
-      "title": "CP: mechanics waves tracker (draft, not for merge)",
-      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
-      "createdAt": "2026-10-15T07:00:56Z"
+      "title": "Harden bridge recovery and network release checks",
+      "url": "https://github.com/solana-classic/solana-classic/pull/6",
+      "createdAt": "2026-10-15T10:38:56Z"
     },
     {
-      "title": "Epic: production-like end-to-end tests on GitHub runners before going public and mainnet",
-      "url": "https://github.com/bytesbrains/copra/issues/41",
-      "createdAt": "2026-10-17T05:35:40Z"
+      "title": "[rolloutengine] Replace task sessions with registered harnesses",
+      "url": "https://github.com/marin-community/marin/pull/10203",
+      "createdAt": "2026-10-16T17:41:36Z"
     },
     {
-      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
-      "url": "https://github.com/jsboige/CoursIA/pull/20377",
-      "createdAt": "2026-10-11T14:10:17Z"
+      "title": "fix(deps): refresh vulnerable transitive dependencies",
+      "url": "https://github.com/ckb-devrel/ccc/pull/606",
+      "createdAt": "2026-10-17T18:37:36Z"
     },
     {
-      "title": "[SC-19] Automated Market Maker Yield Farming & Dynamic Reward Vesting Engine",
-      "url": "https://github.com/StellarDevHub/soroban-playground/issues/1815",
-      "createdAt": "2026-10-14T15:23:10Z"
+      "title": "S-0 steps 2–3: Chia peer lane replaces the coinset gateway",
+      "url": "https://github.com/Bella-Addormentata/StarStationFurlong/pull/271",
+      "createdAt": "2026-10-17T17:35:23Z"
     },
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
-      "createdAt": "2026-10-17T18:26:37Z"
+      "title": "Ingestion readiness 2026-10-17 — NOT ready: 18 blockers + 10 security items (discovery prompts tile-only, extraction crash, uploads bound to",
+      "url": "https://github.com/creativeghq/material-kai-vision-platform/issues/494",
+      "createdAt": "2026-10-16T13:49:06Z"
     }
   ]
 }
