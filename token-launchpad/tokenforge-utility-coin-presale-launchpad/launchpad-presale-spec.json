@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T09:22:55.044Z",
-  "latencyMs": 256,
+  "executedAt": "2026-10-17T09:24:56.276Z",
+  "latencyMs": 383,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #426: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #427: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52719813,
+    "liveBlockNumber": 52719874,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458998,
-    "baseMainnetTopPoolsVolume24hUsd": 247971,
+    "baseMainnetTopPoolsVolume24hUsd": 247969,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HUYpHbkjLLAyRte7dNedYzP1csDY6GNrepVVRvdTpump",
+        "description": "bye",
+        "url": "https://dexscreener.com/solana/huyphbkjllayrte7dnedyzp1csdy6gnrepvvrvdtpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8aC85jZcSx2xNpoMNgVvPvPG5Qsndh3NgtaGUuPcpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "5do8SkQt2nxp3daqXgKcdF7j2BjgiGgxYi5Avkqppump",
         "description": "💖 Meet Penelope $PENELOPE 💖 \n\nShe's got the hair, the attitude, and the gold teeth but don't ask her to do math. Penelope is the internet's most unhinged fash",
         "url": "https://dexscreener.com/solana/5do8skqt2nxp3daqxgkcdf7j2bjgiggxyi5avkqppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GDNGMNnSyJK4iohEbigiVbUz8tM4UvFRSGw3d73Wpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/gdngmnnsyjk4iohebigivbuz8tm4uvfrsgw3d73wpump"
       }
     ]
   },
