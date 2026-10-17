@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T13:27:42.395Z",
-  "latencyMs": 896,
+  "executedAt": "2026-10-17T13:40:06.323Z",
+  "latencyMs": 1624,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #465: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #466: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,84 +215,53 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 616,
+      "priceBtc": 0.0014061790610632808
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010477787147111671
+    },
+    {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9990870121825246
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 614,
-      "priceBtc": 0.0014108899683909226
-    },
-    {
-      "name": "Derive",
-      "symbol": "DRV",
-      "marketCapRank": 124,
-      "priceBtc": 0.000005161189685956146
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 89,
-      "priceBtc": 0.000038896886409901664
-    },
-    {
-      "name": "Raydium",
-      "symbol": "RAY",
-      "marketCapRank": 117,
-      "priceBtc": 0.000022106030382531504
+      "priceBtc": 0.9994405128450398
     },
     {
       "name": "Quant",
       "symbol": "QNT",
       "marketCapRank": 38,
-      "priceBtc": 0.0024744373835501694
+      "priceBtc": 0.002488270728792494
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.134627215290098e-8
+      "marketCapRank": 118,
+      "priceBtc": 9.181031375936727e-8
+    },
+    {
+      "name": "Raydium",
+      "symbol": "RAY",
+      "marketCapRank": 117,
+      "priceBtc": 0.000022147950789052592
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 36,
-      "priceBtc": 0.0033012907893835365
+      "priceBtc": 0.003310565318132099
+    },
+    {
+      "name": "Derive",
+      "symbol": "DRV",
+      "marketCapRank": 125,
+      "priceBtc": 0.00000515738737468559
     }
   ],
-  "activeAirdropAndFaucetQuests": [
-    {
-      "title": "experiment: share account viewing keys through inbox envelopes",
-      "url": "https://github.com/midnightntwrk/passport/pull/177",
-      "createdAt": "2026-10-01T20:19:25Z"
-    },
-    {
-      "title": "Add LP rewards contract for liquidity providers on graduated keys",
-      "url": "https://github.com/accesslayerorg/accesslayer-contracts/issues/1053",
-      "createdAt": "2026-10-17T13:18:14Z"
-    },
-    {
-      "title": "perf(jit): don't split critical edges in PHI elimination",
-      "url": "https://github.com/alloy-rs/evm2/pull/681",
-      "createdAt": "2026-10-17T12:17:35Z"
-    },
-    {
-      "title": "Epic: x402 monetization — wire existing APIs and add paid pricing, review, reputation and attestation endpoints",
-      "url": "https://github.com/vanduc2514/hackathon-circle-misthos/issues/200",
-      "createdAt": "2026-10-17T13:16:55Z"
-    },
-    {
-      "title": "Feat/cli notes show details",
-      "url": "https://github.com/0xMiden/rust-sdk/pull/2666",
-      "createdAt": "2026-10-04T10:43:38Z"
-    },
-    {
-      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
-      "url": "https://github.com/Dillen198/bfnext/pull/1",
-      "createdAt": "2026-01-19T07:41:07Z"
-    }
-  ]
+  "activeAirdropAndFaucetQuests": []
 }
