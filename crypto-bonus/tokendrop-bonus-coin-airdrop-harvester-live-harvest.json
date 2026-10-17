@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T19:29:05.595Z",
-  "latencyMs": 1005,
+  "executedAt": "2026-10-17T19:41:48.139Z",
+  "latencyMs": 1238,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #513: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #514: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,51 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 108,
-      "priceBtc": 0.0000015009272480939775
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 39,
-      "priceBtc": 0.00244659064247569
+      "marketCapRank": 107,
+      "priceBtc": 0.0000015152441735325186
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.000060977765814499674
+      "priceBtc": 0.00006109382943455372
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 39,
+      "priceBtc": 0.002441988694140167
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 631,
-      "priceBtc": 0.0013485030579133159
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 102,
-      "priceBtc": 0.00002281818826278579
+      "priceBtc": 0.0013478568210724155
     },
     {
       "name": "Ondo",
       "symbol": "ONDO",
       "marketCapRank": 48,
-      "priceBtc": 0.000005429383967931967
-    },
-    {
-      "name": "Bitway",
-      "symbol": "BTW",
-      "marketCapRank": 31,
-      "priceBtc": 0.000032269450430901486
+      "priceBtc": 0.000005436501608848142
     },
     {
       "name": "Monad",
       "symbol": "MON",
       "marketCapRank": 156,
-      "priceBtc": 2.693177625895374e-7
+      "priceBtc": 2.6950707227624625e-7
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 116,
+      "priceBtc": 8.030663342039667e-7
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 102,
+      "priceBtc": 0.0000227797547131971
     }
   ],
-  "activeAirdropAndFaucetQuests": [
-    {
-      "title": "fix(did-ckb): propagate history input lookup failures",
-      "url": "https://github.com/ckb-devrel/ccc/pull/608",
-      "createdAt": "2026-10-17T19:28:41Z"
-    },
-    {
-      "title": "deploy: fresh Base Sepolia + Arbitrum Sepolia redeploy (2026-10-17) and the deploy build step skips the test tree",
-      "url": "https://github.com/vaipakam/vaipakam/pull/2545",
-      "createdAt": "2026-10-17T18:52:07Z"
-    },
-    {
-      "title": "[BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history",
-      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1",
-      "createdAt": "2026-03-27T00:55:36Z"
-    },
-    {
-      "title": "[BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project",
-      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2",
-      "createdAt": "2026-03-27T00:55:38Z"
-    },
-    {
-      "title": "[BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structured comment",
-      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4",
-      "createdAt": "2026-03-27T00:55:42Z"
-    },
-    {
-      "title": "Draft: continuity ledger, canon fixes, and staged 10k chapter expansion",
-      "url": "https://github.com/danielmartinez-maker/TheSEARemembers/pull/103",
-      "createdAt": "2026-10-14T03:22:20Z"
-    }
-  ]
+  "activeAirdropAndFaucetQuests": []
 }
