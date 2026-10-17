@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T06:26:04.372Z",
-  "latencyMs": 502,
+  "executedAt": "2026-10-17T06:27:48.771Z",
+  "latencyMs": 736,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #384: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #385: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "fix(agent): Windows ACL repair flow — summary, program directory, register --force order, service refusal, step reason (T20)",
+          "url": "https://github.com/fgbm/restichub/pull/232",
+          "repositoryUrl": "https://api.github.com/repos/fgbm/restichub",
+          "updatedAt": "2026-10-17T06:27:42Z"
+        },
+        {
+          "title": "test(kit): add rendered accessibility evidence for the error shell",
+          "url": "https://github.com/TogetherWeOwn/two-web-next/pull/955",
+          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/two-web-next",
+          "updatedAt": "2026-10-17T06:27:45Z"
+        },
+        {
+          "title": "Fix Friday X browser approvals and missing run results",
+          "url": "https://github.com/avitus/veetbot/pull/170",
+          "repositoryUrl": "https://api.github.com/repos/avitus/veetbot",
+          "updatedAt": "2026-10-17T06:27:41Z"
+        },
+        {
+          "title": "Add daily Telegram report of Claude pool account usage",
+          "url": "https://github.com/shubhodeep1/coding-workflows/pull/7541",
+          "repositoryUrl": "https://api.github.com/repos/shubhodeep1/coding-workflows",
+          "updatedAt": "2026-10-17T06:27:45Z"
+        },
+        {
+          "title": "Add signed run lifecycle and conservative completeness assessment",
+          "url": "https://github.com/nocktechnologies/nockguard/pull/180",
+          "repositoryUrl": "https://api.github.com/repos/nocktechnologies/nockguard",
+          "updatedAt": "2026-10-17T06:27:41Z"
+        },
+        {
+          "title": "Add the extension platform and Skillager integration",
+          "url": "https://github.com/jarmak-personal/hvir/pull/919",
+          "repositoryUrl": "https://api.github.com/repos/jarmak-personal/hvir",
+          "updatedAt": "2026-10-17T06:27:40Z"
+        },
+        {
+          "title": "Separate profile settings from project and server management",
+          "url": "https://github.com/grigoryshulga/genie/pull/57",
+          "repositoryUrl": "https://api.github.com/repos/grigoryshulga/genie",
+          "updatedAt": "2026-10-17T06:27:39Z"
+        },
+        {
+          "title": "Draft: user-signed XITA transfers, Interchain Fee and optional gas sponsorship",
+          "url": "https://github.com/xgr-network/xgr-interchain/pull/136",
+          "repositoryUrl": "https://api.github.com/repos/xgr-network/xgr-interchain",
+          "updatedAt": "2026-10-17T06:27:39Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
