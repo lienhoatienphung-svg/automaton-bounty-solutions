@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T21:10:49.896Z",
-  "latencyMs": 974,
+  "executedAt": "2026-10-17T21:12:40.322Z",
+  "latencyMs": 1014,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #526: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #527: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,55 +215,75 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 633,
+      "priceBtc": 0.0013443519433247373
+    },
+    {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 102,
-      "priceBtc": 0.00002274644364719095
+      "priceBtc": 0.00002286349772389422
     },
     {
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 109,
-      "priceBtc": 0.0000014754990259421764
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 632,
-      "priceBtc": 0.001344808413253397
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 120,
-      "priceBtc": 9.239614816850618e-8
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006120947692753199
+      "priceBtc": 0.0000014836881031078644
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 117,
-      "priceBtc": 7.962093418348637e-7
+      "priceBtc": 7.942733728711681e-7
     },
     {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 39,
-      "priceBtc": 0.002444102151090536
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006116944001486245
     },
     {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.001275200564676757
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.014195475058152355
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 85,
+      "priceBtc": 0.00001049002673710727
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 84,
+      "priceBtc": 0.00010634026080390191
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Fix: 4 issues (#754, #755, #756, #757)",
+      "url": "https://github.com/sonoflawal-1/Stellar-agent/pull/805",
+      "createdAt": "2026-10-17T21:12:36Z"
+    },
+    {
+      "title": "S-0 steps 2–3: Chia peer lane replaces the coinset gateway",
+      "url": "https://github.com/Bella-Addormentata/StarStationFurlong/pull/271",
+      "createdAt": "2026-10-17T17:35:23Z"
+    },
+    {
+      "title": "chore(deps): Bump lucide-react from 1.40.0 to 1.49.0 in the lucide-react group",
+      "url": "https://github.com/carlos-claro2025/ClimaNow/pull/2",
+      "createdAt": "2026-10-03T20:41:02Z"
+    },
+    {
+      "title": "deploy: fresh Base Sepolia + Arbitrum Sepolia redeploy (2026-10-17) and the deploy build step skips the test tree",
+      "url": "https://github.com/vaipakam/vaipakam/pull/2545",
+      "createdAt": "2026-10-17T18:52:07Z"
+    },
     {
       "title": "Update all major dependencies (major)",
       "url": "https://github.com/Mbehbahani/JobPilot/pull/18",
@@ -273,26 +293,6 @@
       "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
       "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
       "createdAt": "2026-10-12T21:43:27Z"
-    },
-    {
-      "title": "Integrate the achievement card kit across Profile and collections",
-      "url": "https://github.com/sock-lint/the-abby-project/pull/269",
-      "createdAt": "2026-10-17T21:04:30Z"
-    },
-    {
-      "title": "refactor(backup): stage alpha home-state as raw copies, exclude History",
-      "url": "https://github.com/repparw/nix/pull/292",
-      "createdAt": "2026-10-17T20:05:34Z"
-    },
-    {
-      "title": "soroban: `dispatch_confirmation` claims a failed keeper-reward payout will not roll back the confirmation, but it does",
-      "url": "https://github.com/Perihelion-Protocol/Perihelion/issues/913",
-      "createdAt": "2026-10-15T10:53:04Z"
-    },
-    {
-      "title": "Draft: continuity ledger, canon fixes, and staged 10k chapter expansion",
-      "url": "https://github.com/danielmartinez-maker/TheSEARemembers/pull/103",
-      "createdAt": "2026-10-14T03:22:20Z"
     }
   ]
 }
