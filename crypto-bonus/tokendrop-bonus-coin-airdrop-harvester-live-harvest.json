@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T18:57:29.712Z",
-  "latencyMs": 1177,
+  "executedAt": "2026-10-17T18:59:11.372Z",
+  "latencyMs": 752,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #508: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #509: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,24 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "S-0 steps 2–3: Chia peer lane replaces the coinset gateway",
-      "url": "https://github.com/Bella-Addormentata/StarStationFurlong/pull/271",
-      "createdAt": "2026-10-17T17:35:23Z"
+      "title": "Sign BLAKE2b-chain vouchers with the unified sighash",
+      "url": "https://github.com/blocktrails/fund-agent/pull/9",
+      "createdAt": "2026-10-17T18:49:28Z"
     },
     {
-      "title": "CP: mechanics waves tracker (draft, not for merge)",
-      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
-      "createdAt": "2026-10-15T07:00:56Z"
-    },
-    {
-      "title": "deploy: fresh Base Sepolia + Arbitrum Sepolia redeploy (2026-10-17) and the deploy build step skips the test tree",
-      "url": "https://github.com/vaipakam/vaipakam/pull/2545",
-      "createdAt": "2026-10-17T18:52:07Z"
-    },
-    {
-      "title": "MerkleAirdrop initialize does not require admin auth",
-      "url": "https://github.com/Soroban-Cookbook/Soroban-Cookbook-/issues/1060",
-      "createdAt": "2026-09-23T12:00:16Z"
+      "title": "A card or coin sink: SBCs, prestige and collections",
+      "url": "https://github.com/VibeTrunk/kut/issues/224",
+      "createdAt": "2026-10-10T08:05:32Z"
     },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
@@ -290,9 +280,19 @@
       "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
+      "title": "# Spike 651 — RSC plus streaming and Suspense expansion to kill blocking waterfalls",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/513",
+      "createdAt": "2026-10-15T11:00:43Z"
+    },
+    {
+      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
+      "createdAt": "2026-10-06T11:40:04Z"
+    },
+    {
+      "title": "# Spike 652 — Image pipeline hardening with next-image migration and LCP discipline",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/514",
+      "createdAt": "2026-10-15T11:01:11Z"
     }
   ]
 }
