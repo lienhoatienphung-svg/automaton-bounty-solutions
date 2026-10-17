@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T18:43:58.833Z",
-  "latencyMs": 250,
+  "executedAt": "2026-10-17T18:57:36.318Z",
+  "latencyMs": 362,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #503: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #504: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52736645,
+    "liveBlockNumber": 52737054,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458995,
-    "baseMainnetTopPoolsVolume24hUsd": 202056,
+    "baseMainnetTopPoolsVolume24hUsd": 201247,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6TAFBuNtJ7p4ciVkXSGXFhzNvk1DVkudSySJ2Ti8pump",
+        "description": "The French riots are escalating.",
+        "url": "https://dexscreener.com/solana/6tafbuntj7p4civkxsgxfhznvk1dvkudsysj2ti8pump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x3d45eda1a60c02e204757deecdb5bfa920f3f1e0",
+        "description": "Nenrin: credit for autonomous AI agents. Backers lend USDG, agents repay from what their customers pay, and every loan repaid on time adds a ring to a record no",
+        "url": "https://dexscreener.com/robinhood/0x3d45eda1a60c02e204757deecdb5bfa920f3f1e0"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "H3BuaoYUvYf7QCehYrwF1CJ2JmUdUMFykinDoExPpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x27df3a56f1901b3dcd830ff579ff54bd5ee73da4",
         "description": "The needle, on-chain. USDG pools on all 435 House districts, the Senate and the governors, on Robinhood Chain. Odds from Kalshi you can verify.",
         "url": "https://dexscreener.com/robinhood/0x27df3a56f1901b3dcd830ff579ff54bd5ee73da4"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AG3A6Qdr5Xwv49fsqhWprJvxLaqZ4j1L9VKURw7npump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ag3a6qdr5xwv49fsqhwprjvxlaqz4j1l9vkurw7npump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2FvPFhYEMGmnXy9vMonc8sqxHhPM4n7dLxkPPL9Zpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2fvpfhyemgmnxy9vmonc8sqxhhpm4n7dlxkppl9zpump"
       }
     ]
   },
