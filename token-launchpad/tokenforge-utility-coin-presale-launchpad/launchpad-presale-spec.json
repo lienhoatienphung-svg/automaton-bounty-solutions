@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T09:24:56.276Z",
-  "latencyMs": 383,
+  "executedAt": "2026-10-17T09:37:53.735Z",
+  "latencyMs": 430,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #427: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #428: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52719874,
+    "liveBlockNumber": 52720263,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458998,
-    "baseMainnetTopPoolsVolume24hUsd": 247969,
+    "baseMainnetTopPoolsVolume24hUsd": 245477,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5gSMqsNoYN67VnwHUHzB6bqXFzmULkk82Dn7Ezbjpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/5gsmqsnoyn67vnwhuhzb6bqxfzmulkk82dn7ezbjpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3Z97VzbBe9F8qGZahC6RSQUZiwFVzktUfvEEpvt9pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/3z97vzbbe9f8qgzahc6rsquziwfvzktufveepvt9pump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xf859dD5B25E19C8d12c9bfa00B2e6fc1c19Ed6D3",
+        "description": "Elon has turned Artificial\nThe ticker is $AE",
+        "url": "https://dexscreener.com/robinhood/0xf859dd5b25e19c8d12c9bfa00b2e6fc1c19ed6d3"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HUYpHbkjLLAyRte7dNedYzP1csDY6GNrepVVRvdTpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "6V4fCMPdhi1w6fMhncyUuKFDrAXZVRjghZkW7LWapump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/6v4fcmpdhi1w6fmhncyuukfdraxzvrjghzkw7lwapump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7UkbvaYoxQzcfAwgACfh3roXZkj3Kttsohv1ytJLpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7ukbvayoxqzcfawgacfh3roxzkj3kttsohv1ytjlpump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x787873c9ae96855bdB032F6fF1Ef76a5e1Fc8aDC",
-        "description": "The alter ego and mascot of Grok",
-        "url": "https://dexscreener.com/ethereum/0x787873c9ae96855bdb032f6ff1ef76a5e1fc8adc"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5do8SkQt2nxp3daqXgKcdF7j2BjgiGgxYi5Avkqppump",
-        "description": "💖 Meet Penelope $PENELOPE 💖 \n\nShe's got the hair, the attitude, and the gold teeth but don't ask her to do math. Penelope is the internet's most unhinged fash",
-        "url": "https://dexscreener.com/solana/5do8skqt2nxp3daqxgkcdf7j2bjgiggxyi5avkqppump"
       }
     ]
   },
