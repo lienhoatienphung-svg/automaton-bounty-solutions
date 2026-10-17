@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T08:16:18.359Z",
-  "latencyMs": 250,
+  "executedAt": "2026-10-17T08:27:51.462Z",
+  "latencyMs": 362,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #417: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #418: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52717815,
+    "liveBlockNumber": 52718162,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 318279,
+    "baseMainnetTopPoolsLiquidityUsd": 458998,
+    "baseMainnetTopPoolsVolume24hUsd": 322690,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DU6JbpQshZU821X1JKQtcFfj4WRm34WFoixs2p8jnuBL",
+        "description": "$WhatIf is the official community coin of the WHAT IF? animated series on YouTube. Every episode takes one impossible question and plays it out: what if the sun",
+        "url": "https://dexscreener.com/solana/du6jbpqshzu821x1jkqtcffj4wrm34wfoixs2p8jnubl"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "An3Gu8P9vXm6repPai75zWskEmwM8EV4G2T4dd8Ppump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0xe4f00e3286C39C74D431904Bca00b193f7E0B1dA",
         "description": "Part loyal companion, part cunning trickster, 100% neon blue.\n\nEvery trade pays 7% to holders — in ETH.",
         "url": "https://dexscreener.com/robinhood/0xe4f00e3286c39c74d431904bca00b193f7e0b1da"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BbbFLmMjY8eZnXpNJGpTXV5PqEUi9c6XkC9V9YQqpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bbbflmmjy8eznxpnjgptxv5pqeui9c6xkc9v9yqqpump"
       }
     ]
   },
