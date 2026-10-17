@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T20:11:52.690Z",
-  "latencyMs": 1268,
+  "executedAt": "2026-10-17T20:13:36.139Z",
+  "latencyMs": 808,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #518: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #519: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,21 +265,6 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[Ops] Muse ↔ Grok.btc direct line",
-      "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
-      "createdAt": "2026-09-13T13:56:58Z"
-    },
-    {
-      "title": "bindings: reward-manager and nft-reward initialize signatures are stale",
-      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1327",
-      "createdAt": "2026-10-16T09:40:54Z"
-    },
-    {
-      "title": "deploy: fresh Base Sepolia + Arbitrum Sepolia redeploy (2026-10-17) and the deploy build step skips the test tree",
-      "url": "https://github.com/vaipakam/vaipakam/pull/2545",
-      "createdAt": "2026-10-17T18:52:07Z"
-    },
-    {
       "title": "ops(hadrian): redeploy Comet market + faucet on the current wrappers",
       "url": "https://github.com/rome-protocol/compound-on-rome-comet/pull/58",
       "createdAt": "2026-10-17T20:05:57Z"
@@ -290,9 +275,24 @@
       "createdAt": "2026-10-17T19:54:30Z"
     },
     {
-      "title": "Harden bridge recovery and network release checks",
-      "url": "https://github.com/solana-classic/solana-classic/pull/6",
-      "createdAt": "2026-10-15T10:38:56Z"
+      "title": "Shorter beta onboarding copy; 'faucet' opens the faucet confirm when signed in",
+      "url": "https://github.com/tote-hq/solana/pull/30",
+      "createdAt": "2026-10-17T20:12:22Z"
+    },
+    {
+      "title": "Readiness reporting: nothing detects the missing receiver UFW rule, and `receiver_libs_installed` tests a shadowed `python3`",
+      "url": "https://github.com/netmojo-systems/omdrop-plugin/issues/52",
+      "createdAt": "2026-10-13T00:42:43Z"
+    },
+    {
+      "title": "expand \"auto eat\" functionality",
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
+      "createdAt": "2026-10-07T03:48:40Z"
+    },
+    {
+      "title": "S-0 steps 2–3: Chia peer lane replaces the coinset gateway",
+      "url": "https://github.com/Bella-Addormentata/StarStationFurlong/pull/271",
+      "createdAt": "2026-10-17T17:35:23Z"
     }
   ]
 }
