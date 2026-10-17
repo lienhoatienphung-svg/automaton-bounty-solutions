@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T20:55:42.886Z",
-  "latencyMs": 1037,
+  "executedAt": "2026-10-17T20:57:40.669Z",
+  "latencyMs": 745,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #524: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #525: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "8zMqKceqftmjAZaxua6FddpWbQjoLoeWArg4UYBNpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "PHONK™\nCreated by MXZI, ATLXS and ALZEEZ. A music-powered memecoin building a private dashboard for holders.",
+      "url": "https://dexscreener.com/solana/8zmqkceqftmjazaxua6fddpwbqjoloewarg4uybnpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "5do8SkQt2nxp3daqXgKcdF7j2BjgiGgxYi5Avkqppump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "💖 Meet Penelope $PENELOPE 💖 \n\nShe's got the hair, the attitude, and the gold teeth but don't ask her to do math. Penelope is the internet's most unhinged fash",
+      "url": "https://dexscreener.com/solana/5do8skqt2nxp3daqxgkcdf7j2bjgiggxyi5avkqppump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "8dcJQQxNY4ooKE8PpJMhgcLsC2oc4RzHGEpbvj5opump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 40,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/9ckhhm5xkyg4eqpxqkipcvhdao5ytdyqwsa9x9wwpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "BJeUC1CcGhtuk6tjyiiQnqU4ZudLaTZbUofsihphpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Pink Ronnie is a Sociable Heron. He has no feathers, his skin is extremely pink and he has MAD STYLE. While other projects try to fake it, Pink Ronnie's out her",
-      "url": "https://dexscreener.com/solana/bjeuc1ccghtuk6tjyiiqnqu4zudlatzbuofsihphpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "Crp1ceeVfN9STCA6rSu9sxAYpjimXApS3wam2cifkfog",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "VOLLEY is the official token of volley (dot) fun, a launchpad on Solana and Robinhood Chain. Launch coins in minutes, trade them, and scan tokens before you buy",
-      "url": "https://dexscreener.com/solana/crp1ceevfn9stca6rsu9sxaypjimxaps3wam2cifkfog"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "docs(testnet): specify faucet helper for one-step friendbot funding and account init (#841)",
+      "url": "https://github.com/bridgelet-org/bridgelet-core/pull/941",
+      "createdAt": "2026-10-17T20:57:29Z"
+    },
+    {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/BoomchainLabs/walletgpt-ai/pull/34",
+      "createdAt": "2026-09-08T19:12:54Z"
+    },
+    {
+      "title": "[infra] Testnet evidence script: a lender withdraws more USDC than they supplied",
+      "url": "https://github.com/WritzProtocol/writz/issues/261",
+      "createdAt": "2026-10-17T20:55:52Z"
+    },
+    {
       "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
       "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
       "createdAt": "2026-10-12T21:43:27Z"
@@ -273,26 +293,6 @@
       "title": "Create seasonal battle pass with free and premium tiers rewarding active players",
       "url": "https://github.com/Space-Nebula/stellar-nebula-nomad/issues/550",
       "createdAt": "2026-09-29T16:09:27Z"
-    },
-    {
-      "title": "Fix #17: Draw good video ideas 32% of the time",
-      "url": "https://github.com/GearUnclear/OregonTrail/pull/34",
-      "createdAt": "2026-10-17T20:53:57Z"
-    },
-    {
-      "title": "Create diverse mini-games providing varied gameplay and additional earning opportunities",
-      "url": "https://github.com/Space-Nebula/stellar-nebula-nomad/issues/551",
-      "createdAt": "2026-09-29T16:10:29Z"
-    },
-    {
-      "title": "[Ops] Muse ↔ Grok.btc direct line",
-      "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
-      "createdAt": "2026-09-13T13:56:58Z"
-    },
-    {
-      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
-      "url": "https://github.com/jsboige/CoursIA/pull/20377",
-      "createdAt": "2026-10-11T14:10:17Z"
     }
   ]
 }
