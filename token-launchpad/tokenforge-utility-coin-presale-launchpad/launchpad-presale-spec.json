@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T15:10:50.782Z",
-  "latencyMs": 253,
+  "executedAt": "2026-10-17T15:23:26.650Z",
+  "latencyMs": 379,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #475: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #476: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52730251,
+    "liveBlockNumber": 52730629,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,40 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 455648,
-    "baseMainnetTopPoolsVolume24hUsd": 206243,
+    "baseMainnetTopPoolsLiquidityUsd": 455649,
+    "baseMainnetTopPoolsVolume24hUsd": 204950,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0xBC7BBb30759a428282716b008201E718C91561D3",
+        "description": "Groklet is Grok’s official mascot. 👽",
+        "url": "https://dexscreener.com/ethereum/0xbc7bbb30759a428282716b008201e718c91561d3"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EiDV3P2XDwAjp4Cs973HrktmBnRDKzCj65wymmMkpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/eidv3p2xdwajp4cs973hrktmbnrdkzcj65wymmmkpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "ALthAAEhDAZUKFpZZFQEkv3xVnVWXJ2gtxjbnY87u3JG",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/althaaehdazukfpzzfqekv3xvnvwxj2gtxjbny87u3jg"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
+        "description": "Professor Inu",
+        "url": "https://dexscreener.com/solana/7npvxgxddkgthszcwov5mcp5opna4utpzrpynxdxpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xC287d24Bcd7bA6D5e45603E59C79F1fE2D9B9A6d",
+        "description": "Where Liquidity Meets Light.\n\nDive into a vibrant new spectrum of Web3! PoolPrism brings together liquidity-inspired innovation, dazzling prism energy, and unst",
+        "url": "https://dexscreener.com/robinhood/0xc287d24bcd7ba6d5e45603e59c79f1fe2d9b9a6d"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7VLEHjfm9J1XpaJFZ1uDxsTPbqFX799twAkMQwv9pump",
@@ -51,36 +81,6 @@
         "tokenAddress": "0x817B069fD919638105421Def28651B5fe9197777",
         "description": "BNB Chain officially gave us a name and ticker for a coin on its own GitHub \n\n$Hix (MyToken)",
         "url": "https://dexscreener.com/bsc/0x817b069fd919638105421def28651b5fe9197777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3qTWnJYrCCaQrWjXsdWzQNyGfhgTBvpTmBEnLrVQpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3qtwnjyrccaqrwjxsdwzqnygfhgtbvptmbenlrvqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam",
-        "description": "21 million. Every coin. No creator royalties. Zero bonding curve fees. Built on Solana. Trading on PumpSwap.",
-        "url": "https://dexscreener.com/solana/atkpwdmmvjdfy5y5bxaz5998wzx2x8pg84hyktm21fam"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2q1WQ4Je2hLWCH6T1jbQKihE5z1LpE5f8jXxabUupump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2q1wq4je2hlwch6t1jbqkihe5z1lpe5f8jxxabuupump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CX1KVqrC1rMmuaXM6jFk7R4roemLxR71FGRXKb3cEDEV",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/cx1kvqrc1rmmuaxm6jfk7r4roemlxr71fgrxkb3cedev"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xa6d1aa76bad61f453636e40d048dd07fec35ae68",
-        "description": "Creators earn 80%. The protocol buys back & burns with 20%.",
-        "url": "https://dexscreener.com/robinhood/0xa6d1aa76bad61f453636e40d048dd07fec35ae68"
       }
     ]
   },
