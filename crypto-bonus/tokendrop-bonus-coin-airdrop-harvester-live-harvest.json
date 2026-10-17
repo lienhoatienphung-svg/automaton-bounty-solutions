@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T11:04:11.754Z",
-  "latencyMs": 931,
+  "executedAt": "2026-10-17T11:05:49.650Z",
+  "latencyMs": 1138,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #444: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #445: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
       "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
       "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
       "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "Harden bridge recovery and network release checks",
+      "url": "https://github.com/solana-classic/solana-classic/pull/6",
+      "createdAt": "2026-10-15T10:38:56Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
       "title": "docs: Season 1 master plan and Terms of Service draft",
@@ -283,16 +293,6 @@
       "title": "fix: prove V2 staking, reward, and slashing conservation invariants",
       "url": "https://github.com/DigiNodes/truthbounty-contract/pull/826",
       "createdAt": "2026-10-17T07:00:55Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "feat: bonding-curve game modes (PVE/PVP/TRENCH) + swap gas optimisation + DISCIPLE audit fixes",
-      "url": "https://github.com/makerlee0x/disciple/pull/75",
-      "createdAt": "2026-10-17T03:44:55Z"
     }
   ]
 }
