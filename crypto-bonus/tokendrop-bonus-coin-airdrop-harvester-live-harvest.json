@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T10:49:45.055Z",
-  "latencyMs": 1257,
+  "executedAt": "2026-10-17T10:51:52.154Z",
+  "latencyMs": 886,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #442: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #443: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,49 +218,49 @@
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 101,
-      "priceBtc": 0.000008182929529405296
-    },
-    {
-      "name": "Pi Network",
-      "symbol": "PI",
-      "marketCapRank": 84,
-      "priceBtc": 9.80250925346911e-7
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000012266522714800044
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010705126952827068
+      "priceBtc": 0.00000819219880458133
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 90,
-      "priceBtc": 0.000023772745338415487
+      "priceBtc": 0.000023829480957926726
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.014452904519533962
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000012301348936672784
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.0001072363708901537
+    },
+    {
+      "name": "Pi Network",
+      "symbol": "PI",
+      "marketCapRank": 84,
+      "priceBtc": 9.802277351030819e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 615,
-      "priceBtc": 0.0014111400972095772
+      "marketCapRank": 616,
+      "priceBtc": 0.0014110438103477627
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006291412636515636
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.267214946002625e-8
+    },
+    {
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "marketCapRank": 16,
+      "priceBtc": 0.00014977187535641242
     }
   ],
   "activeAirdropAndFaucetQuests": [
@@ -270,14 +270,14 @@
       "createdAt": "2026-10-17T10:49:32Z"
     },
     {
-      "title": "feat: bonding-curve game modes (PVE/PVP/TRENCH) + swap gas optimisation + DISCIPLE audit fixes",
-      "url": "https://github.com/makerlee0x/disciple/pull/75",
-      "createdAt": "2026-10-17T03:44:55Z"
+      "title": "docs(skills): public MCP and REST catch-up in edel-markets",
+      "url": "https://github.com/Edel-Finance/edel-ai-config/pull/6",
+      "createdAt": "2026-10-17T10:51:22Z"
     },
     {
-      "title": "perf(jit): drop optimization passes that do nothing",
-      "url": "https://github.com/alloy-rs/evm2/pull/677",
-      "createdAt": "2026-10-17T09:32:43Z"
+      "title": "perf(jit): switch dynamic jumps on a dense index",
+      "url": "https://github.com/alloy-rs/evm2/pull/609",
+      "createdAt": "2026-10-15T00:19:06Z"
     },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
@@ -285,14 +285,14 @@
       "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
+      "title": "chore(main): release 1.16.0",
+      "url": "https://github.com/lifekit-hq/finance-sentry/pull/1122",
+      "createdAt": "2026-10-15T22:02:31Z"
     },
     {
-      "title": "Phone-only soak recorder in the METRICS panel (PHONE TEST)",
-      "url": "https://github.com/brycejmurrin/f1-game/pull/2700",
-      "createdAt": "2026-10-17T10:40:47Z"
+      "title": "时间胶囊 gift: a 真实 Signet switch on the demo site",
+      "url": "https://github.com/fiveholly/unimap/pull/70",
+      "createdAt": "2026-10-17T10:50:23Z"
     }
   ]
 }
