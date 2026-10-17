@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-16T23:50:31.297Z",
-  "latencyMs": 1362,
+  "executedAt": "2026-10-17T00:03:05.271Z",
+  "latencyMs": 1081,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #347: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #348: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "FcX3YPNqJLFfsRLLgCXc6qQNa4EoneRZEhJXZrjqpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "elon musk is back playing path of exile 2, this time with a character named kekUSA",
+      "url": "https://dexscreener.com/solana/fcx3ypnqjlffsrllgcxc6qqna4eonerzehjxzrjqpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "ECzCvAK6a8ePxG2WUXmn1n1DfFSE8t3uLGoWfQG9pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "- Our goal is simple. Reward those who work for their bags. \n\n- $BEAR token is the base of this ecosystem. Our advance telegram bot will use $BEAR to help conti",
+      "url": "https://dexscreener.com/solana/eczcvak6a8epxg2wuxmn1n1dffse8t3ulgowfqg9pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "Fak3rJEBfR4Vb8DoFpecf6yoxbkkr1gGUH5tdj2rpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 20,
       "description": "$JUSTQ by Quantum Snek on Cardano\n\nA deflationary token on Solana used to supplement $QSNEK on Cardano",
       "url": "https://dexscreener.com/solana/hftxnjdyesngnscsgew2nyossbscpfamwdiah5ttcvgo"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "2e3zQiA8JWeDjjVeuqzv9X1Q3aqRRaPqL8UYEbxVpump",
-      "boostAmount": 500,
-      "totalBoostAmount": 500,
-      "description": "Prompt to launch. The era of launchbots are here.",
-      "url": "https://dexscreener.com/solana/2e3zqia8jwedjjveuqzv9x1q3aqrrapql8uyebxvpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "nPD9vif19C2oY1jhHRrAJSSpMu9tJQtibfxoZ4qcxph",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Launch and trade tokens paired with stocks, crypto, stablecoins & more.",
-      "url": "https://dexscreener.com/solana/npd9vif19c2oy1jhhrrajsspmu9tjqtibfxoz4qcxph"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 711,
-      "priceBtc": 3.2560446332966003e-7
+      "marketCapRank": 735,
+      "priceBtc": 3.1395132387380005e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 615,
-      "priceBtc": 0.0014168514237008724
+      "marketCapRank": 617,
+      "priceBtc": 0.0014167610929734676
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.286934569995754e-8
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 104,
-      "priceBtc": 0.000021176465323756058
+      "priceBtc": 9.294177231002563e-8
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010688846551381446
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 109,
-      "priceBtc": 8.99234446721589e-7
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006211279916475492
+      "priceBtc": 0.00010696345050719204
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 49,
-      "priceBtc": 5.552600188825752e-8
+      "priceBtc": 5.558090253725266e-8
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.014091857703032772
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9994978158053791
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 99,
+      "priceBtc": 0.000008430478060992716
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(deps): update dependency lucide-react to v1.56.0",
-      "url": "https://github.com/leonunesbs/justificativas/pull/40",
-      "createdAt": "2026-10-04T15:21:01Z"
+      "title": "feat(scripts): build an unsigned IPA locally + docs/SIDESTORE.md install steps",
+      "url": "https://github.com/cknowlesbadluck/QuicksilverV1/pull/328",
+      "createdAt": "2026-10-16T19:02:37Z"
     },
     {
-      "title": "⬆️ upgrade `lucide-react` to `v1`",
-      "url": "https://github.com/antoinekm/antoinek.fr/pull/697",
-      "createdAt": "2026-03-23T14:19:16Z"
+      "title": "LND: qualify Taproot Assets mint, transfer, and RFQ payments on signet",
+      "url": "https://github.com/OpenAgentsInc/openagents/issues/11863",
+      "createdAt": "2026-10-16T12:03:26Z"
     },
     {
-      "title": "Unify dialog UX and guard account approval context",
-      "url": "https://github.com/syscoin/pali-wallet/pull/895",
-      "createdAt": "2026-10-16T23:06:27Z"
+      "title": "Positioning: the only truly British English app (BrE content + 'British vs American' practice)",
+      "url": "https://github.com/mmhaidari2-hash/the-toms/issues/48",
+      "createdAt": "2026-10-16T20:14:43Z"
     },
     {
-      "title": "FLOP CHATGPT HANDOFF — NEWEST COMMENT IS SOLE CURRENT AUTHORITY (historical archive preserved)",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/765",
-      "createdAt": "2026-10-06T05:27:29Z"
+      "title": "[Perf] [AMD] dsv41: Drop the per-step whole-vocab gather of draft logits via sharded accept",
+      "url": "https://github.com/sgl-project/sglang/pull/44465",
+      "createdAt": "2026-10-15T10:24:13Z"
     },
     {
-      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
-      "url": "https://github.com/Dillen198/bfnext/pull/1",
-      "createdAt": "2026-01-19T07:41:07Z"
+      "title": "chore(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/sohanemon/ai-sdk-x-openai/pull/7",
+      "createdAt": "2026-05-01T06:37:03Z"
     },
     {
-      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
-      "createdAt": "2026-10-12T04:03:25Z"
+      "title": "Suunto Ocean and Nautic support",
+      "url": "https://github.com/deepsealabs/libdc-swift/issues/29",
+      "createdAt": "2026-08-28T16:22:32Z"
     }
   ]
 }
