@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T00:59:15.078Z",
-  "latencyMs": 864,
+  "executedAt": "2026-10-17T01:00:46.352Z",
+  "latencyMs": 808,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #356: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #357: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "4by8accPvdRcmDEvJy1svdSJMwfVcNGyWqgQw9EPpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Cate Pepe. \n\nWe all know cate’s are Doge’s",
+      "url": "https://dexscreener.com/solana/4by8accpvdrcmdevjy1svdsjmwfvcngywqgqw9eppump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "6S7jwQuVipHuEaASAZ9Kn7r3Zy3jkebhAMFxnuWnpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "Nobody knows where OWOWO came from.\n\nNo roadmap. No promises. Just vibes and a stare you can’t unsee.",
       "url": "https://dexscreener.com/robinhood/0xa01ff10774cfe53c3fbc1d7d124c42e19f6afcbd"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "2Y1SU9ntRrfMi3EbDzPcUCBRqkTa94h6CLJKiyLxjxoz",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "The iconic Pumpfun pill gets a spooky makeover! Halloween colors meet Pumpfun culture, bringing pumpkins, pumps, and pure memecoin energy together!",
-      "url": "https://dexscreener.com/solana/2y1su9ntrrfmi3ebdzpcucbrqkta94h6cljkiylxjxoz"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,19 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
       "title": "feat: add ux bench for tempo wallet and webauthn adapters with scored pr reports",
       "url": "https://github.com/tempoxyz/accounts/pull/887",
       "createdAt": "2026-10-17T00:42:35Z"
     },
     {
+      "title": "Add email login, prediction-basis question, and reward contact to pre…",
+      "url": "https://github.com/seden1025/weather.ai/pull/1",
+      "createdAt": "2026-10-17T00:59:36Z"
+    },
+    {
       "title": "[reward, ray, cfg, doc] feat: share async scorer concurrency across reward workers",
       "url": "https://github.com/verl-project/verl/pull/8270",
       "createdAt": "2026-10-17T00:46:43Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
       "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
@@ -288,11 +293,6 @@
       "title": "Share a document (email, Teams, Slack, Messages, cloud links)",
       "url": "https://github.com/danjboyd/ObjcMarkdown/issues/170",
       "createdAt": "2026-10-16T19:55:50Z"
-    },
-    {
-      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
-      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
-      "createdAt": "2026-10-09T07:30:01Z"
     }
   ]
 }
