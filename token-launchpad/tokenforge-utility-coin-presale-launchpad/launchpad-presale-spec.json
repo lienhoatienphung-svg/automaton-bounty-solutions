@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T02:38:56.779Z",
-  "latencyMs": 486,
+  "executedAt": "2026-10-17T02:41:28.774Z",
+  "latencyMs": 336,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #366: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #367: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52707694,
+    "liveBlockNumber": 52707770,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 279213,
+    "baseMainnetTopPoolsVolume24hUsd": 279199,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DMRKspYf38RCq9M6RSHP2CRhXVAPEkPLN9E7MwTfa95h",
+        "description": "Survive the zombie apocalypse in Deadtiles. Scavenge, trade, and choose a side. Play in the browser.",
+        "url": "https://dexscreener.com/solana/dmrkspyf38rcq9m6rshp2crhxvapekpln9e7mwtfa95h"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CMRimD6t4ZwnnBFCPBfjzEVGJtkPUMdmLGcuYPNpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "N23Bgy3ox9gMi3K5GD7FVh9ncEm8SyUPwMSPHYEpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/n23bgy3ox9gmi3k5gd7fvh9ncem8syupwmsphyepump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6jijW4Ne924kqj8XYLKXFrhpeHy5y2qxoKgGzJHQpump",
-        "description": "PLUTO AI — The AI That Controls Your Computer.\n\nPLUTO is an autonomous AI desktop assistant designed to turn your voice into real actions on your computer. Unli",
-        "url": "https://dexscreener.com/solana/6jijw4ne924kqj8xylkxfrhpehy5y2qxokggzjhqpump"
       }
     ]
   },
