@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T14:42:02.745Z",
-  "latencyMs": 509,
+  "executedAt": "2026-10-17T14:44:12.893Z",
+  "latencyMs": 677,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #454: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #455: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "Production realized profit Phase 3: report and API",
+          "url": "https://github.com/Pappmichel/eve-trader/pull/275",
+          "repositoryUrl": "https://api.github.com/repos/Pappmichel/eve-trader",
+          "updatedAt": "2026-10-17T14:44:07Z"
+        },
+        {
+          "title": "[P0][Deployment] Private home-Kubernetes Kivra dev instance with secure GitOps and persisted Task API",
+          "url": "https://github.com/kigawa-net/kivra/issues/112",
+          "repositoryUrl": "https://api.github.com/repos/kigawa-net/kivra",
+          "updatedAt": "2026-10-17T14:44:06Z"
+        },
+        {
+          "title": "chore: Implementer inbox — instructions from the Orchestrator",
+          "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
+          "repositoryUrl": "https://api.github.com/repos/nekodas-neko/TrainingAi_Open",
+          "updatedAt": "2026-10-17T14:44:06Z"
+        },
+        {
+          "title": "dsh-gitbash-shell 安全 / 数据完整性 intake 快测",
+          "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/878",
+          "repositoryUrl": "https://api.github.com/repos/FuRongJun-1999/dsh-bounty",
+          "updatedAt": "2026-10-17T14:44:05Z"
+        },
+        {
+          "title": "Integrate branch-safe sales, automatic category pricing and payment references",
+          "url": "https://github.com/scaleopsph-max/hustlero-hcs/pull/4",
+          "repositoryUrl": "https://api.github.com/repos/scaleopsph-max/hustlero-hcs",
+          "updatedAt": "2026-10-17T14:44:05Z"
+        },
+        {
+          "title": "Instruction and Delegated-Authority Compatibility",
+          "url": "https://github.com/weijunswj/ai-agent-toolkit/issues/501",
+          "repositoryUrl": "https://api.github.com/repos/weijunswj/ai-agent-toolkit",
+          "updatedAt": "2026-10-17T14:44:05Z"
+        },
+        {
+          "title": "Split the data written into files and objects by size",
+          "url": "https://github.com/ClickHouse/ClickHouse/pull/116234",
+          "repositoryUrl": "https://api.github.com/repos/ClickHouse/ClickHouse",
+          "updatedAt": "2026-10-17T14:44:05Z"
+        },
+        {
+          "title": "[P0][Self-dev slice 1] Wire SelfDevRunner admission and authenticated Start/Status API into Application.kt",
+          "url": "https://github.com/kigawa-net/kivra/issues/174",
+          "repositoryUrl": "https://api.github.com/repos/kigawa-net/kivra",
+          "updatedAt": "2026-10-17T14:44:04Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
