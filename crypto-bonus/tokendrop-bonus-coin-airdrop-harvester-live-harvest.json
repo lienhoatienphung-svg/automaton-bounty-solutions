@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T00:44:51.279Z",
-  "latencyMs": 805,
+  "executedAt": "2026-10-17T00:46:50.314Z",
+  "latencyMs": 861,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #354: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #355: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -221,49 +221,59 @@
       "priceBtc": 3.211198411121736e-7
     },
     {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010607885361298911
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006170478593175595
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 616,
-      "priceBtc": 0.001416025804508777
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.252838561772187e-8
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0004643579292685
-    },
-    {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.572431294652052e-8
+      "priceBtc": 0.9989385228326324
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 106,
-      "priceBtc": 0.000021016940515179626
+      "priceBtc": 0.0000209485037949758
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.014124581042541478
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006137792818500763
+    },
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 49,
+      "priceBtc": 5.546157114192768e-8
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010638130719072968
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 617,
+      "priceBtc": 0.001415753303281032
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "chore: add ux bench playground for tempo wallet and webauthn adapters",
+      "url": "https://github.com/tempoxyz/accounts/pull/887",
+      "createdAt": "2026-10-17T00:42:35Z"
+    },
+    {
+      "title": "[Catalog P4] Atlas — AAVE Staked Token",
+      "url": "https://github.com/matheus-junio-da-silva/Web3Bugs/pull/2",
+      "createdAt": "2026-10-16T23:46:23Z"
+    },
     {
       "title": "Rewards module does not emit events for downstream consumers",
       "url": "https://github.com/augustina-jpg/scoopdope/issues/1168",
@@ -273,16 +283,6 @@
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "[Catalog P4] Atlas — AAVE Staked Token",
-      "url": "https://github.com/matheus-junio-da-silva/Web3Bugs/pull/2",
-      "createdAt": "2026-10-16T23:46:23Z"
-    },
-    {
-      "title": "chore: add ux bench playground for tempo wallet and webauthn adapters",
-      "url": "https://github.com/tempoxyz/accounts/pull/887",
-      "createdAt": "2026-10-17T00:42:35Z"
     },
     {
       "title": "[Bug]: Payfetch 1.0.1 paid request not decoded by x402 2.17.0 server due to payment-header mismatch",
