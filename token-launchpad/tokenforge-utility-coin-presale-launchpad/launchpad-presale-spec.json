@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T13:27:44.162Z",
-  "latencyMs": 465,
+  "executedAt": "2026-10-17T13:40:14.502Z",
+  "latencyMs": 357,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #461: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #462: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52727158,
+    "liveBlockNumber": 52727533,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,34 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 455642,
-    "baseMainnetTopPoolsVolume24hUsd": 223195,
+    "baseMainnetTopPoolsLiquidityUsd": 455641,
+    "baseMainnetTopPoolsVolume24hUsd": 221485,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "AN1BH5QYxLj1MDzpbXkmHwvbHn6T1Xy9Gc2PAtwzpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/an1bh5qyxlj1mdzpbxkmhwvbhn6t1xy9gc2patwzpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7Qsbm71fSh9SCtZhh7SYQ2gVEBHwJ2CRKToa1Dkmpump",
+        "description": "The official Solana Chinese name",
+        "url": "https://dexscreener.com/solana/7qsbm71fsh9sctzhh7syq2gvebhwj2crktoa1dkmpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GxCEZaNR7FPUJq37Zov8tdFWWuwAiEeVqxGykbqNpump",
+        "description": "Accelerating AI, robotics, and the future of technology in China",
+        "url": "https://dexscreener.com/solana/gxcezanr7fpujq37zov8tdfwwuwaieevqxgykbqnpump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x6dDE78BbCD7662bE1f493cdE67667c80791E7120",
+        "description": "Find your next big bag, the memecoin launchpad for bnb.",
+        "url": "https://dexscreener.com/bsc/0x6dde78bbcd7662be1f493cde67667c80791e7120"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9dZdTSDD2WGQgP1sccrSbZFwtCjoA7MMuaxkruFypump",
@@ -57,30 +81,6 @@
         "tokenAddress": "EW9ezwtqvn3v8RpdKMEQai8n5bmajUiPnC4UBV7zpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/ew9ezwtqvn3v8rpdkmeqai8n5bmajuipnc4ubv7zpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7pM6FxVd5257AwLfBS1SYoQJRZKnvNgFfPf9h3pGpump",
-        "description": "Gou",
-        "url": "https://dexscreener.com/solana/7pm6fxvd5257awlfbs1syoqjrzknvngffpf9h3pgpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BHq54x1qiu6aNebMgzeGQb5MsiWAS3xmNmcJKQycMUSK",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bhq54x1qiu6anebmgzegqb5msiwas3xmnmcjkqycmusk"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "B6twZQsm3YGmDbx7aXfamWUk2gu867L25d76q6KwEM9C",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/b6twzqsm3ygmdbx7axfamwuk2gu867l25d76q6kwem9c"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump",
-        "description": "A playable game inside every contract.",
-        "url": "https://dexscreener.com/solana/glx4xzv2e8iuaf2ux94hl5agrmrknuxcjtgwzmmzpump"
       }
     ]
   },
