@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T17:10:26.450Z",
-  "latencyMs": 352,
+  "executedAt": "2026-10-17T17:12:05.854Z",
+  "latencyMs": 365,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #490: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Kodland: APAC Python (Instant B2B R",
+  "workTitle": "Delivery Sprint #491: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52733839,
+    "liveBlockNumber": 52733889,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 455647,
-    "baseMainnetTopPoolsVolume24hUsd": 217143,
+    "baseMainnetTopPoolsVolume24hUsd": 217100,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3mKCcwxRksvduRHiez8Acg7voGLRp5J6PQPEHXbEpump",
+        "description": "The identity of hi cat, ran as a layer-2 coin on hi.",
+        "url": "https://dexscreener.com/solana/3mkccwxrksvdurhiez8acg7voglrp5j6pqpehxbepump"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0x66bD32d177Ad64A10a151906545a9972590a7777",
@@ -75,12 +81,6 @@
         "tokenAddress": "BiZv95oKe1boQx3Tr1HjnMdni6ST37aipwtMwVQppump",
         "description": "Solana's first trading terminal with its very own quantum resistant vault.",
         "url": "https://dexscreener.com/solana/bizv95oke1boqx3tr1hjnmdni6st37aipwtmwvqppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5pA7micXgknYakGvPpJih6v2kK4hBC85XTWDH6eipump",
-        "description": "Leverage paired token infrastructure. The max long on pump × Hyperliquid.",
-        "url": "https://dexscreener.com/solana/5pa7micxgknyakgvppjih6v2kk4hbc85xtwdh6eipump"
       }
     ]
   },
