@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T12:02:40.573Z",
-  "latencyMs": 258,
+  "executedAt": "2026-10-17T12:14:30.811Z",
+  "latencyMs": 649,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #449: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #450: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52724606,
+    "liveBlockNumber": 52724961,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 455644,
-    "baseMainnetTopPoolsVolume24hUsd": 225536,
+    "baseMainnetTopPoolsLiquidityUsd": 455641,
+    "baseMainnetTopPoolsVolume24hUsd": 227758,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4DjAddbyZtwvMW41SMcUAXWDZq8bkGEcAXwz5YHMpump",
+        "description": "Every buy comes with a receipt. Changed your mind before the return period ends? Take it back and get every SOL you paid for the tokens. And nobody, not even th",
+        "url": "https://dexscreener.com/solana/4djaddbyztwvmw41smcuaxwdzq8bkgecaxwz5yhmpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2iTBuQDhVnXSwg6mCRZG14hbEKV5ecpWwPv6D8vvpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2itbuqdhvnxswg6mcrzg14hbekv5ecpwwpv6d8vvpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x7B230F83698AEC0268a0934C1fb3F77AC9abb515",
+        "description": "Uniting the Tesla × SpaceX narrative behind Elon's next-gen Roadster.",
+        "url": "https://dexscreener.com/robinhood/0x7b230f83698aec0268a0934c1fb3f77ac9abb515"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xe01FaFB60d792E55b0a115a48937A68Ed118710F",
@@ -63,24 +81,6 @@
         "tokenAddress": "iqBsCHX5DWPDWpL9WiUu8nDKHeHNEA5qV2AUQPgcRWA",
         "description": "RWA Perpetual Options.",
         "url": "https://dexscreener.com/solana/iqbschx5dwpdwpl9wiuu8ndkhehnea5qv2auqpgcrwa"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x37c5bd19B10db534B2208597597030D1b3027777",
-        "description": "A virtual GPU protocol turning token burns into hash power and trading fees into BNB rewards. Built on BNB Chain with Flap.",
-        "url": "https://dexscreener.com/bsc/0x37c5bd19b10db534b2208597597030d1b3027777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EGh774QBzg8DaecZ4DeAEZLrs54EFrUU7tjjsrSGpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/egh774qbzg8daecz4deaezlrs54efruu7tjjsrsgpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5uDrqELrZrYPqaRLbLFT2LzjyWsakT3jv27uwoeBpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5udrqelrzrypqarlblft2lzjywsakt3jv27uwoebpump"
       }
     ]
   },
