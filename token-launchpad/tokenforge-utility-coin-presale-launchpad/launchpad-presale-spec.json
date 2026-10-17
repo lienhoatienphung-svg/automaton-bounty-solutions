@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T12:28:58.872Z",
-  "latencyMs": 358,
+  "executedAt": "2026-10-17T12:30:33.282Z",
+  "latencyMs": 294,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #452: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #453: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52725395,
+    "liveBlockNumber": 52725443,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 455641,
-    "baseMainnetTopPoolsVolume24hUsd": 221419,
+    "baseMainnetTopPoolsVolume24hUsd": 221450,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7VzWURCfosjxvT7KKM9gib5CzqnCg4vKU2UobGp3pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7vzwurcfosjxvt7kkm9gib5czqncg4vku2uobgp3pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "82C26qv9bB63sM8ei7HP2uVMDPPVWzgSs8ak9PTcBAmo",
@@ -75,12 +81,6 @@
         "tokenAddress": "CnLG1UAtaNJ3cHnf6kMBkcMHsJZVg77S2qqfTMJypump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/cnlg1uatanj3chnf6kmbkcmhsjzvg77s2qqftmjypump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xD635BDBaCca403E1671b31363654cF64ea6864F5",
-        "description": "Dolphin Intelligence",
-        "url": "https://dexscreener.com/robinhood/0xd635bdbacca403e1671b31363654cf64ea6864f5"
       }
     ]
   },
