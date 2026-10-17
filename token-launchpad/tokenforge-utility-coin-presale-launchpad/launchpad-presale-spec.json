@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T19:57:32.779Z",
-  "latencyMs": 363,
+  "executedAt": "2026-10-17T19:59:13.028Z",
+  "latencyMs": 462,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #512: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #513: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52738852,
+    "liveBlockNumber": 52738902,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459000,
-    "baseMainnetTopPoolsVolume24hUsd": 208188,
+    "baseMainnetTopPoolsVolume24hUsd": 202824,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x62CBFbf5F0Fe89225D75f36701DDf8fc8Ef29F4f",
+        "description": "Pingus is getting genny viral",
+        "url": "https://dexscreener.com/robinhood/0x62cbfbf5f0fe89225d75f36701ddf8fc8ef29f4f"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CTcEDT7Dp3DzNHeyJNCJsN5ZHwoe4HRgiYxjadd6pump",
+        "description": "Imagine Doge and Elon had a Memetic Child",
+        "url": "https://dexscreener.com/solana/ctcedt7dp3dznheyjncjsn5zhwoe4hrgiyxjadd6pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7Tr69PEhb3QpaD2gxPwiEaNvQ9SFJJ7V7b71nZWHpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "wiben7BURMAbyWyHrSD7bsBV1Svr7cQaJ9rPmu9SPu4",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/wiben7burmabywyhrsd7bsbv1svr7cqaj9rpmu9spu4"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x419614559A80106d391BDDe70F0E7Ed5420e90D5",
-        "description": "Trump’s official government agency’s dog.",
-        "url": "https://dexscreener.com/robinhood/0x419614559a80106d391bdde70f0e7ed5420e90d5"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9fahoNzobVmh9Cz2n3eaK5aKSD7jjqGd92sUnGk9pump",
-        "description": "Mayhem breaks out beside peaceful demonstrations in Paris, Marseille and elsewhere as resentment rises over affordability and government budget cuts",
-        "url": "https://dexscreener.com/solana/9fahonzobvmh9cz2n3eak5aksd7jjqgd92sungk9pump"
       }
     ]
   },
