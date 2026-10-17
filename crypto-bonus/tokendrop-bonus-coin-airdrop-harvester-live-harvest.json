@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T10:51:52.154Z",
-  "latencyMs": 886,
+  "executedAt": "2026-10-17T11:04:11.754Z",
+  "latencyMs": 931,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #443: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #444: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,22 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "jr963C1eUWRYk7TYAxii7MRyJqr1zJhVyZuYgVYpump",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "Buy 7 or 30 days of a Meteora fee position's income and claim what actually comes in. Holding $CUTS opens the Pro Desk, and a share of every creator fee buys ba",
+      "url": "https://dexscreener.com/solana/jr963c1euwryk7tyaxii7mryjqr1zjhvyzuygvypump"
+    },
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0xDE97752448FD7d958CAA7749DAE91A6FE14a3133",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Oath Network puts AI under oath. Your prompt is answered inside a sealed machine that cannot read it, the answer returns signed, and three witnesses in browser ",
+      "url": "https://dexscreener.com/robinhood/0xde97752448fd7d958caa7749dae91a6fe14a3133"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x0088CE7905025c4B5ea1d49aB6179B6aaADB3B9C",
       "boostAmount": 10,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "PRICELESS — BNB Meme Coin\n\nPRICELESS is a community-driven meme coin built on BNB Chain, inspired by the idea that some things simply can’t be measured in money",
       "url": "https://dexscreener.com/bsc/0x7d03759e5b41e36899833cb2e008455d69a24444"
-    },
-    {
-      "chainId": "bsc",
-      "tokenAddress": "0xB596fc1980BA251B25B1D4BED33CB0B91bc17777",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "$WENCAT In a world obsessed with asking “WEN MOON?”, one cat decided to build his own destiny.\n\nHold $WENCAT & Earn $BNB",
-      "url": "https://dexscreener.com/bsc/0xb596fc1980ba251b25b1d4bed33cb0b91bc17777"
-    },
-    {
-      "chainId": "ethereum",
-      "tokenAddress": "0xa06dcCcf665F887790E3D99B7EE26CB34BDe9f00",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Crypto Twitter is loud. Thousands of accounts shill tokens every day, and you can't tell who's real, who's paid, and who already sold on you. XRAY fixes that.\nW",
-      "url": "https://dexscreener.com/ethereum/0xa06dcccf665f887790e3d99b7ee26cb34bde9f00"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 101,
-      "priceBtc": 0.00000819219880458133
+      "priceBtc": 0.000008190972284239187
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 90,
-      "priceBtc": 0.000023829480957926726
+      "priceBtc": 0.00002379564839797622
     },
     {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000012301348936672784
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 106,
+      "priceBtc": 0.000020814908617207882
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006312644818555325
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.0001072363708901537
+      "priceBtc": 0.00010719558321376219
     },
     {
-      "name": "Pi Network",
-      "symbol": "PI",
-      "marketCapRank": 84,
-      "priceBtc": 9.802277351030819e-7
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.01444309351463372
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 616,
-      "priceBtc": 0.0014110438103477627
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.267214946002625e-8
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000012294372674914782
     },
     {
       "name": "Chainlink",
       "symbol": "LINK",
       "marketCapRank": 16,
-      "priceBtc": 0.00014977187535641242
+      "priceBtc": 0.0001496760106708307
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "refactor(routes): audit and mount orphaned backend routers in server.js",
-      "url": "https://github.com/Emmy123222/Stellar-MarketPay-/pull/1932",
-      "createdAt": "2026-10-17T10:49:32Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "docs(skills): public MCP and REST catch-up in edel-markets",
-      "url": "https://github.com/Edel-Finance/edel-ai-config/pull/6",
-      "createdAt": "2026-10-17T10:51:22Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "perf(jit): switch dynamic jumps on a dense index",
-      "url": "https://github.com/alloy-rs/evm2/pull/609",
-      "createdAt": "2026-10-15T00:19:06Z"
+      "title": "docs: Season 1 master plan and Terms of Service draft",
+      "url": "https://github.com/recferret-bit/freightchain/pull/4",
+      "createdAt": "2026-10-17T10:50:19Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "fix: prove V2 staking, reward, and slashing conservation invariants",
+      "url": "https://github.com/DigiNodes/truthbounty-contract/pull/826",
+      "createdAt": "2026-10-17T07:00:55Z"
     },
     {
-      "title": "chore(main): release 1.16.0",
-      "url": "https://github.com/lifekit-hq/finance-sentry/pull/1122",
-      "createdAt": "2026-10-15T22:02:31Z"
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
     },
     {
-      "title": "时间胶囊 gift: a 真实 Signet switch on the demo site",
-      "url": "https://github.com/fiveholly/unimap/pull/70",
-      "createdAt": "2026-10-17T10:50:23Z"
+      "title": "feat: bonding-curve game modes (PVE/PVP/TRENCH) + swap gas optimisation + DISCIPLE audit fixes",
+      "url": "https://github.com/makerlee0x/disciple/pull/75",
+      "createdAt": "2026-10-17T03:44:55Z"
     }
   ]
 }
