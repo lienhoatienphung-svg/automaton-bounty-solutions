@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T10:08:59.137Z",
-  "latencyMs": 981,
+  "executedAt": "2026-10-17T10:11:23.348Z",
+  "latencyMs": 895,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #416: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #417: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
+          "title": "Fix SQL Explorer selection, multicursor clipboard and caret rendering",
+          "url": "https://github.com/Karapsin/analytics_toolkit/pull/9",
+          "repositoryUrl": "https://api.github.com/repos/Karapsin/analytics_toolkit",
+          "updatedAt": "2026-10-17T10:11:19Z"
+        },
+        {
+          "title": "Add mobile pairing, versioned file sync and portable backup recovery",
+          "url": "https://github.com/lopugit/thingtime/pull/1002",
+          "repositoryUrl": "https://api.github.com/repos/lopugit/thingtime",
+          "updatedAt": "2026-10-17T10:11:17Z"
+        },
+        {
+          "title": "M3: Demo path and exit checks on the fixture repository",
+          "url": "https://github.com/talvor/asmai/issues/147",
+          "repositoryUrl": "https://api.github.com/repos/talvor/asmai",
+          "updatedAt": "2026-10-17T10:11:16Z"
+        },
+        {
+          "title": "Capabilities: Changed the Server capability to observe players through its own agent extensions",
+          "url": "https://github.com/whereareiam/anvil/pull/77",
+          "repositoryUrl": "https://api.github.com/repos/whereareiam/anvil",
+          "updatedAt": "2026-10-17T10:11:16Z"
+        },
+        {
+          "title": "Persist secondary user store configurations in the shared database",
+          "url": "https://github.com/wso2/carbon-identity-framework/pull/8361",
+          "repositoryUrl": "https://api.github.com/repos/wso2/carbon-identity-framework",
+          "updatedAt": "2026-10-17T10:11:16Z"
+        },
+        {
+          "title": "fix(tools): skip_reply refuses wake_in_seconds without an EventGate instead of silently dropping it",
+          "url": "https://github.com/anima-research/agent-framework/pull/198",
+          "repositoryUrl": "https://api.github.com/repos/anima-research/agent-framework",
+          "updatedAt": "2026-10-17T10:11:15Z"
+        },
+        {
+          "title": "When using multiline examples the docs generator breaks",
+          "url": "https://github.com/SkriptLang/Skript/issues/8383",
+          "repositoryUrl": "https://api.github.com/repos/SkriptLang/Skript",
+          "updatedAt": "2026-10-17T10:11:14Z"
+        },
+        {
           "title": "fix(security): close M9, M10, L6, L9, L10 and L12 of the 2026-10-15 security review",
           "url": "https://github.com/labsai/EDDI/pull/1040",
           "repositoryUrl": "https://api.github.com/repos/labsai/EDDI",
-          "updatedAt": "2026-10-17T10:08:55Z"
-        },
-        {
-          "title": "install-wasixcc → wasix-sysroot 2025.9.30-34; wasix-perl 5.42.0-19 (libc flock, mkfifo)",
-          "url": "https://github.com/ai-ecoverse/homescoop/pull/984",
-          "repositoryUrl": "https://api.github.com/repos/ai-ecoverse/homescoop",
-          "updatedAt": "2026-10-17T10:08:54Z"
-        },
-        {
-          "title": "Run gha's check-term-links on pull requests",
-          "url": "https://github.com/Morrison-Lab/sds/pull/294",
-          "repositoryUrl": "https://api.github.com/repos/Morrison-Lab/sds",
-          "updatedAt": "2026-10-17T10:08:53Z"
-        },
-        {
-          "title": "Give the SDK's own transactions a nonce lane, and leave lane 0 to the relay",
-          "url": "https://github.com/altananetwork/altana-sdk/pull/114",
-          "repositoryUrl": "https://api.github.com/repos/altananetwork/altana-sdk",
-          "updatedAt": "2026-10-17T10:08:53Z"
-        },
-        {
-          "title": "Report OAuth audit events and export OAuth metrics",
-          "url": "https://github.com/basecamp/fizzy/pull/3204",
-          "repositoryUrl": "https://api.github.com/repos/basecamp/fizzy",
-          "updatedAt": "2026-10-17T10:08:52Z"
-        },
-        {
-          "title": "Wave 14 UX: the move on the real world chart, town service pins",
-          "url": "https://github.com/warning18/NarrativeApp/pull/408",
-          "repositoryUrl": "https://api.github.com/repos/warning18/NarrativeApp",
-          "updatedAt": "2026-10-17T10:08:52Z"
-        },
-        {
-          "title": "fix: keep the transient state of a login in progress when renew() fails",
-          "url": "https://github.com/auth0/auth0-PHP/pull/886",
-          "repositoryUrl": "https://api.github.com/repos/auth0/auth0-PHP",
-          "updatedAt": "2026-10-17T10:08:52Z"
-        },
-        {
-          "title": "Dependency Dashboard",
-          "url": "https://github.com/7K-Group/7k-design-system/issues/5",
-          "repositoryUrl": "https://api.github.com/repos/7K-Group/7k-design-system",
-          "updatedAt": "2026-10-17T10:08:52Z"
+          "updatedAt": "2026-10-17T10:11:14Z"
         }
       ]
     },
