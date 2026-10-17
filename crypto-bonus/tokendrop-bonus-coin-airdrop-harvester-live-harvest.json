@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T03:44:29.011Z",
-  "latencyMs": 812,
+  "executedAt": "2026-10-17T03:55:48.815Z",
+  "latencyMs": 728,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #381: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #382: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 718,
+      "marketCapRank": 719,
       "priceBtc": 3.211198411121736e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 617,
-      "priceBtc": 0.0014159872160043445
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006287057769549577
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009811313390645047
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 89,
-      "priceBtc": 0.00003958597530921201
+      "marketCapRank": 615,
+      "priceBtc": 0.0014205286561883989
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.316770000654583e-8
+      "priceBtc": 9.314204541489509e-8
     },
     {
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "marketCapRank": 25,
-      "priceBtc": 0.00008981764556173613
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009812108669024662
     },
     {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 39,
-      "priceBtc": 0.002488341992158412
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 84,
+      "priceBtc": 0.00010919597773532662
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006219909649932905
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 106,
+      "priceBtc": 0.00002050889498927337
+    },
+    {
+      "name": "NeoSoul",
+      "symbol": "DNA",
+      "marketCapRank": 570,
+      "priceBtc": 0.0000034743325873499496
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[Fix] sampling: deterministic top-p / top-k renorm when attn_tp_size > 1 (TP rank divergence in DFlash/DSpark)",
-      "url": "https://github.com/sgl-project/sglang/pull/38565",
-      "createdAt": "2026-09-08T21:08:36Z"
+      "title": "test(sui): ledger stream e2e on a subscription-enabled localnet GraphQL service (3.0 stack)",
+      "url": "https://github.com/MystenLabs/ts-sdks/pull/1355",
+      "createdAt": "2026-10-16T05:45:20Z"
     },
     {
-      "title": "Epic: LND as our server-side Lightning backend via crates/lnd-sdk (experimental, test in production)",
-      "url": "https://github.com/OpenAgentsInc/openagents/issues/11762",
-      "createdAt": "2026-10-15T20:29:39Z"
+      "title": "feat: call faucet after successful agent register",
+      "url": "https://github.com/arthneura/market/pull/10",
+      "createdAt": "2026-10-17T03:55:22Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "chore(deps): update dependency @lucide/vue to v1.58.0",
+      "url": "https://github.com/jdbnet/aptuary/pull/3",
+      "createdAt": "2026-09-04T20:21:08Z"
     },
     {
-      "title": "Serve the app over HTTPS so the service worker can run",
-      "url": "https://github.com/mkaufman2023/WhiteNoiseMachine/pull/6",
-      "createdAt": "2026-10-17T03:42:32Z"
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
     },
     {
-      "title": "LND: qualify remote signing and SCB recovery on signet",
-      "url": "https://github.com/OpenAgentsInc/openagents/issues/11862",
-      "createdAt": "2026-10-16T11:21:15Z"
+      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
+      "createdAt": "2026-10-06T11:40:04Z"
     },
     {
-      "title": "LND P4 candidate: Wavelength signet spike — Ark wallet client as an agent-side wallet (experimental)",
-      "url": "https://github.com/OpenAgentsInc/openagents/issues/11770",
-      "createdAt": "2026-10-15T20:37:26Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     }
   ]
 }
