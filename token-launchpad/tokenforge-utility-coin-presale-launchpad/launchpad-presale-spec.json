@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T02:12:46.100Z",
-  "latencyMs": 392,
+  "executedAt": "2026-10-17T02:24:36.282Z",
+  "latencyMs": 674,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #363: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #364: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52706909,
+    "liveBlockNumber": 52707264,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 280597,
+    "baseMainnetTopPoolsLiquidityUsd": 459007,
+    "baseMainnetTopPoolsVolume24hUsd": 279426,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DarQqJNqFCNmaZbHvU4nmGnNSi6AyzwACQBqauuspump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/darqqjnqfcnmazbhvu4nmgnnsi6ayzwacqbqauuspump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EfwVCYHaTqt6qgc45HqTLELrBtrSf1r1S2fZkpV5pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/efwvcyhatqt6qgc45hqtlelrbtrsf1r1s2fzkpv5pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "N23Bgy3ox9gMi3K5GD7FVh9ncEm8SyUPwMSPHYEpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/n23bgy3ox9gmi3k5gd7fvh9ncem8syupwmsphyepump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6jijW4Ne924kqj8XYLKXFrhpeHy5y2qxoKgGzJHQpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "7oTyxyWojcAaMLXB6J7Wxo7iVgQUmD4goAGRYCHzpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/7otyxywojcaamlxb6j7wxo7ivgqumd4goagrychzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "D2fEXQmu6z5NCd97PHAdFKRmmp7Tu3u48zEvysP7pump",
-        "description": "The fairest way to flip your SOL",
-        "url": "https://dexscreener.com/solana/d2fexqmu6z5ncd97phadfkrmmp7tu3u48zevysp7pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xc7852f765097439f2EaeBa64001D8309b83023e6",
-        "description": "kumioOS is a browser-based desktop for mining credits and using AI. Users can mine with their GPU or CPU, access multiple AI models in the Playground, and save ",
-        "url": "https://dexscreener.com/robinhood/0xc7852f765097439f2eaeba64001d8309b83023e6"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x61e61f63E64Bbe7d23505FFEad6734E5FbA3951e",
-        "description": "Just a wheel cat",
-        "url": "https://dexscreener.com/robinhood/0x61e61f63e64bbe7d23505ffead6734e5fba3951e"
       }
     ]
   },
