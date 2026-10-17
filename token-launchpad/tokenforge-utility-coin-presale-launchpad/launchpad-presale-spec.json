@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T20:41:27.082Z",
-  "latencyMs": 664,
+  "executedAt": "2026-10-17T20:43:01.593Z",
+  "latencyMs": 250,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #518: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #519: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52740169,
+    "liveBlockNumber": 52740217,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459000,
-    "baseMainnetTopPoolsVolume24hUsd": 198596,
+    "baseMainnetTopPoolsVolume24hUsd": 198612,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3BTeMaCnsaHnCVT9STtkpjgHCZ5BnyBXVrBf59j6pump",
+        "description": "A block island on Solana.\nCreator fees spawn gold nuggets: hit the real graded card roaming the island and it is sent to your wallet. No wallet needed to play.",
+        "url": "https://dexscreener.com/solana/3btemacnsahncvt9sttkpjghcz5bnybxvrbf59j6pump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x68E954AB52BebF778292f389F6bf1ef276270b32",
+        "description": "Stray Society",
+        "url": "https://dexscreener.com/robinhood/0x68e954ab52bebf778292f389f6bf1ef276270b32"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Gb8MFBuDe54J7k8kas2nsRs6xcMgZ4uYrhzSverGpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "BhqcWmDKDWrmWAsByoqgpGNJmW6Y1zMPESgj6LnHpump",
         "description": "The Last Survivor",
         "url": "https://dexscreener.com/solana/bhqcwmdkdwrmwasbyoqgpgnjmw6y1zmpesgj6lnhpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DrLF1dG1K4U6ggx5BZ6bSwzGcPNVrQwYoTJzRDyZpump",
-        "description": "Elon Musk's Chinese Doppelgänger",
-        "url": "https://dexscreener.com/solana/drlf1dg1k4u6ggx5bz6bswzgcpnvrqwyotjzrdyzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "bHuU72zpR1eyJu8FWS5AjxAmarWKeYneNFUPW5Cpump",
-        "description": "AI Influencer with a memecoin. U mad bro?",
-        "url": "https://dexscreener.com/solana/bhuu72zpr1eyju8fws5ajxamarwkeynenfupw5cpump"
       }
     ]
   },
