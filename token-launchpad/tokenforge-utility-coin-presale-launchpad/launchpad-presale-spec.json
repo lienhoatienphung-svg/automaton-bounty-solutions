@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T05:17:50.835Z",
-  "latencyMs": 382,
+  "executedAt": "2026-10-17T05:19:22.509Z",
+  "latencyMs": 252,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #390: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
+  "workTitle": "Delivery Sprint #391: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52712461,
+    "liveBlockNumber": 52712507,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 280286,
+    "baseMainnetTopPoolsVolume24hUsd": 278109,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BYog4taQ1kgvixgySphewk1oRkvUd8oFByoc6E6kpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/byog4taq1kgvixgysphewk1orkvud8ofbyoc6e6kpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EVnBceWpSDzXyeB5rpmPwZmSnPyHna968Dnu9zdHpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/evnbcewpsdzxyeb5rpmpwzmsnpyhna968dnu9zdhpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FNgZNDpRepjbdEKQGaY7tua36RJD8XYUvg52Tixmpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "7KveF1CvJgN4a23gTr5QBPGcfi1Bq8z3ntjy7akbpump",
         "description": "Escape The Matrix",
         "url": "https://dexscreener.com/solana/7kvef1cvjgn4a23gtr5qbpgcfi1bq8z3ntjy7akbpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "A3c24chX4WhsdmDZDi6anHoycT8tpT2upwhfLH78pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/a3c24chx4whsdmdzdi6anhoyct8tpt2upwhflh78pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2249Lq9weuKy6PQRLXFS5JBfJR2hyFHE7q2tpi4zpurp",
-        "description": "Strategy: 10x long on SPCX, perp profits buy the backing stock and pay holders.",
-        "url": "https://dexscreener.com/solana/2249lq9weuky6pqrlxfs5jbfjr2hyfhe7q2tpi4zpurp"
       }
     ]
   },
