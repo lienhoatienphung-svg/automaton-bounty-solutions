@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T02:51:23.445Z",
-  "latencyMs": 667,
+  "executedAt": "2026-10-17T03:03:47.385Z",
+  "latencyMs": 692,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #373: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #374: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -221,63 +221,53 @@
       "priceBtc": 3.211198411121736e-7
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.23056005447617e-8
-    },
-    {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009776864671320348
+      "priceBtc": 0.0009788250907977873
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.232100799551577e-8
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9999515237297312
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 85,
-      "priceBtc": 0.000010720485671959727
-    },
-    {
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "marketCapRank": 25,
-      "priceBtc": 0.0000891905192624178
+      "priceBtc": 0.9997210216127754
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 89,
-      "priceBtc": 0.000038823336342293444
+      "priceBtc": 0.00003889213907800221
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 613,
-      "priceBtc": 0.001423023612781653
+      "marketCapRank": 612,
+      "priceBtc": 0.0014229246801103382
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.0012826338295528073
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 85,
+      "priceBtc": 0.000010732385892077707
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "docs: complete preview and document-tree boundary clarifications",
-      "url": "https://github.com/nil-studio/oasis7/pull/4831",
-      "createdAt": "2026-10-17T02:50:01Z"
-    },
-    {
-      "title": "fix: auto-claim rewards on withdrawal & enforce EIP-712 deadline",
-      "url": "https://github.com/StellarFlow-Network/stellarflow-contracts/pull/1260",
-      "createdAt": "2026-10-17T02:43:47Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
+      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
+      "createdAt": "2026-10-07T16:13:30Z"
     },
     {
       "title": "chore: Implementer inbox — instructions from the Orchestrator",
@@ -285,14 +275,24 @@
       "createdAt": "2026-10-06T01:05:54Z"
     },
     {
-      "title": "Release 0.17.0: omdrop-core by default, driver 0.10.0",
-      "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/81",
-      "createdAt": "2026-10-17T02:00:30Z"
+      "title": "feat(explore): add native Bread Arcade UI",
+      "url": "https://github.com/0xMiden/wallet/pull/1512",
+      "createdAt": "2026-10-17T02:30:14Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "bindings: reward-manager and nft-reward initialize signatures are stale",
+      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1327",
+      "createdAt": "2026-10-16T09:40:54Z"
+    },
+    {
+      "title": "Add moe-router-design task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/28",
+      "createdAt": "2026-09-27T02:38:45Z"
+    },
+    {
+      "title": "Use USDCx for Testnet Earn and retire Epoch USDC choices",
+      "url": "https://github.com/0xMiden/wallet/pull/1513",
+      "createdAt": "2026-10-17T02:58:47Z"
     }
   ]
 }
