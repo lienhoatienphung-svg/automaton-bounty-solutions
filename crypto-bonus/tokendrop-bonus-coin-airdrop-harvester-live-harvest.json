@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T13:41:55.125Z",
-  "latencyMs": 819,
+  "executedAt": "2026-10-17T13:54:01.781Z",
+  "latencyMs": 1042,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #467: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #468: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,84 +215,84 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 38,
-      "priceBtc": 0.002479744896315903
-    },
-    {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9987668832875655
+      "priceBtc": 0.9993488560709913
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 38,
+      "priceBtc": 0.002479865371462763
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010471962908247826
-    },
-    {
-      "name": "Derive",
-      "symbol": "DRV",
-      "marketCapRank": 125,
-      "priceBtc": 0.000005119019190847643
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 618,
-      "priceBtc": 0.0013992403106485956
-    },
-    {
-      "name": "Raydium",
-      "symbol": "RAY",
-      "marketCapRank": 117,
-      "priceBtc": 0.000022093689903587594
+      "priceBtc": 0.00010493644423222499
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 36,
-      "priceBtc": 0.0033101891752410134
+      "priceBtc": 0.003313628945744462
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006161803994120241
+      "name": "Derive",
+      "symbol": "DRV",
+      "marketCapRank": 124,
+      "priceBtc": 0.000005138889555168014
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.182277218386701e-8
+    },
+    {
+      "name": "Raydium",
+      "symbol": "RAY",
+      "marketCapRank": 117,
+      "priceBtc": 0.000022109096159644925
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009650518493773629
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat: bonding-curve game modes (PVE/PVP/TRENCH) + swap gas optimisation + DISCIPLE audit fixes",
-      "url": "https://github.com/makerlee0x/disciple/pull/75",
-      "createdAt": "2026-10-17T03:44:55Z"
+      "title": "deps: bump npm dependencies (minor)",
+      "url": "https://github.com/holomush/holomush/pull/5016",
+      "createdAt": "2026-08-17T07:10:18Z"
     },
     {
-      "title": "CP: mechanics waves tracker (draft, not for merge)",
-      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
-      "createdAt": "2026-10-15T07:00:56Z"
+      "title": "chore(lockfile): update lucide-react-lockfile #patch",
+      "url": "https://github.com/GlueOps/waggle/pull/183",
+      "createdAt": "2026-10-17T08:20:12Z"
     },
     {
-      "title": "experiment: share account viewing keys through inbox envelopes",
-      "url": "https://github.com/midnightntwrk/passport/pull/177",
-      "createdAt": "2026-10-01T20:19:25Z"
+      "title": "SF-010: live upgrade-security and browser wallet acceptance on testnet",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/70",
+      "createdAt": "2026-10-15T06:19:09Z"
     },
     {
-      "title": "fix(react-sdk): handle same-store signer reconnect without calling non-existent setSignCb (#455)",
-      "url": "https://github.com/0xMiden/web-sdk/pull/465",
-      "createdAt": "2026-10-09T12:45:43Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "Add LP rewards contract for liquidity providers on graduated keys",
-      "url": "https://github.com/accesslayerorg/accesslayer-contracts/issues/1053",
-      "createdAt": "2026-10-17T13:18:14Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/48",
-      "createdAt": "2026-10-17T06:48:17Z"
+      "title": "[Security] Server-side validation of shared result data in the OG and share pages",
+      "url": "https://github.com/zintarh/stellar-wrap-frontend/issues/828",
+      "createdAt": "2026-10-17T13:52:21Z"
     }
   ]
 }
