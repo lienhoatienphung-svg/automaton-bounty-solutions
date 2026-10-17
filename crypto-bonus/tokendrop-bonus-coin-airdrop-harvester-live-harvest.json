@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T01:28:15.551Z",
-  "latencyMs": 1089,
+  "executedAt": "2026-10-17T01:40:11.503Z",
+  "latencyMs": 759,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #361: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #362: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "CMGgEYqtKA4e634ZJ3U18ed2WHqTkNZoZ9FBX9z1pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "We really got flying cars before GTA 6",
+      "url": "https://dexscreener.com/solana/cmggeyqtka4e634zj3u18ed2whqtknzoz9fbx9z1pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "7TiAAj7UBBAeEbiXJ1cvjxknT16EuL6GjVaT4ckLpump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "KlineO ($KLO) powers an agentic trading and liquidity intelligence ecosystem built for traders, creators, token projects, and digital asset teams.\n\nKlineO Tradi",
       "url": "https://dexscreener.com/robinhood/0x652720b02272c37d9328f08ee8343554d1caa8e7"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "2JVEVXoRsskapZ8T56MjMNJq6Dk3feEUYSRmzkkipump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "⚔️ $RONIN — THE MASTERLESS SAMURAI | SOLANA\n\nBorn from a community that survived a rug, $RONIN has evolved from a meme into a growing, self-feeding Solana ecosy",
-      "url": "https://dexscreener.com/solana/2jvevxorsskapz8t56mjmnjq6dk3feeuysrmzkkipump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 717,
+      "marketCapRank": 718,
       "priceBtc": 3.211198411121736e-7
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.256487037935672e-8
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 49,
-      "priceBtc": 5.551640623865955e-8
+      "priceBtc": 5.546746405435469e-8
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.222995307138701e-8
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9991206843043372
-    },
-    {
-      "name": "Monad",
-      "symbol": "MON",
-      "marketCapRank": 153,
-      "priceBtc": 2.786406906548588e-7
+      "priceBtc": 0.9987729229064055
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 106,
-      "priceBtc": 0.000020794513688137343
+      "priceBtc": 0.00002076945208081217
+    },
+    {
+      "name": "Monad",
+      "symbol": "MON",
+      "marketCapRank": 154,
+      "priceBtc": 2.7798365697043456e-7
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.014059651494303034
+      "priceBtc": 0.014031902336957454
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 615,
-      "priceBtc": 0.0014213165255446752
+      "name": "STONK",
+      "symbol": "STONK",
+      "marketCapRank": 306,
+      "priceBtc": 0.0000013719932719349099
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Verify anchor tx inputs are signed by the trusted anchor pubkey",
-      "url": "https://github.com/RobGanon/bsv-ai-security/pull/21",
-      "createdAt": "2026-10-17T01:27:15Z"
-    },
-    {
-      "title": "Book fixtures with TxL and validate via worker tickets",
-      "url": "https://github.com/txodds/tx-on-chain/pull/10",
-      "createdAt": "2026-10-08T08:56:25Z"
-    },
-    {
-      "title": "feat: add ux bench for tempo wallet and webauthn adapters with scored pr reports",
+      "title": "feat: add accounts bench for tempo wallet and webauthn adapters with scored pr reports",
       "url": "https://github.com/tempoxyz/accounts/pull/887",
       "createdAt": "2026-10-17T00:42:35Z"
     },
     {
-      "title": "Spec: Slice 12 — Full export",
-      "url": "https://github.com/isaacvarg/curate/issues/22",
-      "createdAt": "2026-10-17T01:25:06Z"
+      "title": "Add the sandbagging-elicitation task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/31",
+      "createdAt": "2026-09-27T12:37:00Z"
     },
     {
-      "title": "[reward, ray, cfg, doc] feat: share async scorer concurrency across reward workers",
-      "url": "https://github.com/verl-project/verl/pull/8270",
-      "createdAt": "2026-10-17T00:46:43Z"
+      "title": "SF-010: live upgrade-security and browser wallet acceptance on testnet",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/70",
+      "createdAt": "2026-10-15T06:19:09Z"
     },
     {
-      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
-      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
-      "createdAt": "2026-10-09T07:30:01Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "FLOP CHATGPT HANDOFF — NEWEST COMMENT IS SOLE CURRENT AUTHORITY (historical archive preserved)",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/765",
+      "createdAt": "2026-10-06T05:27:29Z"
+    },
+    {
+      "title": "\"eat some food\" action",
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
+      "createdAt": "2026-10-07T03:48:40Z"
     }
   ]
 }
