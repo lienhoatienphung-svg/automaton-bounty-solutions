@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T07:35:10.812Z",
-  "latencyMs": 260,
+  "executedAt": "2026-10-17T07:47:22.475Z",
+  "latencyMs": 345,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #411: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #412: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52716581,
+    "liveBlockNumber": 52716947,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459003,
-    "baseMainnetTopPoolsVolume24hUsd": 313647,
+    "baseMainnetTopPoolsVolume24hUsd": 313652,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BbbFLmMjY8eZnXpNJGpTXV5PqEUi9c6XkC9V9YQqpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bbbflmmjy8eznxpnjgptxv5pqeui9c6xkc9v9yqqpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CFggXZXwg5pkiB5aHGq1LEoaK1hVhVYVGZpHgVewpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "Azd3Dqza27B1jEoEqPyhatoScAssxWPD2r475Q9Spump",
         "description": "Ideas from the machine.\n\nThe next move is yours.",
         "url": "https://dexscreener.com/solana/azd3dqza27b1jeoeqpyhatoscassxwpd2r475q9spump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x16c93795477fab5730a00889e042d5815be90bfc",
-        "description": "FETCHN is a market intelligence platform for Robinhood Stock Tokens.\n\nFETCHN brings a team of AI agents to your market decisions. They gather signals from on-ch",
-        "url": "https://dexscreener.com/robinhood/0x16c93795477fab5730a00889e042d5815be90bfc"
       }
     ]
   },
