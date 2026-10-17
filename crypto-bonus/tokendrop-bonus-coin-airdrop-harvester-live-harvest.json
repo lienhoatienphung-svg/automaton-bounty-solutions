@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T11:32:40.891Z",
-  "latencyMs": 1380,
+  "executedAt": "2026-10-17T11:34:35.153Z",
+  "latencyMs": 760,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #448: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #449: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "CP: mechanics waves tracker (draft, not for merge)",
+      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
+      "createdAt": "2026-10-15T07:00:56Z"
+    },
+    {
       "title": "Harden Devnet MOSUL payments, refunds, and launch gates",
       "url": "https://github.com/mosulonsol-max/MOSUL-HERITAGE-STORE/pull/46",
       "createdAt": "2026-10-17T10:42:11Z"
+    },
+    {
+      "title": "Push notification on reward confirmed",
+      "url": "https://github.com/Qyoue/Qyou/issues/1178",
+      "createdAt": "2026-10-17T11:28:23Z"
     },
     {
       "title": "Create SKILL.md",
@@ -275,24 +285,14 @@
       "createdAt": "2026-04-12T09:36:45Z"
     },
     {
-      "title": "# SPIKE-101: DAOs hold funds with no treasury controls or spending approvals",
-      "url": "https://github.com/ZK-VOTE/ZK-VOTE/issues/767",
-      "createdAt": "2026-10-14T19:42:23Z"
+      "title": "[Spec Decode] Ngram: bound drafts by remaining output tokens",
+      "url": "https://github.com/vllm-project/vllm-metal/pull/1139",
+      "createdAt": "2026-10-17T11:33:20Z"
     },
     {
-      "title": "perf(jit): drop optimization passes that do nothing",
-      "url": "https://github.com/alloy-rs/evm2/pull/677",
-      "createdAt": "2026-10-17T09:32:43Z"
-    },
-    {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
-    },
-    {
-      "title": "perf(jit): resolve jumps through deep stacks and try/catch",
-      "url": "https://github.com/alloy-rs/evm2/pull/671",
-      "createdAt": "2026-10-16T18:24:54Z"
+      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
+      "createdAt": "2026-10-06T11:40:04Z"
     }
   ]
 }
