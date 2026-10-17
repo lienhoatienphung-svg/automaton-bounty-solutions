@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T06:51:47.071Z",
-  "latencyMs": 768,
+  "executedAt": "2026-10-17T06:53:38.669Z",
+  "latencyMs": 863,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #408: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #409: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "Unified balance buys, native coin trading and spam filter",
+      "url": "https://github.com/rhynox-ui/kivo-mobile-app/pull/127",
+      "createdAt": "2026-10-17T06:52:43Z"
+    },
+    {
+      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
+      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
+      "createdAt": "2026-10-12T21:43:27Z"
+    },
+    {
       "title": "Update dependency lucide-react to v1",
       "url": "https://github.com/descope-sample-apps/10x-crm-sample-app/pull/36",
       "createdAt": "2026-03-26T15:05:15Z"
@@ -273,26 +293,6 @@
       "title": "bump the npm_and_yarn group across 65 directories with 3 updates",
       "url": "https://github.com/matams/eattheblocks/pull/26",
       "createdAt": "2026-10-17T06:51:07Z"
-    },
-    {
-      "title": "📦 Pending promotion: dev → main",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
-      "createdAt": "2026-06-29T11:18:37Z"
-    },
-    {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/descope-sample-apps/docs-gpt/pull/97",
-      "createdAt": "2026-03-26T19:42:07Z"
-    },
-    {
-      "title": "perf(tests): enable vLLM PIECEWISE CUDA graphs in two eager release recipes",
-      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4568",
-      "createdAt": "2026-10-07T13:11:41Z"
-    },
-    {
-      "title": "docs: explain macOS Gatekeeper quarantine for the unsigned archives",
-      "url": "https://github.com/EffortlessMetrics/ripr-swarm/pull/8416",
-      "createdAt": "2026-10-17T06:43:19Z"
     }
   ]
 }
