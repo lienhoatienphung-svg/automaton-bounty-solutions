@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T01:55:08.695Z",
-  "latencyMs": 1235,
+  "executedAt": "2026-10-17T02:07:24.947Z",
+  "latencyMs": 846,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #365: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #366: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "BVEaDToN2Ufn8m1Jnqy8rtwwCiiMC7JcFtvmKPxTpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "GTA Token — A cryptocurrency integrated directly into GTA, running through FiveM and the official Rockstar Games Launcher.",
+      "url": "https://dexscreener.com/solana/bveadton2ufn8m1jnqy8rtwwciimc7jcftvmkpxtpump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x94641b97010608C3827fB058074889f19868FF33",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "- Our goal is simple. Reward those who work for their bags. \n\n- $BEAR token is the base of this ecosystem. Our advance telegram bot will use $BEAR to help conti",
       "url": "https://dexscreener.com/solana/eczcvak6a8epxg2wuxmn1n1dffse8t3ulgowfqg9pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "Fak3rJEBfR4Vb8DoFpecf6yoxbkkr1gGUH5tdj2rpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "MarsX endorsed by the creator @arikuschnir",
-      "url": "https://dexscreener.com/solana/fak3rjebfr4vb8dofpecf6yoxbkkr1gguh5tdj2rpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -224,75 +224,75 @@
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 106,
-      "priceBtc": 0.000020756267340720016
+      "priceBtc": 0.000020702402460374586
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9998538189543893
+      "name": "Monad",
+      "symbol": "MON",
+      "marketCapRank": 153,
+      "priceBtc": 2.8008037286221567e-7
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 84,
+      "priceBtc": 0.000010755676818695631
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 49,
-      "priceBtc": 5.5621069381965065e-8
-    },
-    {
-      "name": "Monad",
-      "symbol": "MON",
-      "marketCapRank": 154,
-      "priceBtc": 2.783971030674133e-7
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.014059578537319053
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006198044685836684
+      "priceBtc": 5.607145522534789e-8
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.226871938737101e-8
+      "priceBtc": 9.284401351545992e-8
+    },
+    {
+      "name": "NeoSoul",
+      "symbol": "DNA",
+      "marketCapRank": 560,
+      "priceBtc": 0.0000035669509183041877
+    },
+    {
+      "name": "Nexpace",
+      "symbol": "NXPC",
+      "marketCapRank": 429,
+      "priceBtc": 0.000002119423641210378
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat: add accounts bench for tempo wallet and webauthn adapters with scored pr reports",
-      "url": "https://github.com/tempoxyz/accounts/pull/887",
-      "createdAt": "2026-10-17T00:42:35Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "fix(usdcx): reserve a burn's dry-run fee on Max",
+      "url": "https://github.com/0xMiden/wallet/pull/1494",
+      "createdAt": "2026-10-16T12:33:39Z"
     },
     {
-      "title": "chore(deps): update all non-major dependencies",
-      "url": "https://github.com/reddoorla/vineyard-custom-homes/pull/68",
-      "createdAt": "2026-09-21T16:47:53Z"
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/sambaum/k8s/issues/5",
+      "createdAt": "2023-09-13T15:01:55Z"
     },
     {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "Update all major dependencies (major)",
-      "url": "https://github.com/Mbehbahani/JobPilot/pull/18",
-      "createdAt": "2026-08-05T16:21:46Z"
+      "title": "[SIM-3][SIM-4] More moving parts and more objects",
+      "url": "https://github.com/AvnehSBhatia/ExeaLabsNvidiaHacks/issues/20",
+      "createdAt": "2026-10-17T02:03:25Z"
     },
     {
-      "title": "chore(deps): bump tempo dependencies to dee08cf",
-      "url": "https://github.com/dghelm/foundry/pull/107",
-      "createdAt": "2026-10-17T01:51:37Z"
+      "title": "[SIM-3][SIM-4] Oven, dishwasher, microwave and wall-cabinet doors, a faucet lever, and nine objects with real mass and size variation",
+      "url": "https://github.com/AvnehSBhatia/ExeaLabsNvidiaHacks/pull/19",
+      "createdAt": "2026-10-17T02:03:14Z"
     }
   ]
 }
