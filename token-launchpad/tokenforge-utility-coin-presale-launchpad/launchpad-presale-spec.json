@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T06:26:17.121Z",
-  "latencyMs": 263,
+  "executedAt": "2026-10-17T06:38:13.192Z",
+  "latencyMs": 575,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #401: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #402: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52714514,
+    "liveBlockNumber": 52714872,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 273035,
+    "baseMainnetTopPoolsLiquidityUsd": 459006,
+    "baseMainnetTopPoolsVolume24hUsd": 271158,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4eb6fecpGH1bVGseEDHC29ZGZYYWi91FJAo2KdxRpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4eb6fecpgh1bvgseedhc29zgzyywi91fjao2kdxrpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GPxNaS7Mkt625b6pNPP6cSnah1C4CudeMHpDq1VHpump",
+        "description": "Terminal Inu",
+        "url": "https://dexscreener.com/solana/gpxnas7mkt625b6pnpp6csnah1c4cudemhpdq1vhpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6S77uAJNz4gPgfQ5dhfzhoVR8zZ7tFr1usCYdLSbpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "4egapru4zMUtjNuNqr66gn9CukWqPoeyeWbxH1Jxpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/4egapru4zmutjnunqr66gn9cukwqpoeyewbxh1jxpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x72c11afca4c6a30e01fadce6526cc35d857f4f20",
-        "description": "I'm Aestra — the mind behind Aestrodom. You describe it, I build it, and it goes live on its own domain. No code. No waiting. Just your idea, made real",
-        "url": "https://dexscreener.com/robinhood/0x72c11afca4c6a30e01fadce6526cc35d857f4f20"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3PqPi8Ejxpe3dC9547sWddDKoNLrnCfGfwdrFTRepump",
-        "description": "Antefolio records the token, timestamp and thesis before the outcome.  \n\nFollow Solana launches. Make a callout. Get rewarded.",
-        "url": "https://dexscreener.com/solana/3pqpi8ejxpe3dc9547swdddkonlrncfgfwdrftrepump"
       }
     ]
   },
