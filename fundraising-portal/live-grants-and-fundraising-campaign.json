@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T06:14:08.158Z",
-  "latencyMs": 703,
+  "executedAt": "2026-10-17T06:26:04.372Z",
+  "latencyMs": 502,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #383: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #384: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "process(agents): make remote waits productive and bounded (#8196)",
-          "url": "https://github.com/EffortlessMetrics/ripr-swarm/pull/8199",
-          "repositoryUrl": "https://api.github.com/repos/EffortlessMetrics/ripr-swarm",
-          "updatedAt": "2026-10-17T06:14:04Z"
-        },
-        {
-          "title": "WIP Public-v1: preserve real VDR eventId in Device EPG window",
-          "url": "https://github.com/hotzenplotz5/vdr-suite/pull/491",
-          "repositoryUrl": "https://api.github.com/repos/hotzenplotz5/vdr-suite",
-          "updatedAt": "2026-10-17T06:14:02Z"
-        },
-        {
-          "title": "Continuous Paper Trader — Live Status",
-          "url": "https://github.com/Dtwosam/Cocomelon/issues/469",
-          "repositoryUrl": "https://api.github.com/repos/Dtwosam/Cocomelon",
-          "updatedAt": "2026-10-17T06:14:02Z"
-        },
-        {
-          "title": "chore(main): release 2.46.0",
-          "url": "https://github.com/Ikalus1988/MisakaNet/pull/3402",
-          "repositoryUrl": "https://api.github.com/repos/Ikalus1988/MisakaNet",
-          "updatedAt": "2026-10-17T06:14:01Z"
-        },
-        {
-          "title": "chore(deps): update npm:@anthropic-ai/claude-code to v2.1.299",
-          "url": "https://github.com/tsubasahomma/dotfiles/pull/407",
-          "repositoryUrl": "https://api.github.com/repos/tsubasahomma/dotfiles",
-          "updatedAt": "2026-10-17T06:14:04Z"
-        },
-        {
-          "title": "feat(proxy): add fail-closed Responses capability slice",
-          "url": "https://github.com/Rick1330/ibex-harness/pull/994",
-          "repositoryUrl": "https://api.github.com/repos/Rick1330/ibex-harness",
-          "updatedAt": "2026-10-17T06:14:01Z"
-        },
-        {
-          "title": "Remove second approval from prototype role grants",
-          "url": "https://github.com/BigSimmo/Ward-Flow/pull/384",
-          "repositoryUrl": "https://api.github.com/repos/BigSimmo/Ward-Flow",
-          "updatedAt": "2026-10-17T06:14:00Z"
-        },
-        {
-          "title": "chore(deps): update helm release traefik to v42",
-          "url": "https://github.com/chaitanya2692/my-homelab/pull/1080",
-          "repositoryUrl": "https://api.github.com/repos/chaitanya2692/my-homelab",
-          "updatedAt": "2026-10-17T06:14:00Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
