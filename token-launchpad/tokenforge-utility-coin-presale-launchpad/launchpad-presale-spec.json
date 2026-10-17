@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T01:32:05.368Z",
-  "latencyMs": 400,
+  "executedAt": "2026-10-17T01:43:12.262Z",
+  "latencyMs": 438,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #357: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #358: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52705689,
+    "liveBlockNumber": 52706022,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 283189,
+    "baseMainnetTopPoolsVolume24hUsd": 282929,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "mSuihENqaxAE4tHppc6UURFstg2XroF4HQCbXRhpump",
+        "description": "The coin of TradeTable, fixed-price OTC for Solana memecoins. Sellers set one price, buyers pay it, and tokens and payment swap in one transaction. TradeTable's",
+        "url": "https://dexscreener.com/solana/msuihenqaxae4thppc6uurfstg2xrof4hqcbxrhpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FAnnWwYY2BnHCk2NJMejs7eawBfXb3VhZnD6cGLjpump",
+        "description": "From coin to card.",
+        "url": "https://dexscreener.com/solana/fannwwyy2bnhck2njmejs7eawbfxb3vhznd6cgljpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6PAFiZjq8zV5TLFseCNBGrD74Hvsw429xwRz5um3pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6pafizjq8zv5tlfsecnbgrd74hvsw429xwrz5um3pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BVEaDToN2Ufn8m1Jnqy8rtwwCiiMC7JcFtvmKPxTpump",
+        "description": "GTA Token — A cryptocurrency integrated directly into GTA, running through FiveM and the official Rockstar Games Launcher.",
+        "url": "https://dexscreener.com/solana/bveadton2ufn8m1jnqy8rtwwciimc7jcftvmkpxtpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Fm9cZQGykki5cXKPHhdybg57mzRrKDdzyg9amq6Spump",
@@ -57,30 +81,6 @@
         "tokenAddress": "7TiAAj7UBBAeEbiXJ1cvjxknT16EuL6GjVaT4ckLpump",
         "description": "$WISH ✨ The community coin behind Wishwave.\n\nWishwave is the marketplace for the experience economy. Real people share their talents in real life: yoga teachers",
         "url": "https://dexscreener.com/solana/7tiaaj7ubbaeebixj1cvjxknt16eul6gjvat4cklpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xEB579e280648B6f48A840086A9e6631500A20684",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0xeb579e280648b6f48a840086a9e6631500a20684"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "A6Gk99cY86ir38nbL9WBZ67G3hyVjNx7jmx8oDcspump",
-        "description": "Flying MAGA Roadster ($FMR) takes meme power sky-high with roaring engines, red-white-blue energy, and a wild ride across the Solana universe.",
-        "url": "https://dexscreener.com/solana/a6gk99cy86ir38nbl9wbz67g3hyvjnx7jmx8odcspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7tdX2xCUdH7aKRAtzpZ1gtipkJNzB7QMyimksn5ByCzX",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7tdx2xcudh7akratzpz1gtipkjnzb7qmyimksn5byczx"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9hjHNV5FGV33KFSkjhg9WGJbKjEsWaY6nKCMjgAqpump",
-        "description": "A zero knowledge bridge to a more private cross chain future.",
-        "url": "https://dexscreener.com/solana/9hjhnv5fgv33kfskjhg9wgjbkjesway6nkcmjgaqpump"
       }
     ]
   },
