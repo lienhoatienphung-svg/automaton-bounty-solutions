@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T20:57:40.669Z",
-  "latencyMs": 745,
+  "executedAt": "2026-10-17T21:10:49.896Z",
+  "latencyMs": 974,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #525: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #526: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,74 +215,59 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 102,
+      "priceBtc": 0.00002274644364719095
+    },
+    {
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 109,
-      "priceBtc": 0.0000014755196969158194
+      "priceBtc": 0.0000014754990259421764
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 632,
+      "priceBtc": 0.001344808413253397
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 120,
-      "priceBtc": 9.257833125570174e-8
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 102,
-      "priceBtc": 0.000022877801275468883
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 116,
-      "priceBtc": 8.023782468510483e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 631,
-      "priceBtc": 0.0013497680176535682
+      "priceBtc": 9.239614816850618e-8
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006121640181728281
+      "priceBtc": 0.00006120947692753199
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 117,
+      "priceBtc": 7.962093418348637e-7
     },
     {
       "name": "Quant",
       "symbol": "QNT",
       "marketCapRank": 39,
-      "priceBtc": 0.0024445368041852607
+      "priceBtc": 0.002444102151090536
     },
     {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.000012146632649045605
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.001275200564676757
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "docs(testnet): specify faucet helper for one-step friendbot funding and account init (#841)",
-      "url": "https://github.com/bridgelet-org/bridgelet-core/pull/941",
-      "createdAt": "2026-10-17T20:57:29Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/BoomchainLabs/walletgpt-ai/pull/34",
-      "createdAt": "2026-09-08T19:12:54Z"
-    },
-    {
-      "title": "[infra] Testnet evidence script: a lender withdraws more USDC than they supplied",
-      "url": "https://github.com/WritzProtocol/writz/issues/261",
-      "createdAt": "2026-10-17T20:55:52Z"
+      "title": "Update all major dependencies (major)",
+      "url": "https://github.com/Mbehbahani/JobPilot/pull/18",
+      "createdAt": "2026-08-05T16:21:46Z"
     },
     {
       "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
@@ -290,9 +275,24 @@
       "createdAt": "2026-10-12T21:43:27Z"
     },
     {
-      "title": "Create seasonal battle pass with free and premium tiers rewarding active players",
-      "url": "https://github.com/Space-Nebula/stellar-nebula-nomad/issues/550",
-      "createdAt": "2026-09-29T16:09:27Z"
+      "title": "Integrate the achievement card kit across Profile and collections",
+      "url": "https://github.com/sock-lint/the-abby-project/pull/269",
+      "createdAt": "2026-10-17T21:04:30Z"
+    },
+    {
+      "title": "refactor(backup): stage alpha home-state as raw copies, exclude History",
+      "url": "https://github.com/repparw/nix/pull/292",
+      "createdAt": "2026-10-17T20:05:34Z"
+    },
+    {
+      "title": "soroban: `dispatch_confirmation` claims a failed keeper-reward payout will not roll back the confirmation, but it does",
+      "url": "https://github.com/Perihelion-Protocol/Perihelion/issues/913",
+      "createdAt": "2026-10-15T10:53:04Z"
+    },
+    {
+      "title": "Draft: continuity ledger, canon fixes, and staged 10k chapter expansion",
+      "url": "https://github.com/danielmartinez-maker/TheSEARemembers/pull/103",
+      "createdAt": "2026-10-14T03:22:20Z"
     }
   ]
 }
