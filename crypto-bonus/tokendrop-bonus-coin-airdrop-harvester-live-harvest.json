@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T01:14:12.630Z",
-  "latencyMs": 664,
+  "executedAt": "2026-10-17T01:26:40.533Z",
+  "latencyMs": 1175,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #359: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #360: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 956287,
-      "apyBase": 22.5,
-      "apyRewardBonus": 406679.94,
-      "apyTotal": 406702.43,
+      "tvlUsd": 949051,
+      "apyBase": 23.09,
+      "apyRewardBonus": 406199.15,
+      "apyTotal": 406222.24,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -30,24 +30,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "CTR-USDC",
-      "tvlUsd": 609577,
-      "apyBase": 5.46,
-      "apyRewardBonus": 234810.93,
-      "apyTotal": 234816.39,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "47bb2cb3-6a91-43ee-9dde-abceb2ded03f"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1127452,
-      "apyBase": 1.38,
-      "apyRewardBonus": 80099.11,
-      "apyTotal": 80100.49,
+      "tvlUsd": 1133118,
+      "apyBase": 1.39,
+      "apyRewardBonus": 82672.13,
+      "apyTotal": 82673.52,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -55,12 +42,25 @@
     },
     {
       "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "CTR-USDC",
+      "tvlUsd": 608072,
+      "apyBase": 5.74,
+      "apyRewardBonus": 72401.32,
+      "apyTotal": 72407.05,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "47bb2cb3-6a91-43ee-9dde-abceb2ded03f"
+    },
+    {
+      "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 55273,
+      "tvlUsd": 55065,
       "apyBase": 0,
-      "apyRewardBonus": 39379.97,
-      "apyTotal": 39379.97,
+      "apyRewardBonus": 39174.72,
+      "apyTotal": 39174.72,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -70,10 +70,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 259708,
-      "apyBase": 94.88,
-      "apyRewardBonus": 12326,
-      "apyTotal": 12420.87,
+      "tvlUsd": 257869,
+      "apyBase": 97.23,
+      "apyRewardBonus": 19745.56,
+      "apyTotal": 19842.79,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -83,10 +83,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 150406,
-      "apyBase": 31.32,
-      "apyRewardBonus": 7922.29,
-      "apyTotal": 7953.61,
+      "tvlUsd": 150492,
+      "apyBase": 31.27,
+      "apyRewardBonus": 7848.5,
+      "apyTotal": 7879.76,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -96,10 +96,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-CBBTC",
-      "tvlUsd": 171725,
-      "apyBase": 39.29,
-      "apyRewardBonus": 7392.58,
-      "apyTotal": 7431.88,
+      "tvlUsd": 171692,
+      "apyBase": 38.41,
+      "apyRewardBonus": 6842.68,
+      "apyTotal": 6881.09,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -121,24 +121,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "FUN-USDC",
-      "tvlUsd": 277393,
-      "apyBase": 47.35,
-      "apyRewardBonus": 3172.81,
-      "apyTotal": 3220.16,
+      "symbol": "USDC-MUC",
+      "tvlUsd": 1014886,
+      "apyBase": 125.25,
+      "apyRewardBonus": 4090.1,
+      "apyTotal": 4215.35,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "18674a4f-57ea-4c91-99ce-ea1a2b37aa3d"
+      "poolId": "3cd9aba2-1527-529a-9ecc-6bdc447494af"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-CBBTC",
-      "tvlUsd": 2084698,
-      "apyBase": 80.85,
-      "apyRewardBonus": 1873.31,
-      "apyTotal": 1954.16,
+      "tvlUsd": 2066262,
+      "apyBase": 79.2,
+      "apyRewardBonus": 3976.32,
+      "apyTotal": 4055.52,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -147,6 +147,14 @@
   ],
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
+    {
+      "chainId": "solana",
+      "tokenAddress": "7TiAAj7UBBAeEbiXJ1cvjxknT16EuL6GjVaT4ckLpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "$WISH ✨ The community coin behind Wishwave.\n\nWishwave is the marketplace for the experience economy. Real people share their talents in real life: yoga teachers",
+      "url": "https://dexscreener.com/solana/7tiaaj7ubbaeebixj1cvjxknt16eul6gjvat4cklpump"
+    },
     {
       "chainId": "solana",
       "tokenAddress": "4by8accPvdRcmDEvJy1svdSJMwfVcNGyWqgQw9EPpump",
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "⚔️ $RONIN — THE MASTERLESS SAMURAI | SOLANA\n\nBorn from a community that survived a rug, $RONIN has evolved from a meme into a growing, self-feeding Solana ecosy",
       "url": "https://dexscreener.com/solana/2jvevxorsskapz8t56mjmnjq6dk3feeuysrmzkkipump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xa01fF10774CFe53C3FBC1D7D124c42e19F6AfcBD",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Nobody knows where OWOWO came from.\n\nNo roadmap. No promises. Just vibes and a stare you can’t unsee.",
-      "url": "https://dexscreener.com/robinhood/0xa01ff10774cfe53c3fbc1d7d124c42e19f6afcbd"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,50 +217,50 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 718,
+      "marketCapRank": 717,
       "priceBtc": 3.211198411121736e-7
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.284854769883704e-8
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9994940363902539
+      "priceBtc": 9.256487037935672e-8
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 49,
-      "priceBtc": 5.595128576007632e-8
+      "priceBtc": 5.551640623865955e-8
     },
     {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 106,
-      "priceBtc": 0.000020930011399098612
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.014069033716833162
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9991206843043372
     },
     {
       "name": "Monad",
       "symbol": "MON",
       "marketCapRank": 153,
-      "priceBtc": 2.7989763764739164e-7
+      "priceBtc": 2.786406906548588e-7
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006189277536206608
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 106,
+      "priceBtc": 0.000020794513688137343
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.014059651494303034
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 615,
+      "priceBtc": 0.0014213165255446752
     }
   ],
   "activeAirdropAndFaucetQuests": [
@@ -270,29 +270,29 @@
       "createdAt": "2026-10-17T00:42:35Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "Spec: Slice 12 — Full export",
+      "url": "https://github.com/isaacvarg/curate/issues/22",
+      "createdAt": "2026-10-17T01:25:06Z"
     },
     {
-      "title": "[KAIOS AU WINDOW] 衡曜｜General Manager・神經突觸公開窗口",
-      "url": "https://github.com/klineodyssey/kline-odyssey/issues/584",
-      "createdAt": "2026-10-12T07:28:20Z"
+      "title": "[reward, ray, cfg, doc] feat: share async scorer concurrency across reward workers",
+      "url": "https://github.com/verl-project/verl/pull/8270",
+      "createdAt": "2026-10-17T00:46:43Z"
     },
     {
-      "title": "ambiguity: R8.5/R8.6 give each account one cohort and one grant tier, but nothing says what an account active in two Era-T roles (miner and ",
-      "url": "https://github.com/flop-labs/yellowpaper/issues/167",
-      "createdAt": "2026-10-17T01:12:21Z"
+      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
+      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
+      "createdAt": "2026-10-09T07:30:01Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "\"eat some food\" action",
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
+      "createdAt": "2026-10-07T03:48:40Z"
     },
     {
-      "title": "[adapters] Port BioMysteryBench for evaluation with a Daytona pilot",
-      "url": "https://github.com/marin-community/harbor/issues/161",
-      "createdAt": "2026-09-18T21:32:59Z"
+      "title": "Merge beta v6.0 into beta",
+      "url": "https://github.com/WookieeMatt/Essence20/pull/998",
+      "createdAt": "2026-10-17T01:21:59Z"
     }
   ]
 }
