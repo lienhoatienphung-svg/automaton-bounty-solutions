@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T12:44:01.400Z",
-  "latencyMs": 736,
+  "executedAt": "2026-10-17T12:57:10.704Z",
+  "latencyMs": 1129,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #459: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #460: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,72 +217,67 @@
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 614,
-      "priceBtc": 0.0014110238308355895
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006230315003533736
+      "marketCapRank": 615,
+      "priceBtc": 0.0014114006939101448
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010611420091821613
+      "priceBtc": 0.00010586779026333288
     },
     {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.5490408348680676e-8
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006218129120084594
+    },
+    {
+      "name": "Sei",
+      "symbol": "SEI",
+      "marketCapRank": 124,
+      "priceBtc": 7.742646259979408e-7
     },
     {
       "name": "Derive",
       "symbol": "DRV",
-      "marketCapRank": 124,
-      "priceBtc": 0.000005281914837299701
+      "marketCapRank": 125,
+      "priceBtc": 0.000005207495968558177
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9987697463673376
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 100,
-      "priceBtc": 0.000008230488593526505
+      "priceBtc": 0.9988572188010865
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.014282929342952302
+      "priceBtc": 0.0142177515850108
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 29,
+      "priceBtc": 0.000012202618953038633
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
+      "title": "LND: qualify Taproot Assets mint, transfer, and RFQ payments on signet",
+      "url": "https://github.com/OpenAgentsInc/openagents/issues/11863",
+      "createdAt": "2026-10-16T12:03:26Z"
     },
     {
-      "title": "Feature: unique-personhood / nullifier per app to prevent Sybil reuse",
-      "url": "https://github.com/ToluLabs/StellarCred/issues/395",
-      "createdAt": "2026-08-30T12:47:54Z"
+      "title": "Use USDCx for Testnet Earn and retire Epoch USDC choices",
+      "url": "https://github.com/0xMiden/wallet/pull/1513",
+      "createdAt": "2026-10-17T02:58:47Z"
     },
     {
-      "title": "feat(mobile): Redesign B app, Figma SSOT, Solar icons, restore passphrase (#54)",
-      "url": "https://github.com/HyeokjaeChoi/vaultme/pull/63",
-      "createdAt": "2026-10-17T12:07:10Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "LND P4 candidate: Wavelength signet spike — Ark wallet client as an agent-side wallet (experimental)",
+      "url": "https://github.com/OpenAgentsInc/openagents/issues/11770",
+      "createdAt": "2026-10-15T20:37:26Z"
     },
     {
       "title": "CP: mechanics waves tracker (draft, not for merge)",
@@ -290,9 +285,14 @@
       "createdAt": "2026-10-15T07:00:56Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "LND: qualify remote signing and SCB recovery on signet",
+      "url": "https://github.com/OpenAgentsInc/openagents/issues/11862",
+      "createdAt": "2026-10-16T11:21:15Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
