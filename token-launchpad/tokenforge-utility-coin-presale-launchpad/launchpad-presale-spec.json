@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T07:48:50.454Z",
-  "latencyMs": 256,
+  "executedAt": "2026-10-17T08:01:10.341Z",
+  "latencyMs": 588,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #413: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #414: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52716991,
+    "liveBlockNumber": 52717361,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459003,
-    "baseMainnetTopPoolsVolume24hUsd": 313647,
+    "baseMainnetTopPoolsVolume24hUsd": 313710,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "71hpYEmQ7AVCPRrQpdfeimkUKEc2NKn5WwLenvHUpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/71hpyemq7avcprrqpdfeimkukec2nkn5wwlenvhupump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x90476923B99c3935839C383cB7327140a1d49a8A",
+        "description": "Roadster is a true pilot's car: active aerodynamics, a multi-mode suction system & cold-gas thrusters",
+        "url": "https://dexscreener.com/bsc/0x90476923b99c3935839c383cb7327140a1d49a8a"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xe4f00e3286C39C74D431904Bca00b193f7E0B1dA",
+        "description": "Part loyal companion, part cunning trickster, 100% neon blue.\n\nEvery trade pays 7% to holders — in ETH.",
+        "url": "https://dexscreener.com/robinhood/0xe4f00e3286c39c74d431904bca00b193f7e0b1da"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BbbFLmMjY8eZnXpNJGpTXV5PqEUi9c6XkC9V9YQqpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "9BeLZ1581nGAEJBJLjwjFaSzRLgAGYfmVYpj8r5Dpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/9belz1581ngaejbjljwjfaszrlgagyfmvypj8r5dpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x842D603Cab1285c496d97c2790859Dd670eAE81C",
-        "description": "The fartcoin dev posted about sexcoin. The background is Truth Terminal's recent tweets focusing on sex-themed content.",
-        "url": "https://dexscreener.com/robinhood/0x842d603cab1285c496d97c2790859dd670eae81c"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BkAKWGqXKioyhEetek8KPUXrzkQ4PEtkfQStxqGPpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bkakwgqxkioyheetek8kpuxrzkq4petkfqstxqgppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Azd3Dqza27B1jEoEqPyhatoScAssxWPD2r475Q9Spump",
-        "description": "Ideas from the machine.\n\nThe next move is yours.",
-        "url": "https://dexscreener.com/solana/azd3dqza27b1jeoeqpyhatoscassxwpd2r475q9spump"
       }
     ]
   },
