@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T02:09:01.847Z",
-  "latencyMs": 997,
+  "executedAt": "2026-10-17T02:21:25.748Z",
+  "latencyMs": 1086,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #367: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #368: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,53 +217,58 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 717,
+      "marketCapRank": 718,
       "priceBtc": 3.211198411121736e-7
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 106,
-      "priceBtc": 0.000020702402460374586
-    },
-    {
-      "name": "Monad",
-      "symbol": "MON",
-      "marketCapRank": 153,
-      "priceBtc": 2.8008037286221567e-7
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 84,
-      "priceBtc": 0.000010755676818695631
-    },
-    {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.607145522534789e-8
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.284401351545992e-8
+      "priceBtc": 9.270979956626216e-8
     },
     {
-      "name": "NeoSoul",
-      "symbol": "DNA",
-      "marketCapRank": 560,
-      "priceBtc": 0.0000035669509183041877
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 106,
+      "priceBtc": 0.000020630832691643967
     },
     {
-      "name": "Nexpace",
-      "symbol": "NXPC",
-      "marketCapRank": 429,
-      "priceBtc": 0.000002119423641210378
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 49,
+      "priceBtc": 5.640201347899031e-8
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 85,
+      "priceBtc": 0.000010794674142591069
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9995989814187123
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 617,
+      "priceBtc": 0.0014161029098572597
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 95,
+      "priceBtc": 0.000008680954919893142
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Azioni base 5e: Aiutare, spinta, Prono, prove abilità e movimento furtivo",
+      "url": "https://github.com/francesco-bufalini/VTT/pull/162",
+      "createdAt": "2026-10-17T02:17:16Z"
+    },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
@@ -275,24 +280,19 @@
       "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "chore(deps): bump tempo dependencies to dee08cf",
-      "url": "https://github.com/lukasrosario/foundry/pull/1",
-      "createdAt": "2026-07-21T01:46:08Z"
+      "title": "[Catalog P4] Atlas — AAVE Staked Token",
+      "url": "https://github.com/matheus-junio-da-silva/Web3Bugs/pull/2",
+      "createdAt": "2026-10-16T23:46:23Z"
     },
     {
-      "title": "fix(usdcx): reserve a burn's dry-run fee on Max",
-      "url": "https://github.com/0xMiden/wallet/pull/1494",
-      "createdAt": "2026-10-16T12:33:39Z"
+      "title": "chore(deps): update all non-major dependencies",
+      "url": "https://github.com/reddoorla/erp-industrial/pull/60",
+      "createdAt": "2026-09-21T16:44:38Z"
     },
     {
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/sambaum/k8s/issues/5",
-      "createdAt": "2023-09-13T15:01:55Z"
-    },
-    {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
+      "title": "feat(escrow): wallet readiness check before a guest creates an escrow…",
+      "url": "https://github.com/safetrustcr/dApp-SafeTrust/pull/514",
+      "createdAt": "2026-10-17T02:13:18Z"
     }
   ]
 }
