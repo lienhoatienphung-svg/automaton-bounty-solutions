@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T23:28:38.101Z",
-  "latencyMs": 334,
+  "executedAt": "2026-10-17T23:30:43.052Z",
+  "latencyMs": 344,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #540: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sanctuary Computer: Head of Technol",
+  "workTitle": "Delivery Sprint #541: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52745185,
+    "liveBlockNumber": 52745247,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 196090,
+    "baseMainnetTopPoolsVolume24hUsd": 195380,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HYgDBvzGapcJCYzYz8UYnJhdjNw2Ms2DMa66Wdwqpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hygdbvzgapcjcyzyz8uynjhdjnw2ms2dma66wdwqpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EEUeijVRoP3nZP5HP72kaG9JUGSRMbUsof79SoRApump",
+        "description": "Ask for anything.\nIrisShop finds it.",
+        "url": "https://dexscreener.com/solana/eeueijvrop3nzp5hp72kag9jugsrmbusof79sorapump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BNot1PaDzqF1pu3aQuAQuUu9rEdyhikZ6SWDoBeQpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "9gN1Yo2K3jZMSf7NEgq996yNS46R2X9kVBQzED8qpump",
         "description": "Every km pays. \nPowered by Strava",
         "url": "https://dexscreener.com/solana/9gn1yo2k3jzmsf7negq996yns46r2x9kvbqzed8qpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AJ7XD2tSoCb32kERgqsDJotRg5cGq1uXmoPd7kQZpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/aj7xd2tsocb32kergqsdjotrg5cgq1uxmopd7kqzpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x127CDc74E44E3c60422b7E792eBE480c0f873ed5",
-        "description": "Being a boomer is easy. Just DCA the SPX and retire.\n\nNow on Flywheel",
-        "url": "https://dexscreener.com/robinhood/0x127cdc74e44e3c60422b7e792ebe480c0f873ed5"
       }
     ]
   },
