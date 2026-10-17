@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T08:01:10.341Z",
-  "latencyMs": 588,
+  "executedAt": "2026-10-17T08:02:48.789Z",
+  "latencyMs": 258,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #414: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #415: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52717361,
+    "liveBlockNumber": 52717410,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 313710,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "AeLonprCt3y4dZEWEeRTkPqnUPW2FngSD2YeUmPP6GDk",
+        "description": "Elon has turned Artificial \n\nThe ticker is $AE",
+        "url": "https://dexscreener.com/solana/aelonprct3y4dzeweertkpqnupw2fngsd2yeumpp6gdk"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "71hpYEmQ7AVCPRrQpdfeimkUKEc2NKn5WwLenvHUpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x7b4301b979d660e5552923433b1ee4abeb9d468b",
         "description": "ETH-backed sBOND positions. Time-weighted revenue sharing. Transparent onchain reserves.",
         "url": "https://dexscreener.com/robinhood/0x7b4301b979d660e5552923433b1ee4abeb9d468b"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9BeLZ1581nGAEJBJLjwjFaSzRLgAGYfmVYpj8r5Dpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9belz1581ngaejbjljwjfaszrlgagyfmvypj8r5dpump"
       }
     ]
   },
