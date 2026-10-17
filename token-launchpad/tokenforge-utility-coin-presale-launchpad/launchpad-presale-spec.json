@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T20:43:01.593Z",
-  "latencyMs": 250,
+  "executedAt": "2026-10-17T20:55:49.294Z",
+  "latencyMs": 331,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #519: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #520: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sanctuary Computer: Head of Technol",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52740217,
+    "liveBlockNumber": 52740601,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,39 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459000,
-    "baseMainnetTopPoolsVolume24hUsd": 198612,
+    "baseMainnetTopPoolsVolume24hUsd": 198920,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8FrKxcvj3Hn4KATMwfAFkrEb146sHj2wtAtxU61npump",
+        "description": "Nine lives. One expression. The vase never stood a chance. A kitten hides behind a cracked white mask, wearing the same tiny smile through every bad decision.",
+        "url": "https://dexscreener.com/solana/8frkxcvj3hn4katmwfafkreb146shj2wtatxu61npump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "8dcJQQxNY4ooKE8PpJMhgcLsC2oc4RzHGEpbvj5opump",
+        "description": "Solana’s toughest Grandma 🥊 Floral scarf. Iron fists. Zero chill. She’s here to knit, hit and shake up the timeline 💚",
+        "url": "https://dexscreener.com/solana/8dcjqqxny4ooke8ppjmhgclsc2oc4rzhgepbvj5opump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "8kh7mPfHqF4TBbszY3x76GZzt6a3GNLbZNdXjPs3pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8kh7mpfhqf4tbbszy3x76gzzt6a3gnlbzndxjps3pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "53RFHuCSXq6bnxryCCzhBRbCemTJz3wcUNDtYLQzpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/53rfhucsxq6bnxrycczhbrbcemtjz3wcundtylqzpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x7d96DdCf176De54e4b279C78fB9459e758B8AE7D",
+        "description": "chat avec un gilet",
+        "url": "https://dexscreener.com/robinhood/0x7d96ddcf176de54e4b279c78fb9459e758b8ae7d"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3BTeMaCnsaHnCVT9STtkpjgHCZ5BnyBXVrBf59j6pump",
@@ -47,40 +77,10 @@
         "url": "https://dexscreener.com/robinhood/0x68e954ab52bebf778292f389f6bf1ef276270b32"
       },
       {
-        "chainId": "solana",
-        "tokenAddress": "Gb8MFBuDe54J7k8kas2nsRs6xcMgZ4uYrhzSverGpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/gb8mfbude54j7k8kas2nsrs6xcmgz4uyrhzsvergpump"
-      },
-      {
         "chainId": "robinhood",
         "tokenAddress": "0xd1127a84ebce5765ec337141fbfe6407ca2eddce",
         "description": "Launches are open.",
         "url": "https://dexscreener.com/robinhood/0xd1127a84ebce5765ec337141fbfe6407ca2eddce"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6VUZxcyb9jPssGNvwPrbyhRwfu7aPKVjZbcV1xA3pump",
-        "description": "Automated token deployer & fee distribution agent.\n\nButtler deploys your token. \n\nHe decides who gets the fees.",
-        "url": "https://dexscreener.com/solana/6vuzxcyb9jpssgnvwprbyhrwfu7apkvjzbcv1xa3pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Fh592CeXstzjrxVq6st854ufZ76MNer3s34Wk5b6pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fh592cexstzjrxvq6st854ufz76mner3s34wk5b6pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7ot677Mz5A729t4eENJJyUhdYHV3Ubb6xqsYd9Pqpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7ot677mz5a729t4eenjjyuhdyhv3ubb6xqsyd9pqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BhqcWmDKDWrmWAsByoqgpGNJmW6Y1zMPESgj6LnHpump",
-        "description": "The Last Survivor",
-        "url": "https://dexscreener.com/solana/bhqcwmdkdwrmwasbyoqgpgnjmw6y1zmpesgj6lnhpump"
       }
     ]
   },
