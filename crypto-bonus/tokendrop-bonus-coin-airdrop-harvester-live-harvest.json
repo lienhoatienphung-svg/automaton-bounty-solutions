@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T23:43:07.319Z",
-  "latencyMs": 725,
+  "executedAt": "2026-10-17T23:44:43.311Z",
+  "latencyMs": 699,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #546: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #547: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Walkthrough detail part 3: kitchen, bath and laundry (Pretty only)",
-      "url": "https://github.com/GrantBuonviri/House-Design-App/pull/117",
-      "createdAt": "2026-10-17T23:42:59Z"
+      "title": "Replace web3.js with viem; claim calls and EIP-7702 batching",
+      "url": "https://github.com/pk910/PoWFaucet/pull/557",
+      "createdAt": "2026-10-17T19:26:03Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
       "title": "Ghost <-> Echo comms",
@@ -283,16 +293,6 @@
       "title": "[Verify]: netmojo.omdrop — publish newer commit cf0ccb4 (0.18.0)",
       "url": "https://github.com/omacom/omarchy-plugin-marketplace/issues/10665",
       "createdAt": "2026-10-09T06:15:25Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Port VirtualHome scripts and environment graph to AI2-THOR",
-      "url": "https://github.com/takanori-ugai/ai2thor/pull/1",
-      "createdAt": "2026-10-17T15:02:47Z"
     }
   ]
 }
