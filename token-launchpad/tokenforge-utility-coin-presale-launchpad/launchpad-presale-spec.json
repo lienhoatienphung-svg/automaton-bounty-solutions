@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T10:51:53.937Z",
-  "latencyMs": 253,
+  "executedAt": "2026-10-17T11:04:18.529Z",
+  "latencyMs": 324,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #439: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #440: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52722483,
+    "liveBlockNumber": 52722855,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459003,
-    "baseMainnetTopPoolsVolume24hUsd": 251541,
+    "baseMainnetTopPoolsVolume24hUsd": 244077,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DWJYwAk2y6eSHkXENcEebrtXgznHQTtCraCuA5LJpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/dwjywak2y6eshkxenceebrtxgznhqttcracua5ljpump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x7ae50D19EA72249BA7BF0F497B873Cb20D6d3029",
+        "description": "112 maps \n@ProgrammableHQ",
+        "url": "https://dexscreener.com/ethereum/0x7ae50d19ea72249ba7bf0f497b873cb20d6d3029"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "ErvkxE8gc7EwmaQfvoGfVfcDJbVG4EcHQr3yweTkpump",
+        "description": "Cross chain privacy layer for ZeroFee Wallet, Swap, and Paylinks.",
+        "url": "https://dexscreener.com/solana/ervkxe8gc7ewmaqfvogfvfcdjbvg4echqr3ywetkpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CSNY4hZXihtpe4PdvfjuztKVr9JLcpJ3ZKkdKGxTZbdW",
@@ -63,24 +81,6 @@
         "tokenAddress": "0x2371433a9229791f24F32405c596ffa732dF2A2A",
         "description": "CougarCoin (COUGAR) is a community-driven cryptocurrency on the BNB Smart Chain (BSC) launched in October 12 2026.\n\nIt's aim for gaming project and real life pa",
         "url": "https://dexscreener.com/bsc/0x2371433a9229791f24f32405c596ffa732df2a2a"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "92RNnoS1dahzmsgVr1EvDecoTUiHCd9BtsnsS2Qbpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/92rnnos1dahzmsgvr1evdecotuihcd9btsnss2qbpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4h7jHyjbvie7gAdVKe4k5NFx8jELZeaiDsYaZy45pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4h7jhyjbvie7gadvke4k5nfx8jelzeaidsyazy45pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9MGUZtGegSPs9GPyTKPAd8SdkYToVJqn516aYvAVpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9mguztgegsps9gpytkpad8sdkytovjqn516ayvavpump"
       }
     ]
   },
