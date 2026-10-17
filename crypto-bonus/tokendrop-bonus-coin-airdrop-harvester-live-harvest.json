@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T08:02:47.294Z",
-  "latencyMs": 673,
+  "executedAt": "2026-10-17T08:14:21.635Z",
+  "latencyMs": 1429,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #419: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #420: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,57 +217,67 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 717,
+      "marketCapRank": 716,
       "priceBtc": 3.211198411121736e-7
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 92,
-      "priceBtc": 0.000008896652597807575
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9994144651861839
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 105,
-      "priceBtc": 0.000021159734009304518
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.014289976054664769
+      "priceBtc": 0.014288343731542509
     },
     {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010795071619217338
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 92,
+      "priceBtc": 0.000008921428877962132
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 105,
+      "priceBtc": 0.00002111435634242898
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.999051181250794
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "marketCapRank": 179,
-      "priceBtc": 0.0000038802620308694645
+      "priceBtc": 0.000003870318716229727
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 612,
-      "priceBtc": 0.001411926330011862
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.0001076984685779205
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 111,
+      "priceBtc": 8.702634410939352e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[功能] 传输路径自动选择：点对点 Wi-Fi 优先、局域网次级、蓝牙兜底及 UI 提示",
-      "url": "https://github.com/GHOST-AKU/wozai/issues/23",
-      "createdAt": "2026-10-12T11:07:47Z"
+      "title": "perf(jit): sink LICM-hoisted constants on high pressure",
+      "url": "https://github.com/alloy-rs/evm2/pull/670",
+      "createdAt": "2026-10-16T17:41:18Z"
+    },
+    {
+      "title": "feat: bonding-curve game modes (PVE/PVP/TRENCH) + swap gas optimisation + DISCIPLE audit fixes",
+      "url": "https://github.com/makerlee0x/disciple/pull/75",
+      "createdAt": "2026-10-17T03:44:55Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide to v1",
+      "url": "https://github.com/4sllan/nuxt-feather-icons/pull/80",
+      "createdAt": "2026-07-25T03:21:32Z"
     },
     {
       "title": "Add anytime-valid improvement auditor",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-13T03:26:58Z"
     },
     {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
+      "title": "FLOP CHATGPT HANDOFF — NEWEST COMMENT IS SOLE CURRENT AUTHORITY (historical archive preserved)",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/765",
+      "createdAt": "2026-10-06T05:27:29Z"
     },
     {
-      "title": "SEC-011: converge the workstation SSH target hardening instead of applying it by hand",
-      "url": "https://github.com/mlorentedev/dotfiles/issues/2356",
-      "createdAt": "2026-10-13T02:07:37Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1.59.0",
-      "url": "https://github.com/cubeshipd/cubeship/pull/80",
-      "createdAt": "2026-10-12T19:42:03Z"
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/ngmisl/ascontastic/pull/21",
+      "createdAt": "2026-07-09T03:53:39Z"
     }
   ]
 }
