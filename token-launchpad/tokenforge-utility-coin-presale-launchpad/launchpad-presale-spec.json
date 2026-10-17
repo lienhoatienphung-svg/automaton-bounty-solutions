@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T16:56:19.694Z",
-  "latencyMs": 460,
+  "executedAt": "2026-10-17T17:10:26.450Z",
+  "latencyMs": 352,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #489: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #490: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Kodland: APAC Python (Instant B2B R",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52733416,
+    "liveBlockNumber": 52733839,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 455647,
-    "baseMainnetTopPoolsVolume24hUsd": 217196,
+    "baseMainnetTopPoolsVolume24hUsd": 217143,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x66bD32d177Ad64A10a151906545a9972590a7777",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/bsc/0x66bd32d177ad64a10a151906545a9972590a7777"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2gVNeu8dP7XiLoaWfUvUJXUM5AdXY8418aft8xhUpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2gvneu8dp7xiloawfuvujxum5adxy8418aft8xhupump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GEykrxsSKNtSaCzKEk9tfQLVzqQS4xmCdBGYFAEzpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/geykrxsskntsaczkek9tfqlvzqqs4xmcdbgyfaezpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3zRn4CSCv5yVxwGxub1qTZFA2PQJNrEX9SJKKSH8pump",
@@ -63,24 +81,6 @@
         "tokenAddress": "5pA7micXgknYakGvPpJih6v2kK4hBC85XTWDH6eipump",
         "description": "Leverage paired token infrastructure. The max long on pump × Hyperliquid.",
         "url": "https://dexscreener.com/solana/5pa7micxgknyakgvppjih6v2kk4hbc85xtwdh6eipump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FvPTudepAeHeuvnd6n9CRfk6346BgG2DjX9uZTM7pump",
-        "description": "classic roblox noob",
-        "url": "https://dexscreener.com/solana/fvptudepaeheuvnd6n9crfk6346bgg2djx9uztm7pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Av5hVq968urDRF7v444RiMTPBgdstNpQWm9VRguFpump",
-        "description": "Your AI Influencer Studio. No subscriptions.",
-        "url": "https://dexscreener.com/solana/av5hvq968urdrf7v444rimtpbgdstnpqwm9vrgufpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "bojvJb3cEwN7Kizx1LpkgcbWSdkbE4uP71tpnGapump",
-        "description": "teh president of france",
-        "url": "https://dexscreener.com/solana/bojvjb3cewn7kizx1lpkgcbwsdkbe4up71tpngapump"
       }
     ]
   },
