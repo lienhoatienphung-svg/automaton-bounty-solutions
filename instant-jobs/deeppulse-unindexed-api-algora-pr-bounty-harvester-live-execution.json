@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-17T15:47:51.479Z",
-  "latencyMs": 662,
+  "executedAt": "2026-10-17T16:01:44.422Z",
+  "latencyMs": 588,
   "companyName": "DeepPulse Unindexed API & Algora PR Bounty Harvester",
-  "workTitle": "Delivery Sprint #953: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
-  "targetUrl": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
+  "workTitle": "Growth & Sales Sprint #954: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "targetUrl": "https://polymarket.com/event/natoeu-troops-fighting-in-ukraine-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656621,
-        "liquidityUsd": 37102,
+        "liquidityUsd": 40045,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501800,
-        "liquidityUsd": 19382,
+        "liquidityUsd": 19939,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 18990,
+        "liquidityUsd": 18948,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -72,7 +72,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000065,
         "liquidityUsd": 103135,
-        "volume24hUsd": 86948,
+        "volume24hUsd": 85046,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -82,7 +82,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.0001,
         "liquidityUsd": 140030,
-        "volume24hUsd": 44271,
+        "volume24hUsd": 44323,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00005,
+        "priceUsd": 1.000061,
         "liquidityUsd": 21385,
-        "volume24hUsd": 65859,
+        "volume24hUsd": 65792,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -110,9 +110,9 @@
         "dexId": "pancakeswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00002,
+        "priceUsd": 1.000021,
         "liquidityUsd": 14836,
-        "volume24hUsd": 2592,
+        "volume24hUsd": 2528,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       },
       {
@@ -122,7 +122,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000082,
         "liquidityUsd": 12034,
-        "volume24hUsd": 2005,
+        "volume24hUsd": 1989,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
@@ -130,6 +130,51 @@
   "multiIndustryB2BContracts": {
     "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Self Bill Pro",
+        "roleOrTask": "Director of Product Management and IT Operations",
+        "industryTags": [
+          "product manager",
+          "exec",
+          "infosec",
+          "technical",
+          "customer support"
+        ],
+        "compensation": "$130000-$160000",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Yopeso Romania SRL",
+        "roleOrTask": "SAP RE FX Consultant",
+        "industryTags": [
+          "consulting",
+          "design",
+          "technical",
+          "customer support",
+          "dev"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Kodland",
+        "roleOrTask": "APAC Python",
+        "industryTags": [
+          "python",
+          "teaching",
+          "education",
+          "customer support",
+          "dev"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "RemoteOK-InstantB2B",
         "company": "AlgaeCal",
@@ -158,51 +203,6 @@
         ],
         "compensation": "$500-$2,500 Instant Retainer",
         "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Voltus",
-        "roleOrTask": "Customer Success Associate",
-        "industryTags": [
-          "customer support",
-          "testing",
-          "exec",
-          "ops",
-          "sales"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Allego",
-        "roleOrTask": "Account Manager Mid Market",
-        "industryTags": [
-          "exec",
-          "saas",
-          "customer support",
-          "marketing",
-          "ops"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Wrapbook",
-        "roleOrTask": "Senior Software Engineer II Applied AI",
-        "industryTags": [
-          "dev",
-          "design",
-          "amazon",
-          "sys admin",
-          "backend"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
         "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
       },
       {
