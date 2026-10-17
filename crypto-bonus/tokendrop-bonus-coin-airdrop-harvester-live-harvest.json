@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T03:05:52.119Z",
-  "latencyMs": 666,
+  "executedAt": "2026-10-17T03:17:44.147Z",
+  "latencyMs": 601,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #375: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #376: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "SAtoZGJkh4Eid9EQZYXWnCNVn5asZrWZLouBMX1SHi1",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/satozgjkh4eid9eqzyxwncnvn5aszrwzloubmx1shi1"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "9KDhovVA2kdjngkFooqEn5FoKkuZeDMYiQtVk7Lbm9up",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "We really got flying cars before GTA 6",
       "url": "https://dexscreener.com/solana/cmggeyqtka4e634zj3u18ed2whqtknzoz9fbx9z1pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "7TiAAj7UBBAeEbiXJ1cvjxknT16EuL6GjVaT4ckLpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "$WISH ✨ The community coin behind Wishwave.\n\nWishwave is the marketplace for the experience economy. Real people share their talents in real life: yoga teachers",
-      "url": "https://dexscreener.com/solana/7tiaaj7ubbaeebixj1cvjxknt16eul6gjvat4cklpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -221,68 +221,63 @@
       "priceBtc": 3.211198411121736e-7
     },
     {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 617,
+      "priceBtc": 0.0014173180224422168
+    },
+    {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009780031901985807
+      "priceBtc": 0.0009804309349124133
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9989122228630801
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 613,
-      "priceBtc": 0.0014156635299191517
+      "priceBtc": 0.9996367200797607
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 89,
-      "priceBtc": 0.00003872697697987019
+      "priceBtc": 0.00003890228889924022
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "marketCapRank": 25,
+      "priceBtc": 0.00008918124285822168
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.0000618337296400364
+      "priceBtc": 0.0000620347370584273
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012806638936669198
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 85,
-      "priceBtc": 0.000010750352297883649
+      "priceBtc": 0.0012830122239506905
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(server): wait for the mined block hash, not its height, before scanning",
-      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/397",
-      "createdAt": "2026-10-17T03:05:38Z"
+      "title": "chore(deps): bump tempo dependencies to dee08cf",
+      "url": "https://github.com/mowind/foundry/pull/2",
+      "createdAt": "2026-07-28T02:34:15Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "[chain · Tier K] ADR / spec factory — the decisions before the code",
+      "url": "https://github.com/Phantom-X-007/intafaced/issues/937",
+      "createdAt": "2026-08-07T03:08:29Z"
     },
     {
       "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
@@ -290,9 +285,14 @@
       "createdAt": "2026-10-07T16:13:30Z"
     },
     {
-      "title": "chore: Implementer inbox — instructions from the Orchestrator",
-      "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
-      "createdAt": "2026-10-06T01:05:54Z"
+      "title": "[KAIOS AU WINDOW] 衡曜｜General Manager・神經突觸公開窗口",
+      "url": "https://github.com/klineodyssey/kline-odyssey/issues/584",
+      "createdAt": "2026-10-12T07:28:20Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
