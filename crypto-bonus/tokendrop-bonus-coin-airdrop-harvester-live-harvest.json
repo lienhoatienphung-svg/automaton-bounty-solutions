@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T12:14:23.468Z",
-  "latencyMs": 622,
+  "executedAt": "2026-10-17T12:16:21.613Z",
+  "latencyMs": 673,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #454: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #455: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,5 +263,36 @@
       "priceBtc": 0.00010643019942947162
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "chore(main): release 1.16.0",
+      "url": "https://github.com/lifekit-hq/finance-sentry/pull/1122",
+      "createdAt": "2026-10-15T22:02:31Z"
+    },
+    {
+      "title": "# Spike 655 — Soroban RPC request batching plus dedupe for simulation storms",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/517",
+      "createdAt": "2026-10-15T11:02:44Z"
+    },
+    {
+      "title": "feat(mobile): USDC send and QR scan",
+      "url": "https://github.com/HyeokjaeChoi/vaultme/issues/64",
+      "createdAt": "2026-10-17T12:15:43Z"
+    },
+    {
+      "title": "Feedback wanted: a three-minute test of Agent Jobcenter",
+      "url": "https://github.com/MagneticSnake/agent-jobcenter/issues/1",
+      "createdAt": "2026-10-17T12:15:25Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "Exporting a MonoGame DesktopGL game for six desktop platforms",
+      "url": "https://github.com/softhatgames/playstead/issues/84",
+      "createdAt": "2026-10-17T12:14:02Z"
+    }
+  ]
 }
