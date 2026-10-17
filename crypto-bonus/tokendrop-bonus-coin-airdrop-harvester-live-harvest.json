@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T19:27:27.299Z",
-  "latencyMs": 1488,
+  "executedAt": "2026-10-17T19:29:05.595Z",
+  "latencyMs": 1005,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #512: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #513: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,19 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Draft: continuity ledger, canon fixes, and staged 10k chapter expansion",
-      "url": "https://github.com/danielmartinez-maker/TheSEARemembers/pull/103",
-      "createdAt": "2026-10-14T03:22:20Z"
+      "title": "fix(did-ckb): propagate history input lookup failures",
+      "url": "https://github.com/ckb-devrel/ccc/pull/608",
+      "createdAt": "2026-10-17T19:28:41Z"
     },
     {
-      "title": "Add opt-in X25519-only receiver configuration in omdrop-core",
-      "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/49",
-      "createdAt": "2026-10-12T11:48:50Z"
+      "title": "deploy: fresh Base Sepolia + Arbitrum Sepolia redeploy (2026-10-17) and the deploy build step skips the test tree",
+      "url": "https://github.com/vaipakam/vaipakam/pull/2545",
+      "createdAt": "2026-10-17T18:52:07Z"
     },
     {
-      "title": "[BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structured comment",
-      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4",
-      "createdAt": "2026-03-27T00:55:42Z"
+      "title": "[BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history",
+      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1",
+      "createdAt": "2026-03-27T00:55:36Z"
     },
     {
       "title": "[BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project",
@@ -285,14 +285,14 @@
       "createdAt": "2026-03-27T00:55:38Z"
     },
     {
-      "title": "Replace web3.js with viem; claim transaction templates and batching",
-      "url": "https://github.com/pk910/PoWFaucet/pull/557",
-      "createdAt": "2026-10-17T19:26:03Z"
+      "title": "[BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structured comment",
+      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4",
+      "createdAt": "2026-03-27T00:55:42Z"
     },
     {
-      "title": "[BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history",
-      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1",
-      "createdAt": "2026-03-27T00:55:36Z"
+      "title": "Draft: continuity ledger, canon fixes, and staged 10k chapter expansion",
+      "url": "https://github.com/danielmartinez-maker/TheSEARemembers/pull/103",
+      "createdAt": "2026-10-14T03:22:20Z"
     }
   ]
 }
