@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T23:30:43.052Z",
-  "latencyMs": 344,
+  "executedAt": "2026-10-17T23:44:33.776Z",
+  "latencyMs": 379,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #541: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #542: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52745247,
+    "liveBlockNumber": 52745663,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 195380,
+    "baseMainnetTopPoolsVolume24hUsd": 195529,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x67308B03Ac084e8E7DccB0C3eabAE65034C02F38",
+        "description": "They once called me Wojak, now I'm just a ZOOMER",
+        "url": "https://dexscreener.com/robinhood/0x67308b03ac084e8e7dccb0c3eabae65034c02f38"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xB933a37616Ded5dF47b92fbFd425223da4e77777",
+        "description": "Tokenize what you already own. Cars, watches, domains, royalties, minted, verified, and traded on-chain. No banks, no custodians.",
+        "url": "https://dexscreener.com/robinhood/0xb933a37616ded5df47b92fbfd425223da4e77777"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HYgDBvzGapcJCYzYz8UYnJhdjNw2Ms2DMa66Wdwqpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "DhPxf37F5fH5CiBEagy7gNKaTG27yHaPc1ikQ67Mpump",
         "description": "Tiny paws, big cattitude!\nBorn to be cute, destined to rule.",
         "url": "https://dexscreener.com/solana/dhpxf37f5fh5cibeagy7gnkatg27yhapc1ikq67mpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4KKvYn7baSnZtHnj6mioap1dbB3NPmy7F1KHrqvbpump",
-        "description": "stickmanstory22 is a new Instagram page posting interactive reels where viewers decide how the storyline continues, going insanely viral with over 30M+ views in",
-        "url": "https://dexscreener.com/solana/4kkvyn7basnzthnj6mioap1dbb3npmy7f1khrqvbpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9gN1Yo2K3jZMSf7NEgq996yNS46R2X9kVBQzED8qpump",
-        "description": "Every km pays. \nPowered by Strava",
-        "url": "https://dexscreener.com/solana/9gn1yo2k3jzmsf7negq996yns46r2x9kvbqzed8qpump"
       }
     ]
   },
