@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T10:07:28.267Z",
-  "latencyMs": 957,
+  "executedAt": "2026-10-17T10:20:10.390Z",
+  "latencyMs": 740,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #437: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #438: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,84 +215,84 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 95,
-      "priceBtc": 0.000008740404950681426
-    },
-    {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.014455921302796139
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 612,
-      "priceBtc": 0.001416992443199083
+      "priceBtc": 0.014417712303182369
     },
     {
       "name": "Sui",
       "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000012265295265745317
+      "marketCapRank": 29,
+      "priceBtc": 0.000012215336360616669
     },
     {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 105,
-      "priceBtc": 0.00002088508340811401
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 98,
+      "priceBtc": 0.00000843159306110594
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009792763305658196
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 613,
+      "priceBtc": 0.0014144497741200115
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010756384527481744
+      "priceBtc": 0.00010734158657616993
     },
     {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "marketCapRank": 34,
-      "priceBtc": 0.0033673226857871058
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009784828684931883
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "marketCapRank": 90,
+      "priceBtc": 0.00002394583706600456
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 106,
+      "priceBtc": 0.000020917727185099215
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(server): wait for the mined block hash, not its height, before scanning",
-      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/397",
-      "createdAt": "2026-10-17T03:05:38Z"
+      "title": "Live connector check failing (2026-08-14)",
+      "url": "https://github.com/Pairlens/trading-terminal/issues/11",
+      "createdAt": "2026-08-14T07:30:01Z"
     },
     {
-      "title": "Harden bridge recovery and network release checks",
-      "url": "https://github.com/solana-classic/solana-classic/pull/6",
-      "createdAt": "2026-10-15T10:38:56Z"
+      "title": "F6 stage-0 — the bridge as a product: V6 becomes the Annulet L2 users use (unified sequencer, Q4 read path, qQMB fees, wallets, T3)",
+      "url": "https://github.com/qumbra-labs/qumbra-lab/issues/963",
+      "createdAt": "2026-10-17T10:12:02Z"
     },
     {
-      "title": "chore(deps): update dependency lucide-react to v1.59.0",
-      "url": "https://github.com/layertwo/groundwork/pull/182",
-      "createdAt": "2026-06-12T19:51:21Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/prmsregmi/dozi/pull/48",
-      "createdAt": "2026-03-30T01:03:16Z"
+      "title": "Audit: web security fixes W-1 (bundler drain), W-2 (img SSRF), W-3",
+      "url": "https://github.com/makerlee0x/disciple/pull/76",
+      "createdAt": "2026-10-17T10:16:46Z"
     },
     {
       "title": "Update dependency lucide-react to v1.59.0",
-      "url": "https://github.com/buape/buape-com/pull/342",
-      "createdAt": "2026-06-28T21:42:02Z"
+      "url": "https://github.com/robhanlon22/ableton-hud/pull/84",
+      "createdAt": "2026-10-13T22:46:34Z"
     },
     {
-      "title": "Verifiable Merkle Airdrop Claim Contract on Soroban",
-      "url": "https://github.com/Lumen-Nexora/Nexora/issues/16",
-      "createdAt": "2026-10-16T11:34:26Z"
+      "title": "chore(deps): update dependency lucide-react to v1.57.0",
+      "url": "https://github.com/HiroshiIgarash/koremina/pull/498",
+      "createdAt": "2026-10-04T08:47:15Z"
+    },
+    {
+      "title": "build(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/Crowley723/dashboard-site/pull/592",
+      "createdAt": "2026-03-23T21:49:00Z"
     }
   ]
 }
