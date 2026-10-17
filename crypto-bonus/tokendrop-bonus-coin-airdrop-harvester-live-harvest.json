@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T03:55:48.815Z",
-  "latencyMs": 728,
+  "executedAt": "2026-10-17T03:57:12.824Z",
+  "latencyMs": 718,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #382: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #383: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "C3NJTFbZPGntqrGp6fZ7K5EVz9miwCuw2Xb5kB4rpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/c3njtfbzpgntqrgp6fz7k5evz9miwcuw2xb5kb4rpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "SAtoZGJkh4Eid9EQZYXWnCNVn5asZrWZLouBMX1SHi1",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Commander Vrax created by Vlad and Robinhood at HOOD Summit 2026",
       "url": "https://dexscreener.com/robinhood/0x94641b97010608c3827fb058074889f19868ff33"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "CMGgEYqtKA4e634ZJ3U18ed2WHqTkNZoZ9FBX9z1pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "We really got flying cars before GTA 6",
-      "url": "https://dexscreener.com/solana/cmggeyqtka4e634zj3u18ed2whqtknzoz9fbx9z1pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -270,9 +270,14 @@
       "createdAt": "2026-10-16T05:45:20Z"
     },
     {
-      "title": "feat: call faucet after successful agent register",
-      "url": "https://github.com/arthneura/market/pull/10",
-      "createdAt": "2026-10-17T03:55:22Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
       "title": "chore(deps): update dependency @lucide/vue to v1.58.0",
@@ -288,11 +293,6 @@
       "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
       "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
       "createdAt": "2026-10-06T11:40:04Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
     }
   ]
 }
