@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T08:29:19.334Z",
-  "latencyMs": 248,
+  "executedAt": "2026-10-17T08:41:02.777Z",
+  "latencyMs": 323,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #419: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #420: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52718206,
+    "liveBlockNumber": 52718557,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458998,
-    "baseMainnetTopPoolsVolume24hUsd": 321181,
+    "baseMainnetTopPoolsVolume24hUsd": 321218,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "arc",
+        "tokenAddress": "0xbF1fDC20FBE85c3a58E0124e242662a1952293F9",
+        "description": "🍑 Peach People plant an idea, growing endless possibilities.",
+        "url": "https://dexscreener.com/arc/0xbf1fdc20fbe85c3a58e0124e242662a1952293f9"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x02F9852143C1EA658C8C340a0dB716184E060B80",
+        "description": "Optimus Prime is a meme-coin inspired by Elon Musk's vision of Optimus robots building Optimus Prime. The project was sparked when a community member highlighte",
+        "url": "https://dexscreener.com/robinhood/0x02f9852143c1ea658c8c340a0db716184e060b80"
+      },
       {
         "chainId": "xrpl",
         "tokenAddress": "6454414700000000000000000000000000000000.rBnJn8fHNwmjrkMjjQm9ubJ9rxFmjfjr86",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x9a02ee3c610f8cf76b9d42ccfc418fc424761b26",
         "description": "The first 1000× perps, coin-margined in (MAXX). 100M MAXX (10% of supply) backs every payout — winners paid instantly, no queue. Power by \n@robinhoodAPP",
         "url": "https://dexscreener.com/robinhood/0x9a02ee3c610f8cf76b9d42ccfc418fc424761b26"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AeLonprCt3y4dZEWEeRTkPqnUPW2FngSD2YeUmPP6GDk",
-        "description": "Elon has turned Artificial \n\nThe ticker is $AE",
-        "url": "https://dexscreener.com/solana/aelonprct3y4dzeweertkpqnupw2fngsd2yeumpp6gdk"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x90476923B99c3935839C383cB7327140a1d49a8A",
-        "description": "Roadster is a true pilot's car: active aerodynamics, a multi-mode suction system & cold-gas thrusters",
-        "url": "https://dexscreener.com/bsc/0x90476923b99c3935839c383cb7327140a1d49a8a"
       }
     ]
   },
