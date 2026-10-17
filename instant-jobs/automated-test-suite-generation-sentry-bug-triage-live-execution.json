@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-17T12:09:52.808Z",
-  "latencyMs": 224,
+  "executedAt": "2026-10-17T12:11:19.563Z",
+  "latencyMs": 1337,
   "companyName": "Automated Test Suite Generation & Sentry Bug Triage",
-  "workTitle": "Growth & Sales Sprint #1096: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
-  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
+  "workTitle": "Delivery Sprint #1097: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "targetUrl": "https://polymarket.com/event/macron-out-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000039,
         "liquidityUsd": 21384,
-        "volume24hUsd": 69164,
+        "volume24hUsd": 69199,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -112,7 +112,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000021,
         "liquidityUsd": 14836,
-        "volume24hUsd": 2700,
+        "volume24hUsd": 2695,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       },
       {
@@ -120,16 +120,91 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000085,
+        "priceUsd": 1.000084,
         "liquidityUsd": 12034,
-        "volume24hUsd": 2224,
+        "volume24hUsd": 2268,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 5,
+    "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "AlgaeCal",
+        "roleOrTask": "Associate Data Scientist",
+        "industryTags": [
+          "design",
+          "python",
+          "customer support",
+          "marketing",
+          "dev"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Hippocratic AI",
+        "roleOrTask": "Director of IT and Workplace",
+        "industryTags": [
+          "exec",
+          "saas",
+          "infosec",
+          "python",
+          "technical"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Voltus",
+        "roleOrTask": "Customer Success Associate",
+        "industryTags": [
+          "customer support",
+          "testing",
+          "exec",
+          "ops",
+          "sales"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Allego",
+        "roleOrTask": "Account Manager Mid Market",
+        "industryTags": [
+          "exec",
+          "saas",
+          "customer support",
+          "marketing",
+          "ops"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Wrapbook",
+        "roleOrTask": "Senior Software Engineer II Applied AI",
+        "industryTags": [
+          "dev",
+          "design",
+          "amazon",
+          "sys admin",
+          "backend"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "Arbeitnow-GlobalB2B",
         "company": "Auralis Group",
