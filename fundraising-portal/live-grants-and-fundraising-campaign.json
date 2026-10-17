@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T14:29:40.475Z",
-  "latencyMs": 983,
+  "executedAt": "2026-10-17T14:42:02.745Z",
+  "latencyMs": 509,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #453: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #454: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "Export merge.authorization.evaluated from run_group_check",
-          "url": "https://github.com/rjwalters/loom/issues/12666",
-          "repositoryUrl": "https://api.github.com/repos/rjwalters/loom",
-          "updatedAt": "2026-10-17T14:29:38Z"
-        },
-        {
-          "title": "Start Spotify from the configured refresh token, falling back to the browser on invalid_grant",
-          "url": "https://github.com/LorenzoPrinsloo/spotify-hue-sync/pull/28",
-          "repositoryUrl": "https://api.github.com/repos/LorenzoPrinsloo/spotify-hue-sync",
-          "updatedAt": "2026-10-17T14:29:36Z"
-        },
-        {
-          "title": "WIP: Takeover League 2.0 – foundation and EXP migration preview",
-          "url": "https://github.com/benditocapela-ux/takeover-league/pull/1",
-          "repositoryUrl": "https://api.github.com/repos/benditocapela-ux/takeover-league",
-          "updatedAt": "2026-10-17T14:29:32Z"
-        },
-        {
-          "title": "refactor(dashboard): split security, memory and messaging handlers",
-          "url": "https://github.com/kirodotdev/KiroCrew/pull/21619",
-          "repositoryUrl": "https://api.github.com/repos/kirodotdev/KiroCrew",
-          "updatedAt": "2026-10-17T14:29:32Z"
-        },
-        {
-          "title": "Re-open the 503 verified ADS routes through the correction pipeline (#205 disposition)",
-          "url": "https://github.com/LeonJoeeee/papervault/issues/245",
-          "repositoryUrl": "https://api.github.com/repos/LeonJoeeee/papervault",
-          "updatedAt": "2026-10-17T14:29:32Z"
-        },
-        {
-          "title": "Conversion: checkable standing rules become code gates (pd-11)",
-          "url": "https://github.com/ariaxhan/nexus-office/issues/306",
-          "repositoryUrl": "https://api.github.com/repos/ariaxhan/nexus-office",
-          "updatedAt": "2026-10-17T14:29:32Z"
-        },
-        {
-          "title": "site: Amazon partner shop section on /shop/",
-          "url": "https://github.com/ipitchford/evidence-press-site/pull/560",
-          "repositoryUrl": "https://api.github.com/repos/ipitchford/evidence-press-site",
-          "updatedAt": "2026-10-17T14:29:31Z"
-        },
-        {
-          "title": "Add opt-in hosted CLI actions with GitHub App single-use tokens",
-          "url": "https://github.com/githubnext/gh-aw-cao/pull/18462",
-          "repositoryUrl": "https://api.github.com/repos/githubnext/gh-aw-cao",
-          "updatedAt": "2026-10-17T14:29:31Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
