@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T16:41:06.051Z",
-  "latencyMs": 830,
+  "executedAt": "2026-10-17T16:54:26.194Z",
+  "latencyMs": 1351,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #491: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #492: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,84 +215,84 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Quack AI",
+      "symbol": "Q",
+      "marketCapRank": 108,
+      "priceBtc": 0.0000015160465376704131
+    },
+    {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006062101247408294
-    },
-    {
-      "name": "Quack AI",
-      "symbol": "Q",
-      "marketCapRank": 107,
-      "priceBtc": 0.0000015141444199513896
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 102,
-      "priceBtc": 0.000022486912481904616
+      "priceBtc": 0.0000603256729070794
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.01403899766626573
+      "priceBtc": 0.013952119552128201
     },
     {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 89,
-      "priceBtc": 0.00003818573473146236
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 621,
-      "priceBtc": 0.00138654973665849
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.000012050689652528065
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 99,
+      "priceBtc": 0.000008068997838890572
     },
     {
       "name": "Quant",
       "symbol": "QNT",
       "marketCapRank": 38,
-      "priceBtc": 0.0024528830155151602
+      "priceBtc": 0.002453126794231997
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.113130459149924e-8
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 186,
+      "priceBtc": 0.000003558089007398866
+    },
+    {
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "marketCapRank": 48,
+      "priceBtc": 0.000005383589568875972
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Add the vision-encoder-objective task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/84",
+      "createdAt": "2026-10-14T17:20:01Z"
+    },
+    {
+      "title": "CP: mechanics waves tracker (draft, not for merge)",
+      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
+      "createdAt": "2026-10-15T07:00:56Z"
+    },
+    {
+      "title": "## [Contract] Decentralized Staking & Yield Distribution Engine",
+      "url": "https://github.com/agnesnaomiolim-cloud/Stellar-forge/issues/462",
+      "createdAt": "2026-10-17T12:21:38Z"
+    },
+    {
+      "title": "refactor(mock): route the twins through fee_tables and one runway helper",
+      "url": "https://github.com/zingolabs/zingolib/pull/3018",
+      "createdAt": "2026-10-16T05:40:19Z"
+    },
     {
       "title": "[Frontend] Wallet balance check in create bounty form",
       "url": "https://github.com/mergemint-mint/mergemint-contracts/issues/1068",
       "createdAt": "2026-10-16T09:43:44Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "Client modernization: restyle, session data contract, operator key, browser test suite",
-      "url": "https://github.com/pk910/PoWFaucet/pull/556",
-      "createdAt": "2026-10-17T16:15:09Z"
-    },
-    {
-      "title": "Add anytime-valid improvement auditor",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/76",
-      "createdAt": "2026-10-13T03:26:58Z"
-    },
-    {
-      "title": "Fix promo banner behavior and mobile layout",
-      "url": "https://github.com/gianpaj/sexyvoice/pull/642",
-      "createdAt": "2026-10-17T16:00:31Z"
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
     }
   ]
 }
