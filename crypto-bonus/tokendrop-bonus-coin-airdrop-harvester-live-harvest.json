@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T20:41:18.491Z",
-  "latencyMs": 1149,
+  "executedAt": "2026-10-17T20:43:00.040Z",
+  "latencyMs": 721,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #522: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #523: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,5 +263,36 @@
       "priceBtc": 0.001274972512462342
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
+      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
+      "createdAt": "2026-10-12T21:43:27Z"
+    },
+    {
+      "title": "v1.2: the touch keyboard -- the HUD types, docked, from a tablet's browser, and as the tablets' own keyboards",
+      "url": "https://github.com/rafaelromao/zmk-layer-hud/pull/1",
+      "createdAt": "2026-10-11T18:33:22Z"
+    },
+    {
+      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
+      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
+      "createdAt": "2026-10-11T10:45:50Z"
+    },
+    {
+      "title": "test(sui): ledger stream e2e on a subscription-enabled localnet GraphQL service (3.0 stack)",
+      "url": "https://github.com/MystenLabs/ts-sdks/pull/1355",
+      "createdAt": "2026-10-16T05:45:20Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "A radio backend for Intel MacBooks with the BCM4360 — would you link it like omdrop-owl?",
+      "url": "https://github.com/netmojo-systems/omdrop-plugin/issues/48",
+      "createdAt": "2026-10-12T03:31:25Z"
+    }
+  ]
 }
