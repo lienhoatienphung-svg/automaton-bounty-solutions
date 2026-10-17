@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T16:38:57.152Z",
-  "latencyMs": 341,
+  "executedAt": "2026-10-17T16:41:07.630Z",
+  "latencyMs": 266,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #486: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #487: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52732894,
+    "liveBlockNumber": 52732960,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 455647,
-    "baseMainnetTopPoolsVolume24hUsd": 217671,
+    "baseMainnetTopPoolsVolume24hUsd": 217068,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "bojvJb3cEwN7Kizx1LpkgcbWSdkbE4uP71tpnGapump",
+        "description": "teh president of france",
+        "url": "https://dexscreener.com/solana/bojvjb3cewn7kizx1lpkgcbwsdkbe4up71tpngapump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "H7pY44STqWhwjaSAc7dYyVjiX5tJFwp1BDTwpR6Apump",
@@ -75,12 +81,6 @@
         "tokenAddress": "DL5UpKaFrnokkqLQqd8MWxiGRGQmwWxW29a4vycXpump",
         "description": "Just a chill baby",
         "url": "https://dexscreener.com/solana/dl5upkafrnokkqlqqd8mwxigrgqmwwxw29a4vycxpump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0xe8461aFB0f56bB25C99988aCd8422e91e7322640",
-        "description": "Pixel survival on Ethereum. Explore, evolve, and survive. Play as a guest or connect your wallet. 🔥",
-        "url": "https://dexscreener.com/ethereum/0xe8461afb0f56bb25c99988acd8422e91e7322640"
       }
     ]
   },
