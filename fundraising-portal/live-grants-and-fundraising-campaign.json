@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T18:30:40.128Z",
-  "latencyMs": 2300,
+  "executedAt": "2026-10-17T18:32:54.378Z",
+  "latencyMs": 744,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #484: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #485: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "Todo backends (#124): platform identities, gh wrapper and envelopes",
+          "url": "https://github.com/InstruktAI/TeleClaude/issues/129",
+          "repositoryUrl": "https://api.github.com/repos/InstruktAI/TeleClaude",
+          "updatedAt": "2026-10-17T18:32:50Z"
+        },
+        {
+          "title": "feat(billing): store purchases for the mobile apps (ADR-0108, stacked on #1176)",
+          "url": "https://github.com/aljobson/Veyrnox.ai/pull/1182",
+          "repositoryUrl": "https://api.github.com/repos/aljobson/Veyrnox.ai",
+          "updatedAt": "2026-10-17T18:32:49Z"
+        },
+        {
+          "title": "Umbraco.Cms-1.0.0: 25 vulnerabilities (highest severity is: 9.1) reachable",
+          "url": "https://github.com/hugh-mend/Umbraco-CMS-test1/issues/19",
+          "repositoryUrl": "https://api.github.com/repos/hugh-mend/Umbraco-CMS-test1",
+          "updatedAt": "2026-10-17T18:32:49Z"
+        },
+        {
+          "title": "Update plugins and themes in place from an uploaded zip; theme pack; plugin/theme fixes",
+          "url": "https://github.com/jaimemartinez/wordjs/pull/482",
+          "repositoryUrl": "https://api.github.com/repos/jaimemartinez/wordjs",
+          "updatedAt": "2026-10-17T18:32:48Z"
+        },
+        {
+          "title": "feat(automations): webhook-triggered Pi workflows with durable events, HITL and provider adapters",
+          "url": "https://github.com/bestagentkits/cloud-harness-mcp/issues/399",
+          "repositoryUrl": "https://api.github.com/repos/bestagentkits/cloud-harness-mcp",
+          "updatedAt": "2026-10-17T18:32:48Z"
+        },
+        {
+          "title": "chore(deps): bump aws-cdk-lib from 2.257.0 to 2.273.0 in /infra/cdk/_setup",
+          "url": "https://github.com/elleskay/ai-tax-assistant-platform/pull/158",
+          "repositoryUrl": "https://api.github.com/repos/elleskay/ai-tax-assistant-platform",
+          "updatedAt": "2026-10-17T18:32:51Z"
+        },
+        {
+          "title": "SYN-40 - A component declares how its pins escape",
+          "url": "https://github.com/absmach/synth/pull/164",
+          "repositoryUrl": "https://api.github.com/repos/absmach/synth",
+          "updatedAt": "2026-10-17T18:32:48Z"
+        },
+        {
+          "title": "test(scope): offline membership-before-grant metamorphic proof (#1563) [DRAFT/HOLD]",
+          "url": "https://github.com/Zennay/Lightup/pull/1564",
+          "repositoryUrl": "https://api.github.com/repos/Zennay/Lightup",
+          "updatedAt": "2026-10-17T18:32:47Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
