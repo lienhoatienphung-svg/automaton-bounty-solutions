@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T03:31:39.123Z",
-  "latencyMs": 703,
+  "executedAt": "2026-10-17T03:43:06.317Z",
+  "latencyMs": 906,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #379: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #380: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 717,
+      "marketCapRank": 718,
       "priceBtc": 3.211198411121736e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 616,
-      "priceBtc": 0.0014239418140128601
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009822120360901251
+      "marketCapRank": 617,
+      "priceBtc": 0.0014159872160043445
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.0000622674740273601
+      "priceBtc": 0.00006287057769549577
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009811313390645047
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 89,
-      "priceBtc": 0.000039368053379668334
+      "priceBtc": 0.00003958597530921201
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.316770000654583e-8
     },
     {
       "name": "Uniswap",
       "symbol": "UNI",
       "marketCapRank": 25,
-      "priceBtc": 0.00008952662100640915
+      "priceBtc": 0.00008981764556173613
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.0003501889925732
-    },
-    {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012845204323450727
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 39,
+      "priceBtc": 0.002488341992158412
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore(deps): bump tempo dependencies to dee08cf",
-      "url": "https://github.com/tskoyo/foundry/pull/18",
-      "createdAt": "2026-07-11T02:50:41Z"
+      "title": "Serve the app over HTTPS so the service worker can run",
+      "url": "https://github.com/mkaufman2023/WhiteNoiseMachine/pull/6",
+      "createdAt": "2026-10-17T03:42:32Z"
     },
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/pekay23/goatmaster/pull/7",
-      "createdAt": "2026-08-19T22:58:44Z"
+      "title": "LND: qualify remote signing and SCB recovery on signet",
+      "url": "https://github.com/OpenAgentsInc/openagents/issues/11862",
+      "createdAt": "2026-10-16T11:21:15Z"
     },
     {
-      "title": "Update dependency lucide-react to v1.58.0",
-      "url": "https://github.com/khaleddost/bone-jeopardy/pull/12",
-      "createdAt": "2026-08-01T12:41:21Z"
+      "title": "LND P4 candidate: Wavelength signet spike — Ark wallet client as an agent-side wallet (experimental)",
+      "url": "https://github.com/OpenAgentsInc/openagents/issues/11770",
+      "createdAt": "2026-10-15T20:37:26Z"
     },
     {
-      "title": "REA: Flick → local-first cross-platform file bridge (iOS/macOS/Windows)",
-      "url": "https://github.com/rrahul0904/agent-work-os/issues/262",
-      "createdAt": "2026-10-17T03:29:09Z"
+      "title": "LND: qualify Taproot Assets mint, transfer, and RFQ payments on signet",
+      "url": "https://github.com/OpenAgentsInc/openagents/issues/11863",
+      "createdAt": "2026-10-16T12:03:26Z"
     },
     {
-      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
-      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
-      "createdAt": "2026-10-07T16:13:30Z"
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/Ketryon/template-gateway/pull/14",
+      "createdAt": "2026-10-12T10:23:57Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "docs(hyperliquid): Build on Totalis section, SDK 0.51.0 (TT-2205)",
+      "url": "https://github.com/totalistrading/docs/pull/116",
+      "createdAt": "2026-10-16T19:15:19Z"
     }
   ]
 }
