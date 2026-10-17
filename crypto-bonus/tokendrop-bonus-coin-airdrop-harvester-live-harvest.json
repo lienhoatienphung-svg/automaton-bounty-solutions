@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T00:03:05.271Z",
-  "latencyMs": 1081,
+  "executedAt": "2026-10-17T00:04:59.290Z",
+  "latencyMs": 797,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #348: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #349: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Unify dialog UX and guard account approval context",
+      "url": "https://github.com/syscoin/pali-wallet/pull/895",
+      "createdAt": "2026-10-16T23:06:27Z"
+    },
+    {
+      "title": "feat(kibble): trả lời job 'review' gắn nhầm nhãn + bỏ job gần trùng template",
+      "url": "https://github.com/thanhphuc85/technocore-crypto-agent/pull/121",
+      "createdAt": "2026-10-17T00:04:48Z"
+    },
+    {
+      "title": "Privy wallet: Privy EOA owns Alchemy MAv2 + on-chain one-tap sessions (self-pay)",
+      "url": "https://github.com/makerlee0x/disciple/pull/59",
+      "createdAt": "2026-10-16T19:23:02Z"
+    },
+    {
+      "title": "R956 DRAFT: retain seven source-owned Radar notification and action journals",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/pull/872",
+      "createdAt": "2026-10-16T23:59:01Z"
+    },
+    {
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
+    },
+    {
       "title": "feat(scripts): build an unsigned IPA locally + docs/SIDESTORE.md install steps",
       "url": "https://github.com/cknowlesbadluck/QuicksilverV1/pull/328",
       "createdAt": "2026-10-16T19:02:37Z"
-    },
-    {
-      "title": "LND: qualify Taproot Assets mint, transfer, and RFQ payments on signet",
-      "url": "https://github.com/OpenAgentsInc/openagents/issues/11863",
-      "createdAt": "2026-10-16T12:03:26Z"
-    },
-    {
-      "title": "Positioning: the only truly British English app (BrE content + 'British vs American' practice)",
-      "url": "https://github.com/mmhaidari2-hash/the-toms/issues/48",
-      "createdAt": "2026-10-16T20:14:43Z"
-    },
-    {
-      "title": "[Perf] [AMD] dsv41: Drop the per-step whole-vocab gather of draft logits via sharded accept",
-      "url": "https://github.com/sgl-project/sglang/pull/44465",
-      "createdAt": "2026-10-15T10:24:13Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/sohanemon/ai-sdk-x-openai/pull/7",
-      "createdAt": "2026-05-01T06:37:03Z"
-    },
-    {
-      "title": "Suunto Ocean and Nautic support",
-      "url": "https://github.com/deepsealabs/libdc-swift/issues/29",
-      "createdAt": "2026-08-28T16:22:32Z"
     }
   ]
 }
