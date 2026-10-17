@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-17T08:53:17.018Z",
-  "latencyMs": 684,
+  "executedAt": "2026-10-17T09:04:07.326Z",
+  "latencyMs": 615,
   "companyName": "Aegis Web3 Smart Contract Security Audit & Bug Bounty Lab",
-  "workTitle": "Delivery Sprint #1009: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
-  "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
+  "workTitle": "Growth & Sales Sprint #1010: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
+  "targetUrl": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656621,
-        "liquidityUsd": 37618,
+        "liquidityUsd": 36507,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -26,8 +26,8 @@
       {
         "eventId": "18576",
         "title": "Ukraine election held by...?",
-        "volumeUsd": 2501174,
-        "liquidityUsd": 18169,
+        "volumeUsd": 2501800,
+        "liquidityUsd": 17279,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2176181,
-        "liquidityUsd": 90388,
+        "liquidityUsd": 90188,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059853,
-        "liquidityUsd": 856,
+        "liquidityUsd": 847,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 18968,
+        "liquidityUsd": 18970,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -100,20 +100,10 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000052,
-        "liquidityUsd": 21385,
-        "volume24hUsd": 72551,
+        "priceUsd": 1.000028,
+        "liquidityUsd": 21384,
+        "volume24hUsd": 74720,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
-      },
-      {
-        "pairAddress": "0x06959273E9A65433De71F5A452D529544E07dDD0",
-        "dexId": "uniswap",
-        "baseSymbol": "USDC",
-        "quoteSymbol": "USDbC",
-        "priceUsd": 1.000086,
-        "liquidityUsd": 12034,
-        "volume24hUsd": 2395,
-        "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
         "pairAddress": "0x29Ed55B18Af0Add137952CB3E29FB77B32fCE426",
@@ -124,6 +114,16 @@
         "liquidityUsd": 14836,
         "volume24hUsd": 845,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
+      },
+      {
+        "pairAddress": "0x06959273E9A65433De71F5A452D529544E07dDD0",
+        "dexId": "uniswap",
+        "baseSymbol": "USDC",
+        "quoteSymbol": "USDbC",
+        "priceUsd": 1.000086,
+        "liquidityUsd": 12034,
+        "volume24hUsd": 2374,
+        "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
   },
