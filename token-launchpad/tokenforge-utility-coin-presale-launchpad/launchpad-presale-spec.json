@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T19:12:12.686Z",
-  "latencyMs": 604,
+  "executedAt": "2026-10-17T19:14:05.375Z",
+  "latencyMs": 251,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #506: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #507: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52737492,
+    "liveBlockNumber": 52737549,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458995,
-    "baseMainnetTopPoolsVolume24hUsd": 199140,
+    "baseMainnetTopPoolsVolume24hUsd": 201480,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x653321e531746b2f202ba5b0937ca76fa54f8696",
+        "description": "Spot AI content. Earn exposure\nto the companies behind the content.",
+        "url": "https://dexscreener.com/robinhood/0x653321e531746b2f202ba5b0937ca76fa54f8696"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BXAC8VDBmjGrn7RskXqQ27RTWg7auTznWDzf3QC4pump",
+        "description": "OMG Cat is the nickname given to Chocolate, a cat who rose to internet fame for her incredulous expression",
+        "url": "https://dexscreener.com/solana/bxac8vdbmjgrn7rskxqq27rtwg7autznwdzf3qc4pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HMXnAyeRnh5DE2QVpTwssDz3H8aHqnoLeTBqsLehpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "5YyHtDUjZqYd5rEPpBk16QBu86mpf2TcW1w8czD4pump",
         "description": "donating to gofundme's around the world",
         "url": "https://dexscreener.com/solana/5yyhtdujzqyd5reppbk16qbu86mpf2tcw1w8czd4pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "F86USDMMpR9A2Jqddpn83ZZZ3VT3ZddZ7R9YhDQ6pump",
-        "description": "Pick a cycle and press start. ↻",
-        "url": "https://dexscreener.com/solana/f86usdmmpr9a2jqddpn83zzz3vt3zddz7r9yhdq6pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x4b816dec72ed0d1a296bffd022350bfd86e4af32",
-        "description": "Born from Ozzy, the creator of Pons, Pushin' 🅿️ is about momentum, optimism, and taking Pons to new heights.",
-        "url": "https://dexscreener.com/robinhood/0x4b816dec72ed0d1a296bffd022350bfd86e4af32"
       }
     ]
   },
