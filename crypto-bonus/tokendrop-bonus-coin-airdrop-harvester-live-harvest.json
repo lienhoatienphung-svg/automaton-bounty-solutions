@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T12:30:31.588Z",
-  "latencyMs": 1783,
+  "executedAt": "2026-10-17T12:42:22.357Z",
+  "latencyMs": 1500,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #457: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #458: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "ethereum",
+      "tokenAddress": "0x8bbf486a9F2b535C4EF09C665a807859CfE92d83",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "MAXIMUSA is here to finish what Maximus started , created by Elon, Loved by the community.",
+      "url": "https://dexscreener.com/ethereum/0x8bbf486a9f2b535c4ef09c665a807859cfe92d83"
+    },
+    {
+      "chainId": "ethereum",
       "tokenAddress": "0x787873c9ae96855bdB032F6fF1Ef76a5e1Fc8aDC",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,97 +210,89 @@
       "totalBoostAmount": 10,
       "description": "A real fruit fly's brain - 166,700 neurons, zero training - running open source, playing games and living in a 3-D world.",
       "url": "https://dexscreener.com/robinhood/0x0088ce7905025c4b5ea1d49ab6179b6aaadb3b9c"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "6jijW4Ne924kqj8XYLKXFrhpeHy5y2qxoKgGzJHQpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "PLUTO AI — The AI That Controls Your Computer.\n\nPLUTO is an autonomous AI desktop assistant designed to turn your voice into real actions on your computer. Unli",
-      "url": "https://dexscreener.com/solana/6jijw4ne924kqj8xylkxfrhpehy5y2qxokggzjhqpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 101,
-      "priceBtc": 0.000008158802780818469
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 110,
-      "priceBtc": 8.696054241137097e-7
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 614,
+      "priceBtc": 0.0014110238308355895
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006253304842567165
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009660786961929699
-    },
-    {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.5440225056797815e-8
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 613,
-      "priceBtc": 0.0014116903393069978
-    },
-    {
-      "name": "Sei",
-      "symbol": "SEI",
-      "marketCapRank": 125,
-      "priceBtc": 7.745608376706306e-7
+      "priceBtc": 0.00006230315003533736
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010637755556649078
+      "priceBtc": 0.00010611420091821613
+    },
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 49,
+      "priceBtc": 5.5490408348680676e-8
+    },
+    {
+      "name": "Derive",
+      "symbol": "DRV",
+      "marketCapRank": 124,
+      "priceBtc": 0.000005281914837299701
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9987697463673376
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 100,
+      "priceBtc": 0.000008230488593526505
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.014282929342952302
     }
   ],
   "activeAirdropAndFaucetQuests": [
-    {
-      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
-      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
-      "createdAt": "2026-10-09T07:30:01Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "feat: faucet calls transfer-me for native tokens",
-      "url": "https://github.com/arthneura/market/pull/13",
-      "createdAt": "2026-10-17T12:28:09Z"
-    },
     {
       "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
       "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
       "createdAt": "2026-09-23T12:34:40Z"
     },
     {
-      "title": "# Spike 662 — Interactive docs playground with try-it-live API console",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/525",
-      "createdAt": "2026-10-15T11:06:53Z"
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
     },
     {
-      "title": "# Spike 663 — Machine-readable API versioning with changelog and deprecation policy",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/526",
-      "createdAt": "2026-10-15T11:07:19Z"
+      "title": "Use USDCx for Testnet Earn and retire Epoch USDC choices",
+      "url": "https://github.com/0xMiden/wallet/pull/1513",
+      "createdAt": "2026-10-17T02:58:47Z"
+    },
+    {
+      "title": "CP: mechanics waves tracker (draft, not for merge)",
+      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
+      "createdAt": "2026-10-15T07:00:56Z"
+    },
+    {
+      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
+      "url": "https://github.com/jsboige/CoursIA/pull/20377",
+      "createdAt": "2026-10-11T14:10:17Z"
+    },
+    {
+      "title": "[功能] 传输路径自动选择：点对点 Wi-Fi 优先、局域网次级、蓝牙兜底及 UI 提示",
+      "url": "https://github.com/GHOST-AKU/wozai/issues/23",
+      "createdAt": "2026-10-12T11:07:47Z"
     }
   ]
 }
