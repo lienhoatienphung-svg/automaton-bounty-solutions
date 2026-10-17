@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T06:24:32.357Z",
-  "latencyMs": 919,
+  "executedAt": "2026-10-17T06:26:15.511Z",
+  "latencyMs": 755,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #404: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #405: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,53 +217,63 @@
     {
       "name": "Dacity Coin",
       "symbol": "DACITY",
-      "marketCapRank": 714,
+      "marketCapRank": 716,
       "priceBtc": 3.211198411121736e-7
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 92,
-      "priceBtc": 0.000009113490056298986
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 106,
-      "priceBtc": 0.00002078964054873968
+      "priceBtc": 0.000009102818875917722
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.999010238889408
+      "priceBtc": 0.9990313569550288
     },
     {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 85,
-      "priceBtc": 0.00010911883566268968
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 106,
+      "priceBtc": 0.00002075538886587918
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 616,
-      "priceBtc": 0.0014143507500789982
+      "priceBtc": 0.0014200621412734954
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.30765281061586e-8
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 85,
+      "priceBtc": 0.00010924142873956952
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009772047185057718
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012849196904398006
+      "priceBtc": 0.0012843031294882607
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Worker signer is not core.owner: all Maint calls from the worker fail with UnauthorizedAdmin since #152",
+      "url": "https://github.com/PureMoney/inflation-resistant-token/issues/158",
+      "createdAt": "2026-10-15T17:41:52Z"
+    },
+    {
+      "title": "Rewrite player-facing copy to cut repetition and AI-sounding text",
+      "url": "https://github.com/lewdview/PIM/pull/172",
+      "createdAt": "2026-10-17T06:19:19Z"
+    },
     {
       "title": "@mohamedhossammohamed: Validate submission 004b198d-99c8-418f-be1a-3619fc1a908c",
       "url": "https://github.com/Layr-Labs/mlxfast-bonsai2-9b-engine/pull/163",
@@ -280,19 +290,9 @@
       "createdAt": "2026-03-27T00:55:36Z"
     },
     {
-      "title": "Add brcmfmac-awdl-dkms 0.10.0 (aarch64)",
-      "url": "https://github.com/omacom/omarchy-pkgs/pull/1205",
-      "createdAt": "2026-10-17T05:30:25Z"
-    },
-    {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Rewrite player-facing copy to cut repetition and AI-sounding text",
-      "url": "https://github.com/lewdview/PIM/pull/172",
-      "createdAt": "2026-10-17T06:19:19Z"
     }
   ]
 }
