@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T09:41:30.909Z",
-  "latencyMs": 1099,
+  "executedAt": "2026-10-17T09:43:35.256Z",
+  "latencyMs": 1295,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #412: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #413: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "[codex] Fix mobile push registration refresh",
-          "url": "https://github.com/open-ksef/open-ksef-mobile/pull/11",
-          "repositoryUrl": "https://api.github.com/repos/open-ksef/open-ksef-mobile",
-          "updatedAt": "2026-10-17T09:41:25Z"
+          "title": "perf(update): reuse verification for owned recovery images",
+          "url": "https://github.com/openclaw/openclaw/pull/175359",
+          "repositoryUrl": "https://api.github.com/repos/openclaw/openclaw",
+          "updatedAt": "2026-10-17T09:43:31Z"
         },
         {
-          "title": "Weather affects climbing, gliding and movement",
-          "url": "https://github.com/aaronson2012/rpg/pull/41",
-          "repositoryUrl": "https://api.github.com/repos/aaronson2012/rpg",
-          "updatedAt": "2026-10-17T09:41:25Z"
+          "title": "feat(security): stage org SSRF, redirect and extended-secrets packs",
+          "url": "https://github.com/TogetherWeOwn/paperclip-ops/pull/20",
+          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/paperclip-ops",
+          "updatedAt": "2026-10-17T09:43:31Z"
         },
         {
-          "title": "Phone: answer permission prompts and interrupt the agent (#517)",
-          "url": "https://github.com/aiwatchtowers/watchtower/pull/341",
-          "repositoryUrl": "https://api.github.com/repos/aiwatchtowers/watchtower",
-          "updatedAt": "2026-10-17T09:41:24Z"
+          "title": "fix(cli): attribution of a rust app reads only workspace crates, so it works offline with a cold registry",
+          "url": "https://github.com/ocelhq/ocel/pull/1921",
+          "repositoryUrl": "https://api.github.com/repos/ocelhq/ocel",
+          "updatedAt": "2026-10-17T09:43:30Z"
         },
         {
-          "title": "Prepare Deepsyq platform entry while preserving existing tools and billing",
-          "url": "https://github.com/mvryhan-web/video-variator-android/pull/42",
+          "title": "AI implementation for issue #7551",
+          "url": "https://github.com/shubhodeep1/coding-workflows/pull/7552",
+          "repositoryUrl": "https://api.github.com/repos/shubhodeep1/coding-workflows",
+          "updatedAt": "2026-10-17T09:43:30Z"
+        },
+        {
+          "title": "fix(auth): isolate private profile state across viewer races",
+          "url": "https://github.com/shawnshi169-cloud/askbuddy-optimist/pull/67",
+          "repositoryUrl": "https://api.github.com/repos/shawnshi169-cloud/askbuddy-optimist",
+          "updatedAt": "2026-10-17T09:43:30Z"
+        },
+        {
+          "title": "fix(iam): close PR #287 review — native-only auth, ZITADEL grant recovery and DB rollback",
+          "url": "https://github.com/re-invertion/resourcePortal/pull/288",
+          "repositoryUrl": "https://api.github.com/repos/re-invertion/resourcePortal",
+          "updatedAt": "2026-10-17T09:43:28Z"
+        },
+        {
+          "title": "fix(sync-v4): bound command composition latency and guard platform metadata",
+          "url": "https://github.com/metric-space-ai/ctox/pull/882",
+          "repositoryUrl": "https://api.github.com/repos/metric-space-ai/ctox",
+          "updatedAt": "2026-10-17T09:43:28Z"
+        },
+        {
+          "title": "P0 #182 Agent D: atomic live-purchased-only wallet dispatch provenance (unwired, no AI spend)",
+          "url": "https://github.com/mvryhan-web/video-variator-android/pull/204",
           "repositoryUrl": "https://api.github.com/repos/mvryhan-web/video-variator-android",
-          "updatedAt": "2026-10-17T09:41:24Z"
-        },
-        {
-          "title": "Art direction doc, journal-style UI theme and HUD polish",
-          "url": "https://github.com/aaronson2012/rpg/pull/10",
-          "repositoryUrl": "https://api.github.com/repos/aaronson2012/rpg",
-          "updatedAt": "2026-10-17T09:41:24Z"
-        },
-        {
-          "title": "Stitch redesign: port the four Stitch screens, add Cadence, and ship Calendar with two-way Google sync",
-          "url": "https://github.com/shallidyangrosa12/memoir-crm/issues/26",
-          "repositoryUrl": "https://api.github.com/repos/shallidyangrosa12/memoir-crm",
-          "updatedAt": "2026-10-17T09:41:23Z"
-        },
-        {
-          "title": "Slack: resolve senders through operator-attested principal bindings (#1038)",
-          "url": "https://github.com/MEK-Org/rusa/pull/1050",
-          "repositoryUrl": "https://api.github.com/repos/MEK-Org/rusa",
-          "updatedAt": "2026-10-17T09:41:22Z"
-        },
-        {
-          "title": "Fix deflected projectiles applying incorrect afterburn duration",
-          "url": "https://github.com/ValveSoftware/source-sdk-2013/pull/2156",
-          "repositoryUrl": "https://api.github.com/repos/ValveSoftware/source-sdk-2013",
-          "updatedAt": "2026-10-17T09:41:22Z"
+          "updatedAt": "2026-10-17T09:43:28Z"
         }
       ]
     },
