@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T20:29:02.149Z",
-  "latencyMs": 367,
+  "executedAt": "2026-10-17T20:41:27.082Z",
+  "latencyMs": 664,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #517: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #518: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52739797,
+    "liveBlockNumber": 52740169,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459000,
-    "baseMainnetTopPoolsVolume24hUsd": 198584,
+    "baseMainnetTopPoolsVolume24hUsd": 198596,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Gb8MFBuDe54J7k8kas2nsRs6xcMgZ4uYrhzSverGpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gb8mfbude54j7k8kas2nsrs6xcmgz4uyrhzsvergpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xd1127a84ebce5765ec337141fbfe6407ca2eddce",
+        "description": "Launches are open.",
+        "url": "https://dexscreener.com/robinhood/0xd1127a84ebce5765ec337141fbfe6407ca2eddce"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6VUZxcyb9jPssGNvwPrbyhRwfu7aPKVjZbcV1xA3pump",
+        "description": "Automated token deployer & fee distribution agent.\n\nButtler deploys your token. \n\nHe decides who gets the fees.",
+        "url": "https://dexscreener.com/solana/6vuzxcyb9jpssgnvwprbyhrwfu7apkvjzbcv1xa3pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Fh592CeXstzjrxVq6st854ufZ76MNer3s34Wk5b6pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fh592cexstzjrxvq6st854ufz76mner3s34wk5b6pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7ot677Mz5A729t4eENJJyUhdYHV3Ubb6xqsYd9Pqpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "bHuU72zpR1eyJu8FWS5AjxAmarWKeYneNFUPW5Cpump",
         "description": "AI Influencer with a memecoin. U mad bro?",
         "url": "https://dexscreener.com/solana/bhuu72zpr1eyju8fws5ajxamarwkeynenfupw5cpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DjSRqZgUqBoVPPbYyTwDcgUWH5DnRS2jZkVWKrb3pump",
-        "description": "$YORE is the token of yore fun, the token launchpad built for Injective.\n\n🔥 50% of yore fun platform fees are used to buy back and burn $YORE.\n💰 Creator fees ",
-        "url": "https://dexscreener.com/solana/djsrqzguqbovppbyytwdcguwh5dnrs2jzkvwkrb3pump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0xFFD8e76B6479C8A0E19A076543041cc78f703aD9",
-        "description": "the only launchpad you’ll need on ethereum",
-        "url": "https://dexscreener.com/ethereum/0xffd8e76b6479c8a0e19a076543041cc78f703ad9"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2Rr4NnjaBDZfe8r4HjukcaL9obg3vw54HC9kPAkkpump",
-        "description": "FRANCEARMY",
-        "url": "https://dexscreener.com/solana/2rr4nnjabdzfe8r4hjukcal9obg3vw54hc9kpakkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2pLDP1VzckgLQ7Z7RYKZtqUp6SsACrNXu31Vwx1p7ejG",
-        "description": "SWOL CAT",
-        "url": "https://dexscreener.com/solana/2pldp1vzckglq7z7rykztqup6ssacrnxu31vwx1p7ejg"
       }
     ]
   },
