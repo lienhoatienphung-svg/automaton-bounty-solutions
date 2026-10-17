@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T00:31:08.423Z",
-  "latencyMs": 764,
+  "executedAt": "2026-10-17T00:32:42.486Z",
+  "latencyMs": 675,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #352: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #353: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
+      "url": "https://github.com/ogabasseyy/Baci/pull/3651",
+      "createdAt": "2026-10-09T07:30:01Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "Daily Shorts Pipeline — Reports",
+      "url": "https://github.com/caleblschulte0-ux/Shorts-pipeline/issues/1",
+      "createdAt": "2026-05-28T21:54:45Z"
+    },
+    {
       "title": "Faucet: real RSN payout (faucet pays fees, one fill per wallet per 4h)",
       "url": "https://github.com/caaconwinner/RSN/pull/4",
       "createdAt": "2026-10-16T23:03:52Z"
@@ -278,21 +293,6 @@
       "title": "feat(rwa): role flows — retail LP supply/redeem, issuer console, testnet faucet",
       "url": "https://github.com/MintwareDevelopers/Mintware-Beta/pull/516",
       "createdAt": "2026-10-02T18:16:52Z"
-    },
-    {
-      "title": "feat(cc): reconstruct training segments from ordinary rollout history",
-      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4124",
-      "createdAt": "2026-09-14T16:29:16Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Refactor GRPO sync examples",
-      "url": "https://github.com/tenstorrent/tt-metal/pull/59514",
-      "createdAt": "2026-10-06T16:43:19Z"
     }
   ]
 }
