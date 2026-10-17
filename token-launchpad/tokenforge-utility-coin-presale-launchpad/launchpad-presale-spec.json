@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T02:10:29.063Z",
-  "latencyMs": 409,
+  "executedAt": "2026-10-17T02:12:46.100Z",
+  "latencyMs": 392,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #362: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #363: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52706840,
+    "liveBlockNumber": 52706909,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 281470,
+    "baseMainnetTopPoolsVolume24hUsd": 280597,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6jijW4Ne924kqj8XYLKXFrhpeHy5y2qxoKgGzJHQpump",
+        "description": "PLUTO AI — The AI That Controls Your Computer.\n\nPLUTO is an autonomous AI desktop assistant designed to turn your voice into real actions on your computer. Unli",
+        "url": "https://dexscreener.com/solana/6jijw4ne924kqj8xylkxfrhpehy5y2qxokggzjhqpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "D7mXWmYtrQ1QxDTdHNCgrgkvag2jr6KVsPsxT69Tpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x61e61f63E64Bbe7d23505FFEad6734E5FbA3951e",
         "description": "Just a wheel cat",
         "url": "https://dexscreener.com/robinhood/0x61e61f63e64bbe7d23505ffead6734e5fba3951e"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FjEgZU26Ursw4Gcykq9LFmziv3YE4JDmUxXENZTipump",
-        "description": "just buy $egg with your shitcoins",
-        "url": "https://dexscreener.com/solana/fjegzu26ursw4gcykq9lfmziv3ye4jdmuxxenztipump"
       }
     ]
   },
