@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T01:02:05.803Z",
-  "latencyMs": 641,
+  "executedAt": "2026-10-17T01:04:20.972Z",
+  "latencyMs": 328,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #352: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #353: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52704789,
+    "liveBlockNumber": 52704856,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 283588,
+    "baseMainnetTopPoolsLiquidityUsd": 459006,
+    "baseMainnetTopPoolsVolume24hUsd": 283617,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "A27SALLyyyik4wjaGrzrij77534fxGkE91YPeFp9pump",
+        "description": "Special delivery: one giant bone, zero traffic, and a rooftop full of happy pups. 🐕🦴🚀",
+        "url": "https://dexscreener.com/solana/a27sallyyyik4wjagrzrij77534fxgke91ypefp9pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DPLpK6biJy492G81SeskfW6VeYEH5V5YZY8uWsgEpump",
+        "description": "Trump's going to run for a FOURTH Time for President.",
+        "url": "https://dexscreener.com/solana/dplpk6bijy492g81seskfw6veyeh5v5yzy8uwsgepump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "rk5xKahXR86XDQo2zVtmGKJm8FJ1LZNWmnBVxU3pump",
@@ -69,18 +81,6 @@
         "tokenAddress": "AKoaEDx4bquvTKXCAMf8ejZwJBr6pJtmQJjK8HL9pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/akoaedx4bquvtkxcamf8ejzwjbr6pjtmqjjk8hl9pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x48D343CAe84ab737c46Ce63CB74C926609Eb03bB",
-        "description": "$MUT8 is the Mutant Infusions brand coin: an onchain badge of loyalty for the community bringing mutant culture and real-world flavor together. Built for fans, ",
-        "url": "https://dexscreener.com/robinhood/0x48d343cae84ab737c46ce63cb74c926609eb03bb"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xC838BC36E541664d2e8F21BD8C59C4eB38ef9Adf",
-        "description": "Wheeliammmm",
-        "url": "https://dexscreener.com/robinhood/0xc838bc36e541664d2e8f21bd8c59c4eb38ef9adf"
       }
     ]
   },
