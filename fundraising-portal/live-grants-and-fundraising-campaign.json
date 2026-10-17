@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-17T00:06:29.837Z",
-  "latencyMs": 1026,
+  "executedAt": "2026-10-17T00:08:32.742Z",
+  "latencyMs": 1289,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #328: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #329: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "WP14: Upgrade Pi to 1.3.0",
-          "url": "https://github.com/lhotwll217/pi-harness-template/pull/27",
-          "repositoryUrl": "https://api.github.com/repos/lhotwll217/pi-harness-template",
-          "updatedAt": "2026-10-17T00:06:27Z"
+          "title": "feat(plans): the overseer plans tickets: plan_proposed, the state block's plan, and plan.proposed (M44)",
+          "url": "https://github.com/eddieland/canopy/pull/576",
+          "repositoryUrl": "https://api.github.com/repos/eddieland/canopy",
+          "updatedAt": "2026-10-17T00:08:30Z"
         },
         {
-          "title": "Add scheduled manager tasks, persistent brain and delegated worker messages",
-          "url": "https://github.com/BenCodez/Codeman/pull/8",
-          "repositoryUrl": "https://api.github.com/repos/BenCodez/Codeman",
-          "updatedAt": "2026-10-17T00:06:26Z"
+          "title": "funcionalidade(independence): reivindicações auditáveis e bloqueio de vendas não verificadas",
+          "url": "https://github.com/petertecnetdev/api.petertecnet.com.br/pull/546",
+          "repositoryUrl": "https://api.github.com/repos/petertecnetdev/api.petertecnet.com.br",
+          "updatedAt": "2026-10-17T00:08:26Z"
         },
         {
-          "title": "fix(orders): hold auto-fulfillment on short stock instead of stalling channel sync",
-          "url": "https://github.com/hhhaan/firstcrack/pull/875",
-          "repositoryUrl": "https://api.github.com/repos/hhhaan/firstcrack",
-          "updatedAt": "2026-10-17T00:06:24Z"
+          "title": "feat(android): import photos shared from another app",
+          "url": "https://github.com/madmatah/scanml/pull/4",
+          "repositoryUrl": "https://api.github.com/repos/madmatah/scanml",
+          "updatedAt": "2026-10-17T00:08:28Z"
         },
         {
-          "title": "Enable complete owned Stripe billing and private configurable analytics",
-          "url": "https://github.com/smolkapps/statement-to-excel/pull/8",
-          "repositoryUrl": "https://api.github.com/repos/smolkapps/statement-to-excel",
-          "updatedAt": "2026-10-17T00:06:22Z"
+          "title": "test(ZMSKVR-1126): ATAF E-Kiosk Kundenstatistik via ticketprinter",
+          "url": "https://github.com/it-at-m/eappointment/pull/3757",
+          "repositoryUrl": "https://api.github.com/repos/it-at-m/eappointment",
+          "updatedAt": "2026-10-17T00:08:26Z"
         },
         {
-          "title": "feat: support DeepSeek V4 Flash PPU PD and MTP",
-          "url": "https://github.com/alibaba/rtp-llm/pull/1434",
-          "repositoryUrl": "https://api.github.com/repos/alibaba/rtp-llm",
-          "updatedAt": "2026-10-17T00:06:22Z"
+          "title": "[OMNIML-6081] [14/21] Fold fused experts' quantizers into their weights shard-locally",
+          "url": "https://github.com/NVIDIA/Model-Optimizer/pull/2750",
+          "repositoryUrl": "https://api.github.com/repos/NVIDIA/Model-Optimizer",
+          "updatedAt": "2026-10-17T00:08:26Z"
         },
         {
-          "title": "test(hyperliquid): review 22 required-field record contracts",
-          "url": "https://github.com/Tealstreet/tealstreet-sdk/pull/378",
-          "repositoryUrl": "https://api.github.com/repos/Tealstreet/tealstreet-sdk",
-          "updatedAt": "2026-10-17T00:06:21Z"
+          "title": "[Audit] PR #1233 exact merge 8da45994b6a7 (work issue #1223)",
+          "url": "https://github.com/LouPineWays/Loop-Dee-Loup/issues/1234",
+          "repositoryUrl": "https://api.github.com/repos/LouPineWays/Loop-Dee-Loup",
+          "updatedAt": "2026-10-17T00:08:25Z"
         },
         {
-          "title": "Support a reusable 'var_cache' within the `IdentifyVariableVisitor`",
-          "url": "https://github.com/Pyomo/pyomo/pull/3966",
-          "repositoryUrl": "https://api.github.com/repos/Pyomo/pyomo",
-          "updatedAt": "2026-10-17T00:06:25Z"
+          "title": "Billing: prepaid credits with no subscription",
+          "url": "https://github.com/Code-Panel-AI/codepanel/pull/151",
+          "repositoryUrl": "https://api.github.com/repos/Code-Panel-AI/codepanel",
+          "updatedAt": "2026-10-17T00:08:25Z"
         },
         {
-          "title": "fix(auth): log user out to retry when IdP broker tokens are unusable",
-          "url": "https://github.com/OpenHands/enterprise/pull/840",
-          "repositoryUrl": "https://api.github.com/repos/OpenHands/enterprise",
-          "updatedAt": "2026-10-17T00:06:20Z"
+          "title": "bank: рефакторинг пакета bank/ по стандарту (реестр, транспорты, каталог, витрина, банки в company_financials)",
+          "url": "https://github.com/kmlebedev/clickhouse-import-rosstat/pull/84",
+          "repositoryUrl": "https://api.github.com/repos/kmlebedev/clickhouse-import-rosstat",
+          "updatedAt": "2026-10-17T00:08:24Z"
         }
       ]
     },
