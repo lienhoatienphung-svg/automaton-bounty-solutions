@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T23:44:43.311Z",
-  "latencyMs": 699,
+  "executedAt": "2026-10-17T23:58:45.625Z",
+  "latencyMs": 759,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #547: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #548: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,56 +218,71 @@
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 106,
-      "priceBtc": 0.0000015221445158871412
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 100,
-      "priceBtc": 0.000022875719181721548
+      "priceBtc": 0.0000015294189205158422
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012686870206578404
+      "priceBtc": 0.0012681111909108953
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00005958577741305027
+      "priceBtc": 0.00005959377653181238
     },
     {
       "name": "Canton",
       "symbol": "CC",
       "marketCapRank": 28,
-      "priceBtc": 0.0000012697090194012563
-    },
-    {
-      "name": "XRP",
-      "symbol": "XRP",
-      "marketCapRank": 5,
-      "priceBtc": 0.000015880954303545783
-    },
-    {
-      "name": "Derive",
-      "symbol": "DRV",
-      "marketCapRank": 126,
-      "priceBtc": 0.000004921052116662231
+      "priceBtc": 0.0000012684788826547254
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009588149017975929
+      "priceBtc": 0.0009577326830284508
+    },
+    {
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "marketCapRank": 48,
+      "priceBtc": 0.000005388936681193665
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 84,
+      "priceBtc": 0.00010558591671675554
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 101,
+      "priceBtc": 0.000022500928717329177
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Replace web3.js with viem; claim calls and EIP-7702 batching",
-      "url": "https://github.com/pk910/PoWFaucet/pull/557",
-      "createdAt": "2026-10-17T19:26:03Z"
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
+    },
+    {
+      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
+      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
+      "createdAt": "2026-10-12T21:43:27Z"
+    },
+    {
+      "title": "AI-generated implementations for DaCe library nodes",
+      "url": "https://github.com/spcl/dace/pull/2557",
+      "createdAt": "2026-09-07T07:37:21Z"
+    },
+    {
+      "title": "fix(cli): register Windows MCP clients with a pinned WSL launcher",
+      "url": "https://github.com/OriginTrail/dkg/pull/3348",
+      "createdAt": "2026-10-17T22:25:56Z"
     },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
@@ -278,21 +293,6 @@
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
-    },
-    {
-      "title": "test(sui): ledger stream e2e on a subscription-enabled localnet GraphQL service (3.0 stack)",
-      "url": "https://github.com/MystenLabs/ts-sdks/pull/1355",
-      "createdAt": "2026-10-16T05:45:20Z"
-    },
-    {
-      "title": "[Verify]: netmojo.omdrop — publish newer commit cf0ccb4 (0.18.0)",
-      "url": "https://github.com/omacom/omarchy-plugin-marketplace/issues/10665",
-      "createdAt": "2026-10-09T06:15:25Z"
     }
   ]
 }
