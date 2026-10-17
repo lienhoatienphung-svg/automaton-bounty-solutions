@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T10:20:12.182Z",
-  "latencyMs": 389,
+  "executedAt": "2026-10-17T10:21:43.434Z",
+  "latencyMs": 261,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #434: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #435: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52721532,
+    "liveBlockNumber": 52721578,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459003,
-    "baseMainnetTopPoolsVolume24hUsd": 255608,
+    "baseMainnetTopPoolsVolume24hUsd": 255592,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xAb2C3719B8daEC68d76af9ce8a684D7A6061cf8F",
+        "description": "HIGHSENSE is a smart contract reverse-engineering tool built for Robinhood Chain, decoding EVM bytecode, mapping control flow, and revealing potential security ",
+        "url": "https://dexscreener.com/robinhood/0xab2c3719b8daec68d76af9ce8a684d7a6061cf8f"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "ctjRnP3N77utKsjNNYbNZjytacvSVp3gmghYYGWpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "fsLeRFLA8txtoNo7qpcmnmMbrrSSkCcXrtk8jg9xfun",
         "description": "🐸 $PEPE has landed on Xtrends. Supply shock loading. Get the frog early, before the whole pond catches on. One frog. Endless memes. Early 🐸",
         "url": "https://dexscreener.com/solana/fslerfla8txtono7qpcmnmmbrrsskccxrtk8jg9xfun"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6tsykNmR3WDqouj9uVUFZRgR2Kpai4F1Qm1gAcirpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6tsyknmr3wdqouj9uvufzrgr2kpai4f1qm1gacirpump"
       }
     ]
   },
