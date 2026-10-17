@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T08:02:48.789Z",
-  "latencyMs": 258,
+  "executedAt": "2026-10-17T08:14:28.994Z",
+  "latencyMs": 413,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #415: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #416: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52717410,
+    "liveBlockNumber": 52717760,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,21 +30,39 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459003,
-    "baseMainnetTopPoolsVolume24hUsd": 313710,
+    "baseMainnetTopPoolsLiquidityUsd": 459005,
+    "baseMainnetTopPoolsVolume24hUsd": 318195,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "An3Gu8P9vXm6repPai75zWskEmwM8EV4G2T4dd8Ppump",
+        "description": "Short Bitcoin",
+        "url": "https://dexscreener.com/solana/an3gu8p9vxm6reppai75zwskemwm8ev4g2t4dd8ppump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Cqy1cP8VqMvj4noJJLoD8Uni6NzgrH9tx9AHgAniqWDL",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cqy1cp8vqmvj4nojjlod8uni6nzgrh9tx9ahganiqwdl"
+      },
+      {
+        "chainId": "arc",
+        "tokenAddress": "0x4621A0baA0b5D97AAe77704Cf2a84DabE78a4FED",
+        "description": "🦝 A little raccoon with a wild streak, making its home on Arc.",
+        "url": "https://dexscreener.com/arc/0x4621a0baa0b5d97aae77704cf2a84dabe78a4fed"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x9a02ee3c610f8cf76b9d42ccfc418fc424761b26",
+        "description": "The first 1000× perps, coin-margined in (MAXX). 100M MAXX (10% of supply) backs every payout — winners paid instantly, no queue. Power by \n@robinhoodAPP",
+        "url": "https://dexscreener.com/robinhood/0x9a02ee3c610f8cf76b9d42ccfc418fc424761b26"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "AeLonprCt3y4dZEWEeRTkPqnUPW2FngSD2YeUmPP6GDk",
         "description": "Elon has turned Artificial \n\nThe ticker is $AE",
         "url": "https://dexscreener.com/solana/aelonprct3y4dzeweertkpqnupw2fngsd2yeumpp6gdk"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "71hpYEmQ7AVCPRrQpdfeimkUKEc2NKn5WwLenvHUpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/71hpyemq7avcprrqpdfeimkukec2nkn5wwlenvhupump"
       },
       {
         "chainId": "bsc",
@@ -63,24 +81,6 @@
         "tokenAddress": "BbbFLmMjY8eZnXpNJGpTXV5PqEUi9c6XkC9V9YQqpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/bbbflmmjy8eznxpnjgptxv5pqeui9c6xkc9v9yqqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CFggXZXwg5pkiB5aHGq1LEoaK1hVhVYVGZpHgVewpump",
-        "description": "catonmac",
-        "url": "https://dexscreener.com/solana/cfggxzxwg5pkib5ahgq1leoak1hvhvyvgzphgvewpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5rd2Bob97Yk59PN2JRdpdewSf4EYVPueGLe5613dFqfD",
-        "description": "Talos is an AI guarding a vault of SOL. 25% of JAILBREAK's creator fees flow into the vault, so it grows with every trade. Hold $20 of $JAILBREAK and you get on",
-        "url": "https://dexscreener.com/solana/5rd2bob97yk59pn2jrdpdewsf4eyvpuegle5613dfqfd"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x7b4301b979d660e5552923433b1ee4abeb9d468b",
-        "description": "ETH-backed sBOND positions. Time-weighted revenue sharing. Transparent onchain reserves.",
-        "url": "https://dexscreener.com/robinhood/0x7b4301b979d660e5552923433b1ee4abeb9d468b"
       }
     ]
   },
