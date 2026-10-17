@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-17T12:30:23.838Z",
-  "latencyMs": 1386,
+  "executedAt": "2026-10-17T12:32:10.201Z",
+  "latencyMs": 965,
   "companyName": "PolyAlpha Prediction & Arbitrage Desk",
-  "workTitle": "Growth & Sales Sprint #478: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #479: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000039,
         "liquidityUsd": 21384,
-        "volume24hUsd": 69091,
+        "volume24hUsd": 69149,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -128,7 +128,7 @@
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 5,
+    "contractsPackagedCount": 10,
     "contracts": [
       {
         "source": "RemoteOK-InstantB2B",
@@ -204,6 +204,65 @@
         "compensation": "$500-$2,500 Instant Retainer",
         "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
         "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Auralis Group",
+        "roleOrTask": "Cloud Engineer (m/w/d) mit Karriereambitionen!",
+        "industryTags": [
+          "Remote",
+          "System and Network Administration"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/auralis-group/cloud-engineer-mit-karriereambitionen-berlin-312024",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Auralis Group",
+        "roleOrTask": "Software Testautomatisierer (m/w/d) mit Karriereambitionen",
+        "industryTags": [
+          "Remote",
+          "Quality Assurance",
+          "Inspection"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/auralis-group/software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-86749",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Auralis Group",
+        "roleOrTask": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+        "industryTags": [
+          "Remote",
+          "Software Development"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-458768",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "FREQUENTUM",
+        "roleOrTask": "Werkstudent kommunale Wärmeplanung (m/w/q)",
+        "industryTags": [
+          "Power Engineering and Environmental Engineering"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/frequentum/werkstudent-kommunale-warmeplanung-munich-224996",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Saasgroup",
+        "roleOrTask": "Managing Director (m/f/d) - Focus on Accounting & Office",
+        "industryTags": [
+          "Finance"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/saasgroup/managing-director-focus-on-accounting-office-schonefeld-288577",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
   }
