@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T02:49:49.684Z",
-  "latencyMs": 678,
+  "executedAt": "2026-10-17T02:51:23.445Z",
+  "latencyMs": 667,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #372: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #373: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "9KDhovVA2kdjngkFooqEn5FoKkuZeDMYiQtVk7Lbm9up",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/9kdhovva2kdjngkfooqen5fokkuzedmyiqtvk7lbm9up"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "4jjQjDRYd7xLcFMViRsz4GvtgU6gPZgbVaxN3Rq9pump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "$WISH ✨ The community coin behind Wishwave.\n\nWishwave is the marketplace for the experience economy. Real people share their talents in real life: yoga teachers",
       "url": "https://dexscreener.com/solana/7tiaaj7ubbaeebixj1cvjxknt16eul6gjvat4cklpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "4by8accPvdRcmDEvJy1svdSJMwfVcNGyWqgQw9EPpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Cate Pepe. \n\nWe all know cate’s are Doge’s",
-      "url": "https://dexscreener.com/solana/4by8accpvdrcmdevjy1svdsjmwfvcngywqgqw9eppump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "docs: complete preview and document-tree boundary clarifications",
+      "url": "https://github.com/nil-studio/oasis7/pull/4831",
+      "createdAt": "2026-10-17T02:50:01Z"
+    },
+    {
       "title": "fix: auto-claim rewards on withdrawal & enforce EIP-712 deadline",
       "url": "https://github.com/StellarFlow-Network/stellarflow-contracts/pull/1260",
       "createdAt": "2026-10-17T02:43:47Z"
@@ -288,11 +293,6 @@
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "LND P4 candidate: Wavelength signet spike — Ark wallet client as an agent-side wallet (experimental)",
-      "url": "https://github.com/OpenAgentsInc/openagents/issues/11770",
-      "createdAt": "2026-10-15T20:37:26Z"
     }
   ]
 }
