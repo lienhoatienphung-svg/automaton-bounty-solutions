@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T04:23:55.564Z",
-  "latencyMs": 257,
+  "executedAt": "2026-10-17T04:25:27.814Z",
+  "latencyMs": 344,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #382: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #383: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52710844,
+    "liveBlockNumber": 52710890,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 277154,
+    "baseMainnetTopPoolsVolume24hUsd": 277146,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x4E22eFc006f453154A086Ad4dC371227e5166a09",
+        "description": "Your money didn’t disappear.\nIt moved into my pocket.\n\nMeet PocketHole ($PHOLE): a tiny cosmic void hiding in your jeans. One worn pocket. Infinite appetite.\n\nA",
+        "url": "https://dexscreener.com/robinhood/0x4e22efc006f453154a086ad4dc371227e5166a09"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4SZfKMd1coW1hfbcmBWGoGmGHX5WdnXB1yhjXosLpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4szfkmd1cow1hfbcmbwgogmghx5wdnxb1yhjxoslpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BBaunKJdi2W5rDmB9yiEw8Y6yXqHbTEAYSSGDbDVeNGc",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x6ce63b11a5D538f0633bDF08509249F253993D12",
         "description": "The background is a funny tweet pointing out a mistake on the Chameleon's shirt. Its logo features a green chameleon with its tongue out wearing a black shirt t",
         "url": "https://dexscreener.com/robinhood/0x6ce63b11a5d538f0633bdf08509249f253993d12"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4FKAVy9RgNZatN5gcRgJurQaPnDPjt5ncdT8z3NQpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4fkavy9rgnzatn5gcrgjurqapndpjt5ncdt8z3nqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Di3W457xxh9hGzHqZRa5mirb6EfRgMZ5fCbZRWSrpump",
-        "description": "THEO'S PLAY GROUND.\nOne click turns into a little detour. One detour turns into a whole new world.\n\nTheo is always chasing the next bright thing. Come see what ",
-        "url": "https://dexscreener.com/solana/di3w457xxh9hgzhqzra5mirb6efrgmz5fcbzrwsrpump"
       }
     ]
   },
