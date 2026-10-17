@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T07:21:02.306Z",
-  "latencyMs": 252,
+  "executedAt": "2026-10-17T07:33:11.031Z",
+  "latencyMs": 259,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #409: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #410: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Voltus: Customer Success Associate",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52716157,
+    "liveBlockNumber": 52716521,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 312205,
+    "baseMainnetTopPoolsLiquidityUsd": 459003,
+    "baseMainnetTopPoolsVolume24hUsd": 313723,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CFggXZXwg5pkiB5aHGq1LEoaK1hVhVYVGZpHgVewpump",
+        "description": "catonmac",
+        "url": "https://dexscreener.com/solana/cfggxzxwg5pkib5ahgq1leoak1hvhvyvgzphgvewpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5rd2Bob97Yk59PN2JRdpdewSf4EYVPueGLe5613dFqfD",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x16c93795477fab5730a00889e042d5815be90bfc",
         "description": "FETCHN is a market intelligence platform for Robinhood Stock Tokens.\n\nFETCHN brings a team of AI agents to your market decisions. They gather signals from on-ch",
         "url": "https://dexscreener.com/robinhood/0x16c93795477fab5730a00889e042d5815be90bfc"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4QeNMoaNzbf8RpMXuuej7z2TSRxdnt5RdQqYQASqpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4qenmoanzbf8rpmxuuej7z2tsrxdnt5rdqqyqasqpump"
       }
     ]
   },
