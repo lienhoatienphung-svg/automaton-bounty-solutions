@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T14:55:44.976Z",
-  "latencyMs": 812,
+  "executedAt": "2026-10-17T15:08:37.826Z",
+  "latencyMs": 1263,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #477: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #478: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,59 +215,74 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 618,
+      "priceBtc": 0.0013952435848973899
+    },
+    {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 85,
-      "priceBtc": 0.00010462902276313962
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 619,
-      "priceBtc": 0.0013917986004123343
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.22467915579251e-8
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 105,
-      "priceBtc": 0.000020689929463443034
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 100,
-      "priceBtc": 0.00000816858046442942
+      "priceBtc": 0.00010470283332584557
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 112,
-      "priceBtc": 8.301778162866152e-7
+      "priceBtc": 8.384392232703625e-7
     },
     {
-      "name": "Derive",
-      "symbol": "DRV",
-      "marketCapRank": 125,
-      "priceBtc": 0.0000049972269039853476
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 105,
+      "priceBtc": 0.00002068121322044379
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.231084734014174e-8
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006150575265380376
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 29,
-      "priceBtc": 0.000012178182521567123
+      "priceBtc": 0.000012183609806107847
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 101,
+      "priceBtc": 0.000008119532812930337
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "Next fork, part 1: stage block versions by height, commit the validity bounds at genesis, and add fundPot",
+      "url": "https://github.com/rchain-community/rchain-rust/pull/373",
+      "createdAt": "2026-10-16T16:04:15Z"
+    },
+    {
+      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
+      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
+      "createdAt": "2026-10-12T21:43:27Z"
+    },
+    {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
+      "title": "Agentic SFT shootout on Snowball v0: plain, RS-multi, relay, recovery, plateau dropping",
+      "url": "https://github.com/marin-community/marin/issues/10213",
+      "createdAt": "2026-10-16T22:05:38Z"
     },
     {
       "title": "CP: mechanics waves tracker (draft, not for merge)",
@@ -278,21 +293,6 @@
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "feat(mobile): Redesign B app, Figma SSOT, Solar icons, restore passphrase (#54)",
-      "url": "https://github.com/HyeokjaeChoi/vaultme/pull/63",
-      "createdAt": "2026-10-17T12:07:10Z"
-    },
-    {
-      "title": "[性能] 排查 Linux 空闲／仅连接状态 RSS 增长",
-      "url": "https://github.com/GHOST-AKU/wozai/issues/9",
-      "createdAt": "2026-10-04T00:10:12Z"
-    },
-    {
-      "title": "5.1 Partage WhatsApp",
-      "url": "https://github.com/pierregc/sillage/issues/25",
-      "createdAt": "2026-10-17T14:49:31Z"
     }
   ]
 }
