@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T19:43:30.729Z",
-  "latencyMs": 261,
+  "executedAt": "2026-10-17T19:57:32.779Z",
+  "latencyMs": 363,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #511: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #512: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52738431,
+    "liveBlockNumber": 52738852,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,34 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 458998,
-    "baseMainnetTopPoolsVolume24hUsd": 204411,
+    "baseMainnetTopPoolsLiquidityUsd": 459000,
+    "baseMainnetTopPoolsVolume24hUsd": 208188,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7Tr69PEhb3QpaD2gxPwiEaNvQ9SFJJ7V7b71nZWHpump",
+        "description": "Official Meme of the French Rebellion",
+        "url": "https://dexscreener.com/solana/7tr69pehb3qpad2gxpwieanvq9sfjj7v7b71nzwhpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump",
+        "description": "Dog In Pain",
+        "url": "https://dexscreener.com/solana/48hnr1cwtafbumjsjod6q8yduwduyyumcjzubvzvpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5HX8bYfXQD9ykyWfVzTnkJQJNqhhxoxcgws4AWcmpump",
+        "description": "AI that saves the environment.",
+        "url": "https://dexscreener.com/solana/5hx8byfxqd9ykywfvztnkjqjnqhhxoxcgws4awcmpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9vuBzr6MWhPKFie4nGqm3EQVSScs9JETXokWurUapump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9vubzr6mwhpkfie4ngqm3eqvsscs9jetxokwuruapump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CATA9Q8D15r7t7EqJ85EK8dvTxvVQAfZZaRxBeiFpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "9fahoNzobVmh9Cz2n3eaK5aKSD7jjqGd92sUnGk9pump",
         "description": "Mayhem breaks out beside peaceful demonstrations in Paris, Marseille and elsewhere as resentment rises over affordability and government budget cuts",
         "url": "https://dexscreener.com/solana/9fahonzobvmh9cz2n3eak5aksd7jjqgd92sungk9pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DvYMPnr2BZ1T8yjfqebCd2b1hh2Ux7uMm8cQhoPTpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/dvympnr2bz1t8yjfqebcd2b1hh2ux7umm8cqhoptpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HriXtBqtMwDstTcc4oufkugfVBzqsrtihwFB3wtpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hrixtbqtmwdsttcc4oufkugfvbzqsrtihwfb3wtpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "D3epCBE3UZfQwM2PqmoPWXm5fVutZ6aqgr4DpsFKpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/d3epcbe3uzfqwm2pqmopwxm5fvutz6aqgr4dpsfkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EYLjBuEd7NUF5ZwjcpawqCKnzbaZMDsyHkeA72P2pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/eyljbued7nuf5zwjcpawqcknzbazmdsyhkea72p2pump"
       }
     ]
   },
