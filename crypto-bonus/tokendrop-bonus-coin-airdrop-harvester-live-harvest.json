@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T05:03:59.849Z",
-  "latencyMs": 797,
+  "executedAt": "2026-10-17T05:05:55.251Z",
+  "latencyMs": 1136,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #392: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #393: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -224,46 +224,66 @@
       "name": "Celestia",
       "symbol": "TIA",
       "marketCapRank": 92,
-      "priceBtc": 0.000009198676166929558
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 84,
-      "priceBtc": 0.00010920665441218579
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006211427335253494
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000012441564484389312
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 110,
-      "priceBtc": 8.769957911380054e-7
+      "priceBtc": 0.00000930197404035262
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.301441124783474e-8
+      "priceBtc": 9.32237586021343e-8
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 84,
+      "priceBtc": 0.00010966073221186605
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012836864291183117
+      "priceBtc": 0.0012864702096036266
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000012485975476819344
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 109,
+      "priceBtc": 8.820167893278461e-7
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006252082642647652
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
+    },
+    {
+      "title": "Inventory and migrate current Standard card pool",
+      "url": "https://github.com/altf4/rustmage/issues/4",
+      "createdAt": "2026-10-15T15:51:44Z"
+    },
+    {
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
+    },
+    {
+      "title": "feat(web): wallet menu, passkey smart wallet, auto-reconnect, and unfunded detection",
+      "url": "https://github.com/Godgift-care/sci-healthcare-frontend/pull/90",
+      "createdAt": "2026-10-17T05:04:27Z"
+    },
     {
       "title": "fix(container): update image docker.io/donetick/donetick (v0.1.80 ➔ v0.1.82)",
       "url": "https://github.com/drag0n141/home-ops/pull/8340",
@@ -273,26 +293,6 @@
       "title": "data(platforms): list Goldsky Compose on Avalanche and add Cogitus by Zeeve",
       "url": "https://github.com/Chain-Love/chain-love/pull/4520",
       "createdAt": "2026-10-17T04:51:37Z"
-    },
-    {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
