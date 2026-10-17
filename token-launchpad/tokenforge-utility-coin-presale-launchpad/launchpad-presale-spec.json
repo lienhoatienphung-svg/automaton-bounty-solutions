@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T12:16:23.167Z",
-  "latencyMs": 251,
+  "executedAt": "2026-10-17T12:28:58.872Z",
+  "latencyMs": 358,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #451: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #452: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52725017,
+    "liveBlockNumber": 52725395,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 455641,
-    "baseMainnetTopPoolsVolume24hUsd": 226662,
+    "baseMainnetTopPoolsVolume24hUsd": 221419,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "82C26qv9bB63sM8ei7HP2uVMDPPVWzgSs8ak9PTcBAmo",
+        "description": "THE INTERNET'S MOST INTELLIGENT INU",
+        "url": "https://dexscreener.com/solana/82c26qv9bb63sm8ei7hp2uvmdppvwzgss8ak9ptcbamo"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6LEE8VtuiKBNkFmZ4SdcvgQWmiyGwwG4UAcZXwgXpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6lee8vtuikbnkfmz4sdcvgqwmiygwwg4uaczxwgxpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4DjAddbyZtwvMW41SMcUAXWDZq8bkGEcAXwz5YHMpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0xD635BDBaCca403E1671b31363654cF64ea6864F5",
         "description": "Dolphin Intelligence",
         "url": "https://dexscreener.com/robinhood/0xd635bdbacca403e1671b31363654cf64ea6864f5"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4c7Q9YXKVqQy5deud3VVxnVaEqqKmCqTKhsypUCxpump",
-        "description": "Introducing NULLA Protocol\n\nYour wallet shouldn’t tell your whole story.\n\nWe’re building privacy tools for Solana: private payments, shielded balances, and cont",
-        "url": "https://dexscreener.com/solana/4c7q9yxkvqqy5deud3vvxnvaeqqkmcqtkhsypucxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "iqBsCHX5DWPDWpL9WiUu8nDKHeHNEA5qV2AUQPgcRWA",
-        "description": "RWA Perpetual Options.",
-        "url": "https://dexscreener.com/solana/iqbschx5dwpdwpl9wiuu8ndkhehnea5qv2auqpgcrwa"
       }
     ]
   },
