@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T02:21:25.748Z",
-  "latencyMs": 1086,
+  "executedAt": "2026-10-17T02:23:05.117Z",
+  "latencyMs": 1404,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #368: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #369: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 949051,
-      "apyBase": 23.09,
-      "apyRewardBonus": 406199.15,
-      "apyTotal": 406222.24,
+      "tvlUsd": 945638,
+      "apyBase": 23.47,
+      "apyRewardBonus": 106056.07,
+      "apyTotal": 106079.54,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1133118,
-      "apyBase": 1.39,
-      "apyRewardBonus": 82672.13,
-      "apyTotal": 82673.52,
+      "tvlUsd": 1129757,
+      "apyBase": 1.38,
+      "apyRewardBonus": 81642.47,
+      "apyTotal": 81643.85,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -44,10 +44,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 608072,
-      "apyBase": 5.74,
-      "apyRewardBonus": 72401.32,
-      "apyTotal": 72407.05,
+      "tvlUsd": 605879,
+      "apyBase": 5.86,
+      "apyRewardBonus": 72781.82,
+      "apyTotal": 72787.68,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -57,10 +57,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 55065,
+      "tvlUsd": 54922,
       "apyBase": 0,
-      "apyRewardBonus": 39174.72,
-      "apyTotal": 39174.72,
+      "apyRewardBonus": 39357.67,
+      "apyTotal": 39357.67,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -70,10 +70,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 257869,
-      "apyBase": 97.23,
-      "apyRewardBonus": 19745.56,
-      "apyTotal": 19842.79,
+      "tvlUsd": 258572,
+      "apyBase": 90.53,
+      "apyRewardBonus": 10267.03,
+      "apyTotal": 10357.55,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -83,27 +83,14 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 150492,
-      "apyBase": 31.27,
-      "apyRewardBonus": 7848.5,
-      "apyTotal": 7879.76,
+      "tvlUsd": 150575,
+      "apyBase": 30.54,
+      "apyRewardBonus": 7860.86,
+      "apyTotal": 7891.4,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "80739318-c205-4177-9207-3c4322925ac6"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-CBBTC",
-      "tvlUsd": 171692,
-      "apyBase": 38.41,
-      "apyRewardBonus": 6842.68,
-      "apyTotal": 6881.09,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
     },
     {
       "chain": "Base",
@@ -121,28 +108,41 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-MUC",
-      "tvlUsd": 1014886,
-      "apyBase": 125.25,
-      "apyRewardBonus": 4090.1,
-      "apyTotal": 4215.35,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "3cd9aba2-1527-529a-9ecc-6bdc447494af"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "WETH-CBBTC",
-      "tvlUsd": 2066262,
-      "apyBase": 79.2,
-      "apyRewardBonus": 3976.32,
-      "apyTotal": 4055.52,
+      "tvlUsd": 2080162,
+      "apyBase": 78.19,
+      "apyRewardBonus": 3713.03,
+      "apyTotal": 3791.22,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 171856,
+      "apyBase": 36.1,
+      "apyRewardBonus": 3419.64,
+      "apyTotal": 3455.74,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "FUN-USDC",
+      "tvlUsd": 277167,
+      "apyBase": 47.91,
+      "apyRewardBonus": 3153.88,
+      "apyTotal": 3201.79,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "18674a4f-57ea-4c91-99ce-ea1a2b37aa3d"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
@@ -270,29 +270,29 @@
       "createdAt": "2026-10-17T02:17:16Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "[Catalog P4] Atlas — AAVE Staked Token",
-      "url": "https://github.com/matheus-junio-da-silva/Web3Bugs/pull/2",
-      "createdAt": "2026-10-16T23:46:23Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/mrzzy/art.mrzzy.co/pull/168",
+      "createdAt": "2026-09-11T04:38:59Z"
     },
     {
-      "title": "chore(deps): update all non-major dependencies",
-      "url": "https://github.com/reddoorla/erp-industrial/pull/60",
-      "createdAt": "2026-09-21T16:44:38Z"
+      "title": "fix(deps): update all non-major dependencies",
+      "url": "https://github.com/dsm23/dsm23-svelte-kit-template/pull/1758",
+      "createdAt": "2026-08-07T00:26:22Z"
     },
     {
-      "title": "feat(escrow): wallet readiness check before a guest creates an escrow…",
-      "url": "https://github.com/safetrustcr/dApp-SafeTrust/pull/514",
-      "createdAt": "2026-10-17T02:13:18Z"
+      "title": "SF-010: live upgrade-security and browser wallet acceptance on testnet",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/70",
+      "createdAt": "2026-10-15T06:19:09Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     }
   ]
 }
