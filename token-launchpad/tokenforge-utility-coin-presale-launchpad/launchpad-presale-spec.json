@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T04:25:27.814Z",
-  "latencyMs": 344,
+  "executedAt": "2026-10-17T04:37:14.948Z",
+  "latencyMs": 378,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #383: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #384: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52710890,
+    "liveBlockNumber": 52711243,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,20 +31,32 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 277146,
+    "baseMainnetTopPoolsVolume24hUsd": 277187,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "A3c24chX4WhsdmDZDi6anHoycT8tpT2upwhfLH78pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/a3c24chx4whsdmdzdi6anhoyct8tpt2upwhflh78pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2249Lq9weuKy6PQRLXFS5JBfJR2hyFHE7q2tpi4zpurp",
+        "description": "Strategy: 10x long on SPCX, perp profits buy the backing stock and pay holders.",
+        "url": "https://dexscreener.com/solana/2249lq9weuky6pqrlxfs5jbfjr2hyfhe7q2tpi4zpurp"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EmoRR2DMqSpAzx7yXyMYhz2skGWhDsYFh6V1ydREpump",
+        "description": "BTC, ETH & SOL perps on Solana. Up to 1,000× leverage.",
+        "url": "https://dexscreener.com/solana/emorr2dmqspazx7yxymyhz2skgwhdsyfh6v1ydrepump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x4E22eFc006f453154A086Ad4dC371227e5166a09",
         "description": "Your money didn’t disappear.\nIt moved into my pocket.\n\nMeet PocketHole ($PHOLE): a tiny cosmic void hiding in your jeans. One worn pocket. Infinite appetite.\n\nA",
         "url": "https://dexscreener.com/robinhood/0x4e22efc006f453154a086ad4dc371227e5166a09"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4SZfKMd1coW1hfbcmBWGoGmGHX5WdnXB1yhjXosLpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4szfkmd1cow1hfbcmbwgogmghx5wdnxb1yhjxoslpump"
       },
       {
         "chainId": "solana",
@@ -69,18 +81,6 @@
         "tokenAddress": "219ZL89b7TSRSv8bqf7Fy2WrU5BJJVCntg1srHnypurp",
         "description": "Jeff said buy your shitcoins with leverage, EGG backed by 10x HYPE long via purps",
         "url": "https://dexscreener.com/solana/219zl89b7tsrsv8bqf7fy2wru5bjjvcntg1srhnypurp"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "D7orGL5t9d4eJNcjFoabSKapGLQkeDTFEY3KQ1rHpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/d7orgl5t9d4ejncjfoabskapglqkedtfey3kq1rhpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x6ce63b11a5D538f0633bDF08509249F253993D12",
-        "description": "The background is a funny tweet pointing out a mistake on the Chameleon's shirt. Its logo features a green chameleon with its tongue out wearing a black shirt t",
-        "url": "https://dexscreener.com/robinhood/0x6ce63b11a5d538f0633bdf08509249f253993d12"
       }
     ]
   },
