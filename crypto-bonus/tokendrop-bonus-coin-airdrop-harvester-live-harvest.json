@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T02:07:24.947Z",
-  "latencyMs": 846,
+  "executedAt": "2026-10-17T02:09:01.847Z",
+  "latencyMs": 997,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #366: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #367: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "chore(deps): bump tempo dependencies to dee08cf",
+      "url": "https://github.com/lukasrosario/foundry/pull/1",
+      "createdAt": "2026-07-21T01:46:08Z"
     },
     {
       "title": "fix(usdcx): reserve a burn's dry-run fee on Max",
@@ -283,16 +293,6 @@
       "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
       "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
       "createdAt": "2026-09-09T13:01:57Z"
-    },
-    {
-      "title": "[SIM-3][SIM-4] More moving parts and more objects",
-      "url": "https://github.com/AvnehSBhatia/ExeaLabsNvidiaHacks/issues/20",
-      "createdAt": "2026-10-17T02:03:25Z"
-    },
-    {
-      "title": "[SIM-3][SIM-4] Oven, dishwasher, microwave and wall-cabinet doors, a faucet lever, and nine objects with real mass and size variation",
-      "url": "https://github.com/AvnehSBhatia/ExeaLabsNvidiaHacks/pull/19",
-      "createdAt": "2026-10-17T02:03:14Z"
     }
   ]
 }
