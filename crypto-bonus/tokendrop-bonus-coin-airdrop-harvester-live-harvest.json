@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T17:40:56.691Z",
-  "latencyMs": 1068,
+  "executedAt": "2026-10-17T17:42:40.791Z",
+  "latencyMs": 712,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #498: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #499: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,52 +218,67 @@
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 108,
-      "priceBtc": 0.0000014822701280784253
+      "priceBtc": 0.000001488951398984782
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00005977854020402621
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.117506246556554e-8
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 39,
-      "priceBtc": 0.0024285503575654146
+      "priceBtc": 0.0000598351207044367
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 99,
-      "priceBtc": 0.000022981058968260168
+      "priceBtc": 0.000023072371891731418
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.01382310264572855
+      "priceBtc": 0.013856594836468523
     },
     {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 100,
-      "priceBtc": 0.00000809677689230175
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 39,
+      "priceBtc": 0.0024331241948035627
     },
     {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "marketCapRank": 90,
-      "priceBtc": 0.0000230220929625281
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.124396605793784e-8
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 625,
+      "priceBtc": 0.0013650017218131438
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 30,
+      "priceBtc": 0.000011975568095575676
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Ghost <-> Echo comms",
+      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
+      "createdAt": "2026-10-16T18:46:23Z"
+    },
+    {
+      "title": "CP: mechanics waves tracker (draft, not for merge)",
+      "url": "https://github.com/Oteryn/Oteryn-Game/pull/2131",
+      "createdAt": "2026-10-15T07:00:56Z"
+    },
+    {
+      "title": "feat!: support direct hosting deposits and PWR-Station testnet client",
+      "url": "https://github.com/manifest-network/merovingian/pull/32",
+      "createdAt": "2026-10-01T19:39:14Z"
+    },
     {
       "title": "expand \"auto eat\" functionality",
       "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-17T12:15:43Z"
     },
     {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
-    },
-    {
       "title": "chore(lockfile): update lucide-react-lockfile #patch",
       "url": "https://github.com/GlueOps/autoglue/pull/1273",
       "createdAt": "2026-10-17T08:30:21Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "Feature request: Support Lightning send/receive on regtest",
-      "url": "https://github.com/buildonspark/spark/issues/157",
-      "createdAt": "2026-10-17T17:39:18Z"
     }
   ]
 }
