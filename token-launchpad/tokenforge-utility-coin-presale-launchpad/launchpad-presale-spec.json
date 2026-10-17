@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T00:34:16.174Z",
-  "latencyMs": 522,
+  "executedAt": "2026-10-17T00:36:26.691Z",
+  "latencyMs": 431,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #348: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #349: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52703954,
+    "liveBlockNumber": 52704019,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 283971,
+    "baseMainnetTopPoolsVolume24hUsd": 283955,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x48D343CAe84ab737c46Ce63CB74C926609Eb03bB",
+        "description": "$MUT8 is the Mutant Infusions brand coin: an onchain badge of loyalty for the community bringing mutant culture and real-world flavor together. Built for fans, ",
+        "url": "https://dexscreener.com/robinhood/0x48d343cae84ab737c46ce63cb74c926609eb03bb"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xC838BC36E541664d2e8F21BD8C59C4eB38ef9Adf",
+        "description": "Wheeliammmm",
+        "url": "https://dexscreener.com/robinhood/0xc838bc36e541664d2e8f21bd8c59c4eb38ef9adf"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "21HcRNvUVWbmSEqYeRcP9rDJgYTtvveKBAQYEAHUVF5x",
@@ -69,18 +81,6 @@
         "tokenAddress": "CM8xgkNPNafY17LjMq1YLxLw7nyyQE3M69EsaGwMEUXj",
         "description": "An asymptotic bonding curve on Solana: mint and burn against a SOL reserve then it bonds into Meteora at exactly 21M supply.",
         "url": "https://dexscreener.com/solana/cm8xgknpnafy17ljmq1ylxlw7nyyqe3m69esagwmeuxj"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3arK71TKx2R91FPxd6SGqVJB1zYsoHZc5TrbM7HZpump",
-        "description": "Jewsla",
-        "url": "https://dexscreener.com/solana/3ark71tkx2r91fpxd6sgqvjb1zysohzc5trbm7hzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BwMMU8aFzdCFyhyFFBp7Ao6RaKnF1iRAbsbCeZBqpump",
-        "description": "The soundtrack of the cat generation. 🐱🎧 One cat. Infinite meows. Turn up the volume and join CATIFY on Solana.",
-        "url": "https://dexscreener.com/solana/bwmmu8afzdcfyhyffbp7ao6raknf1irabsbcezbqpump"
       }
     ]
   },
