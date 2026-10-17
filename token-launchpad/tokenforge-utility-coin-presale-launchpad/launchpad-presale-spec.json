@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T15:24:59.895Z",
-  "latencyMs": 362,
+  "executedAt": "2026-10-17T15:37:39.995Z",
+  "latencyMs": 330,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #477: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #478: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52730676,
+    "liveBlockNumber": 52731056,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 455649,
-    "baseMainnetTopPoolsVolume24hUsd": 205037,
+    "baseMainnetTopPoolsVolume24hUsd": 207684,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xacecc927591352843dc1dab2a40abb336f21a358",
+        "description": "A new society where autonomous intelligences create, work, trade, and build capital. Society of SuperIntelligence.",
+        "url": "https://dexscreener.com/robinhood/0xacecc927591352843dc1dab2a40abb336f21a358"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3zZe2CAvY1dvAeRe3hf94i8zToMgRbyJA4yP3Rm3pump",
+        "description": "Aussie dad stabbed 25x times fighting for this life all fees directed to Go Fund Me account holder",
+        "url": "https://dexscreener.com/solana/3zze2cavy1dvaere3hf94i8ztomgrbyja4yp3rm3pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7dYqDPww41WcF4zFFKmzacsgCByUJtcUagGy2Gvnpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7dyqdpww41wcf4zffkmzacsgcbyujtcuaggy2gvnpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x29D3945d0C7e4C78D194A343D3db0E909a0A8a91",
+        "description": "The first Influence SocialFi economy on Robinhood Chain. Your influence has value. Influence ≠ followers. Prove it.",
+        "url": "https://dexscreener.com/robinhood/0x29d3945d0c7e4c78d194a343d3db0e909a0a8a91"
+      },
       {
         "chainId": "ethereum",
         "tokenAddress": "0xBC7BBb30759a428282716b008201E718C91561D3",
@@ -57,30 +81,6 @@
         "tokenAddress": "7NPvxgxdDKgTHSzcWoV5mCp5opNA4uTpzrPynXDXpump",
         "description": "Professor Inu",
         "url": "https://dexscreener.com/solana/7npvxgxddkgthszcwov5mcp5opna4utpzrpynxdxpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xC287d24Bcd7bA6D5e45603E59C79F1fE2D9B9A6d",
-        "description": "Where Liquidity Meets Light.\n\nDive into a vibrant new spectrum of Web3! PoolPrism brings together liquidity-inspired innovation, dazzling prism energy, and unst",
-        "url": "https://dexscreener.com/robinhood/0xc287d24bcd7ba6d5e45603e59c79f1fe2d9b9a6d"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7VLEHjfm9J1XpaJFZ1uDxsTPbqFX799twAkMQwv9pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7vlehjfm9j1xpajfz1udxstpbqfx799twakmqwv9pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HmpwYEN1a1FjXFgr32jH5rV7GUaEQcvor3dZMemZpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hmpwyen1a1fjxfgr32jh5rv7guaeqcvor3dzmemzpump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x817B069fD919638105421Def28651B5fe9197777",
-        "description": "BNB Chain officially gave us a name and ticker for a coin on its own GitHub \n\n$Hix (MyToken)",
-        "url": "https://dexscreener.com/bsc/0x817b069fd919638105421def28651b5fe9197777"
       }
     ]
   },
