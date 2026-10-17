@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T03:03:47.385Z",
-  "latencyMs": 692,
+  "executedAt": "2026-10-17T03:05:52.119Z",
+  "latencyMs": 666,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #374: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #375: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -224,46 +224,66 @@
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009788250907977873
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.232100799551577e-8
+      "priceBtc": 0.0009780031901985807
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9997210216127754
+      "priceBtc": 0.9989122228630801
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 613,
+      "priceBtc": 0.0014156635299191517
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 89,
-      "priceBtc": 0.00003889213907800221
+      "priceBtc": 0.00003872697697987019
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 612,
-      "priceBtc": 0.0014229246801103382
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.0000618337296400364
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012826338295528073
+      "priceBtc": 0.0012806638936669198
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010732385892077707
+      "priceBtc": 0.000010750352297883649
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "fix(server): wait for the mined block hash, not its height, before scanning",
+      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/397",
+      "createdAt": "2026-10-17T03:05:38Z"
+    },
+    {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
     {
       "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
       "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
@@ -273,26 +293,6 @@
       "title": "chore: Implementer inbox — instructions from the Orchestrator",
       "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
       "createdAt": "2026-10-06T01:05:54Z"
-    },
-    {
-      "title": "feat(explore): add native Bread Arcade UI",
-      "url": "https://github.com/0xMiden/wallet/pull/1512",
-      "createdAt": "2026-10-17T02:30:14Z"
-    },
-    {
-      "title": "bindings: reward-manager and nft-reward initialize signatures are stale",
-      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1327",
-      "createdAt": "2026-10-16T09:40:54Z"
-    },
-    {
-      "title": "Add moe-router-design task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/28",
-      "createdAt": "2026-09-27T02:38:45Z"
-    },
-    {
-      "title": "Use USDCx for Testnet Earn and retire Epoch USDC choices",
-      "url": "https://github.com/0xMiden/wallet/pull/1513",
-      "createdAt": "2026-10-17T02:58:47Z"
     }
   ]
 }
