@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-17T19:27:35.015Z",
-  "latencyMs": 362,
+  "executedAt": "2026-10-17T19:29:07.224Z",
+  "latencyMs": 254,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #508: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #509: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52737953,
+    "liveBlockNumber": 52738000,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458998,
-    "baseMainnetTopPoolsVolume24hUsd": 203654,
+    "baseMainnetTopPoolsVolume24hUsd": 203652,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "EYLjBuEd7NUF5ZwjcpawqCKnzbaZMDsyHkeA72P2pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/eyljbued7nuf5zwjcpawqcknzbazmdsyhkea72p2pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2yxjYSyAY3sYgBWy9HbgFgfASvWByfDKpSjK94Wbpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x7a9d650367844aa6ab4a496dec1e6117721a7846",
         "description": "Every coin gets its own team of AI agents. They browse the web live and talk about what they find. Launch yours in one click on Robinhood Chain.",
         "url": "https://dexscreener.com/robinhood/0x7a9d650367844aa6ab4a496dec1e6117721a7846"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "88qaZtNmM6qP9VJTmFQW3Ac39ZJ5YxjzF8Bc7Psqpump",
-        "description": "MONKO-AI ($MONKAI) mixes big-brain monkey mischief, neon trading vibes, and pixel-powered AI energy into a wild corner of meme culture.",
-        "url": "https://dexscreener.com/solana/88qaztnmm6qp9vjtmfqw3ac39zj5yxjzf8bc7psqpump"
       }
     ]
   },
