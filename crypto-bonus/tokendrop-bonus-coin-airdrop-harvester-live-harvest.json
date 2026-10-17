@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T08:54:45.986Z",
-  "latencyMs": 979,
+  "executedAt": "2026-10-17T08:56:26.701Z",
+  "latencyMs": 1345,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #426: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #427: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(contracts): tier-weighted interval-accrual MembershipFeeDistributor with transfer checkpoints",
+      "url": "https://github.com/SaluteDan/attr-web3-main/pull/15",
+      "createdAt": "2026-10-17T07:25:31Z"
+    },
+    {
+      "title": "perf(jit): resolve jumps through deep stacks and try/catch",
+      "url": "https://github.com/alloy-rs/evm2/pull/671",
+      "createdAt": "2026-10-16T18:24:54Z"
+    },
+    {
+      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
+      "createdAt": "2026-10-06T11:40:04Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "feat(ui): standalone World PvP rewards, economy, rankings and bounties",
+      "url": "https://github.com/Tekwan404/ElyndorMMORPG/pull/383",
+      "createdAt": "2026-10-17T08:53:28Z"
+    },
+    {
       "title": "chore(deps): update dependency lucide-react to v1.59.0",
-      "url": "https://github.com/ValthorneMC/ValthorneClient/pull/39",
-      "createdAt": "2026-08-24T14:43:29Z"
-    },
-    {
-      "title": "perf(jit): pin the context and stack pointers to registers",
-      "url": "https://github.com/alloy-rs/evm2/pull/626",
-      "createdAt": "2026-10-15T22:07:57Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1.57.0",
-      "url": "https://github.com/vemikrs/googlemap-timeline-visualizer/pull/155",
-      "createdAt": "2026-07-12T13:31:00Z"
-    },
-    {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
-    },
-    {
-      "title": "feat(contracts): oracle speed bonuses and heartbeats, soulbound badges, treasury fee split",
-      "url": "https://github.com/degenspot/BACKit-onStellar/pull/722",
-      "createdAt": "2026-10-17T08:54:00Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/ELIXIR-NO/edam-browser/pull/76",
-      "createdAt": "2026-03-23T14:45:17Z"
+      "url": "https://github.com/cubeshipd/cubeship/pull/80",
+      "createdAt": "2026-10-12T19:42:03Z"
     }
   ]
 }
