@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-17T08:01:02.145Z",
-  "latencyMs": 1398,
+  "executedAt": "2026-10-17T08:02:47.294Z",
+  "latencyMs": 673,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #418: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #419: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,19 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "[功能] 传输路径自动选择：点对点 Wi-Fi 优先、局域网次级、蓝牙兜底及 UI 提示",
+      "url": "https://github.com/GHOST-AKU/wozai/issues/23",
+      "createdAt": "2026-10-12T11:07:47Z"
+    },
+    {
       "title": "Add anytime-valid improvement auditor",
       "url": "https://github.com/scaleapi/rsi-benchmark/pull/76",
       "createdAt": "2026-10-13T03:26:58Z"
-    },
-    {
-      "title": "Performance: Claim, Assign, and Resend blast wait on the mail server",
-      "url": "https://github.com/Sparkxt-0318/SASMATTutoring/issues/36",
-      "createdAt": "2026-10-17T06:31:54Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
       "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
@@ -285,14 +280,19 @@
       "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "chore: Implementer inbox — instructions from the Orchestrator",
-      "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
-      "createdAt": "2026-10-06T01:05:54Z"
+      "title": "SEC-011: converge the workstation SSH target hardening instead of applying it by hand",
+      "url": "https://github.com/mlorentedev/dotfiles/issues/2356",
+      "createdAt": "2026-10-13T02:07:37Z"
     },
     {
-      "title": "📦 Pending promotion: dev → main",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
-      "createdAt": "2026-06-29T11:18:37Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide-react to v1.59.0",
+      "url": "https://github.com/cubeshipd/cubeship/pull/80",
+      "createdAt": "2026-10-12T19:42:03Z"
     }
   ]
 }
