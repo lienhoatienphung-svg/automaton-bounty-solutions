@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-18T06:09:02.426Z",
-  "latencyMs": 169,
+  "executedAt": "2026-10-18T06:11:00.360Z",
+  "latencyMs": 596,
   "companyName": "BountyForge GitHub & Algora Open-Source Crypto Bounty Solver",
-  "workTitle": "Growth & Sales Sprint #1180: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Askable: Software Engineer AI Codin",
-  "targetUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+  "workTitle": "Delivery Sprint #1181: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "targetUrl": "https://polymarket.com/event/will-any-country-leave-nato-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -128,8 +128,83 @@
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 5,
+    "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Askable",
+        "roleOrTask": "Software Engineer AI Coding Tasks",
+        "industryTags": [
+          "dev",
+          "python",
+          "javascript",
+          "typescript",
+          "golang"
+        ],
+        "compensation": "$10000-$10000",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Sanctuary Computer",
+        "roleOrTask": "Head of Technology",
+        "industryTags": [
+          "dev",
+          "engineer",
+          "senior",
+          "full stack",
+          "front end"
+        ],
+        "compensation": "$140000-$250000",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Self Bill Pro",
+        "roleOrTask": "Director of Product Management and IT Operations",
+        "industryTags": [
+          "product manager",
+          "exec",
+          "infosec",
+          "technical",
+          "customer support"
+        ],
+        "compensation": "$130000-$160000",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Yopeso Romania SRL",
+        "roleOrTask": "SAP RE FX Consultant",
+        "industryTags": [
+          "consulting",
+          "design",
+          "technical",
+          "customer support",
+          "dev"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Kodland",
+        "roleOrTask": "APAC Python",
+        "industryTags": [
+          "python",
+          "teaching",
+          "education",
+          "customer support",
+          "dev"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "Arbeitnow-GlobalB2B",
         "company": "Boomilp",
