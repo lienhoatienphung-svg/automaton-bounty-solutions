@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T21:13:33.912Z",
-  "latencyMs": 258,
+  "executedAt": "2026-10-18T21:30:09.967Z",
+  "latencyMs": 253,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #697: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #698: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52784333,
+    "liveBlockNumber": 52784831,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,34 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459014,
-    "baseMainnetTopPoolsVolume24hUsd": 135743,
+    "baseMainnetTopPoolsLiquidityUsd": 459012,
+    "baseMainnetTopPoolsVolume24hUsd": 137163,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6AZCEfnhaPDHghHhH4nArD3jXgdHnG54FXJPE3nApump",
+        "description": "sir",
+        "url": "https://dexscreener.com/solana/6azcefnhapdhghhhh4nard3jxgdhng54fxjpe3napump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HBa1MeHra7mBrebq3JXxPRKEMM6aeRbGtjQusuyWpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hba1mehra7mbrebq3jxxprkemm6aerbgtjqusuywpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "58EAJ5tD4YP5sBAcuTQ8AfarpnkmnH8KKimkNAiqpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/58eaj5td4yp5sbacutq8afarpnkmnh8kkimknaiqpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9gwBBjfSeuLkHbQ34ik5qY2gpDhRVhRpyTLLbFNspump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9gwbbjfseulkhbq34ik5qy2gpdhrvhrpytllbfnspump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "GwyTG9Mt8N66Rjje9PkTRne8Po8aFRhuTyBYfHdApump",
@@ -57,30 +81,6 @@
         "tokenAddress": "0x4d3ace48b1590bc4c5dd46f05237c133be564eb3",
         "description": "Private AI inference, paid per request. x402 · USDG · signed receipts · nothing stored. No API key, no account, no logs. Hardware attestation: next.",
         "url": "https://dexscreener.com/robinhood/0x4d3ace48b1590bc4c5dd46f05237c133be564eb3"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8mf8oGCjipsX56X9jp8hLqA7LoHDAm5c5kvZv1qqpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8mf8ogcjipsx56x9jp8hlqa7lohdam5c5kvzv1qqpump"
-      },
-      {
-        "chainId": "cronos",
-        "tokenAddress": "0xa27E0a188A009FCC2E6FdbF56646ff52BDc6a061",
-        "description": "Part of the FLAME coin project. Our mission is to burn down the supply of CRO, SHIBA, and other high-supply crypto coins, so that investors in these coins are a",
-        "url": "https://dexscreener.com/cronos/0xa27e0a188a009fcc2e6fdbf56646ff52bdc6a061"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3EaYnwiPnJFcujMMp4trwYLyMNYjzNXWMfqf61cxpump",
-        "description": "There is so many french avengers we need the main coin for it",
-        "url": "https://dexscreener.com/solana/3eaynwipnjfcujmmp4trwylymnyjznxwmfqf61cxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EYnMFdHmDpMhLwwe9f66tWD9UnWeG5726iAJVTxrpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/eynmfdhmdpmhlwwe9f66twd9unweg5726iajvtxrpump"
       }
     ]
   },
