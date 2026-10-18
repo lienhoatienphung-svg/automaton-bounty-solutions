@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T07:01:00.285Z",
-  "latencyMs": 527,
+  "executedAt": "2026-10-18T07:14:24.153Z",
+  "latencyMs": 403,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #597: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #598: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52758756,
+    "liveBlockNumber": 52759158,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459019,
-    "baseMainnetTopPoolsVolume24hUsd": 133031,
+    "baseMainnetTopPoolsLiquidityUsd": 459016,
+    "baseMainnetTopPoolsVolume24hUsd": 179111,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "JGRKJ7i34dbSGhx3rEQAVf2wTAqLUq2AivzNu9Mpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/jgrkj7i34dbsghx3reqavf2wtaqluq2aivznu9mpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9GMn83nihcFNfXdUr8QjbCVRHQVhiCrjM82pqBCopump",
+        "description": "Scotty and his family of barn owls have made a nest in Manhattan and he's already a celebrity. people are FLOCKING to see them and its all over tiktok\n\nFirst ti",
+        "url": "https://dexscreener.com/solana/9gmn83nihcfnfxdur8qjbcvrhqvhicrjm82pqbcopump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x17925cDf8794b49731D6706CE717B9cB855d7777",
+        "description": "Binance\n币安 Goat\n山羊 是币安生态系统未来的领先力量 \nqq：530382410",
+        "url": "https://dexscreener.com/bsc/0x17925cdf8794b49731d6706ce717b9cb855d7777"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "38Afjux8G5M5LXFHKyh6iSu3nL1Bvr5N9iygwetfpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "5D3Nafx9SV2TNd6KLmnyWi71QQTGZaGJBAqghk4Tpump",
         "description": "A fuzzy bunny friend with a little something extra.\nMeet FIJI, a pure meme with a little home of its own.🐰💙 FIJI gives the community a place to play, aim like",
         "url": "https://dexscreener.com/solana/5d3nafx9sv2tnd6klmnywi71qqtgzagjbaqghk4tpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xD4908e2c85d6Ca8D3f9427e3dd7AC2BFF2bF7831",
-        "description": "boomer cat",
-        "url": "https://dexscreener.com/robinhood/0xd4908e2c85d6ca8d3f9427e3dd7ac2bff2bf7831"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "91yebhbFBEP9XCuyAnW6GePnXC7nKrZAGn77LcgVpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/91yebhbfbep9xcuyanw6gepnxc7nkrzagn77lcgvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AEf7sfKEwkYBGY2ajVxWBtyq4qzUcdH2fCFSN8yTpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/aef7sfkewkybgy2ajvxwbtyq4qzucdh2fcfsn8ytpump"
       }
     ]
   },
