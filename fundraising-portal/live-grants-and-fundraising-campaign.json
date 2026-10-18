@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-18T08:08:01.779Z",
-  "latencyMs": 1046,
+  "executedAt": "2026-10-18T08:09:53.961Z",
+  "latencyMs": 687,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #588: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #589: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "Dependency Dashboard",
+          "url": "https://github.com/ankhorage/paradox/issues/107",
+          "repositoryUrl": "https://api.github.com/repos/ankhorage/paradox",
+          "updatedAt": "2026-10-18T08:09:49Z"
+        },
+        {
+          "title": "Drata Recommendations: (Grouped)",
+          "url": "https://github.com/ice-unit/terrafail/pull/748",
+          "repositoryUrl": "https://api.github.com/repos/ice-unit/terrafail",
+          "updatedAt": "2026-10-18T08:09:53Z"
+        },
+        {
+          "title": "bump(ansible/reconcile/roles/keycloak/defaults/main.yml): quay.io/phasetwo/phasetwo-keycloak 26.8.0.1790930320",
+          "url": "https://github.com/catenahq/catena-ce/pull/55",
+          "repositoryUrl": "https://api.github.com/repos/catenahq/catena-ce",
+          "updatedAt": "2026-10-18T08:09:48Z"
+        },
+        {
+          "title": "DRAFT: MUSITU Store V2 scoped Android package visibility and fail-closed signer checks",
+          "url": "https://github.com/evansmusitu/mft-axiom-build/pull/27",
+          "repositoryUrl": "https://api.github.com/repos/evansmusitu/mft-axiom-build",
+          "updatedAt": "2026-10-18T08:09:47Z"
+        },
+        {
+          "title": "UX release gate: explicit bilingual audit confirmation for catalog governance decisions",
+          "url": "https://github.com/Wisamit/nx7q9-vk42m-rp81t-z6core/pull/298",
+          "repositoryUrl": "https://api.github.com/repos/Wisamit/nx7q9-vk42m-rp81t-z6core",
+          "updatedAt": "2026-10-18T08:09:53Z"
+        },
+        {
+          "title": "refactor(sessions)!: give each session one controller for turns, queues, and Stop",
+          "url": "https://github.com/openclaw/openclaw/pull/175837",
+          "repositoryUrl": "https://api.github.com/repos/openclaw/openclaw",
+          "updatedAt": "2026-10-18T08:09:47Z"
+        },
+        {
+          "title": "feat(harness): полномочия и решения пользователя для фоновых процессов",
+          "url": "https://github.com/aequicor/Heartbeat/pull/472",
+          "repositoryUrl": "https://api.github.com/repos/aequicor/Heartbeat",
+          "updatedAt": "2026-10-18T08:09:47Z"
+        },
+        {
+          "title": "heartbeat: an unopened ask gets its own turn (option (c), opt-in \"ask_turn\")",
+          "url": "https://github.com/dp-web4/SAGE/pull/459",
+          "repositoryUrl": "https://api.github.com/repos/dp-web4/SAGE",
+          "updatedAt": "2026-10-18T08:09:46Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
