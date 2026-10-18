@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-18T15:18:10.701Z",
-  "latencyMs": 583,
+  "executedAt": "2026-10-18T15:20:58.975Z",
+  "latencyMs": 1182,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #640: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #641: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "fix(e2e): corrige Gate 3 — auth timing em magazine-smoke + elimina networkidle/waitForTimeout em e2e/flows/",
+          "url": "https://github.com/adm01-debug/Promo_Gifts_V4/pull/2174",
+          "repositoryUrl": "https://api.github.com/repos/adm01-debug/Promo_Gifts_V4",
+          "updatedAt": "2026-10-18T15:20:54Z"
+        },
+        {
+          "title": "feat(wit): model picker, reasoning, regenerate/edit, context meter",
+          "url": "https://github.com/godwit-email/godwit/pull/112",
+          "repositoryUrl": "https://api.github.com/repos/godwit-email/godwit",
+          "updatedAt": "2026-10-18T15:20:52Z"
+        },
+        {
+          "title": "test(api): call every route that has path parameters without them and expect a refusal",
+          "url": "https://github.com/metaneutrons/aidesk/pull/192",
+          "repositoryUrl": "https://api.github.com/repos/metaneutrons/aidesk",
+          "updatedAt": "2026-10-18T15:20:52Z"
+        },
+        {
+          "title": "Fused Activity: audit node filter, one node or all merged",
+          "url": "https://github.com/tofutools/tclaude/pull/3262",
+          "repositoryUrl": "https://api.github.com/repos/tofutools/tclaude",
+          "updatedAt": "2026-10-18T15:20:52Z"
+        },
+        {
+          "title": "Notificacions: cinc categories, pressupost de 64, detall partit en dos i botons des de l'avís",
+          "url": "https://github.com/arnautxu/vira-android/pull/8",
+          "repositoryUrl": "https://api.github.com/repos/arnautxu/vira-android",
+          "updatedAt": "2026-10-18T15:20:51Z"
+        },
+        {
+          "title": "Local Network: station permission entry, and a desktop hint when macOS keeps the app off a station's LAN",
+          "url": "https://github.com/AFK-surf/still.fail/pull/630",
+          "repositoryUrl": "https://api.github.com/repos/AFK-surf/still.fail",
+          "updatedAt": "2026-10-18T15:20:51Z"
+        },
+        {
+          "title": "ENGÜRÜ Süzgeci v2.4 — Finiş Hükmü ve DUR Sınırı",
+          "url": "https://github.com/engurulabory/Engurulaboratuvari/pull/187",
+          "repositoryUrl": "https://api.github.com/repos/engurulabory/Engurulaboratuvari",
+          "updatedAt": "2026-10-18T15:20:51Z"
+        },
+        {
+          "title": "Calendar C1–C18 — privacy-reviewed personal ICS export and safe local handoff",
+          "url": "https://github.com/thiepn/calendar/pull/1",
+          "repositoryUrl": "https://api.github.com/repos/thiepn/calendar",
+          "updatedAt": "2026-10-18T15:20:51Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
