@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T08:03:42.990Z",
-  "latencyMs": 721,
+  "executedAt": "2026-10-18T08:18:54.209Z",
+  "latencyMs": 1122,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #609: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #610: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Askable: Software Engineer AI Codin",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "bsc",
+      "tokenAddress": "0xc02B3EE1237e4bF485bE9D1dA12e815fcDa54687",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/bsc/0xc02b3ee1237e4bf485be9d1da12e815fcda54687"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "Bouncec5ivdidyfHH8GtXadgpqSrYcWUYyHWhsVEro57",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "The internet’s rally for cheaper groceries.\n\n20% of total supply locked through Streamflow until October 13, 2027.",
       "url": "https://dexscreener.com/solana/fj5rb1y94qwdmub6rvqyce7prgmd21ggwumg5bnypump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Dog In Pain",
-      "url": "https://dexscreener.com/solana/48hnr1cwtafbumjsjod6q8yduwduyyumcjzubvzvpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 834,
-      "priceBtc": 2.4920246892791357e-7
+      "marketCapRank": 865,
+      "priceBtc": 2.2963368893623466e-7
     },
     {
       "name": "Sui",
       "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.000011981315695229604
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 117,
-      "priceBtc": 7.798306041038828e-7
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 191,
-      "priceBtc": 0.0000034025483150173897
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 83,
-      "priceBtc": 0.00010469984018232396
+      "marketCapRank": 28,
+      "priceBtc": 0.000011993830678350199
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.0000608319494139758
+      "priceBtc": 0.00006075741950587716
     },
     {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 103,
-      "priceBtc": 0.000007770939593270662
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 116,
+      "priceBtc": 7.82636739695119e-7
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 191,
+      "priceBtc": 0.0000033787789147943027
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009590575795886474
+      "priceBtc": 0.0009634818072744252
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9995964687256145
+    },
+    {
+      "name": "Quack AI",
+      "symbol": "Q",
+      "marketCapRank": 101,
+      "priceBtc": 0.0000016590037137889501
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "feat: track Runika's Artifacts",
+      "url": "https://github.com/DanP1925/BfBHelper/pull/100",
+      "createdAt": "2026-10-18T08:08:17Z"
+    },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "feat: claim offline receives from encrypted funding packets",
-      "url": "https://github.com/arkade-os/delegatee/pull/5",
-      "createdAt": "2026-10-17T11:13:34Z"
+      "title": "iOS port: Darwin platform layer, iOS app, CI, tester builds",
+      "url": "https://github.com/NoahVl/Birdman64/pull/14",
+      "createdAt": "2026-10-17T19:42:48Z"
     },
     {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
+      "title": "Low-token nudge по проценту использования демо-пакета",
+      "url": "https://github.com/ChaoticMelnik/binarius/issues/123",
+      "createdAt": "2026-09-30T16:59:55Z"
+    },
+    {
+      "title": "Epic: production-like end-to-end tests on GitHub runners before going public and mainnet",
+      "url": "https://github.com/bytesbrains/copra/issues/41",
+      "createdAt": "2026-10-17T05:35:40Z"
     },
     {
       "title": "Ghost <-> Echo comms",
       "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
       "createdAt": "2026-10-16T18:46:23Z"
-    },
-    {
-      "title": "lite-arena-polish-1: CPU Arena host-compat (too_fast pending, withheld, payoutCapped), honest states, City copy (F2-F4, F7, L1-L21)",
-      "url": "https://github.com/Pak209/HolobotsMobile/pull/144",
-      "createdAt": "2026-10-18T07:58:15Z"
-    },
-    {
-      "title": "iOS port: Darwin platform layer, iOS app, CI, tester builds",
-      "url": "https://github.com/NoahVl/Birdman64/pull/14",
-      "createdAt": "2026-10-17T19:42:48Z"
     }
   ]
 }
