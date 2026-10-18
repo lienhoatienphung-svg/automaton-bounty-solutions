@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T00:33:15.365Z",
-  "latencyMs": 1042,
+  "executedAt": "2026-10-18T00:46:55.348Z",
+  "latencyMs": 700,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #553: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #554: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,66 +218,56 @@
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 121,
-      "priceBtc": 9.125325976878587e-8
+      "priceBtc": 9.116444636510706e-8
     },
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 102,
-      "priceBtc": 0.0000016454414910820263
+      "marketCapRank": 109,
+      "priceBtc": 0.0000014652688606323049
     },
     {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.001267842743466037
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00005960324666754915
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.013785177502382933
-    },
-    {
-      "name": "Canton",
-      "symbol": "CC",
-      "marketCapRank": 28,
-      "priceBtc": 0.000001263100052929039
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 89,
-      "priceBtc": 0.000038271963014798425
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 84,
-      "priceBtc": 0.00010588278782851117
+      "priceBtc": 0.013802102674935769
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9992093803285514
+      "priceBtc": 0.9999205030738569
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.0012684153562997032
+    },
+    {
+      "name": "Canton",
+      "symbol": "CC",
+      "marketCapRank": 28,
+      "priceBtc": 0.0000012638662011840526
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 84,
+      "priceBtc": 0.00010556645939959017
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
-      "createdAt": "2026-10-07T00:07:47Z"
-    },
-    {
-      "title": "Security hardening batch 1: auth gate, SSRF fix, IP trust, CORS, secrets (issue #1)",
-      "url": "https://github.com/tradelayer-wallet/tl-relayer/pull/2",
-      "createdAt": "2026-10-13T10:29:03Z"
+      "title": "V5: register source-verified D1F 01/02/04 ZIP as WORK_TEST candidate",
+      "url": "https://github.com/aapojohannespihkala-lgtm/aapopihkala-fi/pull/1362",
+      "createdAt": "2026-10-18T00:46:43Z"
     },
     {
       "title": "Security hardening batch 1: orderId binding (C1), RPC plane + resource caps (C2/H3), IP spoofing (H1), legacy proxy gating (H2), key hygiene",
@@ -285,14 +275,24 @@
       "createdAt": "2026-10-13T09:23:38Z"
     },
     {
-      "title": "Update dependency lucide-react to v1.55.0",
-      "url": "https://github.com/JohnStrunk/66-laps/pull/1009",
-      "createdAt": "2026-08-10T05:16:51Z"
+      "title": "Security hardening batch 1: auth gate, SSRF fix, IP trust, CORS, secrets (issue #1)",
+      "url": "https://github.com/tradelayer-wallet/tl-relayer/pull/2",
+      "createdAt": "2026-10-13T10:29:03Z"
     },
     {
-      "title": "fix(security): enforce strict CSP to block inline scripts and restric…",
-      "url": "https://github.com/StormSale/StormSale/pull/282",
-      "createdAt": "2026-10-16T14:40:08Z"
+      "title": "Security review fixes: DLC core, watchtower, integrations, accounting verifiers (32 commits, with tests)",
+      "url": "https://github.com/patrickdugan/UTXO-Ref/pull/8",
+      "createdAt": "2026-10-15T13:36:23Z"
+    },
+    {
+      "title": "fix(testnet): bind the gateway port before snapshot restore; replay once on restore",
+      "url": "https://github.com/zyron249/-zyronchain/pull/1046",
+      "createdAt": "2026-10-18T00:42:26Z"
+    },
+    {
+      "title": "S-0 steps 2–3: Chia peer lane replaces the coinset gateway",
+      "url": "https://github.com/Bella-Addormentata/StarStationFurlong/pull/271",
+      "createdAt": "2026-10-17T17:35:23Z"
     }
   ]
 }
