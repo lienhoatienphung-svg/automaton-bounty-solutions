@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T21:48:22.255Z",
+  "executedAt": "2026-10-18T21:50:29.526Z",
   "latencyMs": 245,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #700: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #701: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52785377,
+    "liveBlockNumber": 52785441,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459012,
-    "baseMainnetTopPoolsVolume24hUsd": 132604,
+    "baseMainnetTopPoolsVolume24hUsd": 132510,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "k9cataHXz2SXFEi6FwZbMNnoFePHy7q4SXQKNa49nSj",
+        "description": "Dogecat\n\nMuch doge. Very cat. Round.\n\n3% Dogecoin Reward Token. Deflationary. Buyback and Locks.",
+        "url": "https://dexscreener.com/solana/k9catahxz2sxfei6fwzbmnnofephy7q4sxqkna49nsj"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CmnSWF9ntwojQVej1FKQSzVcvgkVnSs7UxWbuT1Ppump",
@@ -75,12 +81,6 @@
         "tokenAddress": "3oUzvv3ftAx8b3xefMmFNgeJCgPy8Q5GMNEeRzjspump",
         "description": "These heartbreaking images from Nice are infuriating. Watching a Micromania store manager helplessly face the looting of his shop is devastating.",
         "url": "https://dexscreener.com/solana/3ouzvv3ftax8b3xefmmfngejcgpy8q5gmneerzjspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ArpPsesHXKbGeJsHdquM6acT3uNs7BChyetJjiNYpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/arppseshxkbgejshdqum6act3uns7bchyetjjinypump"
       }
     ]
   },
