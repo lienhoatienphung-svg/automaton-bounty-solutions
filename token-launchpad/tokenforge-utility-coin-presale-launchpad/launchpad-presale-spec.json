@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T08:21:13.724Z",
-  "latencyMs": 465,
+  "executedAt": "2026-10-18T08:35:16.853Z",
+  "latencyMs": 336,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #607: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #608: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52761163,
+    "liveBlockNumber": 52761584,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459018,
-    "baseMainnetTopPoolsVolume24hUsd": 171423,
+    "baseMainnetTopPoolsVolume24hUsd": 177254,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x5Ab600feFFC3494baDA1dECBF2BcF36c5fB67777",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/bsc/0x5ab600feffc3494bada1decbf2bcf36c5fb67777"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xc51DBabd8B04Cd13036d6896Fb3a2b6668ac4Ec6",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x8ac48210Be19378229F12060D499c3B0eAE5E14E",
         "description": "🦉 ONE OWL. ONE VOTE. 100% APPROVED.\n\nMeet SelfHoot ($SHOOT), the owl who submits, reviews, and approves his own ideas.\n\nThe committee has spoken. The committee",
         "url": "https://dexscreener.com/robinhood/0x8ac48210be19378229f12060d499c3b0eae5e14e"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AT2Ek9iB7eLMTYSqKfRH5PJDePb9pPgdRAwgdhFSpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/at2ek9ib7elmtysqkfrh5pjdepb9ppgdrawgdhfspump"
       }
     ]
   },
