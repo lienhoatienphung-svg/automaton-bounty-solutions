@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T02:10:35.545Z",
-  "latencyMs": 334,
+  "executedAt": "2026-10-18T02:25:23.180Z",
+  "latencyMs": 394,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #561: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #562: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52750044,
+    "liveBlockNumber": 52750487,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,39 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 196601,
+    "baseMainnetTopPoolsVolume24hUsd": 196767,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CVoPCz3qwzRiRFqaEi3jJRc4K8ZvAqhh4SVJJavgpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cvopcz3qwzrirfqaei3jjrc4k8zvaqhh4svjjavgpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "ATiPF5DfNEJ5EEsUSKXryG5G687To6r2tbDKkZM5SkYR",
+        "description": "A simpler way to trade, with 0% trading fees.",
+        "url": "https://dexscreener.com/solana/atipf5dfnej5eesuskxryg5g687to6r2tbdkkzm5skyr"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xf972815cb51f70b000a24dde0b955eb7c9b5709e",
+        "description": "KAKUDO - the risk layer for Stock Tokens on Robinhood Chain.\n\nA Stock Token is more than a balance in your wallet. Market moves, protocol activity, and other ev",
+        "url": "https://dexscreener.com/robinhood/0xf972815cb51f70b000a24dde0b955eb7c9b5709e"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CNw4CqqPz2W1wGHzFQU5LXu6QabnVf7pVxGGZ9Hjpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cnw4cqqpz2w1wghzfqu5lxu6qabnvf7pvxggz9hjpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Ed1JVjm9BBuw2mi4oaqbGhQGyCWCM9FDyGkCMkDKpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/ed1jvjm9bbuw2mi4oaqbghqgycwcm9fdygkcmkdkpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3ZAnpeVBHAvZsySNMXp4g9nYaE1jsx6khgh29VYKpump",
@@ -51,36 +81,6 @@
         "tokenAddress": "4k4pLQSYEzr85GFP7obRAB3yamRuJ8rYi3wRYB7PhmiU",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/4k4plqsyezr85gfp7obrab3yamruj8ryi3wryb7phmiu"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3ZvEeeLxo55nKRwHywyxqBpKVouRV4gARNDUCQpapump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3zveeelxo55nkrwhywyxqbpkvourv4garnducqpapump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x2d725DBea16f786701ed44C64cb7aC6911e76041",
-        "description": "TETSUO SI",
-        "url": "https://dexscreener.com/robinhood/0x2d725dbea16f786701ed44c64cb7ac6911e76041"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Gr3cKLxXjrAnKfcxgQXip5dciCM5Bi3GXfGaD7cPpump",
-        "description": "One pill. One pup. Millions of normies. 🛹💊🚀\n\n$PUMPONBOARD is the ultimate mascot combo onboarding the world to Pumpfun. Grab your board, trust the pill, and ",
-        "url": "https://dexscreener.com/solana/gr3cklxxjrankfcxgqxip5dcicm5bi3gxfgad7cppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "G2Pgndfc8DAQyiy1p6n1iNXfrVgx6ihm1szHqG9Vpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/g2pgndfc8daqyiy1p6n1inxfrvgx6ihm1szhqg9vpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AcV6CcpMGFrA1dhRFiCKNiVNje8QE6ZXR9ep9jh7pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/acv6ccpmgfra1dhrficknivnje8qe6zxr9ep9jh7pump"
       }
     ]
   },
