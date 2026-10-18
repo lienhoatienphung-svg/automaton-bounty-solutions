@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T19:24:35.108Z",
-  "latencyMs": 306,
+  "executedAt": "2026-10-18T19:40:09.687Z",
+  "latencyMs": 245,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #685: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #686: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52781063,
-    "liveGasPriceGwei": 0.006,
+    "liveBlockNumber": 52781531,
+    "liveGasPriceGwei": 0.0075,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -30,21 +30,45 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459013,
-    "baseMainnetTopPoolsVolume24hUsd": 132176,
+    "baseMainnetTopPoolsLiquidityUsd": 459014,
+    "baseMainnetTopPoolsVolume24hUsd": 133089,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "AKoEWZWMNnzEjLeWYSHdv2StYJz23qmfz52cU4SXpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/akoewzwmnnzejlewyshdv2styjz23qmfz52cu4sxpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "G3w5H4Rim4CnxMWw7PVvD8QgXHmgxwUrABGUW6EMoPjm",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/g3w5h4rim4cnxmww7pvvd8qgxhmgxwurabguw6emopjm"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2rMUA7V6xjdaqpZmv7V7oAdaxfA1rEdPJsfJDkaCpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2rmua7v6xjdaqpzmv7v7oadaxfa1redpjsfjdkacpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "8Fhsekc6mHhSVhSsMJ9hzygdGKRznKwfzomwoxrEpump",
+        "description": "They promised to make crypto great again, we just laced up our Nikes. Gump coin is trading political promises for a chocolatey dream. Launched by the fastest ru",
+        "url": "https://dexscreener.com/solana/8fhsekc6mhhsvhssmj9hzygdgkrznkwfzomwoxrepump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EQMKr5mrUxqPzCjB1s3fxy3C9KcpiVLE2sTKzanTpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/eqmkr5mruxqpzcjb1s3fxy3c9kcpivle2stkzantpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DuJQ7ZSYiAm1p9hYw4i3iUZStdxPHs3yv9zC6qH2pump",
         "description": "Implementing Monero stealth addresses on Solana to make private payments possible without changing how the network works.",
         "url": "https://dexscreener.com/solana/dujq7zsyiam1p9hyw4i3iuzstdxphs3yv9zc6qh2pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BeVKsfjY1DneVQFZsqSjvsxnBY8J9ii9Lut3NWrUpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bevksfjy1dnevqfzsqsjvsxnby8j9ii9lut3nwrupump"
       },
       {
         "chainId": "bsc",
@@ -57,30 +81,6 @@
         "tokenAddress": "8uGriK4LG71MzdVwjbVis8S4hgg5mrG45SgPgrmEpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/8ugrik4lg71mzdvwjbvis8s4hgg5mrg45sgpgrmepump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CsZhFpEa2s7TYai2kwjC3dev4S2fgYhWUCmXnmFMpump",
-        "description": "These rabbis made up a coin, this one has redirected fees to their wallet.",
-        "url": "https://dexscreener.com/solana/cszhfpea2s7tyai2kwjc3dev4s2fgyhwucmxnmfmpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6wifasxctST3jd9s6UaoVexc2pvYqTcLWZEAjCTJ51wW",
-        "description": "Launch a token. Fund a cause. Build a business. Charity, science & startups on Solana. No official token.",
-        "url": "https://dexscreener.com/solana/6wifasxctst3jd9s6uaovexc2pvyqtclwzeajctj51ww"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ByQ4cTwVyrZtzb7aFKW8QXPBMXdCWx6UdVMshLZipump",
-        "description": "Official Token of the French Deadpool. 100% of the fees to him",
-        "url": "https://dexscreener.com/solana/byq4ctwvyrztzb7afkw8qxpbmxdcwx6udvmshlzipump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "vQbyKLNRaHZM8uxAxP4mLmGRsfdcFQpB84yzQHgpump",
-        "description": "An autonomous agent that helps other agents build companies.",
-        "url": "https://dexscreener.com/solana/vqbyklnrahzm8uxaxp4mlmgrsfdcfqpb84yzqhgpump"
       }
     ]
   },
