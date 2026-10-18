@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-18T01:26:03.589Z",
-  "latencyMs": 651,
+  "executedAt": "2026-10-18T01:28:20.878Z",
+  "latencyMs": 783,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #538: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #539: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "test(featured): execute create/edit parent-admission failure contracts",
+          "url": "https://github.com/TogetherWeOwn/two-web-next/pull/1008",
+          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/two-web-next",
+          "updatedAt": "2026-10-18T01:28:16Z"
+        },
+        {
+          "title": "fix(OMN-20232): the principal issuer deploy definition serves with --overlay and mounts the overlay file",
+          "url": "https://github.com/OmniNode-ai/omnibase_infra/pull/5080",
+          "repositoryUrl": "https://api.github.com/repos/OmniNode-ai/omnibase_infra",
+          "updatedAt": "2026-10-18T01:28:15Z"
+        },
+        {
+          "title": "feat(mcp): delegate MCP server ownership to team owners and admins",
+          "url": "https://github.com/ahstn/oceans-llm/pull/527",
+          "repositoryUrl": "https://api.github.com/repos/ahstn/oceans-llm",
+          "updatedAt": "2026-10-18T01:28:16Z"
+        },
+        {
+          "title": "node:http2: let a client close a pushed stream",
+          "url": "https://github.com/oven-sh/bun/pull/43534",
+          "repositoryUrl": "https://api.github.com/repos/oven-sh/bun",
+          "updatedAt": "2026-10-18T01:28:14Z"
+        },
+        {
+          "title": "Prepare private testing builds and sanitized copies before adoption",
+          "url": "https://github.com/cbusillo/launchplane/pull/3978",
+          "repositoryUrl": "https://api.github.com/repos/cbusillo/launchplane",
+          "updatedAt": "2026-10-18T01:28:13Z"
+        },
+        {
+          "title": "feat(flame-hub): track hub 0.18.0 and authup chart 0.5.1 (beta.69)",
+          "url": "https://github.com/PrivateAIM/helm/pull/207",
+          "repositoryUrl": "https://api.github.com/repos/PrivateAIM/helm",
+          "updatedAt": "2026-10-18T01:28:13Z"
+        },
+        {
+          "title": "feat: stage governed manual Person creation",
+          "url": "https://github.com/bsbtur/cobs-os-core/pull/510",
+          "repositoryUrl": "https://api.github.com/repos/bsbtur/cobs-os-core",
+          "updatedAt": "2026-10-18T01:28:18Z"
+        },
+        {
+          "title": "ci: pin actions to commit SHAs and set explicit workflow permissions",
+          "url": "https://github.com/maitrios/maitri-scribe/pull/1",
+          "repositoryUrl": "https://api.github.com/repos/maitrios/maitri-scribe",
+          "updatedAt": "2026-10-18T01:28:12Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
