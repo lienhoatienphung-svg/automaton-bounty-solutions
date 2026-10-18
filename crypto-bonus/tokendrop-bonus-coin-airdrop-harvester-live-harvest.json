@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T00:31:29.500Z",
-  "latencyMs": 822,
+  "executedAt": "2026-10-18T00:33:15.365Z",
+  "latencyMs": 1042,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #552: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #553: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,19 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
       "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
       "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
       "createdAt": "2026-10-07T00:07:47Z"
     },
     {
-      "title": "Daily Shorts Pipeline — Reports",
-      "url": "https://github.com/caleblschulte0-ux/Shorts-pipeline/issues/1",
-      "createdAt": "2026-05-28T21:54:45Z"
+      "title": "Security hardening batch 1: auth gate, SSRF fix, IP trust, CORS, secrets (issue #1)",
+      "url": "https://github.com/tradelayer-wallet/tl-relayer/pull/2",
+      "createdAt": "2026-10-13T10:29:03Z"
     },
     {
-      "title": "Bump the npm_and_yarn group across 86 directories with 2 updates",
-      "url": "https://github.com/matams/eattheblocks/pull/37",
-      "createdAt": "2026-10-18T00:30:28Z"
+      "title": "Security hardening batch 1: orderId binding (C1), RPC plane + resource caps (C2/H3), IP spoofing (H1), legacy proxy gating (H2), key hygiene",
+      "url": "https://github.com/tradelayer-wallet/tl-collator/pull/2",
+      "createdAt": "2026-10-13T09:23:38Z"
     },
     {
       "title": "Update dependency lucide-react to v1.55.0",
@@ -285,14 +290,9 @@
       "createdAt": "2026-08-10T05:16:51Z"
     },
     {
-      "title": "A radio backend for Intel MacBooks with the BCM4360 — would you link it like omdrop-owl?",
-      "url": "https://github.com/netmojo-systems/omdrop-plugin/issues/48",
-      "createdAt": "2026-10-12T03:31:25Z"
-    },
-    {
-      "title": "[model,test,docs] feat: add FLUX.3 adapter",
-      "url": "https://github.com/X-GenGroup/Flow-Factory/pull/247",
-      "createdAt": "2026-10-16T00:24:28Z"
+      "title": "fix(security): enforce strict CSP to block inline scripts and restric…",
+      "url": "https://github.com/StormSale/StormSale/pull/282",
+      "createdAt": "2026-10-16T14:40:08Z"
     }
   ]
 }
