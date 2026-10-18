@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T19:22:23.321Z",
-  "latencyMs": 407,
+  "executedAt": "2026-10-18T19:24:35.108Z",
+  "latencyMs": 306,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #684: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #685: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52780998,
+    "liveBlockNumber": 52781063,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459013,
-    "baseMainnetTopPoolsVolume24hUsd": 132154,
+    "baseMainnetTopPoolsVolume24hUsd": 132176,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DuJQ7ZSYiAm1p9hYw4i3iUZStdxPHs3yv9zC6qH2pump",
+        "description": "Implementing Monero stealth addresses on Solana to make private payments possible without changing how the network works.",
+        "url": "https://dexscreener.com/solana/dujq7zsyiam1p9hyw4i3iuzstdxphs3yv9zc6qh2pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BeVKsfjY1DneVQFZsqSjvsxnBY8J9ii9Lut3NWrUpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "vQbyKLNRaHZM8uxAxP4mLmGRsfdcFQpB84yzQHgpump",
         "description": "An autonomous agent that helps other agents build companies.",
         "url": "https://dexscreener.com/solana/vqbyklnrahzm8uxaxp4mlmgrsfdcfqpb84yzqhgpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HEiHY8kSj1rmfhgipSSKWFmvv58k2mDerKtrCC95Fass",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/heihy8ksj1rmfhgipsskwfmvv58k2mderktrcc95fass"
       }
     ]
   },
