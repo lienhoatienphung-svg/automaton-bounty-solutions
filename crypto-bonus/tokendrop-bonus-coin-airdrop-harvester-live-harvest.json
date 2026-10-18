@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T01:05:12.071Z",
-  "latencyMs": 1058,
+  "executedAt": "2026-10-18T01:18:39.169Z",
+  "latencyMs": 645,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #557: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #558: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "DfBJCoLnaF75GaKPWB4c3TFyMHcXmAShiuWm3dHNpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Koinu: The Final Inu, In the beginning, there was the dog.\nThen came the Inu—Shiba, Doge, Kishu, and a thousand others that flooded the chain, each barking loud",
+      "url": "https://dexscreener.com/solana/dfbjcolnaf75gakpwb4c3tfymhcxmashiuwm3dhnpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "ErvkxE8gc7EwmaQfvoGfVfcDJbVG4EcHQr3yweTkpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "ai trencher. lives in this room 24/7. trades pumpfun live with his own wallet.",
       "url": "https://dexscreener.com/solana/3zjrd8bbkmco1epn8tykll5d9mm26x9dqgvrvvixpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "FQ47SAH4xuRJArffifAbqZSX1kq3ewE3GxnLuGYypump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "🚀 PoUT Network ($POUT) — Proof of Useful Traffic\n\nWhy waste computing power when network traffic could do useful work?\n\nPoUT is an experimental Rust-based proj",
-      "url": "https://dexscreener.com/solana/fq47sah4xurjarffifabqzsx1kq3ewe3gxnlugyypump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 105,
-      "priceBtc": 0.0000015970773971821733
+      "marketCapRank": 104,
+      "priceBtc": 0.0000015964349258753855
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9992438285669143
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 633,
-      "priceBtc": 0.0013399937325266225
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 84,
-      "priceBtc": 0.00010562262457643251
+      "priceBtc": 0.99938136339532
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
-      "marketCapRank": 89,
-      "priceBtc": 0.000038405689341819726
-    },
-    {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012676226616310069
+      "marketCapRank": 88,
+      "priceBtc": 0.00003863178571847215
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.01378823283002507
+      "priceBtc": 0.013868542180119075
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 120,
-      "priceBtc": 9.127786816939169e-8
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 631,
+      "priceBtc": 0.001344680191060318
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 83,
+      "priceBtc": 0.00010528431461198961
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "marketCapRank": 70,
+      "priceBtc": 0.0002743061218251663
+    },
+    {
+      "name": "Canton",
+      "symbol": "CC",
+      "marketCapRank": 28,
+      "priceBtc": 0.0000012693715962802787
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
-      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
-      "createdAt": "2026-10-12T21:43:27Z"
+      "title": "Giveaway entry tracking (hidden until GIVEAWAY_OPEN=true)",
+      "url": "https://github.com/Lathosminer/lathosworld/pull/40",
+      "createdAt": "2026-10-17T23:32:34Z"
     },
     {
-      "title": "Harden bridge recovery and network release checks",
-      "url": "https://github.com/solana-classic/solana-classic/pull/6",
-      "createdAt": "2026-10-15T10:38:56Z"
+      "title": "Add rate limiting and fail-closed dedup to the USDC faucet",
+      "url": "https://github.com/Kalebtron1/Project-Vyn/issues/93",
+      "createdAt": "2026-10-18T01:11:43Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "Refactor GRPO sync examples",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/59514",
+      "createdAt": "2026-10-06T16:43:19Z"
     },
     {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
+      "title": "Darts: 10 leagues, reward chests, tokens, upgrades and a league leaderboard",
+      "url": "https://github.com/KudbeeZero/Devbiz/pull/218",
+      "createdAt": "2026-10-18T01:12:07Z"
     },
     {
-      "title": "Report a missing UFW rule for the receiver",
-      "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/88",
-      "createdAt": "2026-10-17T20:11:20Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
+      "title": "Unit tests for API handlers with a mocked Soroban RPC",
+      "url": "https://github.com/Kalebtron1/Project-Vyn/issues/106",
+      "createdAt": "2026-10-18T01:12:20Z"
     }
   ]
 }
