@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-18T02:33:45.455Z",
-  "latencyMs": 609,
+  "executedAt": "2026-10-18T02:47:39.333Z",
+  "latencyMs": 696,
   "companyName": "RelayGrid Nostr NIP-90 Decentralized P2P Data Vending Machine Desk",
-  "workTitle": "Delivery Sprint #1023: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
-  "targetUrl": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
+  "workTitle": "Growth & Sales Sprint #1024: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "targetUrl": "https://polymarket.com/event/natoeu-troops-fighting-in-ukraine-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2178578,
-        "liquidityUsd": 91068,
+        "liquidityUsd": 92297,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059853,
-        "liquidityUsd": 894,
+        "liquidityUsd": 911,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 19183,
+        "liquidityUsd": 19575,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00005,
+        "priceUsd": 1.000052,
         "liquidityUsd": 21385,
-        "volume24hUsd": 63342,
+        "volume24hUsd": 63372,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -207,6 +207,18 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
+        "company": "OBJECTS Manufacturing",
+        "roleOrTask": "Finance & Administration Manager (m/w/d)",
+        "industryTags": [
+          "Management",
+          "Team Leader"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/objects-manufacturing/finance-administration-manager-berlin-114920",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
         "company": "Wayve",
         "roleOrTask": "Customer Integration Engineer",
         "industryTags": [
@@ -247,17 +259,6 @@
         ],
         "compensation": "Instant Milestone USDC / Wire",
         "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/wayve/cyber-security-engineer-leonberg-germany-340899",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Wayve",
-        "roleOrTask": "Control Engineer",
-        "industryTags": [
-          "Product & Delivery"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/wayve/control-engineer-leonberg-germany-102344",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
