@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-18T07:53:48.907Z",
-  "latencyMs": 761,
+  "executedAt": "2026-10-18T08:08:01.779Z",
+  "latencyMs": 1046,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #587: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #588: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "feat(console-kit): [HIMMEL-5233] grant-round refuses a 4th round without an operator ruling or an automatic condition",
-          "url": "https://github.com/yotamleo/Himmel/pull/3045",
-          "repositoryUrl": "https://api.github.com/repos/yotamleo/Himmel",
-          "updatedAt": "2026-10-18T07:53:44Z"
-        },
-        {
-          "title": "fix(release): bind rollback inputs to a provenance receipt",
-          "url": "https://github.com/TogetherWeOwn/two-bot-next/pull/1072",
-          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/two-bot-next",
-          "updatedAt": "2026-10-18T07:53:44Z"
-        },
-        {
-          "title": "R1-SEC-A: verified external identity and rights grants, Google Drive byte-pin read port, runner ingress HOLD",
-          "url": "https://github.com/gitzhangcd/NutriExtract/pull/6",
-          "repositoryUrl": "https://api.github.com/repos/gitzhangcd/NutriExtract",
-          "updatedAt": "2026-10-18T07:53:43Z"
-        },
-        {
-          "title": "Agency Commerce V5 parity: Gmail checkout, bill upload, course management and V5 course licenses (G-6 live)",
-          "url": "https://github.com/thienha336501903-a11y/yeunauan-lms-clone/pull/225",
-          "repositoryUrl": "https://api.github.com/repos/thienha336501903-a11y/yeunauan-lms-clone",
-          "updatedAt": "2026-10-18T07:53:42Z"
-        },
-        {
-          "title": "perf(db): skip redundant derived broadcast visibility scan",
-          "url": "https://github.com/sss97133/nuke/pull/1980",
-          "repositoryUrl": "https://api.github.com/repos/sss97133/nuke",
-          "updatedAt": "2026-10-18T07:53:42Z"
-        },
-        {
-          "title": "docs(federation): naming and channel-contract design, JEP-0004/0005 drafts (lane F)",
-          "url": "https://github.com/jig-protocol/jig/pull/106",
-          "repositoryUrl": "https://api.github.com/repos/jig-protocol/jig",
-          "updatedAt": "2026-10-18T07:53:42Z"
-        },
-        {
-          "title": "KAIOS Employment Application — 澄序 → 衡曜 GM / formal interview requested",
-          "url": "https://github.com/klineodyssey/kline-odyssey/issues/491",
-          "repositoryUrl": "https://api.github.com/repos/klineodyssey/kline-odyssey",
-          "updatedAt": "2026-10-18T07:53:42Z"
-        },
-        {
-          "title": "stewardship: email Ministry leaders that they can sign in, by hand (#1592)",
-          "url": "https://github.com/epiphany40223/parishkit/pull/1631",
-          "repositoryUrl": "https://api.github.com/repos/epiphany40223/parishkit",
-          "updatedAt": "2026-10-18T07:53:41Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
