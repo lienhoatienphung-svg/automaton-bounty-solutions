@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T15:31:13.102Z",
-  "latencyMs": 726,
+  "executedAt": "2026-10-18T15:46:55.037Z",
+  "latencyMs": 728,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #663: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #664: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "GoLdZWYNg9jg4z5SGCLJx69xag2vMjLaSQK5S7TUGoLd",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "The first Gold token paired to real Gold. \n\nTrade-> Receive high gold rewards.\n\nCA= Gold....Gold too.",
+      "url": "https://dexscreener.com/solana/goldzwyng9jg4z5sgcljx69xag2vmjlasqk5s7tugold"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "There are insane riots happening on the streets of Albania. Protesters clashed with police in Tirana, demanding Albanian Prime Minister Edi Rama's resignation o",
       "url": "https://dexscreener.com/solana/61dmlhgvgikutnphnxcureaww5htb4wlrhbgypukpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "Cuh49xJnxa35diNNt48D6p2weiMHPdN61c7LhxBpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/cuh49xjnxa35dinnt48d6p2weimhpdn61c7lhxbpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,57 +217,57 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 893,
-      "priceBtc": 2.3576739304253298e-7
+      "marketCapRank": 791,
+      "priceBtc": 2.64477370549361e-7
     },
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 773,
-      "priceBtc": 2.8530989564378373e-7
+      "marketCapRank": 783,
+      "priceBtc": 2.6981256306122517e-7
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
-      "marketCapRank": 843,
-      "priceBtc": 2.415871713230028e-7
+      "marketCapRank": 845,
+      "priceBtc": 2.3800893206031998e-7
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 632,
-      "priceBtc": 0.0013057841453022053
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 92,
+      "priceBtc": 0.000024163341588036708
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9991242899183937
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 93,
-      "priceBtc": 0.000024073839306280093
+      "priceBtc": 0.9984521208567284
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.0000580686170815567
+      "priceBtc": 0.000058205449494627265
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 633,
+      "priceBtc": 0.0012989839078271037
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "marketCapRank": 120,
-      "priceBtc": 9.008727139859459e-8
+      "marketCapRank": 121,
+      "priceBtc": 8.947341237926453e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "v2.0.1: correções da revisão independente de segurança",
-      "url": "https://github.com/quantarsite/quantar-testnet/pull/9",
-      "createdAt": "2026-10-18T15:08:44Z"
+      "title": "Share, export and merge several documents (#10, part 2)",
+      "url": "https://github.com/pklnx/document-archive/pull/75",
+      "createdAt": "2026-10-18T15:46:36Z"
     },
     {
       "title": "fix: harden Yandex IAP receipt recovery and complete SKU catalog",
@@ -275,24 +275,24 @@
       "createdAt": "2026-10-18T15:21:24Z"
     },
     {
-      "title": "build(deps): bump lucide-react from 0.563.0 to 1.49.0",
-      "url": "https://github.com/3270io/3270io/pull/42",
-      "createdAt": "2026-10-05T08:24:55Z"
+      "title": "rpcServer() honours the validation switches; airdrops to existing accounts are refused",
+      "url": "https://github.com/albgp22/liteSoroban/pull/3",
+      "createdAt": "2026-10-18T15:45:32Z"
     },
     {
-      "title": "fix(board): mandater fra en afsluttet saeson skygger ikke for det aktuelle mandat (#6773)",
-      "url": "https://github.com/NicolaiDolmer/CyclingZone/pull/6780",
-      "createdAt": "2026-10-17T10:53:23Z"
+      "title": "feat(cli): skn task show <id>",
+      "url": "https://github.com/soroban-tooling/soroban-keeper-network/issues/696",
+      "createdAt": "2026-10-15T08:37:09Z"
     },
     {
-      "title": "Mac testing plan (Apple N1, macOS 27)",
-      "url": "https://github.com/mstampfli/openulla/issues/3",
-      "createdAt": "2026-10-18T13:17:14Z"
+      "title": "chore(deps): bump the web-minor-patch group across 1 directory with 13 updates",
+      "url": "https://github.com/hrishikeshdkakkad/fluidbox/pull/216",
+      "createdAt": "2026-10-04T15:47:58Z"
     },
     {
-      "title": "On-policy joint-choice Non-Combat improvement under frozen potion-enabled Search",
-      "url": "https://github.com/lsmfttb/spire-research/issues/60",
-      "createdAt": "2026-10-16T04:02:07Z"
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
+      "createdAt": "2026-10-17T18:26:37Z"
     }
   ]
 }
