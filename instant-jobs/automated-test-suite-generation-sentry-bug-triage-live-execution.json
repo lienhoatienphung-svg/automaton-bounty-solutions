@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-18T13:18:36.001Z",
-  "latencyMs": 1642,
+  "executedAt": "2026-10-18T13:28:39.303Z",
+  "latencyMs": 1066,
   "companyName": "Automated Test Suite Generation & Sentry Bug Triage",
-  "workTitle": "Growth & Sales Sprint #1314: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
-  "targetUrl": "https://polymarket.com/event/natoeu-troops-fighting-in-ukraine-in-2025",
+  "workTitle": "Growth & Sales Sprint #1316: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656621,
-        "liquidityUsd": 35853,
+        "liquidityUsd": 35790,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -26,8 +26,8 @@
       {
         "eventId": "18576",
         "title": "Ukraine election held by...?",
-        "volumeUsd": 2501800,
-        "liquidityUsd": 18333,
+        "volumeUsd": 2501815,
+        "liquidityUsd": 18334,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2196598,
-        "liquidityUsd": 72147,
+        "liquidityUsd": 73984,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 19090,
+        "liquidityUsd": 19000,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -70,10 +70,20 @@
         "dexId": "quickswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000035,
+        "priceUsd": 1.000034,
         "liquidityUsd": 103133,
-        "volume24hUsd": 51985,
+        "volume24hUsd": 51072,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
+      },
+      {
+        "pairAddress": "0x0E635F8EeED4F7279d56692D552F034ECE136019",
+        "dexId": "alien-base",
+        "baseSymbol": "USDC",
+        "quoteSymbol": "USDbC",
+        "priceUsd": 1.000091,
+        "liquidityUsd": 127638,
+        "volume24hUsd": 1615,
+        "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
       },
       {
         "pairAddress": "0x98c7A2338336d2d354663246F64676009c7bDa97",
@@ -86,23 +96,13 @@
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
-        "pairAddress": "0x0E635F8EeED4F7279d56692D552F034ECE136019",
-        "dexId": "alien-base",
-        "baseSymbol": "USDC",
-        "quoteSymbol": "USDbC",
-        "priceUsd": 1.000091,
-        "liquidityUsd": 127638,
-        "volume24hUsd": 1612,
-        "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
-      },
-      {
         "pairAddress": "0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4",
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000028,
+        "priceUsd": 1.000025,
         "liquidityUsd": 21384,
-        "volume24hUsd": 83779,
+        "volume24hUsd": 83376,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -122,7 +122,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00007,
         "liquidityUsd": 12034,
-        "volume24hUsd": 971,
+        "volume24hUsd": 990,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
