@@ -1,7 +1,7 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T07:59:46.069Z",
-  "latencyMs": 955,
+  "executedAt": "2026-10-18T08:01:20.239Z",
+  "latencyMs": 1313,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
   "workTitle": "Growth & Sales Sprint #608: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "Bouncec5ivdidyfHH8GtXadgpqSrYcWUYyHWhsVEro57",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "The French revolution begins with the Bounce Cat\n\nBouncing to millions",
+      "url": "https://dexscreener.com/solana/bouncec5ivdidyfhh8gtxadgpqsrycwuyyhwhsvero57"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "4RFbdndphrM31jipKxopRmE7DCsLBEscf3kMEoBYpump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Dog In Pain",
       "url": "https://dexscreener.com/solana/48hnr1cwtafbumjsjod6q8yduwduyyumcjzubvzvpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3t4BsgLNAQ1bHbP7CEFtvZeDrWMYJtuvC3Ucter7pump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/3t4bsglnaq1bhbp7ceftvzedrwmyjtuvc3ucter7pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,14 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
+      "title": "feat: claim offline receives from encrypted funding packets",
+      "url": "https://github.com/arkade-os/delegatee/pull/5",
+      "createdAt": "2026-10-17T11:13:34Z"
     },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "Ghost <-> Echo comms",
+      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
+      "createdAt": "2026-10-16T18:46:23Z"
     },
     {
       "title": "lite-arena-polish-1: CPU Arena host-compat (too_fast pending, withheld, payoutCapped), honest states, City copy (F2-F4, F7, L1-L21)",
@@ -288,11 +293,6 @@
       "title": "fix: Guardian swaps and faucet lookups parse account ids through the canonical helpers",
       "url": "https://github.com/0xMiden/wallet/pull/1544",
       "createdAt": "2026-10-18T07:25:51Z"
-    },
-    {
-      "title": "Batch transfer entry point",
-      "url": "https://github.com/ada-nwali/AutoMint/issues/354",
-      "createdAt": "2026-08-24T19:01:45Z"
     }
   ]
 }
