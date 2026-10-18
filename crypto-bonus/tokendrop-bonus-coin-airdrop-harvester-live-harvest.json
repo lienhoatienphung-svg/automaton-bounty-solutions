@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T05:54:04.432Z",
-  "latencyMs": 633,
+  "executedAt": "2026-10-18T06:07:29.439Z",
+  "latencyMs": 684,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #593: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #594: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "Fj5rB1Y94QwDmuB6RVQYCe7prGmD21GgWuMg5BNYpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "The internet’s rally for cheaper groceries.\n\n20% of total supply locked through Streamflow until October 13, 2027.",
+      "url": "https://dexscreener.com/solana/fj5rb1y94qwdmub6rvqyce7prgmd21ggwumg5bnypump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -191,7 +199,7 @@
       "chainId": "solana",
       "tokenAddress": "HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump",
       "boostAmount": 10,
-      "totalBoostAmount": 20,
+      "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/hkzdfznkhzxd9agrdnpydv4it6lmaurjnprtj9wpump"
     },
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "No subscription. Just your AI influencer.",
       "url": "https://dexscreener.com/robinhood/0xb656eadd009b3b409d7a0971e50df2f0e4ddef5a"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
-      "boostAmount": 10,
-      "totalBoostAmount": 20,
-      "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
-      "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 932,
-      "priceBtc": 2.0117369245621578e-7
+      "marketCapRank": 919,
+      "priceBtc": 2.105296586510237e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 98,
-      "priceBtc": 0.00002315399541591629
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00006028446687360609
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 185,
-      "priceBtc": 0.0000034948395367406704
+      "marketCapRank": 96,
+      "priceBtc": 0.000023281111575026947
     },
     {
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 103,
-      "priceBtc": 0.0000015972620378511431
+      "priceBtc": 0.0000015858400196154092
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 629,
-      "priceBtc": 0.0013369918593350665
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.000060299507255360965
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 184,
+      "priceBtc": 0.0000034956111737267477
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 40,
+      "priceBtc": 0.0023716949901616494
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 30,
-      "priceBtc": 0.000011887143631789564
+      "priceBtc": 0.00001190176236047021
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009596748751919496
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 632,
+      "priceBtc": 0.0013265587260298936
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore(release): prepare v0.4.0",
-      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/387",
-      "createdAt": "2026-10-16T14:07:15Z"
+      "title": "【No.3】feat(inference): Unified Inference Service",
+      "url": "https://github.com/redai-studio/Relax/pull/381",
+      "createdAt": "2026-09-26T10:27:20Z"
     },
     {
-      "title": "fix(server): preserve payment order for dependent sends",
-      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/392",
-      "createdAt": "2026-10-16T21:33:20Z"
+      "title": "Add email classifier module (SetFit + rule fallback)",
+      "url": "https://github.com/asyaafv/DubHacks26/pull/9",
+      "createdAt": "2026-10-18T06:06:56Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "Ghost <-> Echo comms",
+      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
+      "createdAt": "2026-10-16T18:46:23Z"
     },
     {
-      "title": "On-policy joint-choice Non-Combat improvement under frozen potion-enabled Search",
-      "url": "https://github.com/lsmfttb/spire-research/issues/60",
-      "createdAt": "2026-10-16T04:02:07Z"
+      "title": "Protected Finish STOP: review War Satchel function-replacement migration before production",
+      "url": "https://github.com/Emaren/app-prodn/issues/634",
+      "createdAt": "2026-10-16T22:20:02Z"
     },
     {
-      "title": "feat(rewards): promo credit from game and ads, game shop (behind flag)",
-      "url": "https://github.com/Stanektechcz/onhostik/pull/248",
-      "createdAt": "2026-10-18T01:20:54Z"
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
     },
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/BoomchainLabs/agunnaya-protocol/pull/11",
-      "createdAt": "2026-03-23T18:18:05Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     }
   ]
 }
