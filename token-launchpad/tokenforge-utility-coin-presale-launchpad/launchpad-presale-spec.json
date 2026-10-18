@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T18:14:35.989Z",
-  "latencyMs": 316,
+  "executedAt": "2026-10-18T18:29:41.654Z",
+  "latencyMs": 245,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #677: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #678: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52778964,
+    "liveBlockNumber": 52779417,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,34 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 458998,
-    "baseMainnetTopPoolsVolume24hUsd": 136636,
+    "baseMainnetTopPoolsLiquidityUsd": 458999,
+    "baseMainnetTopPoolsVolume24hUsd": 136730,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0xC5f10a8997032aD9A4a07a9Bb53721a2DDa416df",
+        "description": "Particle Sync ($SYNC) is an experimental on-chain social protocol built on Ethereum using Uniswap v4.\n\nEvery holder becomes a particle in a living network, auto",
+        "url": "https://dexscreener.com/ethereum/0xc5f10a8997032ad9a4a07a9bb53721a2dda416df"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "8kERJT2KGWpiWEzgXvbHZh99x8b9drH17hZHqFwnpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8kerjt2kgwpiwezgxvbhzh99x8b9drh17hzhqfwnpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BP1fkkJmhZhkJdHnDdVgJyh4supDMhBUYFhgvDrMZVK1",
+        "description": "Wall Street’s 0DTE, now on Solana. A $5 Tesla call that dies at the bell.",
+        "url": "https://dexscreener.com/solana/bp1fkkjmhzhkjdhnddvgjyh4supdmhbuyfhgvdrmzvk1"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FkrjcSruYAzTu4JKGVwxv8xtNzfux45fGbHuhfdgpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fkrjcsruyaztu4jkgvwxv8xtnzfux45fgbhuhfdgpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3UVkjsDC6Tu1udSucF8YotiT1DXi9jWYTokwYB22pump",
@@ -57,30 +81,6 @@
         "tokenAddress": "AHK1P9qNCujgmNp2JxRk5Q71AvJhzJPnFf2TWTkppump",
         "description": "$SOLFISH is an underwater aquarium game. Raise fish, grow your reef and earn $SOLFISH as you play.",
         "url": "https://dexscreener.com/solana/ahk1p9qncujgmnp2jxrk5q71avjhzjpnff2twtkppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DEqpFfcgDoEbe5MPvx8ZDy48Jr4vxUa8CTGUPQHfpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/deqpffcgdoebe5mpvx8zdy48jr4vxua8ctgupqhfpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "A42xDiBpBYoT1mQ839Achw3MMUqd1DqrEtWPLodcpump",
-        "description": "DacityCoin, no space.",
-        "url": "https://dexscreener.com/solana/a42xdibpbyot1mq839achw3mmuqd1dqretwplodcpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Ajfxb252JLT5NPrT2A2eu7obDH2mzsQkMrsjzuBupump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ajfxb252jlt5nprt2a2eu7obdh2mzsqkmrsjzubupump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "MsgP58D4ykNSDzDVSyQVwfuZdWVPhVMSjLHAvKWpump",
-        "description": "Imanuel Catron brings sharp suits, sharper claws, and presidential sass to meme culture. $catron leads the feline republic, one meow at a time.",
-        "url": "https://dexscreener.com/solana/msgp58d4yknsdzdvsyqvwfuzdwvphvmsjlhavkwpump"
       }
     ]
   },
