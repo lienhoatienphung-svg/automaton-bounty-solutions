@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T07:45:09.656Z",
-  "latencyMs": 814,
+  "executedAt": "2026-10-18T07:59:46.069Z",
+  "latencyMs": 955,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #607: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #608: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "4RFbdndphrM31jipKxopRmE7DCsLBEscf3kMEoBYpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Your own trading squad. Five little pips that hunt, copy, snipe and guard for you. $PIPS",
+      "url": "https://dexscreener.com/solana/4rfbdndphrm31jipkxoprme7dcslbescf3kmeobypump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "7iYM9cjpKKNyLvJfq4pYyjubk83dnqxtPDrRdf77pump",
       "boostAmount": 10,
       "totalBoostAmount": 110,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/3t4bsglnaq1bhbp7ceftvzedrwmyjtuvc3ucter7pump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xfEBe60953C71AbA4cDc3F8889020C7752769Ac29",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "$REDACTED is a classified meme asset built on Sazare and deployed on Robinhood Chain. It features a fixed supply of 1 billion tokens, WETH-denominated floor bac",
-      "url": "https://dexscreener.com/robinhood/0xfebe60953c71aba4cdc3f8889020c7752769ac29"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 804,
-      "priceBtc": 2.578117779317421e-7
+      "marketCapRank": 814,
+      "priceBtc": 2.527735346613545e-7
     },
     {
       "name": "Sui",
       "symbol": "SUI",
-      "marketCapRank": 30,
-      "priceBtc": 0.000011945272733357032
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 191,
-      "priceBtc": 0.000003418081659580308
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00006051560094651404
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 118,
-      "priceBtc": 7.647860078215036e-7
+      "marketCapRank": 29,
+      "priceBtc": 0.000011968121436709285
     },
     {
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 103,
-      "priceBtc": 0.0000015872733161222118
+      "priceBtc": 0.0000015973966345108524
     },
     {
-      "name": "Chainlink",
-      "symbol": "LINK",
-      "marketCapRank": 16,
-      "priceBtc": 0.0001466999729068966
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 191,
+      "priceBtc": 0.00000340237648582891
     },
     {
-      "name": "STONK",
-      "symbol": "STONK",
-      "marketCapRank": 322,
-      "priceBtc": 0.0000012274053179970692
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 116,
+      "priceBtc": 7.801482714809997e-7
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00006061997887562948
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 83,
+      "priceBtc": 0.00010443197959360147
+    },
+    {
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "marketCapRank": 51,
+      "priceBtc": 0.000013507512001107194
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "world rewards V5: a kill_report 409 tells paid (with the stored receipt), expired and unknown apart",
-      "url": "https://github.com/DomLynch/RPG-game/pull/3160",
-      "createdAt": "2026-10-18T07:22:13Z"
+      "title": "Ghost <-> Echo comms",
+      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
+      "createdAt": "2026-10-16T18:46:23Z"
     },
     {
-      "title": "perf(jit): cheaper fall-through sections",
-      "url": "https://github.com/alloy-rs/evm2/pull/636",
-      "createdAt": "2026-10-15T23:51:24Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "feat(soroban): Implement reward token vesting schedule for large prizes",
-      "url": "https://github.com/kike-alt/DeWordle/issues/1476",
-      "createdAt": "2026-10-15T17:20:14Z"
+      "title": "lite-arena-polish-1: CPU Arena host-compat (too_fast pending, withheld, payoutCapped), honest states, City copy (F2-F4, F7, L1-L21)",
+      "url": "https://github.com/Pak209/HolobotsMobile/pull/144",
+      "createdAt": "2026-10-18T07:58:15Z"
     },
     {
-      "title": "chore: Implementer inbox — instructions from the Orchestrator",
-      "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
-      "createdAt": "2026-10-06T01:05:54Z"
+      "title": "iOS port: Darwin platform layer, iOS app, CI, tester builds",
+      "url": "https://github.com/NoahVl/Birdman64/pull/14",
+      "createdAt": "2026-10-17T19:42:48Z"
     },
     {
-      "title": "Remove distracting learner metatext and defer supporting detail",
-      "url": "https://github.com/WilsonLe/pte-academic/issues/136",
-      "createdAt": "2026-10-18T06:15:25Z"
+      "title": "fix: Guardian swaps and faucet lookups parse account ids through the canonical helpers",
+      "url": "https://github.com/0xMiden/wallet/pull/1544",
+      "createdAt": "2026-10-18T07:25:51Z"
     },
     {
-      "title": "[recipe, fsdp, tests, doc] feat: add Boogu-Image FlowGRPO v1 sync recipe",
-      "url": "https://github.com/verl-project/verl-omni/pull/649",
-      "createdAt": "2026-09-21T15:01:39Z"
+      "title": "Batch transfer entry point",
+      "url": "https://github.com/ada-nwali/AutoMint/issues/354",
+      "createdAt": "2026-08-24T19:01:45Z"
     }
   ]
 }
