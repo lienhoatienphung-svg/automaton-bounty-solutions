@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-18T13:40:58.724Z",
-  "latencyMs": 619,
+  "executedAt": "2026-10-18T13:42:58.915Z",
+  "latencyMs": 636,
   "companyName": "OmniGig Multi-Industry B2B & E-Commerce Fulfillment",
-  "workTitle": "Growth & Sales Sprint #658: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #659: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
@@ -72,8 +72,18 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000037,
         "liquidityUsd": 103133,
-        "volume24hUsd": 51721,
+        "volume24hUsd": 51774,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
+      },
+      {
+        "pairAddress": "0x98c7A2338336d2d354663246F64676009c7bDa97",
+        "dexId": "aerodrome",
+        "baseSymbol": "USDC",
+        "quoteSymbol": "USDbC",
+        "priceUsd": 1.000043,
+        "liquidityUsd": 140049,
+        "volume24hUsd": 16805,
+        "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
         "pairAddress": "0x0E635F8EeED4F7279d56692D552F034ECE136019",
@@ -84,16 +94,6 @@
         "liquidityUsd": 127638,
         "volume24hUsd": 1618,
         "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
-      },
-      {
-        "pairAddress": "0x98c7A2338336d2d354663246F64676009c7bDa97",
-        "dexId": "aerodrome",
-        "baseSymbol": "USDC",
-        "quoteSymbol": "USDbC",
-        "priceUsd": 1.000043,
-        "liquidityUsd": 140049,
-        "volume24hUsd": 16798,
-        "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
         "pairAddress": "0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4",
