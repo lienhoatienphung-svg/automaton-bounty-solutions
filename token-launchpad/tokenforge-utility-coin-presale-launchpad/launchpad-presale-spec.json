@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T08:37:38.160Z",
-  "latencyMs": 443,
+  "executedAt": "2026-10-18T08:51:33.308Z",
+  "latencyMs": 330,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #609: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #610: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52761655,
+    "liveBlockNumber": 52762073,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459018,
-    "baseMainnetTopPoolsVolume24hUsd": 177254,
+    "baseMainnetTopPoolsLiquidityUsd": 459019,
+    "baseMainnetTopPoolsVolume24hUsd": 177062,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "LootTA27CCT7FKm3DxNSuXNDpfWwJKZrt29nNxg1zFf",
+        "description": "France is being looted by protesters\n\ndogwifloot",
+        "url": "https://dexscreener.com/solana/lootta27cct7fkm3dxnsuxndpfwwjkzrt29nnxg1zff"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0x5Ab600feFFC3494baDA1dECBF2BcF36c5fB67777",
@@ -57,12 +63,6 @@
         "tokenAddress": "0x4Bc7d12dc06462687B2A9c34D31a131591e235a9",
         "description": "A barn owl screeched at onlookers as bird lovers flocked to Manhattan’s Upper West Side to catch a glimpse of a family of the animals.",
         "url": "https://dexscreener.com/robinhood/0x4bc7d12dc06462687b2a9c34d31a131591e235a9"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Bouncec5ivdidyfHH8GtXadgpqSrYcWUYyHWhsVEro57",
-        "description": "The French revolution begins with the Bounce Cat\n\nBouncing to millions",
-        "url": "https://dexscreener.com/solana/bouncec5ivdidyfhh8gtxadgpqsrycwuyyhwhsvero57"
       },
       {
         "chainId": "solana",
