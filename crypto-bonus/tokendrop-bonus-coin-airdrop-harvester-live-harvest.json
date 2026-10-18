@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T09:44:52.811Z",
-  "latencyMs": 765,
+  "executedAt": "2026-10-18T09:57:02.792Z",
+  "latencyMs": 665,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #621: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #622: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "3zxtzoumrXqaqS2CDRjnbVEbf1tb12d5fWwMfa2Npump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "where every meow is a meme, every paw brings chaos, and cuteness rules the internet! 😹",
+      "url": "https://dexscreener.com/solana/3zxtzoumrxqaqs2cdrjnbvebf1tb12d5fwwmfa2npump"
+    },
+    {
       "chainId": "near",
       "tokenAddress": "robin-3.nearlytrade.near",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "Your own trading squad. Five little pips that hunt, copy, snipe and guard for you. $PIPS",
       "url": "https://dexscreener.com/solana/4rfbdndphrm31jipkxoprme7dcslbescf3kmeobypump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "7iYM9cjpKKNyLvJfq4pYyjubk83dnqxtPDrRdf77pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 110,
-      "description": "$IMOLEST — One More Thing…\n\nThe forbidden Apple product.\n\nSteve Jobs gave the world Apple. Epstein gave the world a scandal that refuses to die.\n\nNow imagine th",
-      "url": "https://dexscreener.com/solana/7iym9cjpkknylvjfq4pyyjubk83dnqxtpdrrdf77pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,50 +217,50 @@
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 940,
-      "priceBtc": 1.971865584162649e-7
+      "marketCapRank": 915,
+      "priceBtc": 2.053123697251394e-7
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 36,
-      "priceBtc": 0.003288017371971928
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009641038795711124
+      "priceBtc": 0.0032815562911733555
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00006093744803600363
+      "priceBtc": 0.00006088993119302012
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009633084737034768
     },
     {
       "name": "Monero",
       "symbol": "XMR",
       "marketCapRank": 13,
-      "priceBtc": 0.007124832414061535
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 100,
-      "priceBtc": 0.000022579133793597083
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 634,
-      "priceBtc": 0.0013064318054788152
+      "priceBtc": 0.007142602213957599
     },
     {
       "name": "Ethena",
       "symbol": "ENA",
       "marketCapRank": 41,
-      "priceBtc": 0.0000023171037804033096
+      "priceBtc": 0.0000023193612264450713
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 635,
+      "priceBtc": 0.0013052407549875493
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 99,
+      "priceBtc": 0.000022583541541780834
     }
   ],
   "activeAirdropAndFaucetQuests": [
@@ -275,24 +275,24 @@
       "createdAt": "2026-10-18T09:09:00Z"
     },
     {
-      "title": "candidates: ZCode 插件候选清单(每日自动)",
-      "url": "https://github.com/wdfdsyhb/zcode-plugins-community/issues/13",
-      "createdAt": "2026-10-18T09:43:13Z"
+      "title": "feat(web): tell the user to open their wallet when a request goes unanswered (#76)",
+      "url": "https://github.com/bytesbrains/copra/pull/82",
+      "createdAt": "2026-10-18T09:56:40Z"
     },
     {
-      "title": "chore(deps): bump the production-dependencies group across 1 directory with 6 updates",
-      "url": "https://github.com/rkaif8314-a11y/SmartNotepad/pull/3",
-      "createdAt": "2026-09-20T03:33:31Z"
+      "title": "Browser build on GitHub Pages: pair devices and share files via wireweave",
+      "url": "https://github.com/digitaldanis/multidrop/pull/24",
+      "createdAt": "2026-10-18T05:46:52Z"
     },
     {
-      "title": "Bump the npm-minor-patch group in /web with 8 updates",
-      "url": "https://github.com/OwnSecurityGuard/gametrace/pull/18",
-      "createdAt": "2026-09-27T09:43:56Z"
+      "title": "Scheduled E2E: testnet is failing",
+      "url": "https://github.com/randomcash/ethpayserver/issues/202",
+      "createdAt": "2026-09-20T11:00:11Z"
     },
     {
-      "title": "chore(deps): bump the all-minor-and-patch group across 1 directory with 8 updates",
-      "url": "https://github.com/Chy-Zaber-Bin-Zahid/open-source-tracker/pull/39",
-      "createdAt": "2026-10-04T09:44:46Z"
+      "title": "Handle receiver peer disconnects without reporting storage failure",
+      "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/39",
+      "createdAt": "2026-10-10T21:16:13Z"
     }
   ]
 }
