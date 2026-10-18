@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T18:29:39.594Z",
-  "latencyMs": 937,
+  "executedAt": "2026-10-18T18:44:54.247Z",
+  "latencyMs": 1063,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #683: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #684: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "GPojeXRcXthWBMWxWC6iY5TMjY8dLf25Q2Ft4kMVRwD4",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Bunker Seal ($BUNKY) is a community meme coin on Solana. Fair launch on pump fun. The creator holds about 28.2% of supply, with 204.8M locked via Streamflow unt",
+      "url": "https://dexscreener.com/solana/gpojexrcxthwbmwxwc6iy5tmjy8dlf25q2ft4kmvrwd4"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,97 +210,89 @@
       "totalBoostAmount": 100,
       "description": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. 🪙 Built & controlled by Agentic AI.",
       "url": "https://dexscreener.com/solana/dtcicpcktkeah7tdeztym3hxeohaomibdyjhmyxzpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "BW17aRYaV5ErXwNfyY1VtkRzM2zTk9hji91pwppWpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/bw17aryav5erxwnfyy1vtkrzm2ztk9hji91pwppwpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Covenant x402",
-      "symbol": "COVENANT",
-      "marketCapRank": 715,
-      "priceBtc": 3.155656341907676e-7
-    },
-    {
       "name": "hi",
       "symbol": "HI",
-      "marketCapRank": 890,
-      "priceBtc": 2.2081096753175192e-7
+      "marketCapRank": 812,
+      "priceBtc": 2.551661307927829e-7
     },
     {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 92,
-      "priceBtc": 0.000024283651493973323
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 200,
-      "priceBtc": 0.000003126339454837243
+      "name": "Covenant x402",
+      "symbol": "COVENANT",
+      "marketCapRank": 672,
+      "priceBtc": 3.46922429721021e-7
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
-      "marketCapRank": 789,
-      "priceBtc": 2.6138523108314443e-7
+      "marketCapRank": 777,
+      "priceBtc": 2.732530046346108e-7
     },
     {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 121,
-      "priceBtc": 7.317806785653799e-7
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00005849568742504584
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 201,
+      "priceBtc": 0.000003120146556853391
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 89,
+      "priceBtc": 0.00003545093431654929
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 86,
-      "priceBtc": 0.00009953434003474626
+      "priceBtc": 0.00009935907855457819
     },
     {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 103,
-      "priceBtc": 0.000007547923638957601
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 120,
+      "priceBtc": 8.930841920842588e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "docs(release): propose version increase rules and node status signals",
-      "url": "https://github.com/F1R3FLY-io/f1r3node-rust/pull/743",
-      "createdAt": "2026-10-16T04:31:50Z"
+      "title": "[help] Ship real help articles at /help/articles/:slug with ranked multi-term search",
+      "url": "https://github.com/Disciplr-Org/Disciplr-Frontend/issues/1535",
+      "createdAt": "2026-10-18T18:15:07Z"
     },
     {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
+      "title": "SEC-011: converge the workstation SSH target hardening instead of applying it by hand",
+      "url": "https://github.com/mlorentedev/dotfiles/issues/2356",
+      "createdAt": "2026-10-13T02:07:37Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "feat(orchestrator): complete the rewards feature — accrue on successful flows, pin the reward token, per-address storage",
+      "url": "https://github.com/Remitwise-Org/Remitwise-Contracts/issues/1873",
+      "createdAt": "2026-10-18T18:20:42Z"
     },
     {
-      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
-      "url": "https://github.com/Open-Athena/biotasks/issues/21",
-      "createdAt": "2026-10-16T20:07:24Z"
+      "title": "[Bug] [XPU] DSpark drafts all rejected under full decode graph with TP=2: TP ranks diverge on draft graph replay",
+      "url": "https://github.com/sgl-project/sglang/issues/45034",
+      "createdAt": "2026-10-18T18:44:03Z"
     },
     {
-      "title": "Handle receiver peer disconnects without reporting storage failure",
-      "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/39",
-      "createdAt": "2026-10-10T21:16:13Z"
+      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
+      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
+      "createdAt": "2026-10-12T21:43:27Z"
     },
     {
-      "title": "D755 (S01): AI credits: token packs bought through Stripe, a ledger separate from Perks, shown on the rail, /account/usage and /plans-and-pr",
-      "url": "https://github.com/AxalNetwork/StudioOS/issues/1870",
-      "createdAt": "2026-10-18T17:57:56Z"
+      "title": "[OpenZCine#263] iPhone hotspot Link Health stays Poor and setup guidance hides the 2.4 GHz tradeoff",
+      "url": "https://github.com/erik-sutton95/OpenCine/issues/56",
+      "createdAt": "2026-10-18T18:36:23Z"
     }
   ]
 }
