@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T06:56:54.292Z",
-  "latencyMs": 726,
+  "executedAt": "2026-10-18T07:11:04.622Z",
+  "latencyMs": 648,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #601: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #602: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,84 +215,84 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Minter",
-      "symbol": "MINTER",
-      "marketCapRank": 905,
-      "priceBtc": 2.1739359194124328e-7
-    },
-    {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 105,
-      "priceBtc": 0.0000015692684500052921
+      "marketCapRank": 101,
+      "priceBtc": 0.0000016597327937026698
     },
     {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "marketCapRank": 36,
-      "priceBtc": 0.003277228187083014
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 188,
-      "priceBtc": 0.0000034568069786475713
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00006107104762839648
+      "name": "Minter",
+      "symbol": "MINTER",
+      "marketCapRank": 878,
+      "priceBtc": 2.238178252450903e-7
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "marketCapRank": 321,
-      "priceBtc": 0.0000012334611805419327
-    },
-    {
-      "name": "The Sandbox",
-      "symbol": "SAND",
-      "marketCapRank": 184,
-      "priceBtc": 8.205748917710963e-7
+      "priceBtc": 0.0000012290185949709154
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 98,
-      "priceBtc": 0.000022964571590858804
+      "priceBtc": 0.000022883796702587092
+    },
+    {
+      "name": "The Sandbox",
+      "symbol": "SAND",
+      "marketCapRank": 189,
+      "priceBtc": 7.902833528425285e-7
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 188,
+      "priceBtc": 0.0000034460291562895654
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "marketCapRank": 36,
+      "priceBtc": 0.003277665976782965
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 29,
+      "priceBtc": 0.000011994979213058851
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Phase 1: ArcoUSD token, Reserve and Lens contracts (not deployed)",
+      "url": "https://github.com/LBMike/arco-giwa/pull/3",
+      "createdAt": "2026-10-18T07:10:57Z"
+    },
+    {
+      "title": "refactor(routes): audit and mount orphaned backend routers in server.js",
+      "url": "https://github.com/Emmy123222/Stellar-MarketPay-/pull/1932",
+      "createdAt": "2026-10-17T10:49:32Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide-react to v1.59.0",
+      "url": "https://github.com/jonahsnider/logos.frc.sh/pull/17",
+      "createdAt": "2026-09-05T02:10:25Z"
+    },
+    {
+      "title": "#576: the inviter's reward notification through the mailing engine",
+      "url": "https://github.com/ChaoticMelnik/binarius/pull/642",
+      "createdAt": "2026-10-17T22:25:00Z"
+    },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "【No.3】feat(inference): Unified Inference Service",
-      "url": "https://github.com/redai-studio/Relax/pull/381",
-      "createdAt": "2026-09-26T10:27:20Z"
-    },
-    {
-      "title": "Final (Track B): hedged-peg strategy - salman435-git ",
-      "url": "https://github.com/aaron-recompile/AI_Finance/pull/33",
-      "createdAt": "2026-10-18T06:54:49Z"
-    },
-    {
-      "title": "data(mode): add Mode Sepolia faucets from the official docs",
-      "url": "https://github.com/Chain-Love/chain-love/pull/3929",
-      "createdAt": "2026-09-23T08:42:56Z"
-    },
-    {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "data(filecoin): add ChainSafe Forest node",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3528",
+      "createdAt": "2026-09-02T04:16:28Z"
     }
   ]
 }
