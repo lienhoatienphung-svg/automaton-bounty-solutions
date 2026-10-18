@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T06:07:29.439Z",
-  "latencyMs": 684,
+  "executedAt": "2026-10-18T06:09:15.262Z",
+  "latencyMs": 1222,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #594: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #595: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "data(faucets): add Gas.zip Avalanche Fuji faucet",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4382",
+      "createdAt": "2026-10-11T15:29:48Z"
+    },
+    {
+      "title": "U6 — upstream: DFlash drafter never stores the first num_context context-KV rows (fix 6fce381638)",
+      "url": "https://github.com/KIntegrated/vllm-gfx906-mobydick/issues/57",
+      "createdAt": "2026-10-18T06:08:43Z"
+    },
+    {
+      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
+      "createdAt": "2026-10-12T04:03:25Z"
+    },
+    {
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
+      "createdAt": "2026-10-17T18:26:37Z"
+    },
+    {
       "title": "【No.3】feat(inference): Unified Inference Service",
       "url": "https://github.com/redai-studio/Relax/pull/381",
       "createdAt": "2026-09-26T10:27:20Z"
     },
     {
-      "title": "Add email classifier module (SetFit + rule fallback)",
-      "url": "https://github.com/asyaafv/DubHacks26/pull/9",
-      "createdAt": "2026-10-18T06:06:56Z"
-    },
-    {
       "title": "Ghost <-> Echo comms",
       "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
       "createdAt": "2026-10-16T18:46:23Z"
-    },
-    {
-      "title": "Protected Finish STOP: review War Satchel function-replacement migration before production",
-      "url": "https://github.com/Emaren/app-prodn/issues/634",
-      "createdAt": "2026-10-16T22:20:02Z"
-    },
-    {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
-    },
-    {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
     }
   ]
 }
