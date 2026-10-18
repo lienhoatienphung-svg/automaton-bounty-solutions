@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T07:11:04.622Z",
-  "latencyMs": 648,
+  "executedAt": "2026-10-18T07:12:44.516Z",
+  "latencyMs": 688,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #602: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #603: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,52 +215,52 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Quack AI",
-      "symbol": "Q",
-      "marketCapRank": 101,
-      "priceBtc": 0.0000016597327937026698
-    },
-    {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 878,
-      "priceBtc": 2.238178252450903e-7
+      "marketCapRank": 869,
+      "priceBtc": 2.2700932442729668e-7
+    },
+    {
+      "name": "Quack AI",
+      "symbol": "Q",
+      "marketCapRank": 103,
+      "priceBtc": 0.0000015904138896142087
     },
     {
       "name": "STONK",
       "symbol": "STONK",
-      "marketCapRank": 321,
-      "priceBtc": 0.0000012290185949709154
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 98,
-      "priceBtc": 0.000022883796702587092
-    },
-    {
-      "name": "The Sandbox",
-      "symbol": "SAND",
-      "marketCapRank": 189,
-      "priceBtc": 7.902833528425285e-7
+      "marketCapRank": 319,
+      "priceBtc": 0.000001236594694016305
     },
     {
       "name": "Pons",
       "symbol": "PONS",
-      "marketCapRank": 188,
-      "priceBtc": 0.0000034460291562895654
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "marketCapRank": 36,
-      "priceBtc": 0.003277665976782965
+      "marketCapRank": 187,
+      "priceBtc": 0.0000034520105704682044
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 29,
-      "priceBtc": 0.000011994979213058851
+      "priceBtc": 0.000011989098530173654
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 99,
+      "priceBtc": 0.00002274381497066092
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "marketCapRank": 36,
+      "priceBtc": 0.0032703427900746588
+    },
+    {
+      "name": "The Sandbox",
+      "symbol": "SAND",
+      "marketCapRank": 189,
+      "priceBtc": 7.886929290840496e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
@@ -268,6 +268,11 @@
       "title": "Phase 1: ArcoUSD token, Reserve and Lens contracts (not deployed)",
       "url": "https://github.com/LBMike/arco-giwa/pull/3",
       "createdAt": "2026-10-18T07:10:57Z"
+    },
+    {
+      "title": "data(filecoin): add ChainSafe Forest node",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3528",
+      "createdAt": "2026-09-02T04:16:28Z"
     },
     {
       "title": "refactor(routes): audit and mount orphaned backend routers in server.js",
@@ -288,11 +293,6 @@
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "data(filecoin): add ChainSafe Forest node",
-      "url": "https://github.com/Chain-Love/chain-love/pull/3528",
-      "createdAt": "2026-09-02T04:16:28Z"
     }
   ]
 }
