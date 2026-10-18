@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T11:54:53.059Z",
-  "latencyMs": 684,
+  "executedAt": "2026-10-18T12:08:28.310Z",
+  "latencyMs": 699,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #637: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #638: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "4bLHGwcRd4GCVsSP8uRMcrWMh1nBCVcNM2CC9AWPpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "bwigitte",
+      "url": "https://dexscreener.com/solana/4blhgwcrd4gcvssp8urmcrwmh1nbcvcnm2cc9awppump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "3A3qjns31YZA6Ung91ZpoPD7J3p1bDFbTJ4ANFAPpump",
       "boostAmount": 50,
       "totalBoostAmount": 150,
@@ -202,97 +210,89 @@
       "totalBoostAmount": 10,
       "description": "There is no Batman without Robin",
       "url": "https://dexscreener.com/near/robin-3.nearlytrade.near"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "5Nkqtw9ZRhpWF6LHhR25y2QtgqQDQRNftBmnHVDRpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Chapter four, the signal  is the fourth of the series token launch on pumpfun",
-      "url": "https://dexscreener.com/solana/5nkqtw9zrhpwf6lhhr25y2qtgqqdqrnftbmnhvdrpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Minter",
+      "symbol": "MINTER",
+      "marketCapRank": 989,
+      "priceBtc": 1.7969991316504474e-7
+    },
+    {
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 111,
-      "priceBtc": 0.0000013295777409717853
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.049006246862802e-8
+      "priceBtc": 0.0000013335477866731442
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 634,
-      "priceBtc": 0.001305867393536665
+      "priceBtc": 0.001305615926556975
     },
     {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "marketCapRank": 36,
-      "priceBtc": 0.003260322016057511
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.079109026980173e-8
     },
     {
       "name": "Aptos",
       "symbol": "APT",
       "marketCapRank": 90,
-      "priceBtc": 0.000009732591994347184
+      "priceBtc": 0.000009780920317493983
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "marketCapRank": 36,
+      "priceBtc": 0.0032730283306547448
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012647901935756935
+      "priceBtc": 0.0012665341967927094
     },
     {
-      "name": "Bitway",
-      "symbol": "BTW",
-      "marketCapRank": 33,
-      "priceBtc": 0.000029587356599521376
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 88,
-      "priceBtc": 0.00003686647373470841
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000011955781294832919
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Website: cleaner layout, guide pages, real-device status",
-      "url": "https://github.com/digitaldanis/multidrop/pull/23",
-      "createdAt": "2026-10-18T03:09:01Z"
+      "title": "fix(core): drive datasource connections on a runtime no RPC worker can block",
+      "url": "https://github.com/solana-foundation/surfpool/pull/871",
+      "createdAt": "2026-10-18T11:34:20Z"
     },
     {
-      "title": "Bump the npm group across 1 directory with 33 updates",
-      "url": "https://github.com/SapiensAnatis/Dawnshard/pull/1540",
-      "createdAt": "2026-10-01T17:33:28Z"
+      "title": "Add 46 verified faucet listings across 25 networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4298",
+      "createdAt": "2026-10-07T18:48:32Z"
     },
     {
-      "title": "Prepare protocol v1 testnet relaunch and final internal-review fixes",
-      "url": "https://github.com/jackdishman/blockula/pull/17",
-      "createdAt": "2026-10-18T01:47:56Z"
+      "title": "Add time-weighted average balance tracking",
+      "url": "https://github.com/Rickyy1017/Stellar-Defi-Vault/issues/710",
+      "createdAt": "2026-10-18T12:06:25Z"
     },
     {
-      "title": "fix: update dependency lucide-react to v1",
-      "url": "https://github.com/tarik02-org/t3code-gateway/pull/90",
-      "createdAt": "2026-10-18T11:41:27Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "perf(jit): bound indices and drop unreached blocks in block analysis",
-      "url": "https://github.com/alloy-rs/evm2/pull/687",
-      "createdAt": "2026-10-18T11:29:21Z"
+      "title": "Add historical balance queries via checkpoints",
+      "url": "https://github.com/Rickyy1017/Stellar-Defi-Vault/issues/709",
+      "createdAt": "2026-10-18T12:05:15Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "fix(dapp): reject malformed custom requests",
+      "url": "https://github.com/0xMiden/wallet/pull/1462",
+      "createdAt": "2026-10-14T15:39:24Z"
     }
   ]
 }
