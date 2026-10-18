@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T01:04:59.454Z",
-  "latencyMs": 372,
+  "executedAt": "2026-10-18T01:07:19.367Z",
+  "latencyMs": 318,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #552: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #553: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52748076,
+    "liveBlockNumber": 52748146,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 196613,
+    "baseMainnetTopPoolsVolume24hUsd": 196938,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "53y1shyqwpMWY1thY9yptFC3WgJyYKH6ouvjC4wPpump",
+        "description": "MarsCoin , Fees redirected to Elon wallet",
+        "url": "https://dexscreener.com/solana/53y1shyqwpmwy1thy9yptfc3wgjyykh6ouvjc4wppump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "49LjxttMRsw2SuGEyYGVUwbU2zPQUYpTtoRCtU3Epump",
@@ -75,12 +81,6 @@
         "tokenAddress": "6CJs29wgkDHuCL4W56Q4tAwW1Ard8prextZ8zjHipump",
         "description": "cats a mf shark",
         "url": "https://dexscreener.com/solana/6cjs29wgkdhucl4w56q4taww1ard8prextz8zjhipump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CkDz2hKrJShh9TEFQUv1YfY7rL8bwnv9Q1cacsuPpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ckdz2hkrjshh9tefquv1yfy7rl8bwnv9q1cacsuppump"
       }
     ]
   },
