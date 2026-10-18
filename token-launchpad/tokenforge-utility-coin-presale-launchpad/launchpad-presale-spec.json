@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T08:03:45.190Z",
-  "latencyMs": 453,
+  "executedAt": "2026-10-18T08:18:56.348Z",
+  "latencyMs": 438,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #605: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #606: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52760638,
+    "liveBlockNumber": 52761094,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459018,
-    "baseMainnetTopPoolsVolume24hUsd": 181156,
+    "baseMainnetTopPoolsVolume24hUsd": 172846,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xc51DBabd8B04Cd13036d6896Fb3a2b6668ac4Ec6",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0xc51dbabd8b04cd13036d6896fb3a2b6668ac4ec6"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FiKJg5JTFC7A3AyUMAhhom8NKu5Yzc7j3jWj1MCQpump",
+        "description": "From Namek to the streets of France. Inspired by the protester who showed up dressed as Piccolo, this coin puts creator fees toward LDH (Ligue des droits de l’H",
+        "url": "https://dexscreener.com/solana/fikjg5jtfc7a3ayumahhom8nku5yzc7j3jwj1mcqpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x4Bc7d12dc06462687B2A9c34D31a131591e235a9",
+        "description": "A barn owl screeched at onlookers as bird lovers flocked to Manhattan’s Upper West Side to catch a glimpse of a family of the animals.",
+        "url": "https://dexscreener.com/robinhood/0x4bc7d12dc06462687b2a9c34d31a131591e235a9"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Bouncec5ivdidyfHH8GtXadgpqSrYcWUYyHWhsVEro57",
@@ -63,24 +81,6 @@
         "tokenAddress": "AT2Ek9iB7eLMTYSqKfRH5PJDePb9pPgdRAwgdhFSpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/at2ek9ib7elmtysqkfrh5pjdepb9ppgdrawgdhfspump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x46E2587402161f51E251F446cB9F73b3883aB1b9",
-        "description": "Born from internet doom culture, financial nihilism, and the belief that everything is cooked. No expectations, no promises, just pure doomer energy.\n\nIn a mark",
-        "url": "https://dexscreener.com/robinhood/0x46e2587402161f51e251f446cb9f73b3883ab1b9"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2y4b4chPooVJZta323vk746Fh87JooNtxiuEvDjypump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2y4b4chpoovjzta323vk746fh87joontxiuevdjypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "A25qSmSKGgVmvU8qNxzSq7UjF3RSE9YVu54LFoYrpump",
-        "description": "A tiny animal named  Bison is very sick and can't seem to live without his stuffed animal Cuddles.",
-        "url": "https://dexscreener.com/solana/a25qsmskggvmvu8qnxzsq7ujf3rse9yvu54lfoyrpump"
       }
     ]
   },
