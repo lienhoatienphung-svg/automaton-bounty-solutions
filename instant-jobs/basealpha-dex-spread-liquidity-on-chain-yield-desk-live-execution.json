@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-18T09:55:11.741Z",
-  "latencyMs": 587,
+  "executedAt": "2026-10-18T10:07:31.628Z",
+  "latencyMs": 624,
   "companyName": "BaseAlpha DEX Spread, Liquidity & On-Chain Yield Desk",
-  "workTitle": "Delivery Sprint #1177: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
-  "targetUrl": "https://polymarket.com/event/macron-out-in-2025",
+  "workTitle": "Growth & Sales Sprint #1178: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656621,
-        "liquidityUsd": 36690,
+        "liquidityUsd": 36689,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501800,
-        "liquidityUsd": 18344,
+        "liquidityUsd": 17786,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2180706,
-        "liquidityUsd": 88887,
+        "liquidityUsd": 89002,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 18807,
+        "liquidityUsd": 18797,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -70,9 +70,9 @@
         "dexId": "quickswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.0000089,
-        "liquidityUsd": 103131,
-        "volume24hUsd": 52606,
+        "priceUsd": 1.00003,
+        "liquidityUsd": 103132,
+        "volume24hUsd": 52863,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -80,9 +80,9 @@
         "dexId": "alien-base",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.0001,
-        "liquidityUsd": 127639,
-        "volume24hUsd": 602,
+        "priceUsd": 1.000092,
+        "liquidityUsd": 127638,
+        "volume24hUsd": 1643,
         "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
       },
       {
@@ -92,7 +92,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000043,
         "liquidityUsd": 140049,
-        "volume24hUsd": 19279,
+        "volume24hUsd": 19280,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000018,
+        "priceUsd": 1.000025,
         "liquidityUsd": 21384,
-        "volume24hUsd": 86778,
+        "volume24hUsd": 92992,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
