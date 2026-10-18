@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T04:02:33.024Z",
-  "latencyMs": 628,
+  "executedAt": "2026-10-18T04:16:39.798Z",
+  "latencyMs": 1183,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #579: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #580: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Askable: Software Engineer AI Codin",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,69 +215,74 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Minter",
+      "symbol": "MINTER",
+      "marketCapRank": 954,
+      "priceBtc": 1.9401140240902292e-7
+    },
+    {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 111,
-      "priceBtc": 0.0000013803509010817031
+      "marketCapRank": 116,
+      "priceBtc": 0.0000012900840702676492
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006153248315952288
-    },
-    {
-      "name": "Monero",
-      "symbol": "XMR",
-      "marketCapRank": 13,
-      "priceBtc": 0.007373452247350114
+      "marketCapRank": 20,
+      "priceBtc": 0.00006131160883075177
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 100,
-      "priceBtc": 0.000022194093239528052
+      "priceBtc": 0.00002214148867671094
+    },
+    {
+      "name": "Monero",
+      "symbol": "XMR",
+      "marketCapRank": 13,
+      "priceBtc": 0.00738191360503603
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 189,
+      "priceBtc": 0.000003480753281217229
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 29,
-      "priceBtc": 0.000012094757847927418
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 187,
-      "priceBtc": 0.000003507212254763241
-    },
-    {
-      "name": "Minter",
-      "symbol": "MINTER",
-      "marketCapRank": 981,
-      "priceBtc": 1.8252312257625678e-7
+      "priceBtc": 0.00001205986284178652
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 83,
-      "priceBtc": 0.0001062556067745709
+      "priceBtc": 0.00010513572665230246
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
+      "title": "Draft: continuity ledger, canon fixes, and staged 10k chapter expansion",
+      "url": "https://github.com/danielmartinez-maker/TheSEARemembers/pull/103",
+      "createdAt": "2026-10-14T03:22:20Z"
     },
     {
-      "title": "Fix reviews 01–48 and integrate same-stack review corrections",
-      "url": "https://github.com/arvindcr4/tinker-rl-lab/pull/21",
-      "createdAt": "2026-10-18T02:49:51Z"
+      "title": "feat(audit): wallet audit — flag USDC paid outside PayGuard, confirm settlements on-chain (#87)",
+      "url": "https://github.com/sarmadahsan/pay-guard/pull/88",
+      "createdAt": "2026-10-18T04:15:14Z"
     },
     {
-      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
-      "createdAt": "2026-10-07T00:07:47Z"
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
     },
     {
       "title": "On-policy joint-choice Non-Combat improvement under frozen potion-enabled Search",
@@ -285,14 +290,9 @@
       "createdAt": "2026-10-16T04:02:07Z"
     },
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
-      "createdAt": "2026-10-17T18:26:37Z"
-    },
-    {
-      "title": "llm-algo-leetcode 推理优化 | 202610 Task 2 ·  解码推进与候选验证",
-      "url": "https://github.com/datawhalechina/llm-algo-leetcode/issues/221",
-      "createdAt": "2026-10-14T04:45:28Z"
+      "title": "Ghost <-> Echo comms",
+      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
+      "createdAt": "2026-10-16T18:46:23Z"
     }
   ]
 }
