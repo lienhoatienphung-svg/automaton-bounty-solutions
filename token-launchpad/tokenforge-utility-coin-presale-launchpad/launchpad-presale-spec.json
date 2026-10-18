@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T15:16:05.507Z",
-  "latencyMs": 415,
+  "executedAt": "2026-10-18T15:30:59.473Z",
+  "latencyMs": 437,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #657: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #658: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52773609,
+    "liveBlockNumber": 52774056,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 155389,
+    "baseMainnetTopPoolsVolume24hUsd": 152298,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4hCVKZKpuRdFtnRXC9fqEdrrQwEYuw4Rbxipwbwdpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4hcvkzkpurdftnrxc9fqedrrqweyuw4rbxipwbwdpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "J1tTqjpZZR5hRmAZcWSDwWqj5b1ZMi1MyJLzhKM1pump",
+        "description": "An AI agent built from years of one person's work, code, conversations and decisions. It runs on Claude, holds its own Solana wallet and acts on its own.",
+        "url": "https://dexscreener.com/solana/j1ttqjpzzr5hrmazcwsdwwqj5b1zmi1myjlzhkm1pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Dvf783MrUqHiWLU1zSLbi2cmaKhBiNTha4vgGwBWpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/dvf783mruqhiwlu1zslbi2cmakhbintha4vggwbwpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6D9aJExEprgPgawuFmeMLgfr6tg3RmrUJoD95nzApump",
@@ -63,24 +81,6 @@
         "tokenAddress": "8qBq4WwYvdsBEdrwJjF2EXCtg2AQuxjU8rmHoQVTpump",
         "description": "Don Mogrelli has more aura than your entire portfolio. I will mog you. That's the roadmap.",
         "url": "https://dexscreener.com/solana/8qbq4wwyvdsbedrwjjf2exctg2aquxju8rmhoqvtpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "E2q5u8VvrCQZ2DEacMRVZG5f25rqCkzDfWTsEEUXpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/e2q5u8vvrcqz2deacmrvzg5f25rqckzdfwtseeuxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "D4jNDQa3Cu4v8VMCAc2z7pgGGo7aGqzjXmwGR9wapump",
-        "description": "CrawlHive is an open-source memecoin safety swarm.\n\nPaste any token and crawlers scan it in seconds: holders, bundles, snipers, dev history, copycats and contra",
-        "url": "https://dexscreener.com/solana/d4jndqa3cu4v8vmcac2z7pgggo7agqzjxmwgr9wapump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Dmc5TbH4KEUqXDdsA1fVarnnZyuUcmL31GEN4ibrivon",
-        "description": "Self-custody wallet, mainnet and testnet, a built-in swap and a place to grab testnet.",
-        "url": "https://dexscreener.com/solana/dmc5tbh4keuqxddsa1fvarnnzyuucml31gen4ibrivon"
       }
     ]
   },
