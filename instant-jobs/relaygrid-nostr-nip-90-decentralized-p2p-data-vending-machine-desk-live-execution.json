@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-18T11:17:15.111Z",
-  "latencyMs": 694,
+  "executedAt": "2026-10-18T11:20:58.451Z",
+  "latencyMs": 750,
   "companyName": "RelayGrid Nostr NIP-90 Decentralized P2P Data Vending Machine Desk",
-  "workTitle": "Growth & Sales Sprint #1088: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #1089: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
@@ -72,7 +72,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000035,
         "liquidityUsd": 103133,
-        "volume24hUsd": 55062,
+        "volume24hUsd": 53179,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000033,
         "liquidityUsd": 21384,
-        "volume24hUsd": 91162,
+        "volume24hUsd": 90993,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -112,7 +112,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000029,
         "liquidityUsd": 14836,
-        "volume24hUsd": 2361,
+        "volume24hUsd": 551,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       },
       {
@@ -128,79 +128,8 @@
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 10,
+    "contractsPackagedCount": 5,
     "contracts": [
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Curtins",
-        "roleOrTask": "Graduate Transport Planner",
-        "industryTags": [
-          "hr",
-          "education",
-          "consulting",
-          "technical",
-          "customer support"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Packmatic GmbH",
-        "roleOrTask": "Key Account Manager Danish Market Native Speaker Copenhagen",
-        "industryTags": [
-          "exec",
-          "saas",
-          "technical",
-          "marketing",
-          "travel"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Yuno",
-        "roleOrTask": "Technical Account Manager",
-        "industryTags": [
-          "exec",
-          "design",
-          "hr",
-          "python",
-          "technical"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Apryse",
-        "roleOrTask": "Commercial Account Manager LATAM",
-        "industryTags": [
-          "exec"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Askable",
-        "roleOrTask": "Software Engineer AI Coding Tasks",
-        "industryTags": [
-          "dev",
-          "python",
-          "javascript",
-          "typescript",
-          "golang"
-        ],
-        "compensation": "$10000-$10000",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
       {
         "source": "Arbeitnow-GlobalB2B",
         "company": "ProviPanda GmbH",
