@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T23:21:57.275Z",
-  "latencyMs": 404,
+  "executedAt": "2026-10-18T23:24:14.635Z",
+  "latencyMs": 301,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #710: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #711: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52788185,
-    "liveGasPriceGwei": 0.006,
+    "liveBlockNumber": 52788253,
+    "liveGasPriceGwei": 0.0061,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 137216,
+    "baseMainnetTopPoolsVolume24hUsd": 137365,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x8C1bB8691A9307297e36A884f51867d7cf2C4444",
+        "description": "Dalila- the Binance Cat",
+        "url": "https://dexscreener.com/bsc/0x8c1bb8691a9307297e36a884f51867d7cf2c4444"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5TwJN87RDBtb9ypQffPTFjgGdhZ49LLQPZKVnGiHpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "71qW2ZEXiD1vjQBJ225M5raXYYNMpqVHmjNcSdVPyVq7",
         "description": "milly",
         "url": "https://dexscreener.com/solana/71qw2zexid1vjqbj225m5raxyynmpqvhmjncsdvpyvq7"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GGzNLq89NV4d495XC4uwjC2ub6rPdSw1vsRYcibVpump",
-        "description": "🇪🇺 $ERC — EUROPEAN RELIEF COLLECTIVE\n\nMore than a meme. A movement with a purpose.\n\n🤝 Supporting Direct Relief through Donate gg\n\nOne Europe. One Collective.",
-        "url": "https://dexscreener.com/solana/ggznlq89nv4d495xc4uwjc2ub6rpdsw1vsrycibvpump"
       }
     ]
   },
