@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T17:17:10.040Z",
-  "latencyMs": 344,
+  "executedAt": "2026-10-18T17:19:20.022Z",
+  "latencyMs": 250,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #670: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #671: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52777241,
+    "liveBlockNumber": 52777306,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459005,
+    "baseMainnetTopPoolsLiquidityUsd": 459004,
     "baseMainnetTopPoolsVolume24hUsd": 139326,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "G7GZ7r2A251xhQXQnf3b8Po9PGZPFaST2JhW61Dpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/g7gz7r2a251xhqxqnf3b8po9pgzpfast2jhw61dpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Fr9ECp9mBDQcjf8hxbhniHnfrHZZPZyVtRwtUsbkpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "Ez7eEs53hQiXgCGmcbhdX5i1jgg2gC3F6MoeosuVpump",
         "description": "The original and only mascot of Monero. \n\nMonero Cat, also known as Luke the Moonshot is here to protect your privacy and financial freedom. \n\nOriginal artist L",
         "url": "https://dexscreener.com/solana/ez7ees53hqixgcgmcbhdx5i1jgg2gc3f6moeosuvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "xDjkwuSe6N1j3MvWgdiri91wNv2MnKZMsuSEUgwpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/xdjkwuse6n1j3mvwgdiri91wnv2mnkzmsuseugwpump"
       }
     ]
   },
