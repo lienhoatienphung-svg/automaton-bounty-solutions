@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T20:54:23.537Z",
-  "latencyMs": 740,
+  "executedAt": "2026-10-18T21:11:15.890Z",
+  "latencyMs": 1382,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #699: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #700: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "7gdy7CGqBBmjr6J8wTd9mzps6w4sFeByq2AvCVLAjupx",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/7gdy7cgqbbmjr6j8wtd9mzps6w4sfebyq2avcvlajupx"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "4qH8A5GxvRMZgpRFjXASc6U9HAoEzKeUqxY2dPB7pump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,97 +210,89 @@
       "totalBoostAmount": 10,
       "description": "Dog In Pain",
       "url": "https://dexscreener.com/solana/48hnr1cwtafbumjsjod6q8yduwduyyumcjzubvzvpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 200,
-      "description": "Glitch is a flamingo who found an ATM that never stops paying. Now everyone wants in. Infinite Money Glitch ($GLITCH) is a 100% fair-launch memecoin on Solana, ",
-      "url": "https://dexscreener.com/solana/8xg89xt8ve34skiyqyums46mycresca2f362uscrpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Covenant x402",
+      "symbol": "COVENANT",
+      "marketCapRank": 733,
+      "priceBtc": 3.0131201864405114e-7
+    },
+    {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 778,
-      "priceBtc": 2.6704595295515525e-7
+      "marketCapRank": 791,
+      "priceBtc": 2.6086164163476987e-7
     },
     {
       "name": "hi",
       "symbol": "HI",
-      "marketCapRank": 868,
-      "priceBtc": 2.2667584386403935e-7
+      "marketCapRank": 853,
+      "priceBtc": 2.3580472712583455e-7
     },
     {
-      "name": "Covenant x402",
-      "symbol": "COVENANT",
-      "marketCapRank": 669,
-      "priceBtc": 3.45307547417033e-7
+      "name": "Doge Pepe",
+      "symbol": "DOPE",
+      "marketCapRank": 674,
+      "priceBtc": 3.4101773122204026e-7
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
-      "marketCapRank": 810,
-      "priceBtc": 2.461248249284579e-7
+      "marketCapRank": 822,
+      "priceBtc": 2.4450450477274856e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00005789943758023556
+      "priceBtc": 0.000057854475082162336
     },
     {
-      "name": "Doge Pepe",
-      "symbol": "DOPE",
-      "marketCapRank": 678,
-      "priceBtc": 3.374918389591824e-7
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 94,
+      "priceBtc": 0.000023377256590535315
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 639,
-      "priceBtc": 0.0012702645133775368
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 120,
-      "priceBtc": 8.791758375004119e-8
+      "marketCapRank": 640,
+      "priceBtc": 0.001267906116990335
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
-      "url": "https://github.com/Open-Athena/biotasks/issues/21",
-      "createdAt": "2026-10-16T20:07:24Z"
+      "title": "fix(security): enforce strict CSP to block inline scripts and restric…",
+      "url": "https://github.com/StormSale/StormSale/pull/282",
+      "createdAt": "2026-10-16T14:40:08Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "perf(wasm): exclude testnet faucet, indexer fixture and simulation endpoints from the production wasm",
-      "url": "https://github.com/RevoraOrg/Revora-Contracts/issues/1356",
-      "createdAt": "2026-10-18T20:53:16Z"
-    },
-    {
-      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
-      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
-      "createdAt": "2026-10-07T16:13:30Z"
-    },
-    {
-      "title": "feat(nav): Heat and Rooms become one Island word; the menu gets a More list of the hidden features",
-      "url": "https://github.com/fomotsar-commits/tegridy-farms/pull/881",
-      "createdAt": "2026-10-18T18:58:24Z"
+      "title": "Add Omdrop (AirDrop for Omarchy) 0.18.1",
+      "url": "https://github.com/omacom/omarchy-pkgs/pull/1273",
+      "createdAt": "2026-10-18T20:00:44Z"
     },
     {
       "title": "refactor: switch the draft proposal plumbing from probs to logits.",
       "url": "https://github.com/xLLM-AI/xllm/pull/2509",
       "createdAt": "2026-10-18T07:37:42Z"
+    },
+    {
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
+      "createdAt": "2026-10-17T18:26:37Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "M1-4a chain: client foundation on @4thtech-io/occ-v2-abi",
+      "url": "https://github.com/4thtech/agentlink/pull/275",
+      "createdAt": "2026-10-18T21:08:06Z"
     }
   ]
 }
