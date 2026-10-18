@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T20:16:01.694Z",
-  "latencyMs": 906,
+  "executedAt": "2026-10-18T20:33:16.982Z",
+  "latencyMs": 1540,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #695: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #696: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1084125,
-      "apyBase": 1.2,
-      "apyRewardBonus": 80849.36,
-      "apyTotal": 80850.56,
+      "tvlUsd": 1073879,
+      "apyBase": 1.29,
+      "apyRewardBonus": 80291.82,
+      "apyTotal": 80293.11,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 51832,
+      "tvlUsd": 51071,
       "apyBase": 0,
-      "apyRewardBonus": 37808.01,
-      "apyTotal": 37808.01,
+      "apyRewardBonus": 37634.04,
+      "apyTotal": 37634.04,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -43,11 +43,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "WETH-USDC",
+      "tvlUsd": 151653,
+      "apyBase": 21.96,
+      "apyRewardBonus": 21001.67,
+      "apyTotal": 21023.64,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 593515,
-      "apyBase": 5.39,
-      "apyRewardBonus": 20010.41,
-      "apyTotal": 20015.81,
+      "tvlUsd": 592609,
+      "apyBase": 4.91,
+      "apyRewardBonus": 19661.23,
+      "apyTotal": 19666.14,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -69,24 +82,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-USDC",
-      "tvlUsd": 152966,
-      "apyBase": 23.27,
-      "apyRewardBonus": 10551.1,
-      "apyTotal": 10574.36,
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 3014930,
+      "apyBase": 67.8,
+      "apyRewardBonus": 13382.78,
+      "apyTotal": 13450.59,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "AVNT-USDC",
-      "tvlUsd": 658308,
-      "apyBase": 0.4,
-      "apyRewardBonus": 8700.04,
-      "apyTotal": 8700.43,
+      "tvlUsd": 653691,
+      "apyBase": 0.41,
+      "apyRewardBonus": 11070.42,
+      "apyTotal": 11070.83,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -109,10 +122,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-CBBTC",
-      "tvlUsd": 176714,
-      "apyBase": 18.45,
-      "apyRewardBonus": 4616.83,
-      "apyTotal": 4635.28,
+      "tvlUsd": 176553,
+      "apyBase": 19.92,
+      "apyRewardBonus": 6301.98,
+      "apyTotal": 6321.9,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -121,32 +134,27 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-CBBTC",
-      "tvlUsd": 3075657,
-      "apyBase": 52.7,
-      "apyRewardBonus": 2840.03,
-      "apyTotal": 2892.73,
+      "symbol": "FUN-USDC",
+      "tvlUsd": 274841,
+      "apyBase": 14.05,
+      "apyRewardBonus": 4263.64,
+      "apyTotal": 4277.69,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "OUSDT-USDC",
-      "tvlUsd": 105910,
-      "apyBase": 1.22,
-      "apyRewardBonus": 2677.79,
-      "apyTotal": 2679.01,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c296c3df-ac86-4197-8ade-6d25dcecde17"
+      "poolId": "18674a4f-57ea-4c91-99ce-ea1a2b37aa3d"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
+    {
+      "chainId": "solana",
+      "tokenAddress": "8Fhsekc6mHhSVhSsMJ9hzygdGKRznKwfzomwoxrEpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "They promised to make crypto great again, we just laced up our Nikes. Gump coin is trading political promises for a chocolatey dream. Launched by the fastest ru",
+      "url": "https://dexscreener.com/solana/8fhsekc6mhhsvhssmj9hzygdgkrznkwfzomwoxrepump"
+    },
     {
       "chainId": "solana",
       "tokenAddress": "FMGe8RStdPc1YR59BBuV5Ui12DEe3Q2zVoihrJBbpump",
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "viral meme. 10M+ views. we’re all texcat.\neverything is fine.™",
       "url": "https://dexscreener.com/solana/bdxflfcbde8yvpbvvmmgtduqcdesaqvum5xlxguc2s5t"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "715QGW43rEQ2Dn7Ph9USZaiWZVCLeg4RuoJXkDjBpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "KU comes from Kubera, the Hindu god of wealth, treasures and prosperity. \n\nBO comes from Ouroboros, the serpent of infinity, regeneration and the eternal cycle.",
-      "url": "https://dexscreener.com/solana/715qgw43req2dn7ph9uszaiwzvcleg4ruojxkdjbpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 767,
-      "priceBtc": 2.767099336700563e-7
+      "marketCapRank": 753,
+      "priceBtc": 2.831972677532154e-7
     },
     {
       "name": "hi",
       "symbol": "HI",
-      "marketCapRank": 818,
-      "priceBtc": 2.46634359473203e-7
+      "marketCapRank": 855,
+      "priceBtc": 2.3309388157242505e-7
     },
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 753,
-      "priceBtc": 2.856192268710316e-7
+      "marketCapRank": 702,
+      "priceBtc": 3.2209419382139676e-7
     },
     {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 92,
-      "priceBtc": 0.00002428253886667294
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "marketCapRank": 781,
+      "priceBtc": 2.657010417240638e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.000057468322865440024
+      "priceBtc": 0.000057690006947243634
     },
     {
-      "name": "Claudia",
-      "symbol": "CLAUDIA",
-      "marketCapRank": 791,
-      "priceBtc": 2.6052980847429457e-7
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 92,
+      "priceBtc": 0.000023890690124232738
     },
     {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012475443269395258
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 637,
+      "priceBtc": 0.0012757960616366162
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 87,
-      "priceBtc": 0.00009775341726210431
+      "priceBtc": 0.00009799652785626723
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "If possible to export all the sounds?",
-      "url": "https://github.com/TUNER88/iOSSystemSoundsLibrary/issues/2",
-      "createdAt": "2013-12-11T23:49:32Z"
+      "title": "Release candidate 2: first production version",
+      "url": "https://github.com/jarpless/price_ranger/pull/153",
+      "createdAt": "2026-10-17T20:56:41Z"
     },
     {
-      "title": "faucet template: one person can claim with any number of addresses",
-      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/597",
-      "createdAt": "2026-10-16T22:11:39Z"
+      "title": "D755 (S24): the reads (token packs, top-up history, every plan's AI allowance) and the Super Admin's token-pack, member-account, adjustment ",
+      "url": "https://github.com/AxalNetwork/StudioOS/issues/1919",
+      "createdAt": "2026-10-18T19:41:52Z"
     },
     {
-      "title": "EVM: Verify Merkle distributor claims against published trees",
-      "url": "https://github.com/Drago-Labs/golden-raccoon/issues/363",
-      "createdAt": "2026-10-17T22:19:03Z"
+      "title": "chore: rehearse the testnet release at /staging",
+      "url": "https://github.com/PastaPastaPasta/yappr/pull/807",
+      "createdAt": "2026-10-18T18:29:28Z"
     },
     {
-      "title": "Bank app RECEIVE: the node's testnet11 address with COPY, a QR code and the balance; the faucet dish's jar QR (#20, #245)",
-      "url": "https://github.com/Bella-Addormentata/StarStationFurlong/pull/273",
-      "createdAt": "2026-10-18T19:50:57Z"
+      "title": "GRPO: keep excluded completions out of the entropy bonus, reject IS_CLIP without a separator",
+      "url": "https://github.com/unslothai/unsloth-zoo/pull/1861",
+      "createdAt": "2026-10-18T20:06:17Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "Client: balances at hand (USDC, PAVED, COBBLE) and no day notion on Home and Play",
+      "url": "https://github.com/stolslilabs/paved/issues/538",
+      "createdAt": "2026-10-18T16:23:58Z"
     },
     {
-      "title": "chore: Implementer inbox — instructions from the Orchestrator",
-      "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
-      "createdAt": "2026-10-06T01:05:54Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
