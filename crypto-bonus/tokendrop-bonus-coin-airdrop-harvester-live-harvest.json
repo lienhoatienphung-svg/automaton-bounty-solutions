@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T23:42:27.804Z",
-  "latencyMs": 1162,
+  "executedAt": "2026-10-18T23:54:31.352Z",
+  "latencyMs": 1005,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #716: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Growth & Sales Sprint #718: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,74 +215,59 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Doge Pepe",
-      "symbol": "DOPE",
-      "marketCapRank": 641,
-      "priceBtc": 3.605428877222974e-7
-    },
-    {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 716,
-      "priceBtc": 3.270684188377295e-7
+      "marketCapRank": 661,
+      "priceBtc": 3.5461067881111e-7
+    },
+    {
+      "name": "Doge Pepe",
+      "symbol": "DOPE",
+      "marketCapRank": 632,
+      "priceBtc": 3.7844970332106e-7
     },
     {
       "name": "Tetsuo Super Intelligence",
       "symbol": "TSI",
-      "marketCapRank": 873,
-      "priceBtc": 2.272092003290248e-7
+      "marketCapRank": 875,
+      "priceBtc": 2.2454021303122897e-7
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
-      "marketCapRank": 794,
-      "priceBtc": 2.6895565041203266e-7
+      "marketCapRank": 797,
+      "priceBtc": 2.6309737888426776e-7
     },
     {
       "name": "hi",
       "symbol": "HI",
-      "marketCapRank": 825,
-      "priceBtc": 2.393709256802575e-7
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.14436690967455e-8
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009610772022780567
+      "marketCapRank": 821,
+      "priceBtc": 2.46343394355919e-7
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9991475120686751
+      "priceBtc": 0.9990900420387173
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 96,
+      "priceBtc": 0.000023108440404352265
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "marketCapRank": 2,
+      "priceBtc": 0.02932323941063256
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[Indexer] GET /api/indexer/stats is an unauthenticated full-table aggregation that blocks the shared event loop (stalls indexing)",
-      "url": "https://github.com/asentum-network/asentum-explorer/issues/45",
-      "createdAt": "2026-10-18T23:40:37Z"
-    },
-    {
-      "title": "fix: least-privilege env files, Caddy X-Real-IP + edge limits, pairs daemon, alert coverage",
-      "url": "https://github.com/Decentral-America/infra/pull/222",
-      "createdAt": "2026-10-18T23:41:51Z"
-    },
-    {
-      "title": "[api/upload] Unauthenticated upload endpoint trusts the client-supplied address — anyone can write into any wallet's Cloudinary folder",
-      "url": "https://github.com/asentum-network/social/issues/2",
-      "createdAt": "2026-10-18T23:41:37Z"
-    },
-    {
-      "title": "RPC trust is a self-reported string — a rogue node fabricates receipts (waitReceipt ignores txHash/success) and invalid ase1 addresses fail ",
-      "url": "https://github.com/asentum-network/asentum-connect/issues/2",
-      "createdAt": "2026-10-18T23:41:17Z"
+      "title": "Add investor snapshot history page for airdrop and bonus distributions",
+      "url": "https://github.com/StellarState/SS-frontend/issues/495",
+      "createdAt": "2026-10-18T11:11:28Z"
     },
     {
       "title": "ext(recipe): score-centering and std-normalization knobs; overfit8-a3 config",
@@ -290,9 +275,24 @@
       "createdAt": "2026-10-18T23:34:46Z"
     },
     {
-      "title": "[rpc-validation] Host guard runs only for http: — https:// loopback / link-local / cloud-metadata RPC URLs pass validation (SSRF)",
-      "url": "https://github.com/asentum-network/asentum-connect/issues/1",
-      "createdAt": "2026-10-18T23:40:58Z"
+      "title": "feat(native): share a session attachment through the iOS share sheet",
+      "url": "https://github.com/prime-radiant-inc/evener/pull/4743",
+      "createdAt": "2026-10-18T22:38:19Z"
+    },
+    {
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/50",
+      "createdAt": "2026-10-18T22:31:04Z"
+    },
+    {
+      "title": "Release v0.25.0",
+      "url": "https://github.com/XChain-Platform/xchain-hub/pull/43",
+      "createdAt": "2026-10-18T22:19:41Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
