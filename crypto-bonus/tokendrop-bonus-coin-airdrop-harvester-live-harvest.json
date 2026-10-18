@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T03:44:05.304Z",
-  "latencyMs": 828,
+  "executedAt": "2026-10-18T03:45:50.338Z",
+  "latencyMs": 740,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #576: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #577: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(rewards): promo credit from game and ads, game shop (behind flag)",
-      "url": "https://github.com/Stanektechcz/onhostik/pull/248",
-      "createdAt": "2026-10-18T01:20:54Z"
-    },
-    {
       "title": "ops(wolo): fail-closed dual-filesystem predeploy capacity check (READ ONLY)",
       "url": "https://github.com/Emaren/wolochain/pull/35",
       "createdAt": "2026-10-18T02:43:31Z"
+    },
+    {
+      "title": "chore(deps): bump tempo dependencies to 2c25f7c",
+      "url": "https://github.com/Soubhik-10/foundry/pull/101",
+      "createdAt": "2026-10-18T03:45:24Z"
+    },
+    {
+      "title": "llm-algo-leetcode 推理优化 | 202610 Task 2 ·  解码推进与候选验证",
+      "url": "https://github.com/datawhalechina/llm-algo-leetcode/issues/221",
+      "createdAt": "2026-10-14T04:45:28Z"
+    },
+    {
+      "title": "Claim MRG Tokens for Bug Bounty Reports - Comment New Bugs Here Before Opening a PR",
+      "url": "https://github.com/mergeos-bounties/mergeos/issues/1",
+      "createdAt": "2026-05-26T05:18:53Z"
     },
     {
       "title": "[perf] spec decoding: fuse simulated speculative acceptance tensor preparation",
@@ -280,19 +290,9 @@
       "createdAt": "2026-09-24T20:43:54Z"
     },
     {
-      "title": "Protected Finish STOP: review War Satchel function-replacement migration before production",
-      "url": "https://github.com/Emaren/app-prodn/issues/634",
-      "createdAt": "2026-10-16T22:20:02Z"
-    },
-    {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
-    },
-    {
-      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
-      "url": "https://github.com/Open-Athena/biotasks/issues/21",
-      "createdAt": "2026-10-16T20:07:24Z"
+      "title": "deploy: fresh BNB testnet stack as a second reward mirror of Base (2026-10-18)",
+      "url": "https://github.com/vaipakam/vaipakam/pull/2551",
+      "createdAt": "2026-10-18T03:41:26Z"
     }
   ]
 }
