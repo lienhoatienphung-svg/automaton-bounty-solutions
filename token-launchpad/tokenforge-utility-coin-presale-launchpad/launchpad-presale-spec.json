@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T03:29:45.982Z",
-  "latencyMs": 348,
+  "executedAt": "2026-10-18T03:31:41.191Z",
+  "latencyMs": 534,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #570: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Askable: Software Engineer AI Codin",
+  "workTitle": "Delivery Sprint #571: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52752419,
+    "liveBlockNumber": 52752476,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 197337,
+    "baseMainnetTopPoolsVolume24hUsd": 197200,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CPZyY7PtZUJhzSGqgBevdydBhz7xuSBxV1nBazorpump",
+        "description": "Scam With Your Friends",
+        "url": "https://dexscreener.com/solana/cpzyy7ptzujhzsgqgbevdydbhz7xusbxv1nbazorpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "H3b85fxKT6DRDjkkAetJtcv24o3qSUr3JvNzjogkpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "DNTCnZCmfvcj57ZTC8pVnYsTCehi4xuF4ya6Jk4Qpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/dntcnzcmfvcj57ztc8pvnystcehi4xuf4ya6jk4qpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CfAqdHXiSbbCTVaxUdddujSUwh3V11DwbPs58fHbpump",
-        "description": "A guy found a computer. The computer was warm. The rest is internet history.",
-        "url": "https://dexscreener.com/solana/cfaqdhxisbbctvaxudddujsuwh3v11dwbps58fhbpump"
       }
     ]
   },
