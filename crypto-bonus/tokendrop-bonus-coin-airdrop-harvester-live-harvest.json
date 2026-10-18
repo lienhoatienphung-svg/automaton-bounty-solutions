@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T04:34:29.701Z",
-  "latencyMs": 675,
+  "executedAt": "2026-10-18T04:48:33.135Z",
+  "latencyMs": 1213,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #583: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #584: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,72 +217,72 @@
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 944,
-      "priceBtc": 1.969739740271612e-7
+      "marketCapRank": 921,
+      "priceBtc": 2.1093054318243261e-7
     },
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 115,
-      "priceBtc": 0.000001269544933029336
+      "marketCapRank": 111,
+      "priceBtc": 0.0000013321419782478795
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00006104865821728836
+      "priceBtc": 0.0000607736808539968
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 101,
-      "priceBtc": 0.000021994295249187007
+      "priceBtc": 0.00002199022316102174
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 29,
-      "priceBtc": 0.000012042442572252422
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 632,
-      "priceBtc": 0.001330598952319147
+      "priceBtc": 0.000011988432406796561
     },
     {
       "name": "Pons",
       "symbol": "PONS",
-      "marketCapRank": 186,
-      "priceBtc": 0.000003501570555706579
+      "marketCapRank": 185,
+      "priceBtc": 0.0000035068959646678643
     },
     {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 83,
-      "priceBtc": 0.00010500470284433567
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 631,
+      "priceBtc": 0.001330818106149215
+    },
+    {
+      "name": "Monero",
+      "symbol": "XMR",
+      "marketCapRank": 13,
+      "priceBtc": 0.007276335286547619
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Harden bridge recovery and network release checks",
-      "url": "https://github.com/solana-classic/solana-classic/pull/6",
-      "createdAt": "2026-10-15T10:38:56Z"
+      "title": "Protected Finish STOP: review War Satchel function-replacement migration before production",
+      "url": "https://github.com/Emaren/app-prodn/issues/634",
+      "createdAt": "2026-10-16T22:20:02Z"
     },
     {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
+      "title": "resources: add a test for mine when resource_yield is 0",
+      "url": "https://github.com/OlaGreat/starbound-realms/issues/71",
+      "createdAt": "2026-10-16T22:34:21Z"
     },
     {
-      "title": "Draft: continuity ledger, canon fixes, and staged 10k chapter expansion",
-      "url": "https://github.com/danielmartinez-maker/TheSEARemembers/pull/103",
-      "createdAt": "2026-10-14T03:22:20Z"
+      "title": "Monad Testnet: live wallet/USDC/RPC receipt preflight and pinned StoreEscrow ABI/bytecode build",
+      "url": "https://github.com/3956ray/MealForward/pull/15",
+      "createdAt": "2026-10-18T04:36:37Z"
     },
     {
-      "title": "Turn CHEERS into Spark Relay, a real multiplayer reaction game",
-      "url": "https://github.com/UglyGameFace/The420lobby.com/pull/46",
-      "createdAt": "2026-10-18T04:22:36Z"
+      "title": "refactor(sshtarget): read the pf boot job through the shared launchd reader",
+      "url": "https://github.com/mlorentedev/dotfiles/pull/2756",
+      "createdAt": "2026-10-18T04:42:29Z"
     },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
@@ -290,9 +290,9 @@
       "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "feat(audit): wallet audit — flag USDC paid outside PayGuard, confirm settlements on-chain (#87)",
-      "url": "https://github.com/sarmadahsan/pay-guard/pull/88",
-      "createdAt": "2026-10-18T04:15:14Z"
+      "title": "Ghost <-> Echo comms",
+      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
+      "createdAt": "2026-10-16T18:46:23Z"
     }
   ]
 }
