@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T22:08:09.671Z",
-  "latencyMs": 679,
+  "executedAt": "2026-10-18T22:23:46.192Z",
+  "latencyMs": 915,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #707: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #708: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1077211,
+      "tvlUsd": 1080966,
       "apyBase": 1.24,
-      "apyRewardBonus": 79268.47,
-      "apyTotal": 79269.71,
+      "apyRewardBonus": 77854.47,
+      "apyTotal": 77855.71,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -29,12 +29,25 @@
     },
     {
       "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-PROS",
+      "tvlUsd": 928392,
+      "apyBase": 26.36,
+      "apyRewardBonus": 48103.87,
+      "apyTotal": 48130.22,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
+    },
+    {
+      "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 51032,
+      "tvlUsd": 51598,
       "apyBase": 0,
-      "apyRewardBonus": 37334.82,
-      "apyTotal": 37334.82,
+      "apyRewardBonus": 36993.2,
+      "apyTotal": 36993.2,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -43,15 +56,15 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-PROS",
-      "tvlUsd": 921509,
-      "apyBase": 23.7,
-      "apyRewardBonus": 30915.38,
-      "apyTotal": 30939.09,
+      "symbol": "TRUST-USDC",
+      "tvlUsd": 247683,
+      "apyBase": 74.84,
+      "apyRewardBonus": 28033.84,
+      "apyTotal": 28108.68,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
+      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
     },
     {
       "chain": "Base",
@@ -69,37 +82,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "TRUST-USDC",
-      "tvlUsd": 246046,
-      "apyBase": 79.43,
-      "apyRewardBonus": 14326.48,
-      "apyTotal": 14405.91,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "WETH-CBBTC",
-      "tvlUsd": 3031110,
-      "apyBase": 67.53,
-      "apyRewardBonus": 11354.44,
-      "apyTotal": 11421.97,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 152390,
-      "apyBase": 23.03,
-      "apyRewardBonus": 11293.42,
-      "apyTotal": 11316.45,
+      "tvlUsd": 154179,
+      "apyBase": 21.15,
+      "apyRewardBonus": 13335.34,
+      "apyTotal": 13356.49,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -121,11 +108,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 3069996,
+      "apyBase": 64.91,
+      "apyRewardBonus": 7098.04,
+      "apyTotal": 7162.95,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "USDC-CBBTC",
-      "tvlUsd": 176674,
-      "apyBase": 20.61,
-      "apyRewardBonus": 5473.66,
-      "apyTotal": 5494.27,
+      "tvlUsd": 176716,
+      "apyBase": 18.13,
+      "apyRewardBonus": 6720.27,
+      "apyTotal": 6738.4,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -134,19 +134,27 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "OUSDT-USDC",
-      "tvlUsd": 105910,
-      "apyBase": 1.29,
-      "apyRewardBonus": 3408.54,
-      "apyTotal": 3409.82,
+      "symbol": "USDC-SPCXC",
+      "tvlUsd": 721923,
+      "apyBase": 135.27,
+      "apyRewardBonus": 3841.32,
+      "apyTotal": 3976.59,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "c296c3df-ac86-4197-8ade-6d25dcecde17"
+      "poolId": "f3990eac-d0e2-545c-a52b-3304804ab529"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
+    {
+      "chainId": "solana",
+      "tokenAddress": "DY8RnodHBj4U2tEBeGCzf3zwmeZ4kdPgA6wGd45Gpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/dy8rnodhbj4u2tebegczf3zwmez4kdpga6wgd45gpump"
+    },
     {
       "chainId": "solana",
       "tokenAddress": "Dcp5oPDmzv6dwcWvE3HjY6gS1Pqi5xx8LPC1bS9Vpump",
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "Token based on Grok's Official Mascot 👽 | Named & Confirmed by Grok Himself 4/17/2025 💚 Groklet is described as a curious teal alien explorer with a , who lov",
       "url": "https://dexscreener.com/solana/4qh8a5gxvrmzgprfjxasc6u9haoezkeuqxy2dpb7pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "ByQ4cTwVyrZtzb7aFKW8QXPBMXdCWx6UdVMshLZipump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Official Token of the French Deadpool. 100% of the fees to him",
-      "url": "https://dexscreener.com/solana/byq4ctwvyrztzb7afkw8qxpbmxdcwx6udvmshlzipump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 636,
-      "priceBtc": 3.707682511021291e-7
+      "marketCapRank": 660,
+      "priceBtc": 3.61637454216e-7
     },
     {
       "name": "Tetsuo Super Intelligence",
       "symbol": "TSI",
-      "marketCapRank": 810,
-      "priceBtc": 2.539110790722956e-7
+      "marketCapRank": 858,
+      "priceBtc": 2.380953057984e-7
     },
     {
       "name": "Doge Pepe",
       "symbol": "DOPE",
-      "marketCapRank": 664,
-      "priceBtc": 3.5165729915241877e-7
+      "marketCapRank": 673,
+      "priceBtc": 3.425776897488e-7
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
-      "marketCapRank": 795,
-      "priceBtc": 2.5850883070768146e-7
+      "marketCapRank": 755,
+      "priceBtc": 2.8547816416983344e-7
     },
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 787,
-      "priceBtc": 2.6475015979215377e-7
+      "marketCapRank": 788,
+      "priceBtc": 2.5494523060512e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 641,
-      "priceBtc": 0.0012651733893923544
+      "marketCapRank": 643,
+      "priceBtc": 0.0012577153111396424
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 8.960183798183824e-8
+      "priceBtc": 9.044005793866959e-8
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0004970428492062
+      "priceBtc": 0.9989304087096545
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(deps): update dependency @lucide/astro to v1",
-      "url": "https://github.com/jackmcpickle/eliteskills/pull/77",
-      "createdAt": "2026-10-18T22:07:51Z"
+      "title": "Improve resource SEO, install production GA4, and fix homepage anchor offsets",
+      "url": "https://github.com/jonfoundation/foundation-website/pull/34",
+      "createdAt": "2026-10-18T22:21:33Z"
     },
     {
-      "title": "feat: enforce claim deadlines on reward streams (#121)",
-      "url": "https://github.com/Kevin737866/stellar-liquidity-yield-engine/pull/338",
-      "createdAt": "2026-10-18T21:53:53Z"
+      "title": "D755 (S24): token-pack, top-up and plan reads, and the Super Admin's pack, account, adjustment and reconcile routes",
+      "url": "https://github.com/AxalNetwork/StudioOS/pull/1971",
+      "createdAt": "2026-10-18T22:22:07Z"
     },
     {
-      "title": "Owner questions: staging enrollment on the test iPhones and the canary manifest",
-      "url": "https://github.com/vettid/vettid-ios/issues/67",
-      "createdAt": "2026-10-18T19:51:22Z"
+      "title": "Submit Your MCP Servers here",
+      "url": "https://github.com/chatmcp/mcpso/issues/1",
+      "createdAt": "2024-12-06T02:23:42Z"
     },
     {
-      "title": "audit: consolidate all 62 parts with the storage coding audit, canonical program check and VM memory bound",
-      "url": "https://github.com/lubothebook/budlum/pull/9",
-      "createdAt": "2026-10-12T19:36:39Z"
+      "title": "D755 (S24): the reads (token packs, top-up history, every plan's AI allowance) and the Super Admin's token-pack, member-account, adjustment ",
+      "url": "https://github.com/AxalNetwork/StudioOS/issues/1919",
+      "createdAt": "2026-10-18T19:41:52Z"
     },
     {
-      "title": "Implement multi-currency balance breakdown widget in the wallet dashboard",
-      "url": "https://github.com/ASTROIDX556/astroid-web/issues/163",
-      "createdAt": "2026-09-28T11:58:01Z"
+      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
+      "url": "https://github.com/jsboige/CoursIA/pull/20377",
+      "createdAt": "2026-10-11T14:10:17Z"
     },
     {
-      "title": "New daily trending repos in Dart",
-      "url": "https://github.com/vitalets/github-trending-repos/issues/102",
-      "createdAt": "2018-02-24T18:08:35Z"
+      "title": "Check imported files off the main actor, with a \"Checking…\" sheet",
+      "url": "https://github.com/dsuresh-ap/hum-aac-ios/pull/17",
+      "createdAt": "2026-10-18T18:51:01Z"
     }
   ]
 }
