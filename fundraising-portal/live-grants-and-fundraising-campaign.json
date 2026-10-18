@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-18T01:11:28.286Z",
-  "latencyMs": 871,
+  "executedAt": "2026-10-18T01:13:25.881Z",
+  "latencyMs": 673,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #536: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #537: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "fix(deps): update dependency boto3 to v1.43.113",
-          "url": "https://github.com/red-hat-data-services/lm-evaluation-harness/pull/481",
-          "repositoryUrl": "https://api.github.com/repos/red-hat-data-services/lm-evaluation-harness",
-          "updatedAt": "2026-10-18T01:11:24Z"
+          "title": "refactor(ci): adopt published tooling port and GHCR scripts",
+          "url": "https://github.com/vouchington/vouchington/pull/3226",
+          "repositoryUrl": "https://api.github.com/repos/vouchington/vouchington",
+          "updatedAt": "2026-10-18T01:13:20Z"
         },
         {
-          "title": "docs(repair): record the spool-segment repair-input gap",
-          "url": "https://github.com/TogetherWeOwn/nntunev2/pull/241",
-          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/nntunev2",
-          "updatedAt": "2026-10-18T01:11:23Z"
+          "title": "feat(web): add safe Auth0 session diagnostics page",
+          "url": "https://github.com/alexoaraujo83/iam-platform/pull/18",
+          "repositoryUrl": "https://api.github.com/repos/alexoaraujo83/iam-platform",
+          "updatedAt": "2026-10-18T01:13:20Z"
         },
         {
-          "title": "feat: port Todoist task planning to Rust and GPUI",
-          "url": "https://github.com/hemsoft-dev/hs-buddy/pull/838",
-          "repositoryUrl": "https://api.github.com/repos/hemsoft-dev/hs-buddy",
-          "updatedAt": "2026-10-18T01:11:23Z"
+          "title": "feat(forge): resolve App installation per repo owner (RIG-5653)",
+          "url": "https://github.com/RigelBuild/compass/pull/2385",
+          "repositoryUrl": "https://api.github.com/repos/RigelBuild/compass",
+          "updatedAt": "2026-10-18T01:13:19Z"
         },
         {
-          "title": "fix(sync): end backfill sync-job requests before Cloud Run's request timeout",
-          "url": "https://github.com/BasedHardware/omi/pull/21932",
-          "repositoryUrl": "https://api.github.com/repos/BasedHardware/omi",
-          "updatedAt": "2026-10-18T01:11:23Z"
+          "title": "refactor(surface): unify capability IDs and fail closed on malformed host snapshots",
+          "url": "https://github.com/ordaxsystems/ordax-os/pull/1938",
+          "repositoryUrl": "https://api.github.com/repos/ordaxsystems/ordax-os",
+          "updatedAt": "2026-10-18T01:13:19Z"
         },
         {
-          "title": "node:http2: let a client close a pushed stream",
-          "url": "https://github.com/oven-sh/bun/pull/43534",
-          "repositoryUrl": "https://api.github.com/repos/oven-sh/bun",
-          "updatedAt": "2026-10-18T01:11:22Z"
+          "title": "feat(adapters): dynamic installed-plugin capability graph with reviewed registration policy",
+          "url": "https://github.com/mad4bdigital-ai/WordPress/pull/415",
+          "repositoryUrl": "https://api.github.com/repos/mad4bdigital-ai/WordPress",
+          "updatedAt": "2026-10-18T01:13:18Z"
         },
         {
-          "title": "Integrate PS1 SEQ/VAB/SPU music with native libnx framebuffer NRO",
-          "url": "https://github.com/stanmasked/vandal-hearts-switch-remaster/pull/7",
-          "repositoryUrl": "https://api.github.com/repos/stanmasked/vandal-hearts-switch-remaster",
-          "updatedAt": "2026-10-18T01:11:22Z"
+          "title": "Add scoped upstream station mode for Streamplace Desktop",
+          "url": "https://github.com/streamplace/streamplace/pull/1381",
+          "repositoryUrl": "https://api.github.com/repos/streamplace/streamplace",
+          "updatedAt": "2026-10-18T01:13:19Z"
         },
         {
-          "title": "Choose the private summary volume when opening a task runtime",
-          "url": "https://github.com/acyclic-labs/sdk/pull/898",
-          "repositoryUrl": "https://api.github.com/repos/acyclic-labs/sdk",
-          "updatedAt": "2026-10-18T01:11:20Z"
+          "title": "test(onboarding): door conformance — four cold clients (lane D)",
+          "url": "https://github.com/Mumega-com/mupot/pull/2019",
+          "repositoryUrl": "https://api.github.com/repos/Mumega-com/mupot",
+          "updatedAt": "2026-10-18T01:13:17Z"
         },
         {
-          "title": "docs(state): record Quick Log event request hash PR #1846 status",
-          "url": "https://github.com/Verdant-OS/verdant-grow-diary/pull/1853",
-          "repositoryUrl": "https://api.github.com/repos/Verdant-OS/verdant-grow-diary",
-          "updatedAt": "2026-10-18T01:11:20Z"
+          "title": "feat(host-core): decide contract-mode admission by effect",
+          "url": "https://github.com/vastsa/PI-Desktop/pull/1720",
+          "repositoryUrl": "https://api.github.com/repos/vastsa/PI-Desktop",
+          "updatedAt": "2026-10-18T01:13:16Z"
         }
       ]
     },
