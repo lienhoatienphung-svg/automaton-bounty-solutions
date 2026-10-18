@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T09:58:43.412Z",
-  "latencyMs": 1025,
+  "executedAt": "2026-10-18T10:13:19.484Z",
+  "latencyMs": 991,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #623: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #624: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "8dcJQQxNY4ooKE8PpJMhgcLsC2oc4RzHGEpbvj5opump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Solana’s toughest Grandma 🥊 Floral scarf. Iron fists. Zero chill. She’s here to knit, hit and shake up the timeline 💚",
+      "url": "https://dexscreener.com/solana/8dcjqqxny4ooke8ppjmhgclsc2oc4rzhgepbvj5opump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "2Y1SU9ntRrfMi3EbDzPcUCBRqkTa94h6CLJKiyLxjxoz",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "The iconic Pumpfun pill gets a spooky makeover! Halloween colors meet Pumpfun culture, bringing pumpkins, pumps, and pure memecoin energy together!",
+      "url": "https://dexscreener.com/solana/2y1su9ntrrfmi3ebdzpcucbrqkta94h6cljkiylxjxoz"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "3zxtzoumrXqaqS2CDRjnbVEbf1tb12d5fWwMfa2Npump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/bsc/0xc02b3ee1237e4bf485be9d1da12e815fcda54687"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "Bouncec5ivdidyfHH8GtXadgpqSrYcWUYyHWhsVEro57",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/bouncec5ivdidyfhh8gtxadgpqsrycwuyyhwhsvero57"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "4RFbdndphrM31jipKxopRmE7DCsLBEscf3kMEoBYpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Your own trading squad. Five little pips that hunt, copy, snipe and guard for you. $PIPS",
-      "url": "https://dexscreener.com/solana/4rfbdndphrm31jipkxoprme7dcslbescf3kmeobypump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 915,
-      "priceBtc": 2.053123697251394e-7
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "marketCapRank": 36,
-      "priceBtc": 0.0032815562911733555
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00006088993119302012
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009633084737034768
-    },
-    {
-      "name": "Monero",
-      "symbol": "XMR",
-      "marketCapRank": 13,
-      "priceBtc": 0.007142602213957599
-    },
-    {
-      "name": "Ethena",
-      "symbol": "ENA",
-      "marketCapRank": 41,
-      "priceBtc": 0.0000023193612264450713
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 635,
-      "priceBtc": 0.0013052407549875493
+      "marketCapRank": 902,
+      "priceBtc": 2.1420316491813624e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 99,
-      "priceBtc": 0.000022583541541780834
+      "priceBtc": 0.000022437977332862316
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 634,
+      "priceBtc": 0.0013061957128802963
+    },
+    {
+      "name": "Quack AI",
+      "symbol": "Q",
+      "marketCapRank": 108,
+      "priceBtc": 0.0000014492853952709981
+    },
+    {
+      "name": "Monero",
+      "symbol": "XMR",
+      "marketCapRank": 13,
+      "priceBtc": 0.007131767208205534
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.000060685861416869204
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "marketCapRank": 36,
+      "priceBtc": 0.003282472705261125
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 189,
+      "priceBtc": 0.0000034329753665288905
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Testnet feedback form + admin review + feedback bonus in airdrop scorecard",
-      "url": "https://github.com/beartec-jpg/Falcon-faucet-wallet/pull/129",
-      "createdAt": "2026-10-18T09:58:31Z"
+      "title": "Live connector check failing (2026-09-05)",
+      "url": "https://github.com/CryptoCripLA/trading-terminal/issues/3",
+      "createdAt": "2026-09-05T09:49:08Z"
     },
     {
-      "title": "Guild Shop foundation: rewards, event tokens and construction definitions",
-      "url": "https://github.com/elroynbenjamins/Veldryn/pull/594",
-      "createdAt": "2026-10-18T08:50:54Z"
+      "title": "Prepare protocol v1 testnet relaunch and final internal-review fixes",
+      "url": "https://github.com/jackdishman/blockula/pull/17",
+      "createdAt": "2026-10-18T01:47:56Z"
     },
     {
-      "title": "Keep Agamer Universe on TON and correct the Solana plan",
-      "url": "https://github.com/Aleksionis/agamer-site/pull/5",
-      "createdAt": "2026-10-18T09:37:38Z"
-    },
-    {
-      "title": "feat(web): tell the user to open their wallet when a request goes unanswered (#76)",
-      "url": "https://github.com/bytesbrains/copra/pull/82",
-      "createdAt": "2026-10-18T09:56:40Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "data(filecoin): list Calibration DataCap faucet",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4064",
+      "createdAt": "2026-10-01T10:06:49Z"
     },
     {
       "title": "feat(sanctions): screen seeded names, aliases and IMO identifiers",
       "url": "https://github.com/koala73/worldmonitor/pull/9360",
       "createdAt": "2026-10-18T09:09:00Z"
+    },
+    {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     }
   ]
 }
