@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T04:51:52.169Z",
-  "latencyMs": 433,
+  "executedAt": "2026-10-18T05:06:44.022Z",
+  "latencyMs": 552,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #581: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #582: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52754882,
+    "liveBlockNumber": 52755328,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 197693,
+    "baseMainnetTopPoolsVolume24hUsd": 197853,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GEFk8PCEyXmDZc86NwMJ4yUe34KzQA5ENnYvCx65pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gefk8pceyxmdzc86nwmj4yue34kzqa5ennyvcx65pump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xc7951e38901d899a9bba8dbdd435949fe1a7d706",
+        "description": "launch an ai influencer with its own coin. it posts on its own and the trading fees pay for its content. robinhood chain.",
+        "url": "https://dexscreener.com/robinhood/0xc7951e38901d899a9bba8dbdd435949fe1a7d706"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6jFNAzhR1tgPtKbMXZK3ucn5dR1XnqfbKJXZmS1cpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "HwGkAQrV6opsA8eixDVbAgwcQrcv19x69DQB2WMrpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/hwgkaqrv6opsa8eixdvbagwcqrcv19x69dqb2wmrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "A2oPtUBHZUaqF3ZGx3Hi1Y4nYZNDmARazF5eZTeZpump",
-        "description": "stick around",
-        "url": "https://dexscreener.com/solana/a2optubhzuaqf3zgx3hi1y4nyzndmarazf5eztezpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CYjb7Zy8jLffdbPNzs2mYkF2nQ3TXg9HHq4XjFbfpump",
-        "description": "Baby Pepe paired with $Pepe and rewards to holders on Pumpfun",
-        "url": "https://dexscreener.com/solana/cyjb7zy8jlffdbpnzs2mykf2nq3txg9hhq4xjfbfpump"
       }
     ]
   },
