@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T17:36:52.128Z",
-  "latencyMs": 921,
+  "executedAt": "2026-10-18T17:51:55.085Z",
+  "latencyMs": 975,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #677: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #678: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,62 +217,57 @@
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 747,
-      "priceBtc": 2.9635933481765685e-7
+      "marketCapRank": 674,
+      "priceBtc": 3.4352804143777987e-7
     },
     {
       "name": "hi",
       "symbol": "HI",
-      "marketCapRank": 870,
-      "priceBtc": 2.2878563731118127e-7
+      "marketCapRank": 861,
+      "priceBtc": 2.3246894874785305e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 92,
-      "priceBtc": 0.00002435216326654866
+      "priceBtc": 0.000024354006033375186
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 636,
-      "priceBtc": 0.0012883131100033098
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 121,
-      "priceBtc": 8.953314439774676e-8
-    },
-    {
-      "name": "Boomer",
-      "symbol": "BOOMER",
-      "marketCapRank": 756,
-      "priceBtc": 2.883157387637737e-7
+      "priceBtc": 0.001287009881408408
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 89,
-      "priceBtc": 0.00003568211608975969
+      "priceBtc": 0.00003547238811717042
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9991434803558751
+      "priceBtc": 0.9991149869598585
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 120,
+      "priceBtc": 8.91157182127683e-8
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 200,
+      "priceBtc": 0.0000031209658224149993
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[gym] Zero unanswered Ultra responses and require token rewards to sum",
-      "url": "https://github.com/marin-community/MarinSkyRL/pull/925",
-      "createdAt": "2026-10-03T18:40:28Z"
-    },
-    {
-      "title": "Activate Makalu QUANTTS snapshots and fix Thanos wallet discovery",
-      "url": "https://github.com/KaJLabs/Lithosphere/pull/244",
-      "createdAt": "2026-10-18T16:17:54Z"
+      "title": "fix(board): mandater fra en afsluttet saeson skygger ikke for det aktuelle mandat (#6773)",
+      "url": "https://github.com/NicolaiDolmer/CyclingZone/pull/6780",
+      "createdAt": "2026-10-17T10:53:23Z"
     },
     {
       "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
@@ -280,19 +275,24 @@
       "createdAt": "2026-10-12T21:43:27Z"
     },
     {
-      "title": "[RL] Use eligible final outcomes for every group baseline",
-      "url": "https://github.com/marin-community/MarinSkyRL/pull/923",
-      "createdAt": "2026-10-03T18:40:11Z"
+      "title": "# Spike 626 — Albedo full retirement-or-parity plan with flagged sunset",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/489",
+      "createdAt": "2026-10-15T10:46:41Z"
     },
     {
-      "title": "EVM: Verify Merkle distributor claims against published trees",
-      "url": "https://github.com/Drago-Labs/golden-raccoon/issues/363",
-      "createdAt": "2026-10-17T22:19:03Z"
+      "title": "Sprint 3: factual fixes from the audit and migration of stored campaigns (stacked on #4)",
+      "url": "https://github.com/Sinimus/jotl-companion/pull/5",
+      "createdAt": "2026-10-18T17:51:36Z"
     },
     {
-      "title": "Paper edge signals: custom pairs, rug watches, exit plans",
-      "url": "https://github.com/moanola/Memecoin-solana-bot/pull/2",
-      "createdAt": "2026-10-18T16:29:56Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/GDG-on-Campus-Hackathon/website/pull/118",
+      "createdAt": "2026-10-18T17:51:32Z"
+    },
+    {
+      "title": "/usage shows unhelpful \"No active agent\" message on a fresh session instead of guiding the user",
+      "url": "https://github.com/NousResearch/hermes-agent/issues/64360",
+      "createdAt": "2026-07-14T11:18:24Z"
     }
   ]
 }
