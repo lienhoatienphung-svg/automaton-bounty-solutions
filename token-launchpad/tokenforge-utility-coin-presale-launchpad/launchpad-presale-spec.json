@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T18:11:47.745Z",
-  "latencyMs": 244,
+  "executedAt": "2026-10-18T18:14:35.989Z",
+  "latencyMs": 316,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #676: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #677: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52778880,
+    "liveBlockNumber": 52778964,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 136638,
+    "baseMainnetTopPoolsLiquidityUsd": 458998,
+    "baseMainnetTopPoolsVolume24hUsd": 136636,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3UVkjsDC6Tu1udSucF8YotiT1DXi9jWYTokwYB22pump",
+        "description": "Press X to doubt. CAP or PROVEN in seconds, straight from chain. $DOUBT",
+        "url": "https://dexscreener.com/solana/3uvkjsdc6tu1udsucf8yotit1dxi9jwytokwyb22pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "715QGW43rEQ2Dn7Ph9USZaiWZVCLeg4RuoJXkDjBpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "MsgP58D4ykNSDzDVSyQVwfuZdWVPhVMSjLHAvKWpump",
         "description": "Imanuel Catron brings sharp suits, sharper claws, and presidential sass to meme culture. $catron leads the feline republic, one meow at a time.",
         "url": "https://dexscreener.com/solana/msgp58d4yknsdzdvsyqvwfuzdwvphvmsjlhavkwpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "JAKVR89eBd9XYc2y5Qadw7jB4F37KtX2c8Auy7CmPPZJ",
-        "description": "An American led initiative to place the most valuable resource into the pockets of every American citizen.",
-        "url": "https://dexscreener.com/solana/jakvr89ebd9xyc2y5qadw7jb4f37ktx2c8auy7cmppzj"
       }
     ]
   },
