@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T23:38:04.975Z",
-  "latencyMs": 706,
+  "executedAt": "2026-10-18T23:42:27.804Z",
+  "latencyMs": 1162,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #717: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #716: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "GaPbQwLDPjSXGR9JxxG1aJLNthuxG58dM2XukBi8pump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Avengers-level protests in France, live and unhinged.",
+      "url": "https://dexscreener.com/solana/gapbqwldpjsxgr9jxxg1ajlnthuxg58dm2xukbi8pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "6AZCEfnhaPDHghHhH4nArD3jXgdHnG54FXJPE3nApump",
       "boostAmount": 100,
       "totalBoostAmount": 130,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 60,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/7gdy7cgqbbmjr6j8wtd9mzps6w4sfebyq2avcvlajupx"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "G2b4ZNxLjgTnVtPbuHpK9WXpccFCedoLYQ5uxvdEpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "a bullish green cat",
-      "url": "https://dexscreener.com/solana/g2b4znxljgtnvtpbuhpk9wxpccfcedolyq5uxvdepump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Doge Pepe",
       "symbol": "DOPE",
-      "marketCapRank": 650,
-      "priceBtc": 3.670348168764e-7
+      "marketCapRank": 641,
+      "priceBtc": 3.605428877222974e-7
     },
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 675,
-      "priceBtc": 3.437790858306e-7
+      "marketCapRank": 716,
+      "priceBtc": 3.270684188377295e-7
     },
     {
       "name": "Tetsuo Super Intelligence",
       "symbol": "TSI",
-      "marketCapRank": 876,
-      "priceBtc": 2.2394139307056004e-7
+      "marketCapRank": 873,
+      "priceBtc": 2.272092003290248e-7
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
-      "marketCapRank": 788,
-      "priceBtc": 2.6465566057893735e-7
+      "marketCapRank": 794,
+      "priceBtc": 2.6895565041203266e-7
     },
     {
       "name": "hi",
       "symbol": "HI",
-      "marketCapRank": 839,
-      "priceBtc": 2.4086259250254e-7
+      "marketCapRank": 825,
+      "priceBtc": 2.393709256802575e-7
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.174115182008175e-8
+      "priceBtc": 9.14436690967455e-8
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009643294824358962
+      "priceBtc": 0.0009610772022780567
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0021016257770672
+      "priceBtc": 0.9991475120686751
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "[Indexer] GET /api/indexer/stats is an unauthenticated full-table aggregation that blocks the shared event loop (stalls indexing)",
+      "url": "https://github.com/asentum-network/asentum-explorer/issues/45",
+      "createdAt": "2026-10-18T23:40:37Z"
     },
     {
-      "title": "[AsePad] sell() trusts the token's transferFrom return value — a lying token drains the curve ASE reserve from an address holding zero token",
-      "url": "https://github.com/asentum-network/asentum-explorer/issues/44",
-      "createdAt": "2026-10-18T23:35:09Z"
+      "title": "fix: least-privilege env files, Caddy X-Real-IP + edge limits, pairs daemon, alert coverage",
+      "url": "https://github.com/Decentral-America/infra/pull/222",
+      "createdAt": "2026-10-18T23:41:51Z"
     },
     {
-      "title": "Harden Phase 1: atomic reward approval, payout finalization, and exact token amounts",
-      "url": "https://github.com/bitXbit-aus/bitxbit-rebrand/pull/1",
-      "createdAt": "2026-10-18T22:40:04Z"
+      "title": "[api/upload] Unauthenticated upload endpoint trusts the client-supplied address — anyone can write into any wallet's Cloudinary folder",
+      "url": "https://github.com/asentum-network/social/issues/2",
+      "createdAt": "2026-10-18T23:41:37Z"
     },
     {
-      "title": "A delayed building-target projectile retains the burst's stale aim",
-      "url": "https://github.com/qbisi/mechcore/issues/1216",
-      "createdAt": "2026-10-18T23:35:24Z"
-    },
-    {
-      "title": "[RFC]: Strcutured Outputs Not Respected When Reasoning Implicitly Ends",
-      "url": "https://github.com/vllm-project/vllm/issues/60722",
-      "createdAt": "2026-10-08T21:31:44Z"
+      "title": "RPC trust is a self-reported string — a rogue node fabricates receipts (waitReceipt ignores txHash/success) and invalid ase1 addresses fail ",
+      "url": "https://github.com/asentum-network/asentum-connect/issues/2",
+      "createdAt": "2026-10-18T23:41:17Z"
     },
     {
       "title": "ext(recipe): score-centering and std-normalization knobs; overfit8-a3 config",
       "url": "https://github.com/listar2000/miles/pull/40",
       "createdAt": "2026-10-18T23:34:46Z"
+    },
+    {
+      "title": "[rpc-validation] Host guard runs only for http: — https:// loopback / link-local / cloud-metadata RPC URLs pass validation (SSRF)",
+      "url": "https://github.com/asentum-network/asentum-connect/issues/1",
+      "createdAt": "2026-10-18T23:40:58Z"
     }
   ]
 }
