@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T09:28:47.461Z",
-  "latencyMs": 877,
+  "executedAt": "2026-10-18T09:42:38.428Z",
+  "latencyMs": 1119,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #619: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #620: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "near",
+      "tokenAddress": "robin-3.nearlytrade.near",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "There is no Batman without Robin",
+      "url": "https://dexscreener.com/near/robin-3.nearlytrade.near"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "5Nkqtw9ZRhpWF6LHhR25y2QtgqQDQRNftBmnHVDRpump",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 110,
       "description": "$IMOLEST — One More Thing…\n\nThe forbidden Apple product.\n\nSteve Jobs gave the world Apple. Epstein gave the world a scandal that refuses to die.\n\nNow imagine th",
       "url": "https://dexscreener.com/solana/7iym9cjpkknylvjfq4pyyjubk83dnqxtpdrrdf77pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "6jijW4Ne924kqj8XYLKXFrhpeHy5y2qxoKgGzJHQpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "PLUTO AI — The AI That Controls Your Computer.\n\nPLUTO is an autonomous AI desktop assistant designed to turn your voice into real actions on your computer. Unli",
-      "url": "https://dexscreener.com/solana/6jijw4ne924kqj8xylkxfrhpehy5y2qxokggzjhqpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 867,
-      "priceBtc": 2.6834683213581923e-7
+      "marketCapRank": 940,
+      "priceBtc": 1.971865584162649e-7
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 36,
-      "priceBtc": 0.0032764611466279407
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00006070821858092152
+      "priceBtc": 0.003288017371971928
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009625059259355193
+      "priceBtc": 0.0009641038795711124
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00006093744803600363
+    },
+    {
+      "name": "Monero",
+      "symbol": "XMR",
+      "marketCapRank": 13,
+      "priceBtc": 0.007124832414061535
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 99,
-      "priceBtc": 0.000022865661616421563
+      "marketCapRank": 100,
+      "priceBtc": 0.000022579133793597083
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 632,
-      "priceBtc": 0.001316131326902701
+      "marketCapRank": 634,
+      "priceBtc": 0.0013064318054788152
     },
     {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 189,
-      "priceBtc": 0.0000034392092164687794
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 117,
-      "priceBtc": 7.808708725600816e-7
+      "name": "Ethena",
+      "symbol": "ENA",
+      "marketCapRank": 41,
+      "priceBtc": 0.0000023171037804033096
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Handle receiver peer disconnects without reporting storage failure",
+      "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/39",
+      "createdAt": "2026-10-10T21:16:13Z"
+    },
+    {
+      "title": "Bump follow-redirects from 1.15.4 to 1.16.1 in /faucet-wasm/scrypt",
+      "url": "https://github.com/Alarm2024/PoWFaucet/pull/4",
+      "createdAt": "2026-10-18T09:40:56Z"
+    },
+    {
+      "title": "Bump the npm_and_yarn group across 4 directories with 16 updates",
+      "url": "https://github.com/Alarm2024/PoWFaucet/pull/3",
+      "createdAt": "2026-10-18T09:40:50Z"
+    },
     {
       "title": "Guild Shop foundation: rewards, event tokens and construction definitions",
       "url": "https://github.com/elroynbenjamins/Veldryn/pull/594",
       "createdAt": "2026-10-18T08:50:54Z"
     },
     {
-      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
-      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
-      "createdAt": "2026-10-11T10:45:50Z"
-    },
-    {
-      "title": "Use a bottom sheet for the mobile APY breakdown and improve responsiveness",
-      "url": "https://github.com/trezor/trezor-suite/issues/33680",
-      "createdAt": "2026-10-18T09:17:19Z"
-    },
-    {
-      "title": "feat(sanctions): screen seeded names, aliases and IMO identifiers",
-      "url": "https://github.com/koala73/worldmonitor/pull/9360",
-      "createdAt": "2026-10-18T09:09:00Z"
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
     },
     {
       "title": "fix: verify Lightning claims before reporting refunds",
       "url": "https://github.com/arkade-os/shielded/pull/58",
       "createdAt": "2026-10-18T09:23:33Z"
-    },
-    {
-      "title": "M1: Full review of qclab and notebooks",
-      "url": "https://github.com/AI-assisted-projects/EOICT-QuantumComputing/pull/3",
-      "createdAt": "2026-10-17T22:31:58Z"
     }
   ]
 }
