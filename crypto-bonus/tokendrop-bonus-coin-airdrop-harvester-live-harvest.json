@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T11:36:53.089Z",
-  "latencyMs": 1649,
+  "executedAt": "2026-10-18T11:38:52.144Z",
+  "latencyMs": 737,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #634: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #635: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(core): drive datasource connections on a runtime no RPC worker can block",
+      "url": "https://github.com/solana-foundation/surfpool/pull/871",
+      "createdAt": "2026-10-18T11:34:20Z"
+    },
+    {
       "title": "Guild Token Shop: verified rewards, gated purchases and shared construction",
       "url": "https://github.com/elroynbenjamins/Veldryn/pull/594",
       "createdAt": "2026-10-18T08:50:54Z"
+    },
+    {
+      "title": "Homepage refresh + design system/QA + advanced search & onboarding",
+      "url": "https://github.com/charanpendota98-prog/shubhalagnam/pull/18",
+      "createdAt": "2026-10-15T12:18:48Z"
+    },
+    {
+      "title": "Browser app on GitHub Pages, one portable binary per platform, nearby devices",
+      "url": "https://github.com/digitaldanis/multidrop/pull/24",
+      "createdAt": "2026-10-18T05:46:52Z"
     },
     {
       "title": "Central message board — Hermes, Claude, Codex and operator coordination",
@@ -278,21 +293,6 @@
       "title": "fix(agent): read every Helius asset page for the Solana wallet balance",
       "url": "https://github.com/elizaOS/eliza/pull/36888",
       "createdAt": "2026-10-18T11:29:57Z"
-    },
-    {
-      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
-      "createdAt": "2026-10-06T11:40:04Z"
-    },
-    {
-      "title": "[Smart Contracts] Consolidate incentive, incentive_mgmt and incentive_storage modules",
-      "url": "https://github.com/Xoulomon/Scavenger/issues/1511",
-      "createdAt": "2026-10-15T15:26:36Z"
-    },
-    {
-      "title": "feat(frontend): Build dedicated WalletConnectModal with Freighter, secret key, and read-only connection flows",
-      "url": "https://github.com/Epta-Node/ai-net/issues/817",
-      "createdAt": "2026-10-18T11:34:37Z"
     }
   ]
 }
