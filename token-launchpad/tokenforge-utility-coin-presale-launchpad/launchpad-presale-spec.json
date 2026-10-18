@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T16:59:56.600Z",
-  "latencyMs": 341,
+  "executedAt": "2026-10-18T17:02:05.517Z",
+  "latencyMs": 246,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #668: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #669: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52776724,
+    "liveBlockNumber": 52776789,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 138265,
+    "baseMainnetTopPoolsVolume24hUsd": 138242,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "49MzMvX1efkhCS71TqRyn27pvUdNDFyJrWEgNUazpump",
+        "description": "War In France $WIF\nFrance is cooked. The trenches are calling.\nJust a dog, a helmet, and a mission on Solana.\nNo rules. No peace. Just vibes. \nVive la guerre. V",
+        "url": "https://dexscreener.com/solana/49mzmvx1efkhcs71tqryn27pvudndfyjrwegnuazpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EUFLCLeQjwAtLDLQnELGPH3QiQRy2wjLabtdZ5xDpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/euflcleqjwatldlqnelgph3qiqry2wjlabtdz5xdpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x6AC45B6b58E156769d3b9e2dFf1B6E604b74C7a3",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0x6ac45b6b58e156769d3b9e2dff1b6e604b74c7a3"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DkoXZcfbuzJoxHWm2CQ5D8osofha3gUAaUZy7Kx4pump",
@@ -63,24 +81,6 @@
         "tokenAddress": "6Np9cqopJVxSaWnu7hvYXdkbEQezJG7UkzfRA5mcpump",
         "description": "VERX hides the AMOUNT of a Solana transfer. Not with a pool, not with fresh wallets: with Token-2022 confidential transfers, ElGamal ciphertexts and zero-knowle",
         "url": "https://dexscreener.com/solana/6np9cqopjvxsawnu7hvyxdkbeqezjg7ukzfra5mcpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FP8GB41QkTbKmDd58sC6qA9Tfevf44W8iGSHyaXqpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fp8gb41qktbkmdd58sc6qa9tfevf44w8igshyaxqpump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x02155fa5cd7245a0aaBecA18177C1f5000f87777",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/bsc/0x02155fa5cd7245a0aabeca18177c1f5000f87777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "E5zt5LkStsmW9NKGUcJb3fLaHyiUAbWKxFQN1rt7pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/e5zt5lkstsmw9nkgucjb3flahyiuabwkxfqn1rt7pump"
       }
     ]
   },
