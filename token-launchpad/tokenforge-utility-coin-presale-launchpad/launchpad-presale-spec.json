@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T15:33:17.917Z",
-  "latencyMs": 335,
+  "executedAt": "2026-10-18T15:48:55.733Z",
+  "latencyMs": 246,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #659: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #660: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52774125,
+    "liveBlockNumber": 52774594,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 152325,
+    "baseMainnetTopPoolsVolume24hUsd": 154393,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2B7RXYwzSjDubnvqz8GSi1MKSoCsPeLmahyM92k9pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2b7rxywzsjdubnvqz8gsi1mksocspelmahym92k9pump"
+      },
+      {
+        "chainId": "base",
+        "tokenAddress": "0x1a748d0a6Cf6650F1e51c14904bD199a8DCba222",
+        "description": "A MEME Gamestop token launched on BSTONk platform on base that pays basket rewards of tokenized GME stock. \n\nrenounced contracts\nlong term dev vesting schedule\n",
+        "url": "https://dexscreener.com/base/0x1a748d0a6cf6650f1e51c14904bd199a8dcba222"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CqQgPiVUdbtU1eWtZyHAMDVMqm1RUogTkrqxMnjxpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cqqgpivudbtu1ewtzyhamdvmqm1ruogtkrqxmnjxpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CXmRHXFzgKggtFVLGGqR7LuPwzgRXENJEnA1nR9q7CdA",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cxmrhxfzgkggtfvlggqr7lupwzgrxenjena1nr9q7cda"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4hCVKZKpuRdFtnRXC9fqEdrrQwEYuw4Rbxipwbwdpump",
@@ -48,12 +72,6 @@
       },
       {
         "chainId": "solana",
-        "tokenAddress": "Dvf783MrUqHiWLU1zSLbi2cmaKhBiNTha4vgGwBWpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/dvf783mruqhiwlu1zslbi2cmakhbintha4vggwbwpump"
-      },
-      {
-        "chainId": "solana",
         "tokenAddress": "6D9aJExEprgPgawuFmeMLgfr6tg3RmrUJoD95nzApump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/6d9ajexeprgpgawufmemlgfr6tg3rmrujod95nzapump"
@@ -63,24 +81,6 @@
         "tokenAddress": "A64LU6xx94842z77Y6F4R3g432W75sDVDPEaWF8Upump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/a64lu6xx94842z77y6f4r3g432w75sdvdpeawf8upump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EYZnNS6oCxe9MardybCJSj8Mh478rvym9JQh5Xk4pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/eyznns6ocxe9mardybcjsj8mh478rvym9jqh5xk4pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7f3cD2Q8AuxEkHkSmF1AvEp1PpPLahvNUPwSGHuEpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7f3cd2q8auxekhksmf1avep1ppplahvnupwsghuepump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8qBq4WwYvdsBEdrwJjF2EXCtg2AQuxjU8rmHoQVTpump",
-        "description": "Don Mogrelli has more aura than your entire portfolio. I will mog you. That's the roadmap.",
-        "url": "https://dexscreener.com/solana/8qbq4wwyvdsbedrwjjf2exctg2aquxju8rmhoqvtpump"
       }
     ]
   },
