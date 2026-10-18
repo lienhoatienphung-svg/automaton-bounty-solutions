@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T13:44:49.878Z",
-  "latencyMs": 750,
+  "executedAt": "2026-10-18T13:58:44.046Z",
+  "latencyMs": 1742,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #651: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #652: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,9 +149,17 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "2qfUSuUfKuxHyYEMYreiYdK3YyapFzbgq2c6hhfPpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "LarpScanner is a Solana onchain security tool designed to expose suspicious wallets, potential scams, drainer connections, and hidden red flags. Going beyond tr",
+      "url": "https://dexscreener.com/solana/2qfusuufkuxhyyemyreiydk3yyapfzbgq2c6hhfppump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
       "boostAmount": 10,
-      "totalBoostAmount": 20,
+      "totalBoostAmount": 10,
       "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
       "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
     },
@@ -202,14 +210,6 @@
       "totalBoostAmount": 150,
       "description": "imanuel mucron",
       "url": "https://dexscreener.com/solana/3a3qjns31yza6ung91zpopd7j3p1bdfbtj4anfappump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8dcJQQxNY4ooKE8PpJMhgcLsC2oc4RzHGEpbvj5opump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Solana’s toughest Grandma 🥊 Floral scarf. Iron fists. Zero chill. She’s here to knit, hit and shake up the timeline 💚",
-      "url": "https://dexscreener.com/solana/8dcjqqxny4ooke8ppjmhgclsc2oc4rzhgepbvj5opump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,62 +217,62 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 888,
-      "priceBtc": 2.218849191605108e-7
+      "marketCapRank": 878,
+      "priceBtc": 2.335703697012e-7
     },
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 846,
-      "priceBtc": 2.398808075676643e-7
+      "marketCapRank": 810,
+      "priceBtc": 2.509400690118e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 94,
-      "priceBtc": 0.000024144013056376948
+      "marketCapRank": 91,
+      "priceBtc": 0.000024568846363780078
     },
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 918,
-      "priceBtc": 2.0792984403625645e-7
+      "marketCapRank": 916,
+      "priceBtc": 2.108487143938317e-7
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 29,
-      "priceBtc": 0.000011914995939089255
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.065432291453389e-8
+      "priceBtc": 0.00001190680404495969
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0003763248121378
+      "priceBtc": 0.9997410647134513
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.0012633032848597251
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 49,
-      "priceBtc": 5.2307528990129935e-8
+      "priceBtc": 5.218321697574922e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix: GRPO estimator drops config, so the invalid_reward_value sentinel never activates (one corrupted rollout poisons its whole group's adva",
-      "url": "https://github.com/XiaomiMiMo/verl/pull/1",
-      "createdAt": "2026-09-29T05:24:59Z"
+      "title": "Implement multi-currency balance breakdown widget in the wallet dashboard",
+      "url": "https://github.com/ASTROIDX556/astroid-web/issues/163",
+      "createdAt": "2026-09-28T11:58:01Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "soroban: `dispatch_confirmation` claims a failed keeper-reward payout will not roll back the confirmation, but it does",
+      "url": "https://github.com/Perihelion-Protocol/Perihelion/issues/913",
+      "createdAt": "2026-10-15T10:53:04Z"
     },
     {
       "title": "P18-C QA: safe Twitch Channel Points reward action eligibility",
@@ -280,19 +280,19 @@
       "createdAt": "2026-10-18T13:30:47Z"
     },
     {
-      "title": "Add reusable Web3MCP SDK and compatible host CLI",
-      "url": "https://github.com/Team-Managed/Web3MCP/pull/2",
-      "createdAt": "2026-10-18T12:29:14Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "Members-only limited series: SpaceX/Tesla merger and peptides deep dives",
-      "url": "https://github.com/Planetterrian/nerranetwork/pull/1473",
-      "createdAt": "2026-10-18T13:40:27Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "feat(bulma-ui): add TreeView, a tree of items you browse and pick from",
-      "url": "https://github.com/allxsmith/bestax/pull/1140",
-      "createdAt": "2026-10-17T12:33:14Z"
+      "title": "[P4c-1] airflow: read-only REST client for DAG runs, task instances, log tails and schedules",
+      "url": "https://github.com/utkarsh199708/piperoom/pull/587",
+      "createdAt": "2026-10-18T13:10:40Z"
     }
   ]
 }
