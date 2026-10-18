@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T11:19:06.217Z",
-  "latencyMs": 1431,
+  "executedAt": "2026-10-18T11:21:08.371Z",
+  "latencyMs": 773,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #632: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #633: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(docs): try-it-live API console on /docs (spike 662)",
+      "url": "https://github.com/PHASE-STELLAR/Phase/pull/579",
+      "createdAt": "2026-10-18T11:20:46Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
       "title": "Multisig Phase 4: the treasury live, attention, nicknames, help",
       "url": "https://github.com/ashwinarora/hl-tools/pull/8",
       "createdAt": "2026-10-11T08:46:43Z"
@@ -275,11 +285,6 @@
       "createdAt": "2026-05-28T21:54:45Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
       "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
       "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
       "createdAt": "2026-09-23T12:34:40Z"
@@ -288,11 +293,6 @@
       "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
       "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
       "createdAt": "2026-10-12T04:03:25Z"
-    },
-    {
-      "title": "Pre-launch: RCHIPs that invalidate node data or deploy code (hard-fork tracker)",
-      "url": "https://github.com/rchain-community/rchain-rust/issues/51",
-      "createdAt": "2026-09-13T16:22:00Z"
     }
   ]
 }
