@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T12:41:45.037Z",
-  "latencyMs": 976,
+  "executedAt": "2026-10-18T12:54:36.048Z",
+  "latencyMs": 754,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #643: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #644: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 914,
-      "priceBtc": 2.1260198104172661e-7
+      "marketCapRank": 918,
+      "priceBtc": 2.1064888374365953e-7
     },
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 892,
-      "priceBtc": 2.1935790128727685e-7
+      "marketCapRank": 936,
+      "priceBtc": 2.041073015650217e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 97,
-      "priceBtc": 0.000023466976413118404
+      "priceBtc": 0.000023553580232825237
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 120,
+      "priceBtc": 9.110079342010955e-8
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 635,
-      "priceBtc": 0.0013041487940540376
+      "priceBtc": 0.0013036883019965904
     },
     {
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 112,
-      "priceBtc": 0.0000013390162897309533
+      "priceBtc": 0.0000013526245611537227
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9989382022290343
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000011953919477465194
+      "priceBtc": 0.9986140954170808
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 49,
-      "priceBtc": 5.2013416129706523e-8
+      "priceBtc": 5.201070947020936e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Add deadline countdown, create-bounty balance check, leaderboard range tabs, and profile reputation chart",
+      "url": "https://github.com/mergemint-mint/mergemint-contracts/pull/1147",
+      "createdAt": "2026-10-18T12:53:18Z"
+    },
     {
       "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
       "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
       "createdAt": "2026-10-12T21:43:27Z"
     },
     {
-      "title": "fix: src/airdrop.rs is one line of literal `\\n` text around an empty `airdrop()` — implement airdrop",
-      "url": "https://github.com/Lead-Studios/veritix-contract/issues/1044",
-      "createdAt": "2026-10-12T12:14:35Z"
+      "title": "[Translations] Give translators full sentences instead of punctuation fragments",
+      "url": "https://github.com/Cockatrice/Cockatrice/pull/6487",
+      "createdAt": "2026-01-03T12:52:47Z"
     },
     {
-      "title": "Feat/stellar native nft reward tiers",
-      "url": "https://github.com/Fundable-Protocol/stellar_client_os/pull/1293",
-      "createdAt": "2026-10-18T12:40:50Z"
+      "title": "perf(jit): resolve old Vyper memory returns and drop unreached blocks",
+      "url": "https://github.com/alloy-rs/evm2/pull/687",
+      "createdAt": "2026-10-18T11:29:21Z"
     },
     {
-      "title": "[DBIP] Identify faucet tokens by contract or ASA ID, separately from drip amounts",
-      "url": "https://github.com/Chain-Love/chain-love/issues/4621",
-      "createdAt": "2026-10-18T12:40:19Z"
+      "title": "perf(jit): switch dynamic jumps on a dense index",
+      "url": "https://github.com/alloy-rs/evm2/pull/609",
+      "createdAt": "2026-10-15T00:19:06Z"
     },
     {
-      "title": "Fix: 4 issues (#85, #98, #106, #111)",
-      "url": "https://github.com/Konfirm-xyz/konfirm-frontend/pull/192",
-      "createdAt": "2026-10-18T12:38:30Z"
-    },
-    {
-      "title": "test(integration): add concurrent credential and reward claim integration test",
-      "url": "https://github.com/ChainLearnOfficial/chainlearn-contracts/pull/655",
-      "createdAt": "2026-10-18T12:38:20Z"
+      "title": "perf: use memory ranges for call inputs",
+      "url": "https://github.com/alloy-rs/evm2/pull/473",
+      "createdAt": "2026-09-23T14:41:52Z"
     }
   ]
 }
