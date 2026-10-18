@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T22:23:46.192Z",
-  "latencyMs": 915,
+  "executedAt": "2026-10-18T22:25:57.738Z",
+  "latencyMs": 745,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #708: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #709: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "G2b4ZNxLjgTnVtPbuHpK9WXpccFCedoLYQ5uxvdEpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "a bullish green cat",
+      "url": "https://dexscreener.com/solana/g2b4znxljgtnvtpbuhpk9wxpccfcedolyq5uxvdepump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "DY8RnodHBj4U2tEBeGCzf3zwmeZ4kdPgA6wGd45Gpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/7gdy7cgqbbmjr6j8wtd9mzps6w4sfebyq2avcvlajupx"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "4qH8A5GxvRMZgpRFjXASc6U9HAoEzKeUqxY2dPB7pump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Token based on Grok's Official Mascot 👽 | Named & Confirmed by Grok Himself 4/17/2025 💚 Groklet is described as a curious teal alien explorer with a , who lov",
-      "url": "https://dexscreener.com/solana/4qh8a5gxvrmzgprfjxasc6u9haoezkeuqxy2dpb7pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
