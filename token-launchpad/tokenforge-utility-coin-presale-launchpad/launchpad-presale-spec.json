@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T13:44:51.403Z",
-  "latencyMs": 259,
+  "executedAt": "2026-10-18T13:47:09.606Z",
+  "latencyMs": 349,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #646: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #647: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52770872,
+    "liveBlockNumber": 52770941,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 156537,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "13cb5v6kDFqD74qMr9BV6X9T5KhfZjQDUniheEcypump",
+        "description": "Boo!",
+        "url": "https://dexscreener.com/solana/13cb5v6kdfqd74qmr9bv6x9t5khfzjqduniheecypump"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0x5269cAC4279825917c07761C8E162f9bfc79734f",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x61ca50c67EC7cB9D3B374340511d62c10494154c",
         "description": "One wild emu. One red roadster. Zero plans to stop.\n 🏃 Meet EmuEscape ($EMRUN): California sunshine, coastal chaos, and a bird born to run. \n CAN’T FLY. WON’T ",
         "url": "https://dexscreener.com/robinhood/0x61ca50c67ec7cb9d3b374340511d62c10494154c"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AJUWBjsVSxLAyuoimM3nxHFiYFxzGf2MRFn9pGURCYhS",
-        "description": "🦊💕 Meet Dolly, the adorable newborn red panda stealing hearts at the National Zoo!\n\nNamed through a public vote and inspired by the late legendary Dolly Parto",
-        "url": "https://dexscreener.com/solana/ajuwbjsvsxlayuoimm3nxhfiyfxzgf2mrfn9pgurcyhs"
       }
     ]
   },
