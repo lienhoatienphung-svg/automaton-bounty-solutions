@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T14:55:10.558Z",
-  "latencyMs": 338,
+  "executedAt": "2026-10-18T14:57:21.608Z",
+  "latencyMs": 352,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #654: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #655: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52772981,
+    "liveBlockNumber": 52773047,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459005,
-    "baseMainnetTopPoolsVolume24hUsd": 156651,
+    "baseMainnetTopPoolsLiquidityUsd": 459006,
+    "baseMainnetTopPoolsVolume24hUsd": 156399,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BQjji228bLkqG9Rj6uSBzgeam2fBTEgDqfP1UGYipump",
+        "description": "Jovir ($JOVIR) is building a privacy layer for Solana, using zero-knowledge proofs to help users transact without exposing unnecessary financial information.",
+        "url": "https://dexscreener.com/solana/bqjji228blkqg9rj6usbzgeam2fbtegdqfp1ugyipump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xfffec66aa1ae8e8b31d15cbf6c1c49df2fe14440",
@@ -75,12 +81,6 @@
         "tokenAddress": "4TW8tUE8jXJQSCU2mxULHSJX9CGwQmoACQR861fRpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/4tw8tue8jxjqscu2mxulhsjx9cgwqmoacqr861frpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x7637e30548afb698e41534e6c86fcd5209466fef",
-        "description": "Run a 125B AI model on your own gaming PC. Benchmarks, real-time replays and setup guides for the open-source Strata engine. Community project.",
-        "url": "https://dexscreener.com/robinhood/0x7637e30548afb698e41534e6c86fcd5209466fef"
       }
     ]
   },
