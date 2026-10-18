@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T07:47:50.097Z",
-  "latencyMs": 340,
+  "executedAt": "2026-10-18T08:01:27.352Z",
+  "latencyMs": 687,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #603: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #604: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52760161,
+    "liveBlockNumber": 52760569,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459018,
-    "baseMainnetTopPoolsVolume24hUsd": 178992,
+    "baseMainnetTopPoolsVolume24hUsd": 181156,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Bouncec5ivdidyfHH8GtXadgpqSrYcWUYyHWhsVEro57",
+        "description": "The French revolution begins with the Bounce Cat\n\nBouncing to millions",
+        "url": "https://dexscreener.com/solana/bouncec5ivdidyfhh8gtxadgpqsrycwuyyhwhsvero57"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "B8RppSzriLgRehHRJ5mMRVwFKwdD2gymAqUBuVUxpump",
+        "description": "The French Rebellion Logo",
+        "url": "https://dexscreener.com/solana/b8rppszrilgrehhrj5mmrvwfkwdd2gymaqubuvuxpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x7b456C121bDCB10F0c23CfB20FA7cBd9ce0b40Ee",
@@ -69,18 +81,6 @@
         "tokenAddress": "A25qSmSKGgVmvU8qNxzSq7UjF3RSE9YVu54LFoYrpump",
         "description": "A tiny animal named  Bison is very sick and can't seem to live without his stuffed animal Cuddles.",
         "url": "https://dexscreener.com/solana/a25qsmskggvmvu8qnxzsq7ujf3rse9yvu54lfoyrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EnEkfiz7RyDNabMbwAE5mmosEwNfZkh7UhURT7fqpump",
-        "description": "THIS IS FKING GENNY - Solana validators just leaked the chinese name for the sol community.\n\nCalled \"佛金疯\" which literally means a fucking crazy/insane community",
-        "url": "https://dexscreener.com/solana/enekfiz7rydnabmbwae5mmosewnfzkh7uhurt7fqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "JGRKJ7i34dbSGhx3rEQAVf2wTAqLUq2AivzNu9Mpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/jgrkj7i34dbsghx3reqavf2wtaqluq2aivznu9mpump"
       }
     ]
   },
