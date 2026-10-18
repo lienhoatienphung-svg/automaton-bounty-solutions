@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-18T18:31:16.787Z",
-  "latencyMs": 1516,
+  "executedAt": "2026-10-18T18:34:18.640Z",
+  "latencyMs": 1132,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #662: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #663: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "boards 03/07: regenerate routed artifacts under kicad-cli-exact length (USB_D 1.246 mm, ADDR_BUS 1.0998 mm skew)",
+          "url": "https://github.com/rjwalters/kicad-tools/issues/6730",
+          "repositoryUrl": "https://api.github.com/repos/rjwalters/kicad-tools",
+          "updatedAt": "2026-10-18T18:34:16Z"
+        },
+        {
+          "title": "T5: Heavy-operation leases + load-aware spawn admission (#7)",
+          "url": "https://github.com/kryptek/volley/pull/42",
+          "repositoryUrl": "https://api.github.com/repos/kryptek/volley",
+          "updatedAt": "2026-10-18T18:34:15Z"
+        },
+        {
+          "title": "Qualify live passkey step-up with a disposable Chromium authenticator",
+          "url": "https://github.com/baobab-platform/baobab-iam/pull/122",
+          "repositoryUrl": "https://api.github.com/repos/baobab-platform/baobab-iam",
+          "updatedAt": "2026-10-18T18:34:14Z"
+        },
+        {
+          "title": "build(deps): bump react-router from 7.18.4 to 8.4.0 in /ui",
+          "url": "https://github.com/kkovaletp/photoview/pull/1250",
+          "repositoryUrl": "https://api.github.com/repos/kkovaletp/photoview",
+          "updatedAt": "2026-10-18T18:34:14Z"
+        },
+        {
+          "title": "feat: let an operator mark an identity provider as standing in for the local code",
+          "url": "https://github.com/LatticeNet/lattice-dashboard/pull/125",
+          "repositoryUrl": "https://api.github.com/repos/LatticeNet/lattice-dashboard",
+          "updatedAt": "2026-10-18T18:34:13Z"
+        },
+        {
+          "title": "ci(security): restore dependency graph submission",
+          "url": "https://github.com/dceoy/docker-claude-code/pull/17",
+          "repositoryUrl": "https://api.github.com/repos/dceoy/docker-claude-code",
+          "updatedAt": "2026-10-18T18:34:12Z"
+        },
+        {
+          "title": "feat(rental): expose job service lifecycle",
+          "url": "https://github.com/nbt4/cores-mcp/pull/26",
+          "repositoryUrl": "https://api.github.com/repos/nbt4/cores-mcp",
+          "updatedAt": "2026-10-18T18:34:12Z"
+        },
+        {
+          "title": "Require acted movies and assemble reviewed native dialogue with captions",
+          "url": "https://github.com/sandeepjoseph/social-media-generation-project/pull/2",
+          "repositoryUrl": "https://api.github.com/repos/sandeepjoseph/social-media-generation-project",
+          "updatedAt": "2026-10-18T18:34:12Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
