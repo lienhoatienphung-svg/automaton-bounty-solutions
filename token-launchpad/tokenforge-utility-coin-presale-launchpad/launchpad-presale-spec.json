@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T06:42:46.066Z",
-  "latencyMs": 328,
+  "executedAt": "2026-10-18T06:44:57.043Z",
+  "latencyMs": 318,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #594: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #595: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52758209,
+    "liveBlockNumber": 52758274,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459015,
-    "baseMainnetTopPoolsVolume24hUsd": 198684,
+    "baseMainnetTopPoolsVolume24hUsd": 198677,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "bcmpxaDhv9TiArHoqjcHATMKKxEkomyTjzNtmQRpump",
+        "description": "🐎 KA YING RISING ($KYR) 🚀\nFrom the racetrack to the blockchain! 🏆 Inspired by the legendary Ka Ying Rising, this meme coin brings racing energy, speed, and c",
+        "url": "https://dexscreener.com/solana/bcmpxadhv9tiarhoqjchatmkkxekomytjzntmqrpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5D3Nafx9SV2TNd6KLmnyWi71QQTGZaGJBAqghk4Tpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "7cGwkqCfEDCVsMm1fHQVRcwELyFkVYkLcyhxMQ2Ppump",
         "description": "The trenches need to go back to their roots.\n\nEnough of the fake tech, AI agents, and recycled narratives that nobody actually cares about.\n\nWhat made this spac",
         "url": "https://dexscreener.com/solana/7cgwkqcfedcvsmm1fhqvrcwelyfkvyklcyhxmq2ppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "PonziBtgwfemdft5ch9Rj9pKcSPSx5cJbgPiGJNAxz7",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ponzibtgwfemdft5ch9rj9pkcspsx5cjbgpigjnaxz7"
       }
     ]
   },
