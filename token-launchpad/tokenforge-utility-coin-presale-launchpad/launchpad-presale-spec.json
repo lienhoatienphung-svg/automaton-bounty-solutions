@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T19:40:09.687Z",
-  "latencyMs": 245,
+  "executedAt": "2026-10-18T19:41:57.977Z",
+  "latencyMs": 1161,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #686: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #687: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52781531,
-    "liveGasPriceGwei": 0.0075,
+    "liveBlockNumber": 52781584,
+    "liveGasPriceGwei": 0.0078,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459014,
-    "baseMainnetTopPoolsVolume24hUsd": 133089,
+    "baseMainnetTopPoolsVolume24hUsd": 133449,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5FhSAqiiYQNHXjfpdrq1XiZoQ6wWYmyibq6EUSF2keWf",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/5fhsaqiiyqnhxjfpdrq1xizoq6wwymyibq6eusf2kewf"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "AKoEWZWMNnzEjLeWYSHdv2StYJz23qmfz52cU4SXpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0xC6B292b0562839F57f5c4D8E778eB272d19a7777",
         "description": "PIERRE a micromania hero store owner lost everything or nearly so, but he's still holding onto his door.\n\nFees go to his TikTok @stonesbrushstudio.",
         "url": "https://dexscreener.com/bsc/0xc6b292b0562839f57f5c4d8e778eb272d19a7777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8uGriK4LG71MzdVwjbVis8S4hgg5mrG45SgPgrmEpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8ugrik4lg71mzdvwjbvis8s4hgg5mrg45sgpgrmepump"
       }
     ]
   },
