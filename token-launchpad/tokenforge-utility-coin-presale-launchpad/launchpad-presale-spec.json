@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T16:44:42.671Z",
-  "latencyMs": 246,
+  "executedAt": "2026-10-18T16:59:56.600Z",
+  "latencyMs": 341,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #667: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #668: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52776267,
+    "liveBlockNumber": 52776724,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,56 +31,56 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 138900,
+    "baseMainnetTopPoolsVolume24hUsd": 138265,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
       {
         "chainId": "solana",
-        "tokenAddress": "5L6tDT1cfPi1iN8e5Uz2NZGA787HEBFKQYbw2saK1Pyp",
+        "tokenAddress": "DkoXZcfbuzJoxHWm2CQ5D8osofha3gUAaUZy7Kx4pump",
+        "description": "A community-powered meme coin for those who know the game is bigger than the game. Question everything.",
+        "url": "https://dexscreener.com/solana/dkoxzcfbuzjoxhwm2cq5d8osofha3guaauzy7kx4pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5HXHq4HQ3WJjAGFcyAg2tThrdNXnBJPt8phhk8xApump",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5l6tdt1cfpi1in8e5uz2nzga787hebfkqybw2sak1pyp"
+        "url": "https://dexscreener.com/solana/5hxhq4hq3wjjagfcyag2tthrdnxnbjpt8phhk8xapump"
+      },
+      {
+        "chainId": "cronos",
+        "tokenAddress": "0x1ddBf5b16970866f95849107eA206005f1Fffe30",
+        "description": "We’ve got #CROfam ❤️ Now it’s time to welcome #ULTfam to the family! 💙\n\nThat’s why we launched $ULTFAM — bringing the community together.\n\nLet’s build somethin",
+        "url": "https://dexscreener.com/cronos/0x1ddbf5b16970866f95849107ea206005f1fffe30"
       },
       {
         "chainId": "solana",
-        "tokenAddress": "HLMCcFB9p569oZiaMBvh1qCX1gPjna5N9FaTNS4dpump",
+        "tokenAddress": "9tpHqTJ2d8jMZJjZzsf9MCfnCEmbAjsqjPJ56PzSpump",
+        "description": "Post-quantum wallets.",
+        "url": "https://dexscreener.com/solana/9tphqtj2d8jmzjjzzsf9mcfncembajsqjpj56pzspump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6Np9cqopJVxSaWnu7hvYXdkbEQezJG7UkzfRA5mcpump",
+        "description": "VERX hides the AMOUNT of a Solana transfer. Not with a pool, not with fresh wallets: with Token-2022 confidential transfers, ElGamal ciphertexts and zero-knowle",
+        "url": "https://dexscreener.com/solana/6np9cqopjvxsawnu7hvyxdkbeqezjg7ukzfra5mcpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FP8GB41QkTbKmDd58sC6qA9Tfevf44W8iGSHyaXqpump",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hlmccfb9p569oziambvh1qcx1gpjna5n9fatns4dpump"
+        "url": "https://dexscreener.com/solana/fp8gb41qktbkmdd58sc6qa9tfevf44w8igshyaxqpump"
       },
       {
-        "chainId": "robinhood",
-        "tokenAddress": "0xe9b02b33fa7de587707495f9f30bcf70b29136fa",
-        "description": "Feast is an open source feature store that delivers structured data to AI and LLM applications at high scale during training and inference",
-        "url": "https://dexscreener.com/robinhood/0xe9b02b33fa7de587707495f9f30bcf70b29136fa"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Dz8inTcgp22n9yQ92dMG8168Wi79ANT2z3oehtdMpump",
-        "description": "Elias tweeted \"Hello World\"",
-        "url": "https://dexscreener.com/solana/dz8intcgp22n9yq92dmg8168wi79ant2z3oehtdmpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x4Bb78f36164f382bAEc864Bef60f7Cdc21dE6742",
-        "description": "Make Europe Great Again",
-        "url": "https://dexscreener.com/robinhood/0x4bb78f36164f382baec864bef60f7cdc21de6742"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ELqsDPZiASFagC1wtJRHVFg7MgifECkVkV41rhd4pump",
+        "chainId": "bsc",
+        "tokenAddress": "0x02155fa5cd7245a0aaBecA18177C1f5000f87777",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/elqsdpziasfagc1wtjrhvfg7mgifeckvkv41rhd4pump"
+        "url": "https://dexscreener.com/bsc/0x02155fa5cd7245a0aabeca18177c1f5000f87777"
       },
       {
         "chainId": "solana",
-        "tokenAddress": "6yMZv1NgnQWBeocyfCNKmdqGr3Enu3Lrdpz3TJRvpump",
-        "description": "Four wheels. One frozen pond. Zero good ideas. A ginger kitten lines up his next kickflip. The ice is already cracking under the pressure.",
-        "url": "https://dexscreener.com/solana/6ymzv1ngnqwbeocyfcnkmdqgr3enu3lrdpz3tjrvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8GGE3AC2GvGKCwXDEHqkwkGb34z6Waz3iM21Ks9epump",
-        "description": "Meet REPORA.\nThe Social Signal of Crypto.\n\nDiscover Solana projects and AI agents through community ratings and first-hand reviews.\n\nConnect your wallet. Build ",
-        "url": "https://dexscreener.com/solana/8gge3ac2gvgkcwxdehqkwkgb34z6waz3im21ks9epump"
+        "tokenAddress": "E5zt5LkStsmW9NKGUcJb3fLaHyiUAbWKxFQN1rt7pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/e5zt5lkstsmw9nkgucjb3flahyiuabwkxfqn1rt7pump"
       }
     ]
   },
