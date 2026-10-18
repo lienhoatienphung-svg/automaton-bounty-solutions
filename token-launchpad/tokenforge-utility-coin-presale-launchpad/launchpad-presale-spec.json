@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T12:58:21.470Z",
-  "latencyMs": 287,
+  "executedAt": "2026-10-18T13:09:57.681Z",
+  "latencyMs": 248,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #641: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #642: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52769477,
+    "liveBlockNumber": 52769825,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459045,
-    "baseMainnetTopPoolsVolume24hUsd": 157930,
+    "baseMainnetTopPoolsVolume24hUsd": 157752,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "AQtGhiMUSvFfd7dgfMMk93WfmzJ8zELBj3BtuowJab99",
+        "description": "Invite the Third World, become the Third World.\nMAKE EUROPE GREAT AGAIN.",
+        "url": "https://dexscreener.com/solana/aqtghimusvffd7dgfmmk93wfmzj8zelbj3btuowjab99"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "C1Hpcif5LiLfmnLY1f67op1x2mSP7Rht6HXB9mfbpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "4sZ6179cDHyozC9roLX2Lj7yCNibrmwNXeLSMFdmpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/4sz6179cdhyozc9rolx2lj7ycnibrmwnxelsmfdmpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EeGYEJBBGygP9eNzRbKmnpzjn4TCmTA4xD7qfHBJpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/eegyejbbgygp9enzrbkmnpzjn4tcmta4xd7qfhbjpump"
       }
     ]
   },
