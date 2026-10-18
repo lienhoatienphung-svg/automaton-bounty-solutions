@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T17:34:31.859Z",
-  "latencyMs": 258,
+  "executedAt": "2026-10-18T17:38:21.794Z",
+  "latencyMs": 416,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #672: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #673: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52777762,
+    "liveBlockNumber": 52777877,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 136195,
+    "baseMainnetTopPoolsVolume24hUsd": 136834,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5zHrZnfjEz5rA4RuyJaiJ6SbduepgcLA6MeMWukNNfpP",
+        "description": "Atlas is a live intelligence platform for Solana meme coins. Discover the narratives X is talking about and the coins actually trading on them, each screened by",
+        "url": "https://dexscreener.com/solana/5zhrznfjez5ra4ruyjaij6sbduepgcla6memwuknnfpp"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "E62cwgQ3s1S4VA5BV37J9pHWSnbX5QNPeCcik3R3pump",
+        "description": "coge",
+        "url": "https://dexscreener.com/solana/e62cwgq3s1s4va5bv37j9phwsnbx5qnpeccik3r3pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3s2dqdypBd4NvKk1gH3zFK98kb6A376PXYr5pKwrpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/3s2dqdypbd4nvkk1gh3zfk98kb6a376pxyr5pkwrpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4hoyJ8FitBwvGv1HEVUUaJSewWYEg46sSCsfTuZ3pump",
@@ -63,24 +81,6 @@
         "tokenAddress": "rFGJQKg5GafX7jN3LJVbMWSUaHKy3RTvGiFGSdtDyCR",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/rfgjqkg5gafx7jn3ljvbmwsuahky3rtvgifgsdtdycr"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HBovV9VNTQJsioqtvjuX1RLju3c9m7pjE9CaJcESpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hbovv9vntqjsioqtvjux1rlju3c9m7pje9cajcespump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5zBT5VM8x3Sy1H7GFYBfoD97CUioU5HZjshJkD9Wpump",
-        "description": "Avengers-level protests in France, live and unhinged.",
-        "url": "https://dexscreener.com/solana/5zbt5vm8x3sy1h7gfybfod97cuiou5hzjshjkd9wpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7UMdnRcC9zXp1wm9MteFCEJ785bk8xpfWPgdcAghpump",
-        "description": "MakeMarkets is an on-chain market-making platform built for pumpfun derived from Wintermute and DWF Labs trading equations, delivering automated liquidity fully",
-        "url": "https://dexscreener.com/solana/7umdnrcc9zxp1wm9mtefcej785bk8xpfwpgdcaghpump"
       }
     ]
   },
