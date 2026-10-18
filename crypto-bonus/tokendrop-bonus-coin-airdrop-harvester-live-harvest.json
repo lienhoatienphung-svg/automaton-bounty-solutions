@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T03:45:50.338Z",
-  "latencyMs": 740,
+  "executedAt": "2026-10-18T04:00:32.921Z",
+  "latencyMs": 706,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #577: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #578: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0xfEBe60953C71AbA4cDc3F8889020C7752769Ac29",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "$REDACTED is a classified meme asset built on Sazare and deployed on Robinhood Chain. It features a fixed supply of 1 billion tokens, WETH-denominated floor bac",
+      "url": "https://dexscreener.com/robinhood/0xfebe60953c71aba4cdc3f8889020c7752769ac29"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "8QtbrC9d3BezyCwzBFUQbNsWJGte7ckrZ7HWcn81pump",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Cross chain privacy layer for ZeroFee Wallet, Swap, and Paylinks.",
       "url": "https://dexscreener.com/solana/ervkxe8gc7ewmaqfvogfvfcdjbvg4echqr3ywetkpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "CY27QvCQBCmLBuz3V7c8snEeD4z67iyoSTkwo35Ypump",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "Every movement\nbelongs to a phase.\nMarkets rarely move in a straight line. Activity forms, accelerates, rotates and eventually resets. Eternia turns those chang",
-      "url": "https://dexscreener.com/solana/cy27qvcqbcmlbuz3v7c8sneed4z67iyostkwo35ypump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,61 +218,71 @@
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 111,
-      "priceBtc": 0.0000013417566243512677
+      "priceBtc": 0.0000013533880961969767
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00006125034252669922
-    },
-    {
-      "name": "Monero",
-      "symbol": "XMR",
-      "marketCapRank": 13,
-      "priceBtc": 0.007374136416854069
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 88,
-      "priceBtc": 0.000038411181082800666
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.00001206982468952998
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9999382403774552
+      "priceBtc": 0.00006155323214094984
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 100,
-      "priceBtc": 0.0000222432984498322
+      "priceBtc": 0.000022186040979900135
     },
     {
-      "name": "Ethena",
-      "symbol": "ENA",
-      "marketCapRank": 41,
-      "priceBtc": 0.0000023332257541822586
+      "name": "Monero",
+      "symbol": "XMR",
+      "marketCapRank": 13,
+      "priceBtc": 0.007351909010857324
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 88,
+      "priceBtc": 0.00003846636787650353
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 29,
+      "priceBtc": 0.00001211784079472631
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.0001146112128663
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.01407569969875824
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "ops(wolo): fail-closed dual-filesystem predeploy capacity check (READ ONLY)",
-      "url": "https://github.com/Emaren/wolochain/pull/35",
-      "createdAt": "2026-10-18T02:43:31Z"
+      "title": "Fix reviews 01–48 and integrate same-stack review corrections",
+      "url": "https://github.com/arvindcr4/tinker-rl-lab/pull/21",
+      "createdAt": "2026-10-18T02:49:51Z"
     },
     {
-      "title": "chore(deps): bump tempo dependencies to 2c25f7c",
-      "url": "https://github.com/Soubhik-10/foundry/pull/101",
-      "createdAt": "2026-10-18T03:45:24Z"
+      "title": "Protected Finish STOP: review War Satchel function-replacement migration before production",
+      "url": "https://github.com/Emaren/app-prodn/issues/634",
+      "createdAt": "2026-10-16T22:20:02Z"
+    },
+    {
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
+    },
+    {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
     },
     {
       "title": "llm-algo-leetcode 推理优化 | 202610 Task 2 ·  解码推进与候选验证",
@@ -280,19 +290,9 @@
       "createdAt": "2026-10-14T04:45:28Z"
     },
     {
-      "title": "Claim MRG Tokens for Bug Bounty Reports - Comment New Bugs Here Before Opening a PR",
-      "url": "https://github.com/mergeos-bounties/mergeos/issues/1",
-      "createdAt": "2026-05-26T05:18:53Z"
-    },
-    {
-      "title": "[perf] spec decoding: fuse simulated speculative acceptance tensor preparation",
-      "url": "https://github.com/sgl-project/sglang/pull/41169",
-      "createdAt": "2026-09-24T20:43:54Z"
-    },
-    {
-      "title": "deploy: fresh BNB testnet stack as a second reward mirror of Base (2026-10-18)",
-      "url": "https://github.com/vaipakam/vaipakam/pull/2551",
-      "createdAt": "2026-10-18T03:41:26Z"
+      "title": "[性能] 排查 Linux 空闲／仅连接状态 RSS 增长",
+      "url": "https://github.com/GHOST-AKU/wozai/issues/9",
+      "createdAt": "2026-10-04T00:10:12Z"
     }
   ]
 }
