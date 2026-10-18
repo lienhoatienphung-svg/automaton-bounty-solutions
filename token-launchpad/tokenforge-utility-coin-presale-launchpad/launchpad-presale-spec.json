@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T20:02:40.903Z",
-  "latencyMs": 425,
+  "executedAt": "2026-10-18T20:15:47.898Z",
+  "latencyMs": 388,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #688: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #690: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52782206,
+    "liveBlockNumber": 52782600,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,45 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459014,
-    "baseMainnetTopPoolsVolume24hUsd": 130137,
+    "baseMainnetTopPoolsVolume24hUsd": 130310,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3LBQXvcPgy8VZ1LBhXGM5pbDN7BPMkctfsaKCeJXpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/3lbqxvcpgy8vz1lbhxgm5pbdn7bpmkctfsakcejxpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HrXd7X69aXZt8sx3tMdTYjeqKZmFHgCNcqi24bvKpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hrxd7x69axzt8sx3tmdtyjeqkzmfhgcncqi24bvkpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CNfzT1Ha63GTeJ99N9ii73HzCwyLUTXj3mbiwCyvtZD3",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cnfzt1ha63gtej99n9ii73hzcwylutxj3mbiwcyvtzd3"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2Cc5B2owbbR3oJnXmc1oYMfVEj1k5dRGfeQS1y1Lpump",
+        "description": "French Goku Hero",
+        "url": "https://dexscreener.com/solana/2cc5b2owbbr3ojnxmc1oymfvej1k5drgfeqs1y1lpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "56Rkik622yfLr98MiQGcdibU9kVGdzvr89a7w7g3pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/56rkik622yflr98miqgcdibu9kvgdzvr89a7w7g3pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FMGe8RStdPc1YR59BBuV5Ui12DEe3Q2zVoihrJBbpump",
+        "description": "ZENO is the community token powering an emerging intelligence ecosystem built around Surprise Intelligence and AI forecasting agents.\n\nHumans and AI challenging",
+        "url": "https://dexscreener.com/solana/fmge8rstdpc1yr59bbuv5ui12dee3q2zvoihrjbbpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "t7LytmT5nzG7TydFjhUm9FdA47NArgDgyvZyVxipump",
@@ -45,42 +81,6 @@
         "tokenAddress": "622DQWVdSc6DvnzNvedwGnXrGkwPrmaMag9eFmYFpump",
         "description": "1000x memecoin perps on Solana. Zero slippage. No funding. Fully on-chain.",
         "url": "https://dexscreener.com/solana/622dqwvdsc6dvnznvedwgnxrgkwprmamag9efmyfpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7ECpXHMpAAN6KZMJCccJMU331YZG5AUjhNZ5AsdSHoUT",
-        "description": "Post a Solana memecoin cashtag. Get paid in that coin on us. Funded by creator fees.",
-        "url": "https://dexscreener.com/solana/7ecpxhmpaan6kzmjcccjmu331yzg5aujhnz5asdshout"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4h9Z3qgjikTRoFuP4ief2kKz6qq2VFnuecQghESdpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4h9z3qgjiktrofup4ief2kkz6qq2vfnuecqghesdpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "vANiq3YkoHAavc1rwFZ4GPoGLGmSHaCExxuMyLoTycA",
-        "description": "The mascot of @notrandomdotfun",
-        "url": "https://dexscreener.com/solana/vaniq3ykohaavc1rwfz4gpoglgmshacexxumylotyca"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DAnFKCMrRzEVt886QocUQGaV4zCjt24FTtphio5Kpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/danfkcmrrzevt886qocuqgav4zcjt24fttphio5kpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "H8LU9aa2Ci9GhfniVJboAjeDzCmCPtwQmBkVNrSepump",
-        "description": "The first ZEC-native token launchpad. Shielded funding, private launches, powered by NEAR Intents.",
-        "url": "https://dexscreener.com/solana/h8lu9aa2ci9ghfnivjboajedzcmcptwqmbkvnrsepump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6metbmoYqJDTJpySKkFVEJLBUutP3UzgYbp8CYvXpump",
-        "description": "One street. Two sides. Pick yours.\nBlocky riot FPS in the real streets of Paris. Free, in your browser.",
-        "url": "https://dexscreener.com/solana/6metbmoyqjdtjpyskkfvejlbuutp3uzgybp8cyvxpump"
       }
     ]
   },
