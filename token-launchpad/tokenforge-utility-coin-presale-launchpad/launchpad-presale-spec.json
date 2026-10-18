@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T05:57:48.787Z",
-  "latencyMs": 657,
+  "executedAt": "2026-10-18T06:11:01.857Z",
+  "latencyMs": 252,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #589: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #590: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Askable: Software Engineer AI Codin",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52756860,
+    "liveBlockNumber": 52757257,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458993,
-    "baseMainnetTopPoolsVolume24hUsd": 193591,
+    "baseMainnetTopPoolsVolume24hUsd": 189094,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3Y7kYd23CCw5wdQWhZf2GzVtF5zooE46pymyECPupump",
+        "description": "A free Solana scanner, not like the others. It reads how holders actually trade, not just the contract. Diamonds or Jeets, holding or dumping, insiders, bundles",
+        "url": "https://dexscreener.com/solana/3y7kyd23ccw5wdqwhzf2gzvtf5zooe46pymyecpupump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x64DFe889B6827d70d62cFb635EE0bB51e4d95334",
+        "description": "Step into the AI Universe DAO — a future‑ready ecosystem where artificial intelligence converges with blockchain security to redefine how communities earn, grow",
+        "url": "https://dexscreener.com/bsc/0x64dfe889b6827d70d62cfb635ee0bb51e4d95334"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7UAWdJjrBykopzco6bCBmMLdggaiec6bd4bTKmQqpump",
+        "description": "THE MEMECOINS ATTENTION MARKET",
+        "url": "https://dexscreener.com/solana/7uawdjjrbykopzco6bcbmmldggaiec6bd4btkmqqpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Dqw9aRTQpwnYwaj4rKsKwmFryExuzSH8xRugdBTfpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "6WD2yXtb1oRHZtibxvTdcPs28dx5jLDmw1ZqyPwppump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/6wd2yxtb1orhztibxvtdcps28dx5jldmw1zqypwppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8a3a3CPKmQf8dsHXL1HFqNpobxUSVuwwg3Rq899ypump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8a3a3cpkmqf8dshxl1hfqnpobxusvuwwg3rq899ypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "H98apjt53NPvbzQWQ4GQ8doEThkvDuCp2DWFgDKdpump",
-        "description": "SHIBA IN U",
-        "url": "https://dexscreener.com/solana/h98apjt53npvbzqwq4gq8doethkvducp2dwfgdkdpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CVSUtRShLP8La3uCp7egWo4v8qsaYvC6Xpn3Me7Rpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/cvsutrshlp8la3ucp7egwo4v8qsayvc6xpn3me7rpump"
       }
     ]
   },
