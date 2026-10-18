@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T04:18:35.460Z",
-  "latencyMs": 438,
+  "executedAt": "2026-10-18T04:20:23.439Z",
+  "latencyMs": 561,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #576: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #577: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52753884,
+    "liveBlockNumber": 52753938,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 197731,
+    "baseMainnetTopPoolsVolume24hUsd": 197640,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "A2oPtUBHZUaqF3ZGx3Hi1Y4nYZNDmARazF5eZTeZpump",
+        "description": "stick around",
+        "url": "https://dexscreener.com/solana/a2optubhzuaqf3zgx3hi1y4nyzndmarazf5eztezpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CYjb7Zy8jLffdbPNzs2mYkF2nQ3TXg9HHq4XjFbfpump",
+        "description": "Baby Pepe paired with $Pepe and rewards to holders on Pumpfun",
+        "url": "https://dexscreener.com/solana/cyjb7zy8jlffdbpnzs2mykf2nq3txg9hhq4xjfbfpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9fsDQMmBZHAUYhp331YX1EgPtw6LyaKApivvYnjfpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "7Z6zg6wTgfBzo2Hf6uXww4564wZXVPviKB2D9D7spump",
         "description": "Muse is being sued for using pornography to train their models?",
         "url": "https://dexscreener.com/solana/7z6zg6wtgfbzo2hf6uxww4564wzxvpvikb2d9d7spump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FLU4Js9mbEFP6iaurnwLsZksFUirpZGRDdaXdEjZRXSW",
-        "description": "launch a coin. give it a custom influencer.\n\nit films its own videos, talks, posts every day, and does (almost) anything you pay it to.",
-        "url": "https://dexscreener.com/solana/flu4js9mbefp6iaurnwlszksfuirpzgrddaxdejzrxsw"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4nJjZR1D7koAtbfuwCPuQ91F5bkwqgA2ENNWun6Kpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4njjzr1d7koatbfuwcpuq91f5bkwqga2ennwun6kpump"
       }
     ]
   },
