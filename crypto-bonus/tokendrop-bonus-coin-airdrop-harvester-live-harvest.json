@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T07:29:07.348Z",
-  "latencyMs": 809,
+  "executedAt": "2026-10-18T07:43:14.310Z",
+  "latencyMs": 1220,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #605: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #606: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 850,
-      "priceBtc": 2.3010850576180843e-7
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 188,
-      "priceBtc": 0.000003448047763629496
+      "marketCapRank": 804,
+      "priceBtc": 2.578117779317421e-7
     },
     {
       "name": "Sui",
       "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.000012018626631663987
+      "marketCapRank": 30,
+      "priceBtc": 0.000011945272733357032
     },
     {
-      "name": "Quack AI",
-      "symbol": "Q",
-      "marketCapRank": 105,
-      "priceBtc": 0.000001569111464163834
-    },
-    {
-      "name": "STONK",
-      "symbol": "STONK",
-      "marketCapRank": 319,
-      "priceBtc": 0.0000012380366966146708
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 191,
+      "priceBtc": 0.000003418081659580308
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.0000608327613666141
+      "priceBtc": 0.00006051560094651404
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 632,
-      "priceBtc": 0.0013206809860737407
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 118,
+      "priceBtc": 7.647860078215036e-7
     },
     {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 98,
-      "priceBtc": 0.00002274438104830161
+      "name": "Quack AI",
+      "symbol": "Q",
+      "marketCapRank": 103,
+      "priceBtc": 0.0000015872733161222118
+    },
+    {
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "marketCapRank": 16,
+      "priceBtc": 0.0001466999729068966
+    },
+    {
+      "name": "STONK",
+      "symbol": "STONK",
+      "marketCapRank": 322,
+      "priceBtc": 0.0000012274053179970692
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structured comment",
-      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4",
-      "createdAt": "2026-03-27T00:55:42Z"
+      "title": "perf(jit): cheaper fall-through sections",
+      "url": "https://github.com/alloy-rs/evm2/pull/636",
+      "createdAt": "2026-10-15T23:51:24Z"
     },
     {
-      "title": "[BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project",
-      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2",
-      "createdAt": "2026-03-27T00:55:38Z"
+      "title": "docs: add spec 17 for runika's artifacts",
+      "url": "https://github.com/DanP1925/BfBHelper/pull/98",
+      "createdAt": "2026-10-18T07:42:13Z"
     },
     {
-      "title": "[BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history",
-      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1",
-      "createdAt": "2026-03-27T00:55:36Z"
+      "title": "[recipe, fsdp, tests, doc] feat: add Boogu-Image FlowGRPO v1 sync recipe",
+      "url": "https://github.com/verl-project/verl-omni/pull/649",
+      "createdAt": "2026-09-21T15:01:39Z"
     },
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
-      "createdAt": "2026-10-17T18:26:37Z"
+      "title": "feat: claim offline receives from encrypted funding packets",
+      "url": "https://github.com/arkade-os/delegatee/pull/5",
+      "createdAt": "2026-10-17T11:13:34Z"
     },
     {
-      "title": "iOS port: Darwin platform layer, iOS app, CI, tester builds",
-      "url": "https://github.com/NoahVl/Birdman64/pull/14",
-      "createdAt": "2026-10-17T19:42:48Z"
+      "title": "world rewards V5: a kill_report 409 tells paid (with the stored receipt), expired and unknown apart",
+      "url": "https://github.com/DomLynch/RPG-game/pull/3160",
+      "createdAt": "2026-10-18T07:22:13Z"
     },
     {
-      "title": "fix: Guardian swaps and faucet lookups parse account ids through the canonical helpers",
-      "url": "https://github.com/0xMiden/wallet/pull/1544",
-      "createdAt": "2026-10-18T07:25:51Z"
+      "title": "Ghost <-> Echo comms",
+      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
+      "createdAt": "2026-10-16T18:46:23Z"
     }
   ]
 }
