@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T16:22:46.903Z",
-  "latencyMs": 801,
+  "executedAt": "2026-10-18T16:26:54.191Z",
+  "latencyMs": 1611,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #668: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #669: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -17,24 +17,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-PROS",
-      "tvlUsd": 938318,
-      "apyBase": 22.61,
-      "apyRewardBonus": 390307.6,
-      "apyTotal": 390330.21,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1088738,
-      "apyBase": 1.11,
-      "apyRewardBonus": 79944.81,
-      "apyTotal": 79945.92,
+      "tvlUsd": 1085876,
+      "apyBase": 1.13,
+      "apyRewardBonus": 81628.41,
+      "apyTotal": 81629.55,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -44,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 52035,
+      "tvlUsd": 52299,
       "apyBase": 0,
-      "apyRewardBonus": 38044.48,
-      "apyTotal": 38044.48,
+      "apyRewardBonus": 38011.57,
+      "apyTotal": 38011.57,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -57,10 +44,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 589023,
-      "apyBase": 5.24,
-      "apyRewardBonus": 17704.8,
-      "apyTotal": 17710.04,
+      "tvlUsd": 594166,
+      "apyBase": 5.39,
+      "apyRewardBonus": 17804.36,
+      "apyTotal": 17809.75,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -70,10 +57,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 254106,
-      "apyBase": 76.24,
-      "apyRewardBonus": 15463.74,
-      "apyTotal": 15539.98,
+      "tvlUsd": 254569,
+      "apyBase": 75.48,
+      "apyRewardBonus": 11463.87,
+      "apyTotal": 11539.36,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -82,24 +69,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "AVNT-USDC",
-      "tvlUsd": 662993,
-      "apyBase": 0.42,
-      "apyRewardBonus": 11580.07,
-      "apyTotal": 11580.49,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "eb27d0be-9de4-4ed9-8d36-a754e18d3358"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 153866,
-      "apyBase": 22.51,
-      "apyRewardBonus": 10548.13,
-      "apyTotal": 10570.64,
+      "tvlUsd": 153440,
+      "apyBase": 22.13,
+      "apyRewardBonus": 10613.29,
+      "apyTotal": 10635.42,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -108,24 +82,37 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-CBBTC",
-      "tvlUsd": 3029269,
-      "apyBase": 61.42,
-      "apyRewardBonus": 5083.46,
-      "apyTotal": 5144.88,
+      "symbol": "AVNT-USDC",
+      "tvlUsd": 659391,
+      "apyBase": 0.41,
+      "apyRewardBonus": 10554.99,
+      "apyTotal": 10555.4,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+      "poolId": "eb27d0be-9de4-4ed9-8d36-a754e18d3358"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-PROS",
+      "tvlUsd": 938733,
+      "apyBase": 7.22,
+      "apyRewardBonus": 8014.62,
+      "apyTotal": 8021.84,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-CBBTC",
-      "tvlUsd": 176053,
-      "apyBase": 18.79,
-      "apyRewardBonus": 3817.13,
-      "apyTotal": 3835.92,
+      "tvlUsd": 175792,
+      "apyBase": 19.6,
+      "apyRewardBonus": 7672.58,
+      "apyTotal": 7692.18,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -134,15 +121,28 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "CHIP-USDC",
-      "tvlUsd": 159358,
-      "apyBase": 275.15,
-      "apyRewardBonus": 3008.29,
-      "apyTotal": 3283.44,
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 3020022,
+      "apyBase": 61.54,
+      "apyRewardBonus": 6597.62,
+      "apyTotal": 6659.16,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "0ea6aa06-41a0-488f-b8de-08823fa3e435"
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "SOL-USDC",
+      "tvlUsd": 654663,
+      "apyBase": 77.23,
+      "apyRewardBonus": 5052.49,
+      "apyTotal": 5129.72,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "a6a1fe38-a220-4f68-a2b9-d2749c3e4664"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(cli): skn task show <id>",
-      "url": "https://github.com/soroban-tooling/soroban-keeper-network/issues/696",
-      "createdAt": "2026-10-15T08:37:09Z"
+      "title": "feat(bulma-ui): add TreeView, a tree of items you browse and pick from",
+      "url": "https://github.com/allxsmith/bestax/pull/1140",
+      "createdAt": "2026-10-17T12:33:14Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "Share, export and merge several documents (#10, part 2)",
-      "url": "https://github.com/pklnx/document-archive/pull/75",
-      "createdAt": "2026-10-18T15:46:36Z"
-    },
-    {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
-      "createdAt": "2026-10-17T18:26:37Z"
-    },
-    {
-      "title": "Activate Makalu QUANTTS snapshots and fix Thanos wallet discovery",
-      "url": "https://github.com/KaJLabs/Lithosphere/pull/244",
-      "createdAt": "2026-10-18T16:17:54Z"
+      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
+      "createdAt": "2026-10-07T00:07:47Z"
     },
     {
       "title": "consolidate: merge the coins at the voucher address into one",
       "url": "https://github.com/blocktrails/fund-agent/pull/11",
       "createdAt": "2026-10-18T16:18:31Z"
+    },
+    {
+      "title": "Client: balances at hand (USDC, PAVED, COBBLE) and no day notion on Home and Play",
+      "url": "https://github.com/stolslilabs/paved/issues/538",
+      "createdAt": "2026-10-18T16:23:58Z"
+    },
+    {
+      "title": "[KAIOS AU WINDOW] 衡曜｜General Manager・神經突觸公開窗口",
+      "url": "https://github.com/klineodyssey/kline-odyssey/issues/584",
+      "createdAt": "2026-10-12T07:28:20Z"
+    },
+    {
+      "title": "Activate Makalu QUANTTS snapshots and fix Thanos wallet discovery",
+      "url": "https://github.com/KaJLabs/Lithosphere/pull/244",
+      "createdAt": "2026-10-18T16:17:54Z"
     }
   ]
 }
