@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T23:01:44.966Z",
-  "latencyMs": 319,
+  "executedAt": "2026-10-18T23:05:57.164Z",
+  "latencyMs": 543,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #708: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #709: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52787578,
+    "liveBlockNumber": 52787704,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459011,
-    "baseMainnetTopPoolsVolume24hUsd": 137492,
+    "baseMainnetTopPoolsVolume24hUsd": 137256,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "71qW2ZEXiD1vjQBJ225M5raXYYNMpqVHmjNcSdVPyVq7",
+        "description": "milly",
+        "url": "https://dexscreener.com/solana/71qw2zexid1vjqbj225m5raxyynmpqvhmjncsdvpyvq7"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GGzNLq89NV4d495XC4uwjC2ub6rPdSw1vsRYcibVpump",
+        "description": "🇪🇺 $ERC — EUROPEAN RELIEF COLLECTIVE\n\nMore than a meme. A movement with a purpose.\n\n🤝 Supporting Direct Relief through Donate gg\n\nOne Europe. One Collective.",
+        "url": "https://dexscreener.com/solana/ggznlq89nv4d495xc4uwjc2ub6rpdsw1vsrycibvpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5vF4AukZeTmFyJJjyHfXPvqT48jGQWD71XxzjiE7pump",
+        "description": "Quantum compute. At your command. Describe an experiment, run it on a simulator or IBM hardware, keep a SHA-256 receipt.",
+        "url": "https://dexscreener.com/solana/5vf4aukzetmfyjjjyhfxpvqt48jgqwd71xxzjie7pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "EEEoov3mzTXQzGfdLFDXSsXB5hVT2UX4tnwQuYvtpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "5xmhLySQJpL1ARRuFXKmRdFiVFEqt5xRZRGE3NJYpump",
         "description": "What if someone paired Charmander to Charmeleon to Charizard to Cards?",
         "url": "https://dexscreener.com/solana/5xmhlysqjpl1arrufxkmrdfivfeqt5xrzrge3njypump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xa51362dbdd3c064d40feb3c539a04eb211d93904",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0xa51362dbdd3c064d40feb3c539a04eb211d93904"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x0329b80F3eC68aad63FBBA63b28fA9c5E7972C25",
-        "description": "imanuel mucron",
-        "url": "https://dexscreener.com/robinhood/0x0329b80f3ec68aad63fbba63b28fa9c5e7972c25"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GaPbQwLDPjSXGR9JxxG1aJLNthuxG58dM2XukBi8pump",
-        "description": "Avengers-level protests in France, live and unhinged.",
-        "url": "https://dexscreener.com/solana/gapbqwldpjsxgr9jxxg1ajlnthuxg58dm2xukbi8pump"
       }
     ]
   },
