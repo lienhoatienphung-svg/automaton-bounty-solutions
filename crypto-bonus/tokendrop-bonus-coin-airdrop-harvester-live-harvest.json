@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T08:18:54.209Z",
-  "latencyMs": 1122,
+  "executedAt": "2026-10-18T08:21:11.496Z",
+  "latencyMs": 768,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #610: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Askable: Software Engineer AI Codin",
+  "workTitle": "Delivery Sprint #611: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat: track Runika's Artifacts",
-      "url": "https://github.com/DanP1925/BfBHelper/pull/100",
-      "createdAt": "2026-10-18T08:08:17Z"
+      "title": "audit: consolidate all 62 parts with the storage coding audit, canonical program check and VM memory bound",
+      "url": "https://github.com/lubothebook/budlum/pull/9",
+      "createdAt": "2026-10-12T19:36:39Z"
     },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "Ghost <-> Echo comms",
+      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
+      "createdAt": "2026-10-16T18:46:23Z"
     },
     {
       "title": "iOS port: Darwin platform layer, iOS app, CI, tester builds",
@@ -288,11 +293,6 @@
       "title": "Epic: production-like end-to-end tests on GitHub runners before going public and mainnet",
       "url": "https://github.com/bytesbrains/copra/issues/41",
       "createdAt": "2026-10-17T05:35:40Z"
-    },
-    {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
     }
   ]
 }
