@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-18T16:09:13.850Z",
-  "latencyMs": 255,
+  "executedAt": "2026-10-18T16:12:07.316Z",
+  "latencyMs": 1534,
   "companyName": "PolyAlpha Prediction & Arbitrage Desk",
-  "workTitle": "Growth & Sales Sprint #688: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #689: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
@@ -122,13 +122,140 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000072,
         "liquidityUsd": 12034,
-        "volume24hUsd": 1022,
+        "volume24hUsd": 1006,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 0,
-    "contracts": []
+    "contractsPackagedCount": 10,
+    "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Curtins",
+        "roleOrTask": "Graduate Transport Planner",
+        "industryTags": [
+          "hr",
+          "education",
+          "consulting",
+          "technical",
+          "customer support"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Packmatic GmbH",
+        "roleOrTask": "Key Account Manager Danish Market Native Speaker Copenhagen",
+        "industryTags": [
+          "exec",
+          "saas",
+          "technical",
+          "marketing",
+          "travel"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Yuno",
+        "roleOrTask": "Technical Account Manager",
+        "industryTags": [
+          "exec",
+          "design",
+          "hr",
+          "python",
+          "technical"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Apryse",
+        "roleOrTask": "Commercial Account Manager LATAM",
+        "industryTags": [
+          "exec"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Askable",
+        "roleOrTask": "Software Engineer AI Coding Tasks",
+        "industryTags": [
+          "dev",
+          "python",
+          "javascript",
+          "typescript",
+          "golang"
+        ],
+        "compensation": "$10000-$10000",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "databricks",
+        "roleOrTask": "Sr. Solutions Architect - FSI",
+        "industryTags": [
+          "Field Engineering - Other"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-fsi-munich-363180",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "wppmedia",
+        "roleOrTask": "Senior Programmatic Manager (Mensch)",
+        "industryTags": [
+          "Media Management & Delivery"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-programmatic-manager-mensch-hamburg-287694",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "wppmedia",
+        "roleOrTask": "Senior Programmatic Manager (Mensch)",
+        "industryTags": [
+          "Media Management & Delivery"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-programmatic-manager-mensch-dusseldorf-46401",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "wppmedia",
+        "roleOrTask": "Senior Manager Programmatic (Mensch)",
+        "industryTags": [
+          "Media Management & Delivery"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-manager-programmatic-mensch-dusseldorf-136889",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "wppmedia",
+        "roleOrTask": "Senior Manager Programmatic (Mensch)",
+        "industryTags": [
+          "Media Management & Delivery"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-manager-programmatic-mensch-hamburg-496501",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      }
+    ]
   }
 }
