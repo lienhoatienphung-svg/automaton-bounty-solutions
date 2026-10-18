@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T13:12:13.776Z",
-  "latencyMs": 748,
+  "executedAt": "2026-10-18T13:26:32.365Z",
+  "latencyMs": 719,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #647: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #648: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 936851,
-      "apyBase": 18.83,
-      "apyRewardBonus": 101237.3,
-      "apyTotal": 101256.13,
+      "tvlUsd": 935098,
+      "apyBase": 20.19,
+      "apyRewardBonus": 105556.37,
+      "apyTotal": 105576.56,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1104132,
-      "apyBase": 1.11,
-      "apyRewardBonus": 81222.89,
-      "apyTotal": 81224,
+      "tvlUsd": 1100541,
+      "apyBase": 1.12,
+      "apyRewardBonus": 82215.67,
+      "apyTotal": 82216.79,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -44,10 +44,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 53310,
+      "tvlUsd": 53220,
       "apyBase": 0,
-      "apyRewardBonus": 38622.89,
-      "apyTotal": 38622.89,
+      "apyRewardBonus": 38830.41,
+      "apyTotal": 38830.41,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -57,10 +57,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 590859,
-      "apyBase": 5.62,
-      "apyRewardBonus": 18290.83,
-      "apyTotal": 18296.45,
+      "tvlUsd": 589782,
+      "apyBase": 5.38,
+      "apyRewardBonus": 18386.96,
+      "apyTotal": 18392.34,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -70,10 +70,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 259401,
-      "apyBase": 69.05,
-      "apyRewardBonus": 12668.23,
-      "apyTotal": 12737.28,
+      "tvlUsd": 260683,
+      "apyBase": 68.3,
+      "apyRewardBonus": 11846.06,
+      "apyTotal": 11914.36,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -83,14 +83,27 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 154299,
-      "apyBase": 19.34,
-      "apyRewardBonus": 6578.36,
-      "apyTotal": 6597.7,
+      "tvlUsd": 155380,
+      "apyBase": 24.39,
+      "apyRewardBonus": 6606.27,
+      "apyTotal": 6630.65,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "80739318-c205-4177-9207-3c4322925ac6"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 174233,
+      "apyBase": 16.07,
+      "apyRewardBonus": 5938.39,
+      "apyTotal": 5954.46,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
     },
     {
       "chain": "Base",
@@ -108,24 +121,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-CBBTC",
-      "tvlUsd": 174423,
-      "apyBase": 15.77,
-      "apyRewardBonus": 3449.69,
-      "apyTotal": 3465.46,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "FUN-USDC",
-      "tvlUsd": 275504,
-      "apyBase": 10.26,
-      "apyRewardBonus": 3405.25,
-      "apyTotal": 3415.52,
+      "tvlUsd": 276466,
+      "apyBase": 8.81,
+      "apyRewardBonus": 2282.67,
+      "apyTotal": 2291.49,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -134,19 +134,35 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "SOL-USDC",
-      "tvlUsd": 663900,
-      "apyBase": 77.16,
-      "apyRewardBonus": 2315.95,
-      "apyTotal": 2393.11,
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 3088974,
+      "apyBase": 47.9,
+      "apyRewardBonus": 1550,
+      "apyTotal": 1597.9,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "a6a1fe38-a220-4f68-a2b9-d2749c3e4664"
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
+    {
+      "chainId": "solana",
+      "tokenAddress": "61DMLhgVgiKuTNPhnxcureAWw5htb4wLRhBgYPukpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "There are insane riots happening on the streets of Albania. Protesters clashed with police in Tirana, demanding Albanian Prime Minister Edi Rama's resignation o",
+      "url": "https://dexscreener.com/solana/61dmlhgvgikutnphnxcureaww5htb4wlrhbgypukpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "Cuh49xJnxa35diNNt48D6p2weiMHPdN61c7LhxBpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/cuh49xjnxa35dinnt48d6p2weimhpdn61c7lhxbpump"
+    },
     {
       "chainId": "solana",
       "tokenAddress": "4bLHGwcRd4GCVsSP8uRMcrWMh1nBCVcNM2CC9AWPpump",
@@ -194,22 +210,6 @@
       "totalBoostAmount": 30,
       "description": "The iconic Pumpfun pill gets a spooky makeover! Halloween colors meet Pumpfun culture, bringing pumpkins, pumps, and pure memecoin energy together!",
       "url": "https://dexscreener.com/solana/2y1su9ntrrfmi3ebdzpcucbrqkta94h6cljkiylxjxoz"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3zxtzoumrXqaqS2CDRjnbVEbf1tb12d5fWwMfa2Npump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "where every meow is a meme, every paw brings chaos, and cuteness rules the internet! 😹",
-      "url": "https://dexscreener.com/solana/3zxtzoumrxqaqs2cdrjnbvebf1tb12d5fwwmfa2npump"
-    },
-    {
-      "chainId": "near",
-      "tokenAddress": "robin-3.nearlytrade.near",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "There is no Batman without Robin",
-      "url": "https://dexscreener.com/near/robin-3.nearlytrade.near"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 842,
-      "priceBtc": 2.521851716826795e-7
+      "marketCapRank": 861,
+      "priceBtc": 2.3371915936348968e-7
     },
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 938,
-      "priceBtc": 1.9996048030488228e-7
+      "marketCapRank": 940,
+      "priceBtc": 2.0041021419065628e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 95,
-      "priceBtc": 0.000023983392613844522
+      "priceBtc": 0.000024006620894912206
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.123755497719086e-8
+      "priceBtc": 9.110628775637809e-8
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000011955538818548158
+      "priceBtc": 0.000011973718752799091
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 633,
-      "priceBtc": 0.0013036612281032093
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9992433511081541
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 49,
-      "priceBtc": 5.187851724548997e-8
+      "priceBtc": 5.205324357945819e-8
     },
     {
-      "name": "Hedera",
-      "symbol": "HBAR",
-      "marketCapRank": 31,
-      "priceBtc": 0.0000010759207293490242
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 633,
+      "priceBtc": 0.0013066599275074313
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore: Implementer inbox — instructions from the Orchestrator",
-      "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
-      "createdAt": "2026-10-06T01:05:54Z"
+      "title": "Human action needed: Sign in to Cointiply (BTC faucet) to claim reward",
+      "url": "https://github.com/sandeepnayakam/zero-cost-ai-business/issues/16",
+      "createdAt": "2026-10-18T13:26:13Z"
     },
     {
-      "title": "Feat/backer notification preferences",
-      "url": "https://github.com/Fundable-Protocol/stellar_client_os/pull/1296",
-      "createdAt": "2026-10-18T13:10:59Z"
+      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
+      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
+      "createdAt": "2026-10-12T21:43:27Z"
     },
     {
-      "title": "Replace web3.js with viem; claim calls and EIP-7702 batching",
-      "url": "https://github.com/pk910/PoWFaucet/pull/557",
-      "createdAt": "2026-10-17T19:26:03Z"
+      "title": "[High] Voting-Power Snapshot and Delegation Computation Service",
+      "url": "https://github.com/Zenith-options/backend/issues/126",
+      "createdAt": "2026-09-24T13:16:58Z"
     },
     {
-      "title": "Test ABUSD arithmetic boundaries and failed-transfer rollback",
-      "url": "https://github.com/accordbridge-labs/accordbridge-contracts/issues/14",
-      "createdAt": "2026-10-18T13:10:44Z"
+      "title": "Fix regressions from shelf motion (#2)",
+      "url": "https://github.com/sfxarfn/Vitals/pull/3",
+      "createdAt": "2026-10-18T11:44:06Z"
     },
     {
-      "title": "Add reward claim receipts for accounting and tax export",
-      "url": "https://github.com/Rickyy1017/Stellar-Defi-Vault/issues/723",
-      "createdAt": "2026-10-18T12:46:26Z"
+      "title": "[P4c-1] airflow: read-only REST client for DAG runs, task instances, log tails and schedules",
+      "url": "https://github.com/utkarsh199708/piperoom/pull/587",
+      "createdAt": "2026-10-18T13:10:40Z"
     },
     {
-      "title": "Add \"dark web3\" and \"privacy protocols\" pillars with guardrails",
-      "url": "https://github.com/neroiq-47/vxidos-rail/pull/10",
-      "createdAt": "2026-10-18T13:09:03Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
