@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T00:17:01.044Z",
-  "latencyMs": 993,
+  "executedAt": "2026-10-18T00:31:29.500Z",
+  "latencyMs": 822,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #551: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #552: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 594405,
-      "apyBase": 6.9,
-      "apyRewardBonus": 195070.79,
-      "apyTotal": 195077.69,
+      "tvlUsd": 595350,
+      "apyBase": 6.15,
+      "apyRewardBonus": 194270.33,
+      "apyTotal": 194276.48,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1112640,
-      "apyBase": 0.98,
-      "apyRewardBonus": 80061.14,
-      "apyTotal": 80062.12,
+      "tvlUsd": 1114093,
+      "apyBase": 0.99,
+      "apyRewardBonus": 79758.72,
+      "apyTotal": 79759.71,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -44,10 +44,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 53730,
+      "tvlUsd": 53889,
       "apyBase": 0,
-      "apyRewardBonus": 38937.52,
-      "apyTotal": 38937.52,
+      "apyRewardBonus": 38739.12,
+      "apyTotal": 38739.12,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -57,14 +57,27 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 156422,
-      "apyBase": 17.6,
-      "apyRewardBonus": 14609.04,
-      "apyTotal": 14626.64,
+      "tvlUsd": 156609,
+      "apyBase": 17.62,
+      "apyRewardBonus": 14565.97,
+      "apyTotal": 14583.6,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "80739318-c205-4177-9207-3c4322925ac6"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "TRUST-USDC",
+      "tvlUsd": 261743,
+      "apyBase": 45.62,
+      "apyRewardBonus": 14126.98,
+      "apyTotal": 14172.61,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
     },
     {
       "chain": "Base",
@@ -82,50 +95,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "TRUST-USDC",
-      "tvlUsd": 260721,
-      "apyBase": 44.07,
-      "apyRewardBonus": 13522.66,
-      "apyTotal": 13566.73,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-CBBTC",
-      "tvlUsd": 172230,
-      "apyBase": 14.22,
-      "apyRewardBonus": 7919.64,
-      "apyTotal": 7933.86,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "WETH-CBBTC",
-      "tvlUsd": 3000788,
-      "apyBase": 46.2,
-      "apyRewardBonus": 3601.69,
-      "apyTotal": 3647.89,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "AVNT-USDC",
-      "tvlUsd": 687846,
+      "tvlUsd": 688141,
       "apyBase": 0.38,
-      "apyRewardBonus": 2200.24,
-      "apyTotal": 2200.62,
+      "apyRewardBonus": 6268.15,
+      "apyTotal": 6268.53,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -134,19 +108,53 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "SOL-USDC",
-      "tvlUsd": 660424,
-      "apyBase": 58.23,
-      "apyRewardBonus": 2013.49,
-      "apyTotal": 2071.71,
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 3009492,
+      "apyBase": 48.98,
+      "apyRewardBonus": 4575.75,
+      "apyTotal": 4624.73,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "a6a1fe38-a220-4f68-a2b9-d2749c3e4664"
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 172303,
+      "apyBase": 13.73,
+      "apyRewardBonus": 3952.96,
+      "apyTotal": 3966.69,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "OFC-USDC",
+      "tvlUsd": 148853,
+      "apyBase": 3.87,
+      "apyRewardBonus": 1504.52,
+      "apyTotal": 1508.39,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "520675c7-af08-48ba-87a1-4a74f43b41b9"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
+    {
+      "chainId": "solana",
+      "tokenAddress": "7iYM9cjpKKNyLvJfq4pYyjubk83dnqxtPDrRdf77pump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "$IMOLEST — One More Thing…\n\nThe forbidden Apple product.\n\nSteve Jobs gave the world Apple. Epstein gave the world a scandal that refuses to die.\n\nNow imagine th",
+      "url": "https://dexscreener.com/solana/7iym9cjpkknylvjfq4pyyjubk83dnqxtpdrrdf77pump"
+    },
     {
       "chainId": "solana",
       "tokenAddress": "5x6QQvpRpd1PsFTTTJe6sJFFSqrA21H1j3GZLmo2pump",
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "Glitch is a flamingo who found an ATM that never stops paying. Now everyone wants in. Infinite Money Glitch ($GLITCH) is a 100% fair-launch memecoin on Solana, ",
       "url": "https://dexscreener.com/solana/8xg89xt8ve34skiyqyums46mycresca2f362uscrpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3NxfWMHmfQg8NJFW5AG1ti2xACdczWz24e9SKyk1pump",
-      "boostAmount": 500,
-      "totalBoostAmount": 500,
-      "description": "Every coin you launch mints you an engine NFT that keeps 20% of that coin's fees forever.",
-      "url": "https://dexscreener.com/solana/3nxfwmhmfqg8njfw5ag1ti2xacdczwz24e9skyk1pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,62 +217,67 @@
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "marketCapRank": 120,
-      "priceBtc": 9.182578125735923e-8
+      "marketCapRank": 121,
+      "priceBtc": 9.125325976878587e-8
+    },
+    {
+      "name": "Quack AI",
+      "symbol": "Q",
+      "marketCapRank": 102,
+      "priceBtc": 0.0000016454414910820263
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.001268783634575779
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 84,
-      "priceBtc": 0.00010587746748418502
-    },
-    {
-      "name": "Quack AI",
-      "symbol": "Q",
-      "marketCapRank": 106,
-      "priceBtc": 0.0000015223354725946942
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.0000597264560982961
-    },
-    {
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "marketCapRank": 48,
-      "priceBtc": 0.0000053800646089554946
-    },
-    {
-      "name": "Canton",
-      "symbol": "CC",
-      "marketCapRank": 28,
-      "priceBtc": 0.0000012710963233312325
+      "priceBtc": 0.001267842743466037
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.013808822116604091
+      "priceBtc": 0.013785177502382933
+    },
+    {
+      "name": "Canton",
+      "symbol": "CC",
+      "marketCapRank": 28,
+      "priceBtc": 0.000001263100052929039
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 89,
+      "priceBtc": 0.000038271963014798425
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 84,
+      "priceBtc": 0.00010588278782851117
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9992093803285514
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "S-0 steps 2–3: Chia peer lane replaces the coinset gateway",
-      "url": "https://github.com/Bella-Addormentata/StarStationFurlong/pull/271",
-      "createdAt": "2026-10-17T17:35:23Z"
+      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
+      "createdAt": "2026-10-07T00:07:47Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "Daily Shorts Pipeline — Reports",
+      "url": "https://github.com/caleblschulte0-ux/Shorts-pipeline/issues/1",
+      "createdAt": "2026-05-28T21:54:45Z"
+    },
+    {
+      "title": "Bump the npm_and_yarn group across 86 directories with 2 updates",
+      "url": "https://github.com/matams/eattheblocks/pull/37",
+      "createdAt": "2026-10-18T00:30:28Z"
     },
     {
       "title": "Update dependency lucide-react to v1.55.0",
@@ -280,19 +285,14 @@
       "createdAt": "2026-08-10T05:16:51Z"
     },
     {
-      "title": "Bootstrap complete Foundations: all 517 cards and full games",
-      "url": "https://github.com/altf4/rustmage/issues/355",
-      "createdAt": "2026-10-17T14:57:01Z"
+      "title": "A radio backend for Intel MacBooks with the BCM4360 — would you link it like omdrop-owl?",
+      "url": "https://github.com/netmojo-systems/omdrop-plugin/issues/48",
+      "createdAt": "2026-10-12T03:31:25Z"
     },
     {
-      "title": "Release candidate 2: first production version",
-      "url": "https://github.com/jarpless/price_ranger/pull/153",
-      "createdAt": "2026-10-17T20:56:41Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "[model,test,docs] feat: add FLUX.3 adapter",
+      "url": "https://github.com/X-GenGroup/Flow-Factory/pull/247",
+      "createdAt": "2026-10-16T00:24:28Z"
     }
   ]
 }
