@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-18T13:57:10.805Z",
-  "latencyMs": 225,
+  "executedAt": "2026-10-18T13:58:48.055Z",
+  "latencyMs": 1456,
   "companyName": "BaseAlpha DEX Spread, Liquidity & On-Chain Yield Desk",
-  "workTitle": "Growth & Sales Sprint #1208: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #1209: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
@@ -70,9 +70,9 @@
         "dexId": "quickswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000037,
+        "priceUsd": 1.000039,
         "liquidityUsd": 103133,
-        "volume24hUsd": 51767,
+        "volume24hUsd": 52767,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -122,14 +122,85 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00007,
         "liquidityUsd": 12034,
-        "volume24hUsd": 993,
+        "volume24hUsd": 995,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 5,
+    "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Curtins",
+        "roleOrTask": "Graduate Transport Planner",
+        "industryTags": [
+          "hr",
+          "education",
+          "consulting",
+          "technical",
+          "customer support"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Packmatic GmbH",
+        "roleOrTask": "Key Account Manager Danish Market Native Speaker Copenhagen",
+        "industryTags": [
+          "exec",
+          "saas",
+          "technical",
+          "marketing",
+          "travel"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Yuno",
+        "roleOrTask": "Technical Account Manager",
+        "industryTags": [
+          "exec",
+          "design",
+          "hr",
+          "python",
+          "technical"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Apryse",
+        "roleOrTask": "Commercial Account Manager LATAM",
+        "industryTags": [
+          "exec"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Askable",
+        "roleOrTask": "Software Engineer AI Coding Tasks",
+        "industryTags": [
+          "dev",
+          "python",
+          "javascript",
+          "typescript",
+          "golang"
+        ],
+        "compensation": "$10000-$10000",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "Arbeitnow-GlobalB2B",
         "company": "BAF - Brothers and Friends GmbH",
