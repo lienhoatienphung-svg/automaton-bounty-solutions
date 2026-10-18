@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T08:51:27.930Z",
-  "latencyMs": 1547,
+  "executedAt": "2026-10-18T08:54:12.042Z",
+  "latencyMs": 693,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #614: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #615: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,67 +217,57 @@
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 829,
-      "priceBtc": 2.472174376178149e-7
+      "marketCapRank": 818,
+      "priceBtc": 2.504932288465115e-7
     },
     {
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 101,
-      "priceBtc": 0.0000016666876909472385
+      "priceBtc": 0.000001651031342378276
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 118,
-      "priceBtc": 7.771086189775993e-7
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009619605830239415
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 191,
-      "priceBtc": 0.0000034036146121041346
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00006068094484832759
+      "priceBtc": 7.752587166928714e-7
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 36,
-      "priceBtc": 0.003266466867950321
+      "priceBtc": 0.0032569557095627768
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009617592291754565
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 191,
+      "priceBtc": 0.000003402490622228034
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9989558288914145
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 98,
-      "priceBtc": 0.000022839715636943997
+      "priceBtc": 0.000023015278529963697
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "perf(jit): cheaper fall-through sections",
-      "url": "https://github.com/alloy-rs/evm2/pull/636",
-      "createdAt": "2026-10-15T23:51:24Z"
-    },
-    {
-      "title": "Guild Shop foundation: rewards, event tokens and construction definitions",
-      "url": "https://github.com/elroynbenjamins/Veldryn/pull/594",
-      "createdAt": "2026-10-18T08:50:54Z"
-    },
-    {
-      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
-      "url": "https://github.com/Dillen198/bfnext/pull/1",
-      "createdAt": "2026-01-19T07:41:07Z"
+      "title": "perf(jit): switch dynamic jumps on a dense index",
+      "url": "https://github.com/alloy-rs/evm2/pull/609",
+      "createdAt": "2026-10-15T00:19:06Z"
     },
     {
       "title": "perf(jit): resolve jumps through deep stacks and try/catch",
@@ -285,14 +275,24 @@
       "createdAt": "2026-10-16T18:24:54Z"
     },
     {
+      "title": "cake_kda: deterministic chunked KDA training backward and a selectable KDA backend",
+      "url": "https://github.com/radixark/miles/pull/3628",
+      "createdAt": "2026-09-23T05:51:01Z"
+    },
+    {
       "title": "Arcade claim: pay via Falcon PL drip on testnet 2300 (fixes 'Claim failed')",
       "url": "https://github.com/beartec-jpg/Falcon-faucet-wallet/pull/128",
       "createdAt": "2026-10-18T08:50:33Z"
     },
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
-      "createdAt": "2026-10-17T18:26:37Z"
+      "title": "[KAIOS POLICY] DOT GitHub engineering authority and backlog ACK — 2026-10-08",
+      "url": "https://github.com/klineodyssey/kline-odyssey/issues/559",
+      "createdAt": "2026-10-08T12:54:44Z"
+    },
+    {
+      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
+      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
+      "createdAt": "2026-10-11T10:45:50Z"
     }
   ]
 }
