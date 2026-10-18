@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T20:33:16.982Z",
-  "latencyMs": 1540,
+  "executedAt": "2026-10-18T20:35:42.011Z",
+  "latencyMs": 993,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #696: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #697: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Release candidate 2: first production version",
-      "url": "https://github.com/jarpless/price_ranger/pull/153",
-      "createdAt": "2026-10-17T20:56:41Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/Replikanti/flowlint-weblinter/pull/265",
+      "createdAt": "2026-03-26T20:39:49Z"
     },
     {
-      "title": "D755 (S24): the reads (token packs, top-up history, every plan's AI allowance) and the Super Admin's token-pack, member-account, adjustment ",
-      "url": "https://github.com/AxalNetwork/StudioOS/issues/1919",
-      "createdAt": "2026-10-18T19:41:52Z"
+      "title": "New parser for OKX exchange (UK account), matching September 2026 CSV format",
+      "url": "https://github.com/BittyTax/BittyTax/pull/510",
+      "createdAt": "2026-10-18T17:20:14Z"
+    },
+    {
+      "title": "feat(examples): add runnable examples for StellarLend SDK",
+      "url": "https://github.com/Smartdevs17/stellarlend/pull/1473",
+      "createdAt": "2026-10-18T20:35:04Z"
     },
     {
       "title": "chore: rehearse the testnet release at /staging",
@@ -280,19 +285,14 @@
       "createdAt": "2026-10-18T18:29:28Z"
     },
     {
-      "title": "GRPO: keep excluded completions out of the entropy bonus, reject IS_CLIP without a separator",
-      "url": "https://github.com/unslothai/unsloth-zoo/pull/1861",
-      "createdAt": "2026-10-18T20:06:17Z"
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/UnbloktTechnology/ComPilot-Examples/issues/103",
+      "createdAt": "2023-09-26T15:25:18Z"
     },
     {
-      "title": "Client: balances at hand (USDC, PAVED, COBBLE) and no day notion on Home and Play",
-      "url": "https://github.com/stolslilabs/paved/issues/538",
-      "createdAt": "2026-10-18T16:23:58Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "chore(renovate): Security update Update dependency postcss [SECURITY]",
+      "url": "https://github.com/UnbloktTechnology/ComPilot-Examples/pull/458",
+      "createdAt": "2026-08-26T17:39:22Z"
     }
   ]
 }
