@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T13:30:23.366Z",
-  "latencyMs": 261,
+  "executedAt": "2026-10-18T13:44:51.403Z",
+  "latencyMs": 259,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #645: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #646: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52770438,
-    "liveGasPriceGwei": 0.0062,
+    "liveBlockNumber": 52770872,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459046,
-    "baseMainnetTopPoolsVolume24hUsd": 154797,
+    "baseMainnetTopPoolsLiquidityUsd": 459042,
+    "baseMainnetTopPoolsVolume24hUsd": 156537,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x5269cAC4279825917c07761C8E162f9bfc79734f",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/bsc/0x5269cac4279825917c07761c8e162f9bfc79734f"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x0305Af012971bF4122FBa0e40ceb07c47231ad70",
+        "description": "Every buy and sell of $HYBRID pays a fee into a vault with no owner and no withdraw button. The vault can only buy NVDA and SPY stock tokens on Robinhood Chain.",
+        "url": "https://dexscreener.com/robinhood/0x0305af012971bf4122fba0e40ceb07c47231ad70"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9X21jugfJT4ygYNjVpe6mhw6p26W1wCWrkR8G8KUpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9x21jugfjt4ygynjvpe6mhw6p26w1wcwrkr8g8kupump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "78oQrFVRroBCQ6oixcMF7jWUbbQxq67ZD3TFvhsbpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "AJUWBjsVSxLAyuoimM3nxHFiYFxzGf2MRFn9pGURCYhS",
         "description": "🦊💕 Meet Dolly, the adorable newborn red panda stealing hearts at the National Zoo!\n\nNamed through a public vote and inspired by the late legendary Dolly Parto",
         "url": "https://dexscreener.com/solana/ajuwbjsvsxlayuoimm3nxhfiyfxzgf2mrfn9pgurcyhs"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "A6gGTBjh7TRS7eRnF8q9pG7S67YuZVqBCE4vuCgEpump",
-        "description": "GENZ TAKEOVER",
-        "url": "https://dexscreener.com/solana/a6ggtbjh7trs7ernf8q9pg7s67yuzvqbce4vucgepump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AKh6Cd3KGqtPHCdG7xXtcjMM824K19rUV2tiEc14pump",
-        "description": "AGENT VESPER",
-        "url": "https://dexscreener.com/solana/akh6cd3kgqtphcdg7xxtcjmm824k19ruv2tiec14pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AQtGhiMUSvFfd7dgfMMk93WfmzJ8zELBj3BtuowJab99",
-        "description": "Invite the Third World, become the Third World.\nMAKE EUROPE GREAT AGAIN.",
-        "url": "https://dexscreener.com/solana/aqtghimusvffd7dgfmmk93wfmzj8zelbj3btuowjab99"
       }
     ]
   },
