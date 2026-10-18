@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T09:58:35.490Z",
-  "latencyMs": 363,
+  "executedAt": "2026-10-18T10:01:17.030Z",
+  "latencyMs": 342,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #618: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #619: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52764084,
+    "liveBlockNumber": 52764164,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459019,
-    "baseMainnetTopPoolsVolume24hUsd": 169813,
+    "baseMainnetTopPoolsVolume24hUsd": 170748,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DPER3wR4UoCRdG8tmekEL9FncyLpQKGie6hcm1pEpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/dper3wr4uocrdg8tmekel9fncylpqkgie6hcm1pepump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HW6ith8rBD3BTFFF1NjTBHeotxhRXqP8aKM628eppump",
@@ -75,12 +81,6 @@
         "tokenAddress": "JBmMmE4ToeV7GT87k6nx87eHxumotY5mwgv5woyJpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/jbmmme4toev7gt87k6nx87ehxumoty5mwgv5woyjpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GAzYhWxYhesP3GdeCaUL5Tk1YYezjC88AEKR5uvWpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/gazyhwxyhesp3gdecaul5tk1yyezjc88aekr5uvwpump"
       }
     ]
   },
