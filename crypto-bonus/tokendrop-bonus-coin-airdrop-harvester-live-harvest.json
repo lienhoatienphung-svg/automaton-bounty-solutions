@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T02:39:34.983Z",
-  "latencyMs": 1031,
+  "executedAt": "2026-10-18T02:41:23.182Z",
+  "latencyMs": 952,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #568: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #569: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,53 +217,73 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 99,
-      "priceBtc": 0.0000016760572297431339
-    },
-    {
-      "name": "NeoSoul",
-      "symbol": "DNA",
-      "marketCapRank": 582,
-      "priceBtc": 0.0000033254956012267336
+      "marketCapRank": 98,
+      "priceBtc": 0.0000017267570946224904
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "marketCapRank": 186,
-      "priceBtc": 0.0000035057034157322
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 88,
-      "priceBtc": 0.00003841129836566791
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.000012004505867688248
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 39,
-      "priceBtc": 0.0023988885571351237
+      "priceBtc": 0.000003509604805815687
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00006058607138041712
+      "priceBtc": 0.000060615312104631386
     },
     {
-      "name": "Canton",
-      "symbol": "CC",
-      "marketCapRank": 28,
-      "priceBtc": 0.0000012612194651951006
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 30,
+      "priceBtc": 0.000012014490613841613
+    },
+    {
+      "name": "NeoSoul",
+      "symbol": "DNA",
+      "marketCapRank": 569,
+      "priceBtc": 0.0000033748963987396808
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 88,
+      "priceBtc": 0.00003862523955858153
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 40,
+      "priceBtc": 0.002398035524335204
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 101,
+      "priceBtc": 0.000022136800423341234
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
+      "createdAt": "2026-10-07T00:07:47Z"
+    },
+    {
+      "title": "llm-algo-leetcode 推理优化 | 202610 Task 2 ·  解码推进与候选验证",
+      "url": "https://github.com/datawhalechina/llm-algo-leetcode/issues/221",
+      "createdAt": "2026-10-14T04:45:28Z"
+    },
+    {
+      "title": "Harden bridge recovery and network release checks",
+      "url": "https://github.com/solana-classic/solana-classic/pull/6",
+      "createdAt": "2026-10-15T10:38:56Z"
+    },
+    {
+      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
+      "url": "https://github.com/Open-Athena/biotasks/issues/21",
+      "createdAt": "2026-10-16T20:07:24Z"
+    },
     {
       "title": "Live smoke failing",
       "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
@@ -273,26 +293,6 @@
       "title": "feat(sshtarget): fence port 22 on macOS with a pf anchor behind a commit-confirm timer",
       "url": "https://github.com/mlorentedev/dotfiles/pull/2681",
       "createdAt": "2026-10-17T08:24:57Z"
-    },
-    {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
-    },
-    {
-      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
-      "createdAt": "2026-10-07T00:07:47Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "fix(i18n): protected terms are no longer glued to a word in seven locales, and the translation job rejects that glue",
-      "url": "https://github.com/0xMiden/wallet/pull/1539",
-      "createdAt": "2026-10-18T01:53:46Z"
     }
   ]
 }
