@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T19:01:52.761Z",
-  "latencyMs": 1016,
+  "executedAt": "2026-10-18T19:03:58.526Z",
+  "latencyMs": 794,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #686: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #687: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "Build holder airdrop claim page with snapshot allocation breakdown",
+      "url": "https://github.com/accesslayerorg/accesslayer-client/issues/1154",
+      "createdAt": "2026-10-18T18:45:22Z"
+    },
+    {
+      "title": "[help] Ship real help articles at /help/articles/:slug with ranked multi-term search",
+      "url": "https://github.com/Disciplr-Org/Disciplr-Frontend/issues/1535",
+      "createdAt": "2026-10-18T18:15:07Z"
+    },
+    {
       "title": "[wallet] Add a testnet onboarding flow that funds unfunded accounts via Friendbot and guides first use",
       "url": "https://github.com/StellarLend/Stellarlend-frontend/issues/1707",
       "createdAt": "2026-10-18T17:31:39Z"
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-18T19:00:21Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
       "title": "feat(nav): Heat and Rooms become one Island word; the menu gets a More list of the hidden features",
       "url": "https://github.com/fomotsar-commits/tegridy-farms/pull/881",
       "createdAt": "2026-10-18T18:58:24Z"
-    },
-    {
-      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
-      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
-      "createdAt": "2026-10-12T21:43:27Z"
-    },
-    {
-      "title": "L2: network facts from the environment, boot assertion, no-fund setup, MFA login step, configurable closing line",
-      "url": "https://github.com/saleempay/stellar-sdp-ussd-bridge/pull/8",
-      "createdAt": "2026-10-12T18:23:02Z"
     }
   ]
 }
