@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T12:39:31.799Z",
-  "latencyMs": 685,
+  "executedAt": "2026-10-18T12:41:45.037Z",
+  "latencyMs": 976,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #642: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #643: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,55 +215,75 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Minter",
-      "symbol": "MINTER",
-      "marketCapRank": 922,
-      "priceBtc": 2.0958675097650535e-7
-    },
-    {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 899,
-      "priceBtc": 2.1749423814728952e-7
+      "marketCapRank": 914,
+      "priceBtc": 2.1260198104172661e-7
+    },
+    {
+      "name": "Minter",
+      "symbol": "MINTER",
+      "marketCapRank": 892,
+      "priceBtc": 2.1935790128727685e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 99,
-      "priceBtc": 0.000023205186952662822
+      "marketCapRank": 97,
+      "priceBtc": 0.000023466976413118404
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 634,
-      "priceBtc": 0.0013096966709927375
+      "marketCapRank": 635,
+      "priceBtc": 0.0013041487940540376
     },
     {
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 112,
-      "priceBtc": 0.0000013353204751080484
+      "priceBtc": 0.0000013390162897309533
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9995708661705587
+      "priceBtc": 0.9989382022290343
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000011953919477465194
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 49,
-      "priceBtc": 5.2318808125175083e-8
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "marketCapRank": 36,
-      "priceBtc": 0.003280452622448284
+      "priceBtc": 5.2013416129706523e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
+      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
+      "createdAt": "2026-10-12T21:43:27Z"
+    },
+    {
+      "title": "fix: src/airdrop.rs is one line of literal `\\n` text around an empty `airdrop()` — implement airdrop",
+      "url": "https://github.com/Lead-Studios/veritix-contract/issues/1044",
+      "createdAt": "2026-10-12T12:14:35Z"
+    },
+    {
+      "title": "Feat/stellar native nft reward tiers",
+      "url": "https://github.com/Fundable-Protocol/stellar_client_os/pull/1293",
+      "createdAt": "2026-10-18T12:40:50Z"
+    },
+    {
+      "title": "[DBIP] Identify faucet tokens by contract or ASA ID, separately from drip amounts",
+      "url": "https://github.com/Chain-Love/chain-love/issues/4621",
+      "createdAt": "2026-10-18T12:40:19Z"
+    },
     {
       "title": "Fix: 4 issues (#85, #98, #106, #111)",
       "url": "https://github.com/Konfirm-xyz/konfirm-frontend/pull/192",
@@ -273,26 +293,6 @@
       "title": "test(integration): add concurrent credential and reward claim integration test",
       "url": "https://github.com/ChainLearnOfficial/chainlearn-contracts/pull/655",
       "createdAt": "2026-10-18T12:38:20Z"
-    },
-    {
-      "title": "Fix: 4 issues (#71, #72, #81, #82)",
-      "url": "https://github.com/Konfirm-xyz/konfirm-frontend/pull/186",
-      "createdAt": "2026-10-18T12:38:09Z"
-    },
-    {
-      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
-      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
-      "createdAt": "2026-10-12T21:43:27Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "Replace web3.js with viem; claim calls and EIP-7702 batching",
-      "url": "https://github.com/pk910/PoWFaucet/pull/557",
-      "createdAt": "2026-10-17T19:26:03Z"
     }
   ]
 }
