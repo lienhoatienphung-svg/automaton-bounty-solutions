@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T12:08:28.310Z",
-  "latencyMs": 699,
+  "executedAt": "2026-10-18T12:10:56.818Z",
+  "latencyMs": 679,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #638: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #639: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(core): drive datasource connections on a runtime no RPC worker can block",
-      "url": "https://github.com/solana-foundation/surfpool/pull/871",
-      "createdAt": "2026-10-18T11:34:20Z"
+      "title": "Campaign screens on screen: proof screenshots of the Message viewer and pop-up (#283)",
+      "url": "https://github.com/Code-City-LLC/KOTLIN_APP/pull/293",
+      "createdAt": "2026-10-18T10:58:43Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "perf(jit): bound indices and drop unreached blocks in block analysis",
+      "url": "https://github.com/alloy-rs/evm2/pull/687",
+      "createdAt": "2026-10-18T11:29:21Z"
     },
     {
       "title": "Add 46 verified faucet listings across 25 networks",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-07T18:48:32Z"
     },
     {
+      "title": "fix(core): drive datasource connections on a runtime no RPC worker can block",
+      "url": "https://github.com/solana-foundation/surfpool/pull/871",
+      "createdAt": "2026-10-18T11:34:20Z"
+    },
+    {
       "title": "Add time-weighted average balance tracking",
       "url": "https://github.com/Rickyy1017/Stellar-Defi-Vault/issues/710",
       "createdAt": "2026-10-18T12:06:25Z"
-    },
-    {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
-    },
-    {
-      "title": "Add historical balance queries via checkpoints",
-      "url": "https://github.com/Rickyy1017/Stellar-Defi-Vault/issues/709",
-      "createdAt": "2026-10-18T12:05:15Z"
-    },
-    {
-      "title": "fix(dapp): reject malformed custom requests",
-      "url": "https://github.com/0xMiden/wallet/pull/1462",
-      "createdAt": "2026-10-14T15:39:24Z"
     }
   ]
 }
