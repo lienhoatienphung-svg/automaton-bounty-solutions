@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T05:35:54.180Z",
-  "latencyMs": 702,
+  "executedAt": "2026-10-18T05:37:38.312Z",
+  "latencyMs": 715,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #590: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Askable: Software Engineer AI Codin",
+  "workTitle": "Delivery Sprint #591: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Dog In Pain",
+      "url": "https://dexscreener.com/solana/48hnr1cwtafbumjsjod6q8yduwduyyumcjzubvzvpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "3t4BsgLNAQ1bHbP7CEFtvZeDrWMYJtuvC3Ucter7pump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 20,
       "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
       "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DfBJCoLnaF75GaKPWB4c3TFyMHcXmAShiuWm3dHNpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Koinu: The Final Inu, In the beginning, there was the dog.\nThen came the Inu—Shiba, Doge, Kishu, and a thousand others that flooded the chain, each barking loud",
-      "url": "https://dexscreener.com/solana/dfbjcolnaf75gakpwb4c3tfymhcxmashiuwm3dhnpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(escrow): wallet readiness check before a guest creates an escrow…",
+      "url": "https://github.com/safetrustcr/dApp-SafeTrust/pull/514",
+      "createdAt": "2026-10-17T02:13:18Z"
+    },
+    {
+      "title": "Harden bridge recovery and network release checks",
+      "url": "https://github.com/solana-classic/solana-classic/pull/6",
+      "createdAt": "2026-10-15T10:38:56Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "Complete VPS fixture cleanup when a helper shutdown rejects",
+      "url": "https://github.com/ubiquity/ai.ubq.fi/issues/908",
+      "createdAt": "2026-10-05T03:22:34Z"
+    },
+    {
       "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
       "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
       "createdAt": "2026-09-23T12:34:40Z"
@@ -273,26 +293,6 @@
       "title": "Harness chat endpoint for SkyRL on Cortex",
       "url": "https://github.com/Snowflake-AI-Research/Arctic-Platform/pull/210",
       "createdAt": "2026-10-13T02:10:12Z"
-    },
-    {
-      "title": "refactor(sshtarget): read the pf boot job through the shared launchd reader",
-      "url": "https://github.com/mlorentedev/dotfiles/pull/2756",
-      "createdAt": "2026-10-18T04:42:29Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/BoomchainLabs/walletgpt-ai/pull/34",
-      "createdAt": "2026-09-08T19:12:54Z"
-    },
-    {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
-    },
-    {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
     }
   ]
 }
