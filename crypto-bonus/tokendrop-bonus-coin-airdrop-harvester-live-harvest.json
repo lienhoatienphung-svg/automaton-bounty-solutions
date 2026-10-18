@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T08:37:36.023Z",
-  "latencyMs": 696,
+  "executedAt": "2026-10-18T08:51:27.930Z",
+  "latencyMs": 1547,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #613: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #614: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "5Nkqtw9ZRhpWF6LHhR25y2QtgqQDQRNftBmnHVDRpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/5nkqtw9zrhpwf6lhhr25y2qtgqqdqrnftbmnhvdrpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "ADozLt4uLnFQZY46yWd9RSvqZVj9whfrKQ62UTfbpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -176,7 +184,7 @@
       "tokenAddress": "Bouncec5ivdidyfHH8GtXadgpqSrYcWUYyHWhsVEro57",
       "boostAmount": 10,
       "totalBoostAmount": 10,
-      "description": "The French revolution begins with the Bounce Cat\n\nBouncing to millions",
+      "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/bouncec5ivdidyfhh8gtxadgpqsrycwuyyhwhsvero57"
     },
     {
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "PLUTO AI — The AI That Controls Your Computer.\n\nPLUTO is an autonomous AI desktop assistant designed to turn your voice into real actions on your computer. Unli",
       "url": "https://dexscreener.com/solana/6jijw4ne924kqj8xylkxfrhpehy5y2qxokggzjhqpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "viral meme. 10M+ views. we’re all texcat.\neverything is fine.™",
-      "url": "https://dexscreener.com/solana/bdxflfcbde8yvpbvvmmgtduqcdesaqvum5xlxguc2s5t"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 847,
-      "priceBtc": 2.3849077756556477e-7
+      "marketCapRank": 829,
+      "priceBtc": 2.472174376178149e-7
     },
     {
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 101,
-      "priceBtc": 0.0000016530805260436465
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.000060756358288855926
+      "priceBtc": 0.0000016666876909472385
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 118,
-      "priceBtc": 7.753826261333834e-7
+      "priceBtc": 7.771086189775993e-7
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009626676702019129
+      "priceBtc": 0.0009619605830239415
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "marketCapRank": 191,
-      "priceBtc": 0.000003390624109819954
+      "priceBtc": 0.0000034036146121041346
     },
     {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000011981317102705425
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00006068094484832759
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9993297861556372
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "marketCapRank": 36,
+      "priceBtc": 0.003266466867950321
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 98,
+      "priceBtc": 0.000022839715636943997
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "perf(jit): cheaper fall-through sections",
+      "url": "https://github.com/alloy-rs/evm2/pull/636",
+      "createdAt": "2026-10-15T23:51:24Z"
     },
     {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
+      "title": "Guild Shop foundation: rewards, event tokens and construction definitions",
+      "url": "https://github.com/elroynbenjamins/Veldryn/pull/594",
+      "createdAt": "2026-10-18T08:50:54Z"
     },
     {
-      "title": "fix(deps): update npm",
-      "url": "https://github.com/WarningImHack3r/svelte-changelog/pull/224",
-      "createdAt": "2026-09-02T12:02:39Z"
+      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
+      "url": "https://github.com/Dillen198/bfnext/pull/1",
+      "createdAt": "2026-01-19T07:41:07Z"
     },
     {
-      "title": "iOS port: Darwin platform layer, iOS app, CI, tester builds",
-      "url": "https://github.com/NoahVl/Birdman64/pull/14",
-      "createdAt": "2026-10-17T19:42:48Z"
+      "title": "perf(jit): resolve jumps through deep stacks and try/catch",
+      "url": "https://github.com/alloy-rs/evm2/pull/671",
+      "createdAt": "2026-10-16T18:24:54Z"
     },
     {
-      "title": "security(launch): publish official domains and watch for phishing lookalikes",
-      "url": "https://github.com/Suncrest-Labs/nester/issues/1535",
-      "createdAt": "2026-10-18T00:27:34Z"
+      "title": "Arcade claim: pay via Falcon PL drip on testnet 2300 (fixes 'Claim failed')",
+      "url": "https://github.com/beartec-jpg/Falcon-faucet-wallet/pull/128",
+      "createdAt": "2026-10-18T08:50:33Z"
     },
     {
-      "title": "feat: claim offline receives from encrypted funding packets",
-      "url": "https://github.com/arkade-os/delegatee/pull/5",
-      "createdAt": "2026-10-17T11:13:34Z"
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
+      "createdAt": "2026-10-17T18:26:37Z"
     }
   ]
 }
