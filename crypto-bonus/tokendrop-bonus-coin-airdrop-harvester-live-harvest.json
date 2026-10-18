@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T17:02:03.512Z",
-  "latencyMs": 775,
+  "executedAt": "2026-10-18T17:17:01.155Z",
+  "latencyMs": 649,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #673: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #674: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "The first quantum encrypted Inu on chain ; launched thru PQC Market",
+      "url": "https://dexscreener.com/solana/8timkgvsrat9tm2esko8zvtt99lzlpefum4snzazixaq"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "49MzMvX1efkhCS71TqRyn27pvUdNDFyJrWEgNUazpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "War In France $WIF\nFrance is cooked. The trenches are calling.\nJust a dog, a helmet, and a mission on Solana.\nNo rules. No peace. Just vibes. \nVive la guerre. V",
+      "url": "https://dexscreener.com/solana/49mzmvx1efkhcs71tqryn27pvudndfyjrwegnuazpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "6yMZv1NgnQWBeocyfCNKmdqGr3Enu3Lrdpz3TJRvpump",
       "boostAmount": 500,
       "totalBoostAmount": 500,
@@ -194,105 +210,89 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/bw17aryav5erxwnfyy1vtkrzm2ztk9hji91pwppwpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xa01fF10774CFe53C3FBC1D7D124c42e19F6AfcBD",
-      "boostAmount": 100,
-      "totalBoostAmount": 200,
-      "description": "Nobody knows where OWOWO came from.\n\nNo roadmap. No promises. Just vibes and a stare you can’t unsee.",
-      "url": "https://dexscreener.com/robinhood/0xa01ff10774cfe53c3fbc1d7d124c42e19f6afcbd"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/hkzdfznkhzxd9agrdnpydv4it6lmaurjnprtj9wpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Boomer",
-      "symbol": "BOOMER",
-      "marketCapRank": 792,
-      "priceBtc": 2.6258684396285846e-7
-    },
-    {
       "name": "hi",
       "symbol": "HI",
-      "marketCapRank": 872,
-      "priceBtc": 2.274920429307773e-7
+      "marketCapRank": 873,
+      "priceBtc": 2.2823958224666124e-7
     },
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 746,
-      "priceBtc": 2.946525176441595e-7
+      "marketCapRank": 757,
+      "priceBtc": 2.876162361814166e-7
+    },
+    {
+      "name": "Boomer",
+      "symbol": "BOOMER",
+      "marketCapRank": 772,
+      "priceBtc": 2.771055179236191e-7
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
-      "marketCapRank": 866,
-      "priceBtc": 2.2980848918079893e-7
+      "marketCapRank": 838,
+      "priceBtc": 2.442885682726808e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 92,
-      "priceBtc": 0.000024409318574863097
+      "priceBtc": 0.000024363157340277932
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 637,
+      "priceBtc": 0.0012905947728890483
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 120,
+      "priceBtc": 8.968810216415992e-8
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9995092958845961
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 636,
-      "priceBtc": 0.0012901576270670924
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 30,
-      "priceBtc": 0.000011814738185991572
+      "priceBtc": 0.9995349000973822
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat: add pre-funded time vault",
-      "url": "https://github.com/abnsatime/learning-token-product/pull/3",
-      "createdAt": "2026-10-18T16:57:40Z"
+      "title": "# Spike 628 — Biometric unlock for returning wallets with OS-gated session",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/491",
+      "createdAt": "2026-10-15T10:47:37Z"
     },
     {
-      "title": "Activate Makalu QUANTTS snapshots and fix Thanos wallet discovery",
-      "url": "https://github.com/KaJLabs/Lithosphere/pull/244",
-      "createdAt": "2026-10-18T16:17:54Z"
+      "title": "# Spike 631 — Tax reporting export with cost-basis, proceeds and royalty income CSV",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/494",
+      "createdAt": "2026-10-15T10:49:25Z"
     },
     {
-      "title": "feat(solana): sync Helius wallet balances and stablecoin conversions",
-      "url": "https://github.com/CharlesBeuzet/cryptofolio-tracker/pull/79",
-      "createdAt": "2026-10-18T13:14:54Z"
+      "title": "# Spike 626 — Albedo full retirement-or-parity plan with flagged sunset",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/489",
+      "createdAt": "2026-10-15T10:46:41Z"
     },
     {
-      "title": "MASTER BUILD — My Moonboy Personal Mission Control + Faction Daily Operations (all games, MoonPet, deadlines, verified tasks)",
-      "url": "https://github.com/Crypto-Moonboys/Crypto-Moonboys.github.io/issues/1552",
-      "createdAt": "2026-10-17T17:28:58Z"
+      "title": "# Spike 636 — Legal-hold preservation with deny-delete during investigation",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/498",
+      "createdAt": "2026-10-15T10:51:36Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "# Spike 624 — xBull full support with sign, trustline and Freighter-difference matrix",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/487",
+      "createdAt": "2026-10-15T10:45:48Z"
     },
     {
-      "title": "Share, export and merge several documents (#10, part 2)",
-      "url": "https://github.com/pklnx/document-archive/pull/75",
-      "createdAt": "2026-10-18T15:46:36Z"
+      "title": "# Spike 634 — Data portability export per wallet with GDPR Article 20 bundle",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/496",
+      "createdAt": "2026-10-15T10:50:39Z"
     }
   ]
 }
