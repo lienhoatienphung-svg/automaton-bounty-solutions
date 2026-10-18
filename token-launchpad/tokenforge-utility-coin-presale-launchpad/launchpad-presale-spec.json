@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T15:50:52.283Z",
-  "latencyMs": 248,
+  "executedAt": "2026-10-18T16:07:11.327Z",
+  "latencyMs": 1124,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #661: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #662: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52774652,
+    "liveBlockNumber": 52775142,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,34 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459006,
-    "baseMainnetTopPoolsVolume24hUsd": 154008,
+    "baseMainnetTopPoolsLiquidityUsd": 459003,
+    "baseMainnetTopPoolsVolume24hUsd": 143707,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CrsJs3BBBo7qdKtknWw5rP34gGthTCw893GkPMjBpump",
+        "description": "A French Pepe posted 10 years ago.",
+        "url": "https://dexscreener.com/solana/crsjs3bbbo7qdktknww5rp34ggthtcw893gkpmjbpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "E3hy9YE92TsDc6suWp1iyQKH7K1MNQswrcmD7K59pump",
+        "description": "we've seen these riots before...",
+        "url": "https://dexscreener.com/solana/e3hy9ye92tsdc6suwp1iyqkh7k1mnqswrcmd7k59pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Fd61znB4XAdwqrFexC91aoxKcz1iheqx5j4VZCG4pump",
+        "description": "Paris is on fire again. Wear the helmet or throw the cobble. The side holding the city at payday takes the pot.",
+        "url": "https://dexscreener.com/solana/fd61znb4xadwqrfexc91aoxkcz1iheqx5j4vzcg4pump"
+      },
+      {
+        "chainId": "cronos",
+        "tokenAddress": "0x095Ca890B0193E38Bdb3e07E8A962158093B8C95",
+        "description": "Sweet Tasty Treat 🍩\nor\nAn individual who is a little daft, lacks common sense or makes a fool of themselves by talking nonsense. 🤡",
+        "url": "https://dexscreener.com/cronos/0x095ca890b0193e38bdb3e07e8a962158093b8c95"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2B7RXYwzSjDubnvqz8GSi1MKSoCsPeLmahyM92k9pump",
@@ -57,30 +81,6 @@
         "tokenAddress": "CXmRHXFzgKggtFVLGGqR7LuPwzgRXENJEnA1nR9q7CdA",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/cxmrhxfzgkggtfvlggqr7lupwzgrxenjena1nr9q7cda"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4hCVKZKpuRdFtnRXC9fqEdrrQwEYuw4Rbxipwbwdpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4hcvkzkpurdftnrxc9fqedrrqweyuw4rbxipwbwdpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "J1tTqjpZZR5hRmAZcWSDwWqj5b1ZMi1MyJLzhKM1pump",
-        "description": "An AI agent built from years of one person's work, code, conversations and decisions. It runs on Claude, holds its own Solana wallet and acts on its own.",
-        "url": "https://dexscreener.com/solana/j1ttqjpzzr5hrmazcwsdwwqj5b1zmi1myjlzhkm1pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6D9aJExEprgPgawuFmeMLgfr6tg3RmrUJoD95nzApump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6d9ajexeprgpgawufmemlgfr6tg3rmrujod95nzapump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "A64LU6xx94842z77Y6F4R3g432W75sDVDPEaWF8Upump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/a64lu6xx94842z77y6f4r3g432w75sdvdpeawf8upump"
       }
     ]
   },
