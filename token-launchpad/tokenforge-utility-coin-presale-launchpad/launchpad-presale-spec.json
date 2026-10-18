@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T03:15:39.798Z",
-  "latencyMs": 307,
+  "executedAt": "2026-10-18T03:29:45.982Z",
+  "latencyMs": 348,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #569: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #570: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Askable: Software Engineer AI Codin",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52751996,
+    "liveBlockNumber": 52752419,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 197493,
+    "baseMainnetTopPoolsVolume24hUsd": 197337,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "H3b85fxKT6DRDjkkAetJtcv24o3qSUr3JvNzjogkpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/h3b85fxkt6drdjkkaetjtcv24o3qsur3jvnzjogkpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5bwjm86zHz4pGXYke69VszbaXBNKVZwJoQcU41umugMC",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/5bwjm86zhz4pgxyke69vszbaxbnkvzwjoqcu41umugmc"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x81fa0d310bf50e477adf96e56d7d1823cad87dd9",
+        "description": "Autonomous AI civilization, live onchain. 50 agents work, love, vote and riot while every trade fuels their world.",
+        "url": "https://dexscreener.com/robinhood/0x81fa0d310bf50e477adf96e56d7d1823cad87dd9"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3t4BsgLNAQ1bHbP7CEFtvZeDrWMYJtuvC3Ucter7pump",
@@ -60,27 +78,9 @@
       },
       {
         "chainId": "solana",
-        "tokenAddress": "BmSukBGmBwUZ5mb5VdmPnS4vmCaUN9bQtFPXVCnypump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bmsukbgmbwuz5mb5vdmpns4vmcaun9bqtfpxvcnypump"
-      },
-      {
-        "chainId": "solana",
         "tokenAddress": "CfAqdHXiSbbCTVaxUdddujSUwh3V11DwbPs58fHbpump",
         "description": "A guy found a computer. The computer was warm. The rest is internet history.",
         "url": "https://dexscreener.com/solana/cfaqdhxisbbctvaxudddujsuwh3v11dwbps58fhbpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GRxJ4kXj8FVLTguCe8WxNYnmAoPggxiVrK4tsjRvpump",
-        "description": "Pairless",
-        "url": "https://dexscreener.com/solana/grxj4kxj8fvltguce8wxnynmaopggxivrk4tsjrvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BqQ4gxJw21Sg9kbreAucGNv2QmVKznLdwvwdn5Uspump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bqq4gxjw21sg9kbreaucgnv2qmvkznldwvwdn5uspump"
       }
     ]
   },
