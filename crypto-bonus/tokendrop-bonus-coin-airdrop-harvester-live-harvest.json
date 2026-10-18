@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T01:34:02.061Z",
-  "latencyMs": 1433,
+  "executedAt": "2026-10-18T01:36:12.508Z",
+  "latencyMs": 795,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #560: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Askable: Software Engineer AI Codin",
+  "workTitle": "Delivery Sprint #561: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(rpc): ordered upstream fallback for /api/rpc and server Connection (dead Helius key)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3563",
+      "createdAt": "2026-10-17T22:23:59Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/m1m0zzz/visualizers/pull/32",
+      "createdAt": "2026-04-01T00:42:12Z"
+    },
+    {
+      "title": "Unit tests for API handlers with a mocked Soroban RPC",
+      "url": "https://github.com/Kalebtron1/Project-Vyn/issues/106",
+      "createdAt": "2026-10-18T01:12:20Z"
+    },
+    {
+      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
+      "createdAt": "2026-10-07T00:07:47Z"
+    },
+    {
       "title": "Fix the explorer's frozen 30-day dashboard with a per-transaction volume table (PAR-407)",
       "url": "https://github.com/ParadauxIO/hibernia-economy/pull/54",
       "createdAt": "2026-10-18T01:30:02Z"
@@ -273,26 +293,6 @@
       "title": "Report a missing UFW rule for the receiver",
       "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/88",
       "createdAt": "2026-10-17T20:11:20Z"
-    },
-    {
-      "title": "fix(iOS): use native photo previews with sharing and swipe dismissal",
-      "url": "https://github.com/cedricziel/hermes-app/pull/783",
-      "createdAt": "2026-10-18T01:33:06Z"
-    },
-    {
-      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
-      "createdAt": "2026-10-07T00:07:47Z"
-    },
-    {
-      "title": "Game HUD fixes + ESC settings menu",
-      "url": "https://github.com/makerlee0x/disciple/pull/104",
-      "createdAt": "2026-10-18T01:30:57Z"
-    },
-    {
-      "title": "[rl] Verifiers: run rollout groups in N rollout processes",
-      "url": "https://github.com/felipemello1/torchtitan/pull/370",
-      "createdAt": "2026-10-18T00:41:32Z"
     }
   ]
 }
