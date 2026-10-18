@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T11:38:53.754Z",
-  "latencyMs": 259,
+  "executedAt": "2026-10-18T11:41:22.588Z",
+  "latencyMs": 365,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #630: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #631: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52767093,
+    "liveBlockNumber": 52767167,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459041,
+    "baseMainnetTopPoolsLiquidityUsd": 459045,
     "baseMainnetTopPoolsVolume24hUsd": 167875,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3i9qd1N1jyo6kycGXthc3KQck6dpr5uHMtvu4Etppump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/3i9qd1n1jyo6kycgxthc3kqck6dpr5uhmtvu4etppump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2g3M2xF9ADS9J7Tm2Y7aSKsWQ85zYu4DJm8M4riKpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "JBxMJxRxW3SJhsWrruzZhYEpSq55DdVPArbzHNmSpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/jbxmjxrxw3sjhswrruzzhyepsq55ddvparbzhnmspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "tts26QysFwjbHB2tv3KFmVCVtp8uigXci1WU2LLpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/tts26qysfwjbhb2tv3kfmvcvtp8uigxci1wu2llpump"
       }
     ]
   },
