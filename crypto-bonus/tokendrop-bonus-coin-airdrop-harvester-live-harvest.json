@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T22:41:36.578Z",
-  "latencyMs": 660,
+  "executedAt": "2026-10-18T22:43:55.482Z",
+  "latencyMs": 689,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #710: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #711: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "7gdy7CGqBBmjr6J8wTd9mzps6w4sFeByq2AvCVLAjupx",
+      "boostAmount": 50,
+      "totalBoostAmount": 60,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/7gdy7cgqbbmjr6j8wtd9mzps6w4sfebyq2avcvlajupx"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "G2b4ZNxLjgTnVtPbuHpK9WXpccFCedoLYQ5uxvdEpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/32arpjyezzc8kgusnzfwyyzpoevczhbaazri3fbjpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "7gdy7CGqBBmjr6J8wTd9mzps6w4sFeByq2AvCVLAjupx",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/7gdy7cgqbbmjr6j8wtd9mzps6w4sfebyq2avcvlajupx"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,53 +217,63 @@
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 671,
-      "priceBtc": 3.412272030388e-7
-    },
-    {
-      "name": "Tetsuo Super Intelligence",
-      "symbol": "TSI",
-      "marketCapRank": 875,
-      "priceBtc": 2.2397604444546997e-7
+      "marketCapRank": 658,
+      "priceBtc": 3.5717023616489876e-7
     },
     {
       "name": "Doge Pepe",
       "symbol": "DOPE",
-      "marketCapRank": 670,
-      "priceBtc": 3.459727509719e-7
+      "marketCapRank": 671,
+      "priceBtc": 3.482760390666438e-7
+    },
+    {
+      "name": "Tetsuo Super Intelligence",
+      "symbol": "TSI",
+      "marketCapRank": 868,
+      "priceBtc": 2.2876562726277712e-7
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
-      "marketCapRank": 765,
-      "priceBtc": 2.800897212135831e-7
+      "marketCapRank": 786,
+      "priceBtc": 2.6107590767206864e-7
     },
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 942,
-      "priceBtc": 1.9469737475475e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 643,
-      "priceBtc": 0.0012627626954716368
+      "marketCapRank": 874,
+      "priceBtc": 2.2511905045834635e-7
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.998494816923258
+      "priceBtc": 1.0002566229240237
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.000060399770352509934
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.057713611423797e-8
+      "priceBtc": 9.09360836884583e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Submit Your MCP Servers here",
+      "url": "https://github.com/chatmcp/mcpso/issues/1",
+      "createdAt": "2024-12-06T02:23:42Z"
+    },
+    {
+      "title": "Security audit 2026-10-18: record SA-61..160, fix the 23 clear-cut items",
+      "url": "https://github.com/deterministicstatemachine/dsm/pull/1142",
+      "createdAt": "2026-10-18T10:19:50Z"
+    },
     {
       "title": "Harden Phase 1: atomic reward approval, payout finalization, and exact token amounts",
       "url": "https://github.com/bitXbit-aus/bitxbit-rebrand/pull/1",
@@ -283,16 +293,6 @@
       "title": "refactor: switch the draft proposal plumbing from probs to logits.",
       "url": "https://github.com/xLLM-AI/xllm/pull/2509",
       "createdAt": "2026-10-18T07:37:42Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "fix(contracts/staking_rewards): admin can drain entire staked principal",
-      "url": "https://github.com/SoroLabs/soroscope/issues/1224",
-      "createdAt": "2026-10-18T22:32:35Z"
     }
   ]
 }
