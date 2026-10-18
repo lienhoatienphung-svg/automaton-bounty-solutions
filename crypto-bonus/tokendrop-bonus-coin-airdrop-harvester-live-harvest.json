@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T12:54:36.048Z",
-  "latencyMs": 754,
+  "executedAt": "2026-10-18T12:56:59.802Z",
+  "latencyMs": 790,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #644: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #645: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Add deadline countdown, create-bounty balance check, leaderboard range tabs, and profile reputation chart",
-      "url": "https://github.com/mergemint-mint/mergemint-contracts/pull/1147",
-      "createdAt": "2026-10-18T12:53:18Z"
-    },
-    {
       "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
       "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
       "createdAt": "2026-10-12T21:43:27Z"
     },
     {
+      "title": "Feat/cli notes show details",
+      "url": "https://github.com/0xMiden/rust-sdk/pull/2666",
+      "createdAt": "2026-10-04T10:43:38Z"
+    },
+    {
+      "title": "Add BitBull (BULL) jetton",
+      "url": "https://github.com/tonkeeper/ton-assets/pull/6511",
+      "createdAt": "2026-10-15T02:32:06Z"
+    },
+    {
+      "title": "Browser-playable WASM target via Emscripten + File System Access API",
+      "url": "https://github.com/LBALab/lba2-classic-community/issues/110",
+      "createdAt": "2026-05-10T08:53:49Z"
+    },
+    {
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
+      "createdAt": "2026-10-17T18:26:37Z"
+    },
+    {
       "title": "[Translations] Give translators full sentences instead of punctuation fragments",
       "url": "https://github.com/Cockatrice/Cockatrice/pull/6487",
       "createdAt": "2026-01-03T12:52:47Z"
-    },
-    {
-      "title": "perf(jit): resolve old Vyper memory returns and drop unreached blocks",
-      "url": "https://github.com/alloy-rs/evm2/pull/687",
-      "createdAt": "2026-10-18T11:29:21Z"
-    },
-    {
-      "title": "perf(jit): switch dynamic jumps on a dense index",
-      "url": "https://github.com/alloy-rs/evm2/pull/609",
-      "createdAt": "2026-10-15T00:19:06Z"
-    },
-    {
-      "title": "perf: use memory ranges for call inputs",
-      "url": "https://github.com/alloy-rs/evm2/pull/473",
-      "createdAt": "2026-09-23T14:41:52Z"
     }
   ]
 }
