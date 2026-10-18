@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T02:43:24.825Z",
-  "latencyMs": 348,
+  "executedAt": "2026-10-18T02:56:59.440Z",
+  "latencyMs": 377,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #565: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #566: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52751028,
+    "liveBlockNumber": 52751436,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 196749,
+    "baseMainnetTopPoolsVolume24hUsd": 196862,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CfAqdHXiSbbCTVaxUdddujSUwh3V11DwbPs58fHbpump",
+        "description": "A guy found a computer. The computer was warm. The rest is internet history.",
+        "url": "https://dexscreener.com/solana/cfaqdhxisbbctvaxudddujsuwh3v11dwbps58fhbpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Ht1USEciaeB4S39FDiMwQLzqTPJrvBjiwSszGNiWpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/ht1useciaeb4s39fdimwqlzqtpjrvbjiwsszgniwpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GRxJ4kXj8FVLTguCe8WxNYnmAoPggxiVrK4tsjRvpump",
+        "description": "Pairless",
+        "url": "https://dexscreener.com/solana/grxj4kxj8fvltguce8wxnynmaopggxivrk4tsjrvpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BqQ4gxJw21Sg9kbreAucGNv2QmVKznLdwvwdn5Uspump",
@@ -63,24 +81,6 @@
         "tokenAddress": "458b7s76yYfYUbw9DQzDpSiDzrS4eNUnRamc1u1tpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/458b7s76yyfyubw9dqzdpsidzrs4enunramc1u1tpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CVoPCz3qwzRiRFqaEi3jJRc4K8ZvAqhh4SVJJavgpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/cvopcz3qwzrirfqaei3jjrc4k8zvaqhh4svjjavgpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ATiPF5DfNEJ5EEsUSKXryG5G687To6r2tbDKkZM5SkYR",
-        "description": "A simpler way to trade, with 0% trading fees.",
-        "url": "https://dexscreener.com/solana/atipf5dfnej5eesuskxryg5g687to6r2tbdkkzm5skyr"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xf972815cb51f70b000a24dde0b955eb7c9b5709e",
-        "description": "KAKUDO - the risk layer for Stock Tokens on Robinhood Chain.\n\nA Stock Token is more than a balance in your wallet. Market moves, protocol activity, and other ev",
-        "url": "https://dexscreener.com/robinhood/0xf972815cb51f70b000a24dde0b955eb7c9b5709e"
       }
     ]
   },
