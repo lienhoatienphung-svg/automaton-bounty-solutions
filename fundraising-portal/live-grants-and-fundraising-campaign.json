@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-18T22:30:42.745Z",
-  "latencyMs": 1398,
+  "executedAt": "2026-10-18T22:47:46.052Z",
+  "latencyMs": 543,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #689: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #690: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "chore(main): release 1.306.0",
-          "url": "https://github.com/coreplanelabs/switchboard/pull/3289",
-          "repositoryUrl": "https://api.github.com/repos/coreplanelabs/switchboard",
-          "updatedAt": "2026-10-18T22:30:38Z"
-        },
-        {
-          "title": "Align the dx init scaffold with validate-v2",
-          "url": "https://github.com/pagopa/dx/pull/2347",
-          "repositoryUrl": "https://api.github.com/repos/pagopa/dx",
-          "updatedAt": "2026-10-18T22:30:37Z"
-        },
-        {
-          "title": "fix(runtime): stop a busy authority lease from reading as lost protection",
-          "url": "https://github.com/hashgraph-online/hol-guard/pull/5179",
-          "repositoryUrl": "https://api.github.com/repos/hashgraph-online/hol-guard",
-          "updatedAt": "2026-10-18T22:30:38Z"
-        },
-        {
-          "title": "New Quest Chapter and other stuff",
-          "url": "https://github.com/Nischhelm/RLCraftParasited/pull/27",
-          "repositoryUrl": "https://api.github.com/repos/Nischhelm/RLCraftParasited",
-          "updatedAt": "2026-10-18T22:30:36Z"
-        },
-        {
-          "title": "M1 slice 1: scaffold and CI",
-          "url": "https://github.com/seura-photos/seura/pull/1",
-          "repositoryUrl": "https://api.github.com/repos/seura-photos/seura",
-          "updatedAt": "2026-10-18T22:30:36Z"
-        },
-        {
-          "title": "feat(table): A0 spike — members, Discord sign-in, authorization, table log, dice source, server hardening",
-          "url": "https://github.com/Dragon-kanji/shadowrun4e-character-manager/pull/25",
-          "repositoryUrl": "https://api.github.com/repos/Dragon-kanji/shadowrun4e-character-manager",
-          "updatedAt": "2026-10-18T22:30:36Z"
-        },
-        {
-          "title": "Improve captured photo downsampling clarity",
-          "url": "https://github.com/nickhaney916-lang/Closet-Current/pull/7",
-          "repositoryUrl": "https://api.github.com/repos/nickhaney916-lang/Closet-Current",
-          "updatedAt": "2026-10-18T22:30:36Z"
-        },
-        {
-          "title": "feat(memory): add scoped external import jobs for CLI and HTTP",
-          "url": "https://github.com/QwenLM/qwen-code/pull/14281",
-          "repositoryUrl": "https://api.github.com/repos/QwenLM/qwen-code",
-          "updatedAt": "2026-10-18T22:30:35Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
