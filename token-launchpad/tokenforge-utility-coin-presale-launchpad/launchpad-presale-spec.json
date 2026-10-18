@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T10:01:17.030Z",
-  "latencyMs": 342,
+  "executedAt": "2026-10-18T10:14:59.825Z",
+  "latencyMs": 398,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #619: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #620: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52764164,
+    "liveBlockNumber": 52764576,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459019,
-    "baseMainnetTopPoolsVolume24hUsd": 170748,
+    "baseMainnetTopPoolsLiquidityUsd": 459041,
+    "baseMainnetTopPoolsVolume24hUsd": 170210,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "t8QthbHq7S5UvjbfV8F5Z9xbHWtvQs4NNyn2iExpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/t8qthbhq7s5uvjbfv8f5z9xbhwtvqs4nnyn2iexpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3jzN6pDQLSCERTW2KBi5Sey9eghUjX1hpwYCFRUrpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/3jzn6pdqlscertw2kbi5sey9eghujx1hpwycfrurpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HZLEZULB1bV6rgxm6dWMdPnftPw42KG72bwvPeEipump",
+        "description": "Marketcat",
+        "url": "https://dexscreener.com/solana/hzlezulb1bv6rgxm6dwmdpnftpw42kg72bwvpeeipump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DPER3wR4UoCRdG8tmekEL9FncyLpQKGie6hcm1pEpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "0x1f27068be7a798F8539Bd860E9eD0778F8EF5Abb",
         "description": "A brand-new way to trade: \nToken prices remain the same for all trades within the same block, enabled by Uniswap V4 hook.",
         "url": "https://dexscreener.com/ethereum/0x1f27068be7a798f8539bd860e9ed0778f8ef5abb"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7rwLENa5Mkx1PRbLzSARQ3Gd9X3AzdeH4oR97RYnpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7rwlena5mkx1prblzsarq3gd9x3azdeh4or97rynpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x505126622b76b48e491c3b483f07223176efd649",
-        "description": "Plant, harvest, trade & own in a cozy farming MMO on Robinhood Chain.",
-        "url": "https://dexscreener.com/robinhood/0x505126622b76b48e491c3b483f07223176efd649"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "JBmMmE4ToeV7GT87k6nx87eHxumotY5mwgv5woyJpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/jbmmme4toev7gt87k6nx87ehxumoty5mwgv5woyjpump"
       }
     ]
   },
