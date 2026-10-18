@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T09:26:29.341Z",
-  "latencyMs": 338,
+  "executedAt": "2026-10-18T09:28:49.706Z",
+  "latencyMs": 249,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #614: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #615: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52763121,
+    "liveBlockNumber": 52763191,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459019,
-    "baseMainnetTopPoolsVolume24hUsd": 171438,
+    "baseMainnetTopPoolsVolume24hUsd": 171380,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "JBmMmE4ToeV7GT87k6nx87eHxumotY5mwgv5woyJpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/jbmmme4toev7gt87k6nx87ehxumoty5mwgv5woyjpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "GAzYhWxYhesP3GdeCaUL5Tk1YYezjC88AEKR5uvWpump",
@@ -51,12 +57,6 @@
         "tokenAddress": "5Nkqtw9ZRhpWF6LHhR25y2QtgqQDQRNftBmnHVDRpump",
         "description": "Chapter four, the signal  is the fourth of the series token launch on pumpfun",
         "url": "https://dexscreener.com/solana/5nkqtw9zrhpwf6lhhr25y2qtgqqdqrnftbmnhvdrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3zJufNUxnTy2KVmDECFykzLSoVuizZQGYzzFd3TMpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3zjufnuxnty2kvmdecfykzlsovuizzqgyzzfd3tmpump"
       },
       {
         "chainId": "solana",
