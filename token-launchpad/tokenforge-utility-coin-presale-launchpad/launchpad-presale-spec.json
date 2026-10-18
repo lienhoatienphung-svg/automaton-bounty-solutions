@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T11:25:15.738Z",
-  "latencyMs": 336,
+  "executedAt": "2026-10-18T11:38:53.754Z",
+  "latencyMs": 259,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #629: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #630: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52766684,
+    "liveBlockNumber": 52767093,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459042,
-    "baseMainnetTopPoolsVolume24hUsd": 166870,
+    "baseMainnetTopPoolsLiquidityUsd": 459041,
+    "baseMainnetTopPoolsVolume24hUsd": 167875,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2g3M2xF9ADS9J7Tm2Y7aSKsWQ85zYu4DJm8M4riKpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2g3m2xf9ads9j7tm2y7askswq85zyu4djm8m4rikpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6GgM1kVRUY9AUoSr6VzqwK9ZNHdGac3XjfGyzx1spump",
@@ -75,12 +81,6 @@
         "tokenAddress": "tts26QysFwjbHB2tv3KFmVCVtp8uigXci1WU2LLpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/tts26qysfwjbhb2tv3kfmvcvtp8uigxci1wu2llpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "G9XEpujXfzf14tfeQRnLxu4B3PpWoJkWHBGyNzr3pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/g9xepujxfzf14tfeqrnlxu4b3ppwojkwhbgynzr3pump"
       }
     ]
   },
