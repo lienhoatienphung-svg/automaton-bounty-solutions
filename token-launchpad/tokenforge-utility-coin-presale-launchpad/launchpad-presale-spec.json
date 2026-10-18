@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T06:29:26.753Z",
-  "latencyMs": 501,
+  "executedAt": "2026-10-18T06:42:46.066Z",
+  "latencyMs": 328,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #593: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #594: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52757809,
+    "liveBlockNumber": 52758209,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459013,
-    "baseMainnetTopPoolsVolume24hUsd": 194410,
+    "baseMainnetTopPoolsLiquidityUsd": 459015,
+    "baseMainnetTopPoolsVolume24hUsd": 198684,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5D3Nafx9SV2TNd6KLmnyWi71QQTGZaGJBAqghk4Tpump",
+        "description": "A fuzzy bunny friend with a little something extra.\nMeet FIJI, a pure meme with a little home of its own.🐰💙 FIJI gives the community a place to play, aim like",
+        "url": "https://dexscreener.com/solana/5d3nafx9sv2tnd6klmnywi71qqtgzagjbaqghk4tpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xD4908e2c85d6Ca8D3f9427e3dd7AC2BFF2bF7831",
+        "description": "boomer cat",
+        "url": "https://dexscreener.com/robinhood/0xd4908e2c85d6ca8d3f9427e3dd7ac2bff2bf7831"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "91yebhbFBEP9XCuyAnW6GePnXC7nKrZAGn77LcgVpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "PonziBtgwfemdft5ch9Rj9pKcSPSx5cJbgPiGJNAxz7",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/ponzibtgwfemdft5ch9rj9pkcspsx5cjbgpigjnaxz7"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3Y7kYd23CCw5wdQWhZf2GzVtF5zooE46pymyECPupump",
-        "description": "A free Solana scanner, not like the others. It reads how holders actually trade, not just the contract. Diamonds or Jeets, holding or dumping, insiders, bundles",
-        "url": "https://dexscreener.com/solana/3y7kyd23ccw5wdqwhzf2gzvtf5zooe46pymyecpupump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x64DFe889B6827d70d62cFb635EE0bB51e4d95334",
-        "description": "Step into the AI Universe DAO — a future‑ready ecosystem where artificial intelligence converges with blockchain security to redefine how communities earn, grow",
-        "url": "https://dexscreener.com/bsc/0x64dfe889b6827d70d62cfb635ee0bb51e4d95334"
       }
     ]
   },
