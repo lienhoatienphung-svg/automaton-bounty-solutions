@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T07:33:13.744Z",
-  "latencyMs": 278,
+  "executedAt": "2026-10-18T07:45:14.381Z",
+  "latencyMs": 328,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #601: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #602: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52759723,
+    "liveBlockNumber": 52760083,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459015,
-    "baseMainnetTopPoolsVolume24hUsd": 178690,
+    "baseMainnetTopPoolsLiquidityUsd": 459018,
+    "baseMainnetTopPoolsVolume24hUsd": 178779,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x7b456C121bDCB10F0c23CfB20FA7cBd9ce0b40Ee",
+        "description": "Niggas In Paris",
+        "url": "https://dexscreener.com/robinhood/0x7b456c121bdcb10f0c23cfb20fa7cbd9ce0b40ee"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x8ac48210Be19378229F12060D499c3B0eAE5E14E",
+        "description": "🦉 ONE OWL. ONE VOTE. 100% APPROVED.\n\nMeet SelfHoot ($SHOOT), the owl who submits, reviews, and approves his own ideas.\n\nThe committee has spoken. The committee",
+        "url": "https://dexscreener.com/robinhood/0x8ac48210be19378229f12060d499c3b0eae5e14e"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "AT2Ek9iB7eLMTYSqKfRH5PJDePb9pPgdRAwgdhFSpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/at2ek9ib7elmtysqkfrh5pjdepb9ppgdrawgdhfspump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x46E2587402161f51E251F446cB9F73b3883aB1b9",
@@ -63,24 +81,6 @@
         "tokenAddress": "JGRKJ7i34dbSGhx3rEQAVf2wTAqLUq2AivzNu9Mpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/jgrkj7i34dbsghx3reqavf2wtaqluq2aivznu9mpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9GMn83nihcFNfXdUr8QjbCVRHQVhiCrjM82pqBCopump",
-        "description": "Scotty and his family of barn owls have made a nest in Manhattan and he's already a celebrity. people are FLOCKING to see them and its all over tiktok\n\nFirst ti",
-        "url": "https://dexscreener.com/solana/9gmn83nihcfnfxdur8qjbcvrhqvhicrjm82pqbcopump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x17925cDf8794b49731D6706CE717B9cB855d7777",
-        "description": "Binance\n币安 Goat\n山羊 是币安生态系统未来的领先力量 \nqq：530382410",
-        "url": "https://dexscreener.com/bsc/0x17925cdf8794b49731d6706ce717b9cb855d7777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CPjsjLo5igHVusArVGVkcDhqdK2jwj1sVjE5oxrqpain",
-        "description": "DIP",
-        "url": "https://dexscreener.com/solana/cpjsjlo5ighvusarvgvkcdhqdk2jwj1svje5oxrqpain"
       }
     ]
   },
