@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T14:38:31.073Z",
-  "latencyMs": 843,
+  "executedAt": "2026-10-18T14:55:01.227Z",
+  "latencyMs": 844,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #657: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #658: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "BW17aRYaV5ErXwNfyY1VtkRzM2zTk9hji91pwppWpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/bw17aryav5erxwnfyy1vtkrzm2ztk9hji91pwppwpump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0xa01fF10774CFe53C3FBC1D7D124c42e19F6AfcBD",
       "boostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "bwigitte",
       "url": "https://dexscreener.com/solana/4blhgwcrd4gcvssp8urmcrwmh1nbcvcnm2cc9awppump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3A3qjns31YZA6Ung91ZpoPD7J3p1bDFbTJ4ANFAPpump",
-      "boostAmount": 50,
-      "totalBoostAmount": 150,
-      "description": "imanuel mucron",
-      "url": "https://dexscreener.com/solana/3a3qjns31yza6ung91zpopd7j3p1bdfbtj4anfappump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 860,
-      "priceBtc": 2.3828946689912e-7
-    },
-    {
-      "name": "Covenant x402",
-      "symbol": "COVENANT",
-      "marketCapRank": 736,
-      "priceBtc": 3.075860490872e-7
+      "marketCapRank": 847,
+      "priceBtc": 2.39473808339817e-7
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
-      "marketCapRank": 786,
-      "priceBtc": 2.7355163441640315e-7
+      "marketCapRank": 814,
+      "priceBtc": 2.5233196664103154e-7
+    },
+    {
+      "name": "Covenant x402",
+      "symbol": "COVENANT",
+      "marketCapRank": 752,
+      "priceBtc": 2.9349603876683995e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 92,
-      "priceBtc": 0.00002416368695193892
+      "priceBtc": 0.00002420763462865864
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.998591643730953
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 120,
-      "priceBtc": 9.005968397899977e-8
+      "priceBtc": 0.9995438082924379
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 633,
-      "priceBtc": 0.0013055300011351927
+      "marketCapRank": 631,
+      "priceBtc": 0.001308406788923453
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 121,
+      "priceBtc": 8.970648974148598e-8
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012600027099379891
+      "priceBtc": 0.0012580506442647402
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "git mark exodus: close a trail and send its coin to an address",
-      "url": "https://github.com/solidpayorg/gitmark/pull/53",
-      "createdAt": "2026-10-18T14:36:49Z"
+      "title": "Add investor snapshot contract for pro-rata airdrop distributions",
+      "url": "https://github.com/StellarState/SS-contracts/issues/591",
+      "createdAt": "2026-10-18T10:17:37Z"
     },
     {
-      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
-      "url": "https://github.com/jsboige/CoursIA/pull/20377",
-      "createdAt": "2026-10-11T14:10:17Z"
+      "title": "fix: require real identity proof on High/Critical routes",
+      "url": "https://github.com/EmpowerTours/fcempowertours/pull/6",
+      "createdAt": "2026-10-18T14:50:54Z"
     },
     {
-      "title": "fix(taskmaster): persist the daily automatic fire cap",
-      "url": "https://github.com/thinmansoftware/bdc-harness/pull/1166",
-      "createdAt": "2026-10-18T14:23:47Z"
+      "title": "Implement holder milestone reward contract for loyalty incentives",
+      "url": "https://github.com/accesslayerorg/accesslayer-contracts/issues/1110",
+      "createdAt": "2026-10-18T14:54:14Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "Agro-Pol, Kombinat, Kopalnia, Jednostka wojskowa i Szpital + meble, zrzuty i strażnicy NPC",
+      "url": "https://github.com/toMiXgaming/AXON-Structure/pull/2",
+      "createdAt": "2026-10-16T16:31:57Z"
     },
     {
-      "title": "feat(game): daily cipher and shared network events",
-      "url": "https://github.com/zyron249/-zyronchain/pull/1056",
-      "createdAt": "2026-10-18T12:29:20Z"
+      "title": "Bump the production-dependencies group across 1 directory with 7 updates",
+      "url": "https://github.com/Miftah-Fentaw/React-admin-template/pull/15",
+      "createdAt": "2026-10-04T14:54:38Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "fix(cli): « alter-cli chain add 100 » répond « non trouvée dans ChainList » alors que ChainList contient la chaîne",
+      "url": "https://github.com/VISIALIS/alter/issues/152",
+      "createdAt": "2026-10-11T21:29:25Z"
     }
   ]
 }
