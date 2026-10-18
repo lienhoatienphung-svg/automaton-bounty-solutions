@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T00:16:48.050Z",
-  "latencyMs": 342,
+  "executedAt": "2026-10-18T00:18:50.624Z",
+  "latencyMs": 334,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #546: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #547: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52746630,
+    "liveBlockNumber": 52746691,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 195378,
+    "baseMainnetTopPoolsVolume24hUsd": 195417,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "H416oBu1655KR9BnyxRmiYs7bjYUSrzetNqsfBFTpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/h416obu1655kr9bnyxrmiys7bjyusrzetnqsfbftpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Aes5BcDUQKd2VGA38gchnTNYLYAehxx5R69TMy84pump",
+        "description": "buy $INK. mint drips. farm $PAPER on papertrade.",
+        "url": "https://dexscreener.com/solana/aes5bcduqkd2vga38gchntnylyaehxx5r69tmy84pump"
+      },
       {
         "chainId": "ethereum",
         "tokenAddress": "0xd58813e2BDb4647BD63d42304Bd1d50CEf605261",
@@ -69,18 +81,6 @@
         "tokenAddress": "0xB933a37616Ded5dF47b92fbFd425223da4e77777",
         "description": "Tokenize what you already own. Cars, watches, domains, royalties, minted, verified, and traded on-chain. No banks, no custodians.",
         "url": "https://dexscreener.com/robinhood/0xb933a37616ded5df47b92fbfd425223da4e77777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HYgDBvzGapcJCYzYz8UYnJhdjNw2Ms2DMa66Wdwqpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hygdbvzgapcjcyzyz8uynjhdjnw2ms2dma66wdwqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EEUeijVRoP3nZP5HP72kaG9JUGSRMbUsof79SoRApump",
-        "description": "Ask for anything.\nIrisShop finds it.",
-        "url": "https://dexscreener.com/solana/eeueijvrop3nzp5hp72kag9jugsrmbusof79sorapump"
       }
     ]
   },
