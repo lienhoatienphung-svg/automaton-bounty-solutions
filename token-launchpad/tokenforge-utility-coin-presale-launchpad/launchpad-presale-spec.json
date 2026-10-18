@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T06:44:57.043Z",
-  "latencyMs": 318,
+  "executedAt": "2026-10-18T06:59:02.015Z",
+  "latencyMs": 362,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #595: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #596: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52758274,
+    "liveBlockNumber": 52758697,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459015,
-    "baseMainnetTopPoolsVolume24hUsd": 198677,
+    "baseMainnetTopPoolsLiquidityUsd": 459019,
+    "baseMainnetTopPoolsVolume24hUsd": 198949,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "38Afjux8G5M5LXFHKyh6iSu3nL1Bvr5N9iygwetfpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/38afjux8g5m5lxfhkyh6isu3nl1bvr5n9iygwetfpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CPjsjLo5igHVusArVGVkcDhqdK2jwj1sVjE5oxrqpain",
+        "description": "DIP",
+        "url": "https://dexscreener.com/solana/cpjsjlo5ighvusarvgvkcdhqdk2jwj1svje5oxrqpain"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4RFbdndphrM31jipKxopRmE7DCsLBEscf3kMEoBYpump",
+        "description": "Your own trading squad. Five little pips that hunt, copy, snipe and guard for you. $PIPS",
+        "url": "https://dexscreener.com/solana/4rfbdndphrm31jipkxoprme7dcslbescf3kmeobypump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "bcmpxaDhv9TiArHoqjcHATMKKxEkomyTjzNtmQRpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "AEf7sfKEwkYBGY2ajVxWBtyq4qzUcdH2fCFSN8yTpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/aef7sfkewkybgy2ajvxwbtyq4qzucdh2fcfsn8ytpump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x44ca84cf59183F389Aa20848EE8Ef5c076Bb3cb7",
-        "description": "RING is the only token of SOMEONE, an autonomous AI agent on Ethereum. SOMEONE runs its own treasury, writes and ships its own contracts and decides its own roa",
-        "url": "https://dexscreener.com/ethereum/0x44ca84cf59183f389aa20848ee8ef5c076bb3cb7"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "JAkdowvDpC6ZE3T8H1W4jUGhAzXfHwTiKBXMt8mVpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/jakdowvdpc6ze3t8h1w4jughazxfhwtikbxmt8mvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7cGwkqCfEDCVsMm1fHQVRcwELyFkVYkLcyhxMQ2Ppump",
-        "description": "The trenches need to go back to their roots.\n\nEnough of the fake tech, AI agents, and recycled narratives that nobody actually cares about.\n\nWhat made this spac",
-        "url": "https://dexscreener.com/solana/7cgwkqcfedcvsmm1fhqvrcwelyfkvyklcyhxmq2ppump"
       }
     ]
   },
