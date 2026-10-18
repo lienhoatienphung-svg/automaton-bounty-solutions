@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T08:01:20.239Z",
-  "latencyMs": 1313,
+  "executedAt": "2026-10-18T08:03:42.990Z",
+  "latencyMs": 721,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #608: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #609: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,62 +217,67 @@
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 814,
-      "priceBtc": 2.527735346613545e-7
+      "marketCapRank": 834,
+      "priceBtc": 2.4920246892791357e-7
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 29,
-      "priceBtc": 0.000011968121436709285
+      "priceBtc": 0.000011981315695229604
     },
     {
-      "name": "Quack AI",
-      "symbol": "Q",
-      "marketCapRank": 103,
-      "priceBtc": 0.0000015973966345108524
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 117,
+      "priceBtc": 7.798306041038828e-7
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "marketCapRank": 191,
-      "priceBtc": 0.00000340237648582891
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 116,
-      "priceBtc": 7.801482714809997e-7
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00006061997887562948
+      "priceBtc": 0.0000034025483150173897
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 83,
-      "priceBtc": 0.00010443197959360147
+      "priceBtc": 0.00010469984018232396
     },
     {
-      "name": "Polkadot",
-      "symbol": "DOT",
-      "marketCapRank": 51,
-      "priceBtc": 0.000013507512001107194
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.0000608319494139758
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 103,
+      "priceBtc": 0.000007770939593270662
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009590575795886474
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
     {
       "title": "feat: claim offline receives from encrypted funding packets",
       "url": "https://github.com/arkade-os/delegatee/pull/5",
       "createdAt": "2026-10-17T11:13:34Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     },
     {
       "title": "Ghost <-> Echo comms",
@@ -288,11 +293,6 @@
       "title": "iOS port: Darwin platform layer, iOS app, CI, tester builds",
       "url": "https://github.com/NoahVl/Birdman64/pull/14",
       "createdAt": "2026-10-17T19:42:48Z"
-    },
-    {
-      "title": "fix: Guardian swaps and faucet lookups parse account ids through the canonical helpers",
-      "url": "https://github.com/0xMiden/wallet/pull/1544",
-      "createdAt": "2026-10-18T07:25:51Z"
     }
   ]
 }
