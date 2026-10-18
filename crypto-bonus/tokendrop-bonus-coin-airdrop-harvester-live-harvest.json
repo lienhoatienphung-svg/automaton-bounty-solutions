@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T12:56:59.802Z",
-  "latencyMs": 790,
+  "executedAt": "2026-10-18T13:09:56.081Z",
+  "latencyMs": 1022,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #645: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #646: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,62 +217,72 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 918,
-      "priceBtc": 2.1064888374365953e-7
-    },
-    {
-      "name": "Minter",
-      "symbol": "MINTER",
-      "marketCapRank": 936,
-      "priceBtc": 2.041073015650217e-7
+      "marketCapRank": 860,
+      "priceBtc": 2.3324502111847282e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 97,
-      "priceBtc": 0.000023553580232825237
+      "marketCapRank": 95,
+      "priceBtc": 0.000023753578118648474
+    },
+    {
+      "name": "Minter",
+      "symbol": "MINTER",
+      "marketCapRank": 947,
+      "priceBtc": 1.9543398933332715e-7
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 120,
-      "priceBtc": 9.110079342010955e-8
+      "priceBtc": 9.112128901896606e-8
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 635,
-      "priceBtc": 0.0013036883019965904
-    },
-    {
-      "name": "Quack AI",
-      "symbol": "Q",
-      "marketCapRank": 112,
-      "priceBtc": 0.0000013526245611537227
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9986140954170808
+      "priceBtc": 0.0013045357074043219
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 49,
-      "priceBtc": 5.201070947020936e-8
+      "priceBtc": 5.208226715115196e-8
+    },
+    {
+      "name": "Quack AI",
+      "symbol": "Q",
+      "marketCapRank": 112,
+      "priceBtc": 0.0000013439033575410378
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9997499396683005
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Add \"dark web3\" and \"privacy protocols\" pillars with guardrails",
+      "url": "https://github.com/neroiq-47/vxidos-rail/pull/10",
+      "createdAt": "2026-10-18T13:09:03Z"
+    },
     {
       "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
       "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
       "createdAt": "2026-10-12T21:43:27Z"
     },
     {
-      "title": "Feat/cli notes show details",
-      "url": "https://github.com/0xMiden/rust-sdk/pull/2666",
-      "createdAt": "2026-10-04T10:43:38Z"
+      "title": "Retrieval health — weekly tracker",
+      "url": "https://github.com/Stellar-Light/stellarlight/issues/436",
+      "createdAt": "2026-07-10T00:05:01Z"
+    },
+    {
+      "title": "fix: src/airdrop.rs is one line of literal `\\n` text around an empty `airdrop()` — implement airdrop",
+      "url": "https://github.com/Lead-Studios/veritix-contract/issues/1044",
+      "createdAt": "2026-10-12T12:14:35Z"
     },
     {
       "title": "Add BitBull (BULL) jetton",
@@ -280,19 +290,9 @@
       "createdAt": "2026-10-15T02:32:06Z"
     },
     {
-      "title": "Browser-playable WASM target via Emscripten + File System Access API",
-      "url": "https://github.com/LBALab/lba2-classic-community/issues/110",
-      "createdAt": "2026-05-10T08:53:49Z"
-    },
-    {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
-      "createdAt": "2026-10-17T18:26:37Z"
-    },
-    {
-      "title": "[Translations] Give translators full sentences instead of punctuation fragments",
-      "url": "https://github.com/Cockatrice/Cockatrice/pull/6487",
-      "createdAt": "2026-01-03T12:52:47Z"
+      "title": "perf(jit): cheaper fall-through sections",
+      "url": "https://github.com/alloy-rs/evm2/pull/636",
+      "createdAt": "2026-10-15T23:51:24Z"
     }
   ]
 }
