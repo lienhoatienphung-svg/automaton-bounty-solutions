@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T17:19:20.022Z",
-  "latencyMs": 250,
+  "executedAt": "2026-10-18T17:34:31.859Z",
+  "latencyMs": 258,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #671: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #672: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52777306,
+    "liveBlockNumber": 52777762,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459004,
-    "baseMainnetTopPoolsVolume24hUsd": 139326,
+    "baseMainnetTopPoolsLiquidityUsd": 459006,
+    "baseMainnetTopPoolsVolume24hUsd": 136195,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4hoyJ8FitBwvGv1HEVUUaJSewWYEg46sSCsfTuZ3pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4hoyj8fitbwvgv1hevuuajsewwyeg46sscsftuz3pump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x957A4122Ef075A0De26e6e7472C037E75b829A08",
+        "description": "Trade our money. Keep 80%. Earn LNV. The token behind Lenvra, the onchain prop firm on Robinhood Chain, with Instant Payouts.",
+        "url": "https://dexscreener.com/robinhood/0x957a4122ef075a0de26e6e7472c037e75b829a08"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "G7GZ7r2A251xhQXQnf3b8Po9PGZPFaST2JhW61Dpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "7UMdnRcC9zXp1wm9MteFCEJ785bk8xpfWPgdcAghpump",
         "description": "MakeMarkets is an on-chain market-making platform built for pumpfun derived from Wintermute and DWF Labs trading equations, delivering automated liquidity fully",
         "url": "https://dexscreener.com/solana/7umdnrcc9zxp1wm9mtefcej785bk8xpfwpgdcaghpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Fv6btT7W6MzkMTUj6RZ8v8itdJK3W4aaJJ7w3QW9pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fv6btt7w6mzkmtuj6rz8v8itdjk3w4aajj7w3qw9pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Ez7eEs53hQiXgCGmcbhdX5i1jgg2gC3F6MoeosuVpump",
-        "description": "The original and only mascot of Monero. \n\nMonero Cat, also known as Luke the Moonshot is here to protect your privacy and financial freedom. \n\nOriginal artist L",
-        "url": "https://dexscreener.com/solana/ez7ees53hqixgcgmcbhdx5i1jgg2gc3f6moeosuvpump"
       }
     ]
   },
