@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-18T09:40:43.952Z",
-  "latencyMs": 673,
+  "executedAt": "2026-10-18T09:55:15.646Z",
+  "latencyMs": 572,
   "companyName": "OmniGig Multi-Industry B2B & E-Commerce Fulfillment",
-  "workTitle": "Delivery Sprint #629: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
-  "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
+  "workTitle": "Growth & Sales Sprint #630: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "targetUrl": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656621,
-        "liquidityUsd": 36689,
+        "liquidityUsd": 36690,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501800,
-        "liquidityUsd": 17789,
+        "liquidityUsd": 18344,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2180706,
-        "liquidityUsd": 88953,
+        "liquidityUsd": 88887,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1857268,
-        "liquidityUsd": 18799,
+        "liquidityUsd": 18807,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -62,7 +62,7 @@
     ]
   },
   "crossDexArbitrageDesk": {
-    "basePoolsScanned": 12,
+    "basePoolsScanned": 11,
     "wethMaxSpreadBps": 0,
     "topLiquidPools": [
       {
@@ -70,10 +70,20 @@
         "dexId": "quickswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000028,
-        "liquidityUsd": 103132,
-        "volume24hUsd": 56606,
+        "priceUsd": 1.0000089,
+        "liquidityUsd": 103131,
+        "volume24hUsd": 52606,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
+      },
+      {
+        "pairAddress": "0x0E635F8EeED4F7279d56692D552F034ECE136019",
+        "dexId": "alien-base",
+        "baseSymbol": "USDC",
+        "quoteSymbol": "USDbC",
+        "priceUsd": 1.0001,
+        "liquidityUsd": 127639,
+        "volume24hUsd": 602,
+        "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
       },
       {
         "pairAddress": "0x98c7A2338336d2d354663246F64676009c7bDa97",
@@ -82,27 +92,17 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000043,
         "liquidityUsd": 140049,
-        "volume24hUsd": 23769,
+        "volume24hUsd": 19279,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
-      },
-      {
-        "pairAddress": "0x0E635F8EeED4F7279d56692D552F034ECE136019",
-        "dexId": "alien-base",
-        "baseSymbol": "USDC",
-        "quoteSymbol": "USDbC",
-        "priceUsd": 1.00011,
-        "liquidityUsd": 127639,
-        "volume24hUsd": 381,
-        "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
       },
       {
         "pairAddress": "0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4",
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000023,
+        "priceUsd": 1.000019,
         "liquidityUsd": 21384,
-        "volume24hUsd": 87247,
+        "volume24hUsd": 86869,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -112,7 +112,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000029,
         "liquidityUsd": 14836,
-        "volume24hUsd": 2469,
+        "volume24hUsd": 2467,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       },
       {
@@ -120,9 +120,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000072,
+        "priceUsd": 1.000071,
         "liquidityUsd": 12034,
-        "volume24hUsd": 929,
+        "volume24hUsd": 948,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
@@ -203,61 +203,57 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Infinos GmbH",
-        "roleOrTask": "Creative Strategist · Paid Social, KI-native (m/w/d)",
+        "company": "wolt",
+        "roleOrTask": "Product Manager, Homepage",
         "industryTags": [
-          "Remote",
-          "Social Media Manager"
+          "Product Management"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/infinos-gmbh/creative-strategist-paid-social-ki-native-berlin-291349",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/wolt/product-manager-homepage-berlin-275071",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "10ML",
-        "roleOrTask": "Head of Growth Europa (m/w/d)",
+        "company": "Teampicnic",
+        "roleOrTask": "Strategy - Senior Business Manager (m/w/d)",
+        "industryTags": [
+          "Consumer"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/teampicnic/strategy-senior-business-manager-dusseldorf-north-rhine-westphalia-482457",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "orcristtechnologies",
+        "roleOrTask": "(Senior) Program Manager",
         "industryTags": [
           "Business Development"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/10ml/head-of-growth-europa-dortmund-214089",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/orcristtechnologies/senior-program-manager-242420",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Taxtalente.de",
-        "roleOrTask": "Steuerberater (m/w/d) in Uetersen, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+        "company": "orcristtechnologies",
+        "roleOrTask": "(Senior) Machine Learning Engineer",
         "industryTags": [
-          "Directors",
-          "Chief Executives"
+          "Engineering"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-uetersen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-295522",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/orcristtechnologies/senior-machine-learning-engineer-179360",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Taxtalente.de",
-        "roleOrTask": "Steuerberater (m/w/d) in Munich, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+        "company": "orcristtechnologies",
+        "roleOrTask": "(Senior) Full-Stack Engineer [TypeScript - Prototyping]",
         "industryTags": [
-          "Directors",
-          "Chief Executives"
+          "Engineering"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-munich-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-312455",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Taxtalente.de",
-        "roleOrTask": "Steuerberater (m/w/d) in Plessa, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-        "industryTags": [
-          "Directors",
-          "Chief Executives"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-plessa-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-420787",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/orcristtechnologies/senior-full-stack-engineer-typescript-prototyping-252909",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
