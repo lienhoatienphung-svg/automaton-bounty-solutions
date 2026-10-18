@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T16:26:59.559Z",
-  "latencyMs": 354,
+  "executedAt": "2026-10-18T16:42:30.740Z",
+  "latencyMs": 364,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #665: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #666: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52775736,
+    "liveBlockNumber": 52776201,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459007,
-    "baseMainnetTopPoolsVolume24hUsd": 141032,
+    "baseMainnetTopPoolsVolume24hUsd": 138900,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HLMCcFB9p569oZiaMBvh1qCX1gPjna5N9FaTNS4dpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hlmccfb9p569oziambvh1qcx1gpjna5n9fatns4dpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xe9b02b33fa7de587707495f9f30bcf70b29136fa",
+        "description": "Feast is an open source feature store that delivers structured data to AI and LLM applications at high scale during training and inference",
+        "url": "https://dexscreener.com/robinhood/0xe9b02b33fa7de587707495f9f30bcf70b29136fa"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Dz8inTcgp22n9yQ92dMG8168Wi79ANT2z3oehtdMpump",
+        "description": "Elias tweeted \"Hello World\"",
+        "url": "https://dexscreener.com/solana/dz8intcgp22n9yq92dmg8168wi79ant2z3oehtdmpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x4Bb78f36164f382bAEc864Bef60f7Cdc21dE6742",
@@ -45,12 +63,6 @@
         "tokenAddress": "ELqsDPZiASFagC1wtJRHVFg7MgifECkVkV41rhd4pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/elqsdpziasfagc1wtjrhvfg7mgifeckvkv41rhd4pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "359nqz9q5ja5qD8iNn8BXJr2Dxiope4k5yPX1pNDpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/359nqz9q5ja5qd8inn8bxjr2dxiope4k5ypx1pndpump"
       },
       {
         "chainId": "solana",
@@ -69,18 +81,6 @@
         "tokenAddress": "GqF9acnCcH5k4gyUjrRV2yAZUE8D9KeS183513jZpump",
         "description": "Buy stocks with your memecoins. Privately. 24/7.\nNVDA, TSLA, SPY & more on Solana. Phantom, one click.",
         "url": "https://dexscreener.com/solana/gqf9acncch5k4gyujrrv2yazue8d9kes183513jzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "F7EZLHq4N2KCW7EUQ1FH8CaShj4bQYRMgiGTmeFbpump",
-        "description": "launch a token with a built-in autonomous market maker that uses creator fees to execute strategies around the clock.",
-        "url": "https://dexscreener.com/solana/f7ezlhq4n2kcw7euq1fh8cashj4bqyrmgigtmefbpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CrsJs3BBBo7qdKtknWw5rP34gGthTCw893GkPMjBpump",
-        "description": "A French Pepe posted 10 years ago.",
-        "url": "https://dexscreener.com/solana/crsjs3bbbo7qdktknww5rp34ggthtcw893gkpmjbpump"
       }
     ]
   },
