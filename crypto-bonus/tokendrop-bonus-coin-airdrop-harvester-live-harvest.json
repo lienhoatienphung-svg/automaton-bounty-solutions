@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T03:28:01.866Z",
-  "latencyMs": 671,
+  "executedAt": "2026-10-18T03:29:57.038Z",
+  "latencyMs": 690,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #574: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #575: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Draft: continuity ledger, canon fixes, and staged 10k chapter expansion",
+      "url": "https://github.com/danielmartinez-maker/TheSEARemembers/pull/103",
+      "createdAt": "2026-10-14T03:22:20Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "fix(i18n): protected terms are no longer glued to a word in seven locales, and the translation job rejects that glue",
+      "url": "https://github.com/0xMiden/wallet/pull/1539",
+      "createdAt": "2026-10-18T01:53:46Z"
+    },
+    {
+      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
+      "createdAt": "2026-10-12T04:03:25Z"
+    },
+    {
       "title": "research: tokens per verify round - ~2.2 today, and in a top-10/512 MoE more candidates may cost more expert traffic than they save",
       "url": "https://github.com/xenodeve/Strata-xeno/issues/192",
       "createdAt": "2026-10-05T08:59:48Z"
@@ -273,26 +293,6 @@
       "title": "feat(farming): train Wizardry one target at a time with caster gear",
       "url": "https://github.com/atrinik/playtester/pull/59",
       "createdAt": "2026-10-18T03:17:12Z"
-    },
-    {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
-    },
-    {
-      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
-      "url": "https://github.com/Open-Athena/biotasks/issues/21",
-      "createdAt": "2026-10-16T20:07:24Z"
-    },
-    {
-      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
-      "createdAt": "2026-10-12T04:03:25Z"
-    },
-    {
-      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
-      "createdAt": "2026-10-07T00:07:47Z"
     }
   ]
 }
