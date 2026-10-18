@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T19:22:33.821Z",
-  "latencyMs": 999,
+  "executedAt": "2026-10-18T19:38:08.177Z",
+  "latencyMs": 656,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #689: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #690: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "hi",
       "symbol": "HI",
-      "marketCapRank": 847,
-      "priceBtc": 2.3934551450191913e-7
+      "marketCapRank": 858,
+      "priceBtc": 2.3660573691986874e-7
     },
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 704,
-      "priceBtc": 3.285620682826644e-7
-    },
-    {
-      "name": "Covenant x402",
-      "symbol": "COVENANT",
-      "marketCapRank": 710,
-      "priceBtc": 3.2400545284999806e-7
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00005841768805579547
+      "marketCapRank": 725,
+      "priceBtc": 3.0293101855755045e-7
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 89,
-      "priceBtc": 0.000035545906924399904
+      "priceBtc": 0.000035450696386763116
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00005800694013624814
+    },
+    {
+      "name": "Covenant x402",
+      "symbol": "COVENANT",
+      "marketCapRank": 691,
+      "priceBtc": 3.296989910872857e-7
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 120,
-      "priceBtc": 8.955312816671867e-8
+      "priceBtc": 8.892134197513325e-8
     },
     {
-      "name": "Derive",
-      "symbol": "DRV",
-      "marketCapRank": 127,
-      "priceBtc": 0.000004586400100143203
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 87,
+      "priceBtc": 0.00009899601808178673
     },
     {
-      "name": "Claudia",
-      "symbol": "CLAUDIA",
-      "marketCapRank": 815,
-      "priceBtc": 2.502204318479389e-7
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 29,
+      "priceBtc": 0.000011761992866238842
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
-      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
-      "createdAt": "2026-10-11T10:45:50Z"
+      "title": "feat(leaderboard): activity leaderboard phase 1, USDC-days held (dark: publish off, nothing rendered or scheduled)",
+      "url": "https://github.com/SlumperSan/agent-governed-vaults/pull/461",
+      "createdAt": "2026-10-18T17:28:26Z"
     },
     {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
+      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
+      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
+      "createdAt": "2026-10-18T07:37:42Z"
     },
     {
-      "title": "P1: Public GET/prewarm triggers settlement-capable work — prove financial producer fencing",
-      "url": "https://github.com/Emaren/app-prodn/issues/669",
-      "createdAt": "2026-10-18T19:20:36Z"
+      "title": "macOS Tahoe / iOS Liquid Glass portfolio",
+      "url": "https://github.com/Ebullioscopic/Portfolio/pull/1",
+      "createdAt": "2026-10-18T16:56:59Z"
     },
     {
-      "title": "Release candidate 2: first production version",
-      "url": "https://github.com/jarpless/price_ranger/pull/153",
-      "createdAt": "2026-10-17T20:56:41Z"
+      "title": "Payment without a human-funded balance: x402 per-post on the four agent-first sites",
+      "url": "https://github.com/api-evangelist/roadmap/issues/973",
+      "createdAt": "2026-10-15T14:09:41Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "fix(board): mandater fra en afsluttet saeson skygger ikke for det aktuelle mandat (#6773)",
+      "url": "https://github.com/NicolaiDolmer/CyclingZone/pull/6780",
+      "createdAt": "2026-10-17T10:53:23Z"
     },
     {
-      "title": "Add Bitvavo exchange integration",
-      "url": "https://github.com/rotki/rotki/pull/13336",
-      "createdAt": "2026-10-09T19:52:35Z"
+      "title": "feat(orchestrator): complete the rewards feature — accrue on successful flows, pin the reward token, per-address storage",
+      "url": "https://github.com/Remitwise-Org/Remitwise-Contracts/issues/1873",
+      "createdAt": "2026-10-18T18:20:42Z"
     }
   ]
 }
