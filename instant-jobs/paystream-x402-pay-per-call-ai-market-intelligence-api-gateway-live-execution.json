@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-18T17:26:17.104Z",
-  "latencyMs": 1185,
+  "executedAt": "2026-10-18T17:28:10.419Z",
+  "latencyMs": 1121,
   "companyName": "PayStream x402 Pay-Per-Call AI & Market Intelligence API Gateway",
-  "workTitle": "Delivery Sprint #1245: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
-  "targetUrl": "https://polymarket.com/event/china-x-india-military-clash-by-december-31",
+  "workTitle": "Growth & Sales Sprint #1244: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "targetUrl": "https://polymarket.com/event/natoeu-troops-fighting-in-ukraine-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -62,7 +62,7 @@
     ]
   },
   "crossDexArbitrageDesk": {
-    "basePoolsScanned": 10,
+    "basePoolsScanned": 11,
     "wethMaxSpreadBps": 0,
     "topLiquidPools": [
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00004,
         "liquidityUsd": 21384,
-        "volume24hUsd": 77607,
+        "volume24hUsd": 77599,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
