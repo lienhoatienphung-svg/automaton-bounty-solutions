@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T18:11:46.240Z",
-  "latencyMs": 893,
+  "executedAt": "2026-10-18T18:27:31.641Z",
+  "latencyMs": 1696,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #681: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #682: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1089110,
+      "tvlUsd": 1086307,
       "apyBase": 1.19,
-      "apyRewardBonus": 79714.04,
-      "apyTotal": 79715.24,
+      "apyRewardBonus": 81184.03,
+      "apyTotal": 81185.22,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 52037,
+      "tvlUsd": 51996,
       "apyBase": 0,
-      "apyRewardBonus": 37933,
-      "apyTotal": 37933,
+      "apyRewardBonus": 38065.76,
+      "apyTotal": 38065.76,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -43,11 +43,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "TRUST-USDC",
+      "tvlUsd": 253487,
+      "apyBase": 73.44,
+      "apyRewardBonus": 18817.4,
+      "apyTotal": 18890.84,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 598385,
-      "apyBase": 5.83,
-      "apyRewardBonus": 18128.52,
-      "apyTotal": 18134.36,
+      "tvlUsd": 596334,
+      "apyBase": 5.41,
+      "apyRewardBonus": 18234.92,
+      "apyTotal": 18240.33,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -57,10 +70,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 153226,
-      "apyBase": 25.2,
-      "apyRewardBonus": 15149.52,
-      "apyTotal": 15174.72,
+      "tvlUsd": 153177,
+      "apyBase": 23.01,
+      "apyRewardBonus": 9640.28,
+      "apyTotal": 9663.29,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -69,24 +82,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "TRUST-USDC",
-      "tvlUsd": 254181,
-      "apyBase": 73.89,
-      "apyRewardBonus": 11125.39,
-      "apyTotal": 11199.28,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "AVNT-USDC",
-      "tvlUsd": 657076,
-      "apyBase": 0.41,
-      "apyRewardBonus": 8402.98,
-      "apyTotal": 8403.39,
+      "tvlUsd": 655088,
+      "apyBase": 0.4,
+      "apyRewardBonus": 8496.48,
+      "apyTotal": 8496.87,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -109,10 +109,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-CBBTC",
-      "tvlUsd": 176322,
-      "apyBase": 18.59,
-      "apyRewardBonus": 7065.53,
-      "apyTotal": 7084.13,
+      "tvlUsd": 176353,
+      "apyBase": 18.62,
+      "apyRewardBonus": 6139.21,
+      "apyTotal": 6157.83,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -121,24 +121,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-CBBTC",
-      "tvlUsd": 3018156,
-      "apyBase": 57.09,
-      "apyRewardBonus": 6781.27,
-      "apyTotal": 6838.35,
+      "symbol": "SOL-USDC",
+      "tvlUsd": 653979,
+      "apyBase": 71.93,
+      "apyRewardBonus": 3696,
+      "apyTotal": 3767.93,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+      "poolId": "a6a1fe38-a220-4f68-a2b9-d2749c3e4664"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "FUN-USDC",
-      "tvlUsd": 273874,
-      "apyBase": 11.03,
-      "apyRewardBonus": 4394.06,
-      "apyTotal": 4405.09,
+      "tvlUsd": 275487,
+      "apyBase": 9.94,
+      "apyRewardBonus": 3042.67,
+      "apyTotal": 3052.62,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -217,82 +217,82 @@
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 723,
-      "priceBtc": 3.1353221808450803e-7
+      "marketCapRank": 715,
+      "priceBtc": 3.155656341907676e-7
     },
     {
       "name": "hi",
       "symbol": "HI",
-      "marketCapRank": 891,
-      "priceBtc": 2.183978642658913e-7
+      "marketCapRank": 890,
+      "priceBtc": 2.2081096753175192e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 92,
-      "priceBtc": 0.0000243009264791963
+      "priceBtc": 0.000024283651493973323
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "marketCapRank": 200,
-      "priceBtc": 0.0000031209676982490897
+      "priceBtc": 0.000003126339454837243
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
-      "marketCapRank": 768,
-      "priceBtc": 2.808922707287019e-7
+      "marketCapRank": 789,
+      "priceBtc": 2.6138523108314443e-7
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9989767311771145
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 121,
+      "priceBtc": 7.317806785653799e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 86,
-      "priceBtc": 0.0000992886966547218
+      "priceBtc": 0.00009953434003474626
     },
     {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.089700630192831e-8
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 103,
+      "priceBtc": 0.000007547923638957601
     }
   ],
   "activeAirdropAndFaucetQuests": [
-    {
-      "title": "Backend: background jobs in one process only, /healthz, pin Ponder",
-      "url": "https://github.com/SFLuv/app/pull/182",
-      "createdAt": "2026-10-14T18:04:53Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1.59.0",
-      "url": "https://github.com/F88/mugen-protopedia/pull/163",
-      "createdAt": "2026-06-28T17:45:34Z"
-    },
-    {
-      "title": "feat: support sequence packing and context parallelism for DTensor value models",
-      "url": "https://github.com/NVIDIA-NeMo/RL/pull/3320",
-      "createdAt": "2026-07-23T08:28:27Z"
-    },
     {
       "title": "BALANCES: balances at hand, no day notion (#538)",
       "url": "https://github.com/stolslilabs/paved/pull/553",
       "createdAt": "2026-10-18T18:09:57Z"
     },
     {
-      "title": "build(deps): update production dependencies (major)",
-      "url": "https://github.com/neuland-ingolstadt/neuland-website/pull/66",
-      "createdAt": "2026-08-23T20:12:13Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "Add unit tests for src/utils/faucet.ts shouldShowFaucet kill-switch and network gating",
-      "url": "https://github.com/mux-labs/mux-frontend/issues/921",
-      "createdAt": "2026-10-12T18:15:53Z"
+      "title": "AppWorld eval 5: WikiSkill vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/883",
+      "createdAt": "2026-10-17T21:47:48Z"
+    },
+    {
+      "title": "AppWorld eval 5: EvoSkill vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/884",
+      "createdAt": "2026-10-17T21:47:49Z"
+    },
+    {
+      "title": "chore(0.15.0): RISEx read-only phase + README support matrix",
+      "url": "https://github.com/hypurrquant/perp-cli/pull/39",
+      "createdAt": "2026-10-18T18:25:16Z"
+    },
+    {
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
+      "createdAt": "2026-10-17T18:26:37Z"
     }
   ]
 }
