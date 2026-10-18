@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T11:04:16.307Z",
-  "latencyMs": 646,
+  "executedAt": "2026-10-18T11:19:06.217Z",
+  "latencyMs": 1431,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #631: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #632: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "3A3qjns31YZA6Ung91ZpoPD7J3p1bDFbTJ4ANFAPpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "imanuel mucron",
+      "url": "https://dexscreener.com/solana/3a3qjns31yza6ung91zpopd7j3p1bdfbtj4anfappump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "8dcJQQxNY4ooKE8PpJMhgcLsC2oc4RzHGEpbvj5opump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/bsc/0x5ab600feffc3494bada1decbf2bcf36c5fb67777"
-    },
-    {
-      "chainId": "bsc",
-      "tokenAddress": "0xc02B3EE1237e4bF485bE9D1dA12e815fcDa54687",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/bsc/0xc02b3ee1237e4bf485be9d1da12e815fcda54687"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 122,
-      "priceBtc": 0.000001109580711313211
+      "marketCapRank": 118,
+      "priceBtc": 0.0000012046833144655826
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 88,
-      "priceBtc": 0.00003716129246552859
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00006048135683637656
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 117,
-      "priceBtc": 7.582821212352696e-7
+      "priceBtc": 0.00003710873874485878
     },
     {
       "name": "Bitway",
       "symbol": "BTW",
       "marketCapRank": 33,
-      "priceBtc": 0.00002943323995315132
+      "priceBtc": 0.00002970803283718136
     },
     {
-      "name": "Monad",
-      "symbol": "MON",
-      "marketCapRank": 157,
-      "priceBtc": 2.6146938424736254e-7
+      "name": "Aptos",
+      "symbol": "APT",
+      "marketCapRank": 90,
+      "priceBtc": 0.00000977635584412815
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 100,
+      "priceBtc": 0.00002235165459730841
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.000060434362569034594
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 634,
-      "priceBtc": 0.0013087810186015844
+      "priceBtc": 0.0013100353449533233
     },
     {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "marketCapRank": 36,
-      "priceBtc": 0.0032688513843359876
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 117,
+      "priceBtc": 7.6183925483507e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(sanctions): add seeded screening and harden change history",
-      "url": "https://github.com/koala73/worldmonitor/pull/9360",
-      "createdAt": "2026-10-18T09:09:00Z"
+      "title": "Multisig Phase 4: the treasury live, attention, nicknames, help",
+      "url": "https://github.com/ashwinarora/hl-tools/pull/8",
+      "createdAt": "2026-10-11T08:46:43Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "Daily Shorts Pipeline — Reports",
+      "url": "https://github.com/caleblschulte0-ux/Shorts-pipeline/issues/1",
+      "createdAt": "2026-05-28T21:54:45Z"
     },
     {
-      "title": "Soroban: Add cross-contract call to token contract for reward payouts",
-      "url": "https://github.com/UnityChainxx/StellarHunts/issues/680",
-      "createdAt": "2026-10-15T11:42:55Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "[Smart Contracts] Consolidate incentive, incentive_mgmt and incentive_storage modules",
-      "url": "https://github.com/Xoulomon/Scavenger/issues/1511",
-      "createdAt": "2026-10-15T15:26:36Z"
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
     },
     {
-      "title": "[Smart Contracts] Replace unchecked arithmetic in key_rotation, storage_optimizer and incentive modules with checked math",
-      "url": "https://github.com/Xoulomon/Scavenger/issues/1508",
-      "createdAt": "2026-10-15T15:26:29Z"
+      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
+      "createdAt": "2026-10-12T04:03:25Z"
     },
     {
-      "title": "Print POS receipts without leaving the till: in-page on Chrome/Edge, share sheet on iPhone/iPad",
-      "url": "https://github.com/abaadapp/abaad.Saas/pull/129",
-      "createdAt": "2026-10-18T09:10:23Z"
+      "title": "Pre-launch: RCHIPs that invalidate node data or deploy code (hard-fork tracker)",
+      "url": "https://github.com/rchain-community/rchain-rust/issues/51",
+      "createdAt": "2026-09-13T16:22:00Z"
     }
   ]
 }
