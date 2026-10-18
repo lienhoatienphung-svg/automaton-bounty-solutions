@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T05:06:53.381Z",
-  "latencyMs": 659,
+  "executedAt": "2026-10-18T05:20:39.257Z",
+  "latencyMs": 650,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #587: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #588: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Minter",
       "symbol": "MINTER",
-      "marketCapRank": 860,
-      "priceBtc": 2.2802211146824167e-7
+      "marketCapRank": 892,
+      "priceBtc": 2.1860884426448862e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.000060850780960117554
+      "priceBtc": 0.000060599305973761085
     },
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 111,
-      "priceBtc": 0.0000013306786895405607
+      "marketCapRank": 105,
+      "priceBtc": 0.0000015279726032054983
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 29,
-      "priceBtc": 0.000012001090906373831
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 630,
-      "priceBtc": 0.0013336712946582716
+      "priceBtc": 0.000011974370771777603
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009662690544832021
+      "priceBtc": 0.0009654900134422607
     },
     {
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "marketCapRank": 48,
-      "priceBtc": 0.00000538382931688316
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 632,
+      "priceBtc": 0.001330733295177396
     },
     {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 185,
-      "priceBtc": 0.0000035046509030438238
+      "name": "Raydium",
+      "symbol": "RAY",
+      "marketCapRank": 116,
+      "priceBtc": 0.00002205314417880582
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 101,
+      "priceBtc": 0.00002189589594733738
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(did-ckb): propagate history input lookup failures",
-      "url": "https://github.com/ckb-devrel/ccc/pull/608",
-      "createdAt": "2026-10-17T19:28:41Z"
+      "title": "fix: force simple faucet success response",
+      "url": "https://github.com/arthneura/market/pull/22",
+      "createdAt": "2026-10-18T05:20:23Z"
     },
     {
-      "title": "[Wallet Rewards] Latest eligibility",
-      "url": "https://github.com/oguzpoyrazyasin/poyraz/issues/5",
-      "createdAt": "2026-09-21T21:54:47Z"
+      "title": "Ghost <-> Echo comms",
+      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
+      "createdAt": "2026-10-16T18:46:23Z"
     },
     {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
+      "title": "fix(mobile): re-read ETH balance when the app returns during the ETH-short state",
+      "url": "https://github.com/HyeokjaeChoi/vaultme/pull/76",
+      "createdAt": "2026-10-18T05:16:17Z"
     },
     {
-      "title": "Update all major dependencies (major)",
-      "url": "https://github.com/Mbehbahani/JobPilot/pull/18",
-      "createdAt": "2026-08-05T16:21:46Z"
+      "title": "M3 checkpoint — manual verification",
+      "url": "https://github.com/sarmadahsan/pay-guard/issues/33",
+      "createdAt": "2026-10-17T21:13:44Z"
     },
     {
-      "title": "feat(audit): wallet audit — flag USDC paid outside PayGuard, confirm settlements on-chain (#87)",
-      "url": "https://github.com/sarmadahsan/pay-guard/pull/88",
-      "createdAt": "2026-10-18T04:15:14Z"
+      "title": "fix(contracts): SEP-41 clawback, initialize validation, extend_cliff and registry TTL hardening",
+      "url": "https://github.com/soropad/launchpad/pull/596",
+      "createdAt": "2026-10-18T05:19:21Z"
     },
     {
-      "title": "Cart and checkout as the iPhone has them: documents refusal, charges sheet, confirm, 3-D Secure failure",
-      "url": "https://github.com/Code-City-LLC/KOTLIN_APP/pull/288",
-      "createdAt": "2026-10-18T02:18:51Z"
+      "title": "fix(mobile): re-read ETH balance when the app returns while the ETH-short state shows",
+      "url": "https://github.com/HyeokjaeChoi/vaultme/issues/74",
+      "createdAt": "2026-10-18T05:15:49Z"
     }
   ]
 }
