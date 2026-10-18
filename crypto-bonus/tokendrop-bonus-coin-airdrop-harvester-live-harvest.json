@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T00:49:14.811Z",
-  "latencyMs": 852,
+  "executedAt": "2026-10-18T01:03:30.923Z",
+  "latencyMs": 957,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #555: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #556: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "ErvkxE8gc7EwmaQfvoGfVfcDJbVG4EcHQr3yweTkpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Cross chain privacy layer for ZeroFee Wallet, Swap, and Paylinks.",
+      "url": "https://dexscreener.com/solana/ervkxe8gc7ewmaqfvogfvfcdjbvg4echqr3ywetkpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "CY27QvCQBCmLBuz3V7c8snEeD4z67iyoSTkwo35Ypump",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "Every movement\nbelongs to a phase.\nMarkets rarely move in a straight line. Activity forms, accelerates, rotates and eventually resets. Eternia turns those chang",
+      "url": "https://dexscreener.com/solana/cy27qvcqbcmlbuz3v7c8sneed4z67iyostkwo35ypump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "7iYM9cjpKKNyLvJfq4pYyjubk83dnqxtPDrRdf77pump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -194,85 +210,74 @@
       "totalBoostAmount": 10,
       "description": "🚀 PoUT Network ($POUT) — Proof of Useful Traffic\n\nWhy waste computing power when network traffic could do useful work?\n\nPoUT is an experimental Rust-based proj",
       "url": "https://dexscreener.com/solana/fq47sah4xurjarffifabqzsx1kq3ewe3gxnlugyypump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "SwordCat ⚔️🐱\n\nThe cat with a sword that took over social media. SwordCat went viral across X and beyond, pulling in millions of views and turning into a meme p",
-      "url": "https://dexscreener.com/solana/5tcju6ynxhq5zra6tgndr6f7tk42mpufmee31csfpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Glitch is a flamingo who found an ATM that never stops paying. Now everyone wants in. Infinite Money Glitch ($GLITCH) is a 100% fair-launch memecoin on Solana, ",
-      "url": "https://dexscreener.com/solana/8xg89xt8ve34skiyqyums46mycresca2f362uscrpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 121,
-      "priceBtc": 9.116444636510706e-8
-    },
-    {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 109,
-      "priceBtc": 0.0000014652688606323049
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00005960324666754915
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.013802102674935769
+      "marketCapRank": 105,
+      "priceBtc": 0.0000015970773971821733
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9999205030738569
+      "priceBtc": 0.9992438285669143
     },
     {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012684153562997032
-    },
-    {
-      "name": "Canton",
-      "symbol": "CC",
-      "marketCapRank": 28,
-      "priceBtc": 0.0000012638662011840526
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 633,
+      "priceBtc": 0.0013399937325266225
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00010556645939959017
+      "priceBtc": 0.00010562262457643251
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 89,
+      "priceBtc": 0.000038405689341819726
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.0012676226616310069
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.01378823283002507
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 120,
+      "priceBtc": 9.127786816939169e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Migra núcleo HYDRA-X para FIPS 204 (ML-DSA) e FIPS 205 (SLH-DSA)",
-      "url": "https://github.com/quantarsite/quantar-testnet/pull/1",
-      "createdAt": "2026-10-18T00:48:12Z"
+      "title": "Docs: list omdrop-bcm4360 as the radio backend for Intel MacBooks",
+      "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/91",
+      "createdAt": "2026-10-18T00:20:09Z"
     },
     {
-      "title": "fix(ledger): qua nửa đêm ví không nạp lại + first_spend_day kẹt null",
-      "url": "https://github.com/thanhphuc85/technocore-crypto-agent/pull/139",
-      "createdAt": "2026-10-18T00:48:11Z"
+      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
+      "url": "https://github.com/Open-Athena/biotasks/issues/21",
+      "createdAt": "2026-10-16T20:07:24Z"
+    },
+    {
+      "title": "Source watch: official Flop Labs / Technocore sources",
+      "url": "https://github.com/Mariukasfak/flop-evidence-scout/issues/3",
+      "createdAt": "2026-08-25T17:32:43Z"
     },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
@@ -280,19 +285,14 @@
       "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "fix(testnet): bind the gateway port before snapshot restore; replay once on restore",
-      "url": "https://github.com/zyron249/-zyronchain/pull/1046",
-      "createdAt": "2026-10-18T00:42:26Z"
+      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
+      "url": "https://github.com/jsboige/CoursIA/pull/20377",
+      "createdAt": "2026-10-11T14:10:17Z"
     },
     {
-      "title": "V5: register source-verified D1F 01/02/04 ZIP as WORK_TEST candidate",
-      "url": "https://github.com/aapojohannespihkala-lgtm/aapopihkala-fi/pull/1362",
-      "createdAt": "2026-10-18T00:46:43Z"
-    },
-    {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
     }
   ]
 }
