@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T21:11:15.890Z",
-  "latencyMs": 1382,
+  "executedAt": "2026-10-18T21:13:32.183Z",
+  "latencyMs": 908,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #700: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #701: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "32arpJYEzZC8KGUSNzfWYyZPoeVcZHbaAZRi3Fbjpump",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/32arpjyezzc8kgusnzfwyyzpoevczhbaazri3fbjpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "7gdy7CGqBBmjr6J8wTd9mzps6w4sFeByq2AvCVLAjupx",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Momo is a catwifmotion",
       "url": "https://dexscreener.com/solana/fhtrvakqeialrjhyc13dbnhgw9n8zpacvonakfxxpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "48hnR1CWtafBumJsJod6Q8yduwDuYyumCJzuBVzvpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Dog In Pain",
-      "url": "https://dexscreener.com/solana/48hnr1cwtafbumjsjod6q8yduwduyyumcjzubvzvpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,53 +217,63 @@
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 733,
-      "priceBtc": 3.0131201864405114e-7
-    },
-    {
-      "name": "Boomer",
-      "symbol": "BOOMER",
-      "marketCapRank": 791,
-      "priceBtc": 2.6086164163476987e-7
+      "marketCapRank": 736,
+      "priceBtc": 2.9803663912907535e-7
     },
     {
       "name": "hi",
       "symbol": "HI",
-      "marketCapRank": 853,
-      "priceBtc": 2.3580472712583455e-7
+      "marketCapRank": 827,
+      "priceBtc": 2.423874545500259e-7
+    },
+    {
+      "name": "Boomer",
+      "symbol": "BOOMER",
+      "marketCapRank": 778,
+      "priceBtc": 2.677782402777088e-7
     },
     {
       "name": "Doge Pepe",
       "symbol": "DOPE",
-      "marketCapRank": 674,
-      "priceBtc": 3.4101773122204026e-7
+      "marketCapRank": 658,
+      "priceBtc": 3.5534534226926437e-7
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
-      "marketCapRank": 822,
-      "priceBtc": 2.4450450477274856e-7
+      "marketCapRank": 825,
+      "priceBtc": 2.42761884338598e-7
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 639,
+      "priceBtc": 0.0012662194719803782
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 120,
+      "priceBtc": 8.801819869846822e-8
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.000057854475082162336
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 94,
-      "priceBtc": 0.000023377256590535315
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 640,
-      "priceBtc": 0.001267906116990335
+      "priceBtc": 0.00005781340004333491
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "feat(leaderboard): activity leaderboard phase 1, USDC-days held (dark: publish off, nothing rendered or scheduled)",
+      "url": "https://github.com/SlumperSan/agent-governed-vaults/pull/461",
+      "createdAt": "2026-10-18T17:28:26Z"
+    },
+    {
+      "title": "Ghost <-> Echo comms",
+      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
+      "createdAt": "2026-10-16T18:46:23Z"
+    },
     {
       "title": "fix(security): enforce strict CSP to block inline scripts and restric…",
       "url": "https://github.com/StormSale/StormSale/pull/282",
@@ -283,16 +293,6 @@
       "title": "Live smoke failing",
       "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
       "createdAt": "2026-10-17T18:26:37Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "M1-4a chain: client foundation on @4thtech-io/occ-v2-abi",
-      "url": "https://github.com/4thtech/agentlink/pull/275",
-      "createdAt": "2026-10-18T21:08:06Z"
     }
   ]
 }
