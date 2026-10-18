@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T14:00:42.187Z",
-  "latencyMs": 813,
+  "executedAt": "2026-10-18T14:17:36.054Z",
+  "latencyMs": 423,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #653: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #654: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 20,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/hkzdfznkhzxd9agrdnpydv4it6lmaurjnprtj9wpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "2qfUSuUfKuxHyYEMYreiYdK3YyapFzbgq2c6hhfPpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 120,
       "description": "$IMOLEST — One More Thing…\n\nThe forbidden Apple product.\n\nSteve Jobs gave the world Apple. Epstein gave the world a scandal that refuses to die.\n\nNow imagine th",
       "url": "https://dexscreener.com/solana/7iym9cjpkknylvjfq4pyyjubk83dnqxtpdrrdf77pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3A3qjns31YZA6Ung91ZpoPD7J3p1bDFbTJ4ANFAPpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 150,
-      "description": "imanuel mucron",
-      "url": "https://dexscreener.com/solana/3a3qjns31yza6ung91zpopd7j3p1bdfbtj4anfappump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,51 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 878,
-      "priceBtc": 2.335703697012e-7
+      "marketCapRank": 824,
+      "priceBtc": 2.44688777408145e-7
     },
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 810,
-      "priceBtc": 2.509400690118e-7
+      "marketCapRank": 761,
+      "priceBtc": 2.8917662276166995e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 91,
-      "priceBtc": 0.000024568846363780078
+      "marketCapRank": 96,
+      "priceBtc": 0.000023976020481493473
     },
     {
-      "name": "Minter",
-      "symbol": "MINTER",
-      "marketCapRank": 916,
-      "priceBtc": 2.108487143938317e-7
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.00001190680404495969
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9997410647134513
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "marketCapRank": 772,
+      "priceBtc": 2.788904682103645e-7
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012633032848597251
+      "priceBtc": 0.001260678456841807
     },
     {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.218321697574922e-8
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9998633459697469
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 631,
+      "priceBtc": 0.0013084696337640966
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 29,
+      "priceBtc": 0.000011811785033924793
     }
   ],
-  "activeAirdropAndFaucetQuests": [
-    {
-      "title": "data(filecoin): add ChainSafe Forest node",
-      "url": "https://github.com/Chain-Love/chain-love/pull/3528",
-      "createdAt": "2026-09-02T04:16:28Z"
-    },
-    {
-      "title": "Add multiple simultaneous reward tokens",
-      "url": "https://github.com/Rickyy1017/Stellar-Defi-Vault/issues/699",
-      "createdAt": "2026-10-18T11:58:04Z"
-    },
-    {
-      "title": "Add historical balance queries via checkpoints",
-      "url": "https://github.com/Rickyy1017/Stellar-Defi-Vault/issues/709",
-      "createdAt": "2026-10-18T12:05:15Z"
-    },
-    {
-      "title": "Add time-weighted average balance tracking",
-      "url": "https://github.com/Rickyy1017/Stellar-Defi-Vault/issues/710",
-      "createdAt": "2026-10-18T12:06:25Z"
-    },
-    {
-      "title": "Add comprehensive integration test suite for on-chain group expense settlement flow",
-      "url": "https://github.com/mergepay/mergepay-api/issues/669",
-      "createdAt": "2026-09-26T15:33:52Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    }
-  ]
+  "activeAirdropAndFaucetQuests": []
 }
