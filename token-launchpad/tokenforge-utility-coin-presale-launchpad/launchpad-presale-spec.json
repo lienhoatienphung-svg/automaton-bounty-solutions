@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T21:11:26.160Z",
-  "latencyMs": 337,
+  "executedAt": "2026-10-18T21:13:33.912Z",
+  "latencyMs": 258,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #696: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #697: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52784269,
+    "liveBlockNumber": 52784333,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459014,
-    "baseMainnetTopPoolsVolume24hUsd": 134035,
+    "baseMainnetTopPoolsVolume24hUsd": 135743,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GwyTG9Mt8N66Rjje9PkTRne8Po8aFRhuTyBYfHdApump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gwytg9mt8n66rjje9pktrne8po8afrhutybyfhdapump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0xE5e58E53d0Bb204Aa62c995A6c8CC8a48e60C3AC",
+        "description": "NIGHTSHIFT is the night shift for the internet: autonomous AI companies that keep building, selling and shipping at 3 AM while their founders sleep.\n\nYou descri",
+        "url": "https://dexscreener.com/ethereum/0xe5e58e53d0bb204aa62c995a6c8cc8a48e60c3ac"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "tsUEU5EnvQ1LxoWs3L4uyYRzfCpNXitPcS9CW7mpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "EYnMFdHmDpMhLwwe9f66tWD9UnWeG5726iAJVTxrpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/eynmfdhmdpmhlwwe9f66twd9unweg5726iajvtxrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GsvnTthMCo23CQLZF5qXHSuLv5d6GoAZ8WarN5zFpump",
-        "description": "Protest against the tyranny.",
-        "url": "https://dexscreener.com/solana/gsvntthmco23cqlzf5qxhsulv5d6goaz8warn5zfpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8j2G4CUi8vswXykzyp4PYNGKF9wuLBmYoT6Y4Fcnpump",
-        "description": "Elon says connecting Grok Bot to your X DMs is the best way to use it\n\nand it shipped in the same update that made it 3x FASTER\n\nthe part crypto people should c",
-        "url": "https://dexscreener.com/solana/8j2g4cui8vswxykzyp4pyngkf9wulbmyot6y4fcnpump"
       }
     ]
   },
