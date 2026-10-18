@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T10:29:28.604Z",
-  "latencyMs": 383,
+  "executedAt": "2026-10-18T10:31:36.034Z",
+  "latencyMs": 742,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #626: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #627: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,53 +215,84 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Minter",
-      "symbol": "MINTER",
-      "marketCapRank": 921,
-      "priceBtc": 2.046209095541973e-7
-    },
-    {
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 108,
-      "priceBtc": 0.00000145690479036489
+      "priceBtc": 0.0000014268916024974924
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 99,
-      "priceBtc": 0.000022481724063793078
+      "priceBtc": 0.00002248415114672898
     },
     {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 190,
-      "priceBtc": 0.000003422502087363078
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00006067296052933256
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 36,
-      "priceBtc": 0.003284071397806828
+      "priceBtc": 0.003280975174088285
     },
     {
-      "name": "Ethena",
-      "symbol": "ENA",
-      "marketCapRank": 41,
-      "priceBtc": 0.0000023179826472181304
+      "name": "Monero",
+      "symbol": "XMR",
+      "marketCapRank": 13,
+      "priceBtc": 0.007129715517449936
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 633,
-      "priceBtc": 0.0013075577761495008
+      "priceBtc": 0.0013113467476137837
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009627481875575899
+      "name": "Ethena",
+      "symbol": "ENA",
+      "marketCapRank": 41,
+      "priceBtc": 0.0000023218684161600278
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 118,
+      "priceBtc": 7.572553675920765e-7
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Guild Shop foundation: rewards, event tokens and construction definitions",
+      "url": "https://github.com/elroynbenjamins/Veldryn/pull/594",
+      "createdAt": "2026-10-18T08:50:54Z"
+    },
+    {
+      "title": "Browser build on GitHub Pages: pair devices and share files via wireweave",
+      "url": "https://github.com/digitaldanis/multidrop/pull/24",
+      "createdAt": "2026-10-18T05:46:52Z"
+    },
+    {
+      "title": "deps(deps): update dependencies-non-major",
+      "url": "https://github.com/technologiestiftung/smartwater-bgi-planer/pull/122",
+      "createdAt": "2026-09-20T23:42:22Z"
+    },
+    {
+      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
+      "url": "https://github.com/jsboige/CoursIA/pull/20377",
+      "createdAt": "2026-10-11T14:10:17Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "data(filecoin): update Beryx calibration faucet URL",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3985",
+      "createdAt": "2026-09-25T17:12:41Z"
+    }
+  ]
 }
