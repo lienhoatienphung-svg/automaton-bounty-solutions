@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T03:31:41.191Z",
-  "latencyMs": 534,
+  "executedAt": "2026-10-18T03:45:40.983Z",
+  "latencyMs": 694,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #571: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #572: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52752476,
+    "liveBlockNumber": 52752896,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 197200,
+    "baseMainnetTopPoolsLiquidityUsd": 458998,
+    "baseMainnetTopPoolsVolume24hUsd": 197157,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4nJjZR1D7koAtbfuwCPuQ91F5bkwqgA2ENNWun6Kpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4njjzr1d7koatbfuwcpuq91f5bkwqga2ennwun6kpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "LAhfGqKMxP7EymcJCKFKY7hLmAHcVd1VyHvsPy5pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/lahfgqkmxp7eymcjckfky7hlmahcvd1vyhvspy5pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "87pzLsRcjbPDW4Pxzi4mosZap4VrxGF7HuYtBuENpump",
+        "description": "They placed a fly brain inside their own world model, creating the closest known proof to simulation theory.",
+        "url": "https://dexscreener.com/solana/87pzlsrcjbpdw4pxzi4moszap4vrxgf7huytbuenpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CPZyY7PtZUJhzSGqgBevdydBhz7xuSBxV1nBazorpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "3t4BsgLNAQ1bHbP7CEFtvZeDrWMYJtuvC3Ucter7pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/3t4bsglnaq1bhbp7ceftvzedrwmyjtuvc3ucter7pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BsWUK3S8kPPcSJvY7UYD6wN3PhiZccCrQy5de6wcWgVH",
-        "description": "ChainX Global (CXG) 🚀\nSolana-based token with a total supply of 9 crore CXG. Explore CXG on DexScreener and follow our latest updates!",
-        "url": "https://dexscreener.com/solana/bswuk3s8kppcsjvy7uyd6wn3phizcccrqy5de6wcwgvh"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xefcC5b12a1d76aAeD96bf13B325d3163A6023827",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0xefcc5b12a1d76aaed96bf13b325d3163a6023827"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DNTCnZCmfvcj57ZTC8pVnYsTCehi4xuF4ya6Jk4Qpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/dntcnzcmfvcj57ztc8pvnystcehi4xuf4ya6jk4qpump"
       }
     ]
   },
