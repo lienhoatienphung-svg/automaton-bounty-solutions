@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T01:22:05.357Z",
-  "latencyMs": 327,
+  "executedAt": "2026-10-18T01:36:14.455Z",
+  "latencyMs": 251,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #555: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #556: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52748589,
+    "liveBlockNumber": 52749013,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,20 +31,26 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 195461,
+    "baseMainnetTopPoolsVolume24hUsd": 195623,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8byJ42WRqk76fjykJzsDhBYQrK6hs2Rc7UW3NJ85R7pQ",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8byj42wrqk76fjykjzsdhbyqrk6hs2rc7uw3nj85r7pq"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x4F449c404dd989ce095891d209B2047451590CDB",
+        "description": "ay mi gatito",
+        "url": "https://dexscreener.com/robinhood/0x4f449c404dd989ce095891d209b2047451590cdb"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "99mgJwhNddSGy9n6P56m4WdonvdY5ee1WX42DdvVJa2q",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/99mgjwhnddsgy9n6p56m4wdonvdy5ee1wx42ddvvja2q"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AK7eJSooUEFa9JWCSpCpw9dV8rETJBRPuB3KCzggpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ak7ejsoouefa9jwcspcpw9dv8retjbrpub3kczggpump"
       },
       {
         "chainId": "solana",
@@ -75,12 +81,6 @@
         "tokenAddress": "53y1shyqwpMWY1thY9yptFC3WgJyYKH6ouvjC4wPpump",
         "description": "MarsCoin , Fees redirected to Elon wallet",
         "url": "https://dexscreener.com/solana/53y1shyqwpmwy1thy9yptfc3wgjyykh6ouvjc4wppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "49LjxttMRsw2SuGEyYGVUwbU2zPQUYpTtoRCtU3Epump",
-        "description": "Rocket League x Tesla Roadster inside of a tweet\n\nThe first 1:1 replica of the new tesla roadster, exact jump physics (unlike every other one-shotted game you s",
-        "url": "https://dexscreener.com/solana/49ljxttmrsw2sugeyygvuwbu2zpquypttorctu3epump"
       }
     ]
   },
