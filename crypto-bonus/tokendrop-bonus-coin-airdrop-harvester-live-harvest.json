@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T08:35:11.880Z",
-  "latencyMs": 1128,
+  "executedAt": "2026-10-18T08:37:36.023Z",
+  "latencyMs": 696,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #612: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #613: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "ADozLt4uLnFQZY46yWd9RSvqZVj9whfrKQ62UTfbpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/adozlt4ulnfqzy46ywd9rsvqzvj9whfrkq62utfbpump"
+    },
+    {
       "chainId": "bsc",
       "tokenAddress": "0x5Ab600feFFC3494baDA1dECBF2BcF36c5fB67777",
       "boostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "viral meme. 10M+ views. we’re all texcat.\neverything is fine.™",
       "url": "https://dexscreener.com/solana/bdxflfcbde8yvpbvvmmgtduqcdesaqvum5xlxguc2s5t"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "FhTRVAkQeiaLRJHYc13DBNhgw9N8ZPacvonaKfXxpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Momo is a catwifmotion",
-      "url": "https://dexscreener.com/solana/fhtrvakqeialrjhyc13dbnhgw9n8zpacvonakfxxpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
+    },
+    {
+      "title": "fix(deps): update npm",
+      "url": "https://github.com/WarningImHack3r/svelte-changelog/pull/224",
+      "createdAt": "2026-09-02T12:02:39Z"
+    },
+    {
+      "title": "iOS port: Darwin platform layer, iOS app, CI, tester builds",
+      "url": "https://github.com/NoahVl/Birdman64/pull/14",
+      "createdAt": "2026-10-17T19:42:48Z"
+    },
+    {
       "title": "security(launch): publish official domains and watch for phishing lookalikes",
       "url": "https://github.com/Suncrest-Labs/nester/issues/1535",
       "createdAt": "2026-10-18T00:27:34Z"
@@ -273,26 +293,6 @@
       "title": "feat: claim offline receives from encrypted funding packets",
       "url": "https://github.com/arkade-os/delegatee/pull/5",
       "createdAt": "2026-10-17T11:13:34Z"
-    },
-    {
-      "title": "[KAIOS AU WINDOW] 衡曜｜General Manager・神經突觸公開窗口",
-      "url": "https://github.com/klineodyssey/kline-odyssey/issues/584",
-      "createdAt": "2026-10-12T07:28:20Z"
-    },
-    {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
-    },
-    {
-      "title": "audit: consolidate all 62 parts with the storage coding audit, canonical program check and VM memory bound",
-      "url": "https://github.com/lubothebook/budlum/pull/9",
-      "createdAt": "2026-10-12T19:36:39Z"
-    },
-    {
-      "title": "fix(deps): update npm",
-      "url": "https://github.com/WarningImHack3r/svelte-changelog/pull/224",
-      "createdAt": "2026-09-02T12:02:39Z"
     }
   ]
 }
