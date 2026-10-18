@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T18:09:37.624Z",
-  "latencyMs": 1022,
+  "executedAt": "2026-10-18T18:11:46.240Z",
+  "latencyMs": 893,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #680: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #681: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,84 +215,84 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "hi",
-      "symbol": "HI",
-      "marketCapRank": 894,
-      "priceBtc": 2.1735706044492447e-7
-    },
-    {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 693,
-      "priceBtc": 3.296064006346026e-7
+      "marketCapRank": 723,
+      "priceBtc": 3.1353221808450803e-7
+    },
+    {
+      "name": "hi",
+      "symbol": "HI",
+      "marketCapRank": 891,
+      "priceBtc": 2.183978642658913e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 92,
-      "priceBtc": 0.000024475788980734317
+      "priceBtc": 0.0000243009264791963
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "marketCapRank": 200,
-      "priceBtc": 0.0000031223427801357
+      "priceBtc": 0.0000031209676982490897
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 637,
-      "priceBtc": 0.0012861921928140423
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "marketCapRank": 768,
+      "priceBtc": 2.808922707287019e-7
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9997267555643637
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 89,
-      "priceBtc": 0.00003549114543653012
+      "priceBtc": 0.9989767311771145
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 86,
-      "priceBtc": 0.00009946911108578566
+      "priceBtc": 0.0000992886966547218
+    },
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 49,
+      "priceBtc": 5.089700630192831e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(board): mandater fra en afsluttet saeson skygger ikke for det aktuelle mandat (#6773)",
-      "url": "https://github.com/NicolaiDolmer/CyclingZone/pull/6780",
-      "createdAt": "2026-10-17T10:53:23Z"
+      "title": "Backend: background jobs in one process only, /healthz, pin Ponder",
+      "url": "https://github.com/SFLuv/app/pull/182",
+      "createdAt": "2026-10-14T18:04:53Z"
     },
     {
-      "title": "refactor(receive): extract the solver-RFQ receive into its own rail module",
-      "url": "https://github.com/arkade-os/wallet/pull/1075",
-      "createdAt": "2026-10-16T12:45:21Z"
+      "title": "chore(deps): update dependency lucide-react to v1.59.0",
+      "url": "https://github.com/F88/mugen-protopedia/pull/163",
+      "createdAt": "2026-06-28T17:45:34Z"
+    },
+    {
+      "title": "feat: support sequence packing and context parallelism for DTensor value models",
+      "url": "https://github.com/NVIDIA-NeMo/RL/pull/3320",
+      "createdAt": "2026-07-23T08:28:27Z"
+    },
+    {
+      "title": "BALANCES: balances at hand, no day notion (#538)",
+      "url": "https://github.com/stolslilabs/paved/pull/553",
+      "createdAt": "2026-10-18T18:09:57Z"
+    },
+    {
+      "title": "build(deps): update production dependencies (major)",
+      "url": "https://github.com/neuland-ingolstadt/neuland-website/pull/66",
+      "createdAt": "2026-08-23T20:12:13Z"
     },
     {
       "title": "Add unit tests for src/utils/faucet.ts shouldShowFaucet kill-switch and network gating",
       "url": "https://github.com/mux-labs/mux-frontend/issues/921",
       "createdAt": "2026-10-12T18:15:53Z"
-    },
-    {
-      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
-      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
-      "createdAt": "2026-10-12T21:43:27Z"
-    },
-    {
-      "title": "chore(deps): add @arkade-os/lnurl-client 0.6.0 and @web3icons/react 4.1.24",
-      "url": "https://github.com/arkade-os/wallet/pull/1073",
-      "createdAt": "2026-10-16T12:45:13Z"
-    },
-    {
-      "title": "Paper edge signals: custom pairs, rug watches, exit plans",
-      "url": "https://github.com/moanola/Memecoin-solana-bot/pull/2",
-      "createdAt": "2026-10-18T16:29:56Z"
     }
   ]
 }
