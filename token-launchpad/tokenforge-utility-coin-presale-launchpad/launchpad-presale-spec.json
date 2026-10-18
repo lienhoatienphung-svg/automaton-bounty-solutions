@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T20:33:26.281Z",
-  "latencyMs": 306,
+  "executedAt": "2026-10-18T20:35:43.845Z",
+  "latencyMs": 246,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #692: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #693: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52783129,
+    "liveBlockNumber": 52783198,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459014,
-    "baseMainnetTopPoolsVolume24hUsd": 130650,
+    "baseMainnetTopPoolsVolume24hUsd": 130653,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8GroyR3X7C2qTWX33EY6T2tLYkvXFTuvoTExUVTApump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8groyr3x7c2qtwx33ey6t2tlykvxftuvotexuvtapump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5yoMchdUwWVBCWNEPMTQRDTrnJKaFTA9TniQF3Dtpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/5yomchduwwvbcwnepmtqrdtrnjkafta9tniqf3dtpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BDexz3gZr67bc9RJJhTZzt3ChRpFRRMis5o9SUZkpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "EWE62EGQRLvF71N48LoCbW3jEkxGrSXgPywbU8Bpump",
         "description": "Bring your Fomo balance into everyday spending with thousands of brands across 180+ countries.",
         "url": "https://dexscreener.com/solana/ewe62egqrlvf71n48locbw3jekxgrsxgpywbu8bpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "J49Y17m7PYYYs6WfCZAJjiu6F633dNDMtL3t8UXPgxga",
-        "description": "Break the hash. Launch the market. Explore cryptographic breakthroughs, track AI research at the frontier, and launch real Solana markets on Pumpfun or Meteora",
-        "url": "https://dexscreener.com/solana/j49y17m7pyyys6wfczajjiu6f633dndmtl3t8uxpgxga"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DV1HbCMP6GbNUidkAkAAhm989PS8FwdzxhWXtiuhpump",
-        "description": "zen cat",
-        "url": "https://dexscreener.com/solana/dv1hbcmp6gbnuidkakaahm989ps8fwdzxhwxtiuhpump"
       }
     ]
   },
