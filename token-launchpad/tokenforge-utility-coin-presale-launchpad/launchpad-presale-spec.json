@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T09:13:03.417Z",
-  "latencyMs": 257,
+  "executedAt": "2026-10-18T09:26:29.341Z",
+  "latencyMs": 338,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #613: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #614: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52762718,
+    "liveBlockNumber": 52763121,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459019,
-    "baseMainnetTopPoolsVolume24hUsd": 173793,
+    "baseMainnetTopPoolsVolume24hUsd": 171438,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GAzYhWxYhesP3GdeCaUL5Tk1YYezjC88AEKR5uvWpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gazyhwxyhesp3gdecaul5tk1yyezjc88aekr5uvwpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "G73yMXn33sjcauhJ5xog6S11MegiTL1FTaeaKC2Gpump",
+        "description": "RexCoin",
+        "url": "https://dexscreener.com/solana/g73ymxn33sjcauhj5xog6s11megitl1ftaeakc2gpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5Nkqtw9ZRhpWF6LHhR25y2QtgqQDQRNftBmnHVDRpump",
+        "description": "Chapter four, the signal  is the fourth of the series token launch on pumpfun",
+        "url": "https://dexscreener.com/solana/5nkqtw9zrhpwf6lhhr25y2qtgqqdqrnftbmnhvdrpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3zJufNUxnTy2KVmDECFykzLSoVuizZQGYzzFd3TMpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "LootTA27CCT7FKm3DxNSuXNDpfWwJKZrt29nNxg1zFf",
         "description": "France is being looted by protesters\n\ndogwifloot",
         "url": "https://dexscreener.com/solana/lootta27cct7fkm3dxnsuxndpfwwjkzrt29nnxg1zff"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x5Ab600feFFC3494baDA1dECBF2BcF36c5fB67777",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/bsc/0x5ab600feffc3494bada1decbf2bcf36c5fb67777"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xc51DBabd8B04Cd13036d6896Fb3a2b6668ac4Ec6",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0xc51dbabd8b04cd13036d6896fb3a2b6668ac4ec6"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FiKJg5JTFC7A3AyUMAhhom8NKu5Yzc7j3jWj1MCQpump",
-        "description": "From Namek to the streets of France. Inspired by the protester who showed up dressed as Piccolo, this coin puts creator fees toward LDH (Ligue des droits de l’H",
-        "url": "https://dexscreener.com/solana/fikjg5jtfc7a3ayumahhom8nku5yzc7j3jwj1mcqpump"
       }
     ]
   },
