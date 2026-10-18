@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T05:08:17.348Z",
-  "latencyMs": 245,
+  "executedAt": "2026-10-18T05:10:45.358Z",
+  "latencyMs": 333,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #582: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #583: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52755375,
+    "liveBlockNumber": 52755449,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,20 +31,26 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 197853,
+    "baseMainnetTopPoolsVolume24hUsd": 197813,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8a3a3CPKmQf8dsHXL1HFqNpobxUSVuwwg3Rq899ypump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8a3a3cpkmqf8dshxl1hfqnpobxusvuwwg3rq899ypump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "H98apjt53NPvbzQWQ4GQ8doEThkvDuCp2DWFgDKdpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/h98apjt53npvbzqwq4gq8doethkvducp2dwfgdkdpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CVSUtRShLP8La3uCp7egWo4v8qsaYvC6Xpn3Me7Rpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/cvsutrshlp8la3ucp7egwo4v8qsayvc6xpn3me7rpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GEFk8PCEyXmDZc86NwMJ4yUe34KzQA5ENnYvCx65pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/gefk8pceyxmdzc86nwmj4yue34kzqa5ennyvcx65pump"
       },
       {
         "chainId": "robinhood",
@@ -75,12 +81,6 @@
         "tokenAddress": "EtGQGEQPAPfUNdpjwBy5tJJEEjRAEPYRbWByCcwzpump",
         "description": "PERFECT ODYSSEAN NARRA\n\nthis is going GIGA viral, the entire AI world is talking about it in only 5 hours\n\nThe fly is forever stuck in a simulated world, flying",
         "url": "https://dexscreener.com/solana/etgqgeqpapfundpjwby5tjjeejraepyrbwbyccwzpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x6C9Fbf064D8F53Acedb143A48504f69720EE87DA",
-        "description": "SpaceX + Tesla = SEXLA",
-        "url": "https://dexscreener.com/robinhood/0x6c9fbf064d8f53acedb143a48504f69720ee87da"
       }
     ]
   },
