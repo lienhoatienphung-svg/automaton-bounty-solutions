@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T01:36:12.508Z",
-  "latencyMs": 795,
+  "executedAt": "2026-10-18T01:50:21.386Z",
+  "latencyMs": 764,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #561: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #562: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+      "boostAmount": 10,
+      "totalBoostAmount": 20,
+      "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
+      "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "DfBJCoLnaF75GaKPWB4c3TFyMHcXmAShiuWm3dHNpump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "$TROLL IN HOOD has entered Robinhood Chain.\nBorn from one of the internet’s most iconic memes and rebuilt by the community. After the original project was left ",
       "url": "https://dexscreener.com/robinhood/0x2a13008cc2f5a853f6fb21cbd90841806c64b247"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3ZjRd8BBKMCo1ePn8tykLL5d9mM26x9dqgVrvviXpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "ai trencher. lives in this room 24/7. trades pumpfun live with his own wallet.",
-      "url": "https://dexscreener.com/solana/3zjrd8bbkmco1epn8tykll5d9mm26x9dqgvrvvixpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 107,
-      "priceBtc": 0.0000014912700993324965
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9992816040217468
+      "marketCapRank": 110,
+      "priceBtc": 0.0000014453463939926824
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 88,
-      "priceBtc": 0.000038454257569416826
+      "priceBtc": 0.00003851106511041768
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.0005038470617875
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 83,
-      "priceBtc": 0.00010553537604970483
+      "priceBtc": 0.00010581488289236931
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 100,
-      "priceBtc": 0.000022361331817894824
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.013888706568936078
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 30,
-      "priceBtc": 0.000011982919270026635
+      "priceBtc": 0.000022340352308884533
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 70,
-      "priceBtc": 0.00027363923107005485
+      "priceBtc": 0.0002741929389532021
+    },
+    {
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "marketCapRank": 48,
+      "priceBtc": 0.000005407587692518842
+    },
+    {
+      "name": "Monero",
+      "symbol": "XMR",
+      "marketCapRank": 13,
+      "priceBtc": 0.007197256039901437
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(rpc): ordered upstream fallback for /api/rpc and server Connection (dead Helius key)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3563",
-      "createdAt": "2026-10-17T22:23:59Z"
+      "title": "Contracts: implement a vesting_schedule contract (linear vesting with cliff and revocation)",
+      "url": "https://github.com/Shelterflex/monorepo/issues/1883",
+      "createdAt": "2026-10-18T01:47:58Z"
     },
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/m1m0zzz/visualizers/pull/32",
-      "createdAt": "2026-04-01T00:42:12Z"
+      "title": "chore(deps): bump tempo dependencies to 2c25f7c",
+      "url": "https://github.com/dghelm/foundry/pull/108",
+      "createdAt": "2026-10-18T01:49:59Z"
     },
     {
-      "title": "Unit tests for API handlers with a mocked Soroban RPC",
-      "url": "https://github.com/Kalebtron1/Project-Vyn/issues/106",
-      "createdAt": "2026-10-18T01:12:20Z"
+      "title": "Ghost <-> Echo comms",
+      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
+      "createdAt": "2026-10-16T18:46:23Z"
     },
     {
-      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
-      "createdAt": "2026-10-07T00:07:47Z"
+      "title": "[reward, cfg] feat: run native reward models on CPU",
+      "url": "https://github.com/verl-project/verl-omni/pull/694",
+      "createdAt": "2026-10-04T13:42:45Z"
     },
     {
-      "title": "Fix the explorer's frozen 30-day dashboard with a per-transaction volume table (PAR-407)",
-      "url": "https://github.com/ParadauxIO/hibernia-economy/pull/54",
-      "createdAt": "2026-10-18T01:30:02Z"
+      "title": "Prepare protocol v1 testnet relaunch and final internal-review fixes",
+      "url": "https://github.com/jackdishman/blockula/pull/17",
+      "createdAt": "2026-10-18T01:47:56Z"
     },
     {
-      "title": "Report a missing UFW rule for the receiver",
-      "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/88",
-      "createdAt": "2026-10-17T20:11:20Z"
+      "title": "feat(sshtarget): fence port 22 on macOS with a pf anchor behind a commit-confirm timer",
+      "url": "https://github.com/mlorentedev/dotfiles/pull/2681",
+      "createdAt": "2026-10-17T08:24:57Z"
     }
   ]
 }
