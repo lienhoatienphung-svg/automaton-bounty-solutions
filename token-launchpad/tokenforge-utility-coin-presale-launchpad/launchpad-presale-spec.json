@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T19:03:44.100Z",
-  "latencyMs": 244,
+  "executedAt": "2026-10-18T19:06:11.338Z",
+  "latencyMs": 337,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #682: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #683: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52780438,
+    "liveBlockNumber": 52780512,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459013,
-    "baseMainnetTopPoolsVolume24hUsd": 136852,
+    "baseMainnetTopPoolsVolume24hUsd": 136833,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6wifasxctST3jd9s6UaoVexc2pvYqTcLWZEAjCTJ51wW",
+        "description": "Launch a token. Fund a cause. Build a business. Charity, science & startups on Solana. No official token.",
+        "url": "https://dexscreener.com/solana/6wifasxctst3jd9s6uaovexc2pvyqtclwzeajctj51ww"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "ByQ4cTwVyrZtzb7aFKW8QXPBMXdCWx6UdVMshLZipump",
@@ -75,12 +81,6 @@
         "tokenAddress": "8zzJXXFwzoWRm8Wth2WsEwYVLJeRgdyCqWw16yNkpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/8zzjxxfwzowrm8wth2wsewyvljergdycqww16ynkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9bc4Ew5yaZYHGYs6BHGY3VT2jL9s4NwYkNL6rbkDpump",
-        "description": "build a deck. climb the leagues. ranked wins pay in SOL. $ROYALE",
-        "url": "https://dexscreener.com/solana/9bc4ew5yazyhgys6bhgy3vt2jl9s4nwyknl6rbkdpump"
       }
     ]
   },
