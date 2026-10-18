@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T21:48:20.761Z",
-  "latencyMs": 831,
+  "executedAt": "2026-10-18T21:50:27.749Z",
+  "latencyMs": 795,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #704: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #705: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Add Omdrop (AirDrop for Omarchy) 0.18.1",
+      "url": "https://github.com/omacom/omarchy-pkgs/pull/1273",
+      "createdAt": "2026-10-18T20:00:44Z"
+    },
+    {
+      "title": "D755 (S24): a token pack is bought alone at face value and credited once by the payment webhook (PR 2 of 2)",
+      "url": "https://github.com/AxalNetwork/StudioOS/pull/1966",
+      "createdAt": "2026-10-18T21:47:23Z"
+    },
+    {
       "title": "D755 (S24): the reads (token packs, top-up history, every plan's AI allowance) and the Super Admin's token-pack, member-account, adjustment ",
       "url": "https://github.com/AxalNetwork/StudioOS/issues/1919",
       "createdAt": "2026-10-18T19:41:52Z"
@@ -275,11 +285,6 @@
       "createdAt": "2026-10-18T07:37:42Z"
     },
     {
-      "title": "D755 (S24): a token pack is bought alone at face value and credited once by the payment webhook (PR 2 of 2)",
-      "url": "https://github.com/AxalNetwork/StudioOS/pull/1966",
-      "createdAt": "2026-10-18T21:47:23Z"
-    },
-    {
       "title": "M1-4a chain: client foundation on @4thtech-io/occ-v2-abi",
       "url": "https://github.com/4thtech/agentlink/pull/276",
       "createdAt": "2026-10-18T21:21:55Z"
@@ -288,11 +293,6 @@
       "title": "get-test-usdc Send-USDC handler has no synchronous in-flight guard — same bug class as #175, confirmed on an untested page",
       "url": "https://github.com/Konfirm-xyz/konfirm-frontend/issues/198",
       "createdAt": "2026-10-18T13:00:04Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
