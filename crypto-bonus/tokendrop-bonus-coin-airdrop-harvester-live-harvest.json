@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T18:27:31.641Z",
-  "latencyMs": 1696,
+  "executedAt": "2026-10-18T18:29:39.594Z",
+  "latencyMs": 937,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #682: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #683: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "BALANCES: balances at hand, no day notion (#538)",
-      "url": "https://github.com/stolslilabs/paved/pull/553",
-      "createdAt": "2026-10-18T18:09:57Z"
+      "title": "docs(release): propose version increase rules and node status signals",
+      "url": "https://github.com/F1R3FLY-io/f1r3node-rust/pull/743",
+      "createdAt": "2026-10-16T04:31:50Z"
+    },
+    {
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
     },
     {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
@@ -275,24 +280,19 @@
       "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "AppWorld eval 5: WikiSkill vs seed (gpt-oss-120b)",
-      "url": "https://github.com/skillberry-ai/cap-evolve/issues/883",
-      "createdAt": "2026-10-17T21:47:48Z"
+      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
+      "url": "https://github.com/Open-Athena/biotasks/issues/21",
+      "createdAt": "2026-10-16T20:07:24Z"
     },
     {
-      "title": "AppWorld eval 5: EvoSkill vs seed (gpt-oss-120b)",
-      "url": "https://github.com/skillberry-ai/cap-evolve/issues/884",
-      "createdAt": "2026-10-17T21:47:49Z"
+      "title": "Handle receiver peer disconnects without reporting storage failure",
+      "url": "https://github.com/netmojo-systems/omdrop-plugin/pull/39",
+      "createdAt": "2026-10-10T21:16:13Z"
     },
     {
-      "title": "chore(0.15.0): RISEx read-only phase + README support matrix",
-      "url": "https://github.com/hypurrquant/perp-cli/pull/39",
-      "createdAt": "2026-10-18T18:25:16Z"
-    },
-    {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
-      "createdAt": "2026-10-17T18:26:37Z"
+      "title": "D755 (S01): AI credits: token packs bought through Stripe, a ledger separate from Perks, shown on the rail, /account/usage and /plans-and-pr",
+      "url": "https://github.com/AxalNetwork/StudioOS/issues/1870",
+      "createdAt": "2026-10-18T17:57:56Z"
     }
   ]
 }
