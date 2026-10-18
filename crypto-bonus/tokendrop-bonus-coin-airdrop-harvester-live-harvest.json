@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T13:42:47.149Z",
-  "latencyMs": 451,
+  "executedAt": "2026-10-18T13:44:49.878Z",
+  "latencyMs": 750,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #650: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #651: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,5 +263,36 @@
       "priceBtc": 5.2307528990129935e-8
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "fix: GRPO estimator drops config, so the invalid_reward_value sentinel never activates (one corrupted rollout poisons its whole group's adva",
+      "url": "https://github.com/XiaomiMiMo/verl/pull/1",
+      "createdAt": "2026-09-29T05:24:59Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "P18-C QA: safe Twitch Channel Points reward action eligibility",
+      "url": "https://github.com/ALL-EX-E/InOneLine/pull/251",
+      "createdAt": "2026-10-18T13:30:47Z"
+    },
+    {
+      "title": "Add reusable Web3MCP SDK and compatible host CLI",
+      "url": "https://github.com/Team-Managed/Web3MCP/pull/2",
+      "createdAt": "2026-10-18T12:29:14Z"
+    },
+    {
+      "title": "Members-only limited series: SpaceX/Tesla merger and peptides deep dives",
+      "url": "https://github.com/Planetterrian/nerranetwork/pull/1473",
+      "createdAt": "2026-10-18T13:40:27Z"
+    },
+    {
+      "title": "feat(bulma-ui): add TreeView, a tree of items you browse and pick from",
+      "url": "https://github.com/allxsmith/bestax/pull/1140",
+      "createdAt": "2026-10-17T12:33:14Z"
+    }
+  ]
 }
