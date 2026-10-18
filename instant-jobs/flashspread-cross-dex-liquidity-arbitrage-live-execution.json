@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-18T14:22:51.689Z",
-  "latencyMs": 692,
+  "executedAt": "2026-10-18T14:25:11.176Z",
+  "latencyMs": 630,
   "companyName": "FlashSpread Cross-DEX Liquidity & Arbitrage",
-  "workTitle": "Growth & Sales Sprint #670: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
-  "targetUrl": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
+  "workTitle": "Delivery Sprint #671: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "targetUrl": "https://polymarket.com/event/will-any-country-leave-nato-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -128,7 +128,7 @@
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 5,
+    "contractsPackagedCount": 10,
     "contracts": [
       {
         "source": "RemoteOK-InstantB2B",
@@ -200,6 +200,64 @@
         "compensation": "$10000-$10000",
         "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
         "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "BAF - Brothers and Friends GmbH",
+        "roleOrTask": "Sales Manager (w/m/d)",
+        "industryTags": [
+          "Management",
+          "Team Leader"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/baf-brothers-and-friends-gmbh/sales-manager-horstel-382144",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "ANGEHEUERT GmbH Personalberatung",
+        "roleOrTask": "Projekt & Operations Manager (m/w/d)",
+        "industryTags": [
+          "Business Operations"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh-personalberatung/projekt-operations-manager-rostock-322527",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Right Search",
+        "roleOrTask": "Sales Manager Wholesale Fund Sales (w/m/d)",
+        "industryTags": [
+          "Asset",
+          "Fonds Management"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/right-search/sales-manager-wholesale-fund-sales-bad-homburg-38494",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Modumat",
+        "roleOrTask": "Co-Founder*in: Business Development, B2B-Marketing & Hospitality (w/m/d)",
+        "industryTags": [
+          "Directors",
+          "Chief Executives"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/modumat/co-founderin-business-development-b2b-marketing-hospitality-darmstadt-104013",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "grafanalabs",
+        "roleOrTask": "Senior Engineering Manager, Grafana Frontend | Germany | Remote",
+        "industryTags": [
+          "R&D: Grafana"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-engineering-manager-grafana-frontend-germany-remote-95882",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
   }
