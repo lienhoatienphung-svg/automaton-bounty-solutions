@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T03:29:57.038Z",
-  "latencyMs": 690,
+  "executedAt": "2026-10-18T03:44:05.304Z",
+  "latencyMs": 828,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #575: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #576: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "8QtbrC9d3BezyCwzBFUQbNsWJGte7ckrZ7HWcn81pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Connecting the internet again with dickbutt",
+      "url": "https://dexscreener.com/solana/8qtbrc9d3bezycwzbfuqbnswjgte7ckrz7hwcn81pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "J44pqVLKH2EEfMmn2goETFbZRcrenfC6etRRrWxHZ8b3",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,97 +210,89 @@
       "totalBoostAmount": 50,
       "description": "Every movement\nbelongs to a phase.\nMarkets rarely move in a straight line. Activity forms, accelerates, rotates and eventually resets. Eternia turns those chang",
       "url": "https://dexscreener.com/solana/cy27qvcqbcmlbuz3v7c8sneed4z67iyostkwo35ypump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "7iYM9cjpKKNyLvJfq4pYyjubk83dnqxtPDrRdf77pump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "$IMOLEST — One More Thing…\n\nThe forbidden Apple product.\n\nSteve Jobs gave the world Apple. Epstein gave the world a scandal that refuses to die.\n\nNow imagine th",
-      "url": "https://dexscreener.com/solana/7iym9cjpkknylvjfq4pyyjubk83dnqxtpdrrdf77pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.000061330723337413
-    },
-    {
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 111,
-      "priceBtc": 0.0000013854007695603382
+      "priceBtc": 0.0000013417566243512677
     },
     {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 88,
-      "priceBtc": 0.00003859356219695621
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.000012021903191554787
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00006125034252669922
     },
     {
       "name": "Monero",
       "symbol": "XMR",
       "marketCapRank": 13,
-      "priceBtc": 0.007290181944861096
+      "priceBtc": 0.007374136416854069
     },
     {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 189,
-      "priceBtc": 0.000003452160942749039
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 88,
+      "priceBtc": 0.000038411181082800666
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 29,
+      "priceBtc": 0.00001206982468952998
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9999382403774552
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 100,
+      "priceBtc": 0.0000222432984498322
     },
     {
       "name": "Ethena",
       "symbol": "ENA",
       "marketCapRank": 41,
-      "priceBtc": 0.000002329713642107248
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 39,
-      "priceBtc": 0.002399573393903184
+      "priceBtc": 0.0000023332257541822586
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Draft: continuity ledger, canon fixes, and staged 10k chapter expansion",
-      "url": "https://github.com/danielmartinez-maker/TheSEARemembers/pull/103",
-      "createdAt": "2026-10-14T03:22:20Z"
+      "title": "feat(rewards): promo credit from game and ads, game shop (behind flag)",
+      "url": "https://github.com/Stanektechcz/onhostik/pull/248",
+      "createdAt": "2026-10-18T01:20:54Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "ops(wolo): fail-closed dual-filesystem predeploy capacity check (READ ONLY)",
+      "url": "https://github.com/Emaren/wolochain/pull/35",
+      "createdAt": "2026-10-18T02:43:31Z"
     },
     {
-      "title": "fix(i18n): protected terms are no longer glued to a word in seven locales, and the translation job rejects that glue",
-      "url": "https://github.com/0xMiden/wallet/pull/1539",
-      "createdAt": "2026-10-18T01:53:46Z"
+      "title": "[perf] spec decoding: fuse simulated speculative acceptance tensor preparation",
+      "url": "https://github.com/sgl-project/sglang/pull/41169",
+      "createdAt": "2026-09-24T20:43:54Z"
     },
     {
-      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
-      "createdAt": "2026-10-12T04:03:25Z"
+      "title": "Protected Finish STOP: review War Satchel function-replacement migration before production",
+      "url": "https://github.com/Emaren/app-prodn/issues/634",
+      "createdAt": "2026-10-16T22:20:02Z"
     },
     {
-      "title": "research: tokens per verify round - ~2.2 today, and in a top-10/512 MoE more candidates may cost more expert traffic than they save",
-      "url": "https://github.com/xenodeve/Strata-xeno/issues/192",
-      "createdAt": "2026-10-05T08:59:48Z"
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
     },
     {
-      "title": "feat(farming): train Wizardry one target at a time with caster gear",
-      "url": "https://github.com/atrinik/playtester/pull/59",
-      "createdAt": "2026-10-18T03:17:12Z"
+      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
+      "url": "https://github.com/Open-Athena/biotasks/issues/21",
+      "createdAt": "2026-10-16T20:07:24Z"
     }
   ]
 }
