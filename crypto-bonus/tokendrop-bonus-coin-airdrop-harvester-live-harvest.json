@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T13:09:56.081Z",
-  "latencyMs": 1022,
+  "executedAt": "2026-10-18T13:12:13.776Z",
+  "latencyMs": 748,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #646: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #647: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 860,
-      "priceBtc": 2.3324502111847282e-7
+      "marketCapRank": 842,
+      "priceBtc": 2.521851716826795e-7
+    },
+    {
+      "name": "Minter",
+      "symbol": "MINTER",
+      "marketCapRank": 938,
+      "priceBtc": 1.9996048030488228e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 95,
-      "priceBtc": 0.000023753578118648474
-    },
-    {
-      "name": "Minter",
-      "symbol": "MINTER",
-      "marketCapRank": 947,
-      "priceBtc": 1.9543398933332715e-7
+      "priceBtc": 0.000023983392613844522
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "marketCapRank": 120,
-      "priceBtc": 9.112128901896606e-8
+      "marketCapRank": 119,
+      "priceBtc": 9.123755497719086e-8
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000011955538818548158
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 635,
-      "priceBtc": 0.0013045357074043219
+      "marketCapRank": 633,
+      "priceBtc": 0.0013036612281032093
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 49,
-      "priceBtc": 5.208226715115196e-8
+      "priceBtc": 5.187851724548997e-8
     },
     {
-      "name": "Quack AI",
-      "symbol": "Q",
-      "marketCapRank": 112,
-      "priceBtc": 0.0000013439033575410378
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9997499396683005
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "marketCapRank": 31,
+      "priceBtc": 0.0000010759207293490242
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "chore: Implementer inbox — instructions from the Orchestrator",
+      "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
+      "createdAt": "2026-10-06T01:05:54Z"
+    },
+    {
+      "title": "Feat/backer notification preferences",
+      "url": "https://github.com/Fundable-Protocol/stellar_client_os/pull/1296",
+      "createdAt": "2026-10-18T13:10:59Z"
+    },
+    {
+      "title": "Replace web3.js with viem; claim calls and EIP-7702 batching",
+      "url": "https://github.com/pk910/PoWFaucet/pull/557",
+      "createdAt": "2026-10-17T19:26:03Z"
+    },
+    {
+      "title": "Test ABUSD arithmetic boundaries and failed-transfer rollback",
+      "url": "https://github.com/accordbridge-labs/accordbridge-contracts/issues/14",
+      "createdAt": "2026-10-18T13:10:44Z"
+    },
+    {
+      "title": "Add reward claim receipts for accounting and tax export",
+      "url": "https://github.com/Rickyy1017/Stellar-Defi-Vault/issues/723",
+      "createdAt": "2026-10-18T12:46:26Z"
+    },
+    {
       "title": "Add \"dark web3\" and \"privacy protocols\" pillars with guardrails",
       "url": "https://github.com/neroiq-47/vxidos-rail/pull/10",
       "createdAt": "2026-10-18T13:09:03Z"
-    },
-    {
-      "title": "research(bsc): freeze address-model goals and start reproducible 23-wallet V1 baseline",
-      "url": "https://github.com/lxxlx2/ChatGPT_mission_record/pull/40",
-      "createdAt": "2026-10-12T21:43:27Z"
-    },
-    {
-      "title": "Retrieval health — weekly tracker",
-      "url": "https://github.com/Stellar-Light/stellarlight/issues/436",
-      "createdAt": "2026-07-10T00:05:01Z"
-    },
-    {
-      "title": "fix: src/airdrop.rs is one line of literal `\\n` text around an empty `airdrop()` — implement airdrop",
-      "url": "https://github.com/Lead-Studios/veritix-contract/issues/1044",
-      "createdAt": "2026-10-12T12:14:35Z"
-    },
-    {
-      "title": "Add BitBull (BULL) jetton",
-      "url": "https://github.com/tonkeeper/ton-assets/pull/6511",
-      "createdAt": "2026-10-15T02:32:06Z"
-    },
-    {
-      "title": "perf(jit): cheaper fall-through sections",
-      "url": "https://github.com/alloy-rs/evm2/pull/636",
-      "createdAt": "2026-10-15T23:51:24Z"
     }
   ]
 }
