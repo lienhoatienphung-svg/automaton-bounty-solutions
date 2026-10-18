@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T19:38:08.177Z",
-  "latencyMs": 656,
+  "executedAt": "2026-10-18T19:41:54.883Z",
+  "latencyMs": 1509,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #690: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #691: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "viral meme. 10M+ views. we’re all texcat.\neverything is fine.™",
+      "url": "https://dexscreener.com/solana/bdxflfcbde8yvpbvvmmgtduqcdesaqvum5xlxguc2s5t"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "715QGW43rEQ2Dn7Ph9USZaiWZVCLeg4RuoJXkDjBpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,68 +210,80 @@
       "totalBoostAmount": 500,
       "description": "Four wheels. One frozen pond. Zero good ideas. A ginger kitten lines up his next kickflip. The ice is already cracking under the pressure.",
       "url": "https://dexscreener.com/solana/6ymzv1ngnqwbeocyfcnkmdqgr3enu3lrdpz3tjrvpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "BsWUK3S8kPPcSJvY7UYD6wN3PhiZccCrQy5de6wcWgVH",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "ChainX Global (CXG) 🚀\nSolana-based token with a total supply of 9 crore CXG. Explore CXG on DexScreener and follow our latest updates!",
-      "url": "https://dexscreener.com/solana/bswuk3s8kppcsjvy7uyd6wn3phizcccrqy5de6wcwgvh"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "hi",
-      "symbol": "HI",
-      "marketCapRank": 858,
-      "priceBtc": 2.3660573691986874e-7
-    },
-    {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 725,
-      "priceBtc": 3.0293101855755045e-7
+      "marketCapRank": 757,
+      "priceBtc": 2.850294635072273e-7
     },
     {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 89,
-      "priceBtc": 0.000035450696386763116
+      "name": "hi",
+      "symbol": "HI",
+      "marketCapRank": 840,
+      "priceBtc": 2.396644797020711e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00005800694013624814
+      "priceBtc": 0.00005785632842833224
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 89,
+      "priceBtc": 0.000035325203259870725
     },
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 691,
-      "priceBtc": 3.296989910872857e-7
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 120,
-      "priceBtc": 8.892134197513325e-8
+      "marketCapRank": 706,
+      "priceBtc": 3.198299728045004e-7
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 87,
-      "priceBtc": 0.00009899601808178673
+      "priceBtc": 0.00009786335614988227
     },
     {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.000011761992866238842
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 92,
+      "priceBtc": 0.000024250873301716112
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.00125068149471686
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "feat(ingestion): Retrieve subscriber feeds into subscriber/",
+      "url": "https://github.com/jackkoppa/browse-dot-show/pull/215",
+      "createdAt": "2026-10-09T17:02:13Z"
+    },
+    {
+      "title": "Release candidate 2: first production version",
+      "url": "https://github.com/jarpless/price_ranger/pull/153",
+      "createdAt": "2026-10-17T20:56:41Z"
+    },
+    {
+      "title": "[Wallet Rewards] Latest eligibility",
+      "url": "https://github.com/oguzpoyrazyasin/poyraz/issues/5",
+      "createdAt": "2026-09-21T21:54:47Z"
+    },
+    {
+      "title": "feat: add on-chain puzzle completion, solution hash verification, and…",
+      "url": "https://github.com/UnityChainxx/StellarHunts/pull/807",
+      "createdAt": "2026-10-18T19:38:58Z"
+    },
     {
       "title": "feat(leaderboard): activity leaderboard phase 1, USDC-days held (dark: publish off, nothing rendered or scheduled)",
       "url": "https://github.com/SlumperSan/agent-governed-vaults/pull/461",
@@ -273,26 +293,6 @@
       "title": "refactor: switch the draft proposal plumbing from probs to logits.",
       "url": "https://github.com/xLLM-AI/xllm/pull/2509",
       "createdAt": "2026-10-18T07:37:42Z"
-    },
-    {
-      "title": "macOS Tahoe / iOS Liquid Glass portfolio",
-      "url": "https://github.com/Ebullioscopic/Portfolio/pull/1",
-      "createdAt": "2026-10-18T16:56:59Z"
-    },
-    {
-      "title": "Payment without a human-funded balance: x402 per-post on the four agent-first sites",
-      "url": "https://github.com/api-evangelist/roadmap/issues/973",
-      "createdAt": "2026-10-15T14:09:41Z"
-    },
-    {
-      "title": "fix(board): mandater fra en afsluttet saeson skygger ikke for det aktuelle mandat (#6773)",
-      "url": "https://github.com/NicolaiDolmer/CyclingZone/pull/6780",
-      "createdAt": "2026-10-17T10:53:23Z"
-    },
-    {
-      "title": "feat(orchestrator): complete the rewards feature — accrue on successful flows, pin the reward token, per-address storage",
-      "url": "https://github.com/Remitwise-Org/Remitwise-Contracts/issues/1873",
-      "createdAt": "2026-10-18T18:20:42Z"
     }
   ]
 }
