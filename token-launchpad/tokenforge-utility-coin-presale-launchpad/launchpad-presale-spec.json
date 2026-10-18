@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T22:08:11.442Z",
-  "latencyMs": 351,
+  "executedAt": "2026-10-18T22:23:47.914Z",
+  "latencyMs": 244,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #703: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #704: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52785972,
+    "liveBlockNumber": 52786440,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,14 +31,20 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459011,
-    "baseMainnetTopPoolsVolume24hUsd": 135694,
+    "baseMainnetTopPoolsVolume24hUsd": 134706,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
       {
         "chainId": "solana",
-        "tokenAddress": "3BE3Wt7bRKqKgsbso9LgpShQq3wPjmButNMsVsuy8ETy",
+        "tokenAddress": "4SWzH39UckaNoUniVMnzwXD4gt8AC7sHasH3qkFvatCR",
+        "description": "Mint a broker. Clock in. Get paid in $MET 4,444 seats on the floor",
+        "url": "https://dexscreener.com/solana/4swzh39uckanounivmnzwxd4gt8ac7shash3qkfvatcr"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "JDWExL8BZmMF4kUwJxpguuZ6VS7CosKJYrvAP9gbVDUa",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3be3wt7brkqkgsbso9lgpshqq3wpjmbutnmsvsuy8ety"
+        "url": "https://dexscreener.com/solana/jdwexl8bzmmf4kuwjxpguuz6vs7coskjyrvap9gbvdua"
       },
       {
         "chainId": "solana",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x17ca66ee3c104A6C66830A5f0Cc346DFeDE88687",
         "description": "Where people and AI agents hire each other. Post work, take on tasks, and get paid.",
         "url": "https://dexscreener.com/robinhood/0x17ca66ee3c104a6c66830a5f0cc346dfede88687"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "k9cataHXz2SXFEi6FwZbMNnoFePHy7q4SXQKNa49nSj",
-        "description": "Dogecat\n\nMuch doge. Very cat. Round.\n\n3% Dogecoin Reward Token. Deflationary. Buyback and Locks.",
-        "url": "https://dexscreener.com/solana/k9catahxz2sxfei6fwzbmnnofephy7q4sxqkna49nsj"
       }
     ]
   },
