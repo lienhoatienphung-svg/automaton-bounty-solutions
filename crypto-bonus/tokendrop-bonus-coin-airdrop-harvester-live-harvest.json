@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T22:59:39.343Z",
-  "latencyMs": 840,
+  "executedAt": "2026-10-18T23:01:48.891Z",
+  "latencyMs": 695,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #712: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #713: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,53 +217,68 @@
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 681,
-      "priceBtc": 3.34458661328789e-7
+      "marketCapRank": 710,
+      "priceBtc": 3.335323340283585e-7
     },
     {
       "name": "Doge Pepe",
       "symbol": "DOPE",
-      "marketCapRank": 640,
-      "priceBtc": 3.6015639150368004e-7
+      "marketCapRank": 655,
+      "priceBtc": 3.626628779916643e-7
     },
     {
       "name": "Tetsuo Super Intelligence",
       "symbol": "TSI",
-      "marketCapRank": 847,
-      "priceBtc": 2.3819563845911982e-7
+      "marketCapRank": 864,
+      "priceBtc": 2.3163653786471025e-7
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
-      "marketCapRank": 805,
-      "priceBtc": 2.5889253759190197e-7
-    },
-    {
-      "name": "Boomer",
-      "symbol": "BOOMER",
-      "marketCapRank": 911,
-      "priceBtc": 2.102193928245642e-7
+      "marketCapRank": 817,
+      "priceBtc": 2.468234094453876e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00006043728164755218
+      "priceBtc": 0.00006049374477948541
+    },
+    {
+      "name": "Boomer",
+      "symbol": "BOOMER",
+      "marketCapRank": 957,
+      "priceBtc": 1.8646138777461e-7
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.083170455855258e-8
+      "priceBtc": 9.126159303558344e-8
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 646,
-      "priceBtc": 0.001253877817445452
+      "name": "hi",
+      "symbol": "HI",
+      "marketCapRank": 855,
+      "priceBtc": 2.3187946762823617e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "[BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project",
+      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2",
+      "createdAt": "2026-03-27T00:55:38Z"
+    },
+    {
+      "title": "Fill test coverage gaps, and fix three bugs the tests found",
+      "url": "https://github.com/dsuresh-ap/hum-aac-ios/pull/18",
+      "createdAt": "2026-10-18T23:00:42Z"
+    },
+    {
+      "title": "Fix iPhone Export PDF: real PDF, native sharing and return to app",
+      "url": "https://github.com/fredqbraga94/marinara-hours/pull/8",
+      "createdAt": "2026-10-18T23:00:21Z"
+    },
     {
       "title": "Daily LLM Paper Digest — 2026-10-19",
       "url": "https://github.com/twyran/Daily-Paper/issues/30",
@@ -278,21 +293,6 @@
       "title": "Implement multi-currency balance breakdown widget in the wallet dashboard",
       "url": "https://github.com/ASTROIDX556/astroid-web/issues/163",
       "createdAt": "2026-09-28T11:58:01Z"
-    },
-    {
-      "title": "Build holder airdrop claim page with snapshot allocation breakdown",
-      "url": "https://github.com/accesslayerorg/accesslayer-client/issues/1154",
-      "createdAt": "2026-10-18T18:45:22Z"
-    },
-    {
-      "title": "GRPO: keep excluded completions out of the entropy bonus, reject IS_CLIP without a separator",
-      "url": "https://github.com/unslothai/unsloth-zoo/pull/1861",
-      "createdAt": "2026-10-18T20:06:17Z"
-    },
-    {
-      "title": "SEC-011: converge the workstation SSH target hardening instead of applying it by hand",
-      "url": "https://github.com/mlorentedev/dotfiles/issues/2356",
-      "createdAt": "2026-10-13T02:07:37Z"
     }
   ]
 }
