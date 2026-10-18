@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T06:38:57.828Z",
-  "latencyMs": 767,
+  "executedAt": "2026-10-18T06:41:07.373Z",
+  "latencyMs": 654,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #598: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #599: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "FhTRVAkQeiaLRJHYc13DBNhgw9N8ZPacvonaKfXxpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Momo is a catwifmotion",
+      "url": "https://dexscreener.com/solana/fhtrvakqeialrjhyc13dbnhgw9n8zpacvonakfxxpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "Fj5rB1Y94QwDmuB6RVQYCe7prGmD21GgWuMg5BNYpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/hkzdfznkhzxd9agrdnpydv4it6lmaurjnprtj9wpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xb656EADd009B3b409d7A0971E50dF2f0e4ddef5a",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "No subscription. Just your AI influencer.",
-      "url": "https://dexscreener.com/robinhood/0xb656eadd009b3b409d7a0971e50df2f0e4ddef5a"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(antisybil): bật mặc định jitter + organic-only; STRATEGY.md theo luật FLOP đã công bố",
-      "url": "https://github.com/thanhphuc85/technocore-crypto-agent/pull/145",
-      "createdAt": "2026-10-18T06:37:38Z"
+      "title": "AppWorld eval 5: Meta-Harness vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/885",
+      "createdAt": "2026-10-17T21:47:49Z"
     },
     {
-      "title": "Walk: La Forge awards «In deinen eigenen Worten · Bonus» for correcting a given sentence",
-      "url": "https://github.com/Pechst1/ConversationalLanguageLearning/issues/216",
-      "createdAt": "2026-10-18T03:09:30Z"
+      "title": "AppWorld eval 5: EvoSkill vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/884",
+      "createdAt": "2026-10-17T21:47:49Z"
     },
     {
-      "title": "Forge: one verdict per repair card, own-words bonus only when you write the sentence",
-      "url": "https://github.com/Pechst1/ConversationalLanguageLearning/pull/225",
-      "createdAt": "2026-10-18T06:36:49Z"
+      "title": "[perf] spec decoding: fuse simulated speculative acceptance tensor preparation",
+      "url": "https://github.com/sgl-project/sglang/pull/41169",
+      "createdAt": "2026-09-24T20:43:54Z"
     },
     {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
+      "title": "AppWorld eval 5: WikiSkill vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/883",
+      "createdAt": "2026-10-17T21:47:48Z"
     },
     {
-      "title": "On-policy joint-choice Non-Combat improvement under frozen potion-enabled Search",
-      "url": "https://github.com/lsmfttb/spire-research/issues/60",
-      "createdAt": "2026-10-16T04:02:07Z"
+      "title": "Fix embed on falcon-fpl.com: portal handshake, leaderboards, mobile start",
+      "url": "https://github.com/beartec-jpg/Falcon-arcade-/pull/2",
+      "createdAt": "2026-10-18T06:19:04Z"
     },
     {
-      "title": "Protected Finish STOP: review War Satchel function-replacement migration before production",
-      "url": "https://github.com/Emaren/app-prodn/issues/634",
-      "createdAt": "2026-10-16T22:20:02Z"
+      "title": "AppWorld eval 5: SkillOpt vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/882",
+      "createdAt": "2026-10-17T21:47:47Z"
     }
   ]
 }
