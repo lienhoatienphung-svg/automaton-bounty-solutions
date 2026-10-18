@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T19:57:58.754Z",
-  "latencyMs": 335,
+  "executedAt": "2026-10-18T20:00:08.304Z",
+  "latencyMs": 243,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #688: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #689: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52782065,
-    "liveGasPriceGwei": 0.0062,
+    "liveBlockNumber": 52782130,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459014,
-    "baseMainnetTopPoolsVolume24hUsd": 130107,
+    "baseMainnetTopPoolsVolume24hUsd": 130137,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DAnFKCMrRzEVt886QocUQGaV4zCjt24FTtphio5Kpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/danfkcmrrzevt886qocuqgav4zcjt24fttphio5kpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "H8LU9aa2Ci9GhfniVJboAjeDzCmCPtwQmBkVNrSepump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0xa003c5D813846AdA0B267C639356dfAc46B8069d",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/robinhood/0xa003c5d813846ada0b267c639356dfac46b8069d"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0xD83fb5bbAefF770fae5c0Be2fDF060DD7B2A24da",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/ethereum/0xd83fb5bbaeff770fae5c0be2fdf060dd7b2a24da"
       }
     ]
   },
