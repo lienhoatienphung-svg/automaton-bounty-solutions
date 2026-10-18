@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T20:15:47.898Z",
-  "latencyMs": 388,
+  "executedAt": "2026-10-18T20:18:18.139Z",
+  "latencyMs": 374,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #690: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #691: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52782600,
+    "liveBlockNumber": 52782675,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459014,
-    "baseMainnetTopPoolsVolume24hUsd": 130310,
+    "baseMainnetTopPoolsVolume24hUsd": 130360,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DV1HbCMP6GbNUidkAkAAhm989PS8FwdzxhWXtiuhpump",
+        "description": "zen cat",
+        "url": "https://dexscreener.com/solana/dv1hbcmp6gbnuidkakaahm989ps8fwdzxhwxtiuhpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x9c87B4cfa21266d1638f437c96dBe1012CB81111",
+        "description": "The machine calls tomorrow’s weather before the station does. OddsEngine reads the forecasts, prices every temperature market on Polymarket in 50 cities and pos",
+        "url": "https://dexscreener.com/robinhood/0x9c87b4cfa21266d1638f437c96dbe1012cb81111"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3LBQXvcPgy8VZ1LBhXGM5pbDN7BPMkctfsaKCeJXpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "FMGe8RStdPc1YR59BBuV5Ui12DEe3Q2zVoihrJBbpump",
         "description": "ZENO is the community token powering an emerging intelligence ecosystem built around Surprise Intelligence and AI forecasting agents.\n\nHumans and AI challenging",
         "url": "https://dexscreener.com/solana/fmge8rstdpc1yr59bbuv5ui12dee3q2zvoihrjbbpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "t7LytmT5nzG7TydFjhUm9FdA47NArgDgyvZyVxipump",
-        "description": "$FLAME — 35% of creator fees. Forever. Every coin launched through Flame mints a scarce pixel engine NFT that collects 35% of its creator fees for as long as yo",
-        "url": "https://dexscreener.com/solana/t7lytmt5nzg7tydfjhum9fda47nargdgyvzyvxipump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "622DQWVdSc6DvnzNvedwGnXrGkwPrmaMag9eFmYFpump",
-        "description": "1000x memecoin perps on Solana. Zero slippage. No funding. Fully on-chain.",
-        "url": "https://dexscreener.com/solana/622dqwvdsc6dvnznvedwgnxrgkwprmamag9efmyfpump"
       }
     ]
   },
