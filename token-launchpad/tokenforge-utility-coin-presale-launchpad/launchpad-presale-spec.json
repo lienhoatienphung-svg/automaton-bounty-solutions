@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T19:41:57.977Z",
-  "latencyMs": 1161,
+  "executedAt": "2026-10-18T19:57:58.754Z",
+  "latencyMs": 335,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #687: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #688: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52781584,
-    "liveGasPriceGwei": 0.0078,
+    "liveBlockNumber": 52782065,
+    "liveGasPriceGwei": 0.0062,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,56 +31,56 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459014,
-    "baseMainnetTopPoolsVolume24hUsd": 133449,
+    "baseMainnetTopPoolsVolume24hUsd": 130107,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
       {
         "chainId": "solana",
-        "tokenAddress": "5FhSAqiiYQNHXjfpdrq1XiZoQ6wWYmyibq6EUSF2keWf",
+        "tokenAddress": "H8LU9aa2Ci9GhfniVJboAjeDzCmCPtwQmBkVNrSepump",
+        "description": "The first ZEC-native token launchpad. Shielded funding, private launches, powered by NEAR Intents.",
+        "url": "https://dexscreener.com/solana/h8lu9aa2ci9ghfnivjboajedzcmcptwqmbkvnrsepump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6metbmoYqJDTJpySKkFVEJLBUutP3UzgYbp8CYvXpump",
+        "description": "One street. Two sides. Pick yours.\nBlocky riot FPS in the real streets of Paris. Free, in your browser.",
+        "url": "https://dexscreener.com/solana/6metbmoyqjdtjpyskkfvejlbuutp3uzgybp8cyvxpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7u67B7BmCBpezpdUNhGcqjQ4QFg4At56pXu2R6nFpump",
+        "description": "CatGPT blends curious cat energy, cozy green-beanie vibes, and AI-inspired humor into a playful meme community on Solana.",
+        "url": "https://dexscreener.com/solana/7u67b7bmcbpezpdunhgcqjq4qfg4at56pxu2r6nfpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9bTskhWzfwGp9oC7nzrxUoeQjHTnCjDqp8fWejTUpump",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5fhsaqiiyqnhxjfpdrq1xizoq6wwymyibq6eusf2kewf"
+        "url": "https://dexscreener.com/solana/9btskhwzfwgp9oc7nzrxuoeqjhtncjdqp8fwejtupump"
       },
       {
         "chainId": "solana",
-        "tokenAddress": "AKoEWZWMNnzEjLeWYSHdv2StYJz23qmfz52cU4SXpump",
+        "tokenAddress": "6eSXqrJzTafCKSXNuk5Yctc2ujhEdAYE2xBKZBkEnvWG",
+        "description": "24 years of building these companies\n\njust to basket them into one coin $MUSK4\n\njust to pair that coin with the final $ELON coin\n\njust to create the final cumro",
+        "url": "https://dexscreener.com/solana/6esxqrjztafcksxnuk5yctc2ujhedaye2xbkzbkenvwg"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "D3S6J9s1byrNBt3ZKwEDiPsNRqHtoEP8zQKdhyBdpump",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/akoewzwmnnzejlewyshdv2styjz23qmfz52cu4sxpump"
+        "url": "https://dexscreener.com/solana/d3s6j9s1byrnbt3zkwedipsnrqhtoep8zqkdhybdpump"
       },
       {
-        "chainId": "solana",
-        "tokenAddress": "G3w5H4Rim4CnxMWw7PVvD8QgXHmgxwUrABGUW6EMoPjm",
+        "chainId": "robinhood",
+        "tokenAddress": "0xa003c5D813846AdA0B267C639356dfAc46B8069d",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/g3w5h4rim4cnxmww7pvvd8qgxhmgxwurabguw6emopjm"
+        "url": "https://dexscreener.com/robinhood/0xa003c5d813846ada0b267c639356dfac46b8069d"
       },
       {
-        "chainId": "solana",
-        "tokenAddress": "2rMUA7V6xjdaqpZmv7V7oAdaxfA1rEdPJsfJDkaCpump",
+        "chainId": "ethereum",
+        "tokenAddress": "0xD83fb5bbAefF770fae5c0Be2fDF060DD7B2A24da",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2rmua7v6xjdaqpzmv7v7oadaxfa1redpjsfjdkacpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8Fhsekc6mHhSVhSsMJ9hzygdGKRznKwfzomwoxrEpump",
-        "description": "They promised to make crypto great again, we just laced up our Nikes. Gump coin is trading political promises for a chocolatey dream. Launched by the fastest ru",
-        "url": "https://dexscreener.com/solana/8fhsekc6mhhsvhssmj9hzygdgkrznkwfzomwoxrepump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EQMKr5mrUxqPzCjB1s3fxy3C9KcpiVLE2sTKzanTpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/eqmkr5mruxqpzcjb1s3fxy3c9kcpivle2stkzantpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DuJQ7ZSYiAm1p9hYw4i3iUZStdxPHs3yv9zC6qH2pump",
-        "description": "Implementing Monero stealth addresses on Solana to make private payments possible without changing how the network works.",
-        "url": "https://dexscreener.com/solana/dujq7zsyiam1p9hyw4i3iuzstdxphs3yv9zc6qh2pump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0xC6B292b0562839F57f5c4D8E778eB272d19a7777",
-        "description": "PIERRE a micromania hero store owner lost everything or nearly so, but he's still holding onto his door.\n\nFees go to his TikTok @stonesbrushstudio.",
-        "url": "https://dexscreener.com/bsc/0xc6b292b0562839f57f5c4d8e778eb272d19a7777"
+        "url": "https://dexscreener.com/ethereum/0xd83fb5bbaeff770fae5c0be2fdf060dd7b2a24da"
       }
     ]
   },
