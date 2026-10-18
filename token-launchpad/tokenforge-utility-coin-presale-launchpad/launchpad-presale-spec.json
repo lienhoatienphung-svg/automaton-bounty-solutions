@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T04:04:22.090Z",
-  "latencyMs": 370,
+  "executedAt": "2026-10-18T04:18:35.460Z",
+  "latencyMs": 438,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #575: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #576: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52753457,
+    "liveBlockNumber": 52753884,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 197449,
+    "baseMainnetTopPoolsVolume24hUsd": 197731,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9fsDQMmBZHAUYhp331YX1EgPtw6LyaKApivvYnjfpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9fsdqmmbzhauyhp331yx1egptw6lyakapivvynjfpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FG2472SEXSnj9qZU9vKeadvfqNffS1c5KedJe4TRpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "4nJjZR1D7koAtbfuwCPuQ91F5bkwqgA2ENNWun6Kpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/4njjzr1d7koatbfuwcpuq91f5bkwqga2ennwun6kpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "LAhfGqKMxP7EymcJCKFKY7hLmAHcVd1VyHvsPy5pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/lahfgqkmxp7eymcjckfky7hlmahcvd1vyhvspy5pump"
       }
     ]
   },
