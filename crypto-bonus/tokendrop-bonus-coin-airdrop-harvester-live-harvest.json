@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T01:50:21.386Z",
-  "latencyMs": 764,
+  "executedAt": "2026-10-18T01:52:08.418Z",
+  "latencyMs": 1112,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #562: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #563: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,53 +217,73 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 110,
-      "priceBtc": 0.0000014453463939926824
+      "marketCapRank": 107,
+      "priceBtc": 0.0000014978079317713126
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 88,
-      "priceBtc": 0.00003851106511041768
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.0005038470617875
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 83,
-      "priceBtc": 0.00010581488289236931
+      "priceBtc": 0.000038558773390343316
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 100,
-      "priceBtc": 0.000022340352308884533
+      "priceBtc": 0.000022127848589833378
     },
     {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "marketCapRank": 70,
-      "priceBtc": 0.0002741929389532021
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 83,
+      "priceBtc": 0.00010649515140179314
     },
     {
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "marketCapRank": 48,
-      "priceBtc": 0.000005407587692518842
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9989774396786166
     },
     {
       "name": "Monero",
       "symbol": "XMR",
       "marketCapRank": 13,
-      "priceBtc": 0.007197256039901437
+      "priceBtc": 0.007179524905080295
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 29,
+      "priceBtc": 0.000012010431186613118
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 39,
+      "priceBtc": 0.002421356352353595
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "[reward, cfg] feat: run native reward models on CPU",
+      "url": "https://github.com/verl-project/verl-omni/pull/694",
+      "createdAt": "2026-10-04T13:42:45Z"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "url": "https://github.com/reddoorla/vineyard-custom-homes/pull/68",
+      "createdAt": "2026-09-21T16:47:53Z"
+    },
+    {
+      "title": "S-0 steps 2–3: Chia peer lane replaces the coinset gateway",
+      "url": "https://github.com/Bella-Addormentata/StarStationFurlong/pull/271",
+      "createdAt": "2026-10-17T17:35:23Z"
+    },
+    {
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/unlock-protocol/unlock/issues/7449",
+      "createdAt": "2021-08-25T05:01:51Z"
+    },
     {
       "title": "Contracts: implement a vesting_schedule contract (linear vesting with cliff and revocation)",
       "url": "https://github.com/Shelterflex/monorepo/issues/1883",
@@ -273,26 +293,6 @@
       "title": "chore(deps): bump tempo dependencies to 2c25f7c",
       "url": "https://github.com/dghelm/foundry/pull/108",
       "createdAt": "2026-10-18T01:49:59Z"
-    },
-    {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
-    },
-    {
-      "title": "[reward, cfg] feat: run native reward models on CPU",
-      "url": "https://github.com/verl-project/verl-omni/pull/694",
-      "createdAt": "2026-10-04T13:42:45Z"
-    },
-    {
-      "title": "Prepare protocol v1 testnet relaunch and final internal-review fixes",
-      "url": "https://github.com/jackdishman/blockula/pull/17",
-      "createdAt": "2026-10-18T01:47:56Z"
-    },
-    {
-      "title": "feat(sshtarget): fence port 22 on macOS with a pf anchor behind a commit-confirm timer",
-      "url": "https://github.com/mlorentedev/dotfiles/pull/2681",
-      "createdAt": "2026-10-17T08:24:57Z"
     }
   ]
 }
