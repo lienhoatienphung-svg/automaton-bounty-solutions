@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T21:50:27.749Z",
-  "latencyMs": 795,
+  "executedAt": "2026-10-18T22:06:00.758Z",
+  "latencyMs": 1100,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #705: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #706: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "Dcp5oPDmzv6dwcWvE3HjY6gS1Pqi5xx8LPC1bS9Vpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/dcp5opdmzv6dwcwve3hjy6gs1pqi5xx8lpc1bs9vpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "6AZCEfnhaPDHghHhH4nArD3jXgdHnG54FXJPE3nApump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Official Token of the French Deadpool. 100% of the fees to him",
       "url": "https://dexscreener.com/solana/byq4ctwvyrztzb7afkw8qxpbmxdcwx6udvmshlzipump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8Fhsekc6mHhSVhSsMJ9hzygdGKRznKwfzomwoxrEpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "They promised to make crypto great again, we just laced up our Nikes. Gump coin is trading political promises for a chocolatey dream. Launched by the fastest ru",
-      "url": "https://dexscreener.com/solana/8fhsekc6mhhsvhssmj9hzygdgkrznkwfzomwoxrepump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 709,
-      "priceBtc": 3.187277539359267e-7
-    },
-    {
-      "name": "Doge Pepe",
-      "symbol": "DOPE",
-      "marketCapRank": 660,
-      "priceBtc": 3.5314818776298393e-7
-    },
-    {
-      "name": "hi",
-      "symbol": "HI",
-      "marketCapRank": 812,
-      "priceBtc": 2.504371268229986e-7
-    },
-    {
-      "name": "Boomer",
-      "symbol": "BOOMER",
-      "marketCapRank": 759,
-      "priceBtc": 2.8069868650373903e-7
-    },
-    {
-      "name": "Claudia",
-      "symbol": "CLAUDIA",
-      "marketCapRank": 829,
-      "priceBtc": 2.420641525202721e-7
+      "marketCapRank": 636,
+      "priceBtc": 3.707682511021291e-7
     },
     {
       "name": "Tetsuo Super Intelligence",
       "symbol": "TSI",
-      "marketCapRank": 873,
-      "priceBtc": 2.2552759705669186e-7
+      "marketCapRank": 810,
+      "priceBtc": 2.539110790722956e-7
+    },
+    {
+      "name": "Doge Pepe",
+      "symbol": "DOPE",
+      "marketCapRank": 664,
+      "priceBtc": 3.5165729915241877e-7
+    },
+    {
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "marketCapRank": 795,
+      "priceBtc": 2.5850883070768146e-7
+    },
+    {
+      "name": "Boomer",
+      "symbol": "BOOMER",
+      "marketCapRank": 787,
+      "priceBtc": 2.6475015979215377e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 639,
-      "priceBtc": 0.0012648942570385642
+      "marketCapRank": 641,
+      "priceBtc": 0.0012651733893923544
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00005797547233179841
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 8.960183798183824e-8
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.0004970428492062
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Add Omdrop (AirDrop for Omarchy) 0.18.1",
-      "url": "https://github.com/omacom/omarchy-pkgs/pull/1273",
-      "createdAt": "2026-10-18T20:00:44Z"
+      "title": "feat: enforce claim deadlines on reward streams (#121)",
+      "url": "https://github.com/Kevin737866/stellar-liquidity-yield-engine/pull/338",
+      "createdAt": "2026-10-18T21:53:53Z"
     },
     {
-      "title": "D755 (S24): a token pack is bought alone at face value and credited once by the payment webhook (PR 2 of 2)",
-      "url": "https://github.com/AxalNetwork/StudioOS/pull/1966",
-      "createdAt": "2026-10-18T21:47:23Z"
+      "title": "Owner questions: staging enrollment on the test iPhones and the canary manifest",
+      "url": "https://github.com/vettid/vettid-ios/issues/67",
+      "createdAt": "2026-10-18T19:51:22Z"
     },
     {
-      "title": "D755 (S24): the reads (token packs, top-up history, every plan's AI allowance) and the Super Admin's token-pack, member-account, adjustment ",
-      "url": "https://github.com/AxalNetwork/StudioOS/issues/1919",
-      "createdAt": "2026-10-18T19:41:52Z"
+      "title": "audit: consolidate all 62 parts with the storage coding audit, canonical program check and VM memory bound",
+      "url": "https://github.com/lubothebook/budlum/pull/9",
+      "createdAt": "2026-10-12T19:36:39Z"
     },
     {
-      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
-      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
-      "createdAt": "2026-10-18T07:37:42Z"
+      "title": "Implement multi-currency balance breakdown widget in the wallet dashboard",
+      "url": "https://github.com/ASTROIDX556/astroid-web/issues/163",
+      "createdAt": "2026-09-28T11:58:01Z"
     },
     {
-      "title": "M1-4a chain: client foundation on @4thtech-io/occ-v2-abi",
-      "url": "https://github.com/4thtech/agentlink/pull/276",
-      "createdAt": "2026-10-18T21:21:55Z"
+      "title": "New daily trending repos in Dart",
+      "url": "https://github.com/vitalets/github-trending-repos/issues/102",
+      "createdAt": "2018-02-24T18:08:35Z"
     },
     {
-      "title": "get-test-usdc Send-USDC handler has no synchronous in-flight guard — same bug class as #175, confirmed on an untested page",
-      "url": "https://github.com/Konfirm-xyz/konfirm-frontend/issues/198",
-      "createdAt": "2026-10-18T13:00:04Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     }
   ]
 }
