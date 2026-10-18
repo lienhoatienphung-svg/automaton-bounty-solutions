@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T11:54:44.233Z",
-  "latencyMs": 341,
+  "executedAt": "2026-10-18T11:57:03.026Z",
+  "latencyMs": 272,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #632: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #633: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52767568,
+    "liveBlockNumber": 52767637,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459044,
-    "baseMainnetTopPoolsVolume24hUsd": 169387,
+    "baseMainnetTopPoolsVolume24hUsd": 168080,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "ink",
+        "tokenAddress": "0xbff795017Ea6F7FBB2Cc30cba4A22D123901EF79",
+        "description": "Chimera-404 Creatures From the Deep, on Ink.\nA Sound No One Could Explain. A New Collection. 1,000 Sculptural Creatures.\nMost Drift Near the Light. A Few Rise F",
+        "url": "https://dexscreener.com/ink/0xbff795017ea6f7fbb2cc30cba4a22d123901ef79"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "61DMLhgVgiKuTNPhnxcureAWw5htb4wLRhBgYPukpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "2g3M2xF9ADS9J7Tm2Y7aSKsWQ85zYu4DJm8M4riKpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/2g3m2xf9ads9j7tm2y7askswq85zyu4djm8m4rikpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6GgM1kVRUY9AUoSr6VzqwK9ZNHdGac3XjfGyzx1spump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6ggm1kvruy9auosr6vzqwk9znhdgac3xjfgyzx1spump"
       }
     ]
   },
