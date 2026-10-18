@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T10:17:23.844Z",
-  "latencyMs": 314,
+  "executedAt": "2026-10-18T10:31:28.553Z",
+  "latencyMs": 249,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #621: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #622: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52764648,
+    "liveBlockNumber": 52765070,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459041,
-    "baseMainnetTopPoolsVolume24hUsd": 170343,
+    "baseMainnetTopPoolsLiquidityUsd": 459045,
+    "baseMainnetTopPoolsVolume24hUsd": 172651,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2w5F9S2o2ZM4drMAGpjGXAXTSJTbJJhZWx3jWWDZ6odY",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2w5f9s2o2zm4drmagpjgxaxtsjtbjjhzwx3jwwdz6ody"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7X667CTtpSpL1ziTmoAYWrGYbX6tgAjz3YDG7v3opump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7x667cttpspl1zitmoaywrgybx6tgajz3ydg7v3opump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x7bCb65020986099Ec8aaA02a594486118E56Ace1",
+        "description": "$REKTd Lore 🐸\n\nRick turned a $100 crypto dream into nearly $1M, then lost almost everything in the Great Hack. \n\nInstead of quitting, he learned, rebuilt and b",
+        "url": "https://dexscreener.com/robinhood/0x7bcb65020986099ec8aaa02a594486118e56ace1"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "t8QthbHq7S5UvjbfV8F5Z9xbHWtvQs4NNyn2iExpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "HW6ith8rBD3BTFFF1NjTBHeotxhRXqP8aKM628eppump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/hw6ith8rbd3btfff1njtbheotxhrxqp8akm628eppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GAoKDJhCW3iNSjQQ6VH68Dr4ZwGyD3tnR6hnaDbsaeiu",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/gaokdjhcw3insjqq6vh68dr4zwgyd3tnr6hnadbsaeiu"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "66KALP7faJBHXWhUGexf4bXW6FG1CC1tiwt4EKGDpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/66kalp7fajbhxwhugexf4bxw6fg1cc1tiwt4ekgdpump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x1f27068be7a798F8539Bd860E9eD0778F8EF5Abb",
-        "description": "A brand-new way to trade: \nToken prices remain the same for all trades within the same block, enabled by Uniswap V4 hook.",
-        "url": "https://dexscreener.com/ethereum/0x1f27068be7a798f8539bd860e9ed0778f8ef5abb"
       }
     ]
   },
