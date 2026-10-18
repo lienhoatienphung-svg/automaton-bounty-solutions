@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T20:52:13.924Z",
-  "latencyMs": 1142,
+  "executedAt": "2026-10-18T20:54:23.537Z",
+  "latencyMs": 740,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #698: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #699: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
+      "url": "https://github.com/Open-Athena/biotasks/issues/21",
+      "createdAt": "2026-10-16T20:07:24Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "perf(wasm): exclude testnet faucet, indexer fixture and simulation endpoints from the production wasm",
+      "url": "https://github.com/RevoraOrg/Revora-Contracts/issues/1356",
+      "createdAt": "2026-10-18T20:53:16Z"
+    },
+    {
       "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
       "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
       "createdAt": "2026-10-07T16:13:30Z"
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-18T18:58:24Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
       "title": "refactor: switch the draft proposal plumbing from probs to logits.",
       "url": "https://github.com/xLLM-AI/xllm/pull/2509",
       "createdAt": "2026-10-18T07:37:42Z"
-    },
-    {
-      "title": "Bump lucide-react from 1.28.0 to 1.48.0 in /frontend/control-plane",
-      "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure/pull/123",
-      "createdAt": "2026-09-28T02:15:09Z"
-    },
-    {
-      "title": "New parser for OKX exchange (UK account), matching September 2026 CSV format",
-      "url": "https://github.com/BittyTax/BittyTax/pull/510",
-      "createdAt": "2026-10-18T17:20:14Z"
     }
   ]
 }
