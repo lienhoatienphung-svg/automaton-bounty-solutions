@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-18T04:00:32.921Z",
-  "latencyMs": 706,
+  "executedAt": "2026-10-18T04:02:33.024Z",
+  "latencyMs": 628,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #578: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #579: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,81 +218,81 @@
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 111,
-      "priceBtc": 0.0000013533880961969767
+      "priceBtc": 0.0000013803509010817031
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00006155323214094984
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 100,
-      "priceBtc": 0.000022186040979900135
+      "marketCapRank": 19,
+      "priceBtc": 0.00006153248315952288
     },
     {
       "name": "Monero",
       "symbol": "XMR",
       "marketCapRank": 13,
-      "priceBtc": 0.007351909010857324
+      "priceBtc": 0.007373452247350114
     },
     {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 88,
-      "priceBtc": 0.00003846636787650353
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 100,
+      "priceBtc": 0.000022194093239528052
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 29,
-      "priceBtc": 0.00001211784079472631
+      "priceBtc": 0.000012094757847927418
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.0001146112128663
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 187,
+      "priceBtc": 0.000003507212254763241
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.01407569969875824
+      "name": "Minter",
+      "symbol": "MINTER",
+      "marketCapRank": 981,
+      "priceBtc": 1.8252312257625678e-7
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 83,
+      "priceBtc": 0.0001062556067745709
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
+    },
     {
       "title": "Fix reviews 01–48 and integrate same-stack review corrections",
       "url": "https://github.com/arvindcr4/tinker-rl-lab/pull/21",
       "createdAt": "2026-10-18T02:49:51Z"
     },
     {
-      "title": "Protected Finish STOP: review War Satchel function-replacement migration before production",
-      "url": "https://github.com/Emaren/app-prodn/issues/634",
-      "createdAt": "2026-10-16T22:20:02Z"
+      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
+      "createdAt": "2026-10-07T00:07:47Z"
     },
     {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
+      "title": "On-policy joint-choice Non-Combat improvement under frozen potion-enabled Search",
+      "url": "https://github.com/lsmfttb/spire-research/issues/60",
+      "createdAt": "2026-10-16T04:02:07Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/49",
+      "createdAt": "2026-10-17T18:26:37Z"
     },
     {
       "title": "llm-algo-leetcode 推理优化 | 202610 Task 2 ·  解码推进与候选验证",
       "url": "https://github.com/datawhalechina/llm-algo-leetcode/issues/221",
       "createdAt": "2026-10-14T04:45:28Z"
-    },
-    {
-      "title": "[性能] 排查 Linux 空闲／仅连接状态 RSS 增长",
-      "url": "https://github.com/GHOST-AKU/wozai/issues/9",
-      "createdAt": "2026-10-04T00:10:12Z"
     }
   ]
 }
