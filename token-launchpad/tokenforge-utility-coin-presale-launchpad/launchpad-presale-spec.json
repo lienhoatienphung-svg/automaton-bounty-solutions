@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T04:36:19.602Z",
-  "latencyMs": 333,
+  "executedAt": "2026-10-18T04:50:04.566Z",
+  "latencyMs": 331,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #579: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #580: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Askable: Software Engineer AI Codin",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52754416,
+    "liveBlockNumber": 52754828,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 458999,
-    "baseMainnetTopPoolsVolume24hUsd": 197589,
+    "baseMainnetTopPoolsVolume24hUsd": 197693,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6jFNAzhR1tgPtKbMXZK3ucn5dR1XnqfbKJXZmS1cpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6jfnazhr1tgptkbmxzk3ucn5dr1xnqfbkjxzms1cpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3qqM8YivXUX8TCCQAeQLAsDjkwQJC91Lc6JzMtNppump",
+        "description": "He's developing an ASCII MMORPG.",
+        "url": "https://dexscreener.com/solana/3qqm8yivxux8tccqaeqlasdjkwqjc91lc6jzmtnppump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "F6UgBxr8pRNCT7DNeA2teumzBebihmSZSCmmLN9bpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "CYjb7Zy8jLffdbPNzs2mYkF2nQ3TXg9HHq4XjFbfpump",
         "description": "Baby Pepe paired with $Pepe and rewards to holders on Pumpfun",
         "url": "https://dexscreener.com/solana/cyjb7zy8jlffdbpnzs2mykf2nq3txg9hhq4xjfbfpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9fsDQMmBZHAUYhp331YX1EgPtw6LyaKApivvYnjfpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9fsdqmmbzhauyhp331yx1egptw6lyakapivvynjfpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FG2472SEXSnj9qZU9vKeadvfqNffS1c5KedJe4TRpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fg2472sexsnj9qzu9vkeadvfqnffs1c5kedje4trpump"
       }
     ]
   },
