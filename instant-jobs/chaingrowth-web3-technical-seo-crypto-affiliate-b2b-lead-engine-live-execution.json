@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-19T18:49:56.604Z",
-  "latencyMs": 608,
+  "executedAt": "2026-10-19T19:05:56.716Z",
+  "latencyMs": 604,
   "companyName": "ChainGrowth Web3 Technical SEO, Crypto Affiliate & B2B Lead Engine",
-  "workTitle": "Delivery Sprint #1331: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
-  "targetUrl": "https://polymarket.com/event/will-any-country-leave-nato-in-2025",
+  "workTitle": "Growth & Sales Sprint #1332: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "targetUrl": "https://polymarket.com/event/ukraine-election-called-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656688,
-        "liquidityUsd": 40518,
+        "liquidityUsd": 41629,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501815,
-        "liquidityUsd": 17757,
+        "liquidityUsd": 18314,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2205069,
-        "liquidityUsd": 65699,
+        "liquidityUsd": 59918,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059857,
-        "liquidityUsd": 242,
+        "liquidityUsd": 244,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1858167,
-        "liquidityUsd": 21422,
+        "liquidityUsd": 19471,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -70,9 +70,9 @@
         "dexId": "quickswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000046,
+        "priceUsd": 1.000041,
         "liquidityUsd": 103157,
-        "volume24hUsd": 31946,
+        "volume24hUsd": 34957,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -92,7 +92,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000042,
         "liquidityUsd": 140050,
-        "volume24hUsd": 6040,
+        "volume24hUsd": 6270,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000057,
+        "priceUsd": 1.000055,
         "liquidityUsd": 21385,
-        "volume24hUsd": 61379,
+        "volume24hUsd": 61577,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -130,6 +130,21 @@
   "multiIndustryB2BContracts": {
     "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Sothebyâs",
+        "roleOrTask": "Senior Software Engineer",
+        "industryTags": [
+          "golang",
+          "dev",
+          "senior",
+          "sales",
+          "engineer"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "RemoteOK-InstantB2B",
         "company": "Rain",
@@ -188,17 +203,6 @@
         ],
         "compensation": "$500-$2,500 Instant Retainer",
         "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Apryse",
-        "roleOrTask": "Commercial Account Manager LATAM",
-        "industryTags": [
-          "exec"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
         "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
       },
       {
