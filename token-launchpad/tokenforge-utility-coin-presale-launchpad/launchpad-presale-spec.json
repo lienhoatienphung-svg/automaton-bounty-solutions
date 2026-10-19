@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T18:09:26.988Z",
-  "latencyMs": 369,
+  "executedAt": "2026-10-19T18:12:26.199Z",
+  "latencyMs": 458,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #782: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #783: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52822009,
+    "liveBlockNumber": 52822099,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440989,
-    "baseMainnetTopPoolsVolume24hUsd": 102819,
+    "baseMainnetTopPoolsVolume24hUsd": 102879,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "38VD8FpwW551y9pDLxz86ePvgV2nuyZEnSVemPfhpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/38vd8fpww551y9pdlxz86epvgv2nuyzensvempfhpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9HX9jRTQmLq84ZL59ETd4czfYgCPceKetREKriUPpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9hx9jrtqmlq84zl59etd4czfygcpceketrekriuppump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EKzoDk5CP4tf1Gy6xomBqb6TizYWKZBdskcxvv9Zpump",
+        "description": "Powering the Agent Economy.\n\nLaunch agents, make noise.",
+        "url": "https://dexscreener.com/solana/ekzodk5cp4tf1gy6xombqb6tizywkzbdskcxvv9zpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Dt9EAQYTN2RrSG6Gv2DrB68xfAvau3Ntyjtpmmnfpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "0x7232e31dd05eed7b945d1a6bc52a3077aba4becb",
         "description": "Infrabond is the bond market for the software agents pay. $IBOND backs a service's promise: backers earn its premium in USDG and the Pons creator fees in ETH, a",
         "url": "https://dexscreener.com/robinhood/0x7232e31dd05eed7b945d1a6bc52a3077aba4becb"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GXcJQEJJEDEVJpJafUWuytyUCyf1oeLbkT71igFUDhEQ",
-        "description": "Froge OpenAI mascot",
-        "url": "https://dexscreener.com/solana/gxcjqejjedevjpjafuwuytyucyf1oelbkt71igfudheq"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BrdhmnMUAx9SJkosCLhbFs1DvmsYM7s5CNNbXKa8pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/brdhmnmuax9sjkosclhbfs1dvmsym7s5cnnbxka8pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5ZZUQoxYUeQvogXdvMkiUxsCrgYq8cf3MDB38y2gkfEB",
-        "description": "Pumpfun just added openai stock",
-        "url": "https://dexscreener.com/solana/5zzuqoxyueqvogxdvmkiuxscrgyq8cf3mdb38y2gkfeb"
       }
     ]
   },
