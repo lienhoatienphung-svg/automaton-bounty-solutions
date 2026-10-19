@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T21:11:59.235Z",
-  "latencyMs": 1089,
+  "executedAt": "2026-10-19T21:16:12.490Z",
+  "latencyMs": 1583,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #806: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #807: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,77 +217,77 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 767,
-      "priceBtc": 3.1861378124812795e-7
+      "marketCapRank": 804,
+      "priceBtc": 2.5296175378263585e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 91,
-      "priceBtc": 0.000024804561696353907
+      "priceBtc": 0.00002468347404257366
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.1595661836936e-8
+      "priceBtc": 9.149303536067337e-8
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00005997983334078584
+      "priceBtc": 0.000059885666006212175
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 686,
+      "priceBtc": 0.001142376820865798
+    },
+    {
+      "name": "PHALA",
+      "symbol": "PHA",
+      "marketCapRank": 408,
+      "priceBtc": 8.032796117623515e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009607518540166932
+      "priceBtc": 0.000009613314030474753
     },
     {
       "name": "Monad",
       "symbol": "MON",
       "marketCapRank": 160,
-      "priceBtc": 2.5222824483533273e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 688,
-      "priceBtc": 0.0011438695408960327
-    },
-    {
-      "name": "PHALA",
-      "symbol": "PHA",
-      "marketCapRank": 412,
-      "priceBtc": 7.900431519382513e-7
+      "priceBtc": 2.5221023051752373e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat - BFE-247 - Hive Glow restyle of the Factory browsing pages",
-      "url": "https://github.com/bze-alphateam/bze-frontend-apps/pull/151",
-      "createdAt": "2026-10-19T21:01:23Z"
+      "title": "Release the faucet lease when the relayer cannot be resolved",
+      "url": "https://github.com/greyw0rks/musd-pocket/pull/10",
+      "createdAt": "2026-10-19T21:15:59Z"
+    },
+    {
+      "title": "Records: #54, #55 and #56 merged and live; P3.7 ticked; the engine's gate counts ADR-105",
+      "url": "https://github.com/QOR-MATRIX/demiurge-chain/pull/58",
+      "createdAt": "2026-10-19T21:15:24Z"
+    },
+    {
+      "title": "Stellar-native contracts: final technical review",
+      "url": "https://github.com/AGDAO/togetherfi-stellar/pull/2",
+      "createdAt": "2026-10-15T10:05:22Z"
+    },
+    {
+      "title": "feat(demo): the Halden showcase, a share token whose pointer resolves in public (lot 7)",
+      "url": "https://github.com/BuzzBallz/orma/pull/34",
+      "createdAt": "2026-10-19T21:14:21Z"
     },
     {
       "title": "fix(grpo): verify environmental learning and saved-tokenizer lineage",
       "url": "https://github.com/virajchoudhary/AtlasOps/pull/226",
       "createdAt": "2026-10-19T13:26:28Z"
-    },
-    {
-      "title": "fix(vesting): block reward claims from spending locked principal",
-      "url": "https://github.com/SaluteDan/attr-web3-main/pull/19",
-      "createdAt": "2026-10-19T21:10:43Z"
-    },
-    {
-      "title": "perf: read call input from the caller's memory",
-      "url": "https://github.com/alloy-rs/evm2/pull/714",
-      "createdAt": "2026-10-19T20:55:41Z"
-    },
-    {
-      "title": "Reward review authors with project tokens or points",
-      "url": "https://github.com/HubDApp/Dongle-Smartcontract/issues/885",
-      "createdAt": "2026-10-19T08:18:51Z"
     },
     {
       "title": "Central message board — Hermes, Claude, Codex and operator coordination",
