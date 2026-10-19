@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T12:17:12.841Z",
-  "latencyMs": 880,
+  "executedAt": "2026-10-19T12:19:28.106Z",
+  "latencyMs": 882,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #750: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #751: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "1EwcGE6WrssiY2sKSadB5E5DE9WhPDQvBC6kev1EDGE",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "1EDGE Official token \nAnti bundle, Anti Sniper Launchpad",
+      "url": "https://dexscreener.com/solana/1ewcge6wrssiy2sksadb5e5de9whpdqvbc6kev1edge"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "86sf1fnEu5g3Lhsg4F1pHJEtaRwszUZosU2e2PU7E5ar",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "SpaceX Pyramid HQ.",
       "url": "https://dexscreener.com/solana/hvfm6sofotute89udmo6gbkhqkfhmtrikdpxybrfpump"
-    },
-    {
-      "chainId": "ethereum",
-      "tokenAddress": "0xCC55066c764085cfFdE0b4eE6e23C29Fd9D3c033",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Meet Cosmo, Groklet's loyal space pup!\n\nHOLD $COSMO GET 3% $SPCX Rewards.\n\nGrok confirmed",
-      "url": "https://dexscreener.com/ethereum/0xcc55066c764085cffde0b4ee6e23c29fd9d3c033"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,26 +265,6 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
-      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
-      "createdAt": "2026-10-18T07:37:42Z"
-    },
-    {
-      "title": "Кнопка «Поделиться» рядом с «Копировать» и «Сохранить»",
-      "url": "https://github.com/kobozevomd/ShotMark/pull/1",
-      "createdAt": "2026-10-19T12:16:53Z"
-    },
-    {
-      "title": "Refund unused shots on win and add flying coin animation",
-      "url": "https://github.com/usernode-bot/goalio-a110d1/issues/111",
-      "createdAt": "2026-10-19T11:52:24Z"
-    },
-    {
-      "title": "Add long-video-token-compression task (training-free)",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/98",
-      "createdAt": "2026-10-19T12:13:59Z"
-    },
-    {
       "title": "feat: add primary hiro testnet and remove testnet3 and sbtc testnet",
       "url": "https://github.com/leather-io/mono/pull/2834",
       "createdAt": "2026-10-07T08:34:31Z"
@@ -293,6 +273,26 @@
       "title": "feat(manager): pay for registrations with USDC bridged in from an L2",
       "url": "https://github.com/ensdomains/apps-monorepo/pull/1395",
       "createdAt": "2026-10-16T19:16:49Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
+      "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
+      "createdAt": "2026-10-09T09:52:33Z"
+    },
+    {
+      "title": "docs(validators): v0.6 release update: drop Asimov, Bradbury phase 2, Python 3.10+",
+      "url": "https://github.com/genlayerlabs/genlayer-docs/pull/705",
+      "createdAt": "2026-10-19T11:22:28Z"
+    },
+    {
+      "title": "fix(earn): preserve cumulative claimed reward totals and tooltips",
+      "url": "https://github.com/gnoswap-labs/gnoswap-interface/pull/1046",
+      "createdAt": "2026-10-16T03:46:38Z"
     }
   ]
 }
