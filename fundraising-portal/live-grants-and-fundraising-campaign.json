@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T16:39:17.745Z",
-  "latencyMs": 872,
+  "executedAt": "2026-10-19T16:56:41.962Z",
+  "latencyMs": 890,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #757: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #758: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "Altium: add post-routing production release gate",
-          "url": "https://github.com/skif-ops/RLS_Head/pull/172",
-          "repositoryUrl": "https://api.github.com/repos/skif-ops/RLS_Head",
-          "updatedAt": "2026-10-19T16:39:16Z"
+          "title": "fix(terminal): identify T3 Code terminal sessions",
+          "url": "https://github.com/pingdotgg/t3code/pull/9954",
+          "repositoryUrl": "https://api.github.com/repos/pingdotgg/t3code",
+          "updatedAt": "2026-10-19T16:56:36Z"
         },
         {
-          "title": "[MySQL] az mysql flexible-server rename: Add server rename support (preview)",
-          "url": "https://github.com/Azure/azure-cli/pull/34240",
-          "repositoryUrl": "https://api.github.com/repos/Azure/azure-cli",
-          "updatedAt": "2026-10-19T16:39:16Z"
+          "title": "Implement draft release verification, immutable provenance and native catalog fidelity",
+          "url": "https://github.com/fulton-ring/hifld-next-datasets/pull/421",
+          "repositoryUrl": "https://api.github.com/repos/fulton-ring/hifld-next-datasets",
+          "updatedAt": "2026-10-19T16:56:36Z"
         },
         {
-          "title": "MVP-6 Logistics — shipment bundle, S&OP + Capacity UI, R-2 alignment, gateway correlation, SupplyChain CI row",
-          "url": "https://github.com/bestepullukcu-alt/ERP-vNext/pull/158",
-          "repositoryUrl": "https://api.github.com/repos/bestepullukcu-alt/ERP-vNext",
-          "updatedAt": "2026-10-19T16:39:13Z"
+          "title": "fix(workboard): archived worker sessions block card dispatch",
+          "url": "https://github.com/openclaw/openclaw/pull/176939",
+          "repositoryUrl": "https://api.github.com/repos/openclaw/openclaw",
+          "updatedAt": "2026-10-19T16:56:36Z"
         },
         {
-          "title": "ci: re-pin every standards caller to 75bd599 and rebuild the lock closure",
-          "url": "https://github.com/hyperpolymath/cicd-squabbler/pull/135",
-          "repositoryUrl": "https://api.github.com/repos/hyperpolymath/cicd-squabbler",
-          "updatedAt": "2026-10-19T16:39:11Z"
+          "title": "feat(security): JWT RBAC, order ownership and transactional idempotency",
+          "url": "https://github.com/josepauloferreira/orderflow-api/pull/8",
+          "repositoryUrl": "https://api.github.com/repos/josepauloferreira/orderflow-api",
+          "updatedAt": "2026-10-19T16:56:35Z"
         },
         {
-          "title": "Round 2: the playable loop (all round 2 branches merged and wired together)",
-          "url": "https://github.com/hawkwinghasseler/RingsOfIron/pull/94",
-          "repositoryUrl": "https://api.github.com/repos/hawkwinghasseler/RingsOfIron",
-          "updatedAt": "2026-10-19T16:39:10Z"
+          "title": "PR96: download complete control-system engineering diagrams as SVG ZIP",
+          "url": "https://github.com/amarbanerjee23/KIDE-webapp-lovable/pull/96",
+          "repositoryUrl": "https://api.github.com/repos/amarbanerjee23/KIDE-webapp-lovable",
+          "updatedAt": "2026-10-19T16:56:40Z"
         },
         {
-          "title": "[opt-out check] Quorum Data, Inc: confirm the opt-out route works",
-          "url": "https://github.com/lizTheDeveloper/privacy-the-game/issues/122",
-          "repositoryUrl": "https://api.github.com/repos/lizTheDeveloper/privacy-the-game",
-          "updatedAt": "2026-10-19T16:39:09Z"
+          "title": "Thoughts on sandboxing",
+          "url": "https://github.com/CodeAlta/CodeAlta/issues/80",
+          "repositoryUrl": "https://api.github.com/repos/CodeAlta/CodeAlta",
+          "updatedAt": "2026-10-19T16:56:35Z"
         },
         {
-          "title": "feat(qa): provision isolated synthetic test identities",
-          "url": "https://github.com/mattshola-creator/schoolflow/pull/119",
-          "repositoryUrl": "https://api.github.com/repos/mattshola-creator/schoolflow",
-          "updatedAt": "2026-10-19T16:39:09Z"
+          "title": "Bug: Learner Ticket Transport Uses an Undefined Eval Helper",
+          "url": "https://github.com/klondikemarlen/omp-learner/issues/133",
+          "repositoryUrl": "https://api.github.com/repos/klondikemarlen/omp-learner",
+          "updatedAt": "2026-10-19T16:56:34Z"
         },
         {
-          "title": "feat: prazos de retenção aprovados pelo usuário, auditoria de segurança em 12 meses (0081, POL-80)",
-          "url": "https://github.com/camilagama/polaris/pull/174",
-          "repositoryUrl": "https://api.github.com/repos/camilagama/polaris",
-          "updatedAt": "2026-10-19T16:39:09Z"
+          "title": "[intake 输入] 【测评报告】dsh-taskboard：整个 JSON API 零鉴权——仅校验 Content-Type，可远程驱动任务执行/合并/外送配置",
+          "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1158",
+          "repositoryUrl": "https://api.github.com/repos/FuRongJun-1999/dsh-bounty",
+          "updatedAt": "2026-10-19T16:56:34Z"
         }
       ]
     },
