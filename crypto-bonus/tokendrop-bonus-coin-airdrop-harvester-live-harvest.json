@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T13:52:25.306Z",
-  "latencyMs": 940,
+  "executedAt": "2026-10-19T14:09:59.040Z",
+  "latencyMs": 1285,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #761: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #762: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,62 +217,67 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 769,
-      "priceBtc": 2.786938149771658e-7
+      "marketCapRank": 766,
+      "priceBtc": 2.8072919862499126e-7
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 682,
+      "priceBtc": 0.0011679512646414832
+    },
+    {
+      "name": "Osmosis",
+      "symbol": "OSMO",
+      "marketCapRank": 513,
+      "priceBtc": 6.92442058640912e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 99,
-      "priceBtc": 0.000022563731163672468
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 684,
-      "priceBtc": 0.001159811320566452
-    },
-    {
-      "name": "Osmosis",
-      "symbol": "OSMO",
-      "marketCapRank": 509,
-      "priceBtc": 7.023399662159622e-7
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 88,
-      "priceBtc": 0.000009498587579390013
+      "priceBtc": 0.000022570745607596097
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.248051030895367e-8
+      "priceBtc": 9.230159768150126e-8
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 102,
+      "priceBtc": 0.0000073186178620737566
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0013154333932368
+      "priceBtc": 0.9989861057045225
     },
     {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "marketCapRank": 90,
-      "priceBtc": 0.00002236419119484813
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 88,
+      "priceBtc": 0.000009447296118850194
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
-      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
-      "createdAt": "2026-10-11T10:45:50Z"
+      "title": "feat(console): Studio, Console wallets and the console redesign",
+      "url": "https://github.com/ava-labs/builders-hub/pull/4726",
+      "createdAt": "2026-10-08T18:42:09Z"
     },
     {
-      "title": "docs(readme): point at community awesome-technocore indexes (unaffiliated)",
-      "url": "https://github.com/flop-labs/technocore-chat/pull/1007",
-      "createdAt": "2026-10-19T11:34:34Z"
+      "title": "docs(whitelabel): sandbox limits and 503 for chain errors",
+      "url": "https://github.com/hevn-inc/docs/pull/1",
+      "createdAt": "2026-10-19T14:08:04Z"
+    },
+    {
+      "title": "Run the examples as the sandbox e2e suite",
+      "url": "https://github.com/hevn-inc/dapi-sdk/pull/1",
+      "createdAt": "2026-10-19T14:07:45Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -280,19 +285,14 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "feat!: drop census publishing and anonymous/ZK voting (vochain-sequencer target)",
-      "url": "https://github.com/vocdoni/vocdoni-sdk/pull/460",
-      "createdAt": "2026-10-19T09:16:33Z"
-    },
-    {
       "title": "[Ops] Muse ↔ Grok.btc direct line",
       "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
       "createdAt": "2026-09-13T13:56:58Z"
     },
     {
-      "title": "feat(staking): BUILD 1 — HeroSingleSidedStaking (HERO→HERO, DAO vote source)",
-      "url": "https://github.com/jratdish1/hero-dapp/pull/119",
-      "createdAt": "2026-09-27T22:49:15Z"
+      "title": "Cap an owner at 10 agents",
+      "url": "https://github.com/skalenetwork/agentpit/pull/36",
+      "createdAt": "2026-10-19T14:07:03Z"
     }
   ]
 }
