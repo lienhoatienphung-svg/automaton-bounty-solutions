@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T13:33:59.908Z",
-  "latencyMs": 970,
+  "executedAt": "2026-10-19T13:50:18.952Z",
+  "latencyMs": 969,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #759: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #760: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,67 +217,62 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 779,
-      "priceBtc": 2.717225597011735e-7
+      "marketCapRank": 774,
+      "priceBtc": 2.6898175418468397e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 99,
-      "priceBtc": 0.000022529735630731352
+      "priceBtc": 0.0000225711502324537
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 682,
-      "priceBtc": 0.0011745049525545485
+      "marketCapRank": 683,
+      "priceBtc": 0.0011697353611900487
+    },
+    {
+      "name": "Osmosis",
+      "symbol": "OSMO",
+      "marketCapRank": 508,
+      "priceBtc": 7.009779547866957e-7
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 101,
+      "priceBtc": 0.000007331783591014447
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 90,
-      "priceBtc": 0.000022434277823414392
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 103,
-      "priceBtc": 0.0000073050989062489555
-    },
-    {
-      "name": "Osmosis",
-      "symbol": "OSMO",
-      "marketCapRank": 504,
-      "priceBtc": 6.996888081708291e-7
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 88,
-      "priceBtc": 0.000009502992497259287
+      "priceBtc": 0.000022344655764952012
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.217638770689736e-8
+      "priceBtc": 9.215224239089487e-8
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 120,
+      "priceBtc": 7.091653619745216e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
-      "url": "https://github.com/Dillen198/bfnext/pull/1",
-      "createdAt": "2026-01-19T07:41:07Z"
+      "title": "feat!: drop census publishing and anonymous/ZK voting (vochain-sequencer target)",
+      "url": "https://github.com/vocdoni/vocdoni-sdk/pull/460",
+      "createdAt": "2026-10-19T09:16:33Z"
     },
     {
-      "title": "feat(mcp): add jaw_read_contracts on every JAW chain",
-      "url": "https://github.com/JustaLab-co/jaw-mono/pull/495",
-      "createdAt": "2026-10-19T12:50:40Z"
-    },
-    {
-      "title": "test: node-recorded transaction fixtures, end-to-end suite and Node 18-24 CI",
-      "url": "https://github.com/Entropy-Foundation/supra-ts-sdk/pull/18",
-      "createdAt": "2026-10-19T10:39:17Z"
+      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
+      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
+      "createdAt": "2026-10-18T07:37:42Z"
     },
     {
       "title": "feat!: refuse SUPRA FA transfers the fungible store cannot cover; add migrateCoinToFungibleStore and getAccountSupraBalance",
@@ -285,14 +280,19 @@
       "createdAt": "2026-10-19T12:22:19Z"
     },
     {
-      "title": "Update dependency lucide-react to v1.59.0",
-      "url": "https://github.com/kylescudder/spooktober/pull/20",
-      "createdAt": "2026-10-18T09:08:58Z"
+      "title": "feat(console): Studio, Console wallets and the console redesign",
+      "url": "https://github.com/ava-labs/builders-hub/pull/4726",
+      "createdAt": "2026-10-08T18:42:09Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "feat!: node message and VM status in API errors, typed errors, timeoutMs and opt-in GET retry",
+      "url": "https://github.com/Entropy-Foundation/supra-ts-sdk/pull/21",
+      "createdAt": "2026-10-19T11:06:36Z"
+    },
+    {
+      "title": "feat!: add Network.DEVNET, enable the faucet on every network and throw on TryLater",
+      "url": "https://github.com/Entropy-Foundation/supra-ts-sdk/pull/19",
+      "createdAt": "2026-10-19T10:49:27Z"
     }
   ]
 }
