@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T19:03:34.810Z",
-  "latencyMs": 1643,
+  "executedAt": "2026-10-19T19:06:03.505Z",
+  "latencyMs": 878,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #792: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #793: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "FhTRVAkQeiaLRJHYc13DBNhgw9N8ZPacvonaKfXxpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Momo is a catwifmotion",
+      "url": "https://dexscreener.com/solana/fhtrvakqeialrjhyc13dbnhgw9n8zpacvonakfxxpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "8CYyivwMZPg6Edaofxo3eHiveZkDrU6TtUDwtMjTpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Fees to charity",
+      "url": "https://dexscreener.com/solana/8cyyivwmzpg6edaofxo3ehivezkdru6ttudwtmjtpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HQgMPJbGctpP9P27DdJW5f8rncz7gvg4vEL3hT7hpump",
       "boostAmount": 50,
       "totalBoostAmount": 50,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 60,
       "description": "More than just a feeling & the season is just beginning.",
       "url": "https://dexscreener.com/robinhood/0xeb5e4f655eee663a01419bec7dd74b5ee45b5f67"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x6D8933Adb13d3e776085D0D483ea55CA82E7F376",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "$DACITY, the in-game GTA 6 currency 🏁",
-      "url": "https://dexscreener.com/robinhood/0x6d8933adb13d3e776085d0d483ea55ca82e7f376"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3qSd27nb3zyRmqbhLzH4PdeYcADqeLtjgYy2Fp4Apump",
-      "boostAmount": 10,
-      "totalBoostAmount": 130,
-      "description": "🐕🚀 ELONDOG — A NEW ADVENTURE BEGINS.\n\nA fearless cyber Doge. A Cybertruck. One destination: MARS. 🔴\n\nInspired by Elon’s futuristic universe and Doge’s legend",
-      "url": "https://dexscreener.com/solana/3qsd27nb3zyrmqbhlzh4pdeycadqeltjgyy2fp4apump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,24 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Label amounts too small for six decimals as a threshold",
-      "url": "https://github.com/hemilabs/ui-monorepo/pull/2500",
-      "createdAt": "2026-10-19T14:34:44Z"
+      "title": "Codex/kairos devnet product flows",
+      "url": "https://github.com/HA2345567/Kairos/pull/2",
+      "createdAt": "2026-10-19T18:45:28Z"
     },
     {
-      "title": "fix: require real identity proof on High/Critical routes",
-      "url": "https://github.com/EmpowerTours/fcempowertours/pull/6",
-      "createdAt": "2026-10-18T14:50:54Z"
-    },
-    {
-      "title": "docs(accounts): rewrite Tempo Accounts around configurable accounts and access keys",
-      "url": "https://github.com/tempoxyz/docs/pull/981",
-      "createdAt": "2026-10-14T03:31:42Z"
-    },
-    {
-      "title": "No route for a visitor to get gas, and the app cannot point at one",
-      "url": "https://github.com/safixlabs/safix-app/issues/1",
-      "createdAt": "2026-09-22T12:25:58Z"
+      "title": "Add speculative-decoder-discovery task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/49",
+      "createdAt": "2026-10-05T14:46:37Z"
     },
     {
       "title": "feat(validator): initialize 1Password identities for sync-only startup",
@@ -290,9 +280,19 @@
       "createdAt": "2026-10-19T18:41:36Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "data(filecoin): list Calibration DataCap faucet",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4064",
+      "createdAt": "2026-10-01T10:06:49Z"
+    },
+    {
+      "title": "V2 begins: the living-light interface prototype and the plan for bundles, memories, any-NFT trading, NFT launches beside the coin launchpad,",
+      "url": "https://github.com/venividis/Special/pull/6",
+      "createdAt": "2026-10-19T04:09:42Z"
+    },
+    {
+      "title": "Label amounts too small for six decimals as a threshold",
+      "url": "https://github.com/hemilabs/ui-monorepo/pull/2500",
+      "createdAt": "2026-10-19T14:34:44Z"
     }
   ]
 }
