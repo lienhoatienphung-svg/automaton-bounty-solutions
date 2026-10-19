@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T11:46:41.781Z",
-  "latencyMs": 418,
+  "executedAt": "2026-10-19T12:01:12.001Z",
+  "latencyMs": 278,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #742: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Growth & Sales Sprint #744: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52810527,
+    "liveBlockNumber": 52810962,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459028,
-    "baseMainnetTopPoolsVolume24hUsd": 97290,
+    "baseMainnetTopPoolsVolume24hUsd": 95154,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Dbz3NpeVgH3mg2yVkRGzKUb3cpMXn2JhfRNMDzd5vaUU",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/dbz3npevgh3mg2yvkrgzkub3cpmxn2jhfrnmdzd5vauu"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "86sf1fnEu5g3Lhsg4F1pHJEtaRwszUZosU2e2PU7E5ar",
+        "description": "$Pepe turned into a pumpkin. \n\nMeet $PUMPE, the spookiest frog on the blockchain. \n\nHalloween hits different when $Pepe wears a pumpkin.",
+        "url": "https://dexscreener.com/solana/86sf1fneu5g3lhsg4f1phjetarwszuzosu2e2pu7e5ar"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2rLuDEBwuXM6cBAQnK2bjFYXfsUozYwXsFSmA3Eupump",
@@ -69,18 +81,6 @@
         "tokenAddress": "5qStJjpzRNzEqZjZFjsFmFKF7aykYhBHx6VYjTxspump",
         "description": "🎤 KAIDA, the AI singer\n\nKaida is an invented AI pop star by DJ SHO974: copper hair, a white robotic arm and a choker with a small blue light. She sings about A",
         "url": "https://dexscreener.com/solana/5qstjjpzrnzeqzjzfjsfmfkf7aykyhbhx6vyjtxspump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xB1077b7e83be572DE3CB32b2543109ad28bD1111",
-        "description": "literally just a dog with a torch.",
-        "url": "https://dexscreener.com/robinhood/0xb1077b7e83be572de3cb32b2543109ad28bd1111"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x28085A3e9C246c54aC5b045064b0421b8a3AcA84",
-        "description": "a white cat with blue eyes sitting on a couch.",
-        "url": "https://dexscreener.com/robinhood/0x28085a3e9c246c54ac5b045064b0421b8a3aca84"
       }
     ]
   },
