@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T14:56:06.525Z",
-  "latencyMs": 419,
+  "executedAt": "2026-10-19T14:58:38.527Z",
+  "latencyMs": 292,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #762: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #763: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52816209,
+    "liveBlockNumber": 52816285,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,13 +31,25 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 442788,
-    "baseMainnetTopPoolsVolume24hUsd": 91831,
+    "baseMainnetTopPoolsVolume24hUsd": 91821,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
       {
         "chainId": "solana",
+        "tokenAddress": "DUcYuDof7Nnt2vpqHQA8dbz4kf524fDf8iAdQmsUpump",
+        "description": "broom cat",
+        "url": "https://dexscreener.com/solana/ducyudof7nnt2vpqhqa8dbz4kf524fdf8iadqmsupump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x513EE676783737Cdf0562a824322aE082c52B8C1",
+        "description": "IONI VOLT is a decentralized physical infrastructure network (DePIN) built on the BNB Smart Chain, designed to integrate residential solar energy systems and sm",
+        "url": "https://dexscreener.com/bsc/0x513ee676783737cdf0562a824322ae082c52b8c1"
+      },
+      {
+        "chainId": "solana",
         "tokenAddress": "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump",
-        "description": "just a worthless coin",
+        "description": "a worthless coin giving you Bitcoin",
         "url": "https://dexscreener.com/solana/87sexkpmbeoryaqfqqnq1yq6muvjenzhifgxjbrjpump"
       },
       {
@@ -69,18 +81,6 @@
         "tokenAddress": "xxxFjucFL4vosEQyzXx3FNPMKef7uxwf1AHvYGnaBTC",
         "description": "Rewards that you don't want the wife and kids to know about. 1.5% transaction fees, distributed to holders in Big Titty Coin.\n\nThe xxx/BTC pairing that Ansem wa",
         "url": "https://dexscreener.com/solana/xxxfjucfl4voseqyzxx3fnpmkef7uxwf1ahvygnabtc"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8FLYbKoYPyLr2Cfwx3WVtMCJfe2fnZHwCMDXYMsqpump",
-        "description": "AAAA",
-        "url": "https://dexscreener.com/solana/8flybkoypylr2cfwx3wvtmcjfe2fnzhwcmdxymsqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "628Lno9MF8QsMFE98JKgQPEFs4a3NC4mHu8fCdZ7pump",
-        "description": "Ten Tokens, One Ticker. The Index of @Solana",
-        "url": "https://dexscreener.com/solana/628lno9mf8qsmfe98jkgqpefs4a3nc4mhu8fcdz7pump"
       }
     ]
   },
