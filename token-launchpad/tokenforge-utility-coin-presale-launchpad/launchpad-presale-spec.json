@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T13:21:29.898Z",
-  "latencyMs": 259,
+  "executedAt": "2026-10-19T13:38:17.015Z",
+  "latencyMs": 1161,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #753: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #754: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52813371,
+    "liveBlockNumber": 52813874,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 450399,
-    "baseMainnetTopPoolsVolume24hUsd": 95612,
+    "baseMainnetTopPoolsLiquidityUsd": 442792,
+    "baseMainnetTopPoolsVolume24hUsd": 90372,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8Lt2h83EV5g1qNsTKHfBEZEGMkFZ28cMC97TUC1Ypump",
+        "description": "Eternal Star We Hope So",
+        "url": "https://dexscreener.com/solana/8lt2h83ev5g1qnstkhfbezegmkfz28cmc97tuc1ypump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "nDW9BXkBLZobxLJs72cHdjgFVZoQFP6n1naBF1Cpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/ndw9bxkblzobxljs72chdjgfvzoqfp6n1nabf1cpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "32nVEFBt3oTfoM9K3qU7FWfLoH9gibNPasibJvoGpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x9b3BEbCeab5121dc9f3a5521fB8d13a92F084Dc3",
         "description": "France. A father defends his shop. His only source of income to feed his wife and children. They mock him. They beat him. They destroy everything. These are not",
         "url": "https://dexscreener.com/robinhood/0x9b3bebceab5121dc9f3a5521fb8d13a92f084dc3"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8SjTB8B6r9Vz4oVqWQ5jr6AggZCkWaPT1yZe3yaJpump",
-        "description": "Launch coins with @grok on pumpfun. Direct creator fees to your wallet or token holders. Built on solana",
-        "url": "https://dexscreener.com/solana/8sjtb8b6r9vz4ovqwq5jr6aggzckwapt1yze3yajpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GN3cC9mB4hMV6STdPL9jSgD88XqCWi5NCFgxbXy4pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/gn3cc9mb4hmv6stdpl9jsgd88xqcwi5ncfgxbxy4pump"
       }
     ]
   },
