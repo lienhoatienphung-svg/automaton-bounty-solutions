@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T22:11:45.493Z",
-  "latencyMs": 271,
+  "executedAt": "2026-10-19T22:13:46.811Z",
+  "latencyMs": 353,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #808: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #809: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52829279,
+    "liveBlockNumber": 52829339,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440983,
-    "baseMainnetTopPoolsVolume24hUsd": 105057,
+    "baseMainnetTopPoolsVolume24hUsd": 105055,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3mP7uyUpxozTazybGm1qqv8BmhQ2TJ2zSsAnsJUnpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/3mp7uyupxoztazybgm1qqv8bmhq2tj2zssansjunpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9iXb4q1x6GRbrLRs97uVocYrSLDtNAxfXXjfFrpKpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x0FB270B7cdb6Bad86FbF5AabCEdc2C1471Ce5014",
         "description": "Ned is the flyest fly on chain",
         "url": "https://dexscreener.com/robinhood/0x0fb270b7cdb6bad86fbf5aabcedc2c1471ce5014"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FoENFLfRm5Ek4woCtWWmsbhXWBSdzGqqLGz2nS8Xpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/foenflfrm5ek4woctwwmsbhxwbsdzgqqlgz2ns8xpump"
       }
     ]
   },
