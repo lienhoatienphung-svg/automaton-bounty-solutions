@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T20:17:23.682Z",
-  "latencyMs": 1142,
+  "executedAt": "2026-10-19T20:19:21.102Z",
+  "latencyMs": 1323,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #800: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
+  "workTitle": "Delivery Sprint #801: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
+      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
+      "createdAt": "2026-10-18T07:37:42Z"
+    },
+    {
       "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
       "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
       "createdAt": "2026-10-19T08:06:34Z"
+    },
+    {
+      "title": "fix(harnesses): grade Harbor cells from Harbor's result.json",
+      "url": "https://github.com/intel/dokimi/pull/111",
+      "createdAt": "2026-10-19T04:55:47Z"
     },
     {
       "title": "[testnet] requestFaucet() always 403s on the public testnet — undocumented dev-only endpoint",
@@ -283,16 +293,6 @@
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "deps(web): bump the minor-patch group across 1 directory with 12 updates",
-      "url": "https://github.com/SupportingBasesOfficial/JLMirror/pull/54",
-      "createdAt": "2026-09-28T20:16:16Z"
-    },
-    {
-      "title": "Add agent-safety-monitor-training task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/29",
-      "createdAt": "2026-09-27T04:59:36Z"
     }
   ]
 }
