@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T23:07:56.973Z",
-  "latencyMs": 451,
+  "executedAt": "2026-10-19T23:10:11.932Z",
+  "latencyMs": 359,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #814: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #815: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52830964,
+    "liveBlockNumber": 52831032,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440986,
-    "baseMainnetTopPoolsVolume24hUsd": 102070,
+    "baseMainnetTopPoolsVolume24hUsd": 102062,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GU8a1Uw8Bo9dMgrhJpeKtKjA8oWNzLLYQ2VS6bXUX8FG",
+        "description": "Trading fees. Real collectibles.\n\nLaunchpad turning creator fees into holder pack rips via \n@Pumpfun\n’s new Packs API.",
+        "url": "https://dexscreener.com/solana/gu8a1uw8bo9dmgrhjpektkja8ownzllyq2vs6bxux8fg"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4tmqPf4ZxNtA8X67KRg42ujC8M79ggZYx7iSG6Vppump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4tmqpf4zxnta8x67krg42ujc8m79ggzyx7isg6vppump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7SKFHMEC2xgwdVUiDVWEvb5Lq2pQn5DGELrVNimDpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x23A24c320D5257775D4e6FBB95D36D11BfC31111",
         "description": "$GLAD \n\nIt all begins with an encounter.\n\nThe meeting of a Man and the One who wields the power of the $TORCH.\n\nYou have just witnessed the birth of a Giga.\n\nGi",
         "url": "https://dexscreener.com/robinhood/0x23a24c320d5257775d4e6fbb95d36d11bfc31111"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8PeWSC8WFAyvFUHFAhRpVT2bajFsvVqb4EVL1ihJpump",
-        "description": "Let AI handle your job search.",
-        "url": "https://dexscreener.com/solana/8pewsc8wfayvfuhfahrpvt2bajfsvvqb4evl1ihjpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ESnW5ZbLmoEAg2QEMxnMsY9R3aS8Kw58HJacYURmpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/esnw5zblmoeag2qemxnmsy9r3as8kw58hjacyurmpump"
       }
     ]
   },
