@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T21:30:22.287Z",
-  "latencyMs": 10016,
+  "executedAt": "2026-10-19T21:46:49.141Z",
+  "latencyMs": 902,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #787: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #788: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "fix(cert): persist exact-row baseline flake advisories",
+          "url": "https://github.com/ai-ecoverse/slicc-cdp/pull/398",
+          "repositoryUrl": "https://api.github.com/repos/ai-ecoverse/slicc-cdp",
+          "updatedAt": "2026-10-19T21:46:46Z"
+        },
+        {
+          "title": "RC11 integrated: runtime policy, Worker assurance and diagnostics — code review gate",
+          "url": "https://github.com/DigiLogicTech/OnePane/pull/227",
+          "repositoryUrl": "https://api.github.com/repos/DigiLogicTech/OnePane",
+          "updatedAt": "2026-10-19T21:46:45Z"
+        },
+        {
+          "title": "Document how pairing relates to RFC 8628 and invites",
+          "url": "https://github.com/radiosilence/koan/pull/1379",
+          "repositoryUrl": "https://api.github.com/repos/radiosilence/koan",
+          "updatedAt": "2026-10-19T21:46:44Z"
+        },
+        {
+          "title": "feat(assistant): per-Market buyer assistant settings (package 2)",
+          "url": "https://github.com/Mondapac/mondapac-marketplace-platform/pull/429",
+          "repositoryUrl": "https://api.github.com/repos/Mondapac/mondapac-marketplace-platform",
+          "updatedAt": "2026-10-19T21:46:43Z"
+        },
+        {
+          "title": "Build Selling operations with native intelligence and guarded visual execution",
+          "url": "https://github.com/sowmum93dotcom/restaurant-ai-learning/pull/708",
+          "repositoryUrl": "https://api.github.com/repos/sowmum93dotcom/restaurant-ai-learning",
+          "updatedAt": "2026-10-19T21:46:45Z"
+        },
+        {
+          "title": "Pi extension: /cred commands, agent tools, and output redaction",
+          "url": "https://github.com/OwaisQuadri/pi-credentials/pull/3",
+          "repositoryUrl": "https://api.github.com/repos/OwaisQuadri/pi-credentials",
+          "updatedAt": "2026-10-19T21:46:42Z"
+        },
+        {
+          "title": "feat(heat): nightly shadow digest — table + generator (fresh PR off main)",
+          "url": "https://github.com/Fredocabroni/diktat/pull/265",
+          "repositoryUrl": "https://api.github.com/repos/Fredocabroni/diktat",
+          "updatedAt": "2026-10-19T21:46:42Z"
+        },
+        {
+          "title": "tree: name a copyright holder in every file added since the migration",
+          "url": "https://github.com/xymon-monitoring/xymon/pull/520",
+          "repositoryUrl": "https://api.github.com/repos/xymon-monitoring/xymon",
+          "updatedAt": "2026-10-19T21:46:42Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
