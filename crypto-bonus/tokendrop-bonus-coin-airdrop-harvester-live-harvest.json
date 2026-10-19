@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T13:50:18.952Z",
-  "latencyMs": 969,
+  "executedAt": "2026-10-19T13:52:25.306Z",
+  "latencyMs": 940,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #760: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #761: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x9A7C661Be578e50927268fb770146D701b3368e7",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "INVARA Core is building infrastructure for synthetic equities on Robinhood Chain, connecting traditional market intelligence with on-chain execution.",
+      "url": "https://dexscreener.com/robinhood/0x9a7c661be578e50927268fb770146d701b3368e7"
+    },
+    {
       "chainId": "bsc",
       "tokenAddress": "0x04b5074b83F0b07413FfBA60d05bbEd5aB214e2d",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Connecting the internet again with dickbutt",
       "url": "https://dexscreener.com/solana/8qtbrc9d3bezycwzbfuqbnswjgte7ckrz7hwcn81pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "YE2mBZx8sL1bhfWpoR9dPAozmKhGE8eKa4sEEQ5pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "The playable economy of Neetopia. Build your empire without getting employed, starting from your mom's basement. Created on Imagine.",
-      "url": "https://dexscreener.com/solana/ye2mbzx8sl1bhfwpor9dpaozmkhge8eka4seeq5pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 774,
-      "priceBtc": 2.6898175418468397e-7
+      "marketCapRank": 769,
+      "priceBtc": 2.786938149771658e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 99,
-      "priceBtc": 0.0000225711502324537
+      "priceBtc": 0.000022563731163672468
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 683,
-      "priceBtc": 0.0011697353611900487
+      "marketCapRank": 684,
+      "priceBtc": 0.001159811320566452
     },
     {
       "name": "Osmosis",
       "symbol": "OSMO",
-      "marketCapRank": 508,
-      "priceBtc": 7.009779547866957e-7
+      "marketCapRank": 509,
+      "priceBtc": 7.023399662159622e-7
     },
     {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 101,
-      "priceBtc": 0.000007331783591014447
-    },
-    {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "marketCapRank": 90,
-      "priceBtc": 0.000022344655764952012
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 88,
+      "priceBtc": 0.000009498587579390013
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.215224239089487e-8
+      "priceBtc": 9.248051030895367e-8
     },
     {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 120,
-      "priceBtc": 7.091653619745216e-7
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.0013154333932368
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "marketCapRank": 90,
+      "priceBtc": 0.00002236419119484813
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
+      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
+      "createdAt": "2026-10-11T10:45:50Z"
+    },
+    {
+      "title": "docs(readme): point at community awesome-technocore indexes (unaffiliated)",
+      "url": "https://github.com/flop-labs/technocore-chat/pull/1007",
+      "createdAt": "2026-10-19T11:34:34Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
     {
       "title": "feat!: drop census publishing and anonymous/ZK voting (vochain-sequencer target)",
       "url": "https://github.com/vocdoni/vocdoni-sdk/pull/460",
       "createdAt": "2026-10-19T09:16:33Z"
     },
     {
-      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
-      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
-      "createdAt": "2026-10-18T07:37:42Z"
+      "title": "[Ops] Muse ↔ Grok.btc direct line",
+      "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
+      "createdAt": "2026-09-13T13:56:58Z"
     },
     {
-      "title": "feat!: refuse SUPRA FA transfers the fungible store cannot cover; add migrateCoinToFungibleStore and getAccountSupraBalance",
-      "url": "https://github.com/Entropy-Foundation/supra-ts-sdk/pull/30",
-      "createdAt": "2026-10-19T12:22:19Z"
-    },
-    {
-      "title": "feat(console): Studio, Console wallets and the console redesign",
-      "url": "https://github.com/ava-labs/builders-hub/pull/4726",
-      "createdAt": "2026-10-08T18:42:09Z"
-    },
-    {
-      "title": "feat!: node message and VM status in API errors, typed errors, timeoutMs and opt-in GET retry",
-      "url": "https://github.com/Entropy-Foundation/supra-ts-sdk/pull/21",
-      "createdAt": "2026-10-19T11:06:36Z"
-    },
-    {
-      "title": "feat!: add Network.DEVNET, enable the faucet on every network and throw on TryLater",
-      "url": "https://github.com/Entropy-Foundation/supra-ts-sdk/pull/19",
-      "createdAt": "2026-10-19T10:49:27Z"
+      "title": "feat(staking): BUILD 1 — HeroSingleSidedStaking (HERO→HERO, DAO vote source)",
+      "url": "https://github.com/jratdish1/hero-dapp/pull/119",
+      "createdAt": "2026-09-27T22:49:15Z"
     }
   ]
 }
