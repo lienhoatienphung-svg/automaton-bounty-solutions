@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T15:14:04.143Z",
-  "latencyMs": 505,
+  "executedAt": "2026-10-19T15:16:40.074Z",
+  "latencyMs": 1016,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #768: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #769: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "FQJ79arbfYH8ojR6iWrsw2wesgUv7rXAvFaD5mTgpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "The AI is getting smarter. The memes are getting dumber. 🐘🧠",
+      "url": "https://dexscreener.com/solana/fqj79arbfyh8ojr6iwrsw2wesguv7rxavfad5mtgpump"
+    },
+    {
       "chainId": "bsc",
       "tokenAddress": "0x7AB8d02CBb51Ff7223fDe700eAaa2a91Bf750314",
       "boostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "viral meme. 10M+ views. we’re all texcat.\neverything is fine.™",
       "url": "https://dexscreener.com/solana/bdxflfcbde8yvpbvvmmgtduqcdesaqvum5xlxguc2s5t"
-    },
-    {
-      "chainId": "bsc",
-      "tokenAddress": "0x04b5074b83F0b07413FfBA60d05bbEd5aB214e2d",
-      "boostAmount": 30,
-      "totalBoostAmount": 40,
-      "description": "Meet 首席萌宠官 (Monkey) — the cutest companion in the crypto jungle! With a playful spirit and a mission to bring joy, this token is all about fun and community vib",
-      "url": "https://dexscreener.com/bsc/0x04b5074b83f0b07413ffba60d05bbed5ab214e2d"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -263,5 +263,36 @@
       "priceBtc": 7.086028699778838e-7
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "[grafana] Unify sync and async RL runs on one RL Post-training board",
+      "url": "https://github.com/marin-community/marin/pull/9715",
+      "createdAt": "2026-10-03T05:36:05Z"
+    },
+    {
+      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
+      "url": "https://github.com/Open-Athena/biotasks/issues/21",
+      "createdAt": "2026-10-16T20:07:24Z"
+    },
+    {
+      "title": "【No.3】feat(inference): Unified Inference Service",
+      "url": "https://github.com/redai-studio/Relax/pull/381",
+      "createdAt": "2026-09-26T10:27:20Z"
+    },
+    {
+      "title": "fix(grpo): verify environmental learning and saved-tokenizer lineage",
+      "url": "https://github.com/virajchoudhary/AtlasOps/pull/226",
+      "createdAt": "2026-10-19T13:26:28Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "Muon/Pion updates on FSDP2-sharded grads give inf or 0 (torch 2.6–2.8)",
+      "url": "https://github.com/OPTML-Group/Pion/issues/4",
+      "createdAt": "2026-10-18T11:52:17Z"
+    }
+  ]
 }
