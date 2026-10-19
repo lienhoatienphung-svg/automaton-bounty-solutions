@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T03:25:17.415Z",
-  "latencyMs": 1265,
+  "executedAt": "2026-10-19T03:27:33.234Z",
+  "latencyMs": 1210,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #720: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #721: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "feat: isolate Auth and Academic data and harden reports and monitoring",
+          "url": "https://github.com/DITEKmax/rutcampustrack/pull/2",
+          "repositoryUrl": "https://api.github.com/repos/DITEKmax/rutcampustrack",
+          "updatedAt": "2026-10-19T03:27:27Z"
+        },
+        {
+          "title": "[bamboo] epic: global supervisor sessions and file-backed context coordination",
+          "url": "https://github.com/bigduu/Bamboo-agent/issues/1048",
+          "repositoryUrl": "https://api.github.com/repos/bigduu/Bamboo-agent",
+          "updatedAt": "2026-10-19T03:27:26Z"
+        },
+        {
+          "title": "Checkpoint scrub masks vault secrets delivered to the job; canary scan opens base64 gzip (part of #1957)",
+          "url": "https://github.com/henningfutrell/hopper/pull/2026",
+          "repositoryUrl": "https://api.github.com/repos/henningfutrell/hopper",
+          "updatedAt": "2026-10-19T03:27:26Z"
+        },
+        {
+          "title": "fix(content): hide unreadable documents from media references",
+          "url": "https://github.com/vite-hub/vitehub/pull/2438",
+          "repositoryUrl": "https://api.github.com/repos/vite-hub/vitehub",
+          "updatedAt": "2026-10-19T03:27:26Z"
+        },
+        {
+          "title": "Show full replies and revision-bound changes in the AI workspace",
+          "url": "https://github.com/taskqorg/taskq/issues/1122",
+          "repositoryUrl": "https://api.github.com/repos/taskqorg/taskq",
+          "updatedAt": "2026-10-19T03:27:25Z"
+        },
+        {
+          "title": "Local Daytona sandbox manager with personal Codex connections and nested development tests",
+          "url": "https://github.com/vishaltandale00/gameverse.ai/issues/21",
+          "repositoryUrl": "https://api.github.com/repos/vishaltandale00/gameverse.ai",
+          "updatedAt": "2026-10-19T03:27:25Z"
+        },
+        {
+          "title": "fix(feeds): keep every relay removal ID discoverable at capacity",
+          "url": "https://github.com/TogetherWeOwn/two-bot-next/pull/1167",
+          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/two-bot-next",
+          "updatedAt": "2026-10-19T03:27:25Z"
+        },
+        {
+          "title": "ci: bump the actions group across 1 directory with 6 updates",
+          "url": "https://github.com/The-Billy-Company/blast/pull/17",
+          "repositoryUrl": "https://api.github.com/repos/The-Billy-Company/blast",
+          "updatedAt": "2026-10-19T03:27:28Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
