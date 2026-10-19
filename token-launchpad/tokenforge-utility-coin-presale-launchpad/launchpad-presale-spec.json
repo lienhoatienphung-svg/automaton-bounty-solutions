@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T12:40:14.774Z",
-  "latencyMs": 1119,
+  "executedAt": "2026-10-19T12:42:33.272Z",
+  "latencyMs": 339,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #748: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #749: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52812133,
+    "liveBlockNumber": 52812203,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 450404,
-    "baseMainnetTopPoolsVolume24hUsd": 95242,
+    "baseMainnetTopPoolsVolume24hUsd": 95341,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8dxJpPDmw6UEsfHVQuTEy4kfcEJKV15cF89fVKBEpump",
+        "description": "the blocky shooter you played at school. now it pays",
+        "url": "https://dexscreener.com/solana/8dxjppdmw6uesfhvqutey4kfcejkv15cf89fvkbepump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4ZGMwBBcia2LqmpG2DLHSrQHNqMcWHzk3fGXaF7xpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "5HxgBCs8RDmU3Y4t51XvBJ346YaNwjRNiS54vRQpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/5hxgbcs8rdmu3y4t51xvbj346yanwjrnis54vrqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Ee1b5t49HGvjB4CkxTWrWAcbXHhRyYi6nw3A96Gapump",
-        "description": "RWAs are Wall Street's trillion-dollar future, an asset class built on top of what they once considered \"Worthless\".",
-        "url": "https://dexscreener.com/solana/ee1b5t49hgvjb4ckxtwrwacbxhhryyi6nw3a96gapump"
       }
     ]
   },
