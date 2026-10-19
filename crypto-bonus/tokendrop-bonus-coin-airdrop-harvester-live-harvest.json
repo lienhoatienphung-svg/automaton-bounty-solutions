@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T13:12:43.434Z",
-  "latencyMs": 931,
+  "executedAt": "2026-10-19T13:14:54.818Z",
+  "latencyMs": 1115,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #756: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #757: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "docs: add proposal lifecycle walkthrough and demo placeholder (#97)",
-      "url": "https://github.com/mercyJJ/cosmosvote/pull/337",
-      "createdAt": "2026-10-19T13:12:06Z"
+      "title": "Add Agent ChatUI on the main agent page",
+      "url": "https://github.com/valory-xyz/optimus/pull/398",
+      "createdAt": "2026-10-16T18:58:14Z"
     },
     {
-      "title": "feat: pre-commit hooks and order cancellation dialog",
-      "url": "https://github.com/SO4-Markets/interface/pull/1005",
-      "createdAt": "2026-10-19T13:11:56Z"
+      "title": "chore: enable database features only in the respective connectors",
+      "url": "https://github.com/faucet-hq/faucet-stream/pull/901",
+      "createdAt": "2026-10-15T14:38:26Z"
+    },
+    {
+      "title": "Fix Avalanche Fuji QuickNode claim requirements and Somnia testnet faucet",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4669",
+      "createdAt": "2026-10-19T12:15:07Z"
     },
     {
       "title": "feat(sim): a node run drawn from its seed, through chaos, then healed (D27)",
@@ -280,19 +285,14 @@
       "createdAt": "2026-10-19T12:42:08Z"
     },
     {
-      "title": "feat(faucet): emit an event when settings change",
-      "url": "https://github.com/Godgift-care/sci-healthcare-contracts/issues/62",
-      "createdAt": "2026-10-12T21:18:42Z"
+      "title": "feat(products): fundtest, a Paseo funding provider the testnet apps bundle",
+      "url": "https://github.com/paritytech/trinity-user-agents/pull/1402",
+      "createdAt": "2026-10-14T08:11:56Z"
     },
     {
-      "title": "feat(faucet): pause without giving up the token admin",
-      "url": "https://github.com/Godgift-care/sci-healthcare-contracts/issues/61",
-      "createdAt": "2026-10-12T21:18:35Z"
-    },
-    {
-      "title": "Contracts: Add a batch transfer fixture contract for testing multi-recipient sends",
-      "url": "https://github.com/Ibinola/soroban-dev-console/issues/1255",
-      "createdAt": "2026-10-15T14:51:35Z"
+      "title": "CHORE: Version packages",
+      "url": "https://github.com/4thtech/agentlink/pull/264",
+      "createdAt": "2026-10-18T18:17:25Z"
     }
   ]
 }
