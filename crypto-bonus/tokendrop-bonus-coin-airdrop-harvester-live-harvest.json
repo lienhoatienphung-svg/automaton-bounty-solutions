@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T11:39:53.393Z",
-  "latencyMs": 871,
+  "executedAt": "2026-10-19T11:42:20.159Z",
+  "latencyMs": 987,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #746: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #747: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 873,
-      "priceBtc": 2.2563365993055993e-7
+      "marketCapRank": 841,
+      "priceBtc": 2.3468788614322872e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 99,
-      "priceBtc": 0.000022490414844144567
-    },
-    {
-      "name": "Quack AI",
-      "symbol": "Q",
-      "marketCapRank": 102,
-      "priceBtc": 0.0000015349199523005064
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.078700993946998e-8
+      "priceBtc": 0.000022517061576222407
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9996258531037893
+      "priceBtc": 1.0007015572250102
+    },
+    {
+      "name": "Quack AI",
+      "symbol": "Q",
+      "marketCapRank": 101,
+      "priceBtc": 0.0000015384475214361551
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.089792137027364e-8
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006034289582654467
+      "priceBtc": 0.000060238420991837286
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 660,
-      "priceBtc": 0.0012232031175344069
+      "marketCapRank": 658,
+      "priceBtc": 0.001224218968428647
     },
     {
-      "name": "Osmosis",
-      "symbol": "OSMO",
-      "marketCapRank": 511,
-      "priceBtc": 6.923837407548123e-7
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "marketCapRank": 51,
+      "priceBtc": 0.000006074642637777371
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "chore(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/allanice001/asm/pull/203",
+      "createdAt": "2026-03-31T16:45:51Z"
+    },
+    {
+      "title": "chore(hosts): remove the Meld on-ramp and the Android fund module",
+      "url": "https://github.com/paritytech/trinity-user-agents/pull/1332",
+      "createdAt": "2026-10-08T09:06:25Z"
+    },
+    {
+      "title": "docs(validators): v0.6 release update: drop Asimov, Bradbury phase 2, Python 3.10+",
+      "url": "https://github.com/genlayerlabs/genlayer-docs/pull/705",
+      "createdAt": "2026-10-19T11:22:28Z"
+    },
+    {
+      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
+      "url": "https://github.com/jsboige/CoursIA/pull/20377",
+      "createdAt": "2026-10-11T14:10:17Z"
+    },
     {
       "title": "DOCS: status pass and follow-up cards (2026-10-19 c)",
       "url": "https://github.com/4thtech/agentlink/pull/303",
       "createdAt": "2026-10-19T11:39:46Z"
     },
     {
-      "title": "chore: bump NanoBot submodule and refresh command stats",
-      "url": "https://github.com/therealjustsnow/portfolio-/pull/40",
-      "createdAt": "2026-07-15T07:52:16Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1.58.0",
-      "url": "https://github.com/thinceller/thinceller.net/pull/1420",
-      "createdAt": "2026-09-12T01:45:33Z"
-    },
-    {
-      "title": "Add Merkle portfolio metadata with explicit protocol scope",
-      "url": "https://github.com/symbioticfi/metadata-validation-scripts/pull/61",
-      "createdAt": "2026-10-11T13:04:56Z"
-    },
-    {
-      "title": "feat: add APEX-SQL exploration strategy with ToolLoopAgent",
-      "url": "https://github.com/antvis/AVA/pull/1030",
-      "createdAt": "2026-10-19T11:38:30Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "fix(docker): include pinned rialo CLI 0.18.1",
+      "url": "https://github.com/Mahmoud514/rialo-agentpay/pull/5",
+      "createdAt": "2026-10-19T11:41:14Z"
     }
   ]
 }
