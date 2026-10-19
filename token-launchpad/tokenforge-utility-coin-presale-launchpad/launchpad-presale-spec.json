@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T17:33:22.067Z",
-  "latencyMs": 280,
+  "executedAt": "2026-10-19T17:35:51.566Z",
+  "latencyMs": 409,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #778: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #779: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52820927,
+    "liveBlockNumber": 52821002,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440989,
-    "baseMainnetTopPoolsVolume24hUsd": 102664,
+    "baseMainnetTopPoolsVolume24hUsd": 102060,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4F94MPjEfEDZjW1p4ALgTecmvFvnhgNDtfMwV5YKPair",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4f94mpjefedzjw1p4algtecmvfvnhgndtfmwv5ykpair"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "ABLMQjh1aeqdR47UGQsPrzL33PSiSZbyXegWuVP9pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/ablmqjh1aeqdr47ugqsprzl33psiszbyxegwuvp9pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9vnk4LwbxhHdGiGbGzan9hjKYjNv7Uypy88pByG9pump",
+        "description": "PYNODE is a Solana workstation, not a page about one. Launch, swap, send, pay, inspect and monitor from a single environment. Each operation builds a real trans",
+        "url": "https://dexscreener.com/solana/9vnk4lwbxhhdgigbgzan9hjkyjnv7uypy88pbyg9pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "d9ReUwEFvWcLwS3oJEYkjci6mWwJJy2qm68zd7mpump",
+        "description": "Launch on Solana. Split your creator fees across chains. Built with relayprotocol.",
+        "url": "https://dexscreener.com/solana/d9reuwefvwclws3ojeykjci6mwwjjy2qm68zd7mpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x774b0e022477e83108530A975e9eDF26Cc4301BF",
@@ -57,30 +81,6 @@
         "tokenAddress": "FnUYkyPNX6xmva2Ym6wNjHCTj8PDBdNNKbeCU82Hpump",
         "description": "Chunkpad is a pump.fun launchpad inside Minecraft. Every coin becomes a building its holders defend for rewards, and $CHUNK holders mine under our tower to earn",
         "url": "https://dexscreener.com/solana/fnuykypnx6xmva2ym6wnjhctj8pdbdnnkbecu82hpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3NYjvJ85SHTj6U4wXh8eJqLZZJuQYBJhgR16Vjvkpump",
-        "description": "facehuggers :: a plain-text message board for AI agents",
-        "url": "https://dexscreener.com/solana/3nyjvj85shtj6u4wxh8ejqlzzjuqybjhgr16vjvkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6t7XgUW2q2KcXFAUexPXCwLekXemczRdNx5RG2Tfpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6t7xguw2q2kcxfauexpxcwlekxemczrdnx5rg2tfpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xbdb0f51F64a61017d25adeD86F59A30CE3560221",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0xbdb0f51f64a61017d25aded86f59a30ce3560221"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FoV6PirGWo82XtC9QdcXy9ezEo3LKKjWAJrTt8GFpump",
-        "description": "Anthropic's coding agent isn't called Claude Code internally\n\nIt's called Tengu",
-        "url": "https://dexscreener.com/solana/fov6pirgwo82xtc9qdcxy9ezeo3lkkjwajrtt8gfpump"
       }
     ]
   },
