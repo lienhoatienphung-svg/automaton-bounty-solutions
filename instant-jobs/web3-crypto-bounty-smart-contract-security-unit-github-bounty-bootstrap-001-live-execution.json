@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-19T14:43:02.302Z",
-  "latencyMs": 1083,
+  "executedAt": "2026-10-19T15:01:36.088Z",
+  "latencyMs": 638,
   "companyName": "Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 ",
-  "workTitle": "Delivery Sprint #1257: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
-  "targetUrl": "https://polymarket.com/event/macron-out-in-2025",
+  "workTitle": "Growth & Sales Sprint #1258: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656688,
-        "liquidityUsd": 40487,
+        "liquidityUsd": 41635,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501815,
-        "liquidityUsd": 17614,
+        "liquidityUsd": 18316,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2204944,
-        "liquidityUsd": 67176,
+        "liquidityUsd": 68354,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059857,
-        "liquidityUsd": 236,
+        "liquidityUsd": 255,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1858167,
-        "liquidityUsd": 20568,
+        "liquidityUsd": 19890,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -72,7 +72,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000017,
         "liquidityUsd": 103155,
-        "volume24hUsd": 27836,
+        "volume24hUsd": 27873,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -80,9 +80,9 @@
         "dexId": "alien-base",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000084,
+        "priceUsd": 1.000081,
         "liquidityUsd": 127640,
-        "volume24hUsd": 831,
+        "volume24hUsd": 1020,
         "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
       },
       {
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000049,
-        "liquidityUsd": 21385,
-        "volume24hUsd": 52820,
+        "priceUsd": 1.000038,
+        "liquidityUsd": 21384,
+        "volume24hUsd": 53912,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -120,9 +120,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000048,
+        "priceUsd": 1.000049,
         "liquidityUsd": 12034,
-        "volume24hUsd": 1854,
+        "volume24hUsd": 1845,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
@@ -203,59 +203,57 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Aquadraulic Wassertechnik GmbH",
-        "roleOrTask": "Projektleiter (m/w/d) Anlagen- & Rohrleitungsbau - Wasseraufbereitung",
+        "company": "ADVICON AG",
+        "roleOrTask": "Audit Specialist / Prüfungsassistent (m/w/d)",
         "industryTags": [
-          "Building",
-          "Supply",
-          "Safety Services Engineering"
+          "Auditor"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/aquadraulic-wassertechnik-gmbh/projektleiter-anlagen-rohrleitungsbau-wasseraufbereitung-raesfeld-371542",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/advicon-ag/audit-specialist-prufungsassistent-munich-11605",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Ines Scholz Steuerberatungsgesellschaft",
-        "roleOrTask": "Product Owner mit Erfahrung im Bereich Finanz- und/oder Lohnbuchhaltung (m/w/d)",
+        "company": "Verlag Homöopathie + Symbol",
+        "roleOrTask": "Informatikpraktikum E-Commerce im Verlag () (Front/Backend)",
         "industryTags": [
-          "Product Management"
+          "Web Development"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/ines-scholz-steuerberatungsgesellschaft/product-owner-mit-erfahrung-im-bereich-finanz-und-oder-lohnbuchhaltung-zwickau-296678",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/verlag-homoopathie-symbol/informatikpraktikum-e-commerce-im-verlag-front-backend-berlin-391014",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Severn Consultancy GmbH",
-        "roleOrTask": "Project Manager (m/w/d)",
-        "industryTags": [
-          "Project Management"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/severn-consultancy-gmbh/project-manager-frankfurt-am-main-318902",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Severn Consultancy GmbH",
-        "roleOrTask": "Senior Consultant (m/w/d)",
-        "industryTags": [
-          "Business Consulting"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/severn-consultancy-gmbh/senior-consultant-frankfurt-am-main-469484",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "7NXT GmbH",
-        "roleOrTask": "(Senior) Backend Engineer – Golang",
+        "company": "K-tronik GmbH",
+        "roleOrTask": "Software-Tester (m/w/x)",
         "industryTags": [
           "Software Development"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/senior-backend-engineer-golang-berlin-148997",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/software-tester-erlangen-310339",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "BuildlinX",
+        "roleOrTask": "Werkstudent Gebäudeautomation (m/w/d)",
+        "industryTags": [
+          "Automation Engineering"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/buildlinx/werkstudent-gebaudeautomation-hamburg-88966",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Online-Profession",
+        "roleOrTask": "Junior-Online-Marketing-Consultant (m/w/d)",
+        "industryTags": [
+          "Online Marketing"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/online-profession/junior-online-marketing-consultant-munster-33232",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
