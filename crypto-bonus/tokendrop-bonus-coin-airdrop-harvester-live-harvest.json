@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T15:37:02.958Z",
-  "latencyMs": 1156,
+  "executedAt": "2026-10-19T15:54:44.212Z",
+  "latencyMs": 1551,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #771: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #772: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "DURNeFdg7ws8ZVGrQBstxGeRRECYV9Jn3PLwLkFpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "baguette",
+      "url": "https://dexscreener.com/solana/durnefdg7ws8zvgrqbstxgerrecyv9jn3plwlkfpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "BabyCro is a meme token on Cronos, inspired by the journey of a brave little lion cub growing up in the wild digital jungle. But this isn’t just another meme co",
       "url": "https://dexscreener.com/cronos/0x298f68a497853a6be5d9cb40868d80b435437e1f"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x9A7C661Be578e50927268fb770146D701b3368e7",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "INVARA Core is building infrastructure for synthetic equities on Robinhood Chain, connecting traditional market intelligence with on-chain execution.",
-      "url": "https://dexscreener.com/robinhood/0x9a7c661be578e50927268fb770146d701b3368e7"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 661,
-      "priceBtc": 3.3215663369306723e-7
+      "marketCapRank": 615,
+      "priceBtc": 3.9175097894421616e-7
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 117,
-      "priceBtc": 9.203412591344059e-8
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 97,
-      "priceBtc": 0.000022821646429170762
+      "name": "Boomer",
+      "symbol": "BOOMER",
+      "marketCapRank": 875,
+      "priceBtc": 2.241635628275558e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.000060041713792171416
+      "priceBtc": 0.000059719078913181025
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 683,
-      "priceBtc": 0.001165228250414974
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 97,
+      "priceBtc": 0.0000228874642951829
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 124,
-      "priceBtc": 6.926533269875037e-7
+      "priceBtc": 6.901452822098771e-7
     },
     {
-      "name": "Boomer",
-      "symbol": "BOOMER",
-      "marketCapRank": 822,
-      "priceBtc": 2.514647020806509e-7
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.161773203370274e-8
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.000963282894635456
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 682,
+      "priceBtc": 0.001162332740697311
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9989681220330071
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "# Spike 604 — SQLite to Postgres migration rehearsal with dual-write, parity and rollback",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/468",
-      "createdAt": "2026-10-15T10:36:00Z"
+      "title": "feat(frontend): Implement yield farming and staking rewards for liquidity providers",
+      "url": "https://github.com/Agri-fund/agri-fi/issues/1214",
+      "createdAt": "2026-10-16T05:48:07Z"
     },
     {
-      "title": "# Spike 603 — Vercel preview-env isolation with per-PR contracts, sidecars and data",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/467",
-      "createdAt": "2026-10-15T10:35:35Z"
+      "title": "【No.3】feat(inference): Unified Inference Service",
+      "url": "https://github.com/redai-studio/Relax/pull/381",
+      "createdAt": "2026-09-26T10:27:20Z"
     },
     {
-      "title": "Security hardening batch 1: orderId binding (C1), RPC plane + resource caps (C2/H3), IP spoofing (H1), legacy proxy gating (H2), key hygiene",
-      "url": "https://github.com/tradelayer-wallet/tl-collator/pull/2",
-      "createdAt": "2026-10-13T09:23:38Z"
+      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
+      "url": "https://github.com/Open-Athena/biotasks/issues/21",
+      "createdAt": "2026-10-16T20:07:24Z"
     },
     {
-      "title": "Source watch: official Flop Labs / Technocore sources",
-      "url": "https://github.com/Mariukasfak/flop-evidence-scout/issues/3",
-      "createdAt": "2026-08-25T17:32:43Z"
+      "title": "feat(mainnet): enable the Agglayer ETH bridge from Ethereum (version 3)",
+      "url": "https://github.com/0xMiden/wallet-config/pull/18",
+      "createdAt": "2026-10-19T15:52:49Z"
     },
     {
-      "title": "Cotizador: parámetros desde el Excel de Alex → server, y trabajo a la par Alex/Mikey",
-      "url": "https://github.com/Mikey3003/beebags-deploy/issues/1",
-      "createdAt": "2026-10-15T20:29:24Z"
+      "title": "Plan a bathroom room and a modest furniture pack",
+      "url": "https://github.com/andrewmunruh/kids-house-game/pull/21",
+      "createdAt": "2026-10-19T15:33:19Z"
     },
     {
-      "title": "# Spike 606 — Log pipeline: structured logs to external sink with sampling and redaction",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/470",
-      "createdAt": "2026-10-15T10:37:08Z"
+      "title": "data(filecoin): add Telnyx Cloud Storage",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3285",
+      "createdAt": "2026-08-28T16:10:33Z"
     }
   ]
 }
