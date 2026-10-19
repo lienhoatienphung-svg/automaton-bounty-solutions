@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-19T13:36:17.671Z",
-  "latencyMs": 629,
+  "executedAt": "2026-10-19T13:52:14.761Z",
+  "latencyMs": 1485,
   "companyName": "PayStream x402 Pay-Per-Call AI & Market Intelligence API Gateway",
-  "workTitle": "Delivery Sprint #1331: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
-  "targetUrl": "https://polymarket.com/event/will-any-country-leave-nato-in-2025",
+  "workTitle": "Growth & Sales Sprint #1332: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "targetUrl": "https://polymarket.com/event/ukraine-election-called-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656688,
-        "liquidityUsd": 41663,
+        "liquidityUsd": 41215,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501815,
-        "liquidityUsd": 18354,
+        "liquidityUsd": 17791,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2204944,
-        "liquidityUsd": 69355,
+        "liquidityUsd": 69732,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059857,
-        "liquidityUsd": 242,
+        "liquidityUsd": 238,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1858167,
-        "liquidityUsd": 18500,
+        "liquidityUsd": 17887,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -70,9 +70,9 @@
         "dexId": "quickswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000013,
+        "priceUsd": 1.000016,
         "liquidityUsd": 103155,
-        "volume24hUsd": 28967,
+        "volume24hUsd": 28966,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -82,7 +82,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000084,
         "liquidityUsd": 127640,
-        "volume24hUsd": 837,
+        "volume24hUsd": 834,
         "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
       },
       {
@@ -92,7 +92,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00004,
         "liquidityUsd": 140050,
-        "volume24hUsd": 5233,
+        "volume24hUsd": 5227,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000027,
+        "priceUsd": 1.000031,
         "liquidityUsd": 21384,
-        "volume24hUsd": 51821,
+        "volume24hUsd": 52137,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -122,7 +122,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000048,
         "liquidityUsd": 12034,
-        "volume24hUsd": 1890,
+        "volume24hUsd": 1909,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
@@ -203,6 +203,52 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
+        "company": "Aquadraulic Wassertechnik GmbH",
+        "roleOrTask": "Projektleiter (m/w/d) Anlagen- & Rohrleitungsbau - Wasseraufbereitung",
+        "industryTags": [
+          "Building",
+          "Supply",
+          "Safety Services Engineering"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/aquadraulic-wassertechnik-gmbh/projektleiter-anlagen-rohrleitungsbau-wasseraufbereitung-raesfeld-371542",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Ines Scholz Steuerberatungsgesellschaft",
+        "roleOrTask": "Product Owner mit Erfahrung im Bereich Finanz- und/oder Lohnbuchhaltung (m/w/d)",
+        "industryTags": [
+          "Product Management"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/ines-scholz-steuerberatungsgesellschaft/product-owner-mit-erfahrung-im-bereich-finanz-und-oder-lohnbuchhaltung-zwickau-296678",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Severn Consultancy GmbH",
+        "roleOrTask": "Project Manager (m/w/d)",
+        "industryTags": [
+          "Project Management"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/severn-consultancy-gmbh/project-manager-frankfurt-am-main-318902",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Severn Consultancy GmbH",
+        "roleOrTask": "Senior Consultant (m/w/d)",
+        "industryTags": [
+          "Business Consulting"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/severn-consultancy-gmbh/senior-consultant-frankfurt-am-main-469484",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
         "company": "7NXT GmbH",
         "roleOrTask": "(Senior) Backend Engineer – Golang",
         "industryTags": [
@@ -210,54 +256,6 @@
         ],
         "compensation": "Instant Milestone USDC / Wire",
         "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/7nxt-gmbh/senior-backend-engineer-golang-berlin-148997",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "GENUINE Beauty GmbH",
-        "roleOrTask": "Creator Acquisition & Content Manager (m/w/d)",
-        "industryTags": [
-          "Marketing and Communication"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/genuine-beauty-gmbh/creator-acquisition-content-manager-cologne-390679",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Hoffmann.Recruiting & More",
-        "roleOrTask": "Verkaufsleiter*in Veranstaltungen I Exklusive Event Location FFM",
-        "industryTags": [
-          "Management",
-          "Team Leader"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/hoffmannrecruiting-more/verkaufsleiterin-veranstaltungen-i-exklusive-event-location-ffm-frankfurt-am-main-220258",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Cypher Consulting Europe",
-        "roleOrTask": "SAP Security & Authorizations Consultant",
-        "industryTags": [
-          "Remote",
-          "SAP/ERP Consulting",
-          "Development"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/cypher-consulting-europe/sap-security-authorizations-consultant-berlin-417832",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "FLOWZOOM",
-        "roleOrTask": "Social Media Creator & Video Editor, 100% Remote (m/w/d)",
-        "industryTags": [
-          "Remote",
-          "Social Media Manager"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/flowzoom/social-media-creator-video-editor-100-remote-berlin-206893",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
