@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T15:37:08.123Z",
-  "latencyMs": 404,
+  "executedAt": "2026-10-19T15:39:37.926Z",
+  "latencyMs": 287,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #766: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #767: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52817440,
+    "liveBlockNumber": 52817515,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 442790,
-    "baseMainnetTopPoolsVolume24hUsd": 92251,
+    "baseMainnetTopPoolsLiquidityUsd": 442791,
+    "baseMainnetTopPoolsVolume24hUsd": 92297,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "VcojebnWkceasp2v72p68zpNca4yW8Q4sJ3SjLnpump",
+        "description": "Before you ape,\nsend in assayers.\nDrop a contract. Get one sheet, with receipts.",
+        "url": "https://dexscreener.com/solana/vcojebnwkceasp2v72p68zpnca4yw8q4sj3sjlnpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Fxbabq6WjbkP5SFF9kwFFEk5TGhTNTMgXpkCCUS1GaT2",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fxbabq6wjbkp5sff9kwffek5tghtntmgxpkccus1gat2"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7eJxFRUDewbnxhFTsrV7drBeBLHm3VuRjuGTbDYXpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "6NoJLiM9RuMVjgXDPnY5tL14Zm589Dhb3gBwJou4pump",
         "description": "The lending layer for tokenized equities on @solana.",
         "url": "https://dexscreener.com/solana/6nojlim9rumvjgxdpny5tl14zm589dhb3gbwjou4pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4j63mR9Ee341iV8V6PjnKVmm6GcEgfJG3SYCoJ7Vpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4j63mr9ee341iv8v6pjnkvmm6gcegfjg3sycoj7vpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BfJphhAGBYWigoeikWtxxiKc5d85qNaeHVwS5n4Fpump",
-        "description": "ByteDog — a pixel pup born as a hot dog, destined to be a meme.",
-        "url": "https://dexscreener.com/solana/bfjphhagbywigoeikwtxxikc5d85qnaehvws5n4fpump"
       }
     ]
   },
