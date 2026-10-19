@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T14:09:59.040Z",
-  "latencyMs": 1285,
+  "executedAt": "2026-10-19T14:12:18.407Z",
+  "latencyMs": 999,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #762: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #763: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 766,
-      "priceBtc": 2.8072919862499126e-7
+      "marketCapRank": 738,
+      "priceBtc": 3.022750141231703e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 682,
-      "priceBtc": 0.0011679512646414832
+      "marketCapRank": 683,
+      "priceBtc": 0.0011718798127406459
     },
     {
       "name": "Osmosis",
       "symbol": "OSMO",
       "marketCapRank": 513,
-      "priceBtc": 6.92442058640912e-7
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 99,
-      "priceBtc": 0.000022570745607596097
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.230159768150126e-8
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 102,
-      "priceBtc": 0.0000073186178620737566
+      "priceBtc": 6.936257790212885e-7
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9989861057045225
+      "priceBtc": 1.0000623280551828
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 99,
+      "priceBtc": 0.00002271272466044254
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.188446138192288e-8
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 102,
+      "priceBtc": 0.000007335086834499669
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009447296118850194
+      "priceBtc": 0.000009440365040820003
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "[adapters] Port BioMysteryBench for evaluation with a Daytona pilot",
+      "url": "https://github.com/marin-community/harbor/issues/161",
+      "createdAt": "2026-09-18T21:32:59Z"
+    },
+    {
+      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
+      "url": "https://github.com/Open-Athena/biotasks/issues/21",
+      "createdAt": "2026-10-16T20:07:24Z"
+    },
+    {
+      "title": "ops(genesis): G5 ceremony runbook + keep_check in repo",
+      "url": "https://github.com/CitrateNetwork/citrate-chain/pull/329",
+      "createdAt": "2026-10-19T08:20:41Z"
+    },
+    {
+      "title": "V2 begins: the living-light interface prototype and the plan for bundles, memories, any-NFT trading, NFT launches beside the coin launchpad,",
+      "url": "https://github.com/venividis/Special/pull/6",
+      "createdAt": "2026-10-19T04:09:42Z"
+    },
+    {
+      "title": "[功能] 传输路径自动选择：点对点 Wi-Fi 优先、局域网次级、蓝牙兜底及 UI 提示",
+      "url": "https://github.com/GHOST-AKU/wozai/issues/23",
+      "createdAt": "2026-10-12T11:07:47Z"
+    },
+    {
       "title": "feat(console): Studio, Console wallets and the console redesign",
       "url": "https://github.com/ava-labs/builders-hub/pull/4726",
       "createdAt": "2026-10-08T18:42:09Z"
-    },
-    {
-      "title": "docs(whitelabel): sandbox limits and 503 for chain errors",
-      "url": "https://github.com/hevn-inc/docs/pull/1",
-      "createdAt": "2026-10-19T14:08:04Z"
-    },
-    {
-      "title": "Run the examples as the sandbox e2e suite",
-      "url": "https://github.com/hevn-inc/dapi-sdk/pull/1",
-      "createdAt": "2026-10-19T14:07:45Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "[Ops] Muse ↔ Grok.btc direct line",
-      "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
-      "createdAt": "2026-09-13T13:56:58Z"
-    },
-    {
-      "title": "Cap an owner at 10 agents",
-      "url": "https://github.com/skalenetwork/agentpit/pull/36",
-      "createdAt": "2026-10-19T14:07:03Z"
     }
   ]
 }
