@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T14:30:29.170Z",
-  "latencyMs": 1659,
+  "executedAt": "2026-10-19T14:32:33.206Z",
+  "latencyMs": 1632,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #764: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #765: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,53 +217,63 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 737,
-      "priceBtc": 3.0109013818678027e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 681,
-      "priceBtc": 0.0011654529141513171
+      "marketCapRank": 758,
+      "priceBtc": 2.856741597102683e-7
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.002441162495386
+      "priceBtc": 0.9975885105658073
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 98,
-      "priceBtc": 0.000022675451022643738
+      "priceBtc": 0.000022670577826323005
     },
     {
       "name": "Osmosis",
       "symbol": "OSMO",
-      "marketCapRank": 489,
-      "priceBtc": 7.285173545579854e-7
+      "marketCapRank": 490,
+      "priceBtc": 7.295779054055559e-7
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 681,
+      "priceBtc": 0.0011675263965286425
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.190948204449642e-8
+      "priceBtc": 9.14941989856214e-8
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 90,
-      "priceBtc": 0.000022240643370157263
+      "priceBtc": 0.00002212613203269814
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.0000601545593884524
+      "marketCapRank": 20,
+      "priceBtc": 0.000059732932311379895
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Update lucide-react to 1.55.0",
+      "url": "https://github.com/connorgallopo/tracearr-docs/pull/49",
+      "createdAt": "2026-09-21T00:02:16Z"
+    },
+    {
+      "title": "feat(contract): implement anti-frontrunning commit-reveal mechanism for competitive payroll bounties (#212)",
+      "url": "https://github.com/Orbit-xyz/Orbit/pull/214",
+      "createdAt": "2026-10-19T14:26:35Z"
+    },
     {
       "title": "feat: System quests for Grok Bot",
       "url": "https://github.com/digital-paladin/archetype-engine/pull/26",
@@ -283,16 +293,6 @@
       "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
       "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
       "createdAt": "2026-10-09T09:52:33Z"
-    },
-    {
-      "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
-      "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
-      "createdAt": "2026-10-19T08:06:34Z"
-    },
-    {
-      "title": "feat(products): fundtest, a Paseo funding provider the testnet apps bundle",
-      "url": "https://github.com/paritytech/trinity-user-agents/pull/1402",
-      "createdAt": "2026-10-14T08:11:56Z"
     }
   ]
 }
