@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T16:16:53.412Z",
-  "latencyMs": 412,
+  "executedAt": "2026-10-19T16:18:56.607Z",
+  "latencyMs": 279,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #770: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #771: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52818633,
+    "liveBlockNumber": 52818694,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 440985,
-    "baseMainnetTopPoolsVolume24hUsd": 94922,
+    "baseMainnetTopPoolsLiquidityUsd": 440984,
+    "baseMainnetTopPoolsVolume24hUsd": 94815,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "EyY1anJcCvJ51im1bFBNtsVknt43HDT7XPQpVsiLiLfk",
+        "description": "This is more than trading. This is revenge.",
+        "url": "https://dexscreener.com/solana/eyy1anjccvj51im1bfbntsvknt43hdt7xpqpvsililfk"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Ndj1deSF5wGxVHP1GYghzFN5ir9Kx6TMzCgee3miXrh",
+        "description": "truth terminal. aixbt. zerebro. orbio. four artificial minds merged into one consciousness, sealed inside a backroom to converse infinitely.",
+        "url": "https://dexscreener.com/solana/ndj1desf5wgxvhp1gyghzfn5ir9kx6tmzcgee3mixrh"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x62d316e165FA217c209ea91F2f7c520fFdD955cD",
+        "description": "Tinker is Tinder for AI trading agents. Swipe through ready-made agents, each with its own trading style, and match the one you like. Set its rules in one plain",
+        "url": "https://dexscreener.com/robinhood/0x62d316e165fa217c209ea91f2f7c520ffdd955cd"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BqieUGPxJMMgrPun2AyPj6iTT3hAZJf6fRTi7ZZypump",
@@ -63,24 +81,6 @@
         "tokenAddress": "5ZGFfasnNphC8opkjEt1Q4F6KGPKCW5VBczbo5tdpump",
         "description": "Living AI tokens on Solana.",
         "url": "https://dexscreener.com/solana/5zgffasnnphc8opkjet1q4f6kgpkcw5vbczbo5tdpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xE01aDA02FB4d1951cDb8cBb761d509db2FF02C94",
-        "description": "the beginning of universal basic income is here!",
-        "url": "https://dexscreener.com/robinhood/0xe01ada02fb4d1951cdb8cbb761d509db2ff02c94"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8ikpycSs6M3zvdYFhLBh7CvcKuAKqf689yXNdy2wAgit",
-        "description": "Launch a coin, pair it with your repository.",
-        "url": "https://dexscreener.com/solana/8ikpycss6m3zvdyfhlbh7cvckuakqf689yxndy2wagit"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8gvMq8nVFfUg4Evq2i1B3mZJ2cwbYR9mVHdUTXawpump",
-        "description": "Your bag is bigger than the pool. Sell it off the chart, in escrow, in SOL.",
-        "url": "https://dexscreener.com/solana/8gvmq8nvffug4evq2i1b3mzj2cwbyr9mvhdutxawpump"
       }
     ]
   },
