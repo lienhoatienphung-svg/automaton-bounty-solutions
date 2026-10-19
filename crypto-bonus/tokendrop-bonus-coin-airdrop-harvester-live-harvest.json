@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T12:55:58.457Z",
-  "latencyMs": 915,
+  "executedAt": "2026-10-19T13:12:43.434Z",
+  "latencyMs": 931,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #755: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #756: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "viral meme. 10M+ views. we’re all texcat.\neverything is fine.™",
+      "url": "https://dexscreener.com/solana/bdxflfcbde8yvpbvvmmgtduqcdesaqvum5xlxguc2s5t"
+    },
+    {
       "chainId": "bsc",
       "tokenAddress": "0x04b5074b83F0b07413FfBA60d05bbEd5aB214e2d",
       "boostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "The first Santa token on the Robinhood Blockchain — the OG and the original first mover.\n\n$SANTAHOOD is the native token of SANTRO EXCHANGE, the first centraliz",
       "url": "https://dexscreener.com/robinhood/0x38bb87cf3e7344a82be7cd671c191f015b97eee6"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "7C2pQ3cm2NHadrbJFVgzrJRvhYL9a2d76V29Mbg9pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "EXE Index\n\nThe public-record research map for executions, terrorism designations, gangs, insurgents, and crime statistics.\nBuilt for scholars, researchers, and ",
-      "url": "https://dexscreener.com/solana/7c2pq3cm2nhadrbjfvgzrjrvhyl9a2d76v29mbg9pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Boomer",
       "symbol": "BOOMER",
       "marketCapRank": 770,
-      "priceBtc": 2.744379567033e-7
+      "priceBtc": 2.772212897864574e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 99,
-      "priceBtc": 0.00002238857938904159
+      "priceBtc": 0.000022415748668549476
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 673,
-      "priceBtc": 0.0011933744059140776
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.129950137431422e-8
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.999288498957012
+      "marketCapRank": 677,
+      "priceBtc": 0.0011921023076443252
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 90,
-      "priceBtc": 0.00002251697638361586
+      "priceBtc": 0.000022448482471778887
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 117,
+      "priceBtc": 9.274712175815907e-8
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9993940448645764
     },
     {
       "name": "Osmosis",
       "symbol": "OSMO",
-      "marketCapRank": 492,
-      "priceBtc": 7.31902106204046e-7
+      "marketCapRank": 514,
+      "priceBtc": 6.944076690881302e-7
     },
     {
       "name": "Worldcoin",
       "symbol": "WLD",
-      "marketCapRank": 51,
-      "priceBtc": 0.000006146939460132054
+      "marketCapRank": 50,
+      "priceBtc": 0.000006159069015828391
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/52",
-      "createdAt": "2026-10-19T12:14:43Z"
+      "title": "docs: add proposal lifecycle walkthrough and demo placeholder (#97)",
+      "url": "https://github.com/mercyJJ/cosmosvote/pull/337",
+      "createdAt": "2026-10-19T13:12:06Z"
     },
     {
-      "title": "[Ops] Muse ↔ Grok.btc direct line",
-      "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
-      "createdAt": "2026-09-13T13:56:58Z"
+      "title": "feat: pre-commit hooks and order cancellation dialog",
+      "url": "https://github.com/SO4-Markets/interface/pull/1005",
+      "createdAt": "2026-10-19T13:11:56Z"
     },
     {
-      "title": "TWN: Avoid duplicate counters over scanned base cabinets",
-      "url": "https://github.com/AvnehSBhatia/ExeaLabsNvidiaHacks/pull/49",
-      "createdAt": "2026-10-18T21:59:46Z"
+      "title": "feat(sim): a node run drawn from its seed, through chaos, then healed (D27)",
+      "url": "https://github.com/justmoon/dassie/pull/134",
+      "createdAt": "2026-10-19T12:42:08Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "feat(faucet): emit an event when settings change",
+      "url": "https://github.com/Godgift-care/sci-healthcare-contracts/issues/62",
+      "createdAt": "2026-10-12T21:18:42Z"
     },
     {
-      "title": "feat(a11y): native modal dialogs, AA contrast, reduced motion everywhere",
-      "url": "https://github.com/ewajs/grama/pull/73",
-      "createdAt": "2026-10-19T12:54:25Z"
+      "title": "feat(faucet): pause without giving up the token admin",
+      "url": "https://github.com/Godgift-care/sci-healthcare-contracts/issues/61",
+      "createdAt": "2026-10-12T21:18:35Z"
     },
     {
-      "title": "[None][perf] One-model speculative decoding: host work between steps, worker-produced target logits, KDA drafts' records",
-      "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/19989",
-      "createdAt": "2026-10-08T14:23:11Z"
+      "title": "Contracts: Add a batch transfer fixture contract for testing multi-recipient sends",
+      "url": "https://github.com/Ibinola/soroban-dev-console/issues/1255",
+      "createdAt": "2026-10-15T14:51:35Z"
     }
   ]
 }
