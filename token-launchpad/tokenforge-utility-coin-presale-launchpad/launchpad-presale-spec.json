@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T22:47:53.565Z",
-  "latencyMs": 416,
+  "executedAt": "2026-10-19T22:50:00.999Z",
+  "latencyMs": 366,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #812: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #813: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52830363,
+    "liveBlockNumber": 52830426,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 104416,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6sBvfTnThBPUQsEWjiXdgCnHwxGZfEDqegtVu4vLpump",
+        "description": "WANTED GTA 6 6STARS",
+        "url": "https://dexscreener.com/solana/6sbvftnthbpuqsewjixdgcnhwxgzfedqegtvu4vlpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2KcCriQhQzzWyBgegPohMQ37TKehSFkD5EcPEj7vpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "7sphdXBcAQtL2ZSAnY8BF5TRZ1rSQNbnjQAevT8Ppump",
         "description": "An on-chain MMO game inspired from Pokémon, rebuilt for the trenches.",
         "url": "https://dexscreener.com/solana/7sphdxbcaqtl2zsany8bf5trz1rsqnbnjqaevt8ppump"
-      },
-      {
-        "chainId": "base",
-        "tokenAddress": "0x83f641E13CcFDe2c9d07B0897027EF1523884d21",
-        "description": "THE OWNERSHIP LAYER FOR HUMAN HEALTH. Your health data. Finally yours. You decide who touches your data, when, and what for.",
-        "url": "https://dexscreener.com/base/0x83f641e13ccfde2c9d07b0897027ef1523884d21"
       }
     ]
   },
