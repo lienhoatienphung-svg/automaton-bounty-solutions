@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T17:52:26.955Z",
-  "latencyMs": 255,
+  "executedAt": "2026-10-19T17:54:11.867Z",
+  "latencyMs": 417,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #780: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #781: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52821499,
+    "liveBlockNumber": 52821552,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440989,
-    "baseMainnetTopPoolsVolume24hUsd": 102660,
+    "baseMainnetTopPoolsVolume24hUsd": 102676,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9rJsyktbXsmqga2Q4S2Hiwj8UaBMzbc88jBiPGaPpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9rjsyktbxsmqga2q4s2hiwj8uabmzbc88jbipgappump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xd24738F04029eb2EebB7B375AE7923BEF6A5A42B",
@@ -75,12 +81,6 @@
         "tokenAddress": "ABLMQjh1aeqdR47UGQsPrzL33PSiSZbyXegWuVP9pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/ablmqjh1aeqdr47ugqsprzl33psiszbyxegwuvp9pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9vnk4LwbxhHdGiGbGzan9hjKYjNv7Uypy88pByG9pump",
-        "description": "PYNODE is a Solana workstation, not a page about one. Launch, swap, send, pay, inspect and monitor from a single environment. Each operation builds a real trans",
-        "url": "https://dexscreener.com/solana/9vnk4lwbxhhdgigbgzan9hjkyjnv7uypy88pbyg9pump"
       }
     ]
   },
