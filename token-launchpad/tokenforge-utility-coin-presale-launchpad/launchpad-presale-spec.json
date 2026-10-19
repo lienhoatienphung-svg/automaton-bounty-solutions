@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T20:00:33.343Z",
-  "latencyMs": 274,
+  "executedAt": "2026-10-19T20:03:03.641Z",
+  "latencyMs": 261,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #794: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #795: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52825343,
+    "liveBlockNumber": 52825418,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440988,
-    "baseMainnetTopPoolsVolume24hUsd": 107608,
+    "baseMainnetTopPoolsVolume24hUsd": 107615,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HK7Qy4CWkUXifpcYK3mWBzaZ1EYmabNP1RCJSEV1pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hk7qy4cwkuxifpcyk3mwbzaz1eymabnp1rcjsev1pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "H9KxB13XWaoqN6ZJ5bcp9Q8osLps3LXTyn3EAh1Mpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x5C521FBbFAEc1D9800188A19A02D7C374662762e",
         "description": "$POOL is the Credit Pool protocol token, earned by SCORE/ETH LP units (3x when locked). Every $POOL trade carries a tax that burns $POOL and adds protocol-owned",
         "url": "https://dexscreener.com/ethereum/0x5c521fbbfaec1d9800188a19a02d7c374662762e"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DbjJ5hLkH3pZqwBf1bf3xx8xtnhTMysHmDK8QQuLpump",
-        "description": "Real graded slabs. Cartoon villains guarding them. Everyone gets 1 free try a day. If you free it, you keep it",
-        "url": "https://dexscreener.com/solana/dbjj5hlkh3pzqwbf1bf3xx8xtnhtmyshmdk8qqulpump"
       }
     ]
   },
