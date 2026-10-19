@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T16:34:07.301Z",
-  "latencyMs": 883,
+  "executedAt": "2026-10-19T16:36:37.667Z",
+  "latencyMs": 913,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #776: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #777: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "a worthless coin giving you Bitcoin",
+      "url": "https://dexscreener.com/solana/87sexkpmbeoryaqfqqnq1yq6muvjenzhifgxjbrjpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "DURNeFdg7ws8ZVGrQBstxGeRRECYV9Jn3PLwLkFpump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "broom cat",
       "url": "https://dexscreener.com/solana/ducyudof7nnt2vpqhqa8dbz4kf524fdf8iadqmsupump"
-    },
-    {
-      "chainId": "cronos",
-      "tokenAddress": "0x298F68A497853A6Be5D9Cb40868D80B435437e1f",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "BabyCro is a meme token on Cronos, inspired by the journey of a brave little lion cub growing up in the wild digital jungle. But this isn’t just another meme co",
-      "url": "https://dexscreener.com/cronos/0x298f68a497853a6be5d9cb40868d80b435437e1f"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
+      "url": "https://github.com/Open-Athena/biotasks/issues/21",
+      "createdAt": "2026-10-16T20:07:24Z"
+    },
+    {
+      "title": "network: one network profile and a genesis check before signing (K6)",
+      "url": "https://github.com/CitrateNetwork/citrate-core/pull/363",
+      "createdAt": "2026-10-19T08:27:22Z"
+    },
+    {
+      "title": "Backup: harden the reader against files from anywhere",
+      "url": "https://github.com/martinloesethjensen/norse-mixology/pull/20",
+      "createdAt": "2026-10-19T16:34:21Z"
+    },
+    {
       "title": "[Backend] - Implement tournament sponsor package pricing and on-chain contract deployment",
       "url": "https://github.com/Arenax-gaming/ArenaX/issues/1419",
       "createdAt": "2026-10-19T07:45:57Z"
@@ -273,26 +293,6 @@
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "Require stock pairing and holder fees on token launches",
-      "url": "https://github.com/koynlabs/labs-mcp/pull/43",
-      "createdAt": "2026-10-19T16:07:33Z"
-    },
-    {
-      "title": "Letter Learner: sidebar, 76 word pictures, 17 hints, lightning lamed, Block look-alikes; improvement loop S520–S521",
-      "url": "https://github.com/Hbleiberg/Hebrew_Blender/pull/339",
-      "createdAt": "2026-10-19T12:15:14Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "Add Share and Print: Tekla text export and shipping ticket",
-      "url": "https://github.com/ATagTheAwesomest/terra-loads-web/pull/1",
-      "createdAt": "2026-10-19T16:27:04Z"
     }
   ]
 }
