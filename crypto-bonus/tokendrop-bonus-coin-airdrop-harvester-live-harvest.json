@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T21:39:24.846Z",
-  "latencyMs": 1149,
+  "executedAt": "2026-10-19T21:51:27.733Z",
+  "latencyMs": 816,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #808: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #810: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "5Nkqtw9ZRhpWF6LHhR25y2QtgqQDQRNftBmnHVDRpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Chapter four, the signal  is the fourth of the series token launch on pumpfun",
+      "url": "https://dexscreener.com/solana/5nkqtw9zrhpwf6lhhr25y2qtgqqdqrnftbmnhvdrpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump",
       "boostAmount": 100,
       "totalBoostAmount": 600,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Fees to charity",
       "url": "https://dexscreener.com/solana/8cyyivwmzpg6edaofxo3ehivezkdru6ttudwtmjtpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "HQgMPJbGctpP9P27DdJW5f8rncz7gvg4vEL3hT7hpump",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "A community that took over a coin after the dev rug-pulled. We are here to help everyone become profitable and join the LILANSEM community!",
-      "url": "https://dexscreener.com/solana/hqgmpjbgctpp9p27ddjw5f8rncz7gvg4vel3ht7hpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 814,
-      "priceBtc": 2.48590938866817e-7
+      "marketCapRank": 807,
+      "priceBtc": 2.7311476433948526e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 91,
-      "priceBtc": 0.00002463181821015685
+      "priceBtc": 0.000024828349132526692
     },
     {
-      "name": "PHALA",
-      "symbol": "PHA",
-      "marketCapRank": 408,
-      "priceBtc": 8.274972710370995e-7
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00005987782948049155
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9996169773155866
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.165881616593716e-8
+      "priceBtc": 9.162100317796081e-8
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 690,
-      "priceBtc": 0.0011342950415985267
+      "marketCapRank": 689,
+      "priceBtc": 0.0011347820922151372
     },
     {
-      "name": "Backpack",
-      "symbol": "BP",
-      "marketCapRank": 150,
-      "priceBtc": 0.000013974741148822954
+      "name": "PHALA",
+      "symbol": "PHA",
+      "marketCapRank": 406,
+      "priceBtc": 8.143776508314138e-7
     },
     {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 88,
-      "priceBtc": 0.000009632850930359512
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00005979949684642999
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.001275957719763307
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(cli,simulator,docs): a page-only app from start to finish, as a fresh agent met it",
-      "url": "https://github.com/corvise/saltix-grains/pull/50",
-      "createdAt": "2026-10-19T21:19:54Z"
+      "title": "Bring Windows tools and workflows to Mac feature parity",
+      "url": "https://github.com/orkunisitmak/nashi-app/pull/1",
+      "createdAt": "2026-10-19T20:30:48Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "Defer Auto rollover to quiet moments and ship capture logs with exports",
+      "url": "https://github.com/ruari8/SwingCoach/pull/50",
+      "createdAt": "2026-10-19T21:51:03Z"
     },
     {
-      "title": "perf: read call input from the caller's memory",
-      "url": "https://github.com/alloy-rs/evm2/pull/714",
-      "createdAt": "2026-10-19T20:55:41Z"
+      "title": "Add Qwen CUDA graph runtime on upstream Generator APIs",
+      "url": "https://github.com/microsoft/onnxruntime-genai/pull/2758",
+      "createdAt": "2026-10-19T19:43:09Z"
     },
     {
-      "title": "docs(validators): v0.6 release update: drop Asimov, Bradbury phase 2, Python 3.10+",
-      "url": "https://github.com/genlayerlabs/genlayer-docs/pull/705",
-      "createdAt": "2026-10-19T11:22:28Z"
+      "title": "Add evolutionary-optimization-llms-long-horizon task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/94",
+      "createdAt": "2026-10-18T10:27:55Z"
     },
     {
-      "title": "chore(release): prepare release",
-      "url": "https://github.com/pina-rs/wasm_solana/pull/182",
-      "createdAt": "2026-10-17T21:35:11Z"
+      "title": "Add anytime-valid improvement auditor",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/76",
+      "createdAt": "2026-10-13T03:26:58Z"
     },
     {
-      "title": "feat: stock drop (DropAutomationV2 + staking V2)",
-      "url": "https://github.com/moonwell-fi/mamo-contracts/pull/113",
-      "createdAt": "2026-09-28T19:33:58Z"
+      "title": "Add a reward token rescue function for tokens beyond obligations",
+      "url": "https://github.com/Rickyy1017/Stellar-Defi-Vault/issues/795",
+      "createdAt": "2026-10-19T21:50:22Z"
     }
   ]
 }
