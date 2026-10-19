@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-19T11:32:56.186Z",
-  "latencyMs": 647,
+  "executedAt": "2026-10-19T11:49:05.070Z",
+  "latencyMs": 752,
   "companyName": "BountyForge GitHub & Algora Open-Source Crypto Bounty Solver",
-  "workTitle": "Delivery Sprint #1343: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
-  "targetUrl": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
+  "workTitle": "Growth & Sales Sprint #1344: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "targetUrl": "https://polymarket.com/event/natoeu-troops-fighting-in-ukraine-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2204671,
-        "liquidityUsd": 62609,
+        "liquidityUsd": 67177,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059857,
-        "liquidityUsd": 252,
+        "liquidityUsd": 265,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1858167,
-        "liquidityUsd": 15778,
+        "liquidityUsd": 18112,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -72,7 +72,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000012,
         "liquidityUsd": 103154,
-        "volume24hUsd": 33418,
+        "volume24hUsd": 33417,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -92,7 +92,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000041,
         "liquidityUsd": 140050,
-        "volume24hUsd": 5310,
+        "volume24hUsd": 5263,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000019,
+        "priceUsd": 1.000023,
         "liquidityUsd": 21384,
-        "volume24hUsd": 54914,
+        "volume24hUsd": 55197,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -110,9 +110,9 @@
         "dexId": "pancakeswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000034,
+        "priceUsd": 1.000035,
         "liquidityUsd": 14836,
-        "volume24hUsd": 479,
+        "volume24hUsd": 511,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       },
       {
@@ -120,9 +120,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000048,
+        "priceUsd": 1.000049,
         "liquidityUsd": 12034,
-        "volume24hUsd": 1799,
+        "volume24hUsd": 1825,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
@@ -203,59 +203,57 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Sidekick Network GmbH & Co. KG",
-        "roleOrTask": "Senior SAP HCM Solution & Integration Architect - Freelance",
-        "industryTags": [
-          "Remote",
-          "IT"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-hcm-solution-integration-architect-freelance-bonn-325348",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Digital Evolution",
-        "roleOrTask": "Social Media-Manager (m/w/d) - Remote",
-        "industryTags": [
-          "Remote",
-          "Social Media Manager"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/digital-evolution/social-media-manager-remote-berlin-322238",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Greenpocket",
-        "roleOrTask": "Werkstudent:in/Praktikant:in (m/w/d) - Vertriebssteuerung & Business Development",
-        "industryTags": [
-          "Business Development"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/greenpocket/werkstudentin-praktikantin-vertriebssteuerung-business-development-cologne-170268",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Greenpocket",
-        "roleOrTask": "Werkstudent:in/Praktikant:in (m/w/d) Produktmanagement",
-        "industryTags": [
-          "Product Management"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/greenpocket/werkstudentin-praktikantin-produktmanagement-cologne-465666",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Zattoo",
-        "roleOrTask": "(Senior) Programmatic Sales GSA",
+        "company": "Marketplace Maniacs GmbH",
+        "roleOrTask": "Grafikdesigner Amazon Visual Content (m/w/d)",
         "industryTags": [
           "Marketing and Communication"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/zattoo/senior-programmatic-sales-gsa-hamburg-175503",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/marketplace-maniacs-gmbh/grafikdesigner-amazon-visual-content-munich-141183",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "VIAMA",
+        "roleOrTask": "Consultant (m/w/d) Sicherheit, Compliance & Business Alignment",
+        "industryTags": [
+          "Business Consulting"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/viama/consultant-sicherheit-compliance-business-alignment-forchheim-425950",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "timpla by Renggli",
+        "roleOrTask": "Bauleiter - GU und/oder Holzbau (w/m/d)",
+        "industryTags": [
+          "Engineering"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/timpla-by-renggli/bauleiter-gu-und-oder-holzbau-eberswalde-435788",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Smarketer Group",
+        "roleOrTask": "Senior SEA Manager:in",
+        "industryTags": [
+          "Online Marketing"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/smarketer-group/senior-sea-managerin-berlin-292217",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Smarketer Group",
+        "roleOrTask": "Business Consultant - Performance Marketing (w/m/d)",
+        "industryTags": [
+          "Online Marketing"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/smarketer-group/business-consultant-performance-marketing-berlin-396021",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
