@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T19:06:06.147Z",
-  "latencyMs": 280,
+  "executedAt": "2026-10-19T19:08:42.725Z",
+  "latencyMs": 385,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #788: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #789: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52823709,
+    "liveBlockNumber": 52823787,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440989,
-    "baseMainnetTopPoolsVolume24hUsd": 108162,
+    "baseMainnetTopPoolsVolume24hUsd": 108143,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x456968bb2575e2bfbe76fd1d64def34d70d32e5e",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/ethereum/0x456968bb2575e2bfbe76fd1d64def34d70d32e5e"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "24duo4ARbdUyHTJXbDrPzcKEjgdDKH6Kw7F4c9Gqpump",
+        "description": "MAGA Coin brings red-hot meme energy, bold American spirit, and unstoppable Solana vibes to the blockchain.",
+        "url": "https://dexscreener.com/solana/24duo4arbduyhtjxbdrpzckejgddkh6kw7f4c9gqpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EzSVTRJ3WTtf951mLYXaJNKERjY4Q18jSKzcbyM5pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/ezsvtrj3wttf951mlyxajnkerjy4q18jskzcbym5pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HT8hDfyJiQqEwzQXBw5X54kbRqa59V1Fx31ygL6Fpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "2GdY1zdHwNB84wkKEwnT87g9Mz5keF9WQ3jzVnVopump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/2gdy1zdhwnb84wkkewnt87g9mz5kef9wq3jzvnvopump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EVfNdcbHCeq3KTZ9TapgBtLkL3hirL2mk5CiMCEspump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/evfndcbhceq3ktz9tapgbtlkl3hirl2mk5cimcespump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Pw6rr8jEdq9Uump9xfx7UpiCdMmwNJp83YBbTu8pump",
-        "description": "Worthless Cat ($WORTHLESS) has no utility, no roadmap, and absolutely no regrets. Just a useless cat chasing moon dreams and proving worthless can be priceless.",
-        "url": "https://dexscreener.com/solana/pw6rr8jedq9uump9xfx7upicdmmwnjp83ybbtu8pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9aGgQjGXEJ8rMVNDVZK4KAdFLhQXX3DkJ1w7BnhdpQ2v",
-        "description": "🔔 FOMO Alerts: never miss your exit.\n\nTP & SL alerts for FOMO , sent straight to your Telegram. Set your levels in the Chrome extension or the Telegram bot, an",
-        "url": "https://dexscreener.com/solana/9aggqjgxej8rmvndvzk4kadflhqxx3dkj1w7bnhdpq2v"
       }
     ]
   },
