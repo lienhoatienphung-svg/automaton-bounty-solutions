@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T16:36:37.667Z",
-  "latencyMs": 913,
+  "executedAt": "2026-10-19T16:54:20.787Z",
+  "latencyMs": 1197,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #777: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #778: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "bsc",
+      "tokenAddress": "0x6B5b4Cc9F07d10Cc48e75D234cFE04a0931B7777",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/bsc/0x6b5b4cc9f07d10cc48e75d234cfe04a0931b7777"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Ansem said XXX paired with BTC will do good in his opinion. Let's test the theory",
       "url": "https://dexscreener.com/solana/8nl69xpoxrhkvbgyryd7rfiqvzps776m37kh4md2etch"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DUcYuDof7Nnt2vpqHQA8dbz4kf524fDf8iAdQmsUpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "broom cat",
-      "url": "https://dexscreener.com/solana/ducyudof7nnt2vpqhqa8dbz4kf524fdf8iadqmsupump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 616,
-      "priceBtc": 3.9675660861009474e-7
+      "marketCapRank": 692,
+      "priceBtc": 3.5603098748272013e-7
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.196650230302413e-8
-    },
-    {
-      "name": "Boomer",
-      "symbol": "BOOMER",
-      "marketCapRank": 938,
-      "priceBtc": 1.9538736197943e-7
+      "priceBtc": 9.164392331986485e-8
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 95,
-      "priceBtc": 0.00002357815596061175
+      "marketCapRank": 96,
+      "priceBtc": 0.000023357273495434636
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 684,
+      "priceBtc": 0.0011500295794392942
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 90,
-      "priceBtc": 0.00002347939013821829
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 686,
-      "priceBtc": 0.0011495607697357259
+      "priceBtc": 0.000023194056940349237
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0007415718094832
+      "priceBtc": 0.9994078200647019
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 124,
+      "priceBtc": 6.92861165911116e-7
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 71,
-      "priceBtc": 0.00029481409782117245
+      "priceBtc": 0.00029197841445648706
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "chore: gh worklofws",
+      "url": "https://github.com/MetaMask/metamask-mobile/pull/37530",
+      "createdAt": "2026-10-13T16:25:08Z"
     },
     {
-      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
-      "url": "https://github.com/Open-Athena/biotasks/issues/21",
-      "createdAt": "2026-10-16T20:07:24Z"
+      "title": "feat(evals): publish taskset runs to an Intake Experiment",
+      "url": "https://github.com/NVIDIA-NeMo/nemo-helix/pull/3087",
+      "createdAt": "2026-10-19T04:22:06Z"
     },
     {
-      "title": "network: one network profile and a genesis check before signing (K6)",
-      "url": "https://github.com/CitrateNetwork/citrate-core/pull/363",
-      "createdAt": "2026-10-19T08:27:22Z"
-    },
-    {
-      "title": "Backup: harden the reader against files from anywhere",
-      "url": "https://github.com/martinloesethjensen/norse-mixology/pull/20",
-      "createdAt": "2026-10-19T16:34:21Z"
-    },
-    {
-      "title": "[Backend] - Implement tournament sponsor package pricing and on-chain contract deployment",
-      "url": "https://github.com/Arenax-gaming/ArenaX/issues/1419",
-      "createdAt": "2026-10-19T07:45:57Z"
+      "title": "[main] airdrops, dimerized",
+      "url": "https://github.com/merge-demo/mergequeue-bazel/pull/335099",
+      "createdAt": "2026-10-19T16:52:59Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "Use fixed P2ID recipients for private PSWAP paybacks",
+      "url": "https://github.com/0xMiden/protocol/pull/3918",
+      "createdAt": "2026-09-21T19:22:01Z"
+    },
+    {
+      "title": "Soroban token contract allows minting to zero address",
+      "url": "https://github.com/augustina-jpg/scoopdope/issues/1148",
+      "createdAt": "2026-10-15T18:08:03Z"
     }
   ]
 }
