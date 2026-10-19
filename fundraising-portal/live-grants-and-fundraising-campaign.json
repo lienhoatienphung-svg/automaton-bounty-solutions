@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T12:26:03.166Z",
-  "latencyMs": 949,
+  "executedAt": "2026-10-19T12:42:20.094Z",
+  "latencyMs": 1200,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #731: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #732: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "Fix developer API mobile layout and improve console usability",
-          "url": "https://github.com/Fazul7506/AlgoBot/pull/375",
-          "repositoryUrl": "https://api.github.com/repos/Fazul7506/AlgoBot",
-          "updatedAt": "2026-10-19T12:25:58Z"
-        },
-        {
-          "title": "feat(interop): ADR-002 Phase 8 item 11 - A03 reconciliation, A02/A08/A11/A13/A40, parked out-of-order messages",
-          "url": "https://github.com/ftaakash/DischargeFlow/pull/57",
-          "repositoryUrl": "https://api.github.com/repos/ftaakash/DischargeFlow",
-          "updatedAt": "2026-10-19T12:25:57Z"
-        },
-        {
-          "title": "Update dependency boto3 to v1.43.114",
-          "url": "https://github.com/atlassian/dc-app-performance-toolkit/pull/2126",
-          "repositoryUrl": "https://api.github.com/repos/atlassian/dc-app-performance-toolkit",
-          "updatedAt": "2026-10-19T12:25:57Z"
-        },
-        {
-          "title": "Fix administrative plan/result publication and preserve native Ingestion read gates",
-          "url": "https://github.com/GioNob/ouf-deploy/pull/41",
-          "repositoryUrl": "https://api.github.com/repos/GioNob/ouf-deploy",
-          "updatedAt": "2026-10-19T12:25:56Z"
-        },
-        {
-          "title": "R-05: บัญชีและความปลอดภัย (JML, MFA TOTP, login security, grants API, access reviews, หน้า 1 และ 7)",
-          "url": "https://github.com/satawad11/E-Le/pull/34",
-          "repositoryUrl": "https://api.github.com/repos/satawad11/E-Le",
-          "updatedAt": "2026-10-19T12:25:55Z"
-        },
-        {
-          "title": "[DRAFT] Harden order checkout validation and coupon concurrency",
-          "url": "https://github.com/Shadyelsawy536/cafe-admin-dashboard/pull/2",
-          "repositoryUrl": "https://api.github.com/repos/Shadyelsawy536/cafe-admin-dashboard",
-          "updatedAt": "2026-10-19T12:25:55Z"
-        },
-        {
-          "title": "feat: add remote account and storage foundation (#205)",
-          "url": "https://github.com/AfterworldsAI/afterworlds/pull/207",
-          "repositoryUrl": "https://api.github.com/repos/AfterworldsAI/afterworlds",
-          "updatedAt": "2026-10-19T12:25:55Z"
-        },
-        {
-          "title": "eval: validate Laya decisions on representative requests",
-          "url": "https://github.com/Tutitoos/atenea/issues/165",
-          "repositoryUrl": "https://api.github.com/repos/Tutitoos/atenea",
-          "updatedAt": "2026-10-19T12:25:55Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
