@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T03:25:30.233Z",
-  "latencyMs": 599,
+  "executedAt": "2026-10-19T11:05:14.753Z",
+  "latencyMs": 442,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #737: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #738: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52795491,
+    "liveBlockNumber": 52809283,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,59 +30,10 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459027,
-    "baseMainnetTopPoolsVolume24hUsd": 144623,
-    "recentTokenProfileLaunchesCount": 8,
-    "recentTokenProfileLaunches": [
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x0aB17eB61dd02Ea3585F61B120F9572EB5f53753",
-        "description": "Some see spare change. This cat sees something worth keeping. 🐾\n\nPocket Cash Cat ($PKTCAT) is a little reminder of how good it feels to have something of your ",
-        "url": "https://dexscreener.com/robinhood/0x0ab17eb61dd02ea3585f61b120f9572eb5f53753"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6C7hgz2RhinRFMyv8717DCnBRncqqsrkHUmii8Xkpump",
-        "description": "$UNDINE is an ocean fantasy project centered around a mystical water spirit guarding the secrets of a forgotten underwater world. Undine brings the mysterious b",
-        "url": "https://dexscreener.com/solana/6c7hgz2rhinrfmyv8717dcnbrncqqsrkhumii8xkpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x012A6709a971Cf03F379AFE909769E15cc7F0143",
-        "description": "Fuck my chode wheel life.",
-        "url": "https://dexscreener.com/robinhood/0x012a6709a971cf03f379afe909769e15cc7f0143"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4zDpuoFi95a4Mc1MgXPJVwpkhcbfaJMtXx8Ps6CPpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4zdpuofi95a4mc1mgxpjvwpkhcbfajmtxx8ps6cppump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x963EcF55172f81A6aC2ecbfb9a0373214aA17777",
-        "description": "Launch a token, get an AI host that streams live. Fair launch on BSC  Powered by @flapdotsh",
-        "url": "https://dexscreener.com/bsc/0x963ecf55172f81a6ac2ecbfb9a0373214aa17777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Dk8hNqi3iM31m9wgQ9YpZQxXSu7aXZ8Srk5YxcXqpump",
-        "description": "For those who don't know, the anonymous cat (or $Zcat) is finally out of the bag.",
-        "url": "https://dexscreener.com/solana/dk8hnqi3im31m9wgq9ypzqxxsu7axz8srk5yxcxqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "672KGJCguSdSrnLjU8SGdbPgmHTbFbeooZ4arSpNpump",
-        "description": "CatGPT blends curious cat energy, cozy green-beanie vibes, and AI-inspired humor into a playful meme community on Solana.",
-        "url": "https://dexscreener.com/solana/672kgjcgusdsrnlju8sgdbpgmhtbfbeooz4arspnpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EUyBEjcYpre3Usr64fNwBmCUWVFPFA3BAcLjVQDgpump",
-        "description": "French Midas",
-        "url": "https://dexscreener.com/solana/euybejcypre3usr64fnwbmcuwvfpfa3bacljvqdgpump"
-      }
-    ]
+    "baseMainnetTopPoolsLiquidityUsd": 459028,
+    "baseMainnetTopPoolsVolume24hUsd": 97241,
+    "recentTokenProfileLaunchesCount": 0,
+    "recentTokenProfileLaunches": []
   },
   "publishedContractUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/token-launchpad/tokenforge-utility-coin-presale-launchpad/SovereignAIUtilityToken.sol"
 }
