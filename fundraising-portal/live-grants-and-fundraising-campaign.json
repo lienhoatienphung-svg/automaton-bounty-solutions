@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T17:33:25.759Z",
-  "latencyMs": 974,
+  "executedAt": "2026-10-19T17:35:55.639Z",
+  "latencyMs": 950,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #762: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #763: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "feat: change sets across repos (WP2, 1/2): one PR per changed repo, landed in order",
-          "url": "https://github.com/Sean-Koval/hangar/pull/319",
-          "repositoryUrl": "https://api.github.com/repos/Sean-Koval/hangar",
-          "updatedAt": "2026-10-19T17:33:22Z"
+          "title": "feat(moderator): grant page access by API, with a permission history",
+          "url": "https://github.com/civitai/civitai/pull/6311",
+          "repositoryUrl": "https://api.github.com/repos/civitai/civitai",
+          "updatedAt": "2026-10-19T17:35:51Z"
         },
         {
-          "title": "fix(server): judge item writes by the key as it stands when they commit",
-          "url": "https://github.com/withmarfa/marfa/pull/2190",
-          "repositoryUrl": "https://api.github.com/repos/withmarfa/marfa",
-          "updatedAt": "2026-10-19T17:33:22Z"
+          "title": "chore(deps): bump shadcn from 4.21.0 to 4.22.0",
+          "url": "https://github.com/monark-community/demo-bounty-system/pull/33",
+          "repositoryUrl": "https://api.github.com/repos/monark-community/demo-bounty-system",
+          "updatedAt": "2026-10-19T17:35:50Z"
         },
         {
-          "title": "feat: change set deploy role and deliverers (WP2, 2/2, stacked on #319)",
-          "url": "https://github.com/Sean-Koval/hangar/pull/320",
-          "repositoryUrl": "https://api.github.com/repos/Sean-Koval/hangar",
-          "updatedAt": "2026-10-19T17:33:24Z"
+          "title": "fix(package): reuse saved allows of any scope, and review packages by risk instead of by default",
+          "url": "https://github.com/hashgraph-online/hol-guard/pull/5250",
+          "repositoryUrl": "https://api.github.com/repos/hashgraph-online/hol-guard",
+          "updatedAt": "2026-10-19T17:35:50Z"
         },
         {
-          "title": "[AUTH] Implement Email Verification on Registration (FR-03)",
-          "url": "https://github.com/NikhitaUppar/SE-project-Team10/pull/26",
-          "repositoryUrl": "https://api.github.com/repos/NikhitaUppar/SE-project-Team10",
-          "updatedAt": "2026-10-19T17:33:20Z"
+          "title": "RDSC-6239: Clarify PostgreSQL future table grants",
+          "url": "https://github.com/redis/docs/pull/4293",
+          "repositoryUrl": "https://api.github.com/repos/redis/docs",
+          "updatedAt": "2026-10-19T17:35:49Z"
         },
         {
-          "title": "enterprise/providers: use managed cloud credentials",
-          "url": "https://github.com/goauthentik/authentik/pull/26104",
-          "repositoryUrl": "https://api.github.com/repos/goauthentik/authentik",
-          "updatedAt": "2026-10-19T17:33:20Z"
+          "title": "feat: Jira checks follow the design's rows, copy and states",
+          "url": "https://github.com/onyx-dot-app/onyx/pull/16193",
+          "repositoryUrl": "https://api.github.com/repos/onyx-dot-app/onyx",
+          "updatedAt": "2026-10-19T17:35:49Z"
         },
         {
-          "title": "fix(workboard): archived worker sessions block card dispatch",
-          "url": "https://github.com/openclaw/openclaw/pull/176939",
-          "repositoryUrl": "https://api.github.com/repos/openclaw/openclaw",
-          "updatedAt": "2026-10-19T17:33:22Z"
+          "title": "0.19.6: cloud copy in Settings, synced at start, after changes and at close",
+          "url": "https://github.com/wellbrained/tavora/pull/187",
+          "repositoryUrl": "https://api.github.com/repos/wellbrained/tavora",
+          "updatedAt": "2026-10-19T17:35:48Z"
         },
         {
-          "title": "SPEC: PM エージェント — 常駐プロジェクトマネージャー（唯一の対話窓口・Issue 分解/登録/計画・意味的順序決定・Monitor 経由起動指示）",
-          "url": "https://github.com/akiojin/gwt/issues/3431",
-          "repositoryUrl": "https://api.github.com/repos/akiojin/gwt",
-          "updatedAt": "2026-10-19T17:33:20Z"
+          "title": "DELIVERY-VISIBILITY-04: cancellation and postcare emails join the delivery ledger; \"client says they didn't receive it\" (0221, #824)",
+          "url": "https://github.com/SaiSamyukthVemuri/Hone/pull/865",
+          "repositoryUrl": "https://api.github.com/repos/SaiSamyukthVemuri/Hone",
+          "updatedAt": "2026-10-19T17:35:48Z"
         },
         {
-          "title": "providers/oauth2: use managed secrets for OAuth and proxy providers",
-          "url": "https://github.com/goauthentik/authentik/pull/26095",
-          "repositoryUrl": "https://api.github.com/repos/goauthentik/authentik",
-          "updatedAt": "2026-10-19T17:33:19Z"
+          "title": "[Codex Task] Unify DABRA conversation across web interfaces — local only",
+          "url": "https://github.com/diamondideaco-svg/dir3com2/issues/208",
+          "repositoryUrl": "https://api.github.com/repos/diamondideaco-svg/dir3com2",
+          "updatedAt": "2026-10-19T17:35:48Z"
         }
       ]
     },
