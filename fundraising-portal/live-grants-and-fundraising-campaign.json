@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T01:18:48.777Z",
-  "latencyMs": 1682,
+  "executedAt": "2026-10-19T01:35:11.709Z",
+  "latencyMs": 599,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #707: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #708: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "Grid scalability (S-01–S-08, S-10 paging incl. node discovery, S-11 indexes, S-12 streaming exports, S-13 streaming backups by default, S-15",
-          "url": "https://github.com/Zoverions/AXIOM-MESH/pull/1821",
-          "repositoryUrl": "https://api.github.com/repos/Zoverions/AXIOM-MESH",
-          "updatedAt": "2026-10-19T01:18:44Z"
-        },
-        {
-          "title": "perf(core): a write on a DSP's route clears only that DSP's cache",
-          "url": "https://github.com/dispatch-systems/dispatch-platform/pull/545",
-          "repositoryUrl": "https://api.github.com/repos/dispatch-systems/dispatch-platform",
-          "updatedAt": "2026-10-19T01:18:44Z"
-        },
-        {
-          "title": "pangolin_site_resource: update wipes all grants; empty port range becomes \"*\"",
-          "url": "https://github.com/stackopshq/terraform-provider-pangolin/issues/70",
-          "repositoryUrl": "https://api.github.com/repos/stackopshq/terraform-provider-pangolin",
-          "updatedAt": "2026-10-19T01:18:40Z"
-        },
-        {
-          "title": "Terminal sessions 2.0: MCPL daemon with Runs, journal and shared sessions (draft)",
-          "url": "https://github.com/antra-tess/terminal-sessions-mcp/pull/11",
-          "repositoryUrl": "https://api.github.com/repos/antra-tess/terminal-sessions-mcp",
-          "updatedAt": "2026-10-19T01:18:40Z"
-        },
-        {
-          "title": "Activate guarded recovery, movement retirement and publication holds",
-          "url": "https://github.com/chippingway/chipping-orchestrator/issues/2309",
-          "repositoryUrl": "https://api.github.com/repos/chippingway/chipping-orchestrator",
-          "updatedAt": "2026-10-19T01:18:46Z"
-        },
-        {
-          "title": "feat · nickstire · revenue_reconciliation_candidates retention: nightly superseded-row count, flag-gated bounded delete (flag OFF, no migrat",
-          "url": "https://github.com/nourdean22/MAINnicks-tire-autoNEW/pull/3163",
-          "repositoryUrl": "https://api.github.com/repos/nourdean22/MAINnicks-tire-autoNEW",
-          "updatedAt": "2026-10-19T01:18:40Z"
-        },
-        {
-          "title": "TTQS ONE｜原始點協會 157 方框高品質文件逐項施工契約與 Codex GOAL（候選）",
-          "url": "https://github.com/PT-Original-Point/ttqs-one/pull/92",
-          "repositoryUrl": "https://api.github.com/repos/PT-Original-Point/ttqs-one",
-          "updatedAt": "2026-10-19T01:18:40Z"
-        },
-        {
-          "title": "Chore(deps): Bump the cosmetology-python-minor-patch group across 2 directories with 10 updates",
-          "url": "https://github.com/csg-org/CompactConnect/pull/2006",
-          "repositoryUrl": "https://api.github.com/repos/csg-org/CompactConnect",
-          "updatedAt": "2026-10-19T01:18:44Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
