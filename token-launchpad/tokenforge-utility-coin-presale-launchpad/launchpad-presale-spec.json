@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T11:05:14.753Z",
-  "latencyMs": 442,
+  "executedAt": "2026-10-19T11:07:35.373Z",
+  "latencyMs": 472,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #738: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #739: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52809283,
+    "liveBlockNumber": 52809354,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,58 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459028,
-    "baseMainnetTopPoolsVolume24hUsd": 97241,
-    "recentTokenProfileLaunchesCount": 0,
-    "recentTokenProfileLaunches": []
+    "baseMainnetTopPoolsVolume24hUsd": 97238,
+    "recentTokenProfileLaunchesCount": 8,
+    "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x28085A3e9C246c54aC5b045064b0421b8a3AcA84",
+        "description": "a white cat with blue eyes sitting on a couch.",
+        "url": "https://dexscreener.com/robinhood/0x28085a3e9c246c54ac5b045064b0421b8a3aca84"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "YE2mBZx8sL1bhfWpoR9dPAozmKhGE8eKa4sEEQ5pump",
+        "description": "The playable economy of Neetopia. Build your empire without getting employed, starting from your mom's basement. Created on Imagine.",
+        "url": "https://dexscreener.com/solana/ye2mbzx8sl1bhfwpor9dpaozmkhge8eka4seeq5pump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x8a06F3EB79230F889614969e24e649db27b21111",
+        "description": "Blowtorch ($blowtorch) is a community-driven meme token launched on Robinhood Chain through the Torch launchpad platform. The project centers around the Torch c",
+        "url": "https://dexscreener.com/robinhood/0x8a06f3eb79230f889614969e24e649db27b21111"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "E123uJ951ndN5xJVnykaSCMcMFQJseSMpGzMuiXWpump",
+        "description": "Maru fuses Solana and tokenized NVIDIA into a single SPL token. Each unit is a share of a full-range SOL / NVDA liquidity position whose trading fees are folded",
+        "url": "https://dexscreener.com/solana/e123uj951ndn5xjvnykascmcmfqjsesmpgzmuixwpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "83jgKQ9bMQ7CtC9P7Mq4vaWFNypBWdqoRmdTKF5bpump",
+        "description": "Save Europe with Remigration.",
+        "url": "https://dexscreener.com/solana/83jgkq9bmq7ctc9p7mq4vawfnypbwdqormdtkf5bpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Ghd4akDGDa2cm8vPGYzy4QRr1KrQ6Vk8tiHbj5H5pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/ghd4akdgda2cm8vpgyzy4qrr1krq6vk8tihbj5h5pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "26zUmHFixHuFcSMZqkmvn18Xazw7xxPCsHTw4g8zpump",
+        "description": "unga bunga. me grog.",
+        "url": "https://dexscreener.com/solana/26zumhfixhufcsmzqkmvn18xazw7xxpcshtw4g8zpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xc081f170df4642f49186be6b5573d0c6fb78da1b",
+        "description": "Mercury helps agencies turn ideas into LinkedIn drafts and carousels, refine every voice, and get client approval before export. Powered by Orbio.",
+        "url": "https://dexscreener.com/robinhood/0xc081f170df4642f49186be6b5573d0c6fb78da1b"
+      }
+    ]
   },
   "publishedContractUrl": "https://github.com/lienhoatienphung-svg/automaton-bounty-solutions/blob/main/token-launchpad/tokenforge-utility-coin-presale-launchpad/SovereignAIUtilityToken.sol"
 }
