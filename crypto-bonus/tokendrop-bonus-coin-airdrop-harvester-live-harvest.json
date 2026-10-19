@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T22:47:51.624Z",
-  "latencyMs": 842,
+  "executedAt": "2026-10-19T23:04:09.896Z",
+  "latencyMs": 1246,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #817: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #818: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -191,7 +191,7 @@
       "chainId": "solana",
       "tokenAddress": "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump",
       "boostAmount": 100,
-      "totalBoostAmount": 600,
+      "totalBoostAmount": 100,
       "description": "Every coin gets one AI founder",
       "url": "https://dexscreener.com/solana/ekosqw4ojfbxmej4qrnbh1qugfrtc3eok6nwnfkdpump"
     },
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 740,
-      "priceBtc": 2.997048692531641e-7
+      "marketCapRank": 757,
+      "priceBtc": 2.8101029736808396e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 695,
-      "priceBtc": 0.0011274916506852075
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9996430571881768
+      "priceBtc": 0.001126617924309742
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 93,
-      "priceBtc": 0.0000241401867209469
+      "priceBtc": 0.00002421269579188815
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9992945079947246
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.228687429967424e-8
+      "priceBtc": 9.186410711694045e-8
     },
     {
-      "name": "Ethereum",
-      "symbol": "ETH",
-      "marketCapRank": 2,
-      "priceBtc": 0.029326831810173176
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "marketCapRank": 71,
+      "priceBtc": 0.0002960879220485733
     },
     {
-      "name": "Hedera",
-      "symbol": "HBAR",
-      "marketCapRank": 32,
-      "priceBtc": 0.0000010109916840335322
+      "name": "Backpack",
+      "symbol": "BP",
+      "marketCapRank": 150,
+      "priceBtc": 0.000014050778603139186
     },
     {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012803834348202392
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009648178024815732
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "fix: share documents from the mobile Share button",
+      "url": "https://github.com/open-pencil/open-pencil/pull/1310",
+      "createdAt": "2026-10-19T23:03:33Z"
+    },
+    {
+      "title": "[perf] spec-decoding: fuse simulated speculative acceptance tensor preparation",
+      "url": "https://github.com/sgl-project/sglang/pull/41169",
+      "createdAt": "2026-09-24T20:43:54Z"
+    },
+    {
+      "title": "Add Omdrop (AirDrop for Omarchy) 0.18.2",
+      "url": "https://github.com/omacom/omarchy-pkgs/pull/1273",
+      "createdAt": "2026-10-18T20:00:44Z"
+    },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Security(deps): bump lucide-react from 0.516.0 to 1.47.0 in /dashboard-mvp",
-      "url": "https://github.com/dagimhaile1627-ux/project-management-excel/pull/4",
-      "createdAt": "2026-09-23T15:50:56Z"
+      "title": "Label amounts too small for six decimals as a threshold",
+      "url": "https://github.com/hemilabs/ui-monorepo/pull/2500",
+      "createdAt": "2026-10-19T14:34:44Z"
     },
     {
-      "title": "feat(simulation): Pendle protocol",
-      "url": "https://github.com/propeller-heads/tycho/pull/1646",
-      "createdAt": "2026-10-19T18:48:41Z"
-    },
-    {
-      "title": "Ack L1 anWorkchain as telemetry, not a deposit public input (audit #59)",
-      "url": "https://github.com/gosh-sh/bridge/pull/118",
-      "createdAt": "2026-10-19T00:26:20Z"
-    },
-    {
-      "title": "perf: read call input from the caller's memory",
-      "url": "https://github.com/alloy-rs/evm2/pull/714",
-      "createdAt": "2026-10-19T20:55:41Z"
-    },
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "Import every Instagram Saved collection at once, and open an AirDropped export on iPhone",
+      "url": "https://github.com/HarrisonFischberg/keepsake/pull/7",
+      "createdAt": "2026-10-19T20:25:44Z"
     }
   ]
 }
