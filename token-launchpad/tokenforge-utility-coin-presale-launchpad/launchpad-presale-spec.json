@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T16:56:29.116Z",
-  "latencyMs": 405,
+  "executedAt": "2026-10-19T16:58:59.471Z",
+  "latencyMs": 335,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #774: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #775: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52819820,
+    "liveBlockNumber": 52819896,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 440984,
-    "baseMainnetTopPoolsVolume24hUsd": 95906,
+    "baseMainnetTopPoolsLiquidityUsd": 440987,
+    "baseMainnetTopPoolsVolume24hUsd": 95570,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Fac1eX37NLZShprpPjo5zYYwNySEjx47sCikkSoGLAZE",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fac1ex37nlzshprppjo5zyywnysejx47scikksoglaze"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "GaNDz4FXgLLgUW5FPgeaRKj7knERQRgxdCkfpcbipump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x84e777bc0f3dff6add2dd49fa2e841845541678c",
         "description": "Building the intelligence layer for liquidity on Robinhood Chain. Measured onchain, non-custodial, built for LPs.",
         "url": "https://dexscreener.com/robinhood/0x84e777bc0f3dff6add2dd49fa2e841845541678c"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x876b4de9286510e342bb412b459998917317bc69",
-        "description": "Hugin is a platform where real people rate AI answers and get paid for it. You see a question and two AI answers and pick the better one. Three people rate ever",
-        "url": "https://dexscreener.com/robinhood/0x876b4de9286510e342bb412b459998917317bc69"
       }
     ]
   },
