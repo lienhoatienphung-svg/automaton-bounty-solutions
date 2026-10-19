@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T23:40:41.042Z",
-  "latencyMs": 835,
+  "executedAt": "2026-10-19T23:42:36.722Z",
+  "latencyMs": 842,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #822: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #823: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,53 +217,58 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 755,
-      "priceBtc": 2.916979011648537e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 692,
-      "priceBtc": 0.0011273910853250126
+      "marketCapRank": 746,
+      "priceBtc": 2.98521194566653e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 93,
-      "priceBtc": 0.000024122955116634908
+      "marketCapRank": 91,
+      "priceBtc": 0.000024087677628208372
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.232488248747263e-8
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 691,
+      "priceBtc": 0.0011271368774538827
     },
     {
       "name": "Backpack",
       "symbol": "BP",
       "marketCapRank": 150,
-      "priceBtc": 0.00001405958785264248
+      "priceBtc": 0.000014088954332495461
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.243292530131355e-8
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.000310796379836
+      "priceBtc": 0.9999221076220346
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009672174936709057
+      "name": "XRP",
+      "symbol": "XRP",
+      "marketCapRank": 5,
+      "priceBtc": 0.00001590858948572859
     },
     {
-      "name": "ALEO",
-      "symbol": "ALEO",
-      "marketCapRank": 338,
-      "priceBtc": 6.042726765849883e-7
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 29,
+      "priceBtc": 0.000012193780266095875
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Checklist: prepare repository for public visibility",
+      "url": "https://github.com/bytesbrains/16ane/issues/32",
+      "createdAt": "2026-10-19T16:17:54Z"
+    },
     {
       "title": "[ADD Faucet] SellPolia",
       "url": "https://github.com/swiss-knife-xyz/swiss-knife/issues/193",
@@ -288,11 +293,6 @@
       "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
       "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
       "createdAt": "2026-10-16T09:56:24Z"
-    },
-    {
-      "title": "Public release pipeline",
-      "url": "https://github.com/Telcoin-Association/telcoin-network/pull/694",
-      "createdAt": "2026-05-20T19:36:55Z"
     }
   ]
 }
