@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T14:32:33.206Z",
-  "latencyMs": 1632,
+  "executedAt": "2026-10-19T14:51:19.865Z",
+  "latencyMs": 1401,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #765: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #766: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "cronos",
+      "tokenAddress": "0x298F68A497853A6Be5D9Cb40868D80B435437e1f",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "BabyCro is a meme token on Cronos, inspired by the journey of a brave little lion cub growing up in the wild digital jungle. But this isn’t just another meme co",
+      "url": "https://dexscreener.com/cronos/0x298f68a497853a6be5d9cb40868d80b435437e1f"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x9A7C661Be578e50927268fb770146D701b3368e7",
       "boostAmount": 10,
@@ -202,97 +210,89 @@
       "totalBoostAmount": 30,
       "description": "$Pepe turned into a pumpkin. \n\nMeet $PUMPE, the spookiest frog on the blockchain. \n\nHalloween hits different when $Pepe wears a pumpkin.",
       "url": "https://dexscreener.com/solana/86sf1fneu5g3lhsg4f1phjetarwszuzosu2e2pu7e5ar"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8QtbrC9d3BezyCwzBFUQbNsWJGte7ckrZ7HWcn81pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Connecting the internet again with dickbutt",
-      "url": "https://dexscreener.com/solana/8qtbrc9d3bezycwzbfuqbnswjgte7ckrz7hwcn81pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Boomer",
-      "symbol": "BOOMER",
-      "marketCapRank": 758,
-      "priceBtc": 2.856741597102683e-7
-    },
-    {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9975885105658073
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 98,
-      "priceBtc": 0.000022670577826323005
+      "priceBtc": 1.0003197447118832
     },
     {
       "name": "Osmosis",
       "symbol": "OSMO",
-      "marketCapRank": 490,
-      "priceBtc": 7.295779054055559e-7
+      "marketCapRank": 489,
+      "priceBtc": 7.211440803947465e-7
+    },
+    {
+      "name": "Boomer",
+      "symbol": "BOOMER",
+      "marketCapRank": 755,
+      "priceBtc": 2.901261629583549e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 681,
-      "priceBtc": 0.0011675263965286425
+      "marketCapRank": 680,
+      "priceBtc": 0.0011663769790380377
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 97,
+      "priceBtc": 0.000022775355322093076
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.14941989856214e-8
+      "priceBtc": 9.165617731889365e-8
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 90,
-      "priceBtc": 0.00002212613203269814
+      "priceBtc": 0.00002210207001119446
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.000059732932311379895
+      "priceBtc": 0.00005964430648629958
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Update lucide-react to 1.55.0",
-      "url": "https://github.com/connorgallopo/tracearr-docs/pull/49",
-      "createdAt": "2026-09-21T00:02:16Z"
+      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
+      "url": "https://github.com/Open-Athena/biotasks/issues/21",
+      "createdAt": "2026-10-16T20:07:24Z"
     },
     {
-      "title": "feat(contract): implement anti-frontrunning commit-reveal mechanism for competitive payroll bounties (#212)",
-      "url": "https://github.com/Orbit-xyz/Orbit/pull/214",
-      "createdAt": "2026-10-19T14:26:35Z"
+      "title": "Cotizador: parámetros desde el Excel de Alex → server, y trabajo a la par Alex/Mikey",
+      "url": "https://github.com/Mikey3003/beebags-deploy/issues/1",
+      "createdAt": "2026-10-15T20:29:24Z"
     },
     {
-      "title": "feat: System quests for Grok Bot",
-      "url": "https://github.com/digital-paladin/archetype-engine/pull/26",
-      "createdAt": "2026-10-19T14:28:54Z"
+      "title": "Agentic SFT shootout on Snowball v0: plain, RS-multi, relay, recovery, plateau dropping",
+      "url": "https://github.com/marin-community/marin/issues/10213",
+      "createdAt": "2026-10-16T22:05:38Z"
     },
     {
-      "title": "【No.3】feat(inference): Unified Inference Service",
-      "url": "https://github.com/redai-studio/Relax/pull/381",
-      "createdAt": "2026-09-26T10:27:20Z"
+      "title": "P21–P23: SFT/LoRA, preference optimization and MTP teaching batch",
+      "url": "https://github.com/cluster1900/zero2llm/pull/9",
+      "createdAt": "2026-10-19T13:05:42Z"
     },
     {
-      "title": "feat: merge Chatless feature branch into main",
-      "url": "https://github.com/Wishmaster117/MultiBot-Chatless/pull/87",
-      "createdAt": "2026-10-19T13:52:59Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
-      "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
-      "createdAt": "2026-10-09T09:52:33Z"
+      "title": "feat(individuality): register for the game in one call",
+      "url": "https://github.com/paritytech/product-sdk/pull/479",
+      "createdAt": "2026-10-19T10:00:54Z"
     }
   ]
 }
