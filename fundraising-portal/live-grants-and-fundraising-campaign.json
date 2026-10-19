@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T03:09:03.894Z",
-  "latencyMs": 750,
+  "executedAt": "2026-10-19T03:25:17.415Z",
+  "latencyMs": 1265,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #719: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #720: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "Propose Yolo's client protocol and a native Apple TV client",
-          "url": "https://github.com/HaitianLiu5/yolo/pull/28",
-          "repositoryUrl": "https://api.github.com/repos/HaitianLiu5/yolo",
-          "updatedAt": "2026-10-19T03:09:00Z"
-        },
-        {
-          "title": "fix: let a failed install retry past the IAM role it already created",
-          "url": "https://github.com/threeport/threeport/pull/628",
-          "repositoryUrl": "https://api.github.com/repos/threeport/threeport",
-          "updatedAt": "2026-10-19T03:08:58Z"
-        },
-        {
-          "title": "feat(experiments): implement Stage 1 scientific metric calculation engine (#445)",
-          "url": "https://github.com/KanujVerma/drift/pull/446",
-          "repositoryUrl": "https://api.github.com/repos/KanujVerma/drift",
-          "updatedAt": "2026-10-19T03:08:57Z"
-        },
-        {
-          "title": "feat(kernel): bind G1-a CPU owner revisions and lifetime fencing",
-          "url": "https://github.com/TrillionniumFoundation/trillionnium-os-desktop/pull/197",
-          "repositoryUrl": "https://api.github.com/repos/TrillionniumFoundation/trillionnium-os-desktop",
-          "updatedAt": "2026-10-19T03:08:56Z"
-        },
-        {
-          "title": "State Lumera's Meta Tech Provider status in public copy",
-          "url": "https://github.com/Lumertech/Lumera-Gemini-edit/pull/159",
-          "repositoryUrl": "https://api.github.com/repos/Lumertech/Lumera-Gemini-edit",
-          "updatedAt": "2026-10-19T03:09:03Z"
-        },
-        {
-          "title": "perf(sessions): refresh process views on registry changes",
-          "url": "https://github.com/openclaw/openclaw/pull/176738",
-          "repositoryUrl": "https://api.github.com/repos/openclaw/openclaw",
-          "updatedAt": "2026-10-19T03:08:56Z"
-        },
-        {
-          "title": "[Feature] Support owner-local transfer extensions with safe device-buffer lifetime",
-          "url": "https://github.com/hw-native-sys/simpler/issues/2621",
-          "repositoryUrl": "https://api.github.com/repos/hw-native-sys/simpler",
-          "updatedAt": "2026-10-19T03:08:56Z"
-        },
-        {
-          "title": "fakes clock: one advance helper that names its instant and fails loudly; watch-before-start rule",
-          "url": "https://github.com/aakshintala/fiber/issues/2334",
-          "repositoryUrl": "https://api.github.com/repos/aakshintala/fiber",
-          "updatedAt": "2026-10-19T03:08:56Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
