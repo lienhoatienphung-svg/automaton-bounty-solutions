@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T11:42:09.668Z",
-  "latencyMs": 1027,
+  "executedAt": "2026-10-19T11:44:28.076Z",
+  "latencyMs": 342,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #742: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #743: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52810391,
+    "liveBlockNumber": 52810460,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459028,
-    "baseMainnetTopPoolsVolume24hUsd": 97253,
+    "baseMainnetTopPoolsVolume24hUsd": 97284,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2rLuDEBwuXM6cBAQnK2bjFYXfsUozYwXsFSmA3Eupump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2rludebwuxm6cbaqnk2bjfyxfsuozywxsfsma3eupump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HqrLmdDbaWhuBN3HyQujTY7MyRhjHas1MwoCARdpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hqrlmddbawhubn3hyqujty7myrhjhas1mwocardpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5NUbmPHHHj3zYqiyE2GXsNXCH3W2Eo4gbX2HryC5pump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x28085A3e9C246c54aC5b045064b0421b8a3AcA84",
         "description": "a white cat with blue eyes sitting on a couch.",
         "url": "https://dexscreener.com/robinhood/0x28085a3e9c246c54ac5b045064b0421b8a3aca84"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "YE2mBZx8sL1bhfWpoR9dPAozmKhGE8eKa4sEEQ5pump",
-        "description": "The playable economy of Neetopia. Build your empire without getting employed, starting from your mom's basement. Created on Imagine.",
-        "url": "https://dexscreener.com/solana/ye2mbzx8sl1bhfwpor9dpaozmkhge8eka4seeq5pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x8a06F3EB79230F889614969e24e649db27b21111",
-        "description": "Blowtorch ($blowtorch) is a community-driven meme token launched on Robinhood Chain through the Torch launchpad platform. The project centers around the Torch c",
-        "url": "https://dexscreener.com/robinhood/0x8a06f3eb79230f889614969e24e649db27b21111"
       }
     ]
   },
