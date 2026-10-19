@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T18:49:58.686Z",
-  "latencyMs": 379,
+  "executedAt": "2026-10-19T19:06:06.147Z",
+  "latencyMs": 280,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #787: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #788: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52823225,
+    "liveBlockNumber": 52823709,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,39 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440989,
-    "baseMainnetTopPoolsVolume24hUsd": 104713,
+    "baseMainnetTopPoolsVolume24hUsd": 108162,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HT8hDfyJiQqEwzQXBw5X54kbRqa59V1Fx31ygL6Fpump",
+        "description": "Universal Basic Capital",
+        "url": "https://dexscreener.com/solana/ht8hdfyjiqqewzqxbw5x54kbrqa59v1fx31ygl6fpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "G8esysbwSKWZM78aDi1aH5p8ksXfExSVGKVfofRypump",
+        "description": "Wallet tracker for memecoin traders.\n\nSee who bought, who sold after, and open the exact transaction before you make your own move.",
+        "url": "https://dexscreener.com/solana/g8esysbwskwzm78adi1ah5p8ksxfexsvgkvfofrypump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DNhLwB48snrYLRCckoAE7wzP4uMh6KbgP1T3Z7AYpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/dnhlwb48snrylrcckoae7wzp4umh6kbgp1t3z7aypump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x805aebd3c20c4cdbf18e2d98ded767ec31964271",
+        "description": "The private payment protocol for AI agents. Paid against a zk proof of delivery, on Robinhood Chain.",
+        "url": "https://dexscreener.com/robinhood/0x805aebd3c20c4cdbf18e2d98ded767ec31964271"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2GdY1zdHwNB84wkKEwnT87g9Mz5keF9WQ3jzVnVopump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2gdy1zdhwnb84wkkewnt87g9mz5kef9wq3jzvnvopump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "EVfNdcbHCeq3KTZ9TapgBtLkL3hirL2mk5CiMCEspump",
@@ -51,36 +81,6 @@
         "tokenAddress": "9aGgQjGXEJ8rMVNDVZK4KAdFLhQXX3DkJ1w7BnhdpQ2v",
         "description": "🔔 FOMO Alerts: never miss your exit.\n\nTP & SL alerts for FOMO , sent straight to your Telegram. Set your levels in the Chrome extension or the Telegram bot, an",
         "url": "https://dexscreener.com/solana/9aggqjgxej8rmvndvzk4kadflhqxx3dkj1w7bnhdpq2v"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6XWFtGmL8gzMshmJX7RXJ9R9tLbpDjYoqGWjRpP3pump",
-        "description": "pick a corse. dont fall. (u will fall)",
-        "url": "https://dexscreener.com/solana/6xwftgml8gzmshmjx7rxj9r9tlbpdjyoqgwjrpp3pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GgvEMWEVaXMoohrLW1DARtkYm7tQgTP5jEryxq47pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ggvemwevaxmoohrlw1dartkym7tqgtp5jeryxq47pump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x6597b04D1a24A68051Fc19002354457bea38D316",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/ethereum/0x6597b04d1a24a68051fc19002354457bea38d316"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3F3UpNaupKnB4AirKY84CKkRW4GR4Par5TgJzTeLpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3f3upnaupknb4airky84ckkrw4gr4par5tgjztelpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "D734ExdJNZ4wh3iDzcx8EDA6Nt4Vk9idGnk9e9Jgpump",
-        "description": "Open-world gang war in your browser on a 1:1 Paris. Paydays every 3 minutes. $GTP",
-        "url": "https://dexscreener.com/solana/d734exdjnz4wh3idzcx8eda6nt4vk9idgnk9e9jgpump"
       }
     ]
   },
