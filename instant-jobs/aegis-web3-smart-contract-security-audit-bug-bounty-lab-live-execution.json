@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-19T13:50:22.950Z",
-  "latencyMs": 1170,
+  "executedAt": "2026-10-19T13:52:17.424Z",
+  "latencyMs": 596,
   "companyName": "Aegis Web3 Smart Contract Security Audit & Bug Bounty Lab",
-  "workTitle": "Growth & Sales Sprint #1376: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
-  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
+  "workTitle": "Delivery Sprint #1377: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "targetUrl": "https://polymarket.com/event/macron-out-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -70,9 +70,9 @@
         "dexId": "quickswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000016,
-        "liquidityUsd": 103155,
-        "volume24hUsd": 28966,
+        "priceUsd": 1.000037,
+        "liquidityUsd": 103156,
+        "volume24hUsd": 28989,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -90,9 +90,9 @@
         "dexId": "aerodrome",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00004,
+        "priceUsd": 1.000041,
         "liquidityUsd": 140050,
-        "volume24hUsd": 5227,
+        "volume24hUsd": 5276,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000031,
+        "priceUsd": 1.000032,
         "liquidityUsd": 21384,
-        "volume24hUsd": 52135,
+        "volume24hUsd": 52216,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -122,7 +122,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000048,
         "liquidityUsd": 12034,
-        "volume24hUsd": 1905,
+        "volume24hUsd": 1911,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
