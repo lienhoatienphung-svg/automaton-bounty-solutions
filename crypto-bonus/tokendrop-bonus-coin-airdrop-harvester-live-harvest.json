@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T18:28:15.898Z",
-  "latencyMs": 830,
+  "executedAt": "2026-10-19T18:45:08.757Z",
+  "latencyMs": 985,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #789: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #790: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Rain: Senior Backend Engineer (Inst",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "5rqqBQSsA5fo2znzmudV3vGD6uKfe7K7wafYS9N9pump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "The first ever vending machine that pays you.",
+      "url": "https://dexscreener.com/solana/5rqqbqssa5fo2znzmudv3vgd6ukfe7k7wafys9n9pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "3qSd27nb3zyRmqbhLzH4PdeYcADqeLtjgYy2Fp4Apump",
       "boostAmount": 10,
       "totalBoostAmount": 130,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "we don't pick your card and neither does anyone else\n\nevery pull is decided by collector crypt's on-chain randomness and you can verify any of them yourself",
       "url": "https://dexscreener.com/solana/9jefe6apevfotefu1ocjwgsceec3lg1lhgmxqnb4pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3qSd27nb3zyRmqbhLzH4PdeYcADqeLtjgYy2Fp4Apump",
-      "boostAmount": 10,
-      "totalBoostAmount": 130,
-      "description": "🐕🚀 ELONDOG — A NEW ADVENTURE BEGINS.\n\nA fearless cyber Doge. A Cybertruck. One destination: MARS. 🔴\n\nInspired by Elon’s futuristic universe and Doge’s legend",
-      "url": "https://dexscreener.com/solana/3qsd27nb3zyrmqbhlzh4pdeycadqeltjgyy2fp4apump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,62 +217,72 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 682,
-      "priceBtc": 3.241538575674158e-7
-    },
-    {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "marketCapRank": 90,
-      "priceBtc": 0.000023251963484447395
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.107295751610203e-8
+      "marketCapRank": 702,
+      "priceBtc": 3.2071380474551885e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 97,
-      "priceBtc": 0.000023039997777844482
+      "marketCapRank": 96,
+      "priceBtc": 0.0000231222294241807
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 685,
-      "priceBtc": 0.0011479944830769574
+      "marketCapRank": 683,
+      "priceBtc": 0.001153596122157948
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "marketCapRank": 89,
+      "priceBtc": 0.000023316114720587994
     },
     {
       "name": "Pons",
       "symbol": "PONS",
-      "marketCapRank": 198,
-      "priceBtc": 0.000003175742739607233
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 39,
-      "priceBtc": 0.002367419330923118
+      "marketCapRank": 197,
+      "priceBtc": 0.000003202837083417073
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.000950407357334458
+      "priceBtc": 0.0009530550040172729
+    },
+    {
+      "name": "PHALA",
+      "symbol": "PHA",
+      "marketCapRank": 424,
+      "priceBtc": 7.46273821105108e-7
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.135118275267814e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[rolloutengine] Replace task sessions with registered harnesses",
-      "url": "https://github.com/marin-community/marin/pull/10203",
-      "createdAt": "2026-10-16T17:41:36Z"
+      "title": "feat(cli): mainnet network (Miden Cedar), one Network type instead of string matches",
+      "url": "https://github.com/astraly-labs/pragma-miden/pull/109",
+      "createdAt": "2026-10-19T18:45:02Z"
     },
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/52",
-      "createdAt": "2026-10-19T12:14:43Z"
+      "title": "fix: request validation, WebSocket cleanup, DB SSL, query limits",
+      "url": "https://github.com/SmartDropLabs/smartdrop-backend/pull/594",
+      "createdAt": "2026-10-19T17:14:20Z"
+    },
+    {
+      "title": "docs(validators): v0.6 release update: drop Asimov, Bradbury phase 2, Python 3.10+",
+      "url": "https://github.com/genlayerlabs/genlayer-docs/pull/705",
+      "createdAt": "2026-10-19T11:22:28Z"
+    },
+    {
+      "title": "feat(validation): catch reserved-word respellings and words hidden in longer names",
+      "url": "https://github.com/divinevideo/divine-name-server/pull/112",
+      "createdAt": "2026-09-24T21:42:04Z"
     },
     {
       "title": "refactor: switch the draft proposal plumbing from probs to logits.",
@@ -280,19 +290,9 @@
       "createdAt": "2026-10-18T07:37:42Z"
     },
     {
-      "title": "feat(custody): dashboard-only devnet faucet replaces the RPC relay (HOO-2168)",
-      "url": "https://github.com/solana-foundation/solana-developer-platform/pull/2420",
-      "createdAt": "2026-10-19T17:08:15Z"
-    },
-    {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "release: 13.53.0",
+      "url": "https://github.com/MetaMask/metamask-extension/pull/46958",
+      "createdAt": "2026-10-08T19:04:53Z"
     }
   ]
 }
