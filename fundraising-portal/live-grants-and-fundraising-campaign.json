@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T12:42:20.094Z",
-  "latencyMs": 1200,
+  "executedAt": "2026-10-19T12:44:34.838Z",
+  "latencyMs": 953,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #732: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #733: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "fix(auth): Google signup grants admin only with a Google-verified proof (R31)",
+          "url": "https://github.com/1outsyde/outsyde-backend/pull/336",
+          "repositoryUrl": "https://api.github.com/repos/1outsyde/outsyde-backend",
+          "updatedAt": "2026-10-19T12:44:31Z"
+        },
+        {
+          "title": "Smite Clean Install: paired RC images, no legacy overlays, no repeat install",
+          "url": "https://github.com/aghajani82/u-opti/pull/38",
+          "repositoryUrl": "https://api.github.com/repos/aghajani82/u-opti",
+          "updatedAt": "2026-10-19T12:44:30Z"
+        },
+        {
+          "title": "feat(miniapp)：AI 板块（D-075）——底栏第 5 格、AI 首页、列表和详情的入口、联系客服和使用帮助",
+          "url": "https://github.com/wanglei581/youju/pull/317",
+          "repositoryUrl": "https://api.github.com/repos/wanglei581/youju",
+          "updatedAt": "2026-10-19T12:44:30Z"
+        },
+        {
+          "title": "Update dependency @anthropic-ai/claude-code to v2.1.303",
+          "url": "https://github.com/DanielH2018/server/pull/5181",
+          "repositoryUrl": "https://api.github.com/repos/DanielH2018/server",
+          "updatedAt": "2026-10-19T12:44:29Z"
+        },
+        {
+          "title": "Proposal: Dev Fund Reviewer, Milestone Review Assistant (RFP 9)",
+          "url": "https://github.com/canton-foundation/canton-dev-fund/pull/912",
+          "repositoryUrl": "https://api.github.com/repos/canton-foundation/canton-dev-fund",
+          "updatedAt": "2026-10-19T12:44:28Z"
+        },
+        {
+          "title": "Add Time Attack with server clocks and separate leaderboards",
+          "url": "https://github.com/ivoshchikov/movie-quiz/pull/40",
+          "repositoryUrl": "https://api.github.com/repos/ivoshchikov/movie-quiz",
+          "updatedAt": "2026-10-19T12:44:28Z"
+        },
+        {
+          "title": "feat(deliveries): completing a delivery needs a signal, with a paper-ticket fallback (Goal 5)",
+          "url": "https://github.com/masonwells1/CRX_Manager_V1.0/pull/955",
+          "repositoryUrl": "https://api.github.com/repos/masonwells1/CRX_Manager_V1.0",
+          "updatedAt": "2026-10-19T12:44:29Z"
+        },
+        {
+          "title": "fix(github): Connect after a dead token starts the sign-in for a GitHub login too (M7-T36)",
+          "url": "https://github.com/Levon0Asatryan/gradfolio-api/pull/112",
+          "repositoryUrl": "https://api.github.com/repos/Levon0Asatryan/gradfolio-api",
+          "updatedAt": "2026-10-19T12:44:29Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
