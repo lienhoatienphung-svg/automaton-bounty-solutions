@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T01:51:07.086Z",
-  "latencyMs": 312,
+  "executedAt": "2026-10-19T01:53:13.504Z",
+  "latencyMs": 342,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #726: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #727: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52792659,
+    "liveBlockNumber": 52792723,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459004,
-    "baseMainnetTopPoolsVolume24hUsd": 140545,
+    "baseMainnetTopPoolsVolume24hUsd": 140540,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Ds1dKZPV9k7GqtZKrAo6qi7WuHUeER4FmasxacRDpump",
+        "description": "Anthropics public benefit fund on chain",
+        "url": "https://dexscreener.com/solana/ds1dkzpv9k7gqtzkrao6qi7wuhueer4fmasxacrdpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x9D878FE4481E42f5D96775c669513DFdade0BCf7",
+        "description": "Opus 5.5 trains owl model with only 128 neurons. Also if you shallowly train an owl with only the last 3 layers, the owl character generalizes worse",
+        "url": "https://dexscreener.com/robinhood/0x9d878fe4481e42f5d96775c669513dfdade0bcf7"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "ATUJd4LNy4YoY1ARGARXbRDN5ehRzPf5xRNCRL7CwATJ",
@@ -69,18 +81,6 @@
         "tokenAddress": "AkDAiyNyazPXEoXfY1jkehT8TvMd1pUpiwWQ89yjpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/akdaiynyazpxeoxfy1jkeht8tvmd1pupiwwq89yjpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CEiHHnga3SkamV7192WKjH31oN1TDazG4PucV3QMpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ceihhnga3skamv7192wkjh31on1tdazg4pucv3qmpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8eHjnkajh9qS9iCPJeotDyiLCA6ZZBBxbNhVj3Bkpump",
-        "description": "Patch triggers to actions with cables: fees arrive → buy back, burn, airdrop holders, buy Tesla. Launch on pumpfun in one signature. The coin's vault is its cre",
-        "url": "https://dexscreener.com/solana/8ehjnkajh9qs9icpjeotdyilca6zzbbxbnhvj3bkpump"
       }
     ]
   },
