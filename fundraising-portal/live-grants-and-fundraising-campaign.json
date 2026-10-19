@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T17:16:50.084Z",
-  "latencyMs": 931,
+  "executedAt": "2026-10-19T17:33:25.759Z",
+  "latencyMs": 974,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #761: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #762: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "Add GitHub-authenticated Dokku root MCP",
-          "url": "https://github.com/brewbytes-dev/dokku-dashboard/pull/1",
-          "repositoryUrl": "https://api.github.com/repos/brewbytes-dev/dokku-dashboard",
-          "updatedAt": "2026-10-19T17:16:45Z"
+          "title": "feat: change sets across repos (WP2, 1/2): one PR per changed repo, landed in order",
+          "url": "https://github.com/Sean-Koval/hangar/pull/319",
+          "repositoryUrl": "https://api.github.com/repos/Sean-Koval/hangar",
+          "updatedAt": "2026-10-19T17:33:22Z"
         },
         {
-          "title": "Build the Community Hub API and secure upload foundation",
-          "url": "https://github.com/classxiic2627/classxiic2627.github.io/pull/1",
-          "repositoryUrl": "https://api.github.com/repos/classxiic2627/classxiic2627.github.io",
-          "updatedAt": "2026-10-19T17:16:45Z"
+          "title": "fix(server): judge item writes by the key as it stands when they commit",
+          "url": "https://github.com/withmarfa/marfa/pull/2190",
+          "repositoryUrl": "https://api.github.com/repos/withmarfa/marfa",
+          "updatedAt": "2026-10-19T17:33:22Z"
         },
         {
-          "title": "chore(release): 3.50.0",
-          "url": "https://github.com/hashgraph-online/hol-guard/pull/5029",
-          "repositoryUrl": "https://api.github.com/repos/hashgraph-online/hol-guard",
-          "updatedAt": "2026-10-19T17:16:43Z"
+          "title": "feat: change set deploy role and deliverers (WP2, 2/2, stacked on #319)",
+          "url": "https://github.com/Sean-Koval/hangar/pull/320",
+          "repositoryUrl": "https://api.github.com/repos/Sean-Koval/hangar",
+          "updatedAt": "2026-10-19T17:33:24Z"
         },
         {
-          "title": "fix(browser): Chrome extension reports \"Not installed\" when macOS blocks profile reads",
-          "url": "https://github.com/openclaw/openclaw/pull/172274",
+          "title": "[AUTH] Implement Email Verification on Registration (FR-03)",
+          "url": "https://github.com/NikhitaUppar/SE-project-Team10/pull/26",
+          "repositoryUrl": "https://api.github.com/repos/NikhitaUppar/SE-project-Team10",
+          "updatedAt": "2026-10-19T17:33:20Z"
+        },
+        {
+          "title": "enterprise/providers: use managed cloud credentials",
+          "url": "https://github.com/goauthentik/authentik/pull/26104",
+          "repositoryUrl": "https://api.github.com/repos/goauthentik/authentik",
+          "updatedAt": "2026-10-19T17:33:20Z"
+        },
+        {
+          "title": "fix(workboard): archived worker sessions block card dispatch",
+          "url": "https://github.com/openclaw/openclaw/pull/176939",
           "repositoryUrl": "https://api.github.com/repos/openclaw/openclaw",
-          "updatedAt": "2026-10-19T17:16:43Z"
+          "updatedAt": "2026-10-19T17:33:22Z"
         },
         {
-          "title": "feat: 移植 EXTRA 后端 + B05 + #231 后端到 master（W5，port/extra-be-20261019）",
-          "url": "https://github.com/liboyang42-cpu/hengyin/pull/301",
-          "repositoryUrl": "https://api.github.com/repos/liboyang42-cpu/hengyin",
-          "updatedAt": "2026-10-19T17:16:43Z"
+          "title": "SPEC: PM エージェント — 常駐プロジェクトマネージャー（唯一の対話窓口・Issue 分解/登録/計画・意味的順序決定・Monitor 経由起動指示）",
+          "url": "https://github.com/akiojin/gwt/issues/3431",
+          "repositoryUrl": "https://api.github.com/repos/akiojin/gwt",
+          "updatedAt": "2026-10-19T17:33:20Z"
         },
         {
-          "title": "DRAFT: Perfil exclusivo Coordinador Mantenimiento — MANT_YULIANA",
-          "url": "https://github.com/VladRoJa/sistematicketsultra/pull/947",
-          "repositoryUrl": "https://api.github.com/repos/VladRoJa/sistematicketsultra",
-          "updatedAt": "2026-10-19T17:16:42Z"
-        },
-        {
-          "title": "Relabel the app permissions as Workspace Apps and User Apps and enforce User Apps on the server",
-          "url": "https://github.com/twentyhq/twenty/pull/28083",
-          "repositoryUrl": "https://api.github.com/repos/twentyhq/twenty",
-          "updatedAt": "2026-10-19T17:16:42Z"
-        },
-        {
-          "title": "Gallery: family photos from Pictures/Launcher as the Home background",
-          "url": "https://github.com/Gathin23/cleanyourtv/pull/174",
-          "repositoryUrl": "https://api.github.com/repos/Gathin23/cleanyourtv",
-          "updatedAt": "2026-10-19T17:16:42Z"
+          "title": "providers/oauth2: use managed secrets for OAuth and proxy providers",
+          "url": "https://github.com/goauthentik/authentik/pull/26095",
+          "repositoryUrl": "https://api.github.com/repos/goauthentik/authentik",
+          "updatedAt": "2026-10-19T17:33:19Z"
         }
       ]
     },
