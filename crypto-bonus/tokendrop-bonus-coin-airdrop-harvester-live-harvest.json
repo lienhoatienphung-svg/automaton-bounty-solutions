@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T20:37:56.828Z",
-  "latencyMs": 910,
+  "executedAt": "2026-10-19T20:53:54.385Z",
+  "latencyMs": 995,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #803: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #804: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "bsc",
+      "tokenAddress": "0x2359ED25A54BDd08546d4E3308eb0390d00023c6",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "呱呱历险记 (呱呱)",
+      "url": "https://dexscreener.com/bsc/0x2359ed25a54bdd08546d4e3308eb0390d00023c6"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Join Us and get $BUSTED!  \n\nA tribute to the GTA VI and chaos! A token for the culture with Rewards &\nAchievements. \n\nBuild the crew. Hit the milestones. Every ",
       "url": "https://dexscreener.com/robinhood/0xd5d49d68a555f3c50ccda9bd9a8691692e5ce172"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "5rqqBQSsA5fo2znzmudV3vGD6uKfe7K7wafYS9N9pump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "The first ever vending machine that pays you.",
-      "url": "https://dexscreener.com/solana/5rqqbqssa5fo2znzmudv3vgd6ukfe7k7wafys9n9pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 804,
-      "priceBtc": 2.5914790008193656e-7
+      "marketCapRank": 745,
+      "priceBtc": 2.9880817116459253e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 91,
-      "priceBtc": 0.000024996443283864052
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 690,
-      "priceBtc": 0.0011332063560992
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 88,
-      "priceBtc": 0.000009584648511310738
-    },
-    {
-      "name": "Monad",
-      "symbol": "MON",
-      "marketCapRank": 159,
-      "priceBtc": 2.5375719689134596e-7
+      "priceBtc": 0.000024839995319878427
     },
     {
       "name": "PHALA",
       "symbol": "PHA",
-      "marketCapRank": 412,
-      "priceBtc": 7.768665532036298e-7
+      "marketCapRank": 409,
+      "priceBtc": 7.957421279749244e-7
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 688,
+      "priceBtc": 0.0011407411291101995
+    },
+    {
+      "name": "Monad",
+      "symbol": "MON",
+      "marketCapRank": 160,
+      "priceBtc": 2.5221080063226546e-7
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.148601713123309e-8
+    },
+    {
+      "name": "Ethena",
+      "symbol": "ENA",
+      "marketCapRank": 41,
+      "priceBtc": 0.000002268428037023218
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006041489310323581
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 196,
-      "priceBtc": 0.000003279161683151697
+      "priceBtc": 0.00006008726835239346
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[H1] Public pool: Scala-run pool on preprod",
-      "url": "https://github.com/KD5UJC-XYZ/scarab/issues/37",
-      "createdAt": "2026-10-11T21:31:50Z"
+      "title": "Add speculative-decoder-discovery task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/49",
+      "createdAt": "2026-10-05T14:46:37Z"
     },
     {
-      "title": "Exercise: Create AI Powered Actions",
-      "url": "https://github.com/ricdanyalgil/skills-create-ai-powered-actions/issues/1",
-      "createdAt": "2026-10-19T20:28:45Z"
+      "title": "feat(simulation): Pendle protocol",
+      "url": "https://github.com/propeller-heads/tycho/pull/1646",
+      "createdAt": "2026-10-19T18:48:41Z"
     },
     {
-      "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
-      "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
-      "createdAt": "2026-10-19T08:06:34Z"
+      "title": "Browser downloads use the originating WKWebView",
+      "url": "https://github.com/danielbyon/media-vault/pull/111",
+      "createdAt": "2026-10-15T16:24:49Z"
     },
     {
-      "title": "CHORE: Version packages",
-      "url": "https://github.com/4thtech/agentlink/pull/264",
-      "createdAt": "2026-10-18T18:17:25Z"
+      "title": "docs(validators): v0.6 release update: drop Asimov, Bradbury phase 2, Python 3.10+",
+      "url": "https://github.com/genlayerlabs/genlayer-docs/pull/705",
+      "createdAt": "2026-10-19T11:22:28Z"
     },
     {
-      "title": "Growth & Marketing — ASO, launch content, analytics, paid acquisition",
-      "url": "https://github.com/emadabdelzahermohamed-create/THF-Nexus-17.02.2026/issues/7",
-      "createdAt": "2026-09-12T15:13:37Z"
+      "title": "Add the vision-encoder-objective task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/84",
+      "createdAt": "2026-10-14T17:20:01Z"
     },
     {
-      "title": "Optional tray below the menu bar for hidden items",
-      "url": "https://github.com/fif7y/dimble/issues/26",
-      "createdAt": "2026-09-16T09:41:39Z"
+      "title": "chore: Implementer inbox — instructions from the Orchestrator",
+      "url": "https://github.com/nekodas-neko/TrainingAi_Open/issues/2354",
+      "createdAt": "2026-10-06T01:05:54Z"
     }
   ]
 }
