@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T13:38:17.015Z",
-  "latencyMs": 1161,
+  "executedAt": "2026-10-19T13:40:35.369Z",
+  "latencyMs": 275,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #754: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #755: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52813874,
+    "liveBlockNumber": 52813944,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 442792,
-    "baseMainnetTopPoolsVolume24hUsd": 90372,
+    "baseMainnetTopPoolsLiquidityUsd": 442794,
+    "baseMainnetTopPoolsVolume24hUsd": 90656,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HFrz9Zo1mA7oYeCS8eXJEA1wNowLfFbXAa4qDzfWz2Nr",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hfrz9zo1ma7oyecs8exjea1wnowlffbxaa4qdzfwz2nr"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Coyj3LtKn1BNSgWc9HsGK5SKoGfEoDaymig4wrN6pump",
+        "description": "France ($FR) is the OG France coin on Solana. Launched in July 2025 and abandoned by its dev, it is now a community takeover run by holders as France takes to t",
+        "url": "https://dexscreener.com/solana/coyj3ltkn1bnsgwc9hsgk5skogfeodaymig4wrn6pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8Lt2h83EV5g1qNsTKHfBEZEGMkFZ28cMC97TUC1Ypump",
@@ -69,18 +81,6 @@
         "tokenAddress": "9hWsUj7Q5JUjHKqeuiGPA3GExm26ETqeSPKTSP2Qpump",
         "description": "Kim Jong un dead rumours with claims tyrant is 'in coma after haemorrhage'",
         "url": "https://dexscreener.com/solana/9hwsuj7q5jujhkqeuigpa3gexm26etqespktsp2qpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8y4bf1KnXxL2FavUpXHYESv75QkYLKQuqnNJ8xxbpump",
-        "description": "🎃👻 $HALLOWEEN2026 — THE SPOOKIEST LAUNCH OF 2026. 🕸️🔥\n\nThe market is about to get haunted. 💀\n\nOne night. One narrative. One mission. 🎃\n\n🧙‍♂️ Halloween se",
-        "url": "https://dexscreener.com/solana/8y4bf1knxxl2favupxhyesv75qkylkquqnnj8xxbpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x9b3BEbCeab5121dc9f3a5521fB8d13a92F084Dc3",
-        "description": "France. A father defends his shop. His only source of income to feed his wife and children. They mock him. They beat him. They destroy everything. These are not",
-        "url": "https://dexscreener.com/robinhood/0x9b3bebceab5121dc9f3a5521fb8d13a92f084dc3"
       }
     ]
   },
