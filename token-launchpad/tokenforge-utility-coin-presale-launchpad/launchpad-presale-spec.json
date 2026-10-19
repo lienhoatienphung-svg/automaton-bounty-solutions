@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T20:19:29.367Z",
-  "latencyMs": 392,
+  "executedAt": "2026-10-19T20:21:43.369Z",
+  "latencyMs": 334,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #796: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #797: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52825911,
+    "liveBlockNumber": 52825978,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440988,
-    "baseMainnetTopPoolsVolume24hUsd": 107445,
+    "baseMainnetTopPoolsVolume24hUsd": 107439,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9A1VFXY8ETKNSP2jN3rnTF99jDTnbR8j3JqVHas4pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9a1vfxy8etknsp2jn3rntf99jdtnbr8j3jqvhas4pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4KF5D94ZNY8Ao1GhvB3dAVstXLeNBm8LiRHwaA1ipump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4kf5d94zny8ao1ghvb3davstxlenbm8lirhwaa1ipump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FCK3LRdJZNBzoseDpfzotxcGjUX1JfWixsvLHio5pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fck3lrdjznbzosedpfzotxcgjux1jfwixsvlhio5pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Goqx3oFohWoTnuJbVhT7DcGfq6EjLrPyhTEuyHUZpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "h4EnHxxHwVBYuS49LnpK7v5GaFMN3Husv6xrr1aAVWk",
         "description": "The short button pump . fun never gave you.\n\nEvery coin on shorty can be shorted, with leverage. On solana.",
         "url": "https://dexscreener.com/solana/h4enhxxhwvbyus49lnpk7v5gafmn3husv6xrr1aavwk"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3ctPtQFg42nzPQAbf8v12DYRD3BKaWtiQi2N6G98pump",
-        "description": "Bitcoin Runes. Solana speed.",
-        "url": "https://dexscreener.com/solana/3ctptqfg42nzpqabf8v12dyrd3bkawtiqi2n6g98pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "J575G6f2uyPGEpHefwJ9qKB1qMEpvNTBBYLXtAJapump",
-        "description": "Launch coins that collect real graded Pokémon cards. Every trade fills the card fund. Every purchase grows the binder.",
-        "url": "https://dexscreener.com/solana/j575g6f2uypgephefwj9qkb1qmepvntbbylxtajapump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "F6wySbZ1KCSeMqq3YKjp19zCPwQ4fNHAAKvqCWpHpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/f6wysbz1kcsemqq3ykjp19zcpwq4fnhaakvqcwphpump"
       }
     ]
   },
