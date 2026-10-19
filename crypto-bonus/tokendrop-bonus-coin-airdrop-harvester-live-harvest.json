@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T03:04:56.202Z",
-  "latencyMs": 692,
+  "executedAt": "2026-10-19T03:20:45.872Z",
+  "latencyMs": 1629,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #739: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #740: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,59 +215,64 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Covenant x402",
-      "symbol": "COVENANT",
-      "marketCapRank": 696,
-      "priceBtc": 3.256743063694238e-7
-    },
-    {
       "name": "Doge Pepe",
       "symbol": "DOPE",
-      "marketCapRank": 729,
-      "priceBtc": 3.0829819984743413e-7
+      "marketCapRank": 730,
+      "priceBtc": 3.0605052315451915e-7
     },
     {
       "name": "Tetsuo Super Intelligence",
       "symbol": "TSI",
-      "marketCapRank": 911,
-      "priceBtc": 2.1072989037023305e-7
+      "marketCapRank": 922,
+      "priceBtc": 2.0483684350999312e-7
     },
     {
       "name": "hi",
       "symbol": "HI",
-      "marketCapRank": 849,
-      "priceBtc": 2.3759321070253968e-7
+      "marketCapRank": 843,
+      "priceBtc": 2.4122930138799583e-7
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.201346862217643e-8
+      "name": "Covenant x402",
+      "symbol": "COVENANT",
+      "marketCapRank": 679,
+      "priceBtc": 3.3498696703109455e-7
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
       "marketCapRank": 776,
-      "priceBtc": 2.7154557377486066e-7
+      "priceBtc": 2.796133581260804e-7
     },
     {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 97,
-      "priceBtc": 0.000023460893907005646
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.193172999396963e-8
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 653,
-      "priceBtc": 0.001240786456840305
+      "priceBtc": 0.0012418420448879121
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 97,
+      "priceBtc": 0.000023458421038852012
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "KG update: concepts from 2026-10-18",
+      "url": "https://github.com/MekkCyber/llm-atlas/pull/317",
+      "createdAt": "2026-10-19T03:19:29Z"
     },
     {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
@@ -275,24 +280,19 @@
       "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "Move the testnet wallet to testnet.blockula.app; mainnet's passkey domain is wallet.blockula.app",
-      "url": "https://github.com/jackdishman/blockula/pull/35",
-      "createdAt": "2026-10-19T02:36:00Z"
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/51",
+      "createdAt": "2026-10-19T00:34:33Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "[Spec Decode][ROCm] Add FLy: entropy-gated deferred verification for draft-model speculative decoding",
+      "url": "https://github.com/vllm-project/vllm/pull/53987",
+      "createdAt": "2026-08-27T03:33:50Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
-      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
-      "createdAt": "2026-10-18T07:37:42Z"
+      "title": "Add interactive macOS helper for Roborock iOS authentication",
+      "url": "https://github.com/Python-roborock/local_roborock_server/pull/149",
+      "createdAt": "2026-10-10T05:25:15Z"
     }
   ]
 }
