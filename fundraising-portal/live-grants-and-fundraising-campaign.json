@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T02:50:04.039Z",
-  "latencyMs": 888,
+  "executedAt": "2026-10-19T03:06:45.676Z",
+  "latencyMs": 791,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #717: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #718: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "feat: add policy selectors, affected gates, Starlark, and library",
-          "url": "https://github.com/cloudposse/atmos/pull/3384",
-          "repositoryUrl": "https://api.github.com/repos/cloudposse/atmos",
-          "updatedAt": "2026-10-19T02:49:59Z"
+          "title": "refactor(api): remove local db carrier from custom connector wakeup",
+          "url": "https://github.com/okou-ai/okou/issues/41205",
+          "repositoryUrl": "https://api.github.com/repos/okou-ai/okou",
+          "updatedAt": "2026-10-19T03:06:41Z"
+        },
+        {
+          "title": "fix(providers): restore native Codex Settings sign-in",
+          "url": "https://github.com/HamedMP/matrix-os/pull/2545",
+          "repositoryUrl": "https://api.github.com/repos/HamedMP/matrix-os",
+          "updatedAt": "2026-10-19T03:06:41Z"
+        },
+        {
+          "title": "Recover unfinished desktop IPC contracts and preserve parent acceptance scope",
+          "url": "https://github.com/kaisersong/xiaok-cli/pull/37",
+          "repositoryUrl": "https://api.github.com/repos/kaisersong/xiaok-cli",
+          "updatedAt": "2026-10-19T03:06:40Z"
+        },
+        {
+          "title": "feat(ticker): add ticker commands, reasons and subscriptions",
+          "url": "https://github.com/hadron-memory/hadron-cli/pull/928",
+          "repositoryUrl": "https://api.github.com/repos/hadron-memory/hadron-cli",
+          "updatedAt": "2026-10-19T03:06:39Z"
+        },
+        {
+          "title": "Fix: [Bounty] Reverse bounty",
+          "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/pull/2471",
+          "repositoryUrl": "https://api.github.com/repos/zhangjiayang6835-cyber/bounty-plaza",
+          "updatedAt": "2026-10-19T03:06:38Z"
+        },
+        {
+          "title": "#419 Draft: design-led unified Work Order / Task Feedback read-only ledger",
+          "url": "https://github.com/Gregovate/MSB-Production-Database-Project/pull/420",
+          "repositoryUrl": "https://api.github.com/repos/Gregovate/MSB-Production-Database-Project",
+          "updatedAt": "2026-10-19T03:06:38Z"
         },
         {
           "title": "NPPE: Learning 120/120 + Mock A reviewed (draft, release held)",
           "url": "https://github.com/UpSkillSprint-Consulting/upskill-sprint/pull/301",
           "repositoryUrl": "https://api.github.com/repos/UpSkillSprint-Consulting/upskill-sprint",
-          "updatedAt": "2026-10-19T02:50:01Z"
+          "updatedAt": "2026-10-19T03:06:37Z"
         },
         {
-          "title": "feat(ios): add role viewer, tags management, and tag picker",
-          "url": "https://github.com/Llamenos-Hotline/llamenos-platform/pull/1811",
-          "repositoryUrl": "https://api.github.com/repos/Llamenos-Hotline/llamenos-platform",
-          "updatedAt": "2026-10-19T02:50:01Z"
-        },
-        {
-          "title": "SelfBody #632 + SelfWorld #633 — read-only Self-side body/world views (stacked on #545)",
-          "url": "https://github.com/rinsakamo/relay-self/pull/634",
-          "repositoryUrl": "https://api.github.com/repos/rinsakamo/relay-self",
-          "updatedAt": "2026-10-19T02:49:56Z"
-        },
-        {
-          "title": "feat(sandbox): integrate AXIS and MXC with shared policy enforcement",
-          "url": "https://github.com/cisco-ai-defense/defenseclaw/pull/1308",
-          "repositoryUrl": "https://api.github.com/repos/cisco-ai-defense/defenseclaw",
-          "updatedAt": "2026-10-19T02:49:56Z"
-        },
-        {
-          "title": "feat(thread): fetch and cache direct-child pages on demand",
-          "url": "https://github.com/pyrycode/pyrycode-desktop/issues/2102",
-          "repositoryUrl": "https://api.github.com/repos/pyrycode/pyrycode-desktop",
-          "updatedAt": "2026-10-19T02:49:56Z"
-        },
-        {
-          "title": "docs(strategy): add maturity registries and the 50-action backlog",
-          "url": "https://github.com/harrisonjrubin7-cmyk/semester/pull/1578",
-          "repositoryUrl": "https://api.github.com/repos/harrisonjrubin7-cmyk/semester",
-          "updatedAt": "2026-10-19T02:49:59Z"
-        },
-        {
-          "title": "[PROGRAM-RH-SCREW] Complete source-preserving spectral descent and arithmetic return",
-          "url": "https://github.com/grwtsk/math/issues/99",
-          "repositoryUrl": "https://api.github.com/repos/grwtsk/math",
-          "updatedAt": "2026-10-19T02:49:56Z"
+          "title": "feat(flame-hub): track hub 0.18.0 and authup chart 0.5.1 (beta.69)",
+          "url": "https://github.com/PrivateAIM/helm/pull/207",
+          "repositoryUrl": "https://api.github.com/repos/PrivateAIM/helm",
+          "updatedAt": "2026-10-19T03:06:37Z"
         }
       ]
     },
