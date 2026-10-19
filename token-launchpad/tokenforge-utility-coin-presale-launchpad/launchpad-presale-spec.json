@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T11:26:00.209Z",
-  "latencyMs": 282,
+  "executedAt": "2026-10-19T11:42:09.668Z",
+  "latencyMs": 1027,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #741: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #742: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52809906,
+    "liveBlockNumber": 52810391,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459028,
-    "baseMainnetTopPoolsVolume24hUsd": 96977,
+    "baseMainnetTopPoolsVolume24hUsd": 97253,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5NUbmPHHHj3zYqiyE2GXsNXCH3W2Eo4gbX2HryC5pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/5nubmphhhj3zyqiye2gxsnxch3w2eo4gbx2hryc5pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3zh9fAUC25SLVSKJJ6Qs7nkiky3nq1nHBdcuSAcxpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x8a06F3EB79230F889614969e24e649db27b21111",
         "description": "Blowtorch ($blowtorch) is a community-driven meme token launched on Robinhood Chain through the Torch launchpad platform. The project centers around the Torch c",
         "url": "https://dexscreener.com/robinhood/0x8a06f3eb79230f889614969e24e649db27b21111"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "E123uJ951ndN5xJVnykaSCMcMFQJseSMpGzMuiXWpump",
-        "description": "Maru fuses Solana and tokenized NVIDIA into a single SPL token. Each unit is a share of a full-range SOL / NVDA liquidity position whose trading fees are folded",
-        "url": "https://dexscreener.com/solana/e123uj951ndn5xjvnykascmcmfqjsesmpgzmuixwpump"
       }
     ]
   },
