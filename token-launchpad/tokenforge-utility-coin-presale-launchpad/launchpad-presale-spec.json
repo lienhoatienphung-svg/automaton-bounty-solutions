@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T11:07:35.373Z",
-  "latencyMs": 472,
+  "executedAt": "2026-10-19T11:24:04.537Z",
+  "latencyMs": 383,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #739: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #740: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52809354,
+    "liveBlockNumber": 52809848,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459028,
-    "baseMainnetTopPoolsVolume24hUsd": 97238,
+    "baseMainnetTopPoolsVolume24hUsd": 98068,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3zh9fAUC25SLVSKJJ6Qs7nkiky3nq1nHBdcuSAcxpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/3zh9fauc25slvskjj6qs7nkiky3nq1nhbdcusacxpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DA5aQAbx2jLyTVBgyb2xu6F7NDkzYjkA4Xxcebx9STKS",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/da5aqabx2jlytvbgyb2xu6f7ndkzyjka4xxcebx9stks"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5qStJjpzRNzEqZjZFjsFmFKF7aykYhBHx6VYjTxspump",
+        "description": "🎤 KAIDA, the AI singer\n\nKaida is an invented AI pop star by DJ SHO974: copper hair, a white robotic arm and a choker with a small blue light. She sings about A",
+        "url": "https://dexscreener.com/solana/5qstjjpzrnzeqzjzfjsfmfkf7aykyhbhx6vyjtxspump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xB1077b7e83be572DE3CB32b2543109ad28bD1111",
+        "description": "literally just a dog with a torch.",
+        "url": "https://dexscreener.com/robinhood/0xb1077b7e83be572de3cb32b2543109ad28bd1111"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x28085A3e9C246c54aC5b045064b0421b8a3AcA84",
@@ -57,30 +81,6 @@
         "tokenAddress": "E123uJ951ndN5xJVnykaSCMcMFQJseSMpGzMuiXWpump",
         "description": "Maru fuses Solana and tokenized NVIDIA into a single SPL token. Each unit is a share of a full-range SOL / NVDA liquidity position whose trading fees are folded",
         "url": "https://dexscreener.com/solana/e123uj951ndn5xjvnykascmcmfqjsesmpgzmuixwpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "83jgKQ9bMQ7CtC9P7Mq4vaWFNypBWdqoRmdTKF5bpump",
-        "description": "Save Europe with Remigration.",
-        "url": "https://dexscreener.com/solana/83jgkq9bmq7ctc9p7mq4vawfnypbwdqormdtkf5bpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Ghd4akDGDa2cm8vPGYzy4QRr1KrQ6Vk8tiHbj5H5pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ghd4akdgda2cm8vpgyzy4qrr1krq6vk8tihbj5h5pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "26zUmHFixHuFcSMZqkmvn18Xazw7xxPCsHTw4g8zpump",
-        "description": "unga bunga. me grog.",
-        "url": "https://dexscreener.com/solana/26zumhfixhufcsmzqkmvn18xazw7xxpcshtw4g8zpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xc081f170df4642f49186be6b5573d0c6fb78da1b",
-        "description": "Mercury helps agencies turn ideas into LinkedIn drafts and carousels, refine every voice, and get client approval before export. Powered by Orbio.",
-        "url": "https://dexscreener.com/robinhood/0xc081f170df4642f49186be6b5573d0c6fb78da1b"
       }
     ]
   },
