@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T16:56:39.474Z",
-  "latencyMs": 999,
+  "executedAt": "2026-10-19T17:12:46.060Z",
+  "latencyMs": 854,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #779: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #780: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "z1YjH3V5CVxK4HkUSJbTJbbCN9qY8SURNrB5T3kpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Privacy-first agents built on Solana",
+      "url": "https://dexscreener.com/solana/z1yjh3v5cvxk4hkusjbtjbbcn9qy8surnrb5t3kpump"
+    },
+    {
       "chainId": "bsc",
       "tokenAddress": "0x6B5b4Cc9F07d10Cc48e75D234cFE04a0931B7777",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "TART is the ecosystem token of TartSwap Dex on BNB Chain. Fixed 10B supply, live buyback & burn, Self-custody DeFi with  swaps, real-yield farms & staking, plus",
       "url": "https://dexscreener.com/bsc/0x7ab8d02cbb51ff7223fde700eaaa2a91bf750314"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8NL69xpoXRHKvbGYRyD7RFiQvzps776M37kh4mD2ETCH",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Ansem said XXX paired with BTC will do good in his opinion. Let's test the theory",
-      "url": "https://dexscreener.com/solana/8nl69xpoxrhkvbgyryd7rfiqvzps776m37kh4md2etch"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 692,
-      "priceBtc": 3.5603098748272013e-7
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.164392331986485e-8
+      "marketCapRank": 738,
+      "priceBtc": 2.950434625554186e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 96,
-      "priceBtc": 0.000023357273495434636
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 684,
-      "priceBtc": 0.0011500295794392942
+      "priceBtc": 0.000023292951667000324
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 90,
-      "priceBtc": 0.000023194056940349237
+      "priceBtc": 0.000022993776617064174
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.150865065154194e-8
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 685,
+      "priceBtc": 0.0011490051916914767
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 123,
+      "priceBtc": 6.955253160364248e-7
+    },
+    {
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "marketCapRank": 104,
+      "priceBtc": 0.0000045304090559341175
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9994078200647019
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 124,
-      "priceBtc": 6.92861165911116e-7
-    },
-    {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "marketCapRank": 71,
-      "priceBtc": 0.00029197841445648706
+      "priceBtc": 0.9995558552777664
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Switch on the Swift SDK integration tier: the target, the key and an advisory job",
-      "url": "https://github.com/Crossmint/crossmint-swift-sdk/pull/207",
-      "createdAt": "2026-10-19T14:39:31Z"
+      "title": "chore: gh worklofws",
+      "url": "https://github.com/MetaMask/metamask-mobile/pull/37530",
+      "createdAt": "2026-10-13T16:25:08Z"
     },
     {
-      "title": "Add reviews/target_audience.md: JMD reviewer-profile diversity + Edison-grounded candidate reviewer pool (+ lander-style outreach contacts +",
-      "url": "https://github.com/vertical-cloud-lab/tensegrity-optimization/pull/41",
-      "createdAt": "2026-05-09T03:50:09Z"
+      "title": "Entry: Forty-Two, the reindeer of St. Matthew Island, 1944 to 1985",
+      "url": "https://github.com/realrobertdouglas/journalsofexperiments.com/pull/7",
+      "createdAt": "2026-10-19T16:39:54Z"
     },
     {
-      "title": "refactor: one hidden-line table entry, and one set of U4 token-row pieces",
-      "url": "https://github.com/Chalet-Labs/portu/issues/147",
-      "createdAt": "2026-10-19T15:28:23Z"
+      "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
+      "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
+      "createdAt": "2026-10-16T09:56:24Z"
     },
     {
-      "title": "data(filecoin): list Calibration DataCap faucet",
-      "url": "https://github.com/Chain-Love/chain-love/pull/4064",
-      "createdAt": "2026-10-01T10:06:49Z"
+      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
+      "url": "https://github.com/Dillen198/bfnext/pull/1",
+      "createdAt": "2026-01-19T07:41:07Z"
     },
     {
-      "title": "docs(runbooks): add test funds runbook (faucet hangs or errors, or tNIGHT but no DUST)",
-      "url": "https://github.com/midnightntwrk/servicedesk/pull/255",
-      "createdAt": "2026-10-17T00:33:38Z"
+      "title": "batch_claim_reward bypasses pause check while claim_reward checks it",
+      "url": "https://github.com/ChainLearnOfficial/chainlearn-contracts/issues/497",
+      "createdAt": "2026-09-30T08:49:00Z"
     },
     {
-      "title": "merkle-airdrop template: no tool to build the tree and proofs",
-      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/605",
-      "createdAt": "2026-10-16T22:12:09Z"
+      "title": "TASK021: public TESTNET operations readiness and ownership",
+      "url": "https://github.com/g8ht6jzdds-rgb/NovaCoin/issues/8",
+      "createdAt": "2026-10-08T18:06:28Z"
     }
   ]
 }
