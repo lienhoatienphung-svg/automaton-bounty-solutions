@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T22:29:17.817Z",
-  "latencyMs": 406,
+  "executedAt": "2026-10-19T22:31:31.844Z",
+  "latencyMs": 264,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #810: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
+  "workTitle": "Delivery Sprint #811: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52829805,
+    "liveBlockNumber": 52829872,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440986,
-    "baseMainnetTopPoolsVolume24hUsd": 104374,
+    "baseMainnetTopPoolsVolume24hUsd": 104305,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Bo1C8taJY8b6YAdZpwSFyNQfpQz5mySYP134pcYbpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bo1c8tajy8b6yadzpwsfynqfpqz5mysyp134pcybpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "JAMYERM4aRRLBNLgS78Hc6LByjQymV3honrrdumVpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "8E9Yxj5hk2APFVNmktDuUfzGFX7ndhidDbWvBFNwpump",
         "description": "Fusing memecoins and NFTs into one mint. NTS-1: numbered, capped, liquid from birth. Built on Token-2022.",
         "url": "https://dexscreener.com/solana/8e9yxj5hk2apfvnmktduufzgfx7ndhiddbwvbfnwpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7Zu4p3L6fhk9MJbv2V8x2u1YJANvkdR6eN1vzUPkpump",
-        "description": "Open boxes. Find rare loot. Pawn it for SOL.\n\nBuilt on Solana.",
-        "url": "https://dexscreener.com/solana/7zu4p3l6fhk9mjbv2v8x2u1yjanvkdr6en1vzupkpump"
       }
     ]
   },
