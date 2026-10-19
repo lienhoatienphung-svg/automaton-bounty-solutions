@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T00:01:05.204Z",
-  "latencyMs": 8789,
+  "executedAt": "2026-10-19T00:03:41.761Z",
+  "latencyMs": 768,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #698: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #699: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "Free G-code Inspector, system fonts, inch display and running G-code files (ADR-627–630)",
+          "url": "https://github.com/cisgz3a-hub/KerfDesk/pull/1287",
+          "repositoryUrl": "https://api.github.com/repos/cisgz3a-hub/KerfDesk",
+          "updatedAt": "2026-10-19T00:03:38Z"
+        },
+        {
+          "title": "feat: registro de acesso por 6 meses (Marco Civil)",
+          "url": "https://github.com/camilagama/polaris/pull/146",
+          "repositoryUrl": "https://api.github.com/repos/camilagama/polaris",
+          "updatedAt": "2026-10-19T00:03:38Z"
+        },
+        {
+          "title": "Dependency Dashboard",
+          "url": "https://github.com/sanity-io/pkg-utils/issues/2905",
+          "repositoryUrl": "https://api.github.com/repos/sanity-io/pkg-utils",
+          "updatedAt": "2026-10-19T00:03:38Z"
+        },
+        {
+          "title": "feat(ssh): complete independent carrier for parallel execution stack",
+          "url": "https://github.com/WayfarerLabs/agentworks/pull/832",
+          "repositoryUrl": "https://api.github.com/repos/WayfarerLabs/agentworks",
+          "updatedAt": "2026-10-19T00:03:38Z"
+        },
+        {
+          "title": "Calls: voice moderation (mute for everyone, disconnect, move)",
+          "url": "https://github.com/Duell10111/NexSpeak/issues/46",
+          "repositoryUrl": "https://api.github.com/repos/Duell10111/NexSpeak",
+          "updatedAt": "2026-10-19T00:03:37Z"
+        },
+        {
+          "title": "BLOCKER: qualify real Zitadel HTTPS staging login/callback and Studio/RR tenant grants",
+          "url": "https://github.com/qdip-ai/qdip-web/issues/230",
+          "repositoryUrl": "https://api.github.com/repos/qdip-ai/qdip-web",
+          "updatedAt": "2026-10-19T00:03:36Z"
+        },
+        {
+          "title": "feat: growing capability registry, impact mapping and fail-closed coverage CI (above #425)",
+          "url": "https://github.com/mad4bdigital-ai/WordPress/pull/426",
+          "repositoryUrl": "https://api.github.com/repos/mad4bdigital-ai/WordPress",
+          "updatedAt": "2026-10-19T00:03:35Z"
+        },
+        {
+          "title": "feat(backend): fold free-tier gates into ladder capabilities",
+          "url": "https://github.com/BasedHardware/omi/pull/22238",
+          "repositoryUrl": "https://api.github.com/repos/BasedHardware/omi",
+          "updatedAt": "2026-10-19T00:03:35Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
