@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T01:53:13.504Z",
-  "latencyMs": 342,
+  "executedAt": "2026-10-19T02:09:07.617Z",
+  "latencyMs": 318,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #727: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #728: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52792723,
+    "liveBlockNumber": 52793200,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,34 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459004,
-    "baseMainnetTopPoolsVolume24hUsd": 140540,
+    "baseMainnetTopPoolsLiquidityUsd": 459022,
+    "baseMainnetTopPoolsVolume24hUsd": 140458,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "AdxkHSir9awditKsDSVqZn3LEtZiu4UhLVCYA2mdpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/adxkhsir9awditksdsvqzn3letziu4uhlvcya2mdpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "A85vBkD3WCiWdYssMh3RAvsQzneYCuZCCEk429Ewpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/a85vbkd3wciwdyssmh3ravsqzneycuzccek429ewpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GFp8rmPjQchpVe3RD65L6dmCwvRf4rKRJNUMxLNs71oo",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gfp8rmpjqchpve3rd65l6dmcwvrf4rkrjnumxlns71oo"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Aqjab5JA86puWyn8LxrBxJe4anawmyzJ58B5GzNipump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/aqjab5ja86puwyn8lxrbxje4anawmyzj58b5gznipump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Ds1dKZPV9k7GqtZKrAo6qi7WuHUeER4FmasxacRDpump",
@@ -54,33 +78,9 @@
       },
       {
         "chainId": "solana",
-        "tokenAddress": "E3VMQsLz2X2z2VHxKJuP4v4wMgctEsnbVWh1h7GGpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/e3vmqslz2x2z2vhxkjup4v4wmgctesnbvwh1h7ggpump"
-      },
-      {
-        "chainId": "solana",
         "tokenAddress": "HGWHu99rAVJYUow7hHQDRUvVBmWs4jd4MMLbYdW7pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/hgwhu99ravjyuow7hhqdruvvbmws4jd4mmlbydw7pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x26F4e397b57D40A736c4217FB30d025F1fdb8440",
-        "description": "Colony is the Robinhood Chain web crawler that grades every wallet. Look up any token or wallet, launch-block snipers, bundles, dev history, take-back traps and",
-        "url": "https://dexscreener.com/robinhood/0x26f4e397b57d40a736c4217fb30d025f1fdb8440"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Aa6S3e7x6fSEpFQT53YJHrpQSu5GMdRFdT1TBUjtpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/aa6s3e7x6fsepfqt53yjhrpqsu5gmdrfdt1tbujtpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AkDAiyNyazPXEoXfY1jkehT8TvMd1pUpiwWQ89yjpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/akdaiynyazpxeoxfy1jkeht8tvmd1pupiwwq89yjpump"
       }
     ]
   },
