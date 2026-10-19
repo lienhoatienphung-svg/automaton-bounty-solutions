@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T12:01:12.001Z",
-  "latencyMs": 278,
+  "executedAt": "2026-10-19T12:03:23.029Z",
+  "latencyMs": 334,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #744: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #745: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52810962,
+    "liveBlockNumber": 52811027,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459028,
-    "baseMainnetTopPoolsVolume24hUsd": 95154,
+    "baseMainnetTopPoolsVolume24hUsd": 95153,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xE02c0f0f793Cf0dCBE441B222A7C8104f3fF7a9d",
+        "description": "The Kabosu family reveals their new kitten’s name, Kibi, on Japanese TV. A new chapter in an internet-famous family’s story.",
+        "url": "https://dexscreener.com/robinhood/0xe02c0f0f793cf0dcbe441b222a7c8104f3ff7a9d"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Dbz3NpeVgH3mg2yVkRGzKUb3cpMXn2JhfRNMDzd5vaUU",
@@ -75,12 +81,6 @@
         "tokenAddress": "DA5aQAbx2jLyTVBgyb2xu6F7NDkzYjkA4Xxcebx9STKS",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/da5aqabx2jlytvbgyb2xu6f7ndkzyjka4xxcebx9stks"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5qStJjpzRNzEqZjZFjsFmFKF7aykYhBHx6VYjTxspump",
-        "description": "🎤 KAIDA, the AI singer\n\nKaida is an invented AI pop star by DJ SHO974: copper hair, a white robotic arm and a choker with a small blue light. She sings about A",
-        "url": "https://dexscreener.com/solana/5qstjjpzrnzeqzjzfjsfmfkf7aykyhbhx6vyjtxspump"
       }
     ]
   },
