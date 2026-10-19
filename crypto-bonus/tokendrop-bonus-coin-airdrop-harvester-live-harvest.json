@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T17:12:46.060Z",
-  "latencyMs": 854,
+  "executedAt": "2026-10-19T17:14:30.862Z",
+  "latencyMs": 850,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #780: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #781: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "3qSd27nb3zyRmqbhLzH4PdeYcADqeLtjgYy2Fp4Apump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "🐕🚀 ELONDOG — A NEW ADVENTURE BEGINS.\n\nA fearless cyber Doge. A Cybertruck. One destination: MARS. 🔴\n\nInspired by Elon’s futuristic universe and Doge’s legend",
+      "url": "https://dexscreener.com/solana/3qsd27nb3zyrmqbhlzh4pdeycadqeltjgyy2fp4apump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "z1YjH3V5CVxK4HkUSJbTJbbCN9qY8SURNrB5T3kpump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "The AI is getting smarter. The memes are getting dumber. 🐘🧠",
       "url": "https://dexscreener.com/solana/fqj79arbfyh8ojr6iwrsw2wesguv7rxavfad5mtgpump"
-    },
-    {
-      "chainId": "bsc",
-      "tokenAddress": "0x7AB8d02CBb51Ff7223fDe700eAaa2a91Bf750314",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "TART is the ecosystem token of TartSwap Dex on BNB Chain. Fixed 10B supply, live buyback & burn, Self-custody DeFi with  swaps, real-yield farms & staking, plus",
-      "url": "https://dexscreener.com/bsc/0x7ab8d02cbb51ff7223fde700eaaa2a91bf750314"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore: gh worklofws",
-      "url": "https://github.com/MetaMask/metamask-mobile/pull/37530",
-      "createdAt": "2026-10-13T16:25:08Z"
-    },
-    {
-      "title": "Entry: Forty-Two, the reindeer of St. Matthew Island, 1944 to 1985",
-      "url": "https://github.com/realrobertdouglas/journalsofexperiments.com/pull/7",
-      "createdAt": "2026-10-19T16:39:54Z"
-    },
-    {
       "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
       "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
       "createdAt": "2026-10-16T09:56:24Z"
     },
     {
-      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
-      "url": "https://github.com/Dillen198/bfnext/pull/1",
-      "createdAt": "2026-01-19T07:41:07Z"
+      "title": "fix: request validation, WebSocket cleanup, DB SSL, query limits",
+      "url": "https://github.com/SmartDropLabs/smartdrop-backend/pull/594",
+      "createdAt": "2026-10-19T17:14:20Z"
     },
     {
-      "title": "batch_claim_reward bypasses pause check while claim_reward checks it",
-      "url": "https://github.com/ChainLearnOfficial/chainlearn-contracts/issues/497",
-      "createdAt": "2026-09-30T08:49:00Z"
+      "title": "Security hardening batch 1: auth gate, SSRF fix, IP trust, CORS, secrets (issue #1)",
+      "url": "https://github.com/tradelayer-wallet/tl-relayer/pull/2",
+      "createdAt": "2026-10-13T10:29:03Z"
     },
     {
-      "title": "TASK021: public TESTNET operations readiness and ownership",
-      "url": "https://github.com/g8ht6jzdds-rgb/NovaCoin/issues/8",
-      "createdAt": "2026-10-08T18:06:28Z"
+      "title": "fix: align hLP accounting and settlement with accrued LP value",
+      "url": "https://github.com/omnipair/dusk/pull/52",
+      "createdAt": "2026-10-18T12:21:17Z"
+    },
+    {
+      "title": "contracts/staking: Prevent state modification inside read-only pending_rewards() view",
+      "url": "https://github.com/Fidelis900/soroban-starter-kit/issues/1335",
+      "createdAt": "2026-10-14T06:22:31Z"
+    },
+    {
+      "title": "feat(custody): dashboard-only devnet faucet replaces the RPC relay (HOO-2168)",
+      "url": "https://github.com/solana-foundation/solana-developer-platform/pull/2420",
+      "createdAt": "2026-10-19T17:08:15Z"
     }
   ]
 }
