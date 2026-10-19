@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T23:04:09.896Z",
-  "latencyMs": 1246,
+  "executedAt": "2026-10-19T23:06:21.241Z",
+  "latencyMs": 815,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #818: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #819: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix: share documents from the mobile Share button",
-      "url": "https://github.com/open-pencil/open-pencil/pull/1310",
-      "createdAt": "2026-10-19T23:03:33Z"
+      "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
+      "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
+      "createdAt": "2026-10-16T09:56:24Z"
     },
     {
-      "title": "[perf] spec-decoding: fuse simulated speculative acceptance tensor preparation",
-      "url": "https://github.com/sgl-project/sglang/pull/41169",
-      "createdAt": "2026-09-24T20:43:54Z"
+      "title": "fix: add safe Rialo CLI error diagnostics",
+      "url": "https://github.com/Mahmoud514/rialo-agentpay/pull/8",
+      "createdAt": "2026-10-19T22:55:35Z"
     },
     {
-      "title": "Add Omdrop (AirDrop for Omarchy) 0.18.2",
-      "url": "https://github.com/omacom/omarchy-pkgs/pull/1273",
-      "createdAt": "2026-10-18T20:00:44Z"
+      "title": "Raiden follow-up hits disappear after the owner leaves the snapshot",
+      "url": "https://github.com/qbisi/mechcore/issues/1321",
+      "createdAt": "2026-10-19T23:05:05Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "Harden Phase 1: atomic reward approval, payout finalization, and exact token amounts",
+      "url": "https://github.com/bitXbit-aus/bitxbit-rebrand/pull/1",
+      "createdAt": "2026-10-18T22:40:04Z"
     },
     {
-      "title": "Label amounts too small for six decimals as a threshold",
-      "url": "https://github.com/hemilabs/ui-monorepo/pull/2500",
-      "createdAt": "2026-10-19T14:34:44Z"
+      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
+      "createdAt": "2026-10-06T11:40:04Z"
     },
     {
-      "title": "Import every Instagram Saved collection at once, and open an AirDropped export on iPhone",
-      "url": "https://github.com/HarrisonFischberg/keepsake/pull/7",
-      "createdAt": "2026-10-19T20:25:44Z"
+      "title": "feat: add TTL response cache with documented freshness policy (v0.3.0)",
+      "url": "https://github.com/Robert-SD/appie-mcp/pull/1",
+      "createdAt": "2026-10-19T22:39:53Z"
     }
   ]
 }
