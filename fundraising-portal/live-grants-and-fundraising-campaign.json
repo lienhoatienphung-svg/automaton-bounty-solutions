@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T11:27:53.553Z",
-  "latencyMs": 623,
+  "executedAt": "2026-10-19T11:30:16.999Z",
+  "latencyMs": 2155,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #724: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #725: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "fix(mad4b): consolidate bounded MCP diagnostics and exact Staging owner-proof recovery",
+          "url": "https://github.com/mad4bdigital-ai/WordPress/pull/439",
+          "repositoryUrl": "https://api.github.com/repos/mad4bdigital-ai/WordPress",
+          "updatedAt": "2026-10-19T11:30:12Z"
+        },
+        {
+          "title": "NO-ISSUE: create tenant event topics with indefinite retention",
+          "url": "https://github.com/osac-project/osac/pull/1776",
+          "repositoryUrl": "https://api.github.com/repos/osac-project/osac",
+          "updatedAt": "2026-10-19T11:30:10Z"
+        },
+        {
+          "title": "P10-6: isolate fresh Google consent for existing second pilot identity",
+          "url": "https://github.com/Robinson-AI-Systems/google-workspace-mcp/pull/221",
+          "repositoryUrl": "https://api.github.com/repos/Robinson-AI-Systems/google-workspace-mcp",
+          "updatedAt": "2026-10-19T11:30:09Z"
+        },
+        {
+          "title": "Stop per-poll telemetry growth and lost events on the live service",
+          "url": "https://github.com/taskqorg/taskq/issues/1297",
+          "repositoryUrl": "https://api.github.com/repos/taskqorg/taskq",
+          "updatedAt": "2026-10-19T11:30:09Z"
+        },
+        {
+          "title": "Block Frame render and invoke until tool consent is granted.",
+          "url": "https://github.com/dust-tt/dust/pull/35254",
+          "repositoryUrl": "https://api.github.com/repos/dust-tt/dust",
+          "updatedAt": "2026-10-19T11:30:11Z"
+        },
+        {
+          "title": "elFinder permissions",
+          "url": "https://github.com/mautic/mautic/pull/17870",
+          "repositoryUrl": "https://api.github.com/repos/mautic/mautic",
+          "updatedAt": "2026-10-19T11:30:08Z"
+        },
+        {
+          "title": "[Swagger Linter Migration] ImplementPrivateEndpointAPIs -> private-endpoint-apis-missing",
+          "url": "https://github.com/Azure/typespec-azure/pull/5766",
+          "repositoryUrl": "https://api.github.com/repos/Azure/typespec-azure",
+          "updatedAt": "2026-10-19T11:30:08Z"
+        },
+        {
+          "title": "fix(console): small refusal and focus fixes from the 10-19 audit",
+          "url": "https://github.com/openclaw/openclaw-enterprise/pull/2930",
+          "repositoryUrl": "https://api.github.com/repos/openclaw/openclaw-enterprise",
+          "updatedAt": "2026-10-19T11:30:07Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
