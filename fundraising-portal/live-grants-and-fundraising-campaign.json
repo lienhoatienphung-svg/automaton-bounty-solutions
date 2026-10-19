@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T11:48:58.263Z",
-  "latencyMs": 991,
+  "executedAt": "2026-10-19T12:05:22.738Z",
+  "latencyMs": 1276,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #727: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #728: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "docs: neutral scheduling wording, deployment-defaults posture, and two link fixes",
-          "url": "https://github.com/cirwel/unitares/pull/2936",
-          "repositoryUrl": "https://api.github.com/repos/cirwel/unitares",
-          "updatedAt": "2026-10-19T11:48:53Z"
-        },
-        {
-          "title": "7236 token exchange admin UI",
-          "url": "https://github.com/IBM/mcp-context-forge/pull/7265",
-          "repositoryUrl": "https://api.github.com/repos/IBM/mcp-context-forge",
-          "updatedAt": "2026-10-19T11:48:52Z"
-        },
-        {
-          "title": "🐞 [BUG] Permit authenticated schema-1 epic graph adoption",
-          "url": "https://github.com/kburson/ai-task-manager/issues/2008",
-          "repositoryUrl": "https://api.github.com/repos/kburson/ai-task-manager",
-          "updatedAt": "2026-10-19T11:48:52Z"
-        },
-        {
-          "title": "ROADMAP: Dzvin daily psychological support → QDIP Mood Forecast",
-          "url": "https://github.com/mentality-prj/mentality-web/issues/482",
-          "repositoryUrl": "https://api.github.com/repos/mentality-prj/mentality-web",
-          "updatedAt": "2026-10-19T11:48:52Z"
-        },
-        {
-          "title": "Rename Trivy workflow to Security Scan",
-          "url": "https://github.com/ballerina-platform/module-ballerina-task/pull/559",
-          "repositoryUrl": "https://api.github.com/repos/ballerina-platform/module-ballerina-task",
-          "updatedAt": "2026-10-19T11:48:51Z"
-        },
-        {
-          "title": "[5066] integratre users with fk org",
-          "url": "https://github.com/Strongminds/kitos/pull/1515",
-          "repositoryUrl": "https://api.github.com/repos/Strongminds/kitos",
-          "updatedAt": "2026-10-19T11:48:51Z"
-        },
-        {
-          "title": "Add grantSupportGift for support and bulk compensation",
-          "url": "https://github.com/nklsrh/testpf/pull/7",
-          "repositoryUrl": "https://api.github.com/repos/nklsrh/testpf",
-          "updatedAt": "2026-10-19T11:48:50Z"
-        },
-        {
-          "title": "feat(screens): round 15 dossiq batch 9",
-          "url": "https://github.com/ConductionNL/dossiq/pull/4093",
-          "repositoryUrl": "https://api.github.com/repos/ConductionNL/dossiq",
-          "updatedAt": "2026-10-19T11:48:50Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
