@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T14:58:42.756Z",
-  "latencyMs": 1055,
+  "executedAt": "2026-10-19T15:16:46.119Z",
+  "latencyMs": 1117,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #747: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #748: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
+          "title": "feat(review-v3): Dev-A Owner and Host v3 execution proposals, durable recovery [WIP]",
+          "url": "https://github.com/Fuck-GH-Admin/cdut-studio-review-agent/pull/143",
+          "repositoryUrl": "https://api.github.com/repos/Fuck-GH-Admin/cdut-studio-review-agent",
+          "updatedAt": "2026-10-19T15:16:42Z"
+        },
+        {
+          "title": "test(gateway): prove native continuation and forbidden tool boundaries",
+          "url": "https://github.com/Mindburn-Labs/helm-ai-kernel/pull/1139",
+          "repositoryUrl": "https://api.github.com/repos/Mindburn-Labs/helm-ai-kernel",
+          "updatedAt": "2026-10-19T15:16:41Z"
+        },
+        {
+          "title": "Research: Create a map that can be used to navigate stories",
+          "url": "https://github.com/PRX/The-World-FE-Nextjs/issues/623",
+          "repositoryUrl": "https://api.github.com/repos/PRX/The-World-FE-Nextjs",
+          "updatedAt": "2026-10-19T15:16:45Z"
+        },
+        {
+          "title": "feat: add local TypeScript task assistant with ChatGPT sign-in",
+          "url": "https://github.com/kenfdev/taskmate-lab/pull/1",
+          "repositoryUrl": "https://api.github.com/repos/kenfdev/taskmate-lab",
+          "updatedAt": "2026-10-19T15:16:40Z"
+        },
+        {
+          "title": "chore: Introduce a single oc-test.sh entry point for OpenShift tests",
+          "url": "https://github.com/eclipse-che/che-operator/pull/2231",
+          "repositoryUrl": "https://api.github.com/repos/eclipse-che/che-operator",
+          "updatedAt": "2026-10-19T15:16:40Z"
+        },
+        {
+          "title": "[v0.10][T07][P0] Candidate validation and Shadow L4 evidence, zero production writes",
+          "url": "https://github.com/kaicreator-mm/domain-harness/issues/1174",
+          "repositoryUrl": "https://api.github.com/repos/kaicreator-mm/domain-harness",
+          "updatedAt": "2026-10-19T15:16:39Z"
+        },
+        {
+          "title": "feat: E-commerce Growth Engine safe Shopify order-event foundation",
+          "url": "https://github.com/yanivwpu/Lead-Flow-Manager/pull/109",
+          "repositoryUrl": "https://api.github.com/repos/yanivwpu/Lead-Flow-Manager",
+          "updatedAt": "2026-10-19T15:16:38Z"
+        },
+        {
           "title": "transport: Keep the last stream of each kind for a Command stream",
           "url": "https://github.com/synnaxlabs/foundation/pull/3374",
           "repositoryUrl": "https://api.github.com/repos/synnaxlabs/foundation",
-          "updatedAt": "2026-10-19T14:58:37Z"
-        },
-        {
-          "title": "Bind Petal reviews to selected accounts and actual EVM/Solana signing bytes",
-          "url": "https://github.com/bloom-directory/bloom/pull/224",
-          "repositoryUrl": "https://api.github.com/repos/bloom-directory/bloom",
-          "updatedAt": "2026-10-19T14:58:37Z"
-        },
-        {
-          "title": "feat: add aria2c to the agent image",
-          "url": "https://github.com/silvenga-docker/agent-image/pull/51",
-          "repositoryUrl": "https://api.github.com/repos/silvenga-docker/agent-image",
-          "updatedAt": "2026-10-19T14:58:36Z"
-        },
-        {
-          "title": "SAM evidence security: exact public CSV contract, safe S3 redirects, redacted errors",
-          "url": "https://github.com/P00NSMASHER/capturebrief/pull/53",
-          "repositoryUrl": "https://api.github.com/repos/P00NSMASHER/capturebrief",
-          "updatedAt": "2026-10-19T14:58:36Z"
-        },
-        {
-          "title": "Workout Tracker native release candidate and conflict-safe saving",
-          "url": "https://github.com/mrswain69-dotcom/workout-tracker/pull/144",
-          "repositoryUrl": "https://api.github.com/repos/mrswain69-dotcom/workout-tracker",
-          "updatedAt": "2026-10-19T14:58:36Z"
-        },
-        {
-          "title": "feat(home): welcome members into a persona home",
-          "url": "https://github.com/hypha-dao/hypha-web/pull/2521",
-          "repositoryUrl": "https://api.github.com/repos/hypha-dao/hypha-web",
-          "updatedAt": "2026-10-19T14:58:36Z"
-        },
-        {
-          "title": "FIL-1460 chore(bin): repair canceled subscriptions still marked live, report short grace",
-          "url": "https://github.com/fil-one/fil-one/pull/845",
-          "repositoryUrl": "https://api.github.com/repos/fil-one/fil-one",
-          "updatedAt": "2026-10-19T14:58:35Z"
-        },
-        {
-          "title": "ci(check): harden Rust lanes against runner disk exhaustion",
-          "url": "https://github.com/TogetherWeOwn/two-bot-next/pull/1305",
-          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/two-bot-next",
-          "updatedAt": "2026-10-19T14:58:35Z"
+          "updatedAt": "2026-10-19T15:16:41Z"
         }
       ]
     },
