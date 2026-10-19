@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T13:14:54.818Z",
-  "latencyMs": 1115,
+  "executedAt": "2026-10-19T13:31:53.517Z",
+  "latencyMs": 1232,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #757: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #758: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 598783,
-      "apyBase": 4.72,
-      "apyRewardBonus": 264277.77,
-      "apyTotal": 264282.49,
+      "tvlUsd": 598975,
+      "apyBase": 4.88,
+      "apyRewardBonus": 234187.66,
+      "apyTotal": 234192.54,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -30,24 +30,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-VELVET",
-      "tvlUsd": 1077449,
-      "apyBase": 1.04,
-      "apyRewardBonus": 80712.44,
-      "apyTotal": 80713.48,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c07a115f-7299-4dd1-ac25-2de459010b6b"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 933232,
-      "apyBase": 25.38,
-      "apyRewardBonus": 74287.83,
-      "apyTotal": 74313.21,
+      "tvlUsd": 936127,
+      "apyBase": 24.99,
+      "apyRewardBonus": 100076.6,
+      "apyTotal": 100101.59,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -55,12 +42,25 @@
     },
     {
       "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-VELVET",
+      "tvlUsd": 1081636,
+      "apyBase": 1.03,
+      "apyRewardBonus": 79043.68,
+      "apyTotal": 79044.7,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c07a115f-7299-4dd1-ac25-2de459010b6b"
+    },
+    {
+      "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 51997,
+      "tvlUsd": 52502,
       "apyBase": 0,
-      "apyRewardBonus": 37331.9,
-      "apyTotal": 37331.9,
+      "apyRewardBonus": 36851.83,
+      "apyTotal": 36851.83,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -70,10 +70,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 253198,
-      "apyBase": 53.49,
-      "apyRewardBonus": 24042.37,
-      "apyTotal": 24095.86,
+      "tvlUsd": 255555,
+      "apyBase": 54.64,
+      "apyRewardBonus": 13497.49,
+      "apyTotal": 13552.13,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -82,15 +82,41 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "USDC-SNDKC",
+      "tvlUsd": 953554,
+      "apyBase": 146.25,
+      "apyRewardBonus": 7329.14,
+      "apyTotal": 7475.39,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 152978,
-      "apyBase": 26.29,
-      "apyRewardBonus": 6237.18,
-      "apyTotal": 6263.47,
+      "tvlUsd": 153742,
+      "apyBase": 26.69,
+      "apyRewardBonus": 6200.42,
+      "apyTotal": 6227.12,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "80739318-c205-4177-9207-3c4322925ac6"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 176922,
+      "apyBase": 25.06,
+      "apyRewardBonus": 6196.86,
+      "apyTotal": 6221.93,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
     },
     {
       "chain": "Base",
@@ -108,37 +134,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-MUC",
-      "tvlUsd": 666110,
-      "apyBase": 124.02,
-      "apyRewardBonus": 5019.84,
-      "apyTotal": 5143.86,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "3cd9aba2-1527-529a-9ecc-6bdc447494af"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-SNDKC",
-      "tvlUsd": 952449,
-      "apyBase": 123.99,
-      "apyRewardBonus": 4957.13,
-      "apyTotal": 5081.12,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "USDC-SPCXC",
-      "tvlUsd": 719528,
-      "apyBase": 137.12,
-      "apyRewardBonus": 3672.62,
-      "apyTotal": 3809.74,
+      "tvlUsd": 713092,
+      "apyBase": 122.08,
+      "apyRewardBonus": 4459.72,
+      "apyTotal": 4581.8,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -147,6 +147,14 @@
   ],
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
+    {
+      "chainId": "bsc",
+      "tokenAddress": "0x04b5074b83F0b07413FfBA60d05bbEd5aB214e2d",
+      "boostAmount": 10,
+      "totalBoostAmount": 40,
+      "description": "Meet 首席萌宠官 (Monkey) — the cutest companion in the crypto jungle! With a playful spirit and a mission to bring joy, this token is all about fun and community vib",
+      "url": "https://dexscreener.com/bsc/0x04b5074b83f0b07413ffba60d05bbed5ab214e2d"
+    },
     {
       "chainId": "solana",
       "tokenAddress": "BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t",
@@ -159,7 +167,7 @@
       "chainId": "bsc",
       "tokenAddress": "0x04b5074b83F0b07413FfBA60d05bbEd5aB214e2d",
       "boostAmount": 30,
-      "totalBoostAmount": 30,
+      "totalBoostAmount": 40,
       "description": "Meet 首席萌宠官 (Monkey) — the cutest companion in the crypto jungle! With a playful spirit and a mission to bring joy, this token is all about fun and community vib",
       "url": "https://dexscreener.com/bsc/0x04b5074b83f0b07413ffba60d05bbed5ab214e2d"
     },
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "The playable economy of Neetopia. Build your empire without getting employed, starting from your mom's basement. Created on Imagine.",
       "url": "https://dexscreener.com/solana/ye2mbzx8sl1bhfwpor9dpaozmkhge8eka4seeq5pump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x38bb87Cf3E7344A82be7CD671c191f015b97eEe6",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "The first Santa token on the Robinhood Blockchain — the OG and the original first mover.\n\n$SANTAHOOD is the native token of SANTRO EXCHANGE, the first centraliz",
-      "url": "https://dexscreener.com/robinhood/0x38bb87cf3e7344a82be7cd671c191f015b97eee6"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 770,
-      "priceBtc": 2.772212897864574e-7
+      "marketCapRank": 772,
+      "priceBtc": 2.755255079541013e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 99,
-      "priceBtc": 0.000022415748668549476
+      "priceBtc": 0.00002256845589223709
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 677,
-      "priceBtc": 0.0011921023076443252
+      "priceBtc": 0.0011864507551272057
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 90,
-      "priceBtc": 0.000022448482471778887
+      "priceBtc": 0.000022445995499426904
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 117,
-      "priceBtc": 9.274712175815907e-8
+      "name": "Osmosis",
+      "symbol": "OSMO",
+      "marketCapRank": 504,
+      "priceBtc": 7.106968729848815e-7
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9993940448645764
+      "priceBtc": 0.9998371601871311
     },
     {
-      "name": "Osmosis",
-      "symbol": "OSMO",
-      "marketCapRank": 514,
-      "priceBtc": 6.944076690881302e-7
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.265282944682749e-8
     },
     {
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "marketCapRank": 50,
-      "priceBtc": 0.000006159069015828391
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 102,
+      "priceBtc": 0.000007325720373980459
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Add Agent ChatUI on the main agent page",
-      "url": "https://github.com/valory-xyz/optimus/pull/398",
-      "createdAt": "2026-10-16T18:58:14Z"
+      "title": "feat!: node message and VM status in API errors, typed errors, timeoutMs and opt-in GET retry",
+      "url": "https://github.com/Entropy-Foundation/supra-ts-sdk/pull/21",
+      "createdAt": "2026-10-19T11:06:36Z"
     },
     {
-      "title": "chore: enable database features only in the respective connectors",
-      "url": "https://github.com/faucet-hq/faucet-stream/pull/901",
-      "createdAt": "2026-10-15T14:38:26Z"
+      "title": "feat!: add Network.DEVNET, enable the faucet on every network and throw on TryLater",
+      "url": "https://github.com/Entropy-Foundation/supra-ts-sdk/pull/19",
+      "createdAt": "2026-10-19T10:49:27Z"
     },
     {
-      "title": "Fix Avalanche Fuji QuickNode claim requirements and Somnia testnet faucet",
-      "url": "https://github.com/Chain-Love/chain-love/pull/4669",
-      "createdAt": "2026-10-19T12:15:07Z"
+      "title": "feat(mcp): add jaw_read_contracts on every JAW chain",
+      "url": "https://github.com/JustaLab-co/jaw-mono/pull/495",
+      "createdAt": "2026-10-19T12:50:40Z"
     },
     {
-      "title": "feat(sim): a node run drawn from its seed, through chaos, then healed (D27)",
-      "url": "https://github.com/justmoon/dassie/pull/134",
-      "createdAt": "2026-10-19T12:42:08Z"
+      "title": "ops(genesis): G5 ceremony runbook + keep_check in repo",
+      "url": "https://github.com/CitrateNetwork/citrate-chain/pull/329",
+      "createdAt": "2026-10-19T08:20:41Z"
     },
     {
-      "title": "feat(products): fundtest, a Paseo funding provider the testnet apps bundle",
-      "url": "https://github.com/paritytech/trinity-user-agents/pull/1402",
-      "createdAt": "2026-10-14T08:11:56Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "CHORE: Version packages",
-      "url": "https://github.com/4thtech/agentlink/pull/264",
-      "createdAt": "2026-10-18T18:17:25Z"
+      "title": "feat!: refuse SUPRA FA transfers the fungible store cannot cover; add migrateCoinToFungibleStore and getAccountSupraBalance",
+      "url": "https://github.com/Entropy-Foundation/supra-ts-sdk/pull/30",
+      "createdAt": "2026-10-19T12:22:19Z"
     }
   ]
 }
