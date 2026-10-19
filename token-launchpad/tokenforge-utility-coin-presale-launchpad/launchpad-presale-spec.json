@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T03:05:00.576Z",
-  "latencyMs": 332,
+  "executedAt": "2026-10-19T03:06:56.783Z",
+  "latencyMs": 328,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #734: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #735: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52794876,
+    "liveBlockNumber": 52794934,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459023,
-    "baseMainnetTopPoolsVolume24hUsd": 145260,
+    "baseMainnetTopPoolsVolume24hUsd": 145134,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2gEVZYoeQkny1UV4BGXVSpCiJ1cqRPeV5VKKefWioErp",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2gevzyoeqkny1uv4bgxvspcij1cqrpev5vkkefwioerp"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4sDXjyUx2XGmuJbAUZLwZbGD58zsERtP3YyL4L5xNZh3",
@@ -75,12 +81,6 @@
         "tokenAddress": "FvcHJY4sUiAK2c9c9kStWAWhraLhYfrgsC6ZNjYpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/fvchjy4suiak2c9c9kstwawhralhyfrgsc6znjypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "LqbSzVCimk2PcS7shoSt5Nfa5xYYCHW2fiCVg7Xpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/lqbszvcimk2pcs7shost5nfa5xyychw2ficvg7xpump"
       }
     ]
   },
