@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T21:51:29.808Z",
-  "latencyMs": 250,
+  "executedAt": "2026-10-19T21:55:29.415Z",
+  "latencyMs": 255,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #806: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #807: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52828671,
+    "liveBlockNumber": 52828791,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440988,
-    "baseMainnetTopPoolsVolume24hUsd": 102667,
+    "baseMainnetTopPoolsVolume24hUsd": 102641,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "FoENFLfRm5Ek4woCtWWmsbhXWBSdzGqqLGz2nS8Xpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/foenflfrm5ek4woctwwmsbhxwbsdzgqqlgz2ns8xpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "B8JTihgtuJEuKUx5SSXjige3GF4cGHRBV3N3NMuRpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x0D3B9F4D2f46424174686f9279794F36d73E157c",
         "description": "e0e is an experiment. A small program grown inside a Phala enclave, wired to a Uniswap v4 hook on Ethereum, and left to run.",
         "url": "https://dexscreener.com/ethereum/0x0d3b9f4d2f46424174686f9279794f36d73e157c"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6N5yurfeuPSXX6iHmN467pDhATB1o1nQAFnuZKxrpump",
-        "description": "The launchpad where the dev can’t touch the fees. Every coin gets its own vault, and holders vote where the fees go.",
-        "url": "https://dexscreener.com/solana/6n5yurfeupsxx6ihmn467pdhatb1o1nqafnuzkxrpump"
       }
     ]
   },
