@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-19T11:07:40.362Z",
-  "latencyMs": 1251,
+  "executedAt": "2026-10-19T11:10:16.384Z",
+  "latencyMs": 216,
   "companyName": "Behavioral AI Bot & Scraper Mitigation Audit",
-  "workTitle": "Growth & Sales Sprint #1384: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
-  "targetUrl": "https://polymarket.com/event/natoeu-troops-fighting-in-ukraine-in-2025",
+  "workTitle": "Delivery Sprint #1385: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "targetUrl": "https://polymarket.com/event/china-x-india-military-clash-by-december-31",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656688,
-        "liquidityUsd": 35614,
+        "liquidityUsd": 36725,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501815,
-        "liquidityUsd": 18307,
+        "liquidityUsd": 18864,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2204671,
-        "liquidityUsd": 68525,
+        "liquidityUsd": 67068,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059857,
-        "liquidityUsd": 252,
+        "liquidityUsd": 265,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1858067,
-        "liquidityUsd": 18804,
+        "liquidityUsd": 17990,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -112,7 +112,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000034,
         "liquidityUsd": 14836,
-        "volume24hUsd": 526,
+        "volume24hUsd": 524,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       },
       {
@@ -128,79 +128,8 @@
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 10,
+    "contractsPackagedCount": 5,
     "contracts": [
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Curtins",
-        "roleOrTask": "Graduate Transport Planner",
-        "industryTags": [
-          "hr",
-          "education",
-          "consulting",
-          "technical",
-          "customer support"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Packmatic GmbH",
-        "roleOrTask": "Key Account Manager Danish Market Native Speaker Copenhagen",
-        "industryTags": [
-          "exec",
-          "saas",
-          "technical",
-          "marketing",
-          "travel"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Yuno",
-        "roleOrTask": "Technical Account Manager",
-        "industryTags": [
-          "exec",
-          "design",
-          "hr",
-          "python",
-          "technical"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Apryse",
-        "roleOrTask": "Commercial Account Manager LATAM",
-        "industryTags": [
-          "exec"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Askable",
-        "roleOrTask": "Software Engineer AI Coding Tasks",
-        "industryTags": [
-          "dev",
-          "python",
-          "javascript",
-          "typescript",
-          "golang"
-        ],
-        "compensation": "$10000-$10000",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
       {
         "source": "Arbeitnow-GlobalB2B",
         "company": "Sidekick Network GmbH & Co. KG",
