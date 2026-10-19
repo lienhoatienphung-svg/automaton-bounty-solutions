@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T23:06:21.241Z",
-  "latencyMs": 815,
+  "executedAt": "2026-10-19T23:22:29.717Z",
+  "latencyMs": 684,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #819: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #820: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 757,
-      "priceBtc": 2.8101029736808396e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 695,
-      "priceBtc": 0.001126617924309742
+      "marketCapRank": 766,
+      "priceBtc": 2.7210687917348106e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 93,
-      "priceBtc": 0.00002421269579188815
+      "priceBtc": 0.00002411265692741642
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9992945079947246
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.186410711694045e-8
-    },
-    {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "marketCapRank": 71,
-      "priceBtc": 0.0002960879220485733
-    },
-    {
-      "name": "Backpack",
-      "symbol": "BP",
-      "marketCapRank": 150,
-      "priceBtc": 0.000014050778603139186
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 692,
+      "priceBtc": 0.0011345691791573894
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009648178024815732
+      "priceBtc": 0.0009651153185057704
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9988801306721451
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.001279885704783317
+    },
+    {
+      "name": "Backpack",
+      "symbol": "BP",
+      "marketCapRank": 150,
+      "priceBtc": 0.000014046708876299188
+    },
+    {
+      "name": "Sonic",
+      "symbol": "S",
+      "marketCapRank": 173,
+      "priceBtc": 7.066656767510553e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
-      "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
-      "createdAt": "2026-10-16T09:56:24Z"
+      "title": "AppWorld eval 5: Meta-Harness vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/885",
+      "createdAt": "2026-10-17T21:47:49Z"
     },
     {
-      "title": "fix: add safe Rialo CLI error diagnostics",
-      "url": "https://github.com/Mahmoud514/rialo-agentpay/pull/8",
-      "createdAt": "2026-10-19T22:55:35Z"
+      "title": "AppWorld eval 5: EvoSkill vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/884",
+      "createdAt": "2026-10-17T21:47:49Z"
     },
     {
-      "title": "Raiden follow-up hits disappear after the owner leaves the snapshot",
-      "url": "https://github.com/qbisi/mechcore/issues/1321",
-      "createdAt": "2026-10-19T23:05:05Z"
+      "title": "AppWorld eval 5: WikiSkill vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/883",
+      "createdAt": "2026-10-17T21:47:48Z"
     },
     {
-      "title": "Harden Phase 1: atomic reward approval, payout finalization, and exact token amounts",
-      "url": "https://github.com/bitXbit-aus/bitxbit-rebrand/pull/1",
-      "createdAt": "2026-10-18T22:40:04Z"
+      "title": "AppWorld eval 5: SkillOpt vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/882",
+      "createdAt": "2026-10-17T21:47:47Z"
     },
     {
-      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
-      "createdAt": "2026-10-06T11:40:04Z"
+      "title": "AppWorld eval 5: GEPA vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/881",
+      "createdAt": "2026-10-17T21:47:46Z"
     },
     {
-      "title": "feat: add TTL response cache with documented freshness policy (v0.3.0)",
-      "url": "https://github.com/Robert-SD/appie-mcp/pull/1",
-      "createdAt": "2026-10-19T22:39:53Z"
+      "title": "data(filecoin): add Forest Explorer USDFC faucet",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3152",
+      "createdAt": "2026-08-23T11:15:14Z"
     }
   ]
 }
