@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T12:01:10.191Z",
-  "latencyMs": 771,
+  "executedAt": "2026-10-19T12:17:12.841Z",
+  "latencyMs": 880,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #749: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #750: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "86sf1fnEu5g3Lhsg4F1pHJEtaRwszUZosU2e2PU7E5ar",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "$Pepe turned into a pumpkin. \n\nMeet $PUMPE, the spookiest frog on the blockchain. \n\nHalloween hits different when $Pepe wears a pumpkin.",
+      "url": "https://dexscreener.com/solana/86sf1fneu5g3lhsg4f1phjetarwszuzosu2e2pu7e5ar"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "8QtbrC9d3BezyCwzBFUQbNsWJGte7ckrZ7HWcn81pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Connecting the internet again with dickbutt",
+      "url": "https://dexscreener.com/solana/8qtbrc9d3bezycwzbfuqbnswjgte7ckrz7hwcn81pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "YE2mBZx8sL1bhfWpoR9dPAozmKhGE8eKa4sEEQ5pump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Meet Cosmo, Groklet's loyal space pup!\n\nHOLD $COSMO GET 3% $SPCX Rewards.\n\nGrok confirmed",
       "url": "https://dexscreener.com/ethereum/0xcc55066c764085cffde0b4ee6e23c29fd9d3c033"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "GeNwBZWJcWQAkLDdty7geii9xSjtCuga1qE9DDzLpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Cat O’Lantern ($CATO) is Solana’s Halloween Cat.\nA black cat with a pumpkin stem and a jack-o’-lantern grin🎃🐈‍⬛️\nCommunity meme.\nMeow🎃Hodl💎Moon🌙",
-      "url": "https://dexscreener.com/solana/genwbzwjcwqaklddty7geii9xsjtcuga1qe9ddzlpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "BVpFpksfdEwDgaUhZxdG8kSyfAekeYfKV4BdUfNJpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "According to Elon Musk, Super Pursuasive Super Intelligence will one shot us.",
-      "url": "https://dexscreener.com/solana/bvpfpksfdewdgauhzxdg8ksyfaekeyfkv4bdufnjpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 848,
-      "priceBtc": 2.313219979007408e-7
+      "marketCapRank": 825,
+      "priceBtc": 2.454602438078114e-7
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 666,
+      "priceBtc": 0.001205281389164159
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 99,
-      "priceBtc": 0.00002247856810525773
-    },
-    {
-      "name": "Quack AI",
-      "symbol": "Q",
-      "marketCapRank": 102,
-      "priceBtc": 0.0000015438521084579533
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 659,
-      "priceBtc": 0.0012215817509318462
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.000060252908517674285
+      "priceBtc": 0.0000224405134090335
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.087978383574197e-8
+      "priceBtc": 9.127707838524188e-8
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006046399973424584
+    },
+    {
+      "name": "Quack AI",
+      "symbol": "Q",
+      "marketCapRank": 102,
+      "priceBtc": 0.0000015438649157716606
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 49,
-      "priceBtc": 5.403642580087229e-8
+      "priceBtc": 5.438709592153815e-8
     },
     {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012714559570613014
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.0007615471379794
     }
   ],
   "activeAirdropAndFaucetQuests": [
-    {
-      "title": "Native SOL support: trade SOL as a first-class asset (transparent wSOL wrapping)",
-      "url": "https://github.com/unleaktrade/app/issues/107",
-      "createdAt": "2026-10-19T11:55:25Z"
-    },
-    {
-      "title": "Update stale laboratory.stellar.org links in the MCP server",
-      "url": "https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/405",
-      "createdAt": "2026-10-15T14:51:10Z"
-    },
-    {
-      "title": "wSOL lifecycle regression tests: SOL as base and quote, no program change (app#107 companion)",
-      "url": "https://github.com/unleaktrade/settlement-engine/issues/45",
-      "createdAt": "2026-10-19T12:00:26Z"
-    },
     {
       "title": "refactor: switch the draft proposal plumbing from probs to logits.",
       "url": "https://github.com/xLLM-AI/xllm/pull/2509",
       "createdAt": "2026-10-18T07:37:42Z"
     },
     {
-      "title": "Run scripts/check-funding-links.ts on a CI schedule",
-      "url": "https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/451",
-      "createdAt": "2026-10-15T14:55:08Z"
+      "title": "Кнопка «Поделиться» рядом с «Копировать» и «Сохранить»",
+      "url": "https://github.com/kobozevomd/ShotMark/pull/1",
+      "createdAt": "2026-10-19T12:16:53Z"
     },
     {
-      "title": "test(functional): cover community token mint, airdrop, and burn",
-      "url": "https://github.com/status-im/status-go/pull/7942",
-      "createdAt": "2026-10-15T09:09:13Z"
+      "title": "Refund unused shots on win and add flying coin animation",
+      "url": "https://github.com/usernode-bot/goalio-a110d1/issues/111",
+      "createdAt": "2026-10-19T11:52:24Z"
+    },
+    {
+      "title": "Add long-video-token-compression task (training-free)",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/98",
+      "createdAt": "2026-10-19T12:13:59Z"
+    },
+    {
+      "title": "feat: add primary hiro testnet and remove testnet3 and sbtc testnet",
+      "url": "https://github.com/leather-io/mono/pull/2834",
+      "createdAt": "2026-10-07T08:34:31Z"
+    },
+    {
+      "title": "feat(manager): pay for registrations with USDC bridged in from an L2",
+      "url": "https://github.com/ensdomains/apps-monorepo/pull/1395",
+      "createdAt": "2026-10-16T19:16:49Z"
     }
   ]
 }
