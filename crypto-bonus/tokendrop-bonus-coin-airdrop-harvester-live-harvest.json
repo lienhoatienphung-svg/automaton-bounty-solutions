@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T03:23:11.200Z",
-  "latencyMs": 1366,
+  "executedAt": "2026-10-19T11:03:03.508Z",
+  "latencyMs": 2099,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #741: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #742: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -17,11 +17,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "CTR-USDC",
+      "tvlUsd": 596468,
+      "apyBase": 4.58,
+      "apyRewardBonus": 270276.26,
+      "apyTotal": 270280.84,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "47bb2cb3-6a91-43ee-9dde-abceb2ded03f"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1093699,
-      "apyBase": 1.17,
-      "apyRewardBonus": 79486.39,
-      "apyTotal": 79487.56,
+      "tvlUsd": 1081532,
+      "apyBase": 1.06,
+      "apyRewardBonus": 81737.52,
+      "apyTotal": 81738.59,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -30,24 +43,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "CTR-USDC",
-      "tvlUsd": 598096,
-      "apyBase": 4.94,
-      "apyRewardBonus": 46803.23,
-      "apyTotal": 46808.18,
+      "symbol": "USDC-PROS",
+      "tvlUsd": 942800,
+      "apyBase": 29.05,
+      "apyRewardBonus": 76884.31,
+      "apyTotal": 76913.35,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "47bb2cb3-6a91-43ee-9dde-abceb2ded03f"
+      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
     },
     {
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 52712,
+      "tvlUsd": 52394,
       "apyBase": 0,
-      "apyRewardBonus": 37582.2,
-      "apyTotal": 37582.2,
+      "apyRewardBonus": 37708.01,
+      "apyTotal": 37708.01,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -56,24 +69,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-PROS",
-      "tvlUsd": 944656,
-      "apyBase": 19.43,
-      "apyRewardBonus": 23063.99,
-      "apyTotal": 23083.42,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 255925,
-      "apyBase": 61.34,
-      "apyRewardBonus": 12889.66,
-      "apyTotal": 12951,
+      "tvlUsd": 255473,
+      "apyBase": 53,
+      "apyRewardBonus": 14486.87,
+      "apyTotal": 14539.87,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -83,10 +83,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "AVNT-USDC",
-      "tvlUsd": 669396,
+      "tvlUsd": 663922,
       "apyBase": 0.39,
-      "apyRewardBonus": 7006.2,
-      "apyTotal": 7006.59,
+      "apyRewardBonus": 11772.02,
+      "apyTotal": 11772.41,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -95,11 +95,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 3146325,
+      "apyBase": 66.16,
+      "apyRewardBonus": 6004.54,
+      "apyTotal": 6070.7,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "USDC-CBBTC",
-      "tvlUsd": 176974,
-      "apyBase": 20.85,
-      "apyRewardBonus": 6575.81,
-      "apyTotal": 6596.66,
+      "tvlUsd": 178344,
+      "apyBase": 22.55,
+      "apyRewardBonus": 5973.33,
+      "apyTotal": 5995.88,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -108,24 +121,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-SNDKC",
-      "tvlUsd": 945632,
-      "apyBase": 133.92,
-      "apyRewardBonus": 5615.49,
-      "apyTotal": 5749.42,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 155383,
-      "apyBase": 23.64,
-      "apyRewardBonus": 5090.13,
-      "apyTotal": 5113.76,
+      "tvlUsd": 154634,
+      "apyBase": 24.82,
+      "apyRewardBonus": 4750.35,
+      "apyTotal": 4775.17,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -134,165 +134,165 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-CBBTC",
-      "tvlUsd": 3142038,
-      "apyBase": 60.81,
-      "apyRewardBonus": 4354.91,
-      "apyTotal": 4415.72,
+      "symbol": "USDC-SNDKC",
+      "tvlUsd": 951625,
+      "apyBase": 146.52,
+      "apyRewardBonus": 4299.75,
+      "apyTotal": 4446.27,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
-      "chainId": "solana",
-      "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
-      "boostAmount": 50,
-      "totalBoostAmount": 150,
-      "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
-      "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/hkzdfznkhzxd9agrdnpydv4it6lmaurjnprtj9wpump"
-    },
-    {
       "chainId": "robinhood",
-      "tokenAddress": "0x26F4e397b57D40A736c4217FB30d025F1fdb8440",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Colony is the Robinhood Chain web crawler that grades every wallet. Look up any token or wallet, launch-block snipers, bundles, dev history, take-back traps and",
-      "url": "https://dexscreener.com/robinhood/0x26f4e397b57d40a736c4217fb30d025f1fdb8440"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "AkDAiyNyazPXEoXfY1jkehT8TvMd1pUpiwWQ89yjpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/akdaiynyazpxeoxfy1jkeht8tvmd1pupiwwq89yjpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3hUqTqKTUQFmNtKPKwZjDtT4Ps4bJn7nfJNaAFX2pump",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/3huqtqktuqfmntkpkwzjdtt4ps4bjn7nfjnaafx2pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DJSpZY2iYin95TMJG8rahRWYKy18TaGTcmVHnDea8S7K",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "$HYDRA is the community token for Hydra, an AI agent swarm that trades Solana on its own.\n\nScouts hunt new pools, momentum, smart-money wallets, social buzz and",
-      "url": "https://dexscreener.com/solana/djspzy2iyin95tmjg8rahrwyky18tagtcmvhndea8s7k"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "2gLnaQN8Y73Qc62gMmX6WtJQjFnbvE7vgzUJ37WJpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Ultraviolet, a Solana L2 for token launches.",
-      "url": "https://dexscreener.com/solana/2glnaqn8y73qc62gmmx6wtjqjfnbve7vgzuj37wjpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "GaPbQwLDPjSXGR9JxxG1aJLNthuxG58dM2XukBi8pump",
+      "tokenAddress": "0x38bb87Cf3E7344A82be7CD671c191f015b97eEe6",
       "boostAmount": 100,
       "totalBoostAmount": 100,
-      "description": "Avengers-level protests in France, live and unhinged.",
-      "url": "https://dexscreener.com/solana/gapbqwldpjsxgr9jxxg1ajlnthuxg58dm2xukbi8pump"
+      "description": "The first Santa token on the Robinhood Blockchain — the OG and the original first mover.\n\n$SANTAHOOD is the native token of SANTRO EXCHANGE, the first centraliz",
+      "url": "https://dexscreener.com/robinhood/0x38bb87cf3e7344a82be7cd671c191f015b97eee6"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "7C2pQ3cm2NHadrbJFVgzrJRvhYL9a2d76V29Mbg9pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "EXE Index\n\nThe public-record research map for executions, terrorism designations, gangs, insurgents, and crime statistics.\nBuilt for scholars, researchers, and ",
+      "url": "https://dexscreener.com/solana/7c2pq3cm2nhadrbjfvgzrjrvhyl9a2d76v29mbg9pump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "EGGU is an independent Solana community token paired directly with PENGU.\n🥚 EGGU → 🐧 PENGU\nThrough StonkFun’s built-in reward system, eligible EGGU holders ca",
+      "url": "https://dexscreener.com/solana/49vznzqvkcsgajj8k9xrezdztlrdv5rzn9yythg53czn"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "HvFm6sofotuTE89UDMo6GBKhQkFHMTRiKDpxYbrFpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "SpaceX Pyramid HQ.",
+      "url": "https://dexscreener.com/solana/hvfm6sofotute89udmo6gbkhqkfhmtrikdpxybrfpump"
+    },
+    {
+      "chainId": "ethereum",
+      "tokenAddress": "0xCC55066c764085cfFdE0b4eE6e23C29Fd9D3c033",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Meet Cosmo, Groklet's loyal space pup!\n\nHOLD $COSMO GET 3% $SPCX Rewards.\n\nGrok confirmed",
+      "url": "https://dexscreener.com/ethereum/0xcc55066c764085cffde0b4ee6e23c29fd9d3c033"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "GeNwBZWJcWQAkLDdty7geii9xSjtCuga1qE9DDzLpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Cat O’Lantern ($CATO) is Solana’s Halloween Cat.\nA black cat with a pumpkin stem and a jack-o’-lantern grin🎃🐈‍⬛️\nCommunity meme.\nMeow🎃Hodl💎Moon🌙",
+      "url": "https://dexscreener.com/solana/genwbzwjcwqaklddty7geii9xsjtcuga1qe9ddzlpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "BVpFpksfdEwDgaUhZxdG8kSyfAekeYfKV4BdUfNJpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "According to Elon Musk, Super Pursuasive Super Intelligence will one shot us.",
+      "url": "https://dexscreener.com/solana/bvpfpksfdewdgauhzxdg8ksyfaekeyfkv4bdufnjpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "CR9RokqJs8DBNkHvEkdKWTGr87jvityMtye5FAvLpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Know before you ape. LPX reads the chain and grades every pump fun launch from CHAD to RUG. Free scanner at LPX - CA only ever posted by @I3adlamaDev.",
+      "url": "https://dexscreener.com/solana/cr9rokqjs8dbnkhvekdkwtgr87jvitymtye5favlpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Doge Pepe",
-      "symbol": "DOPE",
-      "marketCapRank": 714,
-      "priceBtc": 3.16178292594119e-7
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 99,
+      "priceBtc": 0.000022430208478333725
     },
     {
-      "name": "hi",
-      "symbol": "HI",
-      "marketCapRank": 833,
-      "priceBtc": 2.4563953712361105e-7
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006059876367338656
     },
     {
-      "name": "Covenant x402",
-      "symbol": "COVENANT",
-      "marketCapRank": 663,
-      "priceBtc": 3.5386889431351976e-7
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9990650997787072
     },
     {
-      "name": "Claudia",
-      "symbol": "CLAUDIA",
-      "marketCapRank": 775,
-      "priceBtc": 2.7002797944628675e-7
+      "name": "Quack AI",
+      "symbol": "Q",
+      "marketCapRank": 104,
+      "priceBtc": 0.0000015196244528364577
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 653,
-      "priceBtc": 0.0012403301503542093
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009620371188618364
+    },
+    {
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "marketCapRank": 51,
+      "priceBtc": 0.000006041439985762762
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.183724215782655e-8
+      "marketCapRank": 118,
+      "priceBtc": 9.079991899724061e-8
     },
     {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 97,
-      "priceBtc": 0.00002341852513710773
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.014247060583098752
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 660,
+      "priceBtc": 0.001219190628503932
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[Feature][MRV2][SpecDecode] Support block verification in MRV2",
-      "url": "https://github.com/vllm-project/vllm-ascend/pull/19138",
-      "createdAt": "2026-10-19T03:18:56Z"
+      "title": "[Slurm] Support REST API versions and recover completed jobs",
+      "url": "https://github.com/NVIDIA/cloudai/pull/1099",
+      "createdAt": "2026-10-15T10:23:09Z"
     },
     {
-      "title": "chore(deps): update all non-major dependencies",
-      "url": "https://github.com/reddoorla/revogen/pull/82",
-      "createdAt": "2026-09-21T16:46:12Z"
+      "title": "feat(manager): pay for registrations with USDC bridged in from an L2",
+      "url": "https://github.com/ensdomains/apps-monorepo/pull/1395",
+      "createdAt": "2026-10-16T19:16:49Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/doublewordai/control-layer/pull/911",
+      "createdAt": "2026-03-23T17:01:28Z"
+    },
+    {
+      "title": "scripts/e2e: add an on-chain flow for incentive_campaigns (create, claim, rate change, recovery, handover)",
+      "url": "https://github.com/promisszn/soroban-amm/issues/1143",
+      "createdAt": "2026-10-18T08:48:49Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/omercnet/GitHub/pull/72",
+      "createdAt": "2026-03-26T21:26:26Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "KG update: concepts from 2026-10-18",
-      "url": "https://github.com/MekkCyber/llm-atlas/pull/317",
-      "createdAt": "2026-10-19T03:19:29Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
