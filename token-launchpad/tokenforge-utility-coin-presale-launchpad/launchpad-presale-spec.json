@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-18T23:58:46.990Z",
-  "latencyMs": 243,
+  "executedAt": "2026-10-19T00:01:19.182Z",
+  "latencyMs": 347,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #714: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #715: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52789289,
+    "liveBlockNumber": 52789365,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459010,
-    "baseMainnetTopPoolsVolume24hUsd": 138789,
+    "baseMainnetTopPoolsVolume24hUsd": 138467,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9XfdPTLTYGD1dUmynYuqGBprij7c4mhWSzCbVtYDpump",
+        "description": "The first zoo onchain. Every coin is an animal. Every buy feeds it.",
+        "url": "https://dexscreener.com/solana/9xfdptltygd1dumynyuqgbprij7c4mhwszcbvtydpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "VwhuX1Hn87uCeTTZ6HQ3sEKgJZiUbkBhA8c2Ap4pump",
@@ -75,12 +81,6 @@
         "tokenAddress": "37GzEHfJ43hwYcgdWYEQmNYpM1LEnxMtcEGshsAcpump",
         "description": "Onchain compute. Hold $VRAM, create anything.",
         "url": "https://dexscreener.com/solana/37gzehfj43hwycgdwyeqmnypm1lenxmtcegshsacpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ESABfJpt9cocXgWX7HF8WwSXrcv785oyaA8imwojpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/esabfjpt9cocxgwx7hf8wwsxrcv785oyaa8imwojpump"
       }
     ]
   },
