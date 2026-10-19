@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T21:32:50.058Z",
-  "latencyMs": 424,
+  "executedAt": "2026-10-19T21:35:01.286Z",
+  "latencyMs": 264,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #804: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #805: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52828111,
+    "liveBlockNumber": 52828177,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440988,
-    "baseMainnetTopPoolsVolume24hUsd": 99425,
+    "baseMainnetTopPoolsVolume24hUsd": 99494,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2xpFjJChu6zpAJDPqBzDNVDb6JLsfsksdr9mYZyMpump",
+        "description": "Meet Boobs Coin ( $BOOBS ): a cheeky community meme coin bringing playful energy to Solana.",
+        "url": "https://dexscreener.com/solana/2xpfjjchu6zpajdpqbzdnvdb6jlsfsksdr9myzympump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HyWqaaUGCwmQwtdCY4g5QuhKMC67QQQzKDWMTzHYpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "FyS5rugapWRcBRAmnBMaq9A16wYKKk8mqoF9JnUoi3JD",
         "description": "A new world of autonomous AI agents on Solana. Every Pal has its own model, wallet, and mind. You create it. It trades.",
         "url": "https://dexscreener.com/solana/fys5rugapwrcbramnbmaq9a16wykkk8mqof9jnuoi3jd"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6QYik2YpgbndorAAVnkv4gmRYDJ73TuGAdRssG7Vpump",
-        "description": "Explore a world of endless possibilities in a play-to-earn MMO. Tame, battle, trade, and earn SOL with every adventure.",
-        "url": "https://dexscreener.com/solana/6qyik2ypgbndoraavnkv4gmrydj73tugadrssg7vpump"
       }
     ]
   },
