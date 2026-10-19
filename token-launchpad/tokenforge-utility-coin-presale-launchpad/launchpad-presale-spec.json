@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T13:19:03.142Z",
-  "latencyMs": 471,
+  "executedAt": "2026-10-19T13:21:29.898Z",
+  "latencyMs": 259,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #752: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #753: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52813297,
+    "liveBlockNumber": 52813371,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 450399,
-    "baseMainnetTopPoolsVolume24hUsd": 95643,
+    "baseMainnetTopPoolsVolume24hUsd": 95612,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "32nVEFBt3oTfoM9K3qU7FWfLoH9gibNPasibJvoGpump",
+        "description": "Launch tokens backed by any AI model on @Solana. Trading fees become compute. Powered by @OpenRouter",
+        "url": "https://dexscreener.com/solana/32nvefbt3otfom9k3qu7fwfloh9gibnpasibjvogpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6mERUiPfyjPQZBTMpProJR7w8i6jKqMo1trCepmkxn35",
@@ -75,12 +81,6 @@
         "tokenAddress": "GN3cC9mB4hMV6STdPL9jSgD88XqCWi5NCFgxbXy4pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/gn3cc9mb4hmv6stdpl9jsgd88xqcwi5ncfgxbxy4pump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x03068711905DaC43baC8A9386F97A7c5B10cf224",
-        "description": "SIGNET (SIGNET) is a BEP-20 digital asset on BNB Smart Chain, designed to support a growing Web3 ecosystem focused on blockchain education, AI-powered market in",
-        "url": "https://dexscreener.com/bsc/0x03068711905dac43bac8a9386f97a7c5b10cf224"
       }
     ]
   },
