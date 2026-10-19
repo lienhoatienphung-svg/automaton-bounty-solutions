@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T00:50:09.691Z",
-  "latencyMs": 740,
+  "executedAt": "2026-10-19T00:52:26.312Z",
+  "latencyMs": 710,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #724: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #725: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,62 +217,72 @@
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 683,
-      "priceBtc": 3.33827015701577e-7
+      "marketCapRank": 699,
+      "priceBtc": 3.23231065593352e-7
     },
     {
       "name": "Tetsuo Super Intelligence",
       "symbol": "TSI",
-      "marketCapRank": 889,
-      "priceBtc": 2.1948914107090973e-7
+      "marketCapRank": 882,
+      "priceBtc": 2.2156495640789524e-7
     },
     {
       "name": "Doge Pepe",
       "symbol": "DOPE",
-      "marketCapRank": 680,
-      "priceBtc": 3.463519492828442e-7
+      "marketCapRank": 677,
+      "priceBtc": 3.403259297792872e-7
     },
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 854,
-      "priceBtc": 2.317467736357876e-7
+      "marketCapRank": 879,
+      "priceBtc": 2.2288141524318072e-7
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
-      "marketCapRank": 809,
-      "priceBtc": 2.514600857097545e-7
+      "marketCapRank": 788,
+      "priceBtc": 2.7409037757465757e-7
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.142060422202708e-8
+      "priceBtc": 9.130697763649654e-8
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 651,
+      "priceBtc": 0.0012422336381183192
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 97,
-      "priceBtc": 0.00002287349883696359
-    },
-    {
-      "name": "hi",
-      "symbol": "HI",
-      "marketCapRank": 845,
-      "priceBtc": 2.372865866865086e-7
+      "marketCapRank": 96,
+      "priceBtc": 0.000023219833615056825
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(program): bind airdrop and claim mints to proposals",
+      "url": "https://github.com/MyWewe-io/WEWE-solana-programs/pull/84",
+      "createdAt": "2026-10-19T00:52:10Z"
+    },
+    {
+      "title": "Daily HuggingFace: daily-huggingface-2026-10-19.md",
+      "url": "https://github.com/hyeonseo2/daily-huggingface/issues/269",
+      "createdAt": "2026-10-19T00:52:03Z"
+    },
+    {
+      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
+      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
+      "createdAt": "2026-10-11T10:45:50Z"
+    },
+    {
       "title": "fix(deps): update dependency @lucide/astro to v1",
       "url": "https://github.com/jackmcpickle/eliteskills/pull/77",
       "createdAt": "2026-10-18T22:07:51Z"
-    },
-    {
-      "title": "Publish bathroom fixtures, surfaces and systems Knowledge Base batch",
-      "url": "https://github.com/jonfoundation/foundation-website/pull/39",
-      "createdAt": "2026-10-19T00:43:21Z"
     },
     {
       "title": "Central message board — Hermes, Claude, Codex and operator coordination",
@@ -283,16 +293,6 @@
       "title": "fix(loyalty): enroll via atomic enroll_customer_loyalty RPC",
       "url": "https://github.com/ogabasseyy/Baci/pull/3651",
       "createdAt": "2026-10-09T07:30:01Z"
-    },
-    {
-      "title": "ext(recipe): fully async allocator, score-centering knobs, overfit8 and overfit8-a3 configs",
-      "url": "https://github.com/listar2000/miles/pull/40",
-      "createdAt": "2026-10-18T23:34:46Z"
-    },
-    {
-      "title": "feat(leaderboard): activity leaderboard phase 1, USDC-days held (dark: publish off, nothing rendered or scheduled)",
-      "url": "https://github.com/SlumperSan/agent-governed-vaults/pull/461",
-      "createdAt": "2026-10-18T17:28:26Z"
     }
   ]
 }
