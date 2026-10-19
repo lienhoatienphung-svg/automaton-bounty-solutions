@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T22:29:15.764Z",
-  "latencyMs": 878,
+  "executedAt": "2026-10-19T22:45:45.346Z",
+  "latencyMs": 831,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #815: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #816: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,22 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x7EcC40FB4D33A078EB65A85f581e165C3c2f8F9C",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Autonomous agents · onchain wallets · v4 hook launchpad · agents-only until the gate opens · non-custodial ·",
+      "url": "https://dexscreener.com/robinhood/0x7ecc40fb4d33a078eb65a85f581e165c3c2f8f9c"
+    },
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0x4d3ace48B1590bc4c5dD46F05237C133bE564eB3",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Private AI inference, paid per request. x402 · USDG · signed receipts · nothing stored. No API key, no account, no logs. Hardware attestation: next.",
+      "url": "https://dexscreener.com/robinhood/0x4d3ace48b1590bc4c5dd46f05237c133be564eb3"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "AcLEFAt6YX7tpC8tafagpfZbVw42aowmiXEJaKN1pump",
       "boostAmount": 50,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Pink Ronnie is a Sociable Heron. He has no feathers, his skin is extremely pink and he has MAD STYLE. While other projects try to fake it, Pink Ronnie's out her",
       "url": "https://dexscreener.com/solana/bjeuc1ccghtuk6tjyiiqnqu4zudlatzbuofsihphpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3qSd27nb3zyRmqbhLzH4PdeYcADqeLtjgYy2Fp4Apump",
-      "boostAmount": 10,
-      "totalBoostAmount": 140,
-      "description": "🐕🚀 ELONDOG — A NEW ADVENTURE BEGINS.\n\nA fearless cyber Doge. A Cybertruck. One destination: MARS. 🔴\n\nInspired by Elon’s futuristic universe and Doge’s legend",
-      "url": "https://dexscreener.com/solana/3qsd27nb3zyrmqbhlzh4pdeycadqeltjgyy2fp4apump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "FhTRVAkQeiaLRJHYc13DBNhgw9N8ZPacvonaKfXxpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Momo is a catwifmotion",
-      "url": "https://dexscreener.com/solana/fhtrvakqeialrjhyc13dbnhgw9n8zpacvonakfxxpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 764,
-      "priceBtc": 2.7568538955320876e-7
+      "marketCapRank": 740,
+      "priceBtc": 2.997048692531641e-7
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 695,
+      "priceBtc": 0.0011274916506852075
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0006689649737206
+      "priceBtc": 0.9996430571881768
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 92,
-      "priceBtc": 0.000024247223767010113
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 690,
-      "priceBtc": 0.0011421648861827836
+      "marketCapRank": 93,
+      "priceBtc": 0.0000241401867209469
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.254647429569258e-8
-    },
-    {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012843269942329645
+      "priceBtc": 9.228687429967424e-8
     },
     {
       "name": "Ethereum",
       "symbol": "ETH",
       "marketCapRank": 2,
-      "priceBtc": 0.02939106836904666
+      "priceBtc": 0.029326831810173176
     },
     {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.5518102286714784e-8
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "marketCapRank": 32,
+      "priceBtc": 0.0000010109916840335322
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.0012803834348202392
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "feat(simulation): Pendle protocol",
+      "url": "https://github.com/propeller-heads/tycho/pull/1646",
+      "createdAt": "2026-10-19T18:48:41Z"
+    },
     {
       "title": "Ack L1 anWorkchain as telemetry, not a deposit public input (audit #59)",
       "url": "https://github.com/gosh-sh/bridge/pull/118",
       "createdAt": "2026-10-19T00:26:20Z"
     },
     {
-      "title": "Enjoy. Money Phase 1: enjoy-money FA2 contract, Gate 1 scripts, metadata",
-      "url": "https://github.com/mhoydich/pointcast/pull/1442",
-      "createdAt": "2026-10-19T22:20:44Z"
+      "title": "perf: read call input from the caller's memory",
+      "url": "https://github.com/alloy-rs/evm2/pull/714",
+      "createdAt": "2026-10-19T20:55:41Z"
     },
     {
-      "title": "feat(mcp): add jaw_read_contracts on every JAW chain",
-      "url": "https://github.com/JustaLab-co/jaw-mono/pull/495",
-      "createdAt": "2026-10-19T12:50:40Z"
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
     },
     {
-      "title": "feat!: migrate to Anvil plugin API 2",
-      "url": "https://github.com/happy-dwarf-team/bellows/pull/29",
-      "createdAt": "2026-10-19T22:27:19Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
-      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
-      "createdAt": "2026-10-07T16:13:30Z"
-    },
-    {
-      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
-      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
-      "createdAt": "2026-10-18T07:37:42Z"
+      "title": "docs(validators): v0.6 release update: drop Asimov, Bradbury phase 2, Python 3.10+",
+      "url": "https://github.com/genlayerlabs/genlayer-docs/pull/705",
+      "createdAt": "2026-10-19T11:22:28Z"
     }
   ]
 }
