@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T20:00:31.305Z",
-  "latencyMs": 841,
+  "executedAt": "2026-10-19T20:17:23.682Z",
+  "latencyMs": 1142,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #799: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #800: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 818,
-      "priceBtc": 2.5056999675700683e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 687,
-      "priceBtc": 0.0011445260683494362
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.120402009279609e-8
+      "marketCapRank": 811,
+      "priceBtc": 2.5147806632287705e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 92,
-      "priceBtc": 0.000024125557408883055
+      "marketCapRank": 91,
+      "priceBtc": 0.000024932296285536498
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 688,
+      "priceBtc": 0.001142841854386906
     },
     {
       "name": "PHALA",
       "symbol": "PHA",
-      "marketCapRank": 416,
-      "priceBtc": 7.672274968431763e-7
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 196,
-      "priceBtc": 0.0000032439055350779197
+      "marketCapRank": 413,
+      "priceBtc": 7.759736336690486e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009547117690361432
+      "priceBtc": 0.000009563171826955848
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.000060142283352380806
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 196,
+      "priceBtc": 0.0000032629466827473442
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "marketCapRank": 89,
+      "priceBtc": 0.00002314803469241239
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.145322972220621e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
+      "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
+      "createdAt": "2026-10-19T08:06:34Z"
+    },
+    {
+      "title": "[testnet] requestFaucet() always 403s on the public testnet — undocumented dev-only endpoint",
+      "url": "https://github.com/asentum-network/asentum-connect/issues/4",
+      "createdAt": "2026-10-19T20:16:49Z"
+    },
+    {
+      "title": "Harness chat endpoint for SkyRL on Cortex",
+      "url": "https://github.com/Snowflake-AI-Research/Arctic-Platform/pull/210",
+      "createdAt": "2026-10-13T02:10:12Z"
+    },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "deps: bump the npm-minor-patch group across 3 directories with 18 updates",
-      "url": "https://github.com/sagelens/groove/pull/38",
-      "createdAt": "2026-09-22T00:36:09Z"
+      "title": "deps(web): bump the minor-patch group across 1 directory with 12 updates",
+      "url": "https://github.com/SupportingBasesOfficial/JLMirror/pull/54",
+      "createdAt": "2026-09-28T20:16:16Z"
     },
     {
-      "title": "[CVL2-RESEARCH][AGENTE-05] Projetos 7, 19, 6, 3, 21",
-      "url": "https://github.com/matheus-junio-da-silva/Web3Bugs/pull/40",
-      "createdAt": "2026-10-19T16:56:21Z"
-    },
-    {
-      "title": "[perf] spec decoding: fuse simulated speculative acceptance tensor preparation",
-      "url": "https://github.com/sgl-project/sglang/pull/41169",
-      "createdAt": "2026-09-24T20:43:54Z"
-    },
-    {
-      "title": "test(e2e): test every petal through the real app, and run only the tests a change needs",
-      "url": "https://github.com/s3anstanz/Bloom/pull/15",
-      "createdAt": "2026-10-19T19:12:37Z"
-    },
-    {
-      "title": "Stellar-native contracts: final technical review",
-      "url": "https://github.com/AGDAO/togetherfi-stellar/pull/2",
-      "createdAt": "2026-10-15T10:05:22Z"
+      "title": "Add agent-safety-monitor-training task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/29",
+      "createdAt": "2026-09-27T04:59:36Z"
     }
   ]
 }
