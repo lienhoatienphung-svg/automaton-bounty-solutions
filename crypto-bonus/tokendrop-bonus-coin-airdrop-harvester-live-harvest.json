@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T11:58:25.045Z",
-  "latencyMs": 988,
+  "executedAt": "2026-10-19T12:01:10.191Z",
+  "latencyMs": 771,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #748: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #749: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Native SOL support: trade SOL as a first-class asset (transparent wSOL wrapping)",
+      "url": "https://github.com/unleaktrade/app/issues/107",
+      "createdAt": "2026-10-19T11:55:25Z"
+    },
+    {
+      "title": "Update stale laboratory.stellar.org links in the MCP server",
+      "url": "https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/405",
+      "createdAt": "2026-10-15T14:51:10Z"
+    },
+    {
+      "title": "wSOL lifecycle regression tests: SOL as base and quote, no program change (app#107 companion)",
+      "url": "https://github.com/unleaktrade/settlement-engine/issues/45",
+      "createdAt": "2026-10-19T12:00:26Z"
+    },
+    {
       "title": "refactor: switch the draft proposal plumbing from probs to logits.",
       "url": "https://github.com/xLLM-AI/xllm/pull/2509",
       "createdAt": "2026-10-18T07:37:42Z"
     },
     {
-      "title": "fix(deps): update all",
-      "url": "https://github.com/sentioxyz/typemove/pull/189",
-      "createdAt": "2026-07-06T04:42:59Z"
+      "title": "Run scripts/check-funding-links.ts on a CI schedule",
+      "url": "https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/451",
+      "createdAt": "2026-10-15T14:55:08Z"
     },
     {
-      "title": "Call a card copy an edition, and 24 of 28 a print (ROADMAP 25.2)",
-      "url": "https://github.com/JoshMiles/tcg/pull/291",
-      "createdAt": "2026-10-19T11:54:17Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "fix(react-sdk): handle same-store signer reconnect without calling non-existent setSignCb (#455)",
-      "url": "https://github.com/0xMiden/web-sdk/pull/465",
-      "createdAt": "2026-10-09T12:45:43Z"
-    },
-    {
-      "title": "Determine testnet path forward for adaptive execution, cost accounting, and F1r3fly CbC Casper design",
-      "url": "https://github.com/F1R3FLY-io/f1r3node-rust/issues/764",
-      "createdAt": "2026-10-18T10:33:03Z"
+      "title": "test(functional): cover community token mint, airdrop, and burn",
+      "url": "https://github.com/status-im/status-go/pull/7942",
+      "createdAt": "2026-10-15T09:09:13Z"
     }
   ]
 }
