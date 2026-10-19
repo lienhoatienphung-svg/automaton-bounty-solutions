@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T02:45:57.843Z",
-  "latencyMs": 324,
+  "executedAt": "2026-10-19T02:47:46.644Z",
+  "latencyMs": 260,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #732: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #733: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52794305,
+    "liveBlockNumber": 52794359,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459024,
-    "baseMainnetTopPoolsVolume24hUsd": 143103,
+    "baseMainnetTopPoolsVolume24hUsd": 143072,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "LqbSzVCimk2PcS7shoSt5Nfa5xYYCHW2fiCVg7Xpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/lqbszvcimk2pcs7shost5nfa5xyychw2ficvg7xpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5QMhBcnqkh9XgTMy67wY8wbBdEq5mJ78qGYst4dSFyUr",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/5qmhbcnqkh9xgtmy67wy8wbbdeq5mj78qgyst4dsfyur"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DaAbbS4zUNggwS3Ue3SGvKWen6DpaekbPtrxEkjypump",
@@ -69,18 +81,6 @@
         "tokenAddress": "4Z7vcfssq4r8v14wfb653P4MPKMwL6JcNoE796S2gUsH",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/4z7vcfssq4r8v14wfb653p4mpkmwl6jcnoe796s2gush"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "63dz3RGFGaobG4MpRzFpkeFMuWzPfmC6EfuqSQY9pump",
-        "description": "Plant a coin on any pumpfun token.",
-        "url": "https://dexscreener.com/solana/63dz3rgfgaobg4mprzfpkefmuwzpfmc6efuqsqy9pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ApCA3M9LJhjqtaTQyBJv45d5vwDv1Y7qJaYaYjcWpump",
-        "description": "Qunzhi is a Chinese language model trained by a decentralized network of contributors. Every contribution is signed, scored, and rewarded on Solana.",
-        "url": "https://dexscreener.com/solana/apca3m9ljhjqtatqybjv45d5vwdv1y7qjayayjcwpump"
       }
     ]
   },
