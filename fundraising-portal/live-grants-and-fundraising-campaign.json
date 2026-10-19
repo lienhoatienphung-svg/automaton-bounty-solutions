@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T12:05:22.738Z",
-  "latencyMs": 1276,
+  "executedAt": "2026-10-19T12:07:47.081Z",
+  "latencyMs": 1447,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #728: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #729: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "feat(mr5i4c): sealed local invoice evidence read-source assembler",
+          "url": "https://github.com/MPG-Technoologies/MPG-Reputation/pull/57",
+          "repositoryUrl": "https://api.github.com/repos/MPG-Technoologies/MPG-Reputation",
+          "updatedAt": "2026-10-19T12:07:40Z"
+        },
+        {
+          "title": "supervisor: requests",
+          "url": "https://github.com/cgwalters-forge/tracker/issues/656",
+          "repositoryUrl": "https://api.github.com/repos/cgwalters-forge/tracker",
+          "updatedAt": "2026-10-19T12:07:40Z"
+        },
+        {
+          "title": "NPPE: Learning 120/120 + Mock A reviewed (draft, release held)",
+          "url": "https://github.com/UpSkillSprint-Consulting/upskill-sprint/pull/301",
+          "repositoryUrl": "https://api.github.com/repos/UpSkillSprint-Consulting/upskill-sprint",
+          "updatedAt": "2026-10-19T12:07:39Z"
+        },
+        {
+          "title": "feat: restore confirmed Channel deletion and resumable data cleanup",
+          "url": "https://github.com/LambdaLabsHQ/xmatrix/pull/752",
+          "repositoryUrl": "https://api.github.com/repos/LambdaLabsHQ/xmatrix",
+          "updatedAt": "2026-10-19T12:07:39Z"
+        },
+        {
+          "title": "Reduce error text to class and status for contained runs",
+          "url": "https://github.com/lynox-ai/lynox/pull/1946",
+          "repositoryUrl": "https://api.github.com/repos/lynox-ai/lynox",
+          "updatedAt": "2026-10-19T12:07:39Z"
+        },
+        {
+          "title": "Donor v5: guarded recipe transactions and mixed-item planning (draft)",
+          "url": "https://github.com/Trexzo/SpawnPK-RE/pull/2965",
+          "repositoryUrl": "https://api.github.com/repos/Trexzo/SpawnPK-RE",
+          "updatedAt": "2026-10-19T12:07:39Z"
+        },
+        {
+          "title": "Enforce API key permission scope",
+          "url": "https://github.com/btcpayserver/btcpayserver/pull/7684",
+          "repositoryUrl": "https://api.github.com/repos/btcpayserver/btcpayserver",
+          "updatedAt": "2026-10-19T12:07:38Z"
+        },
+        {
+          "title": "Planung: Implementierungsplan für Codex (S8-02, Bühnenmonitor, Videoebenen)",
+          "url": "https://github.com/SchapfeldNils/ShowNight-System/pull/63",
+          "repositoryUrl": "https://api.github.com/repos/SchapfeldNils/ShowNight-System",
+          "updatedAt": "2026-10-19T12:07:38Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
