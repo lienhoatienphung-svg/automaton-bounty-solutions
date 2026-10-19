@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T01:48:44.210Z",
-  "latencyMs": 1792,
+  "executedAt": "2026-10-19T01:51:03.176Z",
+  "latencyMs": 877,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #730: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #731: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "AkDAiyNyazPXEoXfY1jkehT8TvMd1pUpiwWQ89yjpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/akdaiynyazpxeoxfy1jkeht8tvmd1pupiwwq89yjpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "3hUqTqKTUQFmNtKPKwZjDtT4Ps4bJn7nfJNaAFX2pump",
       "boostAmount": 50,
       "totalBoostAmount": 50,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "NIGHTSHIFT is the night shift for the internet: autonomous AI companies that keep building, selling and shipping at 3 AM while their founders sleep.\n\nYou descri",
       "url": "https://dexscreener.com/ethereum/0xe5e58e53d0bb204aa62c995a6c8cc8a48e60c3ac"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump",
-      "boostAmount": 500,
-      "totalBoostAmount": 500,
-      "description": "Every coin gets one AI founder",
-      "url": "https://dexscreener.com/solana/ekosqw4ojfbxmej4qrnbh1qugfrtc3eok6nwnfkdpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat: add the fee-wallet converter Worker (MVP-07c)",
+      "url": "https://github.com/SlopDotCash/slopdotcash/pull/865",
+      "createdAt": "2026-10-19T01:50:36Z"
+    },
+    {
+      "title": "[None][perf] One-model speculative decoding: host work between steps, worker-produced target logits, KDA drafts' records",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/19989",
+      "createdAt": "2026-10-08T14:23:11Z"
+    },
+    {
+      "title": "security(contract): test_insert_period and test_set_last_claimed_idx are unauthenticated exported entrypoints",
+      "url": "https://github.com/RevoraOrg/Revora-Contracts/issues/1308",
+      "createdAt": "2026-10-18T20:38:39Z"
+    },
+    {
+      "title": "perf(tracing): skip the reward replay for unrewarded blocks and batch trace flushes",
+      "url": "https://github.com/NethermindEth/nethermind/pull/14867",
+      "createdAt": "2026-10-18T14:20:03Z"
+    },
+    {
+      "title": "Release v0.25.0",
+      "url": "https://github.com/XChain-Platform/xchain-hub/pull/43",
+      "createdAt": "2026-10-18T22:19:41Z"
+    },
+    {
       "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
       "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
       "createdAt": "2026-10-11T10:45:50Z"
-    },
-    {
-      "title": "Unlocks: Rust's Frog Boots — gated crafting via owned skin rows",
-      "url": "https://github.com/AnthonE/Gates/pull/382",
-      "createdAt": "2026-10-19T01:46:13Z"
-    },
-    {
-      "title": "build(deps): bump the mobile group across 1 directory with 16 updates",
-      "url": "https://github.com/StefanBS/movie-night/pull/124",
-      "createdAt": "2026-10-05T01:47:18Z"
-    },
-    {
-      "title": "feat(dev_tools): add PromptSearchOptimizer, a multi-candidate prompt-…",
-      "url": "https://github.com/openJiuwen-ai/agent-core/pull/1008",
-      "createdAt": "2026-08-30T15:06:46Z"
-    },
-    {
-      "title": "Harden Phase 1: atomic reward approval, payout finalization, and exact token amounts",
-      "url": "https://github.com/bitXbit-aus/bitxbit-rebrand/pull/1",
-      "createdAt": "2026-10-18T22:40:04Z"
-    },
-    {
-      "title": "[功能] 传输路径自动选择：点对点 Wi-Fi 优先、局域网次级、蓝牙兜底及 UI 提示",
-      "url": "https://github.com/GHOST-AKU/wozai/issues/23",
-      "createdAt": "2026-10-12T11:07:47Z"
     }
   ]
 }
