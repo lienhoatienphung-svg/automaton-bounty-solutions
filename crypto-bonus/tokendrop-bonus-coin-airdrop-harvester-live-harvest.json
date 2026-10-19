@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T22:09:31.270Z",
-  "latencyMs": 807,
+  "executedAt": "2026-10-19T22:11:43.854Z",
+  "latencyMs": 839,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #812: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #813: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,24 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "SF-010: live upgrade-security and browser wallet acceptance on testnet",
-      "url": "https://github.com/tyler-suifleet/suifleet/pull/70",
-      "createdAt": "2026-10-15T06:19:09Z"
+      "title": "perf: read call input from the caller's memory",
+      "url": "https://github.com/alloy-rs/evm2/pull/714",
+      "createdAt": "2026-10-19T20:55:41Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
+      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
+      "createdAt": "2026-10-18T07:37:42Z"
     },
     {
-      "title": "fix(cluster): dial cluster members at the address cluster.json gives",
-      "url": "https://github.com/zhangheqi/worgl/pull/44",
-      "createdAt": "2026-10-19T22:08:56Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/doublewordai/control-layer/pull/911",
-      "createdAt": "2026-03-23T17:01:28Z"
+      "title": "network: one network profile and a genesis check before signing (K6)",
+      "url": "https://github.com/CitrateNetwork/citrate-core/pull/363",
+      "createdAt": "2026-10-19T08:27:22Z"
     },
     {
       "title": "fix(actions): ask for folder access so AirDrop works from the Desktop",
@@ -290,9 +285,14 @@
       "createdAt": "2026-10-19T21:57:46Z"
     },
     {
-      "title": "Mac: move campaign import/export/sync to the File menu and setup to Settings",
-      "url": "https://github.com/scooper4711/turnkeeper/issues/20",
-      "createdAt": "2026-10-19T16:30:16Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/doublewordai/control-layer/pull/911",
+      "createdAt": "2026-03-23T17:01:28Z"
+    },
+    {
+      "title": "Ack L1 anWorkchain as telemetry, not a deposit public input (audit #59)",
+      "url": "https://github.com/gosh-sh/bridge/pull/118",
+      "createdAt": "2026-10-19T00:26:20Z"
     }
   ]
 }
