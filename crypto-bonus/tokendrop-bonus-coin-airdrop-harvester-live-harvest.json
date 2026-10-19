@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T21:32:42.571Z",
-  "latencyMs": 980,
+  "executedAt": "2026-10-19T21:34:59.195Z",
+  "latencyMs": 904,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #808: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #809: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 600,
+      "description": "Every coin gets one AI founder",
+      "url": "https://dexscreener.com/solana/ekosqw4ojfbxmej4qrnbh1qugfrtc3eok6nwnfkdpump"
+    },
+    {
       "chainId": "bsc",
       "tokenAddress": "0x2359ED25A54BDd08546d4E3308eb0390d00023c6",
       "boostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "A community that took over a coin after the dev rug-pulled. We are here to help everyone become profitable and join the LILANSEM community!",
       "url": "https://dexscreener.com/solana/hqgmpjbgctpp9p27ddjw5f8rncz7gvg4vel3ht7hpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xd5D49D68a555f3C50cCDa9BD9a8691692E5ce172",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Join Us and get $BUSTED!  \n\nA tribute to the GTA VI and chaos! A token for the culture with Rewards &\nAchievements. \n\nBuild the crew. Hit the milestones. Every ",
-      "url": "https://dexscreener.com/robinhood/0xd5d49d68a555f3c50ccda9bd9a8691692e5ce172"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(demo): the Halden showcase, a share token whose pointer resolves in public (lot 7)",
-      "url": "https://github.com/BuzzBallz/orma/pull/34",
-      "createdAt": "2026-10-19T21:14:21Z"
+      "title": "merkle-airdrop template: no tool to build the tree and proofs",
+      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/605",
+      "createdAt": "2026-10-16T22:12:09Z"
     },
     {
-      "title": "Stellar-native contracts: final technical review",
-      "url": "https://github.com/AGDAO/togetherfi-stellar/pull/2",
-      "createdAt": "2026-10-15T10:05:22Z"
+      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
+      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
+      "createdAt": "2026-10-18T07:37:42Z"
     },
     {
-      "title": "test(e2e): test every petal through the real app, and run only the tests a change needs",
-      "url": "https://github.com/s3anstanz/Bloom/pull/15",
-      "createdAt": "2026-10-19T19:12:37Z"
+      "title": "feat: Stellar key validation, asset breakdown widget, proposal timeline, and animated mobile drawer",
+      "url": "https://github.com/ASTROIDX556/astroid-web/pull/322",
+      "createdAt": "2026-10-19T15:57:05Z"
     },
     {
-      "title": "docs(validators): v0.6 release update: drop Asimov, Bradbury phase 2, Python 3.10+",
-      "url": "https://github.com/genlayerlabs/genlayer-docs/pull/705",
-      "createdAt": "2026-10-19T11:22:28Z"
+      "title": "Refactor GRPO sync examples",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/59514",
+      "createdAt": "2026-10-06T16:43:19Z"
     },
     {
-      "title": "Add moe-router-design task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/28",
-      "createdAt": "2026-09-27T02:38:45Z"
+      "title": "fix(cli,simulator,docs): a page-only app from start to finish, as a fresh agent met it",
+      "url": "https://github.com/corvise/saltix-grains/pull/50",
+      "createdAt": "2026-10-19T21:19:54Z"
     },
     {
-      "title": "EVM: Verify Merkle distributor claims against published trees",
-      "url": "https://github.com/Drago-Labs/golden-raccoon/issues/363",
-      "createdAt": "2026-10-17T22:19:03Z"
+      "title": "Bring Windows tools and workflows to Mac feature parity",
+      "url": "https://github.com/orkunisitmak/nashi-app/pull/1",
+      "createdAt": "2026-10-19T20:30:48Z"
     }
   ]
 }
