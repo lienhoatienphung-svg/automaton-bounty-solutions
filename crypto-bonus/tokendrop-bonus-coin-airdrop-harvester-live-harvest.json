@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T03:20:45.872Z",
-  "latencyMs": 1629,
+  "executedAt": "2026-10-19T03:23:11.200Z",
+  "latencyMs": 1366,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #740: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Apryse: Commercial Account Manager",
+  "workTitle": "Delivery Sprint #741: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1091625,
-      "apyBase": 1.19,
-      "apyRewardBonus": 79666.04,
-      "apyTotal": 79667.23,
+      "tvlUsd": 1093699,
+      "apyBase": 1.17,
+      "apyRewardBonus": 79486.39,
+      "apyTotal": 79487.56,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -44,10 +44,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 52928,
+      "tvlUsd": 52712,
       "apyBase": 0,
-      "apyRewardBonus": 37420.23,
-      "apyTotal": 37420.23,
+      "apyRewardBonus": 37582.2,
+      "apyTotal": 37582.2,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -57,10 +57,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 947271,
-      "apyBase": 26.76,
-      "apyRewardBonus": 33755.62,
-      "apyTotal": 33782.38,
+      "tvlUsd": 944656,
+      "apyBase": 19.43,
+      "apyRewardBonus": 23063.99,
+      "apyTotal": 23083.42,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -70,27 +70,14 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 255342,
-      "apyBase": 64.38,
-      "apyRewardBonus": 13913.13,
-      "apyTotal": 13977.51,
+      "tvlUsd": 255925,
+      "apyBase": 61.34,
+      "apyRewardBonus": 12889.66,
+      "apyTotal": 12951,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-CBBTC",
-      "tvlUsd": 176275,
-      "apyBase": 20.48,
-      "apyRewardBonus": 7064.9,
-      "apyTotal": 7085.39,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
     },
     {
       "chain": "Base",
@@ -108,24 +95,37 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-MUC",
-      "tvlUsd": 684760,
-      "apyBase": 123.03,
-      "apyRewardBonus": 5131.63,
-      "apyTotal": 5254.65,
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 176974,
+      "apyBase": 20.85,
+      "apyRewardBonus": 6575.81,
+      "apyTotal": 6596.66,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "3cd9aba2-1527-529a-9ecc-6bdc447494af"
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-SNDKC",
+      "tvlUsd": 945632,
+      "apyBase": 133.92,
+      "apyRewardBonus": 5615.49,
+      "apyTotal": 5749.42,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 155490,
-      "apyBase": 22.79,
-      "apyRewardBonus": 5085.96,
-      "apyTotal": 5108.75,
+      "tvlUsd": 155383,
+      "apyBase": 23.64,
+      "apyRewardBonus": 5090.13,
+      "apyTotal": 5113.76,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -134,15 +134,15 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-SPCXC",
-      "tvlUsd": 745519,
-      "apyBase": 146.5,
-      "apyRewardBonus": 3641.33,
-      "apyTotal": 3787.83,
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 3142038,
+      "apyBase": 60.81,
+      "apyRewardBonus": 4354.91,
+      "apyTotal": 4415.72,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "f3990eac-d0e2-545c-a52b-3304804ab529"
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
@@ -217,53 +217,68 @@
     {
       "name": "Doge Pepe",
       "symbol": "DOPE",
-      "marketCapRank": 730,
-      "priceBtc": 3.0605052315451915e-7
-    },
-    {
-      "name": "Tetsuo Super Intelligence",
-      "symbol": "TSI",
-      "marketCapRank": 922,
-      "priceBtc": 2.0483684350999312e-7
+      "marketCapRank": 714,
+      "priceBtc": 3.16178292594119e-7
     },
     {
       "name": "hi",
       "symbol": "HI",
-      "marketCapRank": 843,
-      "priceBtc": 2.4122930138799583e-7
+      "marketCapRank": 833,
+      "priceBtc": 2.4563953712361105e-7
     },
     {
       "name": "Covenant x402",
       "symbol": "COVENANT",
-      "marketCapRank": 679,
-      "priceBtc": 3.3498696703109455e-7
+      "marketCapRank": 663,
+      "priceBtc": 3.5386889431351976e-7
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
-      "marketCapRank": 776,
-      "priceBtc": 2.796133581260804e-7
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.193172999396963e-8
+      "marketCapRank": 775,
+      "priceBtc": 2.7002797944628675e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 653,
-      "priceBtc": 0.0012418420448879121
+      "priceBtc": 0.0012403301503542093
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.183724215782655e-8
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 97,
-      "priceBtc": 0.000023458421038852012
+      "priceBtc": 0.00002341852513710773
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.014247060583098752
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "[Feature][MRV2][SpecDecode] Support block verification in MRV2",
+      "url": "https://github.com/vllm-project/vllm-ascend/pull/19138",
+      "createdAt": "2026-10-19T03:18:56Z"
+    },
+    {
+      "title": "chore(deps): update all non-major dependencies",
+      "url": "https://github.com/reddoorla/revogen/pull/82",
+      "createdAt": "2026-09-21T16:46:12Z"
+    },
+    {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
@@ -278,21 +293,6 @@
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/51",
-      "createdAt": "2026-10-19T00:34:33Z"
-    },
-    {
-      "title": "[Spec Decode][ROCm] Add FLy: entropy-gated deferred verification for draft-model speculative decoding",
-      "url": "https://github.com/vllm-project/vllm/pull/53987",
-      "createdAt": "2026-08-27T03:33:50Z"
-    },
-    {
-      "title": "Add interactive macOS helper for Roborock iOS authentication",
-      "url": "https://github.com/Python-roborock/local_roborock_server/pull/149",
-      "createdAt": "2026-10-10T05:25:15Z"
     }
   ]
 }
