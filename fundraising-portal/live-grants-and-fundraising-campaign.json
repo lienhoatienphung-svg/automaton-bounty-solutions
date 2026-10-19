@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T11:07:28.808Z",
-  "latencyMs": 1096,
+  "executedAt": "2026-10-19T11:12:10.354Z",
+  "latencyMs": 541,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #722: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #723: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "AGD-024: código de acesso e sessão de cliente",
-          "url": "https://github.com/LsaBarbosa/kronos_agendamento/pull/16",
-          "repositoryUrl": "https://api.github.com/repos/LsaBarbosa/kronos_agendamento",
-          "updatedAt": "2026-10-19T11:07:25Z"
-        },
-        {
-          "title": "chore(deps): bump actions/create-github-app-token from 3.2.0 to 3.3.0 in the github-actions group",
-          "url": "https://github.com/cmeans/mcp-synology/pull/299",
-          "repositoryUrl": "https://api.github.com/repos/cmeans/mcp-synology",
-          "updatedAt": "2026-10-19T11:07:24Z"
-        },
-        {
-          "title": "docs: add Domain Restricted Sharing note and Wiv org principal set",
-          "url": "https://github.com/wiv-ai/GCPOnBoarding/pull/2",
-          "repositoryUrl": "https://api.github.com/repos/wiv-ai/GCPOnBoarding",
-          "updatedAt": "2026-10-19T11:07:23Z"
-        },
-        {
-          "title": "test-collector-go: new OTel-only collector for go test",
-          "url": "https://github.com/buildkite/bktest/pull/65",
-          "repositoryUrl": "https://api.github.com/repos/buildkite/bktest",
-          "updatedAt": "2026-10-19T11:07:22Z"
-        },
-        {
-          "title": "Document Android API consumer requirements and frozen reference cases",
-          "url": "https://github.com/Pick-Your-AI/pick-your-ai-android/pull/451",
-          "repositoryUrl": "https://api.github.com/repos/Pick-Your-AI/pick-your-ai-android",
-          "updatedAt": "2026-10-19T11:07:22Z"
-        },
-        {
-          "title": "Friction: No way to delete a team, so production checks of team grants leave permanent data",
-          "url": "https://github.com/kody-hq/kody/issues/3798",
-          "repositoryUrl": "https://api.github.com/repos/kody-hq/kody",
-          "updatedAt": "2026-10-19T11:07:21Z"
-        },
-        {
-          "title": "A Segment that acts on the reader's reading carries a performs Paragraph Waypoint and states no point (#1448)",
-          "url": "https://github.com/tim-nish/kogaki/pull/1454",
-          "repositoryUrl": "https://api.github.com/repos/tim-nish/kogaki",
-          "updatedAt": "2026-10-19T11:07:21Z"
-        },
-        {
-          "title": "Bump the minor-and-patch group across 1 directory with 23 updates",
-          "url": "https://github.com/rootprint/rootprint/pull/174",
-          "repositoryUrl": "https://api.github.com/repos/rootprint/rootprint",
-          "updatedAt": "2026-10-19T11:07:21Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
