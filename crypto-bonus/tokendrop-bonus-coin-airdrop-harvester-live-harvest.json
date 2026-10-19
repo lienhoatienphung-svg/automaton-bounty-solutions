@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T17:14:30.862Z",
-  "latencyMs": 850,
+  "executedAt": "2026-10-19T17:30:21.515Z",
+  "latencyMs": 1631,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #781: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #782: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1077153,
-      "apyBase": 0.98,
-      "apyRewardBonus": 79651.65,
-      "apyTotal": 79652.63,
+      "tvlUsd": 1076380,
+      "apyBase": 0.9,
+      "apyRewardBonus": 80616.64,
+      "apyTotal": 80617.54,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -44,10 +44,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 52431,
+      "tvlUsd": 52552,
       "apyBase": 0,
-      "apyRewardBonus": 36528,
-      "apyTotal": 36528,
+      "apyRewardBonus": 36841.14,
+      "apyTotal": 36841.14,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -56,24 +56,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-PROS",
-      "tvlUsd": 935959,
-      "apyBase": 16.62,
-      "apyRewardBonus": 24512.92,
-      "apyTotal": 24529.53,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 96779,
-      "apyBase": 142.62,
-      "apyRewardBonus": 13407.64,
-      "apyTotal": 13550.26,
+      "tvlUsd": 97629,
+      "apyBase": 143.48,
+      "apyRewardBonus": 17457.85,
+      "apyTotal": 17601.33,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -82,15 +69,15 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-USDC",
-      "tvlUsd": 152531,
-      "apyBase": 34.34,
-      "apyRewardBonus": 13380.74,
-      "apyTotal": 13415.09,
+      "symbol": "USDC-PROS",
+      "tvlUsd": 942615,
+      "apyBase": 11.19,
+      "apyRewardBonus": 16104.29,
+      "apyTotal": 16115.47,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
+      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
     },
     {
       "chain": "Base",
@@ -108,24 +95,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-CBBTC",
-      "tvlUsd": 176460,
-      "apyBase": 28.29,
-      "apyRewardBonus": 7237.42,
-      "apyTotal": 7265.71,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "USDC-SNDKC",
-      "tvlUsd": 964021,
-      "apyBase": 139.24,
-      "apyRewardBonus": 5591.39,
-      "apyTotal": 5730.63,
+      "tvlUsd": 957586,
+      "apyBase": 143.07,
+      "apyRewardBonus": 7531.22,
+      "apyTotal": 7674.28,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -134,11 +108,37 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 178227,
+      "apyBase": 27.51,
+      "apyRewardBonus": 5437.2,
+      "apyTotal": 5464.71,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "WETH-USDC",
+      "tvlUsd": 153037,
+      "apyBase": 30.33,
+      "apyRewardBonus": 4847.39,
+      "apyTotal": 4877.72,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "USDC-MUC",
-      "tvlUsd": 658024,
-      "apyBase": 151.33,
-      "apyRewardBonus": 5524.81,
-      "apyTotal": 5676.14,
+      "tvlUsd": 680918,
+      "apyBase": 138.69,
+      "apyRewardBonus": 4533.89,
+      "apyTotal": 4672.58,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -150,8 +150,32 @@
     {
       "chainId": "solana",
       "tokenAddress": "3qSd27nb3zyRmqbhLzH4PdeYcADqeLtjgYy2Fp4Apump",
+      "boostAmount": 10,
+      "totalBoostAmount": 110,
+      "description": "🐕🚀 ELONDOG — A NEW ADVENTURE BEGINS.\n\nA fearless cyber Doge. A Cybertruck. One destination: MARS. 🔴\n\nInspired by Elon’s futuristic universe and Doge’s legend",
+      "url": "https://dexscreener.com/solana/3qsd27nb3zyrmqbhlzh4pdeycadqeltjgyy2fp4apump"
+    },
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0x0e7d0FD3402546AEBD05C463a096cDB2D2210AAd",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Put the money in the cat. Liquidity first. 70% of creator fees go straight to the LP. Feed the cat. Fuel the liquidity.",
+      "url": "https://dexscreener.com/robinhood/0x0e7d0fd3402546aebd05c463a096cdb2d2210aad"
+    },
+    {
+      "chainId": "cronos",
+      "tokenAddress": "0x47A60741A595B89640b6fC22127977fb872E8439",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Meet #ULTinu 🦊🔥 The little fox bringing fun, energy, and good vibes to Cronos.\n\nReady to join the #CROFAM and make some noise!",
+      "url": "https://dexscreener.com/cronos/0x47a60741a595b89640b6fc22127977fb872e8439"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "3qSd27nb3zyRmqbhLzH4PdeYcADqeLtjgYy2Fp4Apump",
       "boostAmount": 100,
-      "totalBoostAmount": 100,
+      "totalBoostAmount": 110,
       "description": "🐕🚀 ELONDOG — A NEW ADVENTURE BEGINS.\n\nA fearless cyber Doge. A Cybertruck. One destination: MARS. 🔴\n\nInspired by Elon’s futuristic universe and Doge’s legend",
       "url": "https://dexscreener.com/solana/3qsd27nb3zyrmqbhlzh4pdeycadqeltjgyy2fp4apump"
     },
@@ -186,30 +210,6 @@
       "totalBoostAmount": 30,
       "description": "baguette",
       "url": "https://dexscreener.com/solana/durnefdg7ws8zvgrqbstxgerrecyv9jn3plwlkfpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. 🪙 Built & controlled by Agentic AI.",
-      "url": "https://dexscreener.com/solana/dtcicpcktkeah7tdeztym3hxeohaomibdyjhmyxzpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x5bA5108C56766aaC0EAE783793d43e08B488a626",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Every Hookr needs a $PIMP",
-      "url": "https://dexscreener.com/robinhood/0x5ba5108c56766aac0eae783793d43e08b488a626"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "FQJ79arbfYH8ojR6iWrsw2wesgUv7rXAvFaD5mTgpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "The AI is getting smarter. The memes are getting dumber. 🐘🧠",
-      "url": "https://dexscreener.com/solana/fqj79arbfyh8ojr6iwrsw2wesguv7rxavfad5mtgpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 738,
-      "priceBtc": 2.950434625554186e-7
+      "marketCapRank": 710,
+      "priceBtc": 3.2149404693684646e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 96,
-      "priceBtc": 0.000023292951667000324
-    },
-    {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "marketCapRank": 90,
-      "priceBtc": 0.000022993776617064174
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.150865065154194e-8
+      "priceBtc": 0.000023293158798245243
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 685,
-      "priceBtc": 0.0011490051916914767
+      "priceBtc": 0.0011499815576973152
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
-      "marketCapRank": 123,
-      "priceBtc": 6.955253160364248e-7
-    },
-    {
-      "name": "Curve DAO",
-      "symbol": "CRV",
-      "marketCapRank": 104,
-      "priceBtc": 0.0000045304090559341175
+      "marketCapRank": 122,
+      "priceBtc": 7.010632469967827e-7
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9995558552777664
+      "priceBtc": 1.0005511309759054
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "marketCapRank": 90,
+      "priceBtc": 0.000023183353527872302
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006086749157685126
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009565219494515713
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
-      "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
-      "createdAt": "2026-10-16T09:56:24Z"
+      "title": "Sync with upstream OfflineDAoC v0.37b",
+      "url": "https://github.com/lometur/HearthDAoC/pull/140",
+      "createdAt": "2026-10-19T17:29:57Z"
     },
     {
-      "title": "fix: request validation, WebSocket cleanup, DB SSL, query limits",
-      "url": "https://github.com/SmartDropLabs/smartdrop-backend/pull/594",
-      "createdAt": "2026-10-19T17:14:20Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Security hardening batch 1: auth gate, SSRF fix, IP trust, CORS, secrets (issue #1)",
-      "url": "https://github.com/tradelayer-wallet/tl-relayer/pull/2",
-      "createdAt": "2026-10-13T10:29:03Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "fix: align hLP accounting and settlement with accrued LP value",
-      "url": "https://github.com/omnipair/dusk/pull/52",
-      "createdAt": "2026-10-18T12:21:17Z"
+      "title": "Switch on the Swift SDK integration tier: the target, the key and an advisory job",
+      "url": "https://github.com/Crossmint/crossmint-swift-sdk/pull/207",
+      "createdAt": "2026-10-19T14:39:31Z"
     },
     {
-      "title": "contracts/staking: Prevent state modification inside read-only pending_rewards() view",
-      "url": "https://github.com/Fidelis900/soroban-starter-kit/issues/1335",
-      "createdAt": "2026-10-14T06:22:31Z"
+      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
+      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
+      "createdAt": "2026-10-18T07:37:42Z"
     },
     {
-      "title": "feat(custody): dashboard-only devnet faucet replaces the RPC relay (HOO-2168)",
-      "url": "https://github.com/solana-foundation/solana-developer-platform/pull/2420",
-      "createdAt": "2026-10-19T17:08:15Z"
+      "title": "docs(validators): v0.6 release update: drop Asimov, Bradbury phase 2, Python 3.10+",
+      "url": "https://github.com/genlayerlabs/genlayer-docs/pull/705",
+      "createdAt": "2026-10-19T11:22:28Z"
     }
   ]
 }
