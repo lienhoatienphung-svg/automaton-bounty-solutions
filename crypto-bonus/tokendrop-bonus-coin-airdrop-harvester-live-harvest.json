@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T13:31:53.517Z",
-  "latencyMs": 1232,
+  "executedAt": "2026-10-19T13:33:59.908Z",
+  "latencyMs": 970,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #758: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #759: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,62 +217,57 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 772,
-      "priceBtc": 2.755255079541013e-7
+      "marketCapRank": 779,
+      "priceBtc": 2.717225597011735e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 99,
-      "priceBtc": 0.00002256845589223709
+      "priceBtc": 0.000022529735630731352
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 677,
-      "priceBtc": 0.0011864507551272057
+      "marketCapRank": 682,
+      "priceBtc": 0.0011745049525545485
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 90,
-      "priceBtc": 0.000022445995499426904
+      "priceBtc": 0.000022434277823414392
+    },
+    {
+      "name": "Celestia",
+      "symbol": "TIA",
+      "marketCapRank": 103,
+      "priceBtc": 0.0000073050989062489555
     },
     {
       "name": "Osmosis",
       "symbol": "OSMO",
       "marketCapRank": 504,
-      "priceBtc": 7.106968729848815e-7
+      "priceBtc": 6.996888081708291e-7
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9998371601871311
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 88,
+      "priceBtc": 0.000009502992497259287
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.265282944682749e-8
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 102,
-      "priceBtc": 0.000007325720373980459
+      "priceBtc": 9.217638770689736e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat!: node message and VM status in API errors, typed errors, timeoutMs and opt-in GET retry",
-      "url": "https://github.com/Entropy-Foundation/supra-ts-sdk/pull/21",
-      "createdAt": "2026-10-19T11:06:36Z"
-    },
-    {
-      "title": "feat!: add Network.DEVNET, enable the faucet on every network and throw on TryLater",
-      "url": "https://github.com/Entropy-Foundation/supra-ts-sdk/pull/19",
-      "createdAt": "2026-10-19T10:49:27Z"
+      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
+      "url": "https://github.com/Dillen198/bfnext/pull/1",
+      "createdAt": "2026-01-19T07:41:07Z"
     },
     {
       "title": "feat(mcp): add jaw_read_contracts on every JAW chain",
@@ -280,19 +275,24 @@
       "createdAt": "2026-10-19T12:50:40Z"
     },
     {
-      "title": "ops(genesis): G5 ceremony runbook + keep_check in repo",
-      "url": "https://github.com/CitrateNetwork/citrate-chain/pull/329",
-      "createdAt": "2026-10-19T08:20:41Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "test: node-recorded transaction fixtures, end-to-end suite and Node 18-24 CI",
+      "url": "https://github.com/Entropy-Foundation/supra-ts-sdk/pull/18",
+      "createdAt": "2026-10-19T10:39:17Z"
     },
     {
       "title": "feat!: refuse SUPRA FA transfers the fungible store cannot cover; add migrateCoinToFungibleStore and getAccountSupraBalance",
       "url": "https://github.com/Entropy-Foundation/supra-ts-sdk/pull/30",
       "createdAt": "2026-10-19T12:22:19Z"
+    },
+    {
+      "title": "Update dependency lucide-react to v1.59.0",
+      "url": "https://github.com/kylescudder/spooktober/pull/20",
+      "createdAt": "2026-10-18T09:08:58Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     }
   ]
 }
