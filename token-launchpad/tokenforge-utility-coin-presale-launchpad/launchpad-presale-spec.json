@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T20:37:58.642Z",
-  "latencyMs": 251,
+  "executedAt": "2026-10-19T20:40:00.723Z",
+  "latencyMs": 333,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #798: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #799: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52826465,
+    "liveBlockNumber": 52826526,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440990,
-    "baseMainnetTopPoolsVolume24hUsd": 106996,
+    "baseMainnetTopPoolsVolume24hUsd": 106977,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "YED4XUxVXrV8JC5fBcB8mDceSoj5xN9Y5TLu7PJcp8q",
+        "description": "a solana fight club.\nlaunch a coin. throw hands.",
+        "url": "https://dexscreener.com/solana/yed4xuxvxrv8jc5fbcb8mdcesoj5xn9y5tlu7pjcp8q"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3WTzS79DcyKqk7tS574qpXAQQYvx62onyundiF6wGY4p",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/3wtzs79dcykqk7ts574qpxaqqyvx62onyundif6wgy4p"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x25aFD59907DF52C3BB6D6C50e2EAdB224C83d783",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/ethereum/0x25afd59907df52c3bb6d6c50e2eadb224c83d783"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "GDkGC2iw4LGptVbkHX9vKbpi3STV157dyuQGNcMapump",
@@ -63,24 +81,6 @@
         "tokenAddress": "0x9a5Fde9B69CDC7156884c338c7F53B0BCd583089",
         "description": "President Trump calls for New Mexico to immediately be renamed to “New America.”",
         "url": "https://dexscreener.com/robinhood/0x9a5fde9b69cdc7156884c338c7f53b0bcd583089"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HAmxfHc5k26HBSGbPFGM8qtLRLfwuLQeVWKThSo1pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hamxfhc5k26hbsgbpfgm8qtlrlfwulqevwkthso1pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "A3sz1d8ffezULkbaTo1tjvAyhr2MPnQvUyJZDfugpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/a3sz1d8ffezulkbato1tjvayhr2mpnqvuyjzdfugpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "39Bj4sHLsEHfQQ1gU2X3ZnMPceyTKdP2JG74hieZpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/39bj4shlsehfqq1gu2x3znmpceytkdp2jg74hiezpump"
       }
     ]
   },
