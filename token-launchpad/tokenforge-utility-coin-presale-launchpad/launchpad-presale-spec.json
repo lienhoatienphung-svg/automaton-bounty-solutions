@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T17:14:32.822Z",
-  "latencyMs": 256,
+  "executedAt": "2026-10-19T17:16:46.301Z",
+  "latencyMs": 510,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #776: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #777: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52820362,
+    "liveBlockNumber": 52820429,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 440989,
-    "baseMainnetTopPoolsVolume24hUsd": 97261,
+    "baseMainnetTopPoolsLiquidityUsd": 440990,
+    "baseMainnetTopPoolsVolume24hUsd": 100590,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "F6JxE8j95WyeXBmv7EMPCjRrqB4JNYmhpF6eBBiTpump",
+        "description": "Stake your RENT access 300+ Unique AI Models.",
+        "url": "https://dexscreener.com/solana/f6jxe8j95wyexbmv7empcjrrqb4jnymhpf6ebbitpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3qSd27nb3zyRmqbhLzH4PdeYcADqeLtjgYy2Fp4Apump",
@@ -75,12 +81,6 @@
         "tokenAddress": "2wZu25DbwRGZ6kTKqR551EP1QFoxLSNNQKwMAgBmxK3j",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/2wzu25dbwrgz6ktkqr551ep1qfoxlsnnqkwmagbmxk3j"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0xeE965f2568b88bc3e85318b658b4Ad1B4305ED1e",
-        "description": "INFERENCE is tokenized inference on Ethereum for Deference. Each INFERENCE activates into $1 of service credit for model usage. You can buy it, keep it, send it",
-        "url": "https://dexscreener.com/ethereum/0xee965f2568b88bc3e85318b658b4ad1b4305ed1e"
       }
     ]
   },
