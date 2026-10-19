@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T14:51:19.865Z",
-  "latencyMs": 1401,
+  "executedAt": "2026-10-19T14:55:56.644Z",
+  "latencyMs": 1575,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #766: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #767: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,81 +218,81 @@
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0003197447118832
+      "priceBtc": 1.0030975765808514
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 682,
+      "priceBtc": 0.0011679510743903567
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 98,
+      "priceBtc": 0.000022804831232653398
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 117,
+      "priceBtc": 9.245589229059987e-8
     },
     {
       "name": "Osmosis",
       "symbol": "OSMO",
       "marketCapRank": 489,
-      "priceBtc": 7.211440803947465e-7
+      "priceBtc": 7.351019434805132e-7
     },
     {
-      "name": "Boomer",
-      "symbol": "BOOMER",
-      "marketCapRank": 755,
-      "priceBtc": 2.901261629583549e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 680,
-      "priceBtc": 0.0011663769790380377
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 97,
-      "priceBtc": 0.000022775355322093076
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.165617731889365e-8
-    },
-    {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "marketCapRank": 90,
-      "priceBtc": 0.00002210207001119446
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009603394048932177
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00005964430648629958
+      "priceBtc": 0.000060339007173507894
+    },
+    {
+      "name": "Boomer",
+      "symbol": "BOOMER",
+      "marketCapRank": 769,
+      "priceBtc": 2.7630535621723505e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
-      "url": "https://github.com/Open-Athena/biotasks/issues/21",
-      "createdAt": "2026-10-16T20:07:24Z"
+      "title": "[grafana] Unify sync and async RL runs on one RL Post-training board",
+      "url": "https://github.com/marin-community/marin/pull/9715",
+      "createdAt": "2026-10-03T05:36:05Z"
     },
     {
-      "title": "Cotizador: parámetros desde el Excel de Alex → server, y trabajo a la par Alex/Mikey",
-      "url": "https://github.com/Mikey3003/beebags-deploy/issues/1",
-      "createdAt": "2026-10-15T20:29:24Z"
+      "title": "fix(codex): retain agent-session conformance evidence",
+      "url": "https://github.com/NVIDIA-NeMo/Gym/pull/4740",
+      "createdAt": "2026-10-19T14:18:52Z"
     },
     {
-      "title": "Agentic SFT shootout on Snowball v0: plain, RS-multi, relay, recovery, plateau dropping",
-      "url": "https://github.com/marin-community/marin/issues/10213",
-      "createdAt": "2026-10-16T22:05:38Z"
-    },
-    {
-      "title": "P21–P23: SFT/LoRA, preference optimization and MTP teaching batch",
-      "url": "https://github.com/cluster1900/zero2llm/pull/9",
-      "createdAt": "2026-10-19T13:05:42Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "[Contract] - Implement airdrop eligibility snapshot via Merkle tree in airdrop contract",
+      "url": "https://github.com/Arenax-gaming/ArenaX/issues/1416",
+      "createdAt": "2026-10-19T07:45:13Z"
     },
     {
       "title": "feat(individuality): register for the game in one call",
       "url": "https://github.com/paritytech/product-sdk/pull/479",
       "createdAt": "2026-10-19T10:00:54Z"
+    },
+    {
+      "title": "multi: support custom signet block time in chaincfg and btcd",
+      "url": "https://github.com/btcsuite/btcd/pull/2617",
+      "createdAt": "2026-10-02T14:34:43Z"
+    },
+    {
+      "title": "fix(RAA-02): Bound missing-certificates requests",
+      "url": "https://github.com/raylsnetwork/axyl/pull/243",
+      "createdAt": "2026-10-07T18:56:58Z"
     }
   ]
 }
