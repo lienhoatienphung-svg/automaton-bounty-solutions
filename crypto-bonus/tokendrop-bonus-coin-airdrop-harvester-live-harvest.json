@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T14:55:56.644Z",
-  "latencyMs": 1575,
+  "executedAt": "2026-10-19T15:14:04.143Z",
+  "latencyMs": 505,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #767: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #768: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,30 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "bsc",
+      "tokenAddress": "0x7AB8d02CBb51Ff7223fDe700eAaa2a91Bf750314",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "TART is the ecosystem token of TartSwap Dex on BNB Chain. Fixed 10B supply, live buyback & burn, Self-custody DeFi with  swaps, real-yield farms & staking, plus",
+      "url": "https://dexscreener.com/bsc/0x7ab8d02cbb51ff7223fde700eaaa2a91bf750314"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "8NL69xpoXRHKvbGYRyD7RFiQvzps776M37kh4mD2ETCH",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Ansem said XXX paired with BTC will do good in his opinion. Let's test the theory",
+      "url": "https://dexscreener.com/solana/8nl69xpoxrhkvbgyryd7rfiqvzps776m37kh4md2etch"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "DUcYuDof7Nnt2vpqHQA8dbz4kf524fDf8iAdQmsUpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "broom cat",
+      "url": "https://dexscreener.com/solana/ducyudof7nnt2vpqhqa8dbz4kf524fdf8iadqmsupump"
+    },
+    {
       "chainId": "cronos",
       "tokenAddress": "0x298F68A497853A6Be5D9Cb40868D80B435437e1f",
       "boostAmount": 10,
@@ -186,113 +210,58 @@
       "totalBoostAmount": 40,
       "description": "Meet 首席萌宠官 (Monkey) — the cutest companion in the crypto jungle! With a playful spirit and a mission to bring joy, this token is all about fun and community vib",
       "url": "https://dexscreener.com/bsc/0x04b5074b83f0b07413ffba60d05bbed5ab214e2d"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "Feixoq3AaHYjd8eBMJgLyVS3hKiq2a4k71myFQiGpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/feixoq3aahyjd8ebmjglyvs3hkiq2a4k71myfqigpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "1EwcGE6WrssiY2sKSadB5E5DE9WhPDQvBC6kev1EDGE",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "1EDGE Official token \nAnti bundle, Anti Sniper Launchpad",
-      "url": "https://dexscreener.com/solana/1ewcge6wrssiy2sksadb5e5de9whpdqvbc6kev1edge"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "86sf1fnEu5g3Lhsg4F1pHJEtaRwszUZosU2e2PU7E5ar",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "$Pepe turned into a pumpkin. \n\nMeet $PUMPE, the spookiest frog on the blockchain. \n\nHalloween hits different when $Pepe wears a pumpkin.",
-      "url": "https://dexscreener.com/solana/86sf1fneu5g3lhsg4f1phjetarwszuzosu2e2pu7e5ar"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 97,
+      "priceBtc": 0.000022813422309355288
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.18637054491652e-8
+    },
+    {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0030975765808514
+      "priceBtc": 0.999770609513099
+    },
+    {
+      "name": "Boomer",
+      "symbol": "BOOMER",
+      "marketCapRank": 807,
+      "priceBtc": 2.5501207637140237e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 682,
-      "priceBtc": 0.0011679510743903567
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 98,
-      "priceBtc": 0.000022804831232653398
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 117,
-      "priceBtc": 9.245589229059987e-8
-    },
-    {
-      "name": "Osmosis",
-      "symbol": "OSMO",
-      "marketCapRank": 489,
-      "priceBtc": 7.351019434805132e-7
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009603394048932177
+      "priceBtc": 0.00116014421584678
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.000060339007173507894
+      "priceBtc": 0.00005974728057077108
     },
     {
-      "name": "Boomer",
-      "symbol": "BOOMER",
-      "marketCapRank": 769,
-      "priceBtc": 2.7630535621723505e-7
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 29,
+      "priceBtc": 0.000012137640498607211
+    },
+    {
+      "name": "Osmosis",
+      "symbol": "OSMO",
+      "marketCapRank": 505,
+      "priceBtc": 7.086028699778838e-7
     }
   ],
-  "activeAirdropAndFaucetQuests": [
-    {
-      "title": "[grafana] Unify sync and async RL runs on one RL Post-training board",
-      "url": "https://github.com/marin-community/marin/pull/9715",
-      "createdAt": "2026-10-03T05:36:05Z"
-    },
-    {
-      "title": "fix(codex): retain agent-session conformance evidence",
-      "url": "https://github.com/NVIDIA-NeMo/Gym/pull/4740",
-      "createdAt": "2026-10-19T14:18:52Z"
-    },
-    {
-      "title": "[Contract] - Implement airdrop eligibility snapshot via Merkle tree in airdrop contract",
-      "url": "https://github.com/Arenax-gaming/ArenaX/issues/1416",
-      "createdAt": "2026-10-19T07:45:13Z"
-    },
-    {
-      "title": "feat(individuality): register for the game in one call",
-      "url": "https://github.com/paritytech/product-sdk/pull/479",
-      "createdAt": "2026-10-19T10:00:54Z"
-    },
-    {
-      "title": "multi: support custom signet block time in chaincfg and btcd",
-      "url": "https://github.com/btcsuite/btcd/pull/2617",
-      "createdAt": "2026-10-02T14:34:43Z"
-    },
-    {
-      "title": "fix(RAA-02): Bound missing-certificates requests",
-      "url": "https://github.com/raylsnetwork/axyl/pull/243",
-      "createdAt": "2026-10-07T18:56:58Z"
-    }
-  ]
+  "activeAirdropAndFaucetQuests": []
 }
