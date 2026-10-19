@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T02:43:24.282Z",
-  "latencyMs": 1644,
+  "executedAt": "2026-10-19T02:45:52.645Z",
+  "latencyMs": 839,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #736: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #737: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+      "boostAmount": 50,
+      "totalBoostAmount": 150,
+      "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
+      "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "Avengers-level protests in France, live and unhinged.",
       "url": "https://dexscreener.com/solana/gapbqwldpjsxgr9jxxg1ajlnthuxg58dm2xukbi8pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "6AZCEfnhaPDHghHhH4nArD3jXgdHnG54FXJPE3nApump",
-      "boostAmount": 100,
-      "totalBoostAmount": 130,
-      "description": "sir",
-      "url": "https://dexscreener.com/solana/6azcefnhapdhghhhh4nard3jxgdhng54fxjpe3napump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
+      "createdAt": "2026-10-12T04:03:25Z"
+    },
+    {
+      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
+      "url": "https://github.com/jsboige/CoursIA/pull/20377",
+      "createdAt": "2026-10-11T14:10:17Z"
+    },
+    {
+      "title": "docs(site): add the docs pages and cut the README to a summary",
+      "url": "https://github.com/zhangheqi/worgl/pull/27",
+      "createdAt": "2026-10-19T02:23:18Z"
+    },
+    {
+      "title": "Next fork, part 1: stage block versions by height, commit the validity bounds at genesis, and add fundPot",
+      "url": "https://github.com/rchain-community/rchain-rust/pull/373",
+      "createdAt": "2026-10-16T16:04:15Z"
+    },
+    {
+      "title": "fix(site): count worgl-faucet on the home and Open source pages",
+      "url": "https://github.com/zhangheqi/worgl/pull/28",
+      "createdAt": "2026-10-19T02:43:42Z"
+    },
+    {
       "title": "VALUE-POLISH: purchase-flow notes from #487",
       "url": "https://github.com/stolslilabs/paved/pull/565",
       "createdAt": "2026-10-19T02:16:15Z"
-    },
-    {
-      "title": "chore(deps): update all non-major dependencies",
-      "url": "https://github.com/reddoorla/caltex-landing/pull/66",
-      "createdAt": "2026-09-21T16:44:32Z"
-    },
-    {
-      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
-      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
-      "createdAt": "2026-10-07T16:13:30Z"
-    },
-    {
-      "title": "[ios] Share a maps.apple.com link with third-party share extensions",
-      "url": "https://github.com/organicmaps/organicmaps/pull/13699",
-      "createdAt": "2026-10-03T00:38:38Z"
-    },
-    {
-      "title": "Set up the repo for coding agents, pin image inputs, move skills to the tools repo",
-      "url": "https://github.com/radius-workshop/radius-hermes-railway-template/pull/67",
-      "createdAt": "2026-10-19T02:02:45Z"
-    },
-    {
-      "title": "feat: serve projects and generated skills from D1 at runtime",
-      "url": "https://github.com/SlopDotCash/slopdotcash/pull/867",
-      "createdAt": "2026-10-19T02:01:23Z"
     }
   ]
 }
