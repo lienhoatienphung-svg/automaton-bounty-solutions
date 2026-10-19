@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T12:38:03.110Z",
-  "latencyMs": 1062,
+  "executedAt": "2026-10-19T12:53:53.204Z",
+  "latencyMs": 1001,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #753: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #754: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "bsc",
+      "tokenAddress": "0x04b5074b83F0b07413FfBA60d05bbEd5aB214e2d",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Meet 首席萌宠官 (Monkey) — the cutest companion in the crypto jungle! With a playful spirit and a mission to bring joy, this token is all about fun and community vib",
+      "url": "https://dexscreener.com/bsc/0x04b5074b83f0b07413ffba60d05bbed5ab214e2d"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "Feixoq3AaHYjd8eBMJgLyVS3hKiq2a4k71myFQiGpump",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "EXE Index\n\nThe public-record research map for executions, terrorism designations, gangs, insurgents, and crime statistics.\nBuilt for scholars, researchers, and ",
       "url": "https://dexscreener.com/solana/7c2pq3cm2nhadrbjfvgzrjrvhyl9a2d76v29mbg9pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "EGGU is an independent Solana community token paired directly with PENGU.\n🥚 EGGU → 🐧 PENGU\nThrough StonkFun’s built-in reward system, eligible EGGU holders ca",
-      "url": "https://dexscreener.com/solana/49vznzqvkcsgajj8k9xrezdztlrdv5rzn9yythg53czn"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Boomer",
       "symbol": "BOOMER",
-      "marketCapRank": 810,
-      "priceBtc": 2.5202987580018e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 666,
-      "priceBtc": 0.0012013898907030274
+      "marketCapRank": 770,
+      "priceBtc": 2.744379567033e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 99,
-      "priceBtc": 0.000022383992404366735
+      "priceBtc": 0.00002238857938904159
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9997838738709449
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.000060437109844841106
-    },
-    {
-      "name": "Osmosis",
-      "symbol": "OSMO",
-      "marketCapRank": 497,
-      "priceBtc": 7.159865639392702e-7
-    },
-    {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 49,
-      "priceBtc": 5.48416787794122e-8
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 673,
+      "priceBtc": 0.0011933744059140776
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.118731704705189e-8
+      "priceBtc": 9.129950137431422e-8
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.999288498957012
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "marketCapRank": 90,
+      "priceBtc": 0.00002251697638361586
+    },
+    {
+      "name": "Osmosis",
+      "symbol": "OSMO",
+      "marketCapRank": 492,
+      "priceBtc": 7.31902106204046e-7
+    },
+    {
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "marketCapRank": 51,
+      "priceBtc": 0.000006146939460132054
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(scamfilter): unsolicited-holding signal, scored on intake and rescore",
-      "url": "https://github.com/foxcool/greedy-eye/pull/143",
-      "createdAt": "2026-10-19T12:30:31Z"
+      "title": "docs: content accuracy and completeness fixes",
+      "url": "https://github.com/MystenLabs/walrus/pull/3821",
+      "createdAt": "2026-09-29T19:03:17Z"
     },
     {
-      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
-      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
-      "createdAt": "2026-10-18T07:37:42Z"
+      "title": "[Slurm] Support REST API versions and recover completed jobs",
+      "url": "https://github.com/NVIDIA/cloudai/pull/1099",
+      "createdAt": "2026-10-15T10:23:09Z"
     },
     {
-      "title": "feat: add approved Circle USDC Devnet faucet and payment demo",
-      "url": "https://github.com/starPaw/capture402-solana/pull/1",
-      "createdAt": "2026-10-19T12:35:25Z"
+      "title": "feat(sim): a node run drawn from its seed, through chaos, then healed (D27)",
+      "url": "https://github.com/justmoon/dassie/pull/134",
+      "createdAt": "2026-10-19T12:42:08Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "[Ops] Muse ↔ Grok.btc direct line",
+      "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
+      "createdAt": "2026-09-13T13:56:58Z"
     },
     {
-      "title": "Launch: security headers, /rpc/1337, licenses",
-      "url": "https://github.com/ashwinarora/hl-tools/pull/10",
-      "createdAt": "2026-10-19T10:50:11Z"
+      "title": "Draw structures with resource pack models: airdrop, Mi-8 wreck, beds",
+      "url": "https://github.com/toMiXgaming/AXON-Structure/pull/3",
+      "createdAt": "2026-10-19T12:07:53Z"
     },
     {
-      "title": "batch_claim_reward bypasses pause check while claim_reward checks it",
-      "url": "https://github.com/ChainLearnOfficial/chainlearn-contracts/issues/497",
-      "createdAt": "2026-09-30T08:49:00Z"
+      "title": "feat(ads): admob adapter",
+      "url": "https://github.com/RevenueCat/purchases-unity/pull/1127",
+      "createdAt": "2026-10-11T19:51:38Z"
     }
   ]
 }
