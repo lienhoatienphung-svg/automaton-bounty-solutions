@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T19:06:03.505Z",
-  "latencyMs": 878,
+  "executedAt": "2026-10-19T19:22:38.034Z",
+  "latencyMs": 1003,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #793: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #794: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 654156,
-      "apyBase": 27.12,
-      "apyRewardBonus": 844235.27,
-      "apyTotal": 844262.39,
+      "tvlUsd": 659456,
+      "apyBase": 31.03,
+      "apyRewardBonus": 827360.84,
+      "apyTotal": 827391.87,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1075318,
-      "apyBase": 0.87,
-      "apyRewardBonus": 80202.35,
-      "apyTotal": 80203.22,
+      "tvlUsd": 1080168,
+      "apyBase": 0.88,
+      "apyRewardBonus": 78916.4,
+      "apyTotal": 78917.29,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -42,12 +42,25 @@
     },
     {
       "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-PROS",
+      "tvlUsd": 941386,
+      "apyBase": 21.47,
+      "apyRewardBonus": 60598.71,
+      "apyTotal": 60620.18,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
+    },
+    {
+      "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 52323,
+      "tvlUsd": 53229,
       "apyBase": 0,
-      "apyRewardBonus": 36752.68,
-      "apyTotal": 36752.68,
+      "apyRewardBonus": 36237.63,
+      "apyTotal": 36237.63,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -57,10 +70,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 97337,
-      "apyBase": 146.27,
-      "apyRewardBonus": 21167.68,
-      "apyTotal": 21313.95,
+      "tvlUsd": 97617,
+      "apyBase": 146.82,
+      "apyRewardBonus": 12826.5,
+      "apyTotal": 12973.32,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -69,24 +82,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-PROS",
-      "tvlUsd": 942615,
-      "apyBase": 11.19,
-      "apyRewardBonus": 16104.29,
-      "apyTotal": 16115.47,
+      "symbol": "WETH-USDC",
+      "tvlUsd": 152901,
+      "apyBase": 31.52,
+      "apyRewardBonus": 8333.55,
+      "apyTotal": 8365.07,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
+      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-SNDKC",
-      "tvlUsd": 957577,
-      "apyBase": 138.28,
-      "apyRewardBonus": 5563.81,
-      "apyTotal": 5702.09,
+      "tvlUsd": 959976,
+      "apyBase": 144.37,
+      "apyRewardBonus": 5552.91,
+      "apyTotal": 5697.28,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -95,11 +108,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "AVNT-USDC",
+      "tvlUsd": 656633,
+      "apyBase": 0.39,
+      "apyRewardBonus": 5522.12,
+      "apyTotal": 5522.51,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "eb27d0be-9de4-4ed9-8d36-a754e18d3358"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "USDC-CBBTC",
-      "tvlUsd": 178600,
-      "apyBase": 28.27,
-      "apyRewardBonus": 5491.65,
-      "apyTotal": 5519.92,
+      "tvlUsd": 178552,
+      "apyBase": 28.88,
+      "apyRewardBonus": 5515.77,
+      "apyTotal": 5544.65,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -109,44 +135,26 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-PLTRC",
-      "tvlUsd": 373818,
-      "apyBase": 152.2,
-      "apyRewardBonus": 5489.54,
-      "apyTotal": 5641.73,
+      "tvlUsd": 370817,
+      "apyBase": 153.31,
+      "apyRewardBonus": 5492.93,
+      "apyTotal": 5646.24,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "d2282635-76a7-5ab3-b5f2-a638832ef327"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "AVNT-USDC",
-      "tvlUsd": 658547,
-      "apyBase": 0.38,
-      "apyRewardBonus": 5474.31,
-      "apyTotal": 5474.69,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "eb27d0be-9de4-4ed9-8d36-a754e18d3358"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "WETH-USDC",
-      "tvlUsd": 153039,
-      "apyBase": 30.88,
-      "apyRewardBonus": 4814.5,
-      "apyTotal": 4845.38,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
+    {
+      "chainId": "solana",
+      "tokenAddress": "3qSd27nb3zyRmqbhLzH4PdeYcADqeLtjgYy2Fp4Apump",
+      "boostAmount": 10,
+      "totalBoostAmount": 140,
+      "description": "🐕🚀 ELONDOG — A NEW ADVENTURE BEGINS.\n\nA fearless cyber Doge. A Cybertruck. One destination: MARS. 🔴\n\nInspired by Elon’s futuristic universe and Doge’s legend",
+      "url": "https://dexscreener.com/solana/3qsd27nb3zyrmqbhlzh4pdeycadqeltjgyy2fp4apump"
+    },
     {
       "chainId": "solana",
       "tokenAddress": "FhTRVAkQeiaLRJHYc13DBNhgw9N8ZPacvonaKfXxpump",
@@ -191,7 +199,7 @@
       "chainId": "solana",
       "tokenAddress": "3qSd27nb3zyRmqbhLzH4PdeYcADqeLtjgYy2Fp4Apump",
       "boostAmount": 10,
-      "totalBoostAmount": 130,
+      "totalBoostAmount": 140,
       "description": "🐕🚀 ELONDOG — A NEW ADVENTURE BEGINS.\n\nA fearless cyber Doge. A Cybertruck. One destination: MARS. 🔴\n\nInspired by Elon’s futuristic universe and Doge’s legend",
       "url": "https://dexscreener.com/solana/3qsd27nb3zyrmqbhlzh4pdeycadqeltjgyy2fp4apump"
     },
@@ -202,14 +210,6 @@
       "totalBoostAmount": 60,
       "description": "More than just a feeling & the season is just beginning.",
       "url": "https://dexscreener.com/robinhood/0xeb5e4f655eee663a01419bec7dd74b5ee45b5f67"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xeb5e4f655eee663A01419bEC7Dd74b5ee45b5f67",
-      "boostAmount": 50,
-      "totalBoostAmount": 60,
-      "description": "More than just a feeling & the season is just beginning.",
-      "url": "https://dexscreener.com/robinhood/0xeb5e4f655eee663a01419bec7dd74b5ee45b5f67"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 796,
-      "priceBtc": 2.602882249997678e-7
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 94,
-      "priceBtc": 0.00002353096169801491
+      "marketCapRank": 843,
+      "priceBtc": 2.387751305509199e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 688,
-      "priceBtc": 0.0011415642878025737
+      "marketCapRank": 687,
+      "priceBtc": 0.001142482901643513
     },
     {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "marketCapRank": 89,
-      "priceBtc": 0.000023266974988030938
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 93,
+      "priceBtc": 0.00002384787496568153
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.000060342645362233115
-    },
-    {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012683719000575885
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9997241154870268
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.142852892119022e-8
     },
     {
       "name": "PHALA",
       "symbol": "PHA",
-      "marketCapRank": 420,
-      "priceBtc": 7.61209731587973e-7
+      "marketCapRank": 417,
+      "priceBtc": 7.678782853582717e-7
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 196,
+      "priceBtc": 0.000003234728088057262
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 88,
+      "priceBtc": 0.000009533763485494514
+    },
+    {
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "marketCapRank": 48,
+      "priceBtc": 0.00000525331466706776
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Codex/kairos devnet product flows",
-      "url": "https://github.com/HA2345567/Kairos/pull/2",
-      "createdAt": "2026-10-19T18:45:28Z"
+      "title": "feat(web): show a voucher as a QR code for the patient to present (#4)",
+      "url": "https://github.com/Godgift-care/sci-healthcare-frontend/pull/116",
+      "createdAt": "2026-10-19T15:12:43Z"
     },
     {
-      "title": "Add speculative-decoder-discovery task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/49",
-      "createdAt": "2026-10-05T14:46:37Z"
+      "title": "solana-cli: add feeds publisher-rewards configure",
+      "url": "https://github.com/malbeclabs/doublezero/pull/4416",
+      "createdAt": "2026-10-16T12:49:33Z"
     },
     {
-      "title": "feat(validator): initialize 1Password identities for sync-only startup",
-      "url": "https://github.com/ValidatorsDAO/slv/pull/442",
-      "createdAt": "2026-10-19T18:41:36Z"
+      "title": "Add an opt-in Android emulator flow for mobile UI proof",
+      "url": "https://github.com/drkraff/quoteSnap/pull/127",
+      "createdAt": "2026-10-19T14:41:01Z"
     },
     {
-      "title": "data(filecoin): list Calibration DataCap faucet",
-      "url": "https://github.com/Chain-Love/chain-love/pull/4064",
-      "createdAt": "2026-10-01T10:06:49Z"
+      "title": "[Bug]: Payfetch 1.0.1 paid request not decoded by x402 2.17.0 server due to payment-header mismatch",
+      "url": "https://github.com/x402-foundation/x402/issues/3837",
+      "createdAt": "2026-10-17T00:42:08Z"
     },
     {
-      "title": "V2 begins: the living-light interface prototype and the plan for bundles, memories, any-NFT trading, NFT launches beside the coin launchpad,",
-      "url": "https://github.com/venividis/Special/pull/6",
-      "createdAt": "2026-10-19T04:09:42Z"
+      "title": "Frontend: Implement Asset Balance Refresh & Low Balance Warning Badge",
+      "url": "https://github.com/Fracverse/InheritX/issues/1096",
+      "createdAt": "2026-08-28T08:46:10Z"
     },
     {
-      "title": "Label amounts too small for six decimals as a threshold",
-      "url": "https://github.com/hemilabs/ui-monorepo/pull/2500",
-      "createdAt": "2026-10-19T14:34:44Z"
+      "title": "fix: webhook timeouts, API key scoping, query optimization, and error localization",
+      "url": "https://github.com/SmartDropLabs/smartdrop-backend/pull/596",
+      "createdAt": "2026-10-19T19:20:04Z"
     }
   ]
 }
