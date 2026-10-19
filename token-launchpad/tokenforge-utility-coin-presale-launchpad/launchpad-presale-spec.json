@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-19T00:36:32.653Z",
-  "latencyMs": 304,
+  "executedAt": "2026-10-19T00:38:40.820Z",
+  "latencyMs": 310,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #718: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #719: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52790422,
+    "liveBlockNumber": 52790486,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,16 +30,10 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459009,
-    "baseMainnetTopPoolsVolume24hUsd": 138631,
+    "baseMainnetTopPoolsLiquidityUsd": 459008,
+    "baseMainnetTopPoolsVolume24hUsd": 138637,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
-      {
-        "chainId": "solana",
-        "tokenAddress": "7Xoga4c3Jy1nUtF8nLMknFccq1tsTxvmqnC49yiEpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7xoga4c3jy1nutf8nlmknfccq1tstxvmqnc49yiepump"
-      },
       {
         "chainId": "solana",
         "tokenAddress": "EHBy9XWz1DKfSUQpMbijxNgKS4UmVc8oEKhct7C9pump",
@@ -81,6 +75,12 @@
         "tokenAddress": "3PEMevfCoBCJegTknTTHjxwgTBP9piwkYZXwyzzXpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/3pemevfcobcjegtkntthjxwgtbp9piwkyzxwyzzxpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "AkZ7LgjygCEafo37V88fHF9C2PQZyQ98d71ES5bscC4V",
+        "description": "CapyPots is a Solana project that combines token staking with prize draws in SOL and CAPYPOT. Staked tokens earn tickets for daily, weekly, and monthly draws, w",
+        "url": "https://dexscreener.com/solana/akz7lgjygceafo37v88fhf9c2pqzyq98d71es5bscc4v"
       }
     ]
   },
