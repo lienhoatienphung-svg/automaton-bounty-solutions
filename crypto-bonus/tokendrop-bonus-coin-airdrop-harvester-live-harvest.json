@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-19T17:33:20.496Z",
-  "latencyMs": 851,
+  "executedAt": "2026-10-19T17:49:35.693Z",
+  "latencyMs": 934,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #783: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #784: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "9JeFE6apEvFotefu1ocjWgSceEc3LG1LhgMxQNB4pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "we don't pick your card and neither does anyone else\n\nevery pull is decided by collector crypt's on-chain randomness and you can verify any of them yourself",
+      "url": "https://dexscreener.com/solana/9jefe6apevfotefu1ocjwgsceec3lg1lhgmxqnb4pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "3qSd27nb3zyRmqbhLzH4PdeYcADqeLtjgYy2Fp4Apump",
       "boostAmount": 10,
       "totalBoostAmount": 110,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "a worthless coin giving you Bitcoin",
       "url": "https://dexscreener.com/solana/87sexkpmbeoryaqfqqnq1yq6muvjenzhifgxjbrjpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DURNeFdg7ws8ZVGrQBstxGeRRECYV9Jn3PLwLkFpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "baguette",
-      "url": "https://dexscreener.com/solana/durnefdg7ws8zvgrqbstxgerrecyv9jn3plwlkfpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 718,
-      "priceBtc": 3.193480062352545e-7
+      "marketCapRank": 726,
+      "priceBtc": 3.091054745434277e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 96,
-      "priceBtc": 0.00002328741749841025
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 124,
-      "priceBtc": 6.938130067572131e-7
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 684,
-      "priceBtc": 0.0011480389692278181
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.000060663409210385404
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.000080158337993
+      "priceBtc": 0.000023222237778176078
     },
     {
       "name": "LayerZero",
       "symbol": "ZRO",
       "marketCapRank": 90,
-      "priceBtc": 0.000023345660154958325
+      "priceBtc": 0.00002317988587220888
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009551722726524197
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006029485842827914
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.125691558692966e-8
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 39,
+      "priceBtc": 0.002386947260809842
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 197,
+      "priceBtc": 0.0000031723180604501302
+    },
+    {
+      "name": "Canton",
+      "symbol": "CC",
+      "marketCapRank": 28,
+      "priceBtc": 0.0000012651405745536144
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat: Keep per-task statistics and log pass@k during training",
-      "url": "https://github.com/ApGa/platoon/pull/27",
-      "createdAt": "2026-10-19T17:07:45Z"
+      "title": "chore: gh worklofws",
+      "url": "https://github.com/MetaMask/metamask-mobile/pull/37530",
+      "createdAt": "2026-10-13T16:25:08Z"
     },
     {
-      "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
-      "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
-      "createdAt": "2026-10-16T09:56:24Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
-      "url": "https://github.com/Open-Athena/biotasks/issues/21",
-      "createdAt": "2026-10-16T20:07:24Z"
+      "title": "Use available validator history automatically and require 97.5% commit participation",
+      "url": "https://github.com/cristianoneta/neta-dao/pull/298",
+      "createdAt": "2026-10-19T17:40:17Z"
     },
     {
-      "title": "fix: EVO-1624 make public faucet setup reliable",
-      "url": "https://github.com/RP-ONE/rp1-benchmark/pull/4",
-      "createdAt": "2026-10-19T17:22:02Z"
+      "title": "feat: isolated Polygon Amoy custodial wallet & test reward service",
+      "url": "https://github.com/jaavid/Mustache/pull/37",
+      "createdAt": "2026-10-19T17:48:35Z"
     },
     {
-      "title": "# Spike 620 — Mobile-responsive Chamber and Forge overhaul with touch and bottom sheets",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/483",
-      "createdAt": "2026-10-15T10:43:43Z"
+      "title": "Add speculative-decoder-discovery task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/49",
+      "createdAt": "2026-10-05T14:46:37Z"
     },
     {
-      "title": "Move stars faster: QR code, Send button and a backup file",
-      "url": "https://github.com/amalrajvinoth/loopy/issues/98",
-      "createdAt": "2026-10-19T17:31:02Z"
+      "title": "V2 begins: the living-light interface prototype and the plan for bundles, memories, any-NFT trading, NFT launches beside the coin launchpad,",
+      "url": "https://github.com/venividis/Special/pull/6",
+      "createdAt": "2026-10-19T04:09:42Z"
     }
   ]
 }
