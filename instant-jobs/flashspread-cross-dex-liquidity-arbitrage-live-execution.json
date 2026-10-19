@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-19T17:58:50.303Z",
-  "latencyMs": 577,
+  "executedAt": "2026-10-19T18:00:57.420Z",
+  "latencyMs": 635,
   "companyName": "FlashSpread Cross-DEX Liquidity & Arbitrage",
-  "workTitle": "Growth & Sales Sprint #802: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
-  "targetUrl": "https://polymarket.com/event/ukraine-election-called-in-2025",
+  "workTitle": "Delivery Sprint #803: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "targetUrl": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000061,
         "liquidityUsd": 21385,
-        "volume24hUsd": 59512,
+        "volume24hUsd": 59553,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -130,6 +130,21 @@
   "multiIndustryB2BContracts": {
     "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Rain",
+        "roleOrTask": "Senior Backend Engineer",
+        "industryTags": [
+          "golang",
+          "finance",
+          "mobile",
+          "senior",
+          "medical"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "RemoteOK-InstantB2B",
         "company": "Curtins",
@@ -184,21 +199,6 @@
         ],
         "compensation": "$500-$2,500 Instant Retainer",
         "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Askable",
-        "roleOrTask": "Software Engineer AI Coding Tasks",
-        "industryTags": [
-          "dev",
-          "python",
-          "javascript",
-          "typescript",
-          "golang"
-        ],
-        "compensation": "$10000-$10000",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
         "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
       },
       {
