@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-19T01:35:11.709Z",
-  "latencyMs": 599,
+  "executedAt": "2026-10-19T01:37:40.676Z",
+  "latencyMs": 760,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #708: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #709: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "fix(apps): launch an app's own agent on kiro-cli from a Crew-written copy",
+          "url": "https://github.com/kirodotdev/KiroCrew/pull/21867",
+          "repositoryUrl": "https://api.github.com/repos/kirodotdev/KiroCrew",
+          "updatedAt": "2026-10-19T01:37:38Z"
+        },
+        {
+          "title": "Compare bare tracker refs within each participant repository",
+          "url": "https://github.com/Agenxy/dibs/pull/455",
+          "repositoryUrl": "https://api.github.com/repos/Agenxy/dibs",
+          "updatedAt": "2026-10-19T01:37:35Z"
+        },
+        {
+          "title": "Build NDRANEXA SaaS subscription foundation and trusted workflows",
+          "url": "https://github.com/ndraaa555x/ABSENSI-STOK-TOKO/pull/53",
+          "repositoryUrl": "https://api.github.com/repos/ndraaa555x/ABSENSI-STOK-TOKO",
+          "updatedAt": "2026-10-19T01:37:34Z"
+        },
+        {
+          "title": "perf(durable-tasks): record repeated reads of journaled state as references in leaner access records",
+          "url": "https://github.com/dotnet/orleans/pull/11532",
+          "repositoryUrl": "https://api.github.com/repos/dotnet/orleans",
+          "updatedAt": "2026-10-19T01:37:34Z"
+        },
+        {
+          "title": "[v2/W7] 프로세스 메모리 상태를 DB로 이전 (OIDC pending · device pending · device grant 실패 카운터)",
+          "url": "https://github.com/fritzprix/ak5/issues/107",
+          "repositoryUrl": "https://api.github.com/repos/fritzprix/ak5",
+          "updatedAt": "2026-10-19T01:37:33Z"
+        },
+        {
+          "title": "Shell approvals by command name: chains, redirections, and by-name grants inside the workspace",
+          "url": "https://github.com/stratuslabs/agent/pull/374",
+          "repositoryUrl": "https://api.github.com/repos/stratuslabs/agent",
+          "updatedAt": "2026-10-19T01:37:36Z"
+        },
+        {
+          "title": "fix(access)!: retain original authority across Event operations",
+          "url": "https://github.com/islamu-ngo/Event/pull/75",
+          "repositoryUrl": "https://api.github.com/repos/islamu-ngo/Event",
+          "updatedAt": "2026-10-19T01:37:32Z"
+        },
+        {
+          "title": "Promotion queue — Omarchy (canonical #110)",
+          "url": "https://github.com/kvnloo/omarchy/issues/110",
+          "repositoryUrl": "https://api.github.com/repos/kvnloo/omarchy",
+          "updatedAt": "2026-10-19T01:37:32Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
