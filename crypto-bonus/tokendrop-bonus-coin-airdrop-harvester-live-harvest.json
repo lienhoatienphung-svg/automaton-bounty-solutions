@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T13:38:01.653Z",
-  "latencyMs": 1483,
+  "executedAt": "2026-10-20T13:42:18.525Z",
+  "latencyMs": 1251,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #93: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #94: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,22 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "USEu5qroduzuvrSZfvs3xM1MwyU83joapQF5LMyWiSP",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "ZK burner wallets for every trade. Privacy made easy. 24.5% locked until 2126, 0.5% to Fomo for the team tag.",
+      "url": "https://dexscreener.com/solana/useu5qroduzuvrszfvs3xm1mwyu83joapqf5lmywisp"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "7XBdVqzZFYwpBz7VshzWZWd7ms1sG9f9UQ8YiHqapump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "super pika",
+      "url": "https://dexscreener.com/solana/7xbdvqzzfywpbz7vshzwzwd7ms1sg9f9uq8yihqapump"
+    },
+    {
       "chainId": "bsc",
       "tokenAddress": "0x7D0443CdDFc8E11AF105F4fE44Dd28c630237777",
       "boostAmount": 100,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/robinhood/0x58dd8583420151785efa434af2429f96de6e1111"
-    },
-    {
-      "chainId": "bsc",
-      "tokenAddress": "0xBc4721B16Eec6197496524Ea0D8082ab08A470bc",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "The House. One rule.\n\nWhen the Chainlink BTC/USD price falls 0.5% below its running high, the contract sells 1% of every holder's WICK into this pool in one tra",
-      "url": "https://dexscreener.com/bsc/0xbc4721b16eec6197496524ea0d8082ab08a470bc"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "86sf1fnEu5g3Lhsg4F1pHJEtaRwszUZosU2e2PU7E5ar",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "$Pepe turned into a pumpkin. \n\nMeet $PUMPE, the spookiest frog on the blockchain. \n\nHalloween hits different when $Pepe wears a pumpkin.",
-      "url": "https://dexscreener.com/solana/86sf1fneu5g3lhsg4f1phjetarwszuzosu2e2pu7e5ar"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat: opt-in concurrent spending and VTXO reservations",
-      "url": "https://github.com/arkade-os/ts-sdk/pull/1051",
-      "createdAt": "2026-10-09T12:49:32Z"
+      "title": "Update all non-major dependencies",
+      "url": "https://github.com/HarryAllen1/tsa-grouping-thing/pull/132",
+      "createdAt": "2026-03-04T10:04:50Z"
     },
     {
-      "title": "feat(staking): BUILD 1 — HeroSingleSidedStaking (HERO→HERO, DAO vote source)",
-      "url": "https://github.com/jratdish1/hero-dapp/pull/119",
-      "createdAt": "2026-09-27T22:49:15Z"
+      "title": "fix(deps): bump wasmtime to 49.0.4 (RUSTSEC-2026-0378, RUSTSEC-2026-0379)",
+      "url": "https://github.com/faucet-hq/faucet-stream/pull/928",
+      "createdAt": "2026-10-20T13:41:51Z"
     },
     {
-      "title": "feat(insights): assistant and meetings in Insights, and share as a deck of cards",
-      "url": "https://github.com/AbhishekBarali/SpeakoFlow/pull/88",
-      "createdAt": "2026-10-20T09:03:05Z"
+      "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
+      "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
+      "createdAt": "2026-10-16T09:56:24Z"
     },
     {
-      "title": "FLOP CHATGPT HANDOFF — NEWEST COMMENT IS SOLE CURRENT AUTHORITY (historical archive preserved)",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/765",
-      "createdAt": "2026-10-06T05:27:29Z"
+      "title": "Shell tests, complete XML docs and BCUK-Bot-4's standards (Core 0.17.1, Shell 0.16.1)",
+      "url": "https://github.com/Battle-Cattle/BCUK-Companion-Core/pull/49",
+      "createdAt": "2026-10-20T10:15:34Z"
     },
     {
-      "title": "fix(examples): serve GET in agent-to-agent and inference-agent (resolves #353)",
-      "url": "https://github.com/winsznx/routedock/pull/476",
-      "createdAt": "2026-09-25T15:22:54Z"
+      "title": "feat(bot): persistent 3-color navigation and copyable wallet commands",
+      "url": "https://github.com/jaavid/Mustache/pull/47",
+      "createdAt": "2026-10-20T13:37:59Z"
     },
     {
-      "title": "Epic: agent eval suite — measure how often real agents succeed through Haven's MCP surface (Hermes lane first, Claude Code second)",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/3957",
-      "createdAt": "2026-10-14T15:43:32Z"
+      "title": "feat(mocks): issuer-agnostic mock RFQ venue and mAAPL for testnets",
+      "url": "https://github.com/Assetera-AG/AsseteraEvmContracts/pull/106",
+      "createdAt": "2026-10-20T11:21:01Z"
     }
   ]
 }
