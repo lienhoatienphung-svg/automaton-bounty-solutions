@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T16:17:35.146Z",
-  "latencyMs": 923,
+  "executedAt": "2026-10-20T16:18:54.264Z",
+  "latencyMs": 886,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #140: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
+  "workTitle": "Delivery Sprint #141: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,22 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. 🪙 Built & controlled by Agentic AI.",
+      "url": "https://dexscreener.com/solana/dtcicpcktkeah7tdeztym3hxeohaomibdyjhmyxzpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "DC1MjRzGGdxptmztvHimSvgxtogysrshbi9ZH7fZpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "QuantoLock — The Future of Crypto Payments.\n\nGetting your own money out of crypto shouldn't be complicated.\n\nToday, turning cryptocurrency into spendable money ",
+      "url": "https://dexscreener.com/solana/dc1mjrzggdxptmztvhimsvgxtogysrshbi9zh7fzpump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x8B39b55857ceA6D173aF2b5Bb1144c2633739960",
       "boostAmount": 10,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 30,
       "description": "$ROULANA is the coin of Roulana: live multiplayer European roulette on Solana, played with real USDC at one 3D table. Every round with money on it is drawn and ",
       "url": "https://dexscreener.com/solana/tth5rjwvxcfbdjd3x2anbxtydjtrcfa9ty4qpmupump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "When the city goes dark, the signal comes alive. Darkinator Cat owns the night. 🐈‍⬛🌃",
-      "url": "https://dexscreener.com/solana/fpam8wynidshtwx1znyeipggrnnbcbtcn1iechcpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3s2dqdypBd4NvKk1gH3zFK98kb6A376PXYr5pKwrpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/3s2dqdypbd4nvkk1gh3zfk98kb6a376pxyr5pkwrpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,9 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "KITCHEN-PRERINSE-001: force-qualified, task-efficient commercial pre-rinse sprayer",
-      "url": "https://github.com/Luminous-Dynamics/symtropy/issues/2359",
-      "createdAt": "2026-10-20T16:13:41Z"
+      "title": "feat(evals): publish taskset runs to an Intake Experiment",
+      "url": "https://github.com/NVIDIA-NeMo/nemo-helix/pull/3087",
+      "createdAt": "2026-10-19T04:22:06Z"
+    },
+    {
+      "title": "feat(ads): admob adapter",
+      "url": "https://github.com/RevenueCat/purchases-flutter/pull/1946",
+      "createdAt": "2026-10-11T19:49:28Z"
+    },
+    {
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/suplere/next-shadcn-nhost/pull/24",
+      "createdAt": "2024-09-01T01:17:59Z"
+    },
+    {
+      "title": "fix(settlement): peer on a scheme only once it has seen its ledger",
+      "url": "https://github.com/justmoon/dassie/pull/167",
+      "createdAt": "2026-10-20T16:10:46Z"
     },
     {
       "title": "[Bugfix] Honor add_generation_prompt and continue_final_message in the DeepSeek V4.1 tokenizer",
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-20T16:17:16Z"
     },
     {
-      "title": "Add Bumpkin Reward (BPL) jetton",
-      "url": "https://github.com/tonkeeper/ton-assets/pull/6556",
-      "createdAt": "2026-10-20T16:16:46Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "KITCHEN-STATION-001: low-water, splash-aware sink and passive-first drying station",
-      "url": "https://github.com/Luminous-Dynamics/symtropy/issues/2324",
-      "createdAt": "2026-10-20T13:07:26Z"
-    },
-    {
-      "title": "feat: configurable collateral instruments, index-sourced deposits, treasury transfers, token-app mint/burn, TRO rewards (truthoracle-v17)",
-      "url": "https://github.com/TruthOracle/backend/pull/7",
-      "createdAt": "2026-10-15T09:01:56Z"
+      "title": "README: forum-ready polish",
+      "url": "https://github.com/dk1/ha-moen-smart-faucet/pull/5",
+      "createdAt": "2026-10-20T16:17:31Z"
     }
   ]
 }
