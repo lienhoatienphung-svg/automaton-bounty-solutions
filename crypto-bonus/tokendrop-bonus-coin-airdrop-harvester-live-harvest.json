@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T14:18:51.134Z",
-  "latencyMs": 2321,
+  "executedAt": "2026-10-20T14:20:53.663Z",
+  "latencyMs": 1129,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #106: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #107: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
-      "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
-      "createdAt": "2026-10-16T09:56:24Z"
+      "title": "chore(deps): update dependency lucide-react to v1.60.0",
+      "url": "https://github.com/keiko233/wallpaper/pull/12",
+      "createdAt": "2026-08-04T17:03:36Z"
+    },
+    {
+      "title": "fact-drift: THS v0.4.0 version, seventh CI live case, NU7 at height 1",
+      "url": "https://github.com/zcashlabs/zcash-skills/pull/15",
+      "createdAt": "2026-10-19T19:24:17Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/DianaTheCoderess/dianas-portfolio/pull/41",
+      "createdAt": "2026-05-02T19:49:56Z"
+    },
+    {
+      "title": "chore: remove redundant Rust tests and the 122 s real sleep",
+      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/421",
+      "createdAt": "2026-10-20T14:20:26Z"
     },
     {
       "title": "⬆️ upgrade `lucide-react` to `v1.60.0`",
@@ -275,24 +290,9 @@
       "createdAt": "2026-03-28T00:59:47Z"
     },
     {
-      "title": "feat(ads): admob adapter",
-      "url": "https://github.com/RevenueCat/purchases-flutter/pull/1946",
-      "createdAt": "2026-10-11T19:49:28Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "Bring Windows tools and workflows to Mac feature parity",
-      "url": "https://github.com/orkunisitmak/nashi-app/pull/1",
-      "createdAt": "2026-10-19T20:30:48Z"
-    },
-    {
-      "title": "Multisig: fixes from the overnight test campaign",
-      "url": "https://github.com/ashwinarora/hl-tools/pull/13",
-      "createdAt": "2026-10-20T14:05:19Z"
+      "title": "Roadmap: faucet-stream connector & runtime coverage",
+      "url": "https://github.com/faucet-hq/faucet-stream/issues/38",
+      "createdAt": "2026-05-16T09:00:05Z"
     }
   ]
 }
