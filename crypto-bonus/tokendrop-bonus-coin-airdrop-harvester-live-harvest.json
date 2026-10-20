@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T11:33:22.466Z",
-  "latencyMs": 757,
+  "executedAt": "2026-10-20T11:34:45.752Z",
+  "latencyMs": 874,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #44: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #45: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "EaxAUcXxNnVwcqm2BBocbows7D1XVY2Q63V38NEypump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "The OG ***** memecoin, powered by the community and built around the ***** ***** **** ** narrative. Unofficial.",
+      "url": "https://dexscreener.com/solana/eaxaucxxnnvwcqm2bbocbows7d1xvy2q63v38neypump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x58DD8583420151785eFA434af2429f96DE6E1111",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Covenant x402 payment rails for agents.\n\nPaid endpoints in USDG over x402 — instant settlement on Robinhood Chain. The same gateway brokers agent credentials th",
       "url": "https://dexscreener.com/robinhood/0x2eef2a627ac024cb9f545f6193b1940f0416a1de"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "48qA8fELmjmJ4YAbpdeNCxuyszx48CmEnVCf8YHjpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Worthless",
-      "url": "https://dexscreener.com/solana/48qa8felmjmj4yabpdencxuyszx48cmenvcf8yhjpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "D790 (#2215): token pack offers — a window for the bonus, and first-purchase packs",
+      "url": "https://github.com/AxalNetwork/StudioOS/pull/2237",
+      "createdAt": "2026-10-20T11:34:41Z"
+    },
+    {
+      "title": "fix(security): enforce strict CSP to block inline scripts and restric…",
+      "url": "https://github.com/StormSale/StormSale/pull/282",
+      "createdAt": "2026-10-16T14:40:08Z"
+    },
+    {
       "title": "feat(testnet): list the Agglayer deposit tokens (version 13)",
       "url": "https://github.com/0xMiden/wallet-config/pull/21",
       "createdAt": "2026-10-20T11:29:55Z"
@@ -283,16 +293,6 @@
       "title": "fix - dex/ui-kit - LP Claim only when a reward is pending, Max inside the amount input",
       "url": "https://github.com/bze-alphateam/bze-frontend-apps/pull/156",
       "createdAt": "2026-10-20T11:31:36Z"
-    },
-    {
-      "title": "📦 Pending promotion: dev → main",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
-      "createdAt": "2026-06-29T11:18:37Z"
-    },
-    {
-      "title": "Shell tests, complete XML docs and BCUK-Bot-4's standards (Core 0.17.1, Shell 0.16.1)",
-      "url": "https://github.com/Battle-Cattle/BCUK-Companion-Core/pull/49",
-      "createdAt": "2026-10-20T10:15:34Z"
     }
   ]
 }
