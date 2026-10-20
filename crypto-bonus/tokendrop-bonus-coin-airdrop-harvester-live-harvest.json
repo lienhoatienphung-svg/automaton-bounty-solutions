@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T13:12:04.422Z",
-  "latencyMs": 937,
+  "executedAt": "2026-10-20T13:16:31.385Z",
+  "latencyMs": 1058,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #83: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #84: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,57 +217,72 @@
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 95,
-      "priceBtc": 0.000023887419855783966
+      "marketCapRank": 93,
+      "priceBtc": 0.000023972728233098685
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 740,
-      "priceBtc": 0.0010376490445769574
+      "marketCapRank": 736,
+      "priceBtc": 0.0010389507016701903
     },
     {
       "name": "Janction",
       "symbol": "JCT",
-      "marketCapRank": 462,
-      "priceBtc": 5.194585474590367e-8
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 88,
-      "priceBtc": 0.00003881269288478642
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 21,
-      "priceBtc": 0.00005748577553588469
+      "marketCapRank": 468,
+      "priceBtc": 5.254906896760952e-8
     },
     {
       "name": "Monero",
       "symbol": "XMR",
       "marketCapRank": 13,
-      "priceBtc": 0.0074526454708678915
+      "priceBtc": 0.007458491624286251
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9993838013925417
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 21,
+      "priceBtc": 0.000057340154235250436
     },
     {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 150,
-      "priceBtc": 0.000003858319541391536
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 88,
+      "priceBtc": 0.00003872853048461022
+    },
+    {
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "marketCapRank": 49,
+      "priceBtc": 0.000006782991702350596
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "marketCapRank": 90,
+      "priceBtc": 0.000022253168111451116
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(mocks): issuer-agnostic mock RFQ venue and mAAPL for testnets",
-      "url": "https://github.com/Assetera-AG/AsseteraEvmContracts/pull/106",
-      "createdAt": "2026-10-20T11:21:01Z"
+      "title": "fix(deps): update production dependencies (patch and minor)",
+      "url": "https://github.com/AgentsKit-io/harness/pull/191",
+      "createdAt": "2026-10-19T05:37:07Z"
+    },
+    {
+      "title": "Shell tests, complete XML docs and BCUK-Bot-4's standards (Core 0.17.1, Shell 0.16.1)",
+      "url": "https://github.com/Battle-Cattle/BCUK-Companion-Core/pull/49",
+      "createdAt": "2026-10-20T10:15:34Z"
+    },
+    {
+      "title": "Determine testnet path forward for adaptive execution, cost accounting, and F1r3fly CbC Casper design",
+      "url": "https://github.com/F1R3FLY-io/f1r3node-rust/issues/764",
+      "createdAt": "2026-10-18T10:33:03Z"
+    },
+    {
+      "title": "feat(staking): BUILD 1 — HeroSingleSidedStaking (HERO→HERO, DAO vote source)",
+      "url": "https://github.com/jratdish1/hero-dapp/pull/119",
+      "createdAt": "2026-09-27T22:49:15Z"
     },
     {
       "title": "Add missing test for batch_claim_reward in integration context",
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-14T15:24:11Z"
     },
     {
-      "title": "docs(kitchen): add sink and drying station benchmark",
-      "url": "https://github.com/Luminous-Dynamics/symtropy/pull/2325",
-      "createdAt": "2026-10-20T13:09:50Z"
-    },
-    {
-      "title": "ADD: SwiftUI Files previews for vaults, transactions, PSBTs, and labels",
-      "url": "https://github.com/BlueWallet/BlueWallet/pull/8928",
-      "createdAt": "2026-09-17T08:10:19Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1.60.0",
-      "url": "https://github.com/agirmar92/refaleikarnir/pull/548",
-      "createdAt": "2026-06-12T20:03:56Z"
-    },
-    {
-      "title": "KITCHEN-STATION-001: low-water, splash-aware sink and passive-first drying station",
-      "url": "https://github.com/Luminous-Dynamics/symtropy/issues/2324",
-      "createdAt": "2026-10-20T13:07:26Z"
+      "title": "feat(qualification): consume treasury notes before every live run",
+      "url": "https://github.com/OpenZeppelin/guardian/pull/551",
+      "createdAt": "2026-10-13T06:14:52Z"
     }
   ]
 }
