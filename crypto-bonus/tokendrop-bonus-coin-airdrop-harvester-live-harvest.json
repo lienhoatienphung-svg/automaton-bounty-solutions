@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T03:46:07.109Z",
-  "latencyMs": 811,
+  "executedAt": "2026-10-20T03:48:25.742Z",
+  "latencyMs": 1162,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #848: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #849: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
+      "title": "[executorch][muse] Draft CUDA DFlash decode from pending tokens",
+      "url": "https://github.com/pytorch/executorch/pull/23983",
+      "createdAt": "2026-10-19T04:59:00Z"
+    },
+    {
+      "title": "[KIX-PLAN-TOKEN-REWARD-REJECTION-ATOMICITY] Audit reward_fsm rejection atomicity with deterministic regressions",
+      "url": "https://github.com/SUNBURN-Golden/kix-protocol/pull/228",
+      "createdAt": "2026-10-20T03:47:15Z"
+    },
+    {
+      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
+      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
+      "createdAt": "2026-10-18T07:37:42Z"
+    },
+    {
+      "title": "04O-C: The Fractured Wilds and the Vanishing Metropolis",
+      "url": "https://github.com/tycs1992-RBT/NeonSyndicate_LasVeyra/pull/11",
+      "createdAt": "2026-10-19T20:46:51Z"
     },
     {
       "title": "feat(custody): dashboard-only devnet faucet replaces the RPC relay (HOO-2168)",
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-19T17:08:15Z"
     },
     {
-      "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
-      "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
-      "createdAt": "2026-10-19T08:06:34Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "chore(deps): bump tempo dependencies to 296be2a",
-      "url": "https://github.com/mowind/foundry/pull/2",
-      "createdAt": "2026-07-28T02:34:15Z"
-    },
-    {
-      "title": "EVM: Verify Merkle distributor claims against published trees",
-      "url": "https://github.com/Drago-Labs/golden-raccoon/issues/363",
-      "createdAt": "2026-10-17T22:19:03Z"
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
     }
   ]
 }
