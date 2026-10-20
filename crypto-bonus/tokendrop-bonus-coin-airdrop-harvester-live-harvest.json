@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T15:33:50.230Z",
-  "latencyMs": 1266,
+  "executedAt": "2026-10-20T15:35:21.538Z",
+  "latencyMs": 1112,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #128: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #129: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "When the city goes dark, the signal comes alive. Darkinator Cat owns the night. 🐈‍⬛🌃",
+      "url": "https://dexscreener.com/solana/fpam8wynidshtwx1znyeipggrnnbcbtcn1iechcpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "3s2dqdypBd4NvKk1gH3zFK98kb6A376PXYr5pKwrpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/esnw5zblmoeag2qemxnmsy9r3as8kw58hjacyurmpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "USEu5qroduzuvrSZfvs3xM1MwyU83joapQF5LMyWiSP",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "ZK burner wallets for every trade. Privacy made easy. 24.5% locked until 2126, 0.5% to Fomo for the team tag.",
-      "url": "https://dexscreener.com/solana/useu5qroduzuvrszfvs3xm1mwyu83joapqf5lmywisp"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/descope-sample-apps/connected-agent/pull/57",
+      "createdAt": "2026-03-26T19:52:59Z"
+    },
+    {
       "title": "P37: BULK paper qualification and native fill compatibility",
       "url": "https://github.com/arnabnandikgp/cinder/pull/83",
       "createdAt": "2026-10-20T15:32:06Z"
     },
     {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "cards: read-only WaveZ Station buyer snapshot for the first ZAO TCG Card",
+      "url": "https://github.com/bettercallzaal/ZAOOS/pull/4049",
+      "createdAt": "2026-10-20T15:26:37Z"
+    },
+    {
       "title": "feat(price_pusher): push Solana price updates with v1 transactions",
       "url": "https://github.com/pyth-network/pyth-crosschain/pull/4066",
       "createdAt": "2026-10-20T15:23:30Z"
-    },
-    {
-      "title": "feat(wallet): show the XLM balance and offer Friendbot on testnet",
-      "url": "https://github.com/MMM-pay/payflow-frontend/pull/121",
-      "createdAt": "2026-10-19T12:02:49Z"
-    },
-    {
-      "title": "feat(simulation): Pendle protocol",
-      "url": "https://github.com/propeller-heads/tycho/pull/1646",
-      "createdAt": "2026-10-19T18:48:41Z"
-    },
-    {
-      "title": "Add hybrid architecture search task (draft)",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/26",
-      "createdAt": "2026-09-25T22:42:20Z"
-    },
-    {
-      "title": "perf(search): scan search fast paths, under 100 ms target (R2c-3b)",
-      "url": "https://github.com/liqiangcc/reading-mcp/pull/189",
-      "createdAt": "2026-10-20T15:31:46Z"
     }
   ]
 }
