@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T10:05:51.939Z",
-  "latencyMs": 258,
+  "executedAt": "2026-10-20T10:10:08.036Z",
+  "latencyMs": 378,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #876: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #877: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52850702,
+    "liveBlockNumber": 52850830,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 421198,
-    "baseMainnetTopPoolsVolume24hUsd": 167608,
+    "baseMainnetTopPoolsLiquidityUsd": 421199,
+    "baseMainnetTopPoolsVolume24hUsd": 167879,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8dH1bCPwyoykzBX8d2UaJqHD6ysLLySn2qrCSjG8pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8dh1bcpwyoykzbx8d2uajqhd6ysllysn2qrcsjg8pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7Ny9wKw9yqvsAkMzfC2Vap4awFXqiUzjEJVH2LNfpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "HJS1ncCpUDfzXNpM8MwnTHisdPrBqMCbnrQ2nsL8pump",
         "description": "The biggest crypto in Vice City Leonida. \n\nWe're DacityCoin. You know us from the pink Western Duster over Vice Beach, with Lucia Caminos still on the wing.\n\nJo",
         "url": "https://dexscreener.com/solana/hjs1nccpudfzxnpm8mwnthisdprbqmcbnrq2nsl8pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "triaLwmrTNYakjJwpAzgPSKVtUCmyxAG6C59WUdXnSa",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/trialwmrtnyakjjwpazgpskvtucmyxag6c59wudxnsa"
       }
     ]
   },
