@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T16:42:21.916Z",
-  "latencyMs": 744,
+  "executedAt": "2026-10-20T16:47:07.642Z",
+  "latencyMs": 743,
   "companyName": "Behavioral AI Bot & Scraper Mitigation Audit",
-  "workTitle": "Delivery Sprint #165: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
-  "targetUrl": "https://polymarket.com/event/china-x-india-military-clash-by-december-31",
+  "workTitle": "Growth & Sales Sprint #166: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -71,8 +71,8 @@
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
-        "liquidityUsd": 104087,
-        "volume24hUsd": 93249,
+        "liquidityUsd": 104843,
+        "volume24hUsd": 93277,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -92,7 +92,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000013,
         "liquidityUsd": 139740,
-        "volume24hUsd": 18623,
+        "volume24hUsd": 19004,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21384,
-        "volume24hUsd": 100586,
+        "volume24hUsd": 100379,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -112,7 +112,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.0000075,
         "liquidityUsd": 14836,
-        "volume24hUsd": 769,
+        "volume24hUsd": 729,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       },
       {
@@ -120,9 +120,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00000075,
+        "priceUsd": 1.00000015,
         "liquidityUsd": 12034,
-        "volume24hUsd": 3025,
+        "volume24hUsd": 3039,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
@@ -207,6 +207,28 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
+        "company": "audibene GmbH",
+        "roleOrTask": "Karrierewechsel mit Sinn Kundenberatung - Hörakustik Quereinstieg",
+        "industryTags": [
+          "Customer Service"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/audibene-gmbh/karrierewechsel-mit-sinn-kundenberatung-horakustik-quereinstieg-leonberg-720",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Römergarten Residenzen",
+        "roleOrTask": "Qualitätsmanagementbeauftragte im ZQM (m/w/d ) | Überregional | Vollzeit |",
+        "industryTags": [
+          "Quality Management"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/romergarten-residenzen/qualitatsmanagementbeauftragte-im-zqm-uberregional-vollzeit-kindsbach-419496",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
         "company": "TruckScout24",
         "roleOrTask": "Customer Success Manager (m/w/d) TS24",
         "industryTags": [
@@ -237,29 +259,6 @@
         ],
         "compensation": "Instant Milestone USDC / Wire",
         "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/patientfirst-fertility/founders-associate-intern-hybrid-berlin-184642",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Bridgebio",
-        "roleOrTask": "Senior Director, Commercial, EU Center",
-        "industryTags": [
-          "Commercial"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/bridgebio/senior-director-commercial-eu-center-342378",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "isaraerospace",
-        "roleOrTask": "LCA & Environmental Data Specialist (f/m/d)",
-        "industryTags": [
-          "Infrastructure",
-          "Safety & Service"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/isaraerospace/lca-environmental-data-specialist-parsdorf-bavaria-418905",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
