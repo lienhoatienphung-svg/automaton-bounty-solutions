@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T18:24:31.896Z",
-  "latencyMs": 811,
+  "executedAt": "2026-10-20T18:30:47.007Z",
+  "latencyMs": 954,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #175: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #176: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "ethereum",
+      "tokenAddress": "0x006fcd0160b699D8869851F5cc0603dE3FAfAa70",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "Deference is the marketplace for LLM credits on Ethereum.\n\nHold $DEFERENCE. Earn $INFERENCE from trading fees (hourly).\n\n$INFERENCE is tokenized inference — $1 ",
+      "url": "https://dexscreener.com/ethereum/0x006fcd0160b699d8869851f5cc0603de3fafaa70"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "EDp9SpNPEDJ7FGWHYHTYy9gR4QzVv68KgP6huo14pump",
       "boostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 610,
       "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
       "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3qSd27nb3zyRmqbhLzH4PdeYcADqeLtjgYy2Fp4Apump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "🐕🚀 ELONDOG — A NEW ADVENTURE BEGINS.\n\nA fearless cyber Doge. A Cybertruck. One destination: MARS. 🔴\n\nInspired by Elon’s futuristic universe and Doge’s legend",
-      "url": "https://dexscreener.com/solana/3qsd27nb3zyrmqbhlzh4pdeycadqeltjgyy2fp4apump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Radio as sound only, a sky of satellites, and the Surveyor's care packages",
-      "url": "https://github.com/hunterjsb/desert/pull/50",
-      "createdAt": "2026-10-20T18:23:34Z"
-    },
-    {
-      "title": "docs(lez): register an RLN membership from Basecamp on the current testnet",
-      "url": "https://github.com/logos-co/logos-docs/pull/582",
-      "createdAt": "2026-10-20T18:16:10Z"
-    },
-    {
-      "title": "feat(finary): import holdings, match existing accounts, and gate Docker on CI",
-      "url": "https://github.com/Cloeille/picsou-finance/pull/121",
-      "createdAt": "2026-09-04T06:35:30Z"
-    },
-    {
       "title": "test: every error code has a test that triggers it; ci: deny unwrap/expect; ci: reproducible build; docs: publish cargo doc",
       "url": "https://github.com/Godgift-care/sci-healthcare-contracts/pull/149",
       "createdAt": "2026-10-20T17:28:44Z"
     },
     {
-      "title": "feat: printer Files submenu for uploaded 3MF and timelapses",
-      "url": "https://github.com/kameka22/snap-studio/pull/20",
-      "createdAt": "2026-10-19T15:08:08Z"
+      "title": "fix(deps): update dependency lucide to v1.60.0",
+      "url": "https://github.com/airscripts/awesome-steam-deck/pull/68",
+      "createdAt": "2026-09-12T01:12:20Z"
     },
     {
-      "title": "Add agent-safety-monitor-training task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/29",
-      "createdAt": "2026-09-27T04:59:36Z"
+      "title": "feat(equivalence-judge): support per-problem question extraction",
+      "url": "https://github.com/NVIDIA-NeMo/Gym/pull/4765",
+      "createdAt": "2026-10-19T21:09:49Z"
+    },
+    {
+      "title": "feat(validation): catch reserved-word respellings and words hidden in longer names",
+      "url": "https://github.com/divinevideo/divine-name-server/pull/112",
+      "createdAt": "2026-09-24T21:42:04Z"
+    },
+    {
+      "title": "docs(tron): USDT vault tutorial and agentic development guide",
+      "url": "https://github.com/OpenZeppelin/docs/pull/248",
+      "createdAt": "2026-10-15T23:16:53Z"
+    },
+    {
+      "title": "Update bun non-major dependencies",
+      "url": "https://github.com/webermarci/weberkft/pull/7",
+      "createdAt": "2026-08-03T01:02:06Z"
     }
   ]
 }
