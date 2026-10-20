@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T11:28:44.423Z",
-  "latencyMs": 917,
+  "executedAt": "2026-10-20T11:30:09.506Z",
+  "latencyMs": 838,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #42: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #43: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Kimi K3 support",
-      "url": "https://github.com/tpurtell/cuteafd/issues/273",
-      "createdAt": "2026-10-15T06:49:01Z"
+      "title": "feat(testnet): list the Agglayer deposit tokens (version 13)",
+      "url": "https://github.com/0xMiden/wallet-config/pull/21",
+      "createdAt": "2026-10-20T11:29:55Z"
+    },
+    {
+      "title": "Keep legacy goal labels and primary goal in the intake vocabulary",
+      "url": "https://github.com/vitalvightz/unlxck-gpt-webhook/pull/2961",
+      "createdAt": "2026-10-20T11:29:26Z"
+    },
+    {
+      "title": "release: 13.54.0",
+      "url": "https://github.com/MetaMask/metamask-extension/pull/47119",
+      "createdAt": "2026-10-15T19:03:39Z"
     },
     {
       "title": "Handle unfunded Stellar accounts in balance UI",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-17T19:37:23Z"
     },
     {
-      "title": "docs(adr-0016): propose hosting for the public faucet and demo server (G1-13)",
-      "url": "https://github.com/bytesbrains/16ane/pull/72",
-      "createdAt": "2026-10-20T11:27:00Z"
+      "title": "feat(mocks): issuer-agnostic mock RFQ venue and mAAPL for testnets",
+      "url": "https://github.com/Assetera-AG/AsseteraEvmContracts/pull/106",
+      "createdAt": "2026-10-20T11:21:01Z"
     },
     {
-      "title": "Explorer: a queued faucet with limits that survive restarts",
-      "url": "https://github.com/rome-protocol/canton-zk-evm/pull/6",
-      "createdAt": "2026-10-20T11:11:21Z"
-    },
-    {
-      "title": "chore(deps): update dependency ethers to v6",
-      "url": "https://github.com/paypr/ethereum-contracts/pull/219",
-      "createdAt": "2023-02-03T06:52:10Z"
-    },
-    {
-      "title": "perf(jit): cheaper fall-through sections",
-      "url": "https://github.com/alloy-rs/evm2/pull/636",
-      "createdAt": "2026-10-15T23:51:24Z"
+      "title": "fix(deps): update dependency lucide-react to v1.59.0",
+      "url": "https://github.com/projekt8/tanstack-r3f-boilerplate/pull/135",
+      "createdAt": "2026-08-24T13:37:48Z"
     }
   ]
 }
