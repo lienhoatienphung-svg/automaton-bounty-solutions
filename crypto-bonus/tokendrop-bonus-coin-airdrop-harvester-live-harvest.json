@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T01:51:36.396Z",
-  "latencyMs": 805,
+  "executedAt": "2026-10-20T01:53:33.339Z",
+  "latencyMs": 742,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #836: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #837: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,53 +217,68 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 681,
-      "priceBtc": 3.423594966603643e-7
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00005950900125116252
+      "marketCapRank": 674,
+      "priceBtc": 3.5059818104106235e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 91,
-      "priceBtc": 0.000024536332230019876
+      "priceBtc": 0.000024380387150174875
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00005969684234773987
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 695,
+      "priceBtc": 0.0011263724436225073
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 71,
-      "priceBtc": 0.0003081419351604126
+      "priceBtc": 0.00030421799585853986
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009668990403847848
+      "priceBtc": 0.0009687169233823982
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 35,
-      "priceBtc": 0.003265563679748125
+      "priceBtc": 0.0032695235106479166
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 689,
-      "priceBtc": 0.0011414150526544021
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 83,
-      "priceBtc": 0.00010410004822597864
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.268844390137605e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "refactor: unify tool context specifications and execution service",
+      "url": "https://github.com/Wh0rigin/tea/pull/13",
+      "createdAt": "2026-10-16T07:34:30Z"
+    },
+    {
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
+    },
     {
       "title": "[Engine] Remote stage: run the later layers of a layer split on other PCs, over TCP (opt-in; Linux and Windows; Qwen3.8-Flash-Next)",
       "url": "https://github.com/Niko1221/Strata/pull/1748",
@@ -278,21 +293,6 @@
       "title": "RC2.3.13R.3.2.6 — Chinese Living Canvas, animated scenic SVGs & ornamental frame system",
       "url": "https://github.com/matstangherlin/longyu/pull/357",
       "createdAt": "2026-10-20T00:56:21Z"
-    },
-    {
-      "title": "[KIX-PLAN-PLAN-V5-TRANSITION-EVIDENCE-MAP] Per-transition evidence map from the lifecycle contract to the v5 crate tests",
-      "url": "https://github.com/SUNBURN-Golden/kix-protocol/pull/225",
-      "createdAt": "2026-10-20T01:49:26Z"
-    },
-    {
-      "title": "[None][perf] One-model speculative decoding: host work between steps, worker-produced target logits, KDA drafts' records",
-      "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/19989",
-      "createdAt": "2026-10-08T14:23:11Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
     }
   ]
 }
