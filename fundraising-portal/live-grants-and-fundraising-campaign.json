@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-20T19:23:27.605Z",
-  "latencyMs": 1112,
+  "executedAt": "2026-10-20T19:29:35.008Z",
+  "latencyMs": 1238,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #189: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #190: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "feat(lsp): quick fix adding a missing toctree dependency (#21)",
-          "url": "https://github.com/nachstedt/rinx/pull/328",
-          "repositoryUrl": "https://api.github.com/repos/nachstedt/rinx",
-          "updatedAt": "2026-10-20T19:23:22Z"
+          "title": "Say why a policy or hook stop ended the turn",
+          "url": "https://github.com/nessalabs/nessa-agent/pull/1059",
+          "repositoryUrl": "https://api.github.com/repos/nessalabs/nessa-agent",
+          "updatedAt": "2026-10-20T19:29:28Z"
         },
         {
-          "title": "fix(billing): hold or gate credits before TTS, transcription, tools and agent runs",
-          "url": "https://github.com/Bike4Mind/bike4mind/pull/5035",
-          "repositoryUrl": "https://api.github.com/repos/Bike4Mind/bike4mind",
-          "updatedAt": "2026-10-20T19:23:22Z"
+          "title": "fix(security): widen cryptography and msgpack ranges and bump pyarrow floor to resolve Trivy vulnerabilities (#45087)",
+          "url": "https://github.com/apache/superset/pull/45186",
+          "repositoryUrl": "https://api.github.com/repos/apache/superset",
+          "updatedAt": "2026-10-20T19:29:28Z"
         },
         {
-          "title": "Rota AI Phase 4C: intelligent planner and weak-model validation",
-          "url": "https://github.com/mokaradag/Takvim/pull/103",
-          "repositoryUrl": "https://api.github.com/repos/mokaradag/Takvim",
-          "updatedAt": "2026-10-20T19:23:21Z"
-        },
-        {
-          "title": "Grant mgmt reads only on explicit resources the caller holds",
-          "url": "https://github.com/rosenhouse-bot-sandbox/kglance/pull/23",
-          "repositoryUrl": "https://api.github.com/repos/rosenhouse-bot-sandbox/kglance",
-          "updatedAt": "2026-10-20T19:23:20Z"
-        },
-        {
-          "title": "fix(github-feedback): bind commands to the caller repository",
-          "url": "https://github.com/mrkillbob/hermes-agent/pull/324",
-          "repositoryUrl": "https://api.github.com/repos/mrkillbob/hermes-agent",
-          "updatedAt": "2026-10-20T19:23:20Z"
-        },
-        {
-          "title": "fix(kubernetes): check PV permissions before creating jobs",
-          "url": "https://github.com/calypr/funnel/pull/1470",
-          "repositoryUrl": "https://api.github.com/repos/calypr/funnel",
-          "updatedAt": "2026-10-20T19:23:19Z"
-        },
-        {
-          "title": "S1c: Sales Order allocation on EOS (hard reservation at a stated company and warehouse)",
-          "url": "https://github.com/TaylorService-spec/Taylor_Parts/pull/2189",
-          "repositoryUrl": "https://api.github.com/repos/TaylorService-spec/Taylor_Parts",
-          "updatedAt": "2026-10-20T19:23:19Z"
-        },
-        {
-          "title": "feat(surfaces): guarded operations write an intent before the effect, so a send whose outcome is unknown is parked, never repeated",
-          "url": "https://github.com/the-vibey-project/vibey/issues/932",
+          "title": "feat(intake): `vibey new --source-url --source-kind --offer` records where a project's work came from, as a ledger event",
+          "url": "https://github.com/the-vibey-project/vibey/issues/839",
           "repositoryUrl": "https://api.github.com/repos/the-vibey-project/vibey",
-          "updatedAt": "2026-10-20T19:23:19Z"
+          "updatedAt": "2026-10-20T19:29:27Z"
+        },
+        {
+          "title": "fix(pi): recover artifact reads after digest mismatch",
+          "url": "https://github.com/HamedMP/matrix-os/pull/2782",
+          "repositoryUrl": "https://api.github.com/repos/HamedMP/matrix-os",
+          "updatedAt": "2026-10-20T19:29:30Z"
+        },
+        {
+          "title": "Unify public Cranelift builds with canonical secured native applications",
+          "url": "https://github.com/mech-lang/mech/pull/909",
+          "repositoryUrl": "https://api.github.com/repos/mech-lang/mech",
+          "updatedAt": "2026-10-20T19:29:27Z"
+        },
+        {
+          "title": "Assign a QR code to every fire-alarm control panel on create",
+          "url": "https://github.com/sarath200795/OHSMS/pull/112",
+          "repositoryUrl": "https://api.github.com/repos/sarath200795/OHSMS",
+          "updatedAt": "2026-10-20T19:29:27Z"
+        },
+        {
+          "title": "Add narrowly scoped rehearsal membership bootstrap",
+          "url": "https://github.com/Hassan-625/schoolpro-migration-api/pull/4",
+          "repositoryUrl": "https://api.github.com/repos/Hassan-625/schoolpro-migration-api",
+          "updatedAt": "2026-10-20T19:29:26Z"
+        },
+        {
+          "title": "Campus Linux: Harden coordinator reads, polling and accessibility",
+          "url": "https://github.com/yuric/campus-linux/pull/94",
+          "repositoryUrl": "https://api.github.com/repos/yuric/campus-linux",
+          "updatedAt": "2026-10-20T19:29:26Z"
         }
       ]
     },
