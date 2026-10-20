@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-20T19:14:44.201Z",
-  "latencyMs": 881,
+  "executedAt": "2026-10-20T19:21:20.525Z",
+  "latencyMs": 1325,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #187: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #188: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
+          "title": "Phase 1 discovery + bounded probe ledger + shadow quota cap (inert, all flags off)",
+          "url": "https://github.com/lastdayone87-del/trading-discovery-engine/pull/531",
+          "repositoryUrl": "https://api.github.com/repos/lastdayone87-del/trading-discovery-engine",
+          "updatedAt": "2026-10-20T19:21:16Z"
+        },
+        {
           "title": "feat(returns): tenant-safe receipt and credit memo ledger",
           "url": "https://github.com/Report-Engainall/Nasr1/pull/18",
           "repositoryUrl": "https://api.github.com/repos/Report-Engainall/Nasr1",
-          "updatedAt": "2026-10-20T19:14:38Z"
+          "updatedAt": "2026-10-20T19:21:14Z"
         },
         {
-          "title": "feat(P7 Preview 10): corrigir mascote e ícones após auditoria visual Android",
-          "url": "https://github.com/nego001/ReaDroid-Native/pull/13",
-          "repositoryUrl": "https://api.github.com/repos/nego001/ReaDroid-Native",
-          "updatedAt": "2026-10-20T19:14:38Z"
+          "title": "🐛 contracts: fix owner plugin bundler compatibility",
+          "url": "https://github.com/exactly/exa/pull/1462",
+          "repositoryUrl": "https://api.github.com/repos/exactly/exa",
+          "updatedAt": "2026-10-20T19:21:14Z"
         },
         {
-          "title": "[Bug]: macOS supervised `orca serve` keeps running from the deleted pre-update bundle after a remote update, which breaks TCC attribution fo",
-          "url": "https://github.com/stablyai/orca/issues/31022",
-          "repositoryUrl": "https://api.github.com/repos/stablyai/orca",
-          "updatedAt": "2026-10-20T19:14:37Z"
+          "title": "release: promote dev with production exercise gates and UI polish",
+          "url": "https://github.com/InBotWeTrust/hockey/pull/414",
+          "repositoryUrl": "https://api.github.com/repos/InBotWeTrust/hockey",
+          "updatedAt": "2026-10-20T19:21:13Z"
         },
         {
-          "title": "fix(usage): record error names once and expose fleet breakdowns",
-          "url": "https://github.com/kody-hq/kody/pull/4113",
-          "repositoryUrl": "https://api.github.com/repos/kody-hq/kody",
-          "updatedAt": "2026-10-20T19:14:37Z"
+          "title": "fix(spells): complete PHB level-1 lists, self-range casts need no target, Bless chip and +1d4 (Refs #902)",
+          "url": "https://github.com/Garblesnarff/infinite-realms-app/pull/932",
+          "repositoryUrl": "https://api.github.com/repos/Garblesnarff/infinite-realms-app",
+          "updatedAt": "2026-10-20T19:21:16Z"
         },
         {
-          "title": "feat(db): DML migrations live in data/db/migrations; db/migrations is DDL only",
-          "url": "https://github.com/arkanwolfshade/MythosMUD/pull/1114",
-          "repositoryUrl": "https://api.github.com/repos/arkanwolfshade/MythosMUD",
-          "updatedAt": "2026-10-20T19:14:37Z"
+          "title": "Verify a controlled restricted Hermes issue-to-PR workflow",
+          "url": "https://github.com/DanielssonThomas/Stellar/issues/24",
+          "repositoryUrl": "https://api.github.com/repos/DanielssonThomas/Stellar",
+          "updatedAt": "2026-10-20T19:21:12Z"
         },
         {
-          "title": "Develop a Go interface to state-of-the-art Zcash light-wallet tech",
-          "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/501",
-          "repositoryUrl": "https://api.github.com/repos/ZcashCommunityGrants/zcashcommunitygrants",
-          "updatedAt": "2026-10-20T19:14:36Z"
+          "title": "feat(escrow-enclave): CloudTrail-backed authority write alarms; defer archiver",
+          "url": "https://github.com/learningeconomy/LearnCard/pull/1767",
+          "repositoryUrl": "https://api.github.com/repos/learningeconomy/LearnCard",
+          "updatedAt": "2026-10-20T19:21:18Z"
         },
         {
-          "title": "[WIP] Vite client auth/API fixes — Next.js deployment unresolved",
-          "url": "https://github.com/getmycareos-star/SolenOS-landing/pull/3",
-          "repositoryUrl": "https://api.github.com/repos/getmycareos-star/SolenOS-landing",
-          "updatedAt": "2026-10-20T19:14:35Z"
-        },
-        {
-          "title": "Datenschutz-Verteiler 19.10.2026: drei unabhängige Prüfungen, 28 Befunde",
-          "url": "https://github.com/overnightworks/agent-presentator/issues/293",
-          "repositoryUrl": "https://api.github.com/repos/overnightworks/agent-presentator",
-          "updatedAt": "2026-10-20T19:14:35Z"
+          "title": "feat(core): the Compute block and container-backed AsyncJobs",
+          "url": "https://github.com/aws-devtools-labs/aws-blocks/pull/574",
+          "repositoryUrl": "https://api.github.com/repos/aws-devtools-labs/aws-blocks",
+          "updatedAt": "2026-10-20T19:21:12Z"
         }
       ]
     },
