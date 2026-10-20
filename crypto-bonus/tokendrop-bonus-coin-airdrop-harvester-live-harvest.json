@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T16:43:49.437Z",
-  "latencyMs": 1004,
+  "executedAt": "2026-10-20T16:49:37.917Z",
+  "latencyMs": 1126,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #149: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #150: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+      "boostAmount": 100,
+      "totalBoostAmount": 610,
+      "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
+      "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "3qSd27nb3zyRmqbhLzH4PdeYcADqeLtjgYy2Fp4Apump",
+      "boostAmount": 10,
+      "totalBoostAmount": 110,
+      "description": "🐕🚀 ELONDOG — A NEW ADVENTURE BEGINS.\n\nA fearless cyber Doge. A Cybertruck. One destination: MARS. 🔴\n\nInspired by Elon’s futuristic universe and Doge’s legend",
+      "url": "https://dexscreener.com/solana/3qsd27nb3zyrmqbhlzh4pdeycadqeltjgyy2fp4apump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "AyYNfPtftg2zDP4ZbgcoQMggQtwLh4zpfVVmUJs2thto",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -167,7 +183,7 @@
       "chainId": "solana",
       "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
       "boostAmount": 500,
-      "totalBoostAmount": 510,
+      "totalBoostAmount": 610,
       "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
       "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
     },
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "The multiplayer terminal host your shell, let teammates watch and type together. E2EE, per-guest permissions, audit trail. One Go binary.",
       "url": "https://dexscreener.com/robinhood/0x8b39b55857cea6d173af2b5bb1144c2633739960"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "9UNTqhLTCcbRLuey29vkVFse2FtzMSv4wHg47Vuapump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/9untqhltccbrluey29vkvfse2ftzmsv4whg47vuapump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "EXaNWcxKVP1T4y7fL4jdB4WR5qFELPS9FdATFR6ppump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "GOTCHA - Cast. Catch. Earn. Explore tropical islands, reel in rare fish, and turn your catches into opportunities for SOL rewards in a multiplayer Play-to-Earn ",
-      "url": "https://dexscreener.com/solana/exanwcxkvp1t4y7fl4jdb4wr5qfelps9fdatfr6ppump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,14 +265,9 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Add min reward per token, get_config query, admin-change events, transfer_bounty_ownership (v2, rebased on current main)",
-      "url": "https://github.com/mergemint-mint/mergemint-contracts/pull/1153",
-      "createdAt": "2026-10-19T10:57:44Z"
-    },
-    {
-      "title": "feat(server): faucet claims need the recipient's signature or a Turnstile token; refused claims cost no gas (#79)",
-      "url": "https://github.com/bytesbrains/16ane/pull/85",
-      "createdAt": "2026-10-20T16:37:09Z"
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
     },
     {
       "title": "P38: assemble the measured two-unit enclave runtime",
@@ -280,19 +275,24 @@
       "createdAt": "2026-10-20T16:39:26Z"
     },
     {
+      "title": "feat: Implement issues 473, 474, 472, 471",
+      "url": "https://github.com/PHASE-STELLAR/Phase/pull/593",
+      "createdAt": "2026-10-20T16:47:36Z"
+    },
+    {
+      "title": "feat(ads): admob adapter",
+      "url": "https://github.com/RevenueCat/purchases-flutter/pull/1946",
+      "createdAt": "2026-10-11T19:49:28Z"
+    },
+    {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Range pools 1/4: the site's client for our range program",
-      "url": "https://github.com/fomotsar-commits/tegridy-farms/pull/911",
-      "createdAt": "2026-10-20T16:42:09Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1 (master)",
-      "url": "https://github.com/rajput-hemant/react-template-vite/pull/257",
-      "createdAt": "2026-03-30T01:49:17Z"
+      "title": "chore(deps): pin dependencies",
+      "url": "https://github.com/unlock-protocol/unlock/pull/16548",
+      "createdAt": "2026-07-01T22:39:32Z"
     }
   ]
 }
