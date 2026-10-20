@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T11:25:35.666Z",
-  "latencyMs": 856,
+  "executedAt": "2026-10-20T11:28:44.423Z",
+  "latencyMs": 917,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #41: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #42: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x58DD8583420151785eFA434af2429f96DE6E1111",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/robinhood/0x58dd8583420151785efa434af2429f96de6e1111"
+    },
+    {
       "chainId": "bsc",
       "tokenAddress": "0xBc4721B16Eec6197496524Ea0D8082ab08A470bc",
       "boostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Worthless",
       "url": "https://dexscreener.com/solana/48qa8felmjmj4yabpdencxuyszx48cmenvcf8yhjpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
-      "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,29 +265,29 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore(deps): update dependency lucide-react to v1.60.0",
-      "url": "https://github.com/sagoez/workflow/pull/41",
-      "createdAt": "2026-08-18T13:53:21Z"
+      "title": "Kimi K3 support",
+      "url": "https://github.com/tpurtell/cuteafd/issues/273",
+      "createdAt": "2026-10-15T06:49:01Z"
     },
     {
-      "title": "Daily Shorts Pipeline — Reports",
-      "url": "https://github.com/caleblschulte0-ux/Shorts-pipeline/issues/1",
-      "createdAt": "2026-05-28T21:54:45Z"
+      "title": "Handle unfunded Stellar accounts in balance UI",
+      "url": "https://github.com/OpenLedger-Foundation/Kora-Frontend/issues/1052",
+      "createdAt": "2026-10-17T19:37:23Z"
     },
     {
-      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
-      "url": "https://github.com/Dillen198/bfnext/pull/1",
-      "createdAt": "2026-01-19T07:41:07Z"
-    },
-    {
-      "title": "[BE-019] Sybil Resistance Aggregator with Gitcoin Passport, WorldID & Stellar Trustlines",
-      "url": "https://github.com/StellarDevHub/Web3-Student-Lab/issues/1591",
-      "createdAt": "2026-10-14T17:14:02Z"
+      "title": "docs(adr-0016): propose hosting for the public faucet and demo server (G1-13)",
+      "url": "https://github.com/bytesbrains/16ane/pull/72",
+      "createdAt": "2026-10-20T11:27:00Z"
     },
     {
       "title": "Explorer: a queued faucet with limits that survive restarts",
       "url": "https://github.com/rome-protocol/canton-zk-evm/pull/6",
       "createdAt": "2026-10-20T11:11:21Z"
+    },
+    {
+      "title": "chore(deps): update dependency ethers to v6",
+      "url": "https://github.com/paypr/ethereum-contracts/pull/219",
+      "createdAt": "2023-02-03T06:52:10Z"
     },
     {
       "title": "perf(jit): cheaper fall-through sections",
