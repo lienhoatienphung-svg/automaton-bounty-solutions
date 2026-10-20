@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T23:42:45.099Z",
-  "latencyMs": 1128,
+  "executedAt": "2026-10-20T23:43:48.008Z",
+  "latencyMs": 778,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #248: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #249: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,62 +217,72 @@
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "marketCapRank": 114,
-      "priceBtc": 9.636321329915762e-8
+      "marketCapRank": 115,
+      "priceBtc": 9.611813183808171e-8
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 90,
-      "priceBtc": 0.00002590410739375296
+      "priceBtc": 0.000025674219288766072
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.01520881686091037
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00005909445869719262
+      "priceBtc": 0.01519157516755485
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 83,
-      "priceBtc": 0.000010614592280129686
+      "priceBtc": 0.000010626663579350676
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9992774603194323
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.000059210352593091785
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009697405127235923
+      "priceBtc": 0.0009688086127907053
     },
     {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012829415470399178
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9989923647488445
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 715,
+      "priceBtc": 0.0010696176400760988
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
     {
       "title": "OWNER DIRECTIVE — Zero-budget public launch and genuine liquidity gate",
       "url": "https://github.com/hamidnikkhah660-arch/ai-native-l1/issues/12",
       "createdAt": "2026-10-20T22:28:26Z"
     },
     {
-      "title": "fix(daemon): fail closed on unverified claims, anchors, and network handoffs",
-      "url": "https://github.com/satspath/satspath/pull/183",
-      "createdAt": "2026-10-20T22:20:51Z"
+      "title": "fix(env): .env.example khớp mặc định chống sybil mới (PR #145 bỏ sót template)",
+      "url": "https://github.com/thanhphuc85/technocore-crypto-agent/pull/146",
+      "createdAt": "2026-10-20T23:42:53Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
       "title": "chore(deps): update dependency @lucide/svelte to v1",
@@ -283,16 +293,6 @@
       "title": "fix(deps): update dependency @lucide/astro to v1",
       "url": "https://github.com/jackmcpickle/eliteskills/pull/77",
       "createdAt": "2026-10-18T22:07:51Z"
-    },
-    {
-      "title": "2.6.1 (draft): helper-wallet funding race, Argon's round-2 Lows, live sweep",
-      "url": "https://github.com/mcp-tool-shop-org/xrpl-lab/pull/21",
-      "createdAt": "2026-10-20T23:18:47Z"
-    },
-    {
-      "title": "chore(deps): pin dependencies",
-      "url": "https://github.com/unlock-protocol/unlock/pull/16548",
-      "createdAt": "2026-07-01T22:39:32Z"
     }
   ]
 }
