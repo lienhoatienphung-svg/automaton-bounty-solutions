@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-20T21:08:24.152Z",
-  "latencyMs": 545,
+  "executedAt": "2026-10-20T21:09:28.639Z",
+  "latencyMs": 1014,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #214: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #215: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "Wave 9/1287 close unchecked security and threat model documentation",
+          "url": "https://github.com/Invoice-Liquidity-Network/Invoice-Liquidity-Network/pull/1426",
+          "repositoryUrl": "https://api.github.com/repos/Invoice-Liquidity-Network/Invoice-Liquidity-Network",
+          "updatedAt": "2026-10-20T21:09:23Z"
+        },
+        {
+          "title": "Add client/server CLI on shared Plugin Manager infrastructure",
+          "url": "https://github.com/Chiv2-Community/UnchainedLauncher/pull/150",
+          "repositoryUrl": "https://api.github.com/repos/Chiv2-Community/UnchainedLauncher",
+          "updatedAt": "2026-10-20T21:09:22Z"
+        },
+        {
+          "title": "feat: back up before migrating and roll failed migrations back",
+          "url": "https://github.com/threeport/threeport/pull/648",
+          "repositoryUrl": "https://api.github.com/repos/threeport/threeport",
+          "updatedAt": "2026-10-20T21:09:22Z"
+        },
+        {
+          "title": "[AI:claude] ci(test): nextest is the gating runner for the test lanes (TASK-1988)",
+          "url": "https://github.com/joemooney/aida/pull/2785",
+          "repositoryUrl": "https://api.github.com/repos/joemooney/aida",
+          "updatedAt": "2026-10-20T21:09:22Z"
+        },
+        {
+          "title": "fix(android): keep ~/.dap hub config inside the app sandbox (HOME unset, / read-only)",
+          "url": "https://github.com/IstiN/flutter_agent_harness/pull/1591",
+          "repositoryUrl": "https://api.github.com/repos/IstiN/flutter_agent_harness",
+          "updatedAt": "2026-10-20T21:09:22Z"
+        },
+        {
+          "title": "Draft: Alexandria keyed filesets, public commons and rights-aware external catalogue",
+          "url": "https://github.com/achillesromer-coder/LightSpeed/pull/180",
+          "repositoryUrl": "https://api.github.com/repos/achillesromer-coder/LightSpeed",
+          "updatedAt": "2026-10-20T21:09:21Z"
+        },
+        {
+          "title": "fix(thin): 从事实推导四态并修复停止取消与活跃回合心跳竞态",
+          "url": "https://github.com/BumStill/CodeFactory/pull/791",
+          "repositoryUrl": "https://api.github.com/repos/BumStill/CodeFactory",
+          "updatedAt": "2026-10-20T21:09:20Z"
+        },
+        {
+          "title": "Short ids phase 1 (draft): Tier 1 tables to prefixed text ids",
+          "url": "https://github.com/quillandcup/hub/pull/196",
+          "repositoryUrl": "https://api.github.com/repos/quillandcup/hub",
+          "updatedAt": "2026-10-20T21:09:20Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
