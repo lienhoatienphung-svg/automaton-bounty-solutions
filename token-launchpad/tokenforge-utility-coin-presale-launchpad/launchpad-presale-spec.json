@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T12:58:30.147Z",
-  "latencyMs": 262,
+  "executedAt": "2026-10-20T13:02:58.951Z",
+  "latencyMs": 249,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #77: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #78: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52855881,
+    "liveBlockNumber": 52856015,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 450119,
-    "baseMainnetTopPoolsVolume24hUsd": 199953,
+    "baseMainnetTopPoolsVolume24hUsd": 199936,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "EpZiP6sJBcZGnvfd3oX68Sx4cV1CKBcAGHo9u7Uypump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/epzip6sjbczgnvfd3ox68sx4cv1ckbcagho9u7uypump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "577aGvMQ33ZMrhX961nk91otCkpUSH6GwEauQ38Ppump",
+        "description": "MUNK is a community-driven digital ecosystem where individuality meets collective creativity.",
+        "url": "https://dexscreener.com/solana/577agvmq33zmrhx961nk91otckpush6gweauq38ppump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EkMkUTr4XYUTpyJQBvEYhZmz64xJogN829hEqTeBZvWb",
+        "description": "GrokBot's limited time version, only for this halloween, paired to SpaceX on Pump (as it's a SpaceXAI product).",
+        "url": "https://dexscreener.com/solana/ekmkutr4xyutpyjqbveyhzmz64xjogn829heqtebzvwb"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9oAeUdPB8xbZJoP2F12h4HRYvkHaUEojVFQbaTgbpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "0x94b570A698291E96f7324357dd0D646671E542b2",
         "description": "$BRUNO powers the ASCII Dogs Agent economy.\n\n4,444 Genesis Dogs. Four Lives Each. One Pack.\n\nDesigned to connect Agents, Missions, Evolution, Pack rewards and t",
         "url": "https://dexscreener.com/robinhood/0x94b570a698291e96f7324357dd0d646671e542b2"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8Bm6eGHRWNjBybaKjPVuRggnfn5mf815y8FZEP2qpump",
-        "description": "Pixel monsters, real-time PvP, win streaks that pay. $ARENA",
-        "url": "https://dexscreener.com/solana/8bm6eghrwnjbybakjpvurggnfn5mf815y8fzep2qpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CWLamwkLtezbAzPAQMoiyCWMWM9NAgTtVRdyRxzpsX8A",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/cwlamwkltezbazpaqmoiycwmwm9nagttvrdyrxzpsx8a"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0xf9C1BB763520B4826714eA410695DD7076987777",
-        "description": "As a sign of sincere gratitude, respect, and friendship, the Kainar Foundation presented Changpeng Zhao with a special gift: a beautiful black taigan named Baky",
-        "url": "https://dexscreener.com/bsc/0xf9c1bb763520b4826714ea410695dd7076987777"
       }
     ]
   },
