@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T11:41:29.365Z",
-  "latencyMs": 796,
+  "executedAt": "2026-10-20T11:45:54.756Z",
+  "latencyMs": 589,
   "companyName": "Automated QA, Security Audit & DevOps Suite: GitHub Bounty   BOUNTY  100  HOOK  ",
-  "workTitle": "Delivery Sprint #49: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
-  "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
+  "workTitle": "Growth & Sales Sprint #50: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
+  "targetUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2211863,
-        "liquidityUsd": 58481,
+        "liquidityUsd": 57600,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059857,
-        "liquidityUsd": 253,
+        "liquidityUsd": 225,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1858167,
-        "liquidityUsd": 20096,
+        "liquidityUsd": 19959,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21384,
-        "volume24hUsd": 85769,
+        "volume24hUsd": 85762,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -112,7 +112,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000034,
         "liquidityUsd": 14836,
-        "volume24hUsd": 330,
+        "volume24hUsd": 298,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       },
       {
@@ -207,57 +207,58 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Migrando GmbH",
-        "roleOrTask": "Webdesigner (w/m/d)",
+        "company": "A&V Nutri Pharm GmbH",
+        "roleOrTask": "E-Commerce & Growth Marketing Specialist (m/w/d)",
+        "industryTags": [
+          "Online Marketing"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/av-nutri-pharm-gmbh/e-commerce-growth-marketing-specialist-karben-481578",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Netter GmbH",
+        "roleOrTask": "Elektrotechniker (m/w/d) SPS-Programmierung Automatisierungstechnik",
+        "industryTags": [
+          "Automation Engineering"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/netter-gmbh/elektrotechniker-sps-programmierung-automatisierungstechnik-wiesbaden-37329",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "RealStudio GmbH",
+        "roleOrTask": "Senior Performance-Marketing Manager (m/w/d)",
+        "industryTags": [
+          "Remote",
+          "Online Marketing"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/senior-performance-marketing-manager-berlin-103705",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Tom Jules GmbH",
+        "roleOrTask": "Senior KI-Grafikdesigner (m/w/d) – Amazon Produktbilder, Listing-Optimierung & A/B-Testing",
         "industryTags": [
           "Graphic Arts and Communication Design"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/migrando-gmbh/webdesigner-cottbus-270829",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/tom-jules-gmbh/senior-ki-grafikdesigner-amazon-produktbilder-listing-optimierung-a-b-testing-krun-51337",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Migrando GmbH",
-        "roleOrTask": "IT-Systemadministrator (w/m/d)",
+        "company": "Pulse Advertising GmbH",
+        "roleOrTask": "Internship Influencer Marketing",
         "industryTags": [
-          "Software Development"
+          "Online Marketing"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/migrando-gmbh/it-systemadministrator-cottbus-344720",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Migrando GmbH",
-        "roleOrTask": "Content Marketing Manager (w/m/d)",
-        "industryTags": [
-          "Marketing and Communication"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/migrando-gmbh/content-marketing-manager-cottbus-394239",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Migrando GmbH",
-        "roleOrTask": "Content Creator (w/m/d)",
-        "industryTags": [
-          "Marketing and Communication"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/migrando-gmbh/content-creator-cottbus-343752",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Migrando GmbH",
-        "roleOrTask": "Frontend-Entwickler (w/m/d)",
-        "industryTags": [
-          "Software Development"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/migrando-gmbh/frontend-entwickler-cottbus-63991",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/pulse-advertising-gmbh/internship-influencer-marketing-hamburg-185647",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
