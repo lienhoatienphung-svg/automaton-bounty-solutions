@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T13:31:55.769Z",
-  "latencyMs": 1383,
+  "executedAt": "2026-10-20T13:33:21.773Z",
+  "latencyMs": 1041,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #90: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
+  "workTitle": "Delivery Sprint #91: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,49 +218,49 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 92,
-      "priceBtc": 0.00002412377043738999
+      "priceBtc": 0.0000242889584668487
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 740,
-      "priceBtc": 0.0010320235488288677
-    },
-    {
-      "name": "Janction",
-      "symbol": "JCT",
-      "marketCapRank": 497,
-      "priceBtc": 4.696266625583116e-8
+      "marketCapRank": 743,
+      "priceBtc": 0.0010249092736512493
     },
     {
       "name": "Monero",
       "symbol": "XMR",
       "marketCapRank": 13,
-      "priceBtc": 0.0074645163056628015
+      "priceBtc": 0.007458472359215587
     },
     {
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "marketCapRank": 49,
-      "priceBtc": 0.00000680537221995805
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 21,
-      "priceBtc": 0.000057524993003642414
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 83,
-      "priceBtc": 0.00010440465191204519
+      "name": "Janction",
+      "symbol": "JCT",
+      "marketCapRank": 456,
+      "priceBtc": 5.1377940504640326e-8
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.23820935916133e-8
+      "priceBtc": 9.235215367004654e-8
+    },
+    {
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "marketCapRank": 49,
+      "priceBtc": 0.000006775982905111081
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.014052815118788968
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 21,
+      "priceBtc": 0.0000575066678933192
     }
   ],
   "activeAirdropAndFaucetQuests": [
@@ -268,6 +268,21 @@
       "title": "feat(staking): BUILD 1 — HeroSingleSidedStaking (HERO→HERO, DAO vote source)",
       "url": "https://github.com/jratdish1/hero-dapp/pull/119",
       "createdAt": "2026-09-27T22:49:15Z"
+    },
+    {
+      "title": "📦 Pending promotion: dev → main",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
+      "createdAt": "2026-06-29T11:18:37Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/ShadyDonkey/torkin-bot/pull/138",
+      "createdAt": "2026-03-23T16:54:51Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
       "title": "D786 (S21): one /pricing page with Founder, Investor, Advisors, Operating Partners and Models tabs; /plans-and-pricing redirects to it",
@@ -278,21 +293,6 @@
       "title": "Prepare MINTA for VYRE mainnet",
       "url": "https://github.com/Mintzarc/minta/pull/1",
       "createdAt": "2026-10-20T12:18:03Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/stianthaulow/rr-cli/pull/11",
-      "createdAt": "2026-03-23T14:32:10Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "test: fuzz chain speculative sampling contracts",
-      "url": "https://github.com/flashinfer-ai/flashinfer/pull/6870",
-      "createdAt": "2026-10-20T13:25:14Z"
     }
   ]
 }
