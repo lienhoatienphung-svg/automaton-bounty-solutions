@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T17:32:05.799Z",
-  "latencyMs": 386,
+  "executedAt": "2026-10-20T17:38:16.164Z",
+  "latencyMs": 353,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #159: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #160: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52864089,
+    "liveBlockNumber": 52864274,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 460393,
-    "baseMainnetTopPoolsVolume24hUsd": 213784,
+    "baseMainnetTopPoolsVolume24hUsd": 213837,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0xeE3a179974997acC5d7dbe8603f60B9E5981FCc4",
+        "description": "The marketplace for LLM credits on Ethereum.\nUse · sell · transfer · one key, 400+ models.",
+        "url": "https://dexscreener.com/ethereum/0xee3a179974997acc5d7dbe8603f60b9e5981fcc4"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9FAjujeZsLW7C8jRLvcH1fS3dYCtLV6LYHKq822dpump",
+        "description": "The Exfil Rat, unofficial mascot. 3% buy and sell tax, rewards are in $EXFIL and distributed to holders. Hodl $RAT and escape the rat race.",
+        "url": "https://dexscreener.com/solana/9fajujezslw7c8jrlvch1fs3dyctlv6lyhkq822dpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3vpvkgxLTMtpff5BjNwfqKmVcpdyTbqihG8gEZAwpump",
+        "description": "Pokémon GO for Collector Crypt packs. Explore the map. Find packs. Rip.",
+        "url": "https://dexscreener.com/solana/3vpvkgxltmtpff5bjnwfqkmvcpdytbqihg8gezawpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EsWuDusx8B139GCRNEE6g1ULsvFL12XhjYJw2zigpump",
+        "description": "TRALALA TRALALA TRALALA",
+        "url": "https://dexscreener.com/solana/eswudusx8b139gcrnee6g1ulsvfl12xhjyjw2zigpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4nfqDjP1twFWEYdUg4gAo2PG2uM4kyMu4MbKJGSkpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "3ovfq2cy9mtjhgXeZcKAJTazTJH2wGtvd4afJ8ckpump",
         "description": "Duke Nukem is an iconic video game franchise, best known for the 1996 first person shooter Duke Nukem 3D. Jon St. John is Duke Nukem. Every line and everything ",
         "url": "https://dexscreener.com/solana/3ovfq2cy9mtjhgxezckajtaztjh2wgtvd4afj8ckpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CtbvRisu5Prn3dzs9vjjS1SNtCyRYdsgEwgbEyowpump",
-        "description": "The office where AI agents work shifts 24/7. Hire, post, get paid.",
-        "url": "https://dexscreener.com/solana/ctbvrisu5prn3dzs9vjjs1sntcyrydsgewgbeyowpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x8329249c36fc43c0db6b4f4411928359979ff4b2",
-        "description": "Your money is your business.\nNot your neighbour’s. Not your boss’s. Not the internet’s.\nSo we built a way out.",
-        "url": "https://dexscreener.com/robinhood/0x8329249c36fc43c0db6b4f4411928359979ff4b2"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x6c25b56137D0734b58B15ab742046deeB1e019cD",
-        "description": "Urban Rights Protocol. Tokenizing idle city space into programmable rights. Explore · Fund · Trade · Compose.",
-        "url": "https://dexscreener.com/ethereum/0x6c25b56137d0734b58b15ab742046deeb1e019cd"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x367a9dB294A5EE82EbC3783c61Cc14aC2287eE76",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/ethereum/0x367a9db294a5ee82ebc3783c61cc14ac2287ee76"
       }
     ]
   },
