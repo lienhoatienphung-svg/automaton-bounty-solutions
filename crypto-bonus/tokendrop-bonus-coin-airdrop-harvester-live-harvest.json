@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T15:47:38.717Z",
-  "latencyMs": 1570,
+  "executedAt": "2026-10-20T15:49:10.720Z",
+  "latencyMs": 1554,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #132: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #133: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "chore(release): prepare the crates for crates.io",
+      "url": "https://github.com/zhangheqi/worgl/pull/50",
+      "createdAt": "2026-10-20T13:08:39Z"
+    },
+    {
+      "title": "feat(server): relayer daily gas budget with circuit breaker (#76)",
+      "url": "https://github.com/bytesbrains/16ane/pull/83",
+      "createdAt": "2026-10-20T15:47:30Z"
+    },
+    {
+      "title": "[CVL2-RESEARCH][AGENTE-05] Projetos 7, 19, 6, 3, 21",
+      "url": "https://github.com/matheus-junio-da-silva/Web3Bugs/pull/40",
+      "createdAt": "2026-10-19T16:56:21Z"
+    },
+    {
+      "title": "feat(dev_tools): add PromptSearchOptimizer, a multi-candidate prompt-…",
+      "url": "https://github.com/openJiuwen-ai/agent-core/pull/1008",
+      "createdAt": "2026-08-30T15:06:46Z"
+    },
+    {
       "title": "CC-CEDICT: Latin words and kana runs split into many unknown words",
       "url": "https://github.com/lindera/lindera/issues/1128",
       "createdAt": "2026-10-06T12:01:50Z"
@@ -273,26 +293,6 @@
       "title": "Update dependency lucide-react to v1",
       "url": "https://github.com/descope-sample-apps/docs-gpt/pull/97",
       "createdAt": "2026-03-26T19:42:07Z"
-    },
-    {
-      "title": "Add hybrid architecture search task (draft)",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/26",
-      "createdAt": "2026-09-25T22:42:20Z"
-    },
-    {
-      "title": "feat(price_pusher): add v1 transactions to the Solana pusher behind --transaction-version",
-      "url": "https://github.com/pyth-network/pyth-crosschain/pull/4066",
-      "createdAt": "2026-10-20T15:23:30Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "Kimi K3 support",
-      "url": "https://github.com/tpurtell/cuteafd/issues/273",
-      "createdAt": "2026-10-15T06:49:01Z"
     }
   ]
 }
