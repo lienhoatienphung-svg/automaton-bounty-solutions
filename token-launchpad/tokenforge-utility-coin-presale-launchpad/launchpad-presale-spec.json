@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T12:35:43.317Z",
-  "latencyMs": 725,
+  "executedAt": "2026-10-20T12:39:04.560Z",
+  "latencyMs": 365,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #69: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #70: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52855197,
+    "liveBlockNumber": 52855298,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 450119,
-    "baseMainnetTopPoolsVolume24hUsd": 201139,
+    "baseMainnetTopPoolsVolume24hUsd": 199980,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0xf9C1BB763520B4826714eA410695DD7076987777",
+        "description": "As a sign of sincere gratitude, respect, and friendship, the Kainar Foundation presented Changpeng Zhao with a special gift: a beautiful black taigan named Baky",
+        "url": "https://dexscreener.com/bsc/0xf9c1bb763520b4826714ea410695dd7076987777"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "EwsfUMBHcjChH8YoJ8EAfqkKy5eDXWwgm2cwKJsapump",
@@ -75,12 +81,6 @@
         "tokenAddress": "6J5P1H6yLUHuzEio9hQhufQEytar5bRAvMde8V48pump",
         "description": "A scanner for predicting coins ath",
         "url": "https://dexscreener.com/solana/6j5p1h6yluhuzeio9hqhufqeytar5bravmde8v48pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Cg9zDsrNUzkm7cUgrXyv5TaKpbH5dpnr4E7pFAZYpump",
-        "description": "Up Forever Laura",
-        "url": "https://dexscreener.com/solana/cg9zdsrnuzkm7cugrxyv5takpbh5dpnr4e7pfazypump"
       }
     ]
   },
