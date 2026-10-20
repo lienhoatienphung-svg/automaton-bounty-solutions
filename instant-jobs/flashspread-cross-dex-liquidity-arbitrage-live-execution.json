@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T15:44:42.094Z",
-  "latencyMs": 692,
+  "executedAt": "2026-10-20T15:51:20.580Z",
+  "latencyMs": 642,
   "companyName": "FlashSpread Cross-DEX Liquidity & Arbitrage",
-  "workTitle": "Delivery Sprint #133: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
-  "targetUrl": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
+  "workTitle": "Growth & Sales Sprint #134: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "targetUrl": "https://polymarket.com/event/natoeu-troops-fighting-in-ukraine-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501899,
-        "liquidityUsd": 18864,
+        "liquidityUsd": 18893,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2211863,
-        "liquidityUsd": 62214,
+        "liquidityUsd": 62310,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059857,
-        "liquidityUsd": 272,
+        "liquidityUsd": 269,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1860335,
-        "liquidityUsd": 15346,
+        "liquidityUsd": 15644,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -92,7 +92,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000015,
         "liquidityUsd": 139845,
-        "volume24hUsd": 18369,
+        "volume24hUsd": 18299,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21383,
-        "volume24hUsd": 96118,
+        "volume24hUsd": 96185,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -122,7 +122,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.0000043,
         "liquidityUsd": 12034,
-        "volume24hUsd": 2845,
+        "volume24hUsd": 2840,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
@@ -207,58 +207,59 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Lucid Labs",
-        "roleOrTask": "Werkstudent:in Founders Associate - Projects & AI (m/d/w)",
+        "company": "TruckScout24",
+        "roleOrTask": "Customer Success Manager (m/w/d) TS24",
         "industryTags": [
-          "Business Development"
+          "Customer Service"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/lucid-labs/werkstudentin-founders-associate-projects-ai-berlin-362810",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/truckscout24/customer-success-manager-ts24-essen-350534",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Vetaion GmbH",
-        "roleOrTask": "Founders Associate",
+        "company": "Callwey GmbH",
+        "roleOrTask": "CRM & Lead Generation Manager (m/w/d)",
         "industryTags": [
-          "Engineering"
+          "CRM",
+          "Direct Marketing"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/vetaion-gmbh/founders-associate-garching-318879",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/callwey-gmbh/crm-lead-generation-manager-munich-155573",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Kopp Verlag e.K.",
-        "roleOrTask": "UX/UI Designer (m/w/d) – Schwerpunkt E-Commerce",
+        "company": "PatientFirst Fertility",
+        "roleOrTask": "Founders Associate Intern (m/w/d) - Hybrid",
         "industryTags": [
-          "Media",
-          "Screen and Web Design"
+          "Business Operations"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/kopp-verlag-ek/ux-ui-designer-schwerpunkt-e-commerce-rottenburg-350089",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/patientfirst-fertility/founders-associate-intern-hybrid-berlin-184642",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Kopp Verlag e.K.",
-        "roleOrTask": "Marktplatz / Marketplace Manager (m/w/d)",
+        "company": "Bridgebio",
+        "roleOrTask": "Senior Director, Commercial, EU Center",
         "industryTags": [
-          "Business Development"
+          "Commercial"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/kopp-verlag-ek/marktplatz-marketplace-manager-rottenburg-404034",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/bridgebio/senior-director-commercial-eu-center-342378",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Kopp Verlag e.K.",
-        "roleOrTask": "Online-Marketing-Manager (m/w/d)",
+        "company": "isaraerospace",
+        "roleOrTask": "LCA & Environmental Data Specialist (f/m/d)",
         "industryTags": [
-          "Online Marketing"
+          "Infrastructure",
+          "Safety & Service"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/kopp-verlag-ek/online-marketing-manager-rottenburg-334547",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/isaraerospace/lca-environmental-data-specialist-parsdorf-bavaria-418905",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
