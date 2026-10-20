@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T15:51:45.681Z",
-  "latencyMs": 646,
+  "executedAt": "2026-10-20T15:53:49.073Z",
+  "latencyMs": 654,
   "companyName": "OmniGig Multi-Industry B2B & E-Commerce Fulfillment",
-  "workTitle": "Growth & Sales Sprint #134: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
-  "targetUrl": "https://polymarket.com/event/natoeu-troops-fighting-in-ukraine-in-2025",
+  "workTitle": "Delivery Sprint #135: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "targetUrl": "https://polymarket.com/event/china-x-india-military-clash-by-december-31",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -128,7 +128,7 @@
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 5,
+    "contractsPackagedCount": 10,
     "contracts": [
       {
         "source": "RemoteOK-InstantB2B",
@@ -204,6 +204,63 @@
         "compensation": "$500-$2,500 Instant Retainer",
         "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
         "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "TruckScout24",
+        "roleOrTask": "Customer Success Manager (m/w/d) TS24",
+        "industryTags": [
+          "Customer Service"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/truckscout24/customer-success-manager-ts24-essen-350534",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Callwey GmbH",
+        "roleOrTask": "CRM & Lead Generation Manager (m/w/d)",
+        "industryTags": [
+          "CRM",
+          "Direct Marketing"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/callwey-gmbh/crm-lead-generation-manager-munich-155573",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "PatientFirst Fertility",
+        "roleOrTask": "Founders Associate Intern (m/w/d) - Hybrid",
+        "industryTags": [
+          "Business Operations"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/patientfirst-fertility/founders-associate-intern-hybrid-berlin-184642",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Bridgebio",
+        "roleOrTask": "Senior Director, Commercial, EU Center",
+        "industryTags": [
+          "Commercial"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/bridgebio/senior-director-commercial-eu-center-342378",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "isaraerospace",
+        "roleOrTask": "LCA & Environmental Data Specialist (f/m/d)",
+        "industryTags": [
+          "Infrastructure",
+          "Safety & Service"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/isaraerospace/lca-environmental-data-specialist-parsdorf-bavaria-418905",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
   }
