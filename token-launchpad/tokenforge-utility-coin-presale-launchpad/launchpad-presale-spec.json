@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T00:22:19.859Z",
-  "latencyMs": 336,
+  "executedAt": "2026-10-20T00:24:44.603Z",
+  "latencyMs": 330,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #822: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #823: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52833196,
+    "liveBlockNumber": 52833268,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440981,
-    "baseMainnetTopPoolsVolume24hUsd": 138939,
+    "baseMainnetTopPoolsVolume24hUsd": 138982,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8BFNqegDHutAJfVtprTd6ifXBtuWiNq9we6RmWiDpump",
+        "description": "The \"cat and rabbit\" from Taió, who became famous in 2021, reappeared on social media.",
+        "url": "https://dexscreener.com/solana/8bfnqegdhutajfvtprtd6ifxbtuwinq9we6rmwidpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1",
@@ -75,12 +81,6 @@
         "tokenAddress": "AeNQSoEJJe1fBim6AVpndX1zp9HdotMypBXkJL1qpump",
         "description": "In Japan, Ash Ketchum is known as Satoshi. Paired it with the Pokemon coin.",
         "url": "https://dexscreener.com/solana/aenqsoejje1fbim6avpndx1zp9hdotmypbxkjl1qpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5D7hVaRQCKRnmU5df3kdhLuyuRdLpZ6FHUgCARDVAULT",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5d7hvarqckrnmu5df3kdhluyurdlpz6fhugcardvault"
       }
     ]
   },
