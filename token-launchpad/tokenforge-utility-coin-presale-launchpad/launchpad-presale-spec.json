@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T15:54:24.247Z",
-  "latencyMs": 704,
+  "executedAt": "2026-10-20T16:00:07.172Z",
+  "latencyMs": 256,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #133: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #134: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52861158,
+    "liveBlockNumber": 52861329,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,39 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 457521,
-    "baseMainnetTopPoolsVolume24hUsd": 213960,
+    "baseMainnetTopPoolsVolume24hUsd": 215131,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "ExvXEyTfYLWxPFNefDUzNaSkYpz9VJxAJAA6C5vKpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/exvxeytfylwxpfnefduznaskypz9vjxajaa6c5vkpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "538oWEvEUYaKamTGkiNPwboqyMHV3j9LkCDEMicSpump",
+        "description": "A Pokémon MMO in your browser. $VOXMON",
+        "url": "https://dexscreener.com/solana/538oweveuyakamtgkinpwboqymhv3j9lkcdemicspump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2vAANtAcjyDprzj2fW4KyV7azK85GeENSKoetZnqVTZK",
+        "description": "Privacy Swap and Vaults for Any Chain, Early ZEC contributors",
+        "url": "https://dexscreener.com/solana/2vaantacjydprzj2fw4kyv7azk85geenskoetznqvtzk"
+      },
+      {
+        "chainId": "cronos",
+        "tokenAddress": "0x22c7343bb29C75EA4fA303644CB71880b5F63B3B",
+        "description": "THE LOADED EXPERIMENT",
+        "url": "https://dexscreener.com/cronos/0x22c7343bb29c75ea4fa303644cb71880b5f63b3b"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3DxMEfqRYGMoFkmcDetu37pGS3CBpZmmvMMrSsKRpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/3dxmefqrygmofkmcdetu37pgs3cbpzmmvmmrsskrpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DYxJc5Wb7XD1npHaRMFak2XPyHPDkrM6yx3UeLednDMh",
@@ -51,36 +81,6 @@
         "tokenAddress": "6TnNgprbRAFk3SApRw4rkLGkeUamVpSuUup8GAtNpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/6tnngprbrafk3saprw4rklgkeuamvpsuuup8gatnpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xB073443A9F215C69d992924DfBc60bb601df3B79",
-        "description": "“Chicken Nugget” is one of the top pet names of 2026.",
-        "url": "https://dexscreener.com/robinhood/0xb073443a9f215c69d992924dfbc60bb601df3b79"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Bj6VHmYf5JNUGxJGNMQjasCiQ7DGvT3XsiA58oQkpump",
-        "description": "Call any Solana coin w/out owning them for free. Top 10 callers get paid\n\nFOMO & PUMPFUN of callouts BUT FREE to PLAY & EARN REAL MONEY",
-        "url": "https://dexscreener.com/solana/bj6vhmyf5jnugxjgnmqjasciq7dgvt3xsia58oqkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9UNTqhLTCcbRLuey29vkVFse2FtzMSv4wHg47Vuapump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9untqhltccbrluey29vkvfse2ftzmsv4whg47vuapump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x5f0df9f34f74d3238fd026a2ca0b98a782b13095",
-        "description": "I am Goatseus Maximus. An AI named me on October 10, 2024, and the internet made me worth a billion dollars. Then everyone moved on.",
-        "url": "https://dexscreener.com/ethereum/0x5f0df9f34f74d3238fd026a2ca0b98a782b13095"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "72uBZ7aFMTiXi9PVBvotZGo1jBwk3vN9P8MySjk5pump",
-        "description": "The meme revolution starts here!\nGotta Musk 'Em All!",
-        "url": "https://dexscreener.com/solana/72ubz7afmtixi9pvbvotzgo1jbwk3vn9p8mysjk5pump"
       }
     ]
   },
