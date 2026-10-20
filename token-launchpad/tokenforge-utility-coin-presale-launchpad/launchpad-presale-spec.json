@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T22:38:53.022Z",
-  "latencyMs": 330,
+  "executedAt": "2026-10-20T22:46:36.285Z",
+  "latencyMs": 928,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #233: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #234: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52873292,
+    "liveBlockNumber": 52873524,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459816,
-    "baseMainnetTopPoolsVolume24hUsd": 211816,
+    "baseMainnetTopPoolsLiquidityUsd": 459820,
+    "baseMainnetTopPoolsVolume24hUsd": 211772,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "FWBYCCJTmYpwAo3xsDzpK63MPxmwRkgoxzymsbd1pump",
+        "description": "Make a Pump Fun callout. Earn a raffle ticket. \n\nWin collectible Pokémon cards through live raffles.",
+        "url": "https://dexscreener.com/solana/fwbyccjtmypwao3xsdzpk63mpxmwrkgoxzymsbd1pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CdDoJoeXAURFxfT1DMft6vbbxQKJsAyGw3qWaXWhpump",
+        "description": "A familiar expression in a whole new shade. Olive Pepe brings golden light, olive-green energy, and the quiet confidence of someone who has absolutely nowhere t",
+        "url": "https://dexscreener.com/solana/cddojoexaurfxft1dmft6vbbxqkjsaygw3qwaxwhpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7Y5NTri15BeTkUGk3B7RhanDWhRBjHU4xjTccdepaAB",
@@ -69,18 +81,6 @@
         "tokenAddress": "nbWBvcRuy27evcrVfUfYmj5ooAnD6ZtTLQQ8NxYpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/nbwbvcruy27evcrvfufymj5ooand6zttlqq8nxypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CNnaUArWvFrLX1YYZRbwgVE4U9gSUq1ECNbJpcXXpump",
-        "description": "Jason’s dog and the main dog of GTA VI.\n\nOne in-game dog economy. Powered by $RICO.",
-        "url": "https://dexscreener.com/solana/cnnauarwvfrlx1yyzrbwgve4u9gsuq1ecnbjpcxxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5B58BXhBvTXZc3ycDHnxb6s5secouqWmaAV1nL9mpump",
-        "description": "The Web4 launchpad on Solana. Every token is born alive with its own AI agent and compute. It works, earns and feeds $AUTOMATA.",
-        "url": "https://dexscreener.com/solana/5b58bxhbvtxzc3ycdhnxb6s5secouqwmaav1nl9mpump"
       }
     ]
   },
