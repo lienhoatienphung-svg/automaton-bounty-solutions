@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T17:14:10.900Z",
-  "latencyMs": 530,
+  "executedAt": "2026-10-20T17:16:13.477Z",
+  "latencyMs": 360,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #154: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #155: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52863551,
+    "liveBlockNumber": 52863613,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 460389,
-    "baseMainnetTopPoolsVolume24hUsd": 219831,
+    "baseMainnetTopPoolsVolume24hUsd": 220139,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x367a9dB294A5EE82EbC3783c61Cc14aC2287eE76",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/ethereum/0x367a9db294a5ee82ebc3783c61cc14ac2287ee76"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FYo1mGMNuDVzTRgTmrjnCGTTBMbDKdFwr9qoCw6Kpfcz",
+        "description": "POKE6900 PAIRED WITH CARDS.",
+        "url": "https://dexscreener.com/solana/fyo1mgmnudvztrgtmrjncgttbmbdkdfwr9qocw6kpfcz"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x901D8aFF53F19b75848c2b913A2a67AAA5AD7777",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/bsc/0x901d8aff53f19b75848c2b913a2a67aaa5ad7777"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "LBQ4o6HwM2vpEuwc8wcpGZ4soJmKCT3spVoa1cipump",
@@ -63,24 +81,6 @@
         "tokenAddress": "kai8sjSxmcxyEyXzy58bBmPFPB4bqZdGMty2ZosxJuP",
         "description": "Kai means sea in Hawaiian. He was the apex predator of the ocean until he put on a flower shirt and decided to never stress again. Tap anywhere to see what is h",
         "url": "https://dexscreener.com/solana/kai8sjsxmcxyeyxzy58bbmpfpb4bqzdgmty2zosxjup"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7vroZUHnZax2xvSmHFQE26iL2Dn1jPjVJKDvxHy2pump",
-        "description": "Xitter is the new twitter.",
-        "url": "https://dexscreener.com/solana/7vrozuhnzax2xvsmhfqe26il2dn1jpjvjkdvxhy2pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AMsxDwM3LA5p2sYmhSH3eCaReedF7ZNunEjpKsVanity",
-        "description": "Mine your custom CA, Register your plate, then launch a coin or sell it on the marketplace.",
-        "url": "https://dexscreener.com/solana/amsxdwm3la5p2symhsh3ecareedf7znunejpksvanity"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x77750d63d598032065A6BF7D12568E86c0757777",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/bsc/0x77750d63d598032065a6bf7d12568e86c0757777"
       }
     ]
   },
