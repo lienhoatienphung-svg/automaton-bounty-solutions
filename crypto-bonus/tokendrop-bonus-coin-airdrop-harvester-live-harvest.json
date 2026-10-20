@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T01:53:33.339Z",
-  "latencyMs": 742,
+  "executedAt": "2026-10-20T02:10:31.673Z",
+  "latencyMs": 2543,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #837: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #838: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 674,
-      "priceBtc": 3.5059818104106235e-7
+      "marketCapRank": 616,
+      "priceBtc": 3.9706150798974677e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 91,
-      "priceBtc": 0.000024380387150174875
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00005969684234773987
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 695,
-      "priceBtc": 0.0011263724436225073
-    },
-    {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "marketCapRank": 71,
-      "priceBtc": 0.00030421799585853986
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009687169233823982
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "marketCapRank": 35,
-      "priceBtc": 0.0032695235106479166
+      "priceBtc": 0.000024400058084094565
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.268844390137605e-8
+      "priceBtc": 9.215599987262592e-8
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00005941900466534885
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 693,
+      "priceBtc": 0.001131582461078339
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "marketCapRank": 71,
+      "priceBtc": 0.00030062159298162473
+    },
+    {
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "marketCapRank": 48,
+      "priceBtc": 0.000005312566262865555
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9998749411662367
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "chore(deps): bump the prod group across 1 directory with 17 updates",
+      "url": "https://github.com/Tahmasbi92/zitadel/pull/22",
+      "createdAt": "2026-09-22T02:10:33Z"
+    },
+    {
+      "title": "feat(nemo_gym): per-group rollout-metrics hook and union-of-fields agent metrics",
+      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4448",
+      "createdAt": "2026-10-03T04:53:13Z"
+    },
+    {
+      "title": "[recipe, fsdp, tests, doc] feat: add Boogu-Image FlowGRPO v1 sync recipe",
+      "url": "https://github.com/verl-project/verl-omni/pull/649",
+      "createdAt": "2026-09-21T15:01:39Z"
+    },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "refactor: unify tool context specifications and execution service",
-      "url": "https://github.com/Wh0rigin/tea/pull/13",
-      "createdAt": "2026-10-16T07:34:30Z"
+      "title": "fix(deps): update production dependencies (patch and minor)",
+      "url": "https://github.com/AgentsKit-io/harness/pull/191",
+      "createdAt": "2026-10-19T05:37:07Z"
     },
     {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
-    },
-    {
-      "title": "[Engine] Remote stage: run the later layers of a layer split on other PCs, over TCP (opt-in; Linux and Windows; Qwen3.8-Flash-Next)",
-      "url": "https://github.com/Niko1221/Strata/pull/1748",
-      "createdAt": "2026-10-09T18:04:44Z"
-    },
-    {
-      "title": "fix(interpreter): keep memory accounting out of safe code's reach",
-      "url": "https://github.com/alloy-rs/evm2/pull/718",
-      "createdAt": "2026-10-20T01:20:13Z"
-    },
-    {
-      "title": "RC2.3.13R.3.2.6 — Chinese Living Canvas, animated scenic SVGs & ornamental frame system",
-      "url": "https://github.com/matstangherlin/longyu/pull/357",
-      "createdAt": "2026-10-20T00:56:21Z"
+      "title": "fix: Orca, Raydium, PancakeSwap-Sol and Solana fixes ported from a Gateway fork",
+      "url": "https://github.com/hummingbot/gateway/pull/723",
+      "createdAt": "2026-10-20T02:05:56Z"
     }
   ]
 }
