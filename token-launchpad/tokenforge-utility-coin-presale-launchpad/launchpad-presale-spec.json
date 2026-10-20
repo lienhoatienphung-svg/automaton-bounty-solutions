@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T15:45:20.480Z",
-  "latencyMs": 767,
+  "executedAt": "2026-10-20T15:52:08.119Z",
+  "latencyMs": 745,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #131: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #132: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52860886,
-    "liveGasPriceGwei": 0.0061,
+    "liveBlockNumber": 52861090,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 457520,
-    "baseMainnetTopPoolsVolume24hUsd": 213757,
+    "baseMainnetTopPoolsLiquidityUsd": 457521,
+    "baseMainnetTopPoolsVolume24hUsd": 213960,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6TnNgprbRAFk3SApRw4rkLGkeUamVpSuUup8GAtNpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6tnngprbrafk3saprw4rklgkeuamvpsuuup8gatnpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xB073443A9F215C69d992924DfBc60bb601df3B79",
+        "description": "“Chicken Nugget” is one of the top pet names of 2026.",
+        "url": "https://dexscreener.com/robinhood/0xb073443a9f215c69d992924dfbc60bb601df3b79"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Bj6VHmYf5JNUGxJGNMQjasCiQ7DGvT3XsiA58oQkpump",
+        "description": "Call any Solana coin w/out owning them for free. Top 10 callers get paid\n\nFOMO & PUMPFUN of callouts BUT FREE to PLAY & EARN REAL MONEY",
+        "url": "https://dexscreener.com/solana/bj6vhmyf5jnugxjgnmqjasciq7dgvt3xsia58oqkpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9UNTqhLTCcbRLuey29vkVFse2FtzMSv4wHg47Vuapump",
@@ -63,24 +81,6 @@
         "tokenAddress": "0x2da80b9D1bc1B323693C80C76eb4a321ec08CbD0",
         "description": "Funds development of Sentinel: read-only, block-stamped tools for Robinhood Chain and Aeon skills. No promise of price or returns. Not affiliated with Robinhood",
         "url": "https://dexscreener.com/robinhood/0x2da80b9d1bc1b323693c80c76eb4a321ec08cbd0"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump",
-        "description": "When the city goes dark, the signal comes alive. Darkinator Cat owns the night. 🐈‍⬛🌃",
-        "url": "https://dexscreener.com/solana/fpam8wynidshtwx1znyeipggrnnbcbtcn1iechcpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8T2nkC9HQkgd2yjxc7Yn1LAietmXyZKbv1vR4FXDbonk",
-        "description": "Bonnie",
-        "url": "https://dexscreener.com/solana/8t2nkc9hqkgd2yjxc7yn1laietmxyzkbv1vr4fxdbonk"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9oAKMJUqF3Q81bgJmpMYrsVgpW2y1SDgp2AUjsSGpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9oakmjuqf3q81bgjmpmyrsvgpw2y1sdgp2aujssgpump"
       }
     ]
   },
