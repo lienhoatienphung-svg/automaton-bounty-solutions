@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T20:34:11.456Z",
-  "latencyMs": 345,
+  "executedAt": "2026-10-20T20:35:57.478Z",
+  "latencyMs": 252,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #204: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #205: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52869552,
+    "liveBlockNumber": 52869605,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 460395,
-    "baseMainnetTopPoolsVolume24hUsd": 211352,
+    "baseMainnetTopPoolsVolume24hUsd": 211401,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3C8xYWTLtQWyccmre7bfg38jxzbaSpmPfD5yqV1cpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/3c8xywtltqwyccmre7bfg38jxzbaspmpfd5yqv1cpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6uNG33Bm41CyTciSaG4JhTP5EjHSodCYT95ke6Azpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6ung33bm41cytcisag4jhtp5ejhsodcyt95ke6azpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "79r9JgCuaVVumUuKkuzNn9rNgFftdgSw8G1EmUvdpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/79r9jgcuavvumuukkuznn9rngfftdgsw8g1emuvdpump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x867585Caf0A877dB3f88A2303120f8dE77629eAE",
+        "description": "JUL 30, 2015\nEthereum goes live.\nMainnet launches. There is no token standard yet, and developers are working out conventions as they go.\n\nMAY 4, 2016\nAn anonym",
+        "url": "https://dexscreener.com/ethereum/0x867585caf0a877db3f88a2303120f8de77629eae"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "H1fK1zrjVYeMs5FLGUDhqF34usz75UbVynKt4JHZpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "HVqaNFwb1sNjVLawTwz7bWUAcgn9V398DPTz5DPMpump",
         "description": "The terminal for on-chain gacha. Every graded-card pull on Solana, live: the card, its value, the odds, the whales. Read from the chain.",
         "url": "https://dexscreener.com/solana/hvqanfwb1snjvlawtwz7bwuacgn9v398dptz5dpmpump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x967FBacE50402E7EF50d3b32d2d8750F2cBE6E26",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/ethereum/0x967fbace50402e7ef50d3b32d2d8750f2cbe6e26"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Bivugv4GNFUiqUabDhvFcepDskTcgPk7EtExV4mvpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bivugv4gnfuiquabdhvfcepdsktcgpk7etexv4mvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3yjK5ztTCcVCAqAqwXUbTMGE26xvv3yDpkQc5fExpump",
-        "description": "Elon says power is the currency of the future",
-        "url": "https://dexscreener.com/solana/3yjk5zttccvcaqaqwxubtmge26xvv3ydpkqc5fexpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BfgSRauifc4cYCW9r6LR9iYsbuj4UHG1krRUMGujpump",
-        "description": "Beyond the ceiling of everything, space. Paired with $SPCX.",
-        "url": "https://dexscreener.com/solana/bfgsrauifc4cycw9r6lr9iysbuj4uhg1krrumgujpump"
       }
     ]
   },
