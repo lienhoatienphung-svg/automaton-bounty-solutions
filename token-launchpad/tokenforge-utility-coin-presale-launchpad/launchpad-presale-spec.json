@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T14:06:10.747Z",
-  "latencyMs": 527,
+  "executedAt": "2026-10-20T14:10:48.658Z",
+  "latencyMs": 704,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #101: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #102: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52857911,
-    "liveGasPriceGwei": 0.0061,
+    "liveBlockNumber": 52858050,
+    "liveGasPriceGwei": 0.0068,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -30,10 +30,34 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 450115,
-    "baseMainnetTopPoolsVolume24hUsd": 201400,
+    "baseMainnetTopPoolsLiquidityUsd": 450114,
+    "baseMainnetTopPoolsVolume24hUsd": 202512,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "AjsbSXT7TTaK5jtFLE8T2csnaicTPAx3pxsWZzBvRqo",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/ajsbsxt7ttak5jtfle8t2csnaictpax3pxswzzbvrqo"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "T54qyJQnRVmKLQv5DF4HLFYJKXf1PEGuvCCc15Ypump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/t54qyjqnrvmklqv5df4hlfyjkxf1peguvccc15ypump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "D46xBpfrKru9H3T4KvWNzJyEr2Ka6C1DpE1KaCBrpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/d46xbpfrkru9h3t4kvwnzjyer2ka6c1dpe1kacbrpump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x63815c2091679f22ee96842019ec43b084a6e246",
+        "description": "Hookereum is an AI-powered launchpad on Ethereum, built on Uniswap v4.\n\nEvery launched coin is paired with an AI agent that writes and upgrades its treasury str",
+        "url": "https://dexscreener.com/ethereum/0x63815c2091679f22ee96842019ec43b084a6e246"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6hjwH1Q3FytRxReTWQ4eJN1E8qzWgZ5qhjc5oT3Ppump",
@@ -57,30 +81,6 @@
         "tokenAddress": "0x846eD204275edBdF3226C8786f068D6828B44814",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/robinhood/0x846ed204275edbdf3226c8786f068d6828b44814"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DC1MjRzGGdxptmztvHimSvgxtogysrshbi9ZH7fZpump",
-        "description": "QuantoLock — The Future of Crypto Payments.\n\nGetting your own money out of crypto shouldn't be complicated.\n\nToday, turning cryptocurrency into spendable money ",
-        "url": "https://dexscreener.com/solana/dc1mjrzggdxptmztvhimsvgxtogysrshbi9zh7fzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9UxFuKpeu6wRMnPkQgVNt2Gx7uTJTCDfYuLpceWmpump",
-        "description": "It's going up forever, Laura.",
-        "url": "https://dexscreener.com/solana/9uxfukpeu6wrmnpkqgvnt2gx7utjtcdfyulpcewmpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AEACjv8GpJkrzfcb8gM782xETPKMKooTqwGCwjFUpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/aeacjv8gpjkrzfcb8gm782xetpkmkootqwgcwjfupump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BcBDBL7qGkvpzohhAGVgfbjSXjFVf4QhaPq7Eqd2pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bcbdbl7qgkvpzohhagvgfbjsxjfvf4qhapq7eqd2pump"
       }
     ]
   },
