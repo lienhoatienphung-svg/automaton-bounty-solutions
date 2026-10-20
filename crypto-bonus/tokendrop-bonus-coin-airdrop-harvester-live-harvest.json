@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T19:11:11.999Z",
-  "latencyMs": 1342,
+  "executedAt": "2026-10-20T19:12:07.648Z",
+  "latencyMs": 850,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #186: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #187: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+      "boostAmount": 100,
+      "totalBoostAmount": 710,
+      "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
+      "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "8ek2qvnarCmbJmJTw6yWmP3wCMhBJjK12Qdkw4TNpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "METH MINERS: 25 PACKS, ONE PAYS OUT EVERY 30 MINUTES",
       "url": "https://dexscreener.com/ethereum/0x22cf03da665b4d1459a56dd09dbc069935d16b37"
-    },
-    {
-      "chainId": "ethereum",
-      "tokenAddress": "0x006fcd0160b699D8869851F5cc0603dE3FAfAa70",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "Deference is the marketplace for LLM credits on Ethereum.\n\nHold $DEFERENCE. Earn $INFERENCE from trading fees (hourly).\n\n$INFERENCE is tokenized inference — $1 ",
-      "url": "https://dexscreener.com/ethereum/0x006fcd0160b699d8869851f5cc0603de3fafaa70"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Bump source-map-js from 1.2.1 to 1.2.2",
+      "url": "https://github.com/willyfromtheblock/peercoinexplorer.net-faucet/pull/73",
+      "createdAt": "2026-10-12T11:09:52Z"
+    },
+    {
+      "title": "Route Arbitrum USDC to Acki Nacki through Circle CCTP, with AAVE on Sepolia",
+      "url": "https://github.com/gosh-sh/bridge/pull/114",
+      "createdAt": "2026-10-16T23:32:10Z"
+    },
+    {
+      "title": "Kimi K3 support",
+      "url": "https://github.com/tpurtell/cuteafd/issues/273",
+      "createdAt": "2026-10-15T06:49:01Z"
+    },
+    {
+      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
+      "createdAt": "2026-10-07T00:07:47Z"
+    },
+    {
       "title": "fix(ci): stop check.sh failing when the journeys are needed without the matrix",
       "url": "https://github.com/s3anstanz/Bloom/pull/24",
       "createdAt": "2026-10-20T19:09:34Z"
@@ -273,26 +293,6 @@
       "title": "Milestone #20: atomically commit fee-funded AI receipts as replayable local blocks",
       "url": "https://github.com/jihadelsayed/AivoBlock/pull/20",
       "createdAt": "2026-10-20T19:02:31Z"
-    },
-    {
-      "title": "Chore: Update dependency lucide-react to v1.60.0",
-      "url": "https://github.com/RetroDadson/PS2-Challenge-Website/pull/164",
-      "createdAt": "2026-09-03T02:08:10Z"
-    },
-    {
-      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
-      "createdAt": "2026-10-07T00:07:47Z"
-    },
-    {
-      "title": "Kimi K3 support",
-      "url": "https://github.com/tpurtell/cuteafd/issues/273",
-      "createdAt": "2026-10-15T06:49:01Z"
-    },
-    {
-      "title": "EPIC: reprendre toutes les PRs mergees sans tenir compte des nits de review (incident #10761)",
-      "url": "https://github.com/jsboige/CoursIA/issues/11044",
-      "createdAt": "2026-08-15T12:07:44Z"
     }
   ]
 }
