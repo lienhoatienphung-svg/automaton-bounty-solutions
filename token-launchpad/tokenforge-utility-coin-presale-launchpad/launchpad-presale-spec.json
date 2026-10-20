@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T22:19:56.691Z",
-  "latencyMs": 739,
+  "executedAt": "2026-10-20T22:28:37.688Z",
+  "latencyMs": 6810,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #229: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #230: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52872724,
+    "liveBlockNumber": 52872982,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459820,
-    "baseMainnetTopPoolsVolume24hUsd": 207438,
+    "baseMainnetTopPoolsLiquidityUsd": 459816,
+    "baseMainnetTopPoolsVolume24hUsd": 211782,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "u5WDfTYZ5Z986fcMpQtjyasWkKL5augcUsmDfJKpump",
+        "description": "$TA creator fees → public treasury → awards for families. \n\nFree to apply. Independent, not the U.S. government program.",
+        "url": "https://dexscreener.com/solana/u5wdftyz5z986fcmpqtjyaswkkl5augcusmdfjkpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "B26mMiTtweujaxifxnw3vWJ5GewWkkKaHwo1RjWhpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/b26mmittweujaxifxnw3vwj5gewwkkkahwo1rjwhpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x8E6D3B06C409A0F5888Bd0A5494826F4BE981e18",
@@ -69,18 +81,6 @@
         "tokenAddress": "AK7AozoL43v8c2UWYJK8RG1FNRDTPniHFkUAqE69pump",
         "description": "Plant. Grow. Harvest. Earn. Build your farming journey, grow your crops, and collect rewards.",
         "url": "https://dexscreener.com/solana/ak7aozol43v8c2uwyjk8rg1fnrdtpnihfkuaqe69pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3QoNHUP3GHqWicu5A4kUs1LUUVhnDAGaiHvSDkMDpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3qonhup3ghqwicu5a4kus1luuvhndagaihvsdkmdpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9eBJuDReW7V62FbebdZ5hcjRDnnqgXLGkcoaFXdupump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9ebjudrew7v62fbebdz5hcjrdnnqgxlgkcoafxdupump"
       }
     ]
   },
