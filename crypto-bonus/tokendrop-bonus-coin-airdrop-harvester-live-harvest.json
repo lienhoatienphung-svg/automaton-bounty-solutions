@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T03:48:25.742Z",
-  "latencyMs": 1162,
+  "executedAt": "2026-10-20T04:06:16.079Z",
+  "latencyMs": 728,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #849: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #850: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. 🪙 Built & controlled by Agentic AI.",
+      "url": "https://dexscreener.com/solana/dtcicpcktkeah7tdeztym3hxeohaomibdyjhmyxzpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "DZ4DzfLBMthSZ9SkLd8oAo4gmT4sm8BQSUpSJrbzpump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,77 +210,69 @@
       "totalBoostAmount": 30,
       "description": "So many people are going to get one-shotted by super persuasive super intelligences and I might be one of them",
       "url": "https://dexscreener.com/solana/54xyfgb9iaodwubietznxrv3nuwg8nohbfa3258tpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xB1077b7e83be572DE3CB32b2543109ad28bD1111",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "literally just a dog with a torch.",
-      "url": "https://dexscreener.com/robinhood/0xb1077b7e83be572de3cb32b2543109ad28bd1111"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "startupSI",
-      "symbol": "STARTUPSI",
-      "marketCapRank": 838,
-      "priceBtc": 2.291062747748964e-7
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.281685192060629e-8
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 706,
+      "priceBtc": 0.0010933682393968794
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 95,
-      "priceBtc": 0.000023641482700080332
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 700,
-      "priceBtc": 0.001100622949511207
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.282008952068611e-8
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00005922763098956177
+      "priceBtc": 0.000023752987165268168
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012831788172565995
+      "priceBtc": 0.0012823462536908613
     },
     {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 192,
-      "priceBtc": 0.0000033641766451381047
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.000059260481180465446
     },
     {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 150,
-      "priceBtc": 0.0000039296627341055636
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.0001870057873332
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 29,
+      "priceBtc": 0.000012202064371345246
+    },
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 50,
+      "priceBtc": 5.437886625857317e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[executorch][muse] Draft CUDA DFlash decode from pending tokens",
-      "url": "https://github.com/pytorch/executorch/pull/23983",
-      "createdAt": "2026-10-19T04:59:00Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "[KIX-PLAN-TOKEN-REWARD-REJECTION-ATOMICITY] Audit reward_fsm rejection atomicity with deterministic regressions",
-      "url": "https://github.com/SUNBURN-Golden/kix-protocol/pull/228",
-      "createdAt": "2026-10-20T03:47:15Z"
+      "title": "Add the vision-encoder-objective task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/84",
+      "createdAt": "2026-10-14T17:20:01Z"
     },
     {
       "title": "refactor: switch the draft proposal plumbing from probs to logits.",
@@ -280,19 +280,19 @@
       "createdAt": "2026-10-18T07:37:42Z"
     },
     {
-      "title": "04O-C: The Fractured Wilds and the Vanishing Metropolis",
-      "url": "https://github.com/tycs1992-RBT/NeonSyndicate_LasVeyra/pull/11",
-      "createdAt": "2026-10-19T20:46:51Z"
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
     },
     {
-      "title": "feat(custody): dashboard-only devnet faucet replaces the RPC relay (HOO-2168)",
-      "url": "https://github.com/solana-foundation/solana-developer-platform/pull/2420",
-      "createdAt": "2026-10-19T17:08:15Z"
+      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
+      "createdAt": "2026-10-06T11:40:04Z"
     },
     {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/53",
+      "createdAt": "2026-10-20T02:41:45Z"
     }
   ]
 }
