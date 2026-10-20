@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T16:28:08.255Z",
-  "latencyMs": 363,
+  "executedAt": "2026-10-20T16:29:17.978Z",
+  "latencyMs": 506,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #142: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #143: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52862170,
+    "liveBlockNumber": 52862205,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459641,
-    "baseMainnetTopPoolsVolume24hUsd": 220144,
+    "baseMainnetTopPoolsVolume24hUsd": 219485,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5NqtT3jdHXSZ6bHjyZ1X8edg1vUoMPovqJH8gkHYpump",
+        "description": "Introducing Pull Protection: Collector Crypt packs with a safety net.\n\nRipping packs is fun until the card is worth less than you paid. Hold our token and get p",
+        "url": "https://dexscreener.com/solana/5nqtt3jdhxsz6bhjyz1x8edg1vuompovqjh8gkhypump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HdZQD8Q6AhJUzLx1Tx4xdftRXqC9qQ6WtR4N6N8Ppump",
+        "description": "Welcome to Packmon Arena!\n\nRip packs. Build your team. Battle other players.\n\nExplore a pixel world where collectors meet, rivals face off, and real cards are o",
+        "url": "https://dexscreener.com/solana/hdzqd8q6ahjuzlx1tx4xdftrxqc9qq6wtr4n6n8ppump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HtQgo5Ap8T3Ta3Godvyb4X4TqLCgxnNDjDCvNxuqpump",
+        "description": "anon cat $zCAT",
+        "url": "https://dexscreener.com/solana/htqgo5ap8t3ta3godvyb4x4tqlcgxnndjdcvnxuqpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x4Fd84A7e35854d9c84A9CC93FFc3C52e951Dfc1e",
@@ -63,24 +81,6 @@
         "tokenAddress": "EnLwWRDPDY5SYdsCuea9T7PhhZCD2kTEW1pDdfgPpump",
         "description": "A Pokémon MMO in your browser. $VOXMON",
         "url": "https://dexscreener.com/solana/enlwwrdpdy5sydscuea9t7phhzcd2ktew1pddfgppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7gUDvf45et6627atavR45Md4BjgYqJHMZe9EPqeR9Sya",
-        "description": "Launch a coin and airdrop bags all over the world.",
-        "url": "https://dexscreener.com/solana/7gudvf45et6627atavr45md4bjgyqjhmze9epqer9sya"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0xF7CcC7D9674fb4E1233D8bEA613712C910857777",
-        "description": "agentic inu",
-        "url": "https://dexscreener.com/bsc/0xf7ccc7d9674fb4e1233d8bea613712c910857777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4BvmEvweKghzEWRa1MuoMFwTpYrxTTN5411eBozBpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4bvmevwekghzewra1muomfwtpyrxttn5411ebozbpump"
       }
     ]
   },
