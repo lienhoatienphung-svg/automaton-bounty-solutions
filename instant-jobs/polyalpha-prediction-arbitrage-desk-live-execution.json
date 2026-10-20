@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T06:03:56.454Z",
-  "latencyMs": 856,
+  "executedAt": "2026-10-20T06:06:21.053Z",
+  "latencyMs": 649,
   "companyName": "PolyAlpha Prediction & Arbitrage Desk",
-  "workTitle": "Growth & Sales Sprint #884: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
-  "targetUrl": "https://polymarket.com/event/natoeu-troops-fighting-in-ukraine-in-2025",
+  "workTitle": "Delivery Sprint #885: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "targetUrl": "https://polymarket.com/event/china-x-india-military-clash-by-december-31",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.0000085,
+        "priceUsd": 1.0000086,
         "liquidityUsd": 21384,
-        "volume24hUsd": 76653,
+        "volume24hUsd": 76637,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -122,14 +122,89 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000047,
         "liquidityUsd": 12034,
-        "volume24hUsd": 1118,
+        "volume24hUsd": 1115,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 5,
+    "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Sothebyâs",
+        "roleOrTask": "Senior Software Engineer",
+        "industryTags": [
+          "golang",
+          "dev",
+          "senior",
+          "sales",
+          "engineer"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Rain",
+        "roleOrTask": "Senior Backend Engineer",
+        "industryTags": [
+          "golang",
+          "finance",
+          "mobile",
+          "senior",
+          "medical"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Curtins",
+        "roleOrTask": "Graduate Transport Planner",
+        "industryTags": [
+          "hr",
+          "education",
+          "consulting",
+          "technical",
+          "customer support"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Packmatic GmbH",
+        "roleOrTask": "Key Account Manager Danish Market Native Speaker Copenhagen",
+        "industryTags": [
+          "exec",
+          "saas",
+          "technical",
+          "marketing",
+          "travel"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Yuno",
+        "roleOrTask": "Technical Account Manager",
+        "industryTags": [
+          "exec",
+          "design",
+          "hr",
+          "python",
+          "technical"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "Arbeitnow-GlobalB2B",
         "company": "ADMKRS GmbH",
