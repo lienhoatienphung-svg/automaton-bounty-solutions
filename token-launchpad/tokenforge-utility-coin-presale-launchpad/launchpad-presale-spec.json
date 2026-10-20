@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T21:25:37.240Z",
-  "latencyMs": 341,
+  "executedAt": "2026-10-20T21:32:27.006Z",
+  "latencyMs": 734,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #217: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #218: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52871095,
+    "liveBlockNumber": 52871299,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,40 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 460395,
-    "baseMainnetTopPoolsVolume24hUsd": 214312,
+    "baseMainnetTopPoolsLiquidityUsd": 460288,
+    "baseMainnetTopPoolsVolume24hUsd": 214249,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "F76uwM4v1FoYRFfMEBiT49WTSMxiZcT8XNYoXdrENYdR",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/f76uwm4v1foyrffmebit49wtsmxizct8xnyoxdrenydr"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FBwFZUFehJ3ESQmBfaHzc39P1Msqn8LB7FVQDKaenCpE",
+        "description": "DoggyCoin One of Gta's most important missions as told by a long time gta fan account with 230k followers.",
+        "url": "https://dexscreener.com/solana/fbwfzufehj3esqmbfahzc39p1msqn8lb7fvqdkaencpe"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2yEqrg7mpTw51rgkfvN7hPztdjdvYzA352nHw89Fpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2yeqrg7mptw51rgkfvn7hpztdjdvyza352nhw89fpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6zGnm41C6rC7hDY5muLBS7adagZVMtUzBCUbwFGCpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6zgnm41c6rc7hdy5mulbs7adagzvmtuzbcubwfgcpump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0xFDAa78896D09E4090c7789690D4bf50a5AE016d5",
+        "description": "An autonomous on-chain mining system where locked tokens generate power, rewards flow continuously, and emissions decrease with every passing cycle",
+        "url": "https://dexscreener.com/ethereum/0xfdaa78896d09e4090c7789690d4bf50a5ae016d5"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7eNW16psRtuVvXK9JxLvnMsZkGbpJkh5HEsf57wbyjAy",
@@ -51,36 +81,6 @@
         "tokenAddress": "5SWejcBKBV6xzagLhdB2yoXnnPLgeRkJrGEF4EsFtXkH",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/5swejcbkbv6xzaglhdb2yoxnnplgerkjrgef4esftxkh"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GL4SNrzNSUF13tjW4hubfxh8eyjzrBVpjUS59qpmqCYq",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/gl4snrznsuf13tjw4hubfxh8eyjzrbvpjus59qpmqcyq"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8mnc8YdDjkM5mJXonYEZcrvjcD4w2jeLUs6p77Fdpump",
-        "description": "AI launchpad with hooks, arena and on-chain agents on @Solana.",
-        "url": "https://dexscreener.com/solana/8mnc8yddjkm5mjxonyezcrvjcd4w2jelus6p77fdpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "rHWVGNmhuzHZRXRj15A6rZz9KTbSkYMUBB9spSzpump",
-        "description": "This is the OFFICIAL PSA10 coin.",
-        "url": "https://dexscreener.com/solana/rhwvgnmhuzhzrxrj15a6rzz9ktbskymubb9spszpump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x8679fF5D5320fDd05eF4Dba9038698f95204E76C",
-        "description": "Advanced DeAI infrastructure powering custom autonomous agent deployment, confidential reasoning, and deterministic risk protection via Cryptic Vaults across 6 ",
-        "url": "https://dexscreener.com/ethereum/0x8679ff5d5320fdd05ef4dba9038698f95204e76c"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xb11384A6ac2b3708E3d25A834c8a88687Accbcd1",
-        "description": "Private and uncensored AI meets limitless creation. Chat with powerful models.",
-        "url": "https://dexscreener.com/robinhood/0xb11384a6ac2b3708e3d25a834c8a88687accbcd1"
       }
     ]
   },
