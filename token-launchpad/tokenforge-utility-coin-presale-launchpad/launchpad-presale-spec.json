@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T16:42:30.172Z",
-  "latencyMs": 592,
+  "executedAt": "2026-10-20T16:48:22.497Z",
+  "latencyMs": 261,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #147: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #148: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52862601,
-    "liveGasPriceGwei": 0.006,
+    "liveBlockNumber": 52862777,
+    "liveGasPriceGwei": 0.0062,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -30,10 +30,46 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459640,
-    "baseMainnetTopPoolsVolume24hUsd": 221612,
+    "baseMainnetTopPoolsLiquidityUsd": 460395,
+    "baseMainnetTopPoolsVolume24hUsd": 221853,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "dirtyy3qnswmRjt6gzCTrwgYpVRgD7DGTyiJTZrQ85Q",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/dirtyy3qnswmrjt6gzctrwgypvrgd7dgtyijtzrq85q"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4VPbDqHHoXtNVQcxeYJ5EjUduh6ZkFD3cU1deoVMpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4vpbdqhhoxtnvqcxeyj5ejuduh6zkfd3cu1deovmpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6ceuPfcE67PLs3Z6CbJpFpqNyAevVocP2zsDkbM1pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6ceupfce67pls3z6cbjpfpqnyaevvocp2zsdkbm1pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7pdf2FPZmtWSrjheZkra6gLjkCK92mWCoLcvFC9jpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7pdf2fpzmtwsrjhezkra6gljkck92mwcolcvfc9jpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9Ey8gTfAnFCzQeuXBhKSJm6Ez625e8h6ZTSqwCatpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9ey8gtfanfczqeuxbhksjm6ez625e8h6ztsqwcatpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x4Fe9f3823791c8b187B81aB8B7398d793FEd28f6",
+        "description": "underground music made by the market · every swap is a note · $IDM on RH, launched with IMD",
+        "url": "https://dexscreener.com/robinhood/0x4fe9f3823791c8b187b81ab8b7398d793fed28f6"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BYFXauqtWiRvr7dK7caVnsoK8eQJjBcu4KvWgiA9pump",
@@ -45,42 +81,6 @@
         "tokenAddress": "2fnH6TAvpSKSjJWzr78vvnkJZVTnNhaWSY6twtvFpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/2fnh6tavpsksjjwzr78vvnkjzvtnnhawsy6twtvfpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HLPuUk7Rwk8133oGdewTMoWtusz5ZQLraLJpYqa5pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hlpuuk7rwk8133ogdewtmowtusz5zqlraljpyqa5pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x78D5E70ea8EbDcA8da3aBE485D50f234e06c71D2",
-        "description": "Create on-chain with a transparent bonding curve. Every trade follows the same on-chain rules.",
-        "url": "https://dexscreener.com/robinhood/0x78d5e70ea8ebdca8da3abe485d50f234e06c71d2"
-      },
-      {
-        "chainId": "pulsechain",
-        "tokenAddress": "0xfC5936e6987227D21B26E927a5d9ea168F1a0262",
-        "description": "FREE RICHARD HEART!\n#FREERH",
-        "url": "https://dexscreener.com/pulsechain/0xfc5936e6987227d21b26e927a5d9ea168f1a0262"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3xr8F1c8XcNJCFtzJgEAV8kNGrdJxU4sdidZFiWBpump",
-        "description": "The Solana launchpad where every coin gets its own Parlay market.",
-        "url": "https://dexscreener.com/solana/3xr8f1c8xcnjcftzjgeav8kngrdjxu4sdidzfiwbpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2HPNEWcxDDnLhdSmfsNPf6TC1byJXPNj6mczqY5ymeta",
-        "description": "DRAWUP is a gacha for prop-firm trading challenges: pay for a draw, get a challenge for a random account size, pass it to trade a funded account.",
-        "url": "https://dexscreener.com/solana/2hpnewcxddnlhdsmfsnpf6tc1byjxpnj6mczqy5ymeta"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ChZfQ7Bz3RXJQjWU5WioM3cSdZLrP9foQMsghHM4pump",
-        "description": "Pokémon, recreated for memecoins. Catch real memecoins on Pumpémon and get paid instantly to your wallet. No wallet connect needed.",
-        "url": "https://dexscreener.com/solana/chzfq7bz3rxjqjwu5wiom3csdzlrp9foqmsghhm4pump"
       }
     ]
   },
