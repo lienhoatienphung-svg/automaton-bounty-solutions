@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T12:55:21.087Z",
-  "latencyMs": 875,
+  "executedAt": "2026-10-20T12:56:01.047Z",
+  "latencyMs": 857,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #76: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #77: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "rewardkit: record each judge's token usage in reward-details",
+      "url": "https://github.com/Originator-Inc/harbor/pull/86",
+      "createdAt": "2026-10-20T12:55:50Z"
+    },
+    {
+      "title": "feat(bridge-in): offer the listed and held ERC-20s in the AggLayer deposit picker",
+      "url": "https://github.com/0xMiden/wallet/pull/1657",
+      "createdAt": "2026-10-20T12:48:02Z"
+    },
+    {
       "title": "fix(deps): update dependency lucide-react to v1",
       "url": "https://github.com/kairos-io/AuroraBoot/pull/926",
       "createdAt": "2026-10-08T04:23:24Z"
@@ -283,16 +293,6 @@
       "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
       "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
       "createdAt": "2026-10-11T10:45:50Z"
-    },
-    {
-      "title": "[Ops] Muse ↔ Grok.btc direct line",
-      "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
-      "createdAt": "2026-09-13T13:56:58Z"
-    },
-    {
-      "title": "Kimi K3 support",
-      "url": "https://github.com/tpurtell/cuteafd/issues/273",
-      "createdAt": "2026-10-15T06:49:01Z"
     }
   ]
 }
