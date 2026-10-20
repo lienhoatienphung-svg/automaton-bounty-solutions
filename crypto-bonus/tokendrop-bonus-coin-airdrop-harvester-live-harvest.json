@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T17:36:59.715Z",
-  "latencyMs": 1379,
+  "executedAt": "2026-10-20T17:37:50.957Z",
+  "latencyMs": 1105,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #162: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #163: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x78D5E70ea8EbDcA8da3aBE485D50f234e06c71D2",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Create on-chain with a transparent bonding curve. Every trade follows the same on-chain rules.",
+      "url": "https://dexscreener.com/robinhood/0x78d5e70ea8ebdca8da3abe485d50f234e06c71d2"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "G6dHfpt5nD77RBNgoKSMkSuH8KFHQif3KTPge9A2pump",
       "boostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 610,
       "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
       "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. 🪙 Built & controlled by Agentic AI.",
-      "url": "https://dexscreener.com/solana/dtcicpcktkeah7tdeztym3hxeohaomibdyjhmyxzpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,9 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Reworked the question requirements, AI answers, and copy",
-      "url": "https://github.com/BuidlGuidl/learning-lab/pull/100",
-      "createdAt": "2026-10-20T14:59:00Z"
+      "title": "test: every error code has a test that triggers it; ci: deny unwrap/expect; ci: reproducible build; docs: publish cargo doc",
+      "url": "https://github.com/Godgift-care/sci-healthcare-contracts/pull/149",
+      "createdAt": "2026-10-20T17:28:44Z"
+    },
+    {
+      "title": "[Engine] Remote stage: run the later layers of a layer split on other PCs, over TCP (opt-in; Linux and Windows; Qwen3.8-Flash-Next)",
+      "url": "https://github.com/Niko1221/Strata/pull/1748",
+      "createdAt": "2026-10-09T18:04:44Z"
     },
     {
       "title": "Submit Your MCP Servers here",
@@ -288,11 +293,6 @@
       "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
       "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
       "createdAt": "2026-09-23T12:34:40Z"
-    },
-    {
-      "title": "feat(prices): price verified tokens through Binance USD markets",
-      "url": "https://github.com/0xMiden/wallet/pull/1661",
-      "createdAt": "2026-10-20T17:30:43Z"
     }
   ]
 }
