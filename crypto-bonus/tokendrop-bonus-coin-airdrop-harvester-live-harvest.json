@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T18:38:18.842Z",
-  "latencyMs": 1081,
+  "executedAt": "2026-10-20T18:39:49.418Z",
+  "latencyMs": 841,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #178: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #179: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(hip-3-pusher): Add Testnet Drip Script and Fix Scripts",
+      "url": "https://github.com/pyth-network/pyth-crosschain/pull/3568",
+      "createdAt": "2026-03-20T23:26:50Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide-react to v1.60.0",
+      "url": "https://github.com/dtsong/tcg-scout/pull/153",
+      "createdAt": "2026-04-09T08:50:55Z"
+    },
+    {
       "title": "⬆️ Update dependency lucide-react to v1",
       "url": "https://github.com/ikifar2012/publicipme-site/pull/815",
       "createdAt": "2026-03-23T17:31:37Z"
@@ -283,16 +293,6 @@
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1.60.0",
-      "url": "https://github.com/dtsong/tcg-scout/pull/153",
-      "createdAt": "2026-04-09T08:50:55Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/SamuelAlev/dotjs-to-react/pull/138",
-      "createdAt": "2026-03-23T22:01:24Z"
     }
   ]
 }
