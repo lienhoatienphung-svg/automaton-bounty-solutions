@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T12:56:57.313Z",
-  "latencyMs": 469,
+  "executedAt": "2026-10-20T12:58:30.147Z",
+  "latencyMs": 262,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #76: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #77: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52855835,
+    "liveBlockNumber": 52855881,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 450119,
-    "baseMainnetTopPoolsVolume24hUsd": 199997,
+    "baseMainnetTopPoolsVolume24hUsd": 199953,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9oAeUdPB8xbZJoP2F12h4HRYvkHaUEojVFQbaTgbpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9oaeudpb8xbzjop2f12h4hryvkhaueojvfqbatgbpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xD79eb5D4EdF7bd843eeF5109F1a1FF5C96b17948",
+        "description": "Intelligence for cross-border identity, trust, and agentic finance",
+        "url": "https://dexscreener.com/robinhood/0xd79eb5d4edf7bd843eef5109f1a1ff5c96b17948"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "AJqeh2WQst7wd4XipvV7fvrKCyHaN4qdmzZsacHHpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0xf9C1BB763520B4826714eA410695DD7076987777",
         "description": "As a sign of sincere gratitude, respect, and friendship, the Kainar Foundation presented Changpeng Zhao with a special gift: a beautiful black taigan named Baky",
         "url": "https://dexscreener.com/bsc/0xf9c1bb763520b4826714ea410695dd7076987777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EwsfUMBHcjChH8YoJ8EAfqkKy5eDXWwgm2cwKJsapump",
-        "description": "PI era now",
-        "url": "https://dexscreener.com/solana/ewsfumbhcjchh8yoj8eafqkky5edxwwgm2cwkjsapump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8wbPTbMDPvBcrfWzbcYi4Xutk8rH3FDeLSWZwfGZpump",
-        "description": "age of abundance",
-        "url": "https://dexscreener.com/solana/8wbptbmdpvbcrfwzbcyi4xutk8rh3fdelswzwfgzpump"
       }
     ]
   },
