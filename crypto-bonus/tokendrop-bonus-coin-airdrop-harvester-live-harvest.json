@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T15:49:10.720Z",
-  "latencyMs": 1554,
+  "executedAt": "2026-10-20T15:55:36.043Z",
+  "latencyMs": 1080,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #133: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #134: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "ttH5rJWVxCFBdjd3x2AnBxtYDJtRCFa9ty4QpmUpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "$ROULANA is the coin of Roulana: live multiplayer European roulette on Solana, played with real USDC at one 3D table. Every round with money on it is drawn and ",
+      "url": "https://dexscreener.com/solana/tth5rjwvxcfbdjd3x2anbxtydjtrcfa9ty4qpmupump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "EGGU is an independent Solana community token paired directly with PENGU.\n🥚 EGGU → 🐧 PENGU\nThrough StonkFun’s built-in reward system, eligible EGGU holders ca",
       "url": "https://dexscreener.com/solana/49vznzqvkcsgajj8k9xrezdztlrdv5rzn9yythg53czn"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "ESnW5ZbLmoEAg2QEMxnMsY9R3aS8Kw58HJacYURmpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/esnw5zblmoeag2qemxnmsy9r3as8kw58hjacyurmpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.000026610752781417918
+      "priceBtc": 0.000026307288293017965
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010373139794398483
+      "priceBtc": 0.000010320511661139457
     },
     {
       "name": "Worldcoin",
       "symbol": "WLD",
       "marketCapRank": 48,
-      "priceBtc": 0.00000683007450925326
+      "priceBtc": 0.00000682746522926586
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9998097570125426
+      "priceBtc": 0.9971289838722744
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 705,
-      "priceBtc": 0.0010928949883804622
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.000058238923606045086
+      "marketCapRank": 731,
+      "priceBtc": 0.001044981340681484
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
       "marketCapRank": 145,
-      "priceBtc": 0.000004012770251317578
+      "priceBtc": 0.000004017028815158542
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 21,
+      "priceBtc": 0.00005795797005275202
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 84,
-      "priceBtc": 0.00010402316248292794
+      "priceBtc": 0.00010344242269004326
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore(release): prepare the crates for crates.io",
-      "url": "https://github.com/zhangheqi/worgl/pull/50",
-      "createdAt": "2026-10-20T13:08:39Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "feat(server): relayer daily gas budget with circuit breaker (#76)",
-      "url": "https://github.com/bytesbrains/16ane/pull/83",
-      "createdAt": "2026-10-20T15:47:30Z"
+      "title": "feat(server): add interval and mempool-triggered mining modes",
+      "url": "https://github.com/zcashlabs/thus-spoke-zakura/pull/312",
+      "createdAt": "2026-10-14T16:27:43Z"
     },
     {
-      "title": "[CVL2-RESEARCH][AGENTE-05] Projetos 7, 19, 6, 3, 21",
-      "url": "https://github.com/matheus-junio-da-silva/Web3Bugs/pull/40",
-      "createdAt": "2026-10-19T16:56:21Z"
+      "title": "📦 Pending promotion: dev → main",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
+      "createdAt": "2026-06-29T11:18:37Z"
     },
     {
-      "title": "feat(dev_tools): add PromptSearchOptimizer, a multi-candidate prompt-…",
-      "url": "https://github.com/openJiuwen-ai/agent-core/pull/1008",
-      "createdAt": "2026-08-30T15:06:46Z"
+      "title": "🤝 Agent coordination channel (standing, vol. 2)",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
+      "createdAt": "2026-09-20T06:23:41Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/nestjs/enterprise.nestjs.com/pull/120",
+      "createdAt": "2026-09-14T11:07:56Z"
     },
     {
       "title": "CC-CEDICT: Latin words and kana runs split into many unknown words",
       "url": "https://github.com/lindera/lindera/issues/1128",
       "createdAt": "2026-10-06T12:01:50Z"
-    },
-    {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/descope-sample-apps/docs-gpt/pull/97",
-      "createdAt": "2026-03-26T19:42:07Z"
     }
   ]
 }
