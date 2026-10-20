@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T14:01:23.393Z",
-  "latencyMs": 2064,
+  "executedAt": "2026-10-20T14:06:38.118Z",
+  "latencyMs": 1701,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #101: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #102: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "9m5hwLG4brTyZkEhtKvkzgFAbA7YxVvwPY1XuSpupump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "EVRYNTH is an AI powered utility agency and confidential marketplace on Solana.\nSpecialized AI agents turn user ideas into real products, including trading bots",
+      "url": "https://dexscreener.com/solana/9m5hwlg4brtyzkehtkvkzgfaba7yxvvwpy1xuspupump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "A shielded balance inside the wallet you already use. Zero-knowledge proofs, no new seed phrase.",
       "url": "https://dexscreener.com/solana/cygidbus8wwuxfzcmb98lnlgl9mx8svhdqa6t3xtloch"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "viral meme. 10M+ views. we’re all texcat.\neverything is fine.™",
-      "url": "https://dexscreener.com/solana/bdxflfcbde8yvpbvvmmgtduqcdesaqvum5xlxguc2s5t"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,57 +217,62 @@
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 92,
-      "priceBtc": 0.00002416711783177808
+      "marketCapRank": 94,
+      "priceBtc": 0.000024112248875187496
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 743,
-      "priceBtc": 0.0010217654390619517
-    },
-    {
-      "name": "Monero",
-      "symbol": "XMR",
-      "marketCapRank": 13,
-      "priceBtc": 0.007468660850404876
-    },
-    {
-      "name": "Janction",
-      "symbol": "JCT",
-      "marketCapRank": 435,
-      "priceBtc": 5.3842143697069386e-8
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.298879148785713e-8
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 21,
-      "priceBtc": 0.00005780169002597341
+      "priceBtc": 0.0010234786135067996
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
       "marketCapRank": 150,
-      "priceBtc": 0.000003884073184412527
+      "priceBtc": 0.000003901581087117268
     },
     {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 193,
-      "priceBtc": 0.0000033451790212645896
+      "name": "Janction",
+      "symbol": "JCT",
+      "marketCapRank": 430,
+      "priceBtc": 5.571657618144781e-8
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.304872928205097e-8
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 21,
+      "priceBtc": 0.00005794236741181466
+    },
+    {
+      "name": "Monero",
+      "symbol": "XMR",
+      "marketCapRank": 13,
+      "priceBtc": 0.007415623561670009
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.0018976803987034
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(oneplay): verify official skill hash and server-issued payloads",
-      "url": "https://github.com/imjlk/mpgd-kit/pull/401",
-      "createdAt": "2026-10-20T12:18:44Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/tobidope/jonathan-rechnen/pull/14",
+      "createdAt": "2026-06-06T09:47:03Z"
     },
     {
       "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
@@ -275,24 +280,19 @@
       "createdAt": "2026-10-16T09:56:24Z"
     },
     {
-      "title": "Add DeepSeek V4.1 Flash rank-32 LoRA recipe and 32K validation",
-      "url": "https://github.com/modal-projects/modal-dojo/pull/724",
-      "createdAt": "2026-10-20T13:55:51Z"
+      "title": "On-chain testnet settlement (NU7): escrow, real sighash, extraction, time-locked refund",
+      "url": "https://github.com/Godwin-web3/lintel/pull/5",
+      "createdAt": "2026-10-20T13:06:50Z"
     },
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/voku/itp-context_post/pull/17",
-      "createdAt": "2026-05-16T01:10:44Z"
+      "title": "Update dependency lucide-react to v1.60.0",
+      "url": "https://github.com/jmettler27/Pop/pull/283",
+      "createdAt": "2026-09-10T15:50:38Z"
     },
     {
-      "title": "feat(manager): pay for registrations with USDC bridged in from an L2",
-      "url": "https://github.com/ensdomains/apps-monorepo/pull/1395",
-      "createdAt": "2026-10-16T19:16:49Z"
-    },
-    {
-      "title": "chore(deps): update dependency ethers to v6",
-      "url": "https://github.com/paypr/message-contracts/pull/134",
-      "createdAt": "2023-02-03T05:56:09Z"
+      "title": "🤝 Agent coordination channel (standing, vol. 2)",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
+      "createdAt": "2026-09-20T06:23:41Z"
     }
   ]
 }
