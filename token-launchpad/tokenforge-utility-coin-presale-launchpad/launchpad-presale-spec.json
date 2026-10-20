@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T19:22:00.756Z",
-  "latencyMs": 268,
+  "executedAt": "2026-10-20T19:27:59.397Z",
+  "latencyMs": 334,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #187: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #188: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52867386,
-    "liveGasPriceGwei": 0.0064,
+    "liveBlockNumber": 52867566,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 460394,
-    "baseMainnetTopPoolsVolume24hUsd": 209400,
+    "baseMainnetTopPoolsLiquidityUsd": 460395,
+    "baseMainnetTopPoolsVolume24hUsd": 211874,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GWfA58i1zzcwgB4C5UCrRoSod35on5mrCPipqM8poot",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gwfa58i1zzcwgb4c5ucrrosod35on5mrcpipqm8poot"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DvbZTjVZ8So6fwuDbi1DjK7xCHoP9wc8QPbZZbjjpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "DsF3U9855VENohikKhttVMcv6TRzQWbNbNCpaxVozLwe",
         "description": "We live in a time where everything is digitized; bring back physical media.",
         "url": "https://dexscreener.com/solana/dsf3u9855venohikkhttvmcv6trzqwbnbncpaxvozlwe"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "93iqi7JSBc5jbNWjNZqs7nqFWaEaLzPxmPYLvnVspump",
-        "description": "the perfect entry for everyone.",
-        "url": "https://dexscreener.com/solana/93iqi7jsbc5jbnwjnzqs7nqfwaealzpxmpylvnvspump"
       }
     ]
   },
