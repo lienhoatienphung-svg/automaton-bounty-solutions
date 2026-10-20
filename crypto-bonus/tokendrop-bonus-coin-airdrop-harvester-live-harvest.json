@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T03:06:09.936Z",
-  "latencyMs": 1031,
+  "executedAt": "2026-10-20T03:08:35.675Z",
+  "latencyMs": 724,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #844: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #845: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "AjhU1JdT7M6tR3gCu4Zqq37ez8H65jBbaszjfb27pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/ajhu1jdt7m6tr3gcu4zqq37ez8h65jbbaszjfb27pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "5EdajXG624C7uVLArueGjFxEAdbJnSs12orQJ8RZpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 200,
       "description": "Nobody knows where OWOWO came from.\n\nNo roadmap. No promises. Just vibes and a stare you can’t unsee.",
       "url": "https://dexscreener.com/robinhood/0xa01ff10774cfe53c3fbc1d7d124c42e19f6afcbd"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "Bvcpk7xA48ffampDuKpFjNG7LPBcJYCojC6XUVKLBbVH",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Oldest pikachu coin and it's a mix with inu, the two main runners in a og coin.",
-      "url": "https://dexscreener.com/solana/bvcpk7xa48ffampdukpfjng7lpbcjycojc6xuvklbbvh"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -263,5 +263,36 @@
       "priceBtc": 0.000003887633192846421
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "radius-cli: report waiting and progress to the terminal (OSC 7501)",
+      "url": "https://github.com/radiustechsystems/tools/pull/86",
+      "createdAt": "2026-10-19T23:44:07Z"
+    },
+    {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
+      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
+      "createdAt": "2026-10-06T11:40:04Z"
+    },
+    {
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
+    },
+    {
+      "title": "SF-059: export scoped component and device metrics to CloudWatch",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/149",
+      "createdAt": "2026-10-19T21:42:32Z"
+    },
+    {
+      "title": "Add evolutionary-optimization-llms-long-horizon task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/94",
+      "createdAt": "2026-10-18T10:27:55Z"
+    }
+  ]
 }
