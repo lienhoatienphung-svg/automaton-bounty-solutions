@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-20T12:45:38.095Z",
-  "latencyMs": 10003,
+  "executedAt": "2026-10-20T12:50:40.277Z",
+  "latencyMs": 1301,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #73: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #74: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "agent: let observers read other users' conversations",
+          "url": "https://github.com/sixb-ai/sixb/pull/825",
+          "repositoryUrl": "https://api.github.com/repos/sixb-ai/sixb",
+          "updatedAt": "2026-10-20T12:50:35Z"
+        },
+        {
+          "title": "feat: scope restricted s3 access and inherit output restrictions",
+          "url": "https://github.com/METR/hawk/pull/1954",
+          "repositoryUrl": "https://api.github.com/repos/METR/hawk",
+          "updatedAt": "2026-10-20T12:50:35Z"
+        },
+        {
+          "title": "Test negative stock delta against missing stock rows",
+          "url": "https://github.com/hosamayoub94-source/lowes-app-web/pull/71",
+          "repositoryUrl": "https://api.github.com/repos/hosamayoub94-source/lowes-app-web",
+          "updatedAt": "2026-10-20T12:50:34Z"
+        },
+        {
+          "title": "Add native mod menus, input, motion and outline text",
+          "url": "https://github.com/cinnabar-mc/cinnabar/pull/1626",
+          "repositoryUrl": "https://api.github.com/repos/cinnabar-mc/cinnabar",
+          "updatedAt": "2026-10-20T12:50:34Z"
+        },
+        {
+          "title": "chore(lockfile): update aws-lockfile #patch",
+          "url": "https://github.com/GlueOps/opentofu-module-aws-github-oidc/pull/40",
+          "repositoryUrl": "https://api.github.com/repos/GlueOps/opentofu-module-aws-github-oidc",
+          "updatedAt": "2026-10-20T12:50:34Z"
+        },
+        {
+          "title": "docs(sync): record final recovery evidence",
+          "url": "https://github.com/HamedMP/matrix-os/pull/1729",
+          "repositoryUrl": "https://api.github.com/repos/HamedMP/matrix-os",
+          "updatedAt": "2026-10-20T12:50:33Z"
+        },
+        {
+          "title": "Feat/ia issuer initiated merge",
+          "url": "https://github.com/SUNET/vc/pull/836",
+          "repositoryUrl": "https://api.github.com/repos/SUNET/vc",
+          "updatedAt": "2026-10-20T12:50:33Z"
+        },
+        {
+          "title": "LANG-133: Fix bot routing setup and busy-session response checks",
+          "url": "https://github.com/langbot-app/LangBot/pull/2728",
+          "repositoryUrl": "https://api.github.com/repos/langbot-app/LangBot",
+          "updatedAt": "2026-10-20T12:50:32Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
