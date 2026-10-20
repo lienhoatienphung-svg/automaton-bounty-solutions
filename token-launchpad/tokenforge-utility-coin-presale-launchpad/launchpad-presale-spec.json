@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T11:46:19.407Z",
-  "latencyMs": 561,
+  "executedAt": "2026-10-20T11:50:27.151Z",
+  "latencyMs": 468,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #49: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #50: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52853715,
+    "liveBlockNumber": 52853839,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 421196,
-    "baseMainnetTopPoolsVolume24hUsd": 186913,
+    "baseMainnetTopPoolsVolume24hUsd": 187405,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8izQ7qAhA6dnzUtmhb7VzCK5p6QrsA8DAtSfQeYbKjoe",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8izq7qaha6dnzutmhb7vzck5p6qrsa8datsfqeybkjoe"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "E8XoJg3A4YpYtbE6WfN6qWEcXmypLKSWzDkjga6Zpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "Gd6cpW5153N5tZRm83yQBYgr6AJqXuNBCTCU9TPYpump",
         "description": "A little chihuahua with an oversized cap and a seriously big attitude. Come for the dog. Stay for the pack.",
         "url": "https://dexscreener.com/solana/gd6cpw5153n5tzrm83yqbygr6ajqxunbctcu9tpypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3rNz6iJ8X1YLsvZBxo1U934qdccsyLsjAtPYicTnpump",
-        "description": "the US Government is developer an AI Superweapon \"worm-style\" agent called ECHOTRIBBLE",
-        "url": "https://dexscreener.com/solana/3rnz6ij8x1ylsvzbxo1u934qdccsylsjatpyictnpump"
       }
     ]
   },
