@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T01:00:34.126Z",
-  "latencyMs": 1377,
+  "executedAt": "2026-10-20T01:03:03.461Z",
+  "latencyMs": 399,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #826: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #827: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52834343,
+    "liveBlockNumber": 52834418,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440981,
-    "baseMainnetTopPoolsVolume24hUsd": 140426,
+    "baseMainnetTopPoolsVolume24hUsd": 137960,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6fzp9sPSJtwhTBr6gm2VRrAmKjW8ttd6AVWgH1S9pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6fzp9spsjtwhtbr6gm2vrramkjw8ttd6avwgh1s9pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BA9dMJJZ6ht5kj7Zutedtx5RZVckgHUJikVtAxKmpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x53a8211374a6517e520F07f1a12f7F91c4261252",
         "description": "Giving SpaceX Stock to millions of American children",
         "url": "https://dexscreener.com/robinhood/0x53a8211374a6517e520f07f1a12f7f91c4261252"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump",
-        "description": "Monero dog meme from an OG Monero Website. Real lore.",
-        "url": "https://dexscreener.com/solana/cv37zbhxdgza5cgeppjhshexz9jpslncwuaqrbgcpump"
       }
     ]
   },
