@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T03:26:35.312Z",
-  "latencyMs": 1444,
+  "executedAt": "2026-10-20T03:29:07.290Z",
+  "latencyMs": 775,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #846: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #847: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/hkzdfznkhzxd9agrdnpydv4it6lmaurjnprtj9wpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "AjhU1JdT7M6tR3gCu4Zqq37ez8H65jBbaszjfb27pump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "Monero dog meme from an OG Monero Website. Real lore.",
       "url": "https://dexscreener.com/solana/cv37zbhxdgza5cgeppjhshexz9jpslncwuaqrbgcpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xa01fF10774CFe53C3FBC1D7D124c42e19F6AfcBD",
-      "boostAmount": 100,
-      "totalBoostAmount": 200,
-      "description": "Nobody knows where OWOWO came from.\n\nNo roadmap. No promises. Just vibes and a stare you can’t unsee.",
-      "url": "https://dexscreener.com/robinhood/0xa01ff10774cfe53c3fbc1d7d124c42e19f6afcbd"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,9 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "[Bugfix] Preserve rejection sampler bonus tokens with padded inputs",
+      "url": "https://github.com/vllm-project/tpu-inference/pull/3854",
+      "createdAt": "2026-10-20T03:28:52Z"
+    },
+    {
       "title": "refactor: switch the draft proposal plumbing from probs to logits.",
       "url": "https://github.com/xLLM-AI/xllm/pull/2509",
       "createdAt": "2026-10-18T07:37:42Z"
+    },
+    {
+      "title": "Upgrade to Angular 22, rebuild the bonus tutorials, and deploy to Netlify",
+      "url": "https://github.com/mraible/ng-demo/pull/295",
+      "createdAt": "2026-10-15T15:03:46Z"
+    },
+    {
+      "title": "[Bug] Rejection sampler drops bonus tokens when padded rows reject",
+      "url": "https://github.com/vllm-project/tpu-inference/issues/3853",
+      "createdAt": "2026-10-20T03:12:46Z"
     },
     {
       "title": "feat(custody): dashboard-only devnet faucet replaces the RPC relay (HOO-2168)",
@@ -278,21 +293,6 @@
       "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
       "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
       "createdAt": "2026-10-07T16:13:30Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "Faturamento do ML + creditos do Flex (3 empresas): peca unica — AMB identica, Girassol ganha os creditos, GOOD ganha os dois",
-      "url": "https://github.com/dimarquesmachado-sys/Mover-Pedidos-Aguardando-x-Atendido/pull/720",
-      "createdAt": "2026-10-19T16:48:21Z"
-    },
-    {
-      "title": "feat(glm-5.3-flash): support PD disaggregation with MTP",
-      "url": "https://github.com/flytiger-eco/sglang-for-sail/pull/101",
-      "createdAt": "2026-10-19T06:14:25Z"
     }
   ]
 }
