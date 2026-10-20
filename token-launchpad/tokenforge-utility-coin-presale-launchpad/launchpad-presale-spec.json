@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T20:27:18.783Z",
-  "latencyMs": 722,
+  "executedAt": "2026-10-20T20:34:11.456Z",
+  "latencyMs": 345,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #203: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #204: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52869345,
+    "liveBlockNumber": 52869552,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 460395,
-    "baseMainnetTopPoolsVolume24hUsd": 211312,
+    "baseMainnetTopPoolsVolume24hUsd": 211352,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "H1fK1zrjVYeMs5FLGUDhqF34usz75UbVynKt4JHZpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/h1fk1zrjvyems5flgudhqf34usz75ubvynkt4jhzpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CoFrws7iXcSe7LeYPossgEmq11evr6LMuSSnt5Utdjpf",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cofrws7ixcse7leypossgemq11evr6lmussnt5utdjpf"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x3c8E2A03B8df7068FeA08E2c24701Ae619191111",
+        "description": "Agents Powered Analysis for onchain projects",
+        "url": "https://dexscreener.com/robinhood/0x3c8e2a03b8df7068fea08e2c24701ae619191111"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HVqaNFwb1sNjVLawTwz7bWUAcgn9V398DPTz5DPMpump",
+        "description": "The terminal for on-chain gacha. Every graded-card pull on Solana, live: the card, its value, the odds, the whales. Read from the chain.",
+        "url": "https://dexscreener.com/solana/hvqanfwb1snjvlawtwz7bwuacgn9v398dptz5dpmpump"
+      },
       {
         "chainId": "ethereum",
         "tokenAddress": "0x967FBacE50402E7EF50d3b32d2d8750F2cBE6E26",
@@ -57,30 +81,6 @@
         "tokenAddress": "BfgSRauifc4cYCW9r6LR9iYsbuj4UHG1krRUMGujpump",
         "description": "Beyond the ceiling of everything, space. Paired with $SPCX.",
         "url": "https://dexscreener.com/solana/bfgsrauifc4cycw9r6lr9iysbuj4uhg1krrumgujpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "417EQe5y94JAcFNRsi6BLPd1kCFzDM98TsWoBKmZpump",
-        "description": "The Official Memecoin",
-        "url": "https://dexscreener.com/solana/417eqe5y94jacfnrsi6blpd1kcfzdm98tswobkmzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Bm2LuKR7U96uc3CDV4xGYR5XJH1JaKZPW7MNXWq3pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bm2lukr7u96uc3cdv4xgyr5xjh1jakzpw7mnxwq3pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6uDLWCZapzTWLSbejK4zKsxGJfvC4idL1D6LnLeLpack",
-        "description": "Launch Pumpfun coins paired with Gacha machines from Collector Crypt with every card pulled airdropped to holders.",
-        "url": "https://dexscreener.com/solana/6udlwczapztwlsbejk4zksxgjfvc4idl1d6lnlelpack"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7jzk5WhD7eBdHRsj9FBuw4DyUQdn95BofM6Fd9GEpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7jzk5whd7ebdhrsj9fbuw4dyuqdn95bofm6fd9gepump"
       }
     ]
   },
