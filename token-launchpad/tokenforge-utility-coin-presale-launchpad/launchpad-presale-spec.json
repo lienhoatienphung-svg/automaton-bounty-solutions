@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T22:00:11.367Z",
-  "latencyMs": 704,
+  "executedAt": "2026-10-20T22:01:19.427Z",
+  "latencyMs": 708,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #224: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #225: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52872131,
+    "liveBlockNumber": 52872166,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459820,
-    "baseMainnetTopPoolsVolume24hUsd": 207491,
+    "baseMainnetTopPoolsVolume24hUsd": 207426,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "77CNCs5rucdVrTRPApAYRAEnKLguubNok98yvXVfpump",
+        "description": "Crowd-launched coins on http://pump.fun. Each idea gets a room, two AI residents develop it, and a full room launches in one transaction. Open source.",
+        "url": "https://dexscreener.com/solana/77cncs5rucdvrtrpapayraenklguubnok98yvxvfpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5UpDzni5hxDgCPsQDqP5DePERudxTCVro4XQSTLdUNzn",
@@ -75,12 +81,6 @@
         "tokenAddress": "DkpZo28idZQj19FV1tDQXvukf7491KzYMKGqYcnepump",
         "description": "create, fund, trade. mochi does it all.",
         "url": "https://dexscreener.com/solana/dkpzo28idzqj19fv1tdqxvukf7491kzymkgqycnepump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "93i48W1dUC851LihD8D2Xhuz1Q3uFzh7sbaXLcJwpump",
-        "description": "I bought the domain TheOfficialDogCoin .com\n\nThe idea is simple: Every new launch pairs with Dogcoin.\n\nWhy?\n\nWe push all major Dog coins, and $Dogcoin becomes T",
-        "url": "https://dexscreener.com/solana/93i48w1duc851lihd8d2xhuz1q3ufzh7sbaxlcjwpump"
       }
     ]
   },
