@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T06:43:55.590Z",
-  "latencyMs": 560,
+  "executedAt": "2026-10-20T06:58:23.883Z",
+  "latencyMs": 269,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #859: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #860: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52844644,
+    "liveBlockNumber": 52845078,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440983,
-    "baseMainnetTopPoolsVolume24hUsd": 155213,
+    "baseMainnetTopPoolsVolume24hUsd": 159599,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/687h1vdxkawckbzqpmefvs4y4k1vtpogoriikhsqpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7UPGRUg6oEynFrd64eK75tVR5QeXBLAd2vWDV1fMpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7upgrug6oeynfrd64ek75tvr5qexblad2vwdv1fmpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4fKFtE91HmvkdXTJw34VaNDxJ6Dafe55rTNnvcDBpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "2UKY5BDtvgkEzopKcViMzgpUrfwhCnXyka2D2pN1pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/2uky5bdtvgkezopkcvimzgpurfwhcnxyka2d2pn1pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7p4v45eyQWQGpvNRGNQDrUoyyC3VhFWjKaALFexapump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7p4v45eyqwqgpvnrgnqdruoyyc3vhfwjkaalfexapump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Ai6j3LFGYE6SzgyXyWQP7S1JZQkvFaUJSX2zTotrench",
-        "description": "your ai, in the trenches. scout @solana memecoins, trade & manage your portfolio with your claude or codex login.",
-        "url": "https://dexscreener.com/solana/ai6j3lfgye6szgyxywqp7s1jzqkvfaujsx2ztotrench"
       }
     ]
   },
