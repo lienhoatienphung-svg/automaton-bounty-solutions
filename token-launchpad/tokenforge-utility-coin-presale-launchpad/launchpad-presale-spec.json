@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T16:14:47.630Z",
-  "latencyMs": 337,
+  "executedAt": "2026-10-20T16:16:16.867Z",
+  "latencyMs": 785,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #138: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #139: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52861770,
+    "liveBlockNumber": 52861814,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,18 @@
     "baseMainnetTopPoolsVolume24hUsd": 218981,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "EnLwWRDPDY5SYdsCuea9T7PhhZCD2kTEW1pDdfgPpump",
+        "description": "A Pokémon MMO in your browser. $VOXMON",
+        "url": "https://dexscreener.com/solana/enlwwrdpdy5sydscuea9t7phhzcd2ktew1pddfgppump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7gUDvf45et6627atavR45Md4BjgYqJHMZe9EPqeR9Sya",
+        "description": "Launch a coin and airdrop bags all over the world.",
+        "url": "https://dexscreener.com/solana/7gudvf45et6627atavr45md4bjgyqjhmze9epqer9sya"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0xF7CcC7D9674fb4E1233D8bEA613712C910857777",
@@ -69,18 +81,6 @@
         "tokenAddress": "ExvXEyTfYLWxPFNefDUzNaSkYpz9VJxAJAA6C5vKpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/exvxeytfylwxpfnefduznaskypz9vjxajaa6c5vkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2vAANtAcjyDprzj2fW4KyV7azK85GeENSKoetZnqVTZK",
-        "description": "Privacy Swap and Vaults for Any Chain, Early ZEC contributors",
-        "url": "https://dexscreener.com/solana/2vaantacjydprzj2fw4kyv7azk85geenskoetznqvtzk"
-      },
-      {
-        "chainId": "cronos",
-        "tokenAddress": "0x22c7343bb29C75EA4fA303644CB71880b5F63B3B",
-        "description": "THE LOADED EXPERIMENT",
-        "url": "https://dexscreener.com/cronos/0x22c7343bb29c75ea4fa303644cb71880b5f63b3b"
       }
     ]
   },
