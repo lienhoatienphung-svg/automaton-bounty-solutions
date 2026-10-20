@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T15:18:52.910Z",
-  "latencyMs": 768,
+  "executedAt": "2026-10-20T15:24:20.322Z",
+  "latencyMs": 478,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #123: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #124: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52860092,
-    "liveGasPriceGwei": 0.0076,
+    "liveBlockNumber": 52860256,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 457521,
-    "baseMainnetTopPoolsVolume24hUsd": 217344,
+    "baseMainnetTopPoolsVolume24hUsd": 217580,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "UiunBXF9R9Ee58eNSxfcCW9iotsSAjSP69HMLDdpump",
+        "description": "$LOOM is a super-intelligent crypto terminal that turns your thesis into a trade. Describe ideas in plain words and Loom monitors conditions day and night, exec",
+        "url": "https://dexscreener.com/solana/uiunbxf9r9ee58ensxfccw9iotssajsp69hmlddpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BpccYDw4hDFfEUF3zGrBncCc4GNDxgntnKBbYeTQZaqT",
@@ -75,12 +81,6 @@
         "tokenAddress": "BjvruPbagrnmGKGbjWjSxVD3hYYeRE4VDSkfeysnpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/bjvrupbagrnmgkgbjwjsxvd3hyyere4vdskfeysnpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "WSb2aEwVqrtZ3DCufa6yd89Aw3qU1GJLScuJLNYFERY",
-        "description": "Stablecoin FX at the Pyth rate.",
-        "url": "https://dexscreener.com/solana/wsb2aewvqrtz3dcufa6yd89aw3qu1gjlscujlnyfery"
       }
     ]
   },
