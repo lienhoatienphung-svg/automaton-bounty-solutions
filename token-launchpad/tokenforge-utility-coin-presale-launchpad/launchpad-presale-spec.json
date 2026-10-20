@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T17:39:39.744Z",
-  "latencyMs": 544,
+  "executedAt": "2026-10-20T17:46:18.377Z",
+  "latencyMs": 473,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #161: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #162: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52864316,
+    "liveBlockNumber": 52864515,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 460393,
-    "baseMainnetTopPoolsVolume24hUsd": 213837,
+    "baseMainnetTopPoolsVolume24hUsd": 213876,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x95286bEc1b0943D5A0fad60ac048f0C50EC8CCD0",
+        "description": "Pixel farming game on  Robinhood",
+        "url": "https://dexscreener.com/robinhood/0x95286bec1b0943d5a0fad60ac048f0c50ec8ccd0"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5hvGRZsrfWqi2pMKE51KFKQR9zEFVyvXx2mhVkH7pump",
+        "description": "TimQ is the AI quant for onchain traders. The Scanner turns the trenches into one curated feed you can trade from, and the AI agents you deploy work your rules ",
+        "url": "https://dexscreener.com/solana/5hvgrzsrfwqi2pmke51kfkqr9zefvyvxx2mhvkh7pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7Yw1146iXePQpXXYyqtdBHkHom5wc9XC3S9YCjXDpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7yw1146ixepqpxxyyqtdbhkhom5wc9xc3s9ycjxdpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xd417DA78E3CE742dEB8A16638B473F5B7cdb1111",
+        "description": "BlackHookFinance is a decentralized exchange on Robinhood Chain built as a single Uniswap v4 hook. One hook serves many markets (tokenized stocks, memecoins and",
+        "url": "https://dexscreener.com/robinhood/0xd417da78e3ce742deb8a16638b473f5b7cdb1111"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BLr7LaB55PLj8DxchLZKRVCtXx7ugzXWiwzpJhVtpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "3vpvkgxLTMtpff5BjNwfqKmVcpdyTbqihG8gEZAwpump",
         "description": "Pokémon GO for Collector Crypt packs. Explore the map. Find packs. Rip.",
         "url": "https://dexscreener.com/solana/3vpvkgxltmtpff5bjnwfqkmvcpdytbqihg8gezawpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EsWuDusx8B139GCRNEE6g1ULsvFL12XhjYJw2zigpump",
-        "description": "TRALALA TRALALA TRALALA",
-        "url": "https://dexscreener.com/solana/eswudusx8b139gcrnee6g1ulsvfl12xhjyjw2zigpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4nfqDjP1twFWEYdUg4gAo2PG2uM4kyMu4MbKJGSkpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4nfqdjp1twfweydug4gao2pg2um4kymu4mbkjgskpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2XX9MmXRXMc8QbffdmSeKowZbS77FAc17pNer7w9xV35",
-        "description": "Bonded Capital is the prop firm for pumpfun traders.\n\nPass a two-step challenge on a simulated account at live on-chain prices. Then trade our SOL and keep 80% ",
-        "url": "https://dexscreener.com/solana/2xx9mmxrxmc8qbffdmsekowzbs77fac17pner7w9xv35"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x6A7f8713678EaCa04675507FFCf277fc0DD3ffFF",
-        "description": "prediction markets on GMGN Global Championship traders\n\npick your winners\nBet on PnL, rankings & trader battles",
-        "url": "https://dexscreener.com/bsc/0x6a7f8713678eaca04675507ffcf277fc0dd3ffff"
       }
     ]
   },
