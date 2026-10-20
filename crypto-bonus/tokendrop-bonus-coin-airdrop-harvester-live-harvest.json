@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T16:43:07.473Z",
-  "latencyMs": 871,
+  "executedAt": "2026-10-20T16:43:49.437Z",
+  "latencyMs": 1004,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #148: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #149: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Add min reward per token, get_config query, admin-change events, transfer_bounty_ownership (v2, rebased on current main)",
+      "url": "https://github.com/mergemint-mint/mergemint-contracts/pull/1153",
+      "createdAt": "2026-10-19T10:57:44Z"
+    },
+    {
       "title": "feat(server): faucet claims need the recipient's signature or a Turnstile token; refused claims cost no gas (#79)",
       "url": "https://github.com/bytesbrains/16ane/pull/85",
       "createdAt": "2026-10-20T16:37:09Z"
@@ -288,11 +293,6 @@
       "title": "chore(deps): update dependency lucide-react to v1 (master)",
       "url": "https://github.com/rajput-hemant/react-template-vite/pull/257",
       "createdAt": "2026-03-30T01:49:17Z"
-    },
-    {
-      "title": "Execute ordered signed batches in Haskell and atomically commit multi-transfer blocks",
-      "url": "https://github.com/jihadelsayed/AivoBlock/pull/15",
-      "createdAt": "2026-10-20T16:31:25Z"
     }
   ]
 }
