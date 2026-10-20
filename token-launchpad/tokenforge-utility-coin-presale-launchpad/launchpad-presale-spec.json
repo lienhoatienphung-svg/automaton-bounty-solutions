@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T16:08:37.593Z",
-  "latencyMs": 569,
+  "executedAt": "2026-10-20T16:14:47.630Z",
+  "latencyMs": 337,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #137: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #138: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52861585,
+    "liveBlockNumber": 52861770,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 457521,
-    "baseMainnetTopPoolsVolume24hUsd": 216458,
+    "baseMainnetTopPoolsLiquidityUsd": 457522,
+    "baseMainnetTopPoolsVolume24hUsd": 218981,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0xF7CcC7D9674fb4E1233D8bEA613712C910857777",
+        "description": "agentic inu",
+        "url": "https://dexscreener.com/bsc/0xf7ccc7d9674fb4e1233d8bea613712c910857777"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4BvmEvweKghzEWRa1MuoMFwTpYrxTTN5411eBozBpump",
@@ -63,12 +69,6 @@
         "tokenAddress": "ExvXEyTfYLWxPFNefDUzNaSkYpz9VJxAJAA6C5vKpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/exvxeytfylwxpfnefduznaskypz9vjxajaa6c5vkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "538oWEvEUYaKamTGkiNPwboqyMHV3j9LkCDEMicSpump",
-        "description": "A Pokémon MMO in your browser. $VOXMON",
-        "url": "https://dexscreener.com/solana/538oweveuyakamtgkinpwboqymhv3j9lkcdemicspump"
       },
       {
         "chainId": "solana",
