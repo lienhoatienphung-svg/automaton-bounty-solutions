@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T14:23:10.805Z",
-  "latencyMs": 368,
+  "executedAt": "2026-10-20T14:23:49.282Z",
+  "latencyMs": 489,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #106: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #107: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52858421,
+    "liveBlockNumber": 52858440,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 450114,
-    "baseMainnetTopPoolsVolume24hUsd": 207005,
+    "baseMainnetTopPoolsLiquidityUsd": 450116,
+    "baseMainnetTopPoolsVolume24hUsd": 207048,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x9804966645e91ab2C97DC21B1CA878a91c321111",
+        "description": "BABYTORCH ($BABYTORCH) — SMALL FLAME. BIG FUTURE.\n\nThe cutest little flame on TORCH Pad has officially been ignited! 🔥💚\n\nBorn on Robinhood Chain, BabyTorch is",
+        "url": "https://dexscreener.com/robinhood/0x9804966645e91ab2c97dc21b1ca878a91c321111"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HRinaBFCW3YkU9oN3EvvuHWXPssbos7unSEi97Vipump",
@@ -75,12 +81,6 @@
         "tokenAddress": "D46xBpfrKru9H3T4KvWNzJyEr2Ka6C1DpE1KaCBrpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/d46xbpfrkru9h3t4kvwnzjyer2ka6c1dpe1kacbrpump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x63815c2091679f22ee96842019ec43b084a6e246",
-        "description": "Hookereum is an AI-powered launchpad on Ethereum, built on Uniswap v4.\n\nEvery launched coin is paired with an AI agent that writes and upgrades its treasury str",
-        "url": "https://dexscreener.com/ethereum/0x63815c2091679f22ee96842019ec43b084a6e246"
       }
     ]
   },
