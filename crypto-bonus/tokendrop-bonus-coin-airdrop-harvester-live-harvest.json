@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T06:52:36.010Z",
-  "latencyMs": 1143,
+  "executedAt": "2026-10-20T06:55:42.103Z",
+  "latencyMs": 760,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #866: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #867: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,84 +215,84 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 705,
-      "priceBtc": 0.0010939011357003294
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 94,
-      "priceBtc": 0.000023920282413694096
-    },
-    {
       "name": "Collector Crypt",
       "symbol": "CARDS",
-      "marketCapRank": 141,
-      "priceBtc": 0.000004170252907044436
+      "marketCapRank": 140,
+      "priceBtc": 0.000004283118131120648
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9989759398806055
+      "priceBtc": 0.9991319487989578
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 708,
+      "priceBtc": 0.0010933354007974135
+    },
+    {
+      "name": "PHALA",
+      "symbol": "PHA",
+      "marketCapRank": 412,
+      "priceBtc": 7.774160897370885e-7
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 94,
+      "priceBtc": 0.000023972258871581317
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 50,
-      "priceBtc": 5.388509233640841e-8
-    },
-    {
-      "name": "PHALA",
-      "symbol": "PHA",
-      "marketCapRank": 411,
-      "priceBtc": 7.823720791017578e-7
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.214398892147545e-8
+      "priceBtc": 5.4056880870215505e-8
     },
     {
       "name": "Arbitrum",
       "symbol": "ARB",
       "marketCapRank": 66,
-      "priceBtc": 0.000002424692911882353
+      "priceBtc": 0.0000024177705613345943
+    },
+    {
+      "name": "GRVT Token",
+      "symbol": "GRVT",
+      "marketCapRank": 661,
+      "priceBtc": 0.000003148869591709476
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Land the Phase 1 security record (risk register, evidence, runbooks)",
-      "url": "https://github.com/bitXbit-aus/bitxbit-rebrand/pull/7",
-      "createdAt": "2026-10-20T06:49:27Z"
+      "title": "Security audit 2026-10-18: record SA-61..160, fix the 23 clear-cut items",
+      "url": "https://github.com/deterministicstatemachine/dsm/pull/1142",
+      "createdAt": "2026-10-18T10:19:50Z"
     },
     {
-      "title": "fix: ask once for a session handoff",
-      "url": "https://github.com/omnirush-ai/omnirush-gui/pull/233",
-      "createdAt": "2026-10-20T06:37:45Z"
-    },
-    {
-      "title": "chore(deps): bump lucide-react from 1.42.0 to 1.47.0",
-      "url": "https://github.com/MehfoozurRehman/v7/pull/23",
-      "createdAt": "2026-09-25T02:34:25Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "chore: pin gh-actions references to 35019557",
-      "url": "https://github.com/tempoxyz/tempo-evals/pull/222",
-      "createdAt": "2026-10-20T06:51:32Z"
+      "title": "Claim page learns over the socket that its claim is settled (port of pk910/PoWFaucet#560)",
+      "url": "https://github.com/qmsfinance/PoWFaucet/pull/12",
+      "createdAt": "2026-10-19T14:12:23Z"
     },
     {
       "title": "[perf] spec-decoding: fuse simulated speculative acceptance tensor preparation",
       "url": "https://github.com/sgl-project/sglang/pull/41169",
       "createdAt": "2026-09-24T20:43:54Z"
+    },
+    {
+      "title": "Tools pages on the design system",
+      "url": "https://github.com/MystenLabs/sagat/pull/112",
+      "createdAt": "2026-10-16T14:32:27Z"
+    },
+    {
+      "title": "FLR-T-14.3: walk it in VR (WebXR) and place it on the lot in AR (USDZ for Quick Look)",
+      "url": "https://github.com/matdemers1/d3-floorspec/pull/91",
+      "createdAt": "2026-10-20T06:54:20Z"
+    },
+    {
+      "title": "feat: split temperature for reasoning vs answer phase",
+      "url": "https://github.com/alexbi29/vllm/pull/3",
+      "createdAt": "2026-06-01T01:45:52Z"
     }
   ]
 }
