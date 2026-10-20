@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T15:17:45.498Z",
-  "latencyMs": 361,
+  "executedAt": "2026-10-20T15:18:52.910Z",
+  "latencyMs": 768,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #122: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #123: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52860059,
-    "liveGasPriceGwei": 0.0081,
+    "liveBlockNumber": 52860092,
+    "liveGasPriceGwei": 0.0076,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 457521,
-    "baseMainnetTopPoolsVolume24hUsd": 217319,
+    "baseMainnetTopPoolsVolume24hUsd": 217344,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BpccYDw4hDFfEUF3zGrBncCc4GNDxgntnKBbYeTQZaqT",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bpccydw4hdffeuf3zgrbnccc4gndxgntnkbbyetqzaqt"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xdCfa97774BA2cb8a9deD0612524984f6f46d4556",
+        "description": "COWL is a private receive link for Robinhood Chain. Share one link instead of your wallet address: every payment lands at a fresh one-time address that only you",
+        "url": "https://dexscreener.com/robinhood/0xdcfa97774ba2cb8a9ded0612524984f6f46d4556"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0x88900DA3C4B3418708d99D880129cacD9b037777",
@@ -69,18 +81,6 @@
         "tokenAddress": "WSb2aEwVqrtZ3DCufa6yd89Aw3qU1GJLScuJLNYFERY",
         "description": "Stablecoin FX at the Pyth rate.",
         "url": "https://dexscreener.com/solana/wsb2aewvqrtz3dcufa6yd89aw3qu1gjlscujlnyfery"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7LRu3HmrDxFcvaEHj9Fysxbfux2e8VWHx6UfDE9jpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7lru3hmrdxfcvaehj9fysxbfux2e8vwhx6ufde9jpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x0ceedb4145ded3a95769dad1fe8955b7ed586e69",
-        "description": "Let them cook. A coin opened through the kitchen sends its creator fee to its own tab, and seven cooks spend that tab on the coin's brand, page and daily plate.",
-        "url": "https://dexscreener.com/robinhood/0x0ceedb4145ded3a95769dad1fe8955b7ed586e69"
       }
     ]
   },
