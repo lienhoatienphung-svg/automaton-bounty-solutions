@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T15:04:53.324Z",
-  "latencyMs": 769,
+  "executedAt": "2026-10-20T15:10:22.005Z",
+  "latencyMs": 823,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #119: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #120: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52859672,
+    "liveBlockNumber": 52859837,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,34 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 453777,
-    "baseMainnetTopPoolsVolume24hUsd": 214755,
+    "baseMainnetTopPoolsLiquidityUsd": 457724,
+    "baseMainnetTopPoolsVolume24hUsd": 214798,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xF8393A2F960Eaf758df23D16f0E7A4B9Be33D790",
+        "description": "Self-hosted agentic AI for developers.",
+        "url": "https://dexscreener.com/robinhood/0xf8393a2f960eaf758df23d16f0e7a4b9be33d790"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "69RV541yczXGc8SdMtfK7Ctnwx4kTLymNY8YxdsPpump",
+        "description": "Gacha Lottery For Holders, Ripping Packs on CARDS",
+        "url": "https://dexscreener.com/solana/69rv541yczxgc8sdmtfk7ctnwx4ktlymny8yxdsppump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BjvruPbagrnmGKGbjWjSxVD3hYYeRE4VDSkfeysnpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bjvrupbagrnmgkgbjwjsxvd3hyyere4vdskfeysnpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "WSb2aEwVqrtZ3DCufa6yd89Aw3qU1GJLScuJLNYFERY",
+        "description": "Stablecoin FX at the Pyth rate.",
+        "url": "https://dexscreener.com/solana/wsb2aewvqrtz3dcufa6yd89aw3qu1gjlscujlnyfery"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7LRu3HmrDxFcvaEHj9Fysxbfux2e8VWHx6UfDE9jpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "4ZWaqSWxsTqcP2EstWHp8YybiprKP5ii3uethAM1pxLB",
         "description": "Froge the OpenAI Mascot paired with OpenAI",
         "url": "https://dexscreener.com/solana/4zwaqswxstqcp2estwhp8yybiprkp5ii3uetham1pxlb"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8RiqYm7yCCh74e9NqLPhSQcbVGTsqWMZYAK4m4zopump",
-        "description": "BRAINROT LANGAUGE MODEL!",
-        "url": "https://dexscreener.com/solana/8riqym7ycch74e9nqlphsqcbvgtsqwmzyak4m4zopump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2VPiF6pE4S7mkPvQACgtWd3hkhAsfJKPZTb5CeAUpump",
-        "description": "$CAERO is the token of Camvero, an AI-powered liquidity management platform on Solana that automates LP ranges, rebalancing, fee compounding, and risk-based hed",
-        "url": "https://dexscreener.com/solana/2vpif6pe4s7mkpvqacgtwd3hkhasfjkpztb5ceaupump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "RZ3oHcC2vY6DYC4C1RMLyZz6VSPFi2FokW7thf1q1Sa",
-        "description": "pump - the everything app",
-        "url": "https://dexscreener.com/solana/rz3ohcc2vy6dyc4c1rmlyzz6vspfi2fokw7thf1q1sa"
-      },
-      {
-        "chainId": "hyperevm",
-        "tokenAddress": "0x7a2819526c563f814831d50791cd5419336d4365",
-        "description": "HypeQ is an AI agent launchpad built on HyperEVM, powered by HyperliquidX\n\nEvery token launched on HypeQ gets its own AI agent. Each move is authenticated using",
-        "url": "https://dexscreener.com/hyperevm/0x7a2819526c563f814831d50791cd5419336d4365"
       }
     ]
   },
