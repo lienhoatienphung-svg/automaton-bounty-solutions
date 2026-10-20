@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-20T12:43:24.152Z",
-  "latencyMs": 7894,
+  "executedAt": "2026-10-20T12:45:38.095Z",
+  "latencyMs": 10003,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #72: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #73: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "Rota AI Phase 4C: intelligent planner and weak-model validation",
-          "url": "https://github.com/mokaradag/Takvim/pull/103",
-          "repositoryUrl": "https://api.github.com/repos/mokaradag/Takvim",
-          "updatedAt": "2026-10-20T12:43:13Z"
-        },
-        {
-          "title": "Lecteur, Editeur ou Validateurs peuvent créer des comptes",
-          "url": "https://github.com/ABC-TransitionBasCarbone/bilan-carbone/pull/3444",
-          "repositoryUrl": "https://api.github.com/repos/ABC-TransitionBasCarbone/bilan-carbone",
-          "updatedAt": "2026-10-20T12:43:12Z"
-        },
-        {
-          "title": "Grant event log, key checks on save, and safe push for tumbler run",
-          "url": "https://github.com/vu1n/tumbler/pull/4",
-          "repositoryUrl": "https://api.github.com/repos/vu1n/tumbler",
-          "updatedAt": "2026-10-20T12:43:10Z"
-        },
-        {
-          "title": "MIG-2 (#2525): capability kernel, key library, clerk and seeded simulator",
-          "url": "https://github.com/ghbmrk/agentOS/pull/2550",
-          "repositoryUrl": "https://api.github.com/repos/ghbmrk/agentOS",
-          "updatedAt": "2026-10-20T12:43:10Z"
-        },
-        {
-          "title": "fix(ci): validate PR refresh sources in isolated execution",
-          "url": "https://github.com/HamedMP/matrix-os/pull/2784",
-          "repositoryUrl": "https://api.github.com/repos/HamedMP/matrix-os",
-          "updatedAt": "2026-10-20T12:43:13Z"
-        },
-        {
-          "title": "feat(confluence): add Confluence Cloud API module",
-          "url": "https://github.com/friggframework/api-module-library/pull/154",
-          "repositoryUrl": "https://api.github.com/repos/friggframework/api-module-library",
-          "updatedAt": "2026-10-20T12:43:09Z"
-        },
-        {
-          "title": "Guest profile, part 1: sign-in popup, nav icon, account page, consent history",
-          "url": "https://github.com/ClaudeterAi/Noa-Website/pull/50",
-          "repositoryUrl": "https://api.github.com/repos/ClaudeterAi/Noa-Website",
-          "updatedAt": "2026-10-20T12:43:08Z"
-        },
-        {
-          "title": "feat(trinet): add TriNet API module",
-          "url": "https://github.com/friggframework/api-module-library/pull/150",
-          "repositoryUrl": "https://api.github.com/repos/friggframework/api-module-library",
-          "updatedAt": "2026-10-20T12:43:08Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
