@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T13:53:45.423Z",
-  "latencyMs": 891,
+  "executedAt": "2026-10-20T13:55:13.976Z",
+  "latencyMs": 1033,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #98: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #99: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Update dependency ethers to v6",
+      "url": "https://github.com/term-finance/yearn-v3-term-vault/pull/149",
+      "createdAt": "2025-05-01T18:42:35Z"
+    },
+    {
+      "title": "feat(fuel-inference): n-gram prompt-lookup drafter + proxy measurement (ROADMAP 17 H24) (0.20.28)",
+      "url": "https://github.com/ciresnave/fuel/pull/413",
+      "createdAt": "2026-10-20T10:09:41Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/ymat19/SbclViewer/pull/50",
+      "createdAt": "2026-03-23T17:30:56Z"
+    },
+    {
+      "title": "build(deps): bump the production-dependencies group across 1 directory with 6 updates",
+      "url": "https://github.com/RAZEX0LOL/SkyTrack/pull/11",
+      "createdAt": "2026-09-22T13:45:25Z"
+    },
+    {
+      "title": "FLOP CHATGPT HANDOFF — NEWEST COMMENT IS SOLE CURRENT AUTHORITY (historical archive preserved)",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/765",
+      "createdAt": "2026-10-06T05:27:29Z"
+    },
+    {
       "title": "feat(staking): BUILD 1 — HeroSingleSidedStaking (HERO→HERO, DAO vote source)",
       "url": "https://github.com/jratdish1/hero-dapp/pull/119",
       "createdAt": "2026-09-27T22:49:15Z"
-    },
-    {
-      "title": "🤝 Agent coordination channel (standing, vol. 2)",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
-      "createdAt": "2026-09-20T06:23:41Z"
-    },
-    {
-      "title": "On-chain testnet settlement (NU7): escrow, real sighash, extraction, refund",
-      "url": "https://github.com/Godwin-web3/lintel/pull/5",
-      "createdAt": "2026-10-20T13:06:50Z"
-    },
-    {
-      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
-      "createdAt": "2026-10-12T04:03:25Z"
-    },
-    {
-      "title": "Bring Windows tools and workflows to Mac feature parity",
-      "url": "https://github.com/orkunisitmak/nashi-app/pull/1",
-      "createdAt": "2026-10-19T20:30:48Z"
-    },
-    {
-      "title": "security(launch): publish official domains and watch for phishing lookalikes",
-      "url": "https://github.com/Suncrest-Labs/nester/issues/1535",
-      "createdAt": "2026-10-18T00:27:34Z"
     }
   ]
 }
