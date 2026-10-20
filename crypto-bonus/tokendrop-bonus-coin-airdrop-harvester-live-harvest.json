@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T11:20:01.579Z",
-  "latencyMs": 1171,
+  "executedAt": "2026-10-20T11:21:32.852Z",
+  "latencyMs": 776,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #38: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #39: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,19 +265,9 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/walnuts1018/walnuk/pull/131",
-      "createdAt": "2026-03-23T18:06:00Z"
-    },
-    {
-      "title": "feat(contracts): Implement multi-token reward pool support in Rewards contract",
-      "url": "https://github.com/FinesseStudioLab/Trivela/issues/1173",
-      "createdAt": "2026-09-24T02:33:35Z"
-    },
-    {
-      "title": "docs(tutorial-3): match the Devnet steps to what zkapp-cli 0.23.0 prints",
-      "url": "https://github.com/MinaProtocol/docs2/pull/1300",
-      "createdAt": "2026-10-20T11:18:35Z"
+      "title": "feat(mocks): issuer-agnostic mock RFQ venue and mAAPL for testnets",
+      "url": "https://github.com/Assetera-AG/AsseteraEvmContracts/pull/106",
+      "createdAt": "2026-10-20T11:21:01Z"
     },
     {
       "title": "docs: add troubleshooting section to TESTNET.md",
@@ -285,14 +275,24 @@
       "createdAt": "2026-10-20T11:18:36Z"
     },
     {
-      "title": "[RFC] FlashInfer Release-Quality Action Plan",
-      "url": "https://github.com/flashinfer-ai/flashinfer/issues/3605",
-      "createdAt": "2026-06-12T06:26:58Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "docs: add troubleshooting section to TESTNET.md",
-      "url": "https://github.com/FinesseStudioLab/Trivela/issues/1450",
-      "createdAt": "2026-10-20T11:18:15Z"
+      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
+      "url": "https://github.com/jsboige/CoursIA/pull/20377",
+      "createdAt": "2026-10-11T14:10:17Z"
+    },
+    {
+      "title": "fix(ci,#21527): quota REST transitoire + jeton valide + predicat par-checkout",
+      "url": "https://github.com/jsboige/CoursIA/pull/21541",
+      "createdAt": "2026-10-20T04:45:21Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/walnuts1018/walnuk/pull/131",
+      "createdAt": "2026-03-23T18:06:00Z"
     }
   ]
 }
