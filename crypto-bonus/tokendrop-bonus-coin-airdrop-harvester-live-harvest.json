@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T11:07:38.212Z",
-  "latencyMs": 1285,
+  "executedAt": "2026-10-20T11:08:51.171Z",
+  "latencyMs": 813,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #32: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #33: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "chore(deps): update dependency zx to v8 [security]",
+      "url": "https://github.com/walleXD/janus/pull/35",
+      "createdAt": "2025-11-21T18:08:28Z"
+    },
+    {
+      "title": "Intel Bluetooth support for macOS 26",
+      "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/issues/505",
+      "createdAt": "2025-08-13T11:37:59Z"
+    },
+    {
+      "title": "feat(scenarios/phoenix): split the order cancel and the uncross into their own templates",
+      "url": "https://github.com/LimeChain/surfpool/pull/36",
+      "createdAt": "2026-10-19T12:20:38Z"
+    },
+    {
+      "title": "test(e2e): early-settlement fee premium instead of settlement block",
+      "url": "https://github.com/arkade-os/ts-sdk/pull/1091",
+      "createdAt": "2026-10-18T19:41:59Z"
+    },
+    {
       "title": "Workspace Sprint 3: AirDrop/native handoff preview and authenticated one-click integration",
       "url": "https://github.com/truongbo17/inputmesh/issues/9",
       "createdAt": "2026-10-20T11:07:27Z"
@@ -273,26 +293,6 @@
       "title": "perf(jit): switch dynamic jumps on a dense index",
       "url": "https://github.com/alloy-rs/evm2/pull/609",
       "createdAt": "2026-10-15T00:19:06Z"
-    },
-    {
-      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
-      "url": "https://github.com/Dillen198/bfnext/pull/1",
-      "createdAt": "2026-01-19T07:41:07Z"
-    },
-    {
-      "title": "refactor: unify tool context specifications and execution service",
-      "url": "https://github.com/Wh0rigin/tea/pull/13",
-      "createdAt": "2026-10-16T07:34:30Z"
-    },
-    {
-      "title": "contracts: D-bridge-chain-05 protocol networks, deployments and capabilities wire types",
-      "url": "https://github.com/INTAFACED/intafaced/pull/5538",
-      "createdAt": "2026-10-20T10:53:19Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1.60.0",
-      "url": "https://github.com/ValthorneMC/ValthorneClient/pull/39",
-      "createdAt": "2026-08-24T14:43:29Z"
     }
   ]
 }
