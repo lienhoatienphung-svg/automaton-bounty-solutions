@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T20:40:40.543Z",
-  "latencyMs": 883,
+  "executedAt": "2026-10-20T20:41:23.566Z",
+  "latencyMs": 879,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #208: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #209: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "chore: exclude vendored lib/ from SonarCloud; give numeric sorts a compare function (#87)",
+      "url": "https://github.com/bytesbrains/16ane/pull/88",
+      "createdAt": "2026-10-20T20:40:58Z"
+    },
+    {
       "title": "LeakLock 0.4.4: fixes from the second security audit",
       "url": "https://github.com/sotnikov-nk/LeakLock/pull/2",
       "createdAt": "2026-10-20T20:17:43Z"
@@ -288,11 +293,6 @@
       "title": "perf(jit): resolve old Vyper memory returns and drop unreached blocks",
       "url": "https://github.com/alloy-rs/evm2/pull/687",
       "createdAt": "2026-10-18T11:29:21Z"
-    },
-    {
-      "title": "[infra] SonarCloud: exclude vendored lib/ and fix the few first-party findings",
-      "url": "https://github.com/bytesbrains/16ane/issues/87",
-      "createdAt": "2026-10-20T20:38:38Z"
     }
   ]
 }
