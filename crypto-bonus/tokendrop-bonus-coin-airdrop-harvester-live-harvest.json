@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T15:55:36.043Z",
-  "latencyMs": 1080,
+  "executedAt": "2026-10-20T15:56:53.659Z",
+  "latencyMs": 969,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #134: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #135: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "WSb2aEwVqrtZ3DCufa6yd89Aw3qU1GJLScuJLNYFERY",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Stablecoin FX at the Pyth rate.",
+      "url": "https://dexscreener.com/solana/wsb2aewvqrtz3dcufa6yd89aw3qu1gjlscujlnyfery"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "ttH5rJWVxCFBdjd3x2AnBxtYDJtRCFa9ty4QpmUpump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "EVRYNTH is an AI powered utility agency and confidential marketplace on Solana.\nSpecialized AI agents turn user ideas into real products, including trading bots",
       "url": "https://dexscreener.com/solana/9m5hwlg4brtyzkehtkvkzgfaba7yxvvwpy1xuspupump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "EGGU is an independent Solana community token paired directly with PENGU.\n🥚 EGGU → 🐧 PENGU\nThrough StonkFun’s built-in reward system, eligible EGGU holders ca",
-      "url": "https://dexscreener.com/solana/49vznzqvkcsgajj8k9xrezdztlrdv5rzn9yythg53czn"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/voku/Prompt_Intro/pull/20",
+      "createdAt": "2026-04-28T06:29:12Z"
+    },
+    {
+      "title": "feat(insights): assistant and meetings in Insights, and share as a deck of cards",
+      "url": "https://github.com/AbhishekBarali/SpeakoFlow/pull/88",
+      "createdAt": "2026-10-20T09:03:05Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
@@ -278,21 +293,6 @@
       "title": "📦 Pending promotion: dev → main",
       "url": "https://github.com/d-hinders/Haven-AI/issues/666",
       "createdAt": "2026-06-29T11:18:37Z"
-    },
-    {
-      "title": "🤝 Agent coordination channel (standing, vol. 2)",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
-      "createdAt": "2026-09-20T06:23:41Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/nestjs/enterprise.nestjs.com/pull/120",
-      "createdAt": "2026-09-14T11:07:56Z"
-    },
-    {
-      "title": "CC-CEDICT: Latin words and kana runs split into many unknown words",
-      "url": "https://github.com/lindera/lindera/issues/1128",
-      "createdAt": "2026-10-06T12:01:50Z"
     }
   ]
 }
