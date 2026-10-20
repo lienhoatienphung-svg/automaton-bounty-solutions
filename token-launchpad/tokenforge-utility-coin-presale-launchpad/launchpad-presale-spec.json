@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T10:10:08.036Z",
-  "latencyMs": 378,
+  "executedAt": "2026-10-20T10:24:20.868Z",
+  "latencyMs": 358,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #877: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #878: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52850830,
+    "liveBlockNumber": 52851256,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,14 +30,26 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 421199,
-    "baseMainnetTopPoolsVolume24hUsd": 167879,
+    "baseMainnetTopPoolsLiquidityUsd": 421198,
+    "baseMainnetTopPoolsVolume24hUsd": 170820,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
       {
         "chainId": "solana",
-        "tokenAddress": "8dH1bCPwyoykzBX8d2UaJqHD6ysLLySn2qrCSjG8pump",
+        "tokenAddress": "DTLWCWzrmCbSjqRmgmfRN7iQCRwG9bFs6XwAZwM5pump",
         "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/dtlwcwzrmcbsjqrmgmfrn7iqcrwg9bfs6xwazwm5pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "ApfqSy8UUZDTg1u4pDE6EmvxFXca9ezSTS2Dytkzpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/apfqsy8uuzdtg1u4pde6emvxfxca9ezsts2dytkzpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "8dH1bCPwyoykzBX8d2UaJqHD6ysLLySn2qrCSjG8pump",
+        "description": "BELI",
         "url": "https://dexscreener.com/solana/8dh1bcpwyoykzbx8d2uajqhd6ysllysn2qrcsjg8pump"
       },
       {
@@ -69,18 +81,6 @@
         "tokenAddress": "sCef2Mqwj8hunAEKHAsSP2UriejhaFmKSMzwXS15UbH",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/scef2mqwj8hunaekhassp2uriejhafmksmzwxs15ubh"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0xABf74488c392D42Cd54291422e25EE736fB68882",
-        "description": "a great bird soaring far and high",
-        "url": "https://dexscreener.com/bsc/0xabf74488c392d42cd54291422e25ee736fb68882"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HJS1ncCpUDfzXNpM8MwnTHisdPrBqMCbnrQ2nsL8pump",
-        "description": "The biggest crypto in Vice City Leonida. \n\nWe're DacityCoin. You know us from the pink Western Duster over Vice Beach, with Lucia Caminos still on the wing.\n\nJo",
-        "url": "https://dexscreener.com/solana/hjs1nccpudfzxnpm8mwnthisdprbqmcbnrq2nsl8pump"
       }
     ]
   },
