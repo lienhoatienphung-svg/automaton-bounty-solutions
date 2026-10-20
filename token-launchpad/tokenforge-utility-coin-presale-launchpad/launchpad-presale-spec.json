@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T05:23:45.478Z",
-  "latencyMs": 497,
+  "executedAt": "2026-10-20T05:26:15.553Z",
+  "latencyMs": 447,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #852: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #853: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52842239,
+    "liveBlockNumber": 52842314,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 162837,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "J2ftCjfu7MGejUKqJvecymH8Pgsd5tUwpNJUvbyGpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/j2ftcjfu7mgejukqjvecymh8pgsd5tuwpnjuvbygpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3xBE38idSUHNnPMWvXwrpZE6iZBQLN3ve6atsrYzpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "547mPBDKVshVHz1JN54ENUZ9w2wwiZf3x2ctjvnipump",
         "description": "Redefining Speed. Electrifying the Future\nExperience the next evolution of electric performance, where visionary design meets extraordinary speed",
         "url": "https://dexscreener.com/solana/547mpbdkvshvhz1jn54enuz9w2wwizf3x2ctjvnipump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0xE7062E605d1BBA1D48840189D43428E630c87777",
-        "description": "TeslaSi can Fly",
-        "url": "https://dexscreener.com/bsc/0xe7062e605d1bba1d48840189d43428e630c87777"
       }
     ]
   },
