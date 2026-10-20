@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T06:55:42.103Z",
-  "latencyMs": 760,
+  "executedAt": "2026-10-20T07:15:52.869Z",
+  "latencyMs": 954,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #867: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #868: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,22 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x0E4969EF49D3dab9a7C60511BFdF86216b157777",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Hold 10k+ $QVR and earn ETH from every buy and sell: 60% of the tax goes to holders. Official $QVR (Quiver) community on Robinhood Chain, launched on flap. CA i",
+      "url": "https://dexscreener.com/robinhood/0x0e4969ef49d3dab9a7c60511bfdf86216b157777"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "AeNQSoEJJe1fBim6AVpndX1zp9HdotMypBXkJL1qpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "In Japan, Ash Ketchum is known as Satoshi. Paired it with the Pokemon coin.",
+      "url": "https://dexscreener.com/solana/aenqsoejje1fbim6avpndx1zp9hdotmypbxkjl1qpump"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump",
       "boostAmount": 10,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/hkzdfznkhzxd9agrdnpydv4it6lmaurjnprtj9wpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "AjhU1JdT7M6tR3gCu4Zqq37ez8H65jBbaszjfb27pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/ajhu1jdt7m6tr3gcu4zqq37ez8h65jbbaszjfb27pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "5EdajXG624C7uVLArueGjFxEAdbJnSs12orQJ8RZpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Welcome to The Capital, the community behind CapitalVault, a next-generation launchpad integrated with Pumpfun.\n\nLaunch your own token, choose from stocks like ",
-      "url": "https://dexscreener.com/solana/5edajxg624c7uvlaruegjfxeadbjnss12orqj8rzpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,67 +217,67 @@
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
-      "marketCapRank": 140,
-      "priceBtc": 0.000004283118131120648
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9991319487989578
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 708,
-      "priceBtc": 0.0010933354007974135
+      "marketCapRank": 141,
+      "priceBtc": 0.00000426399912939611
     },
     {
       "name": "PHALA",
       "symbol": "PHA",
       "marketCapRank": 412,
-      "priceBtc": 7.774160897370885e-7
+      "priceBtc": 7.846991809432141e-7
     },
     {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 94,
-      "priceBtc": 0.000023972258871581317
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9995947018462923
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 704,
+      "priceBtc": 0.0010941819933195283
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.000058511152906515184
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.218635742234033e-8
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 50,
-      "priceBtc": 5.4056880870215505e-8
-    },
-    {
-      "name": "Arbitrum",
-      "symbol": "ARB",
-      "marketCapRank": 66,
-      "priceBtc": 0.0000024177705613345943
+      "priceBtc": 5.419899420293749e-8
     },
     {
       "name": "GRVT Token",
       "symbol": "GRVT",
-      "marketCapRank": 661,
-      "priceBtc": 0.000003148869591709476
+      "marketCapRank": 664,
+      "priceBtc": 0.000003112502122225291
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Security audit 2026-10-18: record SA-61..160, fix the 23 clear-cut items",
-      "url": "https://github.com/deterministicstatemachine/dsm/pull/1142",
-      "createdAt": "2026-10-18T10:19:50Z"
+      "title": "UI: replace replay scrubber with civil airdrop experiment controls",
+      "url": "https://github.com/ykk4448-code/kk1/pull/1",
+      "createdAt": "2026-10-20T06:33:46Z"
     },
     {
-      "title": "Claim page learns over the socket that its claim is settled (port of pk910/PoWFaucet#560)",
-      "url": "https://github.com/qmsfinance/PoWFaucet/pull/12",
-      "createdAt": "2026-10-19T14:12:23Z"
+      "title": "feat(evals): publish taskset runs to an Intake Experiment",
+      "url": "https://github.com/NVIDIA-NeMo/nemo-helix/pull/3087",
+      "createdAt": "2026-10-19T04:22:06Z"
     },
     {
-      "title": "[perf] spec-decoding: fuse simulated speculative acceptance tensor preparation",
-      "url": "https://github.com/sgl-project/sglang/pull/41169",
-      "createdAt": "2026-09-24T20:43:54Z"
+      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
+      "createdAt": "2026-10-12T04:03:25Z"
     },
     {
       "title": "Tools pages on the design system",
@@ -285,14 +285,14 @@
       "createdAt": "2026-10-16T14:32:27Z"
     },
     {
-      "title": "FLR-T-14.3: walk it in VR (WebXR) and place it on the lot in AR (USDZ for Quick Look)",
-      "url": "https://github.com/matdemers1/d3-floorspec/pull/91",
-      "createdAt": "2026-10-20T06:54:20Z"
+      "title": "feat(ads): admob adapter",
+      "url": "https://github.com/RevenueCat/purchases-flutter/pull/1946",
+      "createdAt": "2026-10-11T19:49:28Z"
     },
     {
-      "title": "feat: split temperature for reasoning vs answer phase",
-      "url": "https://github.com/alexbi29/vllm/pull/3",
-      "createdAt": "2026-06-01T01:45:52Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
