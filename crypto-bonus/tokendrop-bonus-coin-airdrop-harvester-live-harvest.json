@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T10:59:13.869Z",
-  "latencyMs": 791,
+  "executedAt": "2026-10-20T11:00:25.313Z",
+  "latencyMs": 1086,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #28: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #29: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(mobile): rename testnet wallet to classic and make friendbot funding conditional",
+      "url": "https://github.com/Miracle656/veil/pull/1130",
+      "createdAt": "2026-10-19T10:03:56Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
+      "title": "feat: gated mobile links, compliance hooks and transaction exports",
+      "url": "https://github.com/PHASE-STELLAR/Phase/pull/587",
+      "createdAt": "2026-10-20T08:19:25Z"
+    },
+    {
       "title": "Update dependency lucide-react to v1.60.0",
       "url": "https://github.com/robhanlon22/ableton-hud/pull/84",
       "createdAt": "2026-10-13T22:46:34Z"
@@ -273,26 +293,6 @@
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1.60.0",
-      "url": "https://github.com/jellydn/ai-flow/pull/156",
-      "createdAt": "2026-09-11T11:20:02Z"
-    },
-    {
-      "title": "Security review fixes: DLC core, watchtower, integrations, accounting verifiers (32 commits, with tests)",
-      "url": "https://github.com/patrickdugan/UTXO-Ref/pull/8",
-      "createdAt": "2026-10-15T13:36:23Z"
-    },
-    {
-      "title": "feat: Workspace Handoff MVP — portable Git manifest, conflict-safe restore and native macOS UI",
-      "url": "https://github.com/truongbo17/inputmesh/pull/6",
-      "createdAt": "2026-10-20T10:57:23Z"
-    },
-    {
-      "title": "QA wallet balances low",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/3654",
-      "createdAt": "2026-10-05T14:30:41Z"
     }
   ]
 }
