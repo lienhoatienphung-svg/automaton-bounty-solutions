@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T17:06:23.769Z",
-  "latencyMs": 1093,
+  "executedAt": "2026-10-20T17:13:59.422Z",
+  "latencyMs": 1147,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #155: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #156: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "G6dHfpt5nD77RBNgoKSMkSuH8KFHQif3KTPge9A2pump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "You arrive with nothing but a name and a way in. Run jobs, build crews, buy property, kill cops, take over businesses, and turn street money into an empire.",
+      "url": "https://dexscreener.com/solana/g6dhfpt5nd77rbngoksmksuh8kfhqif3ktpge9a2pump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "G2a5BzQ9vhk2wBZFNH9dKRJgy6DwebW4yS2YS8fFpump",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/g2a5bzq9vhk2wbzfnh9dkrjgy6dwebw4ys2ys8ffpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
       "boostAmount": 100,
       "totalBoostAmount": 610,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. 🪙 Built & controlled by Agentic AI.",
       "url": "https://dexscreener.com/solana/dtcicpcktkeah7tdeztym3hxeohaomibdyjhmyxzpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DC1MjRzGGdxptmztvHimSvgxtogysrshbi9ZH7fZpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "QuantoLock — The Future of Crypto Payments.\n\nGetting your own money out of crypto shouldn't be complicated.\n\nToday, turning cryptocurrency into spendable money ",
-      "url": "https://dexscreener.com/solana/dc1mjrzggdxptmztvhimsvgxtogysrshbi9zh7fzpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x8B39b55857ceA6D173aF2b5Bb1144c2633739960",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "The multiplayer terminal host your shell, let teammates watch and type together. E2EE, per-guest permissions, audit trail. One Go binary.",
-      "url": "https://dexscreener.com/robinhood/0x8b39b55857cea6d173af2b5bb1144c2633739960"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 91,
-      "priceBtc": 0.000026790205805824368
+      "marketCapRank": 90,
+      "priceBtc": 0.000026813770175110647
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 738,
+      "priceBtc": 0.0010373146444964483
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00005984578970348202
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 737,
-      "priceBtc": 0.0010391074982244602
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.432224760042726e-8
+      "priceBtc": 0.00005980320942879319
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
-      "marketCapRank": 147,
-      "priceBtc": 0.000003997750558857256
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9999623942136521
+      "marketCapRank": 145,
+      "priceBtc": 0.00000403792451484412
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.00001045511674233887
+      "priceBtc": 0.000010379491423618099
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.0006389701549296
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 71,
-      "priceBtc": 0.00030673496507618967
+      "priceBtc": 0.0003052356907033369
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.50868206110511e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(server): faucet claims need the recipient's signature or a Turnstile token; refused claims cost no gas (#79)",
-      "url": "https://github.com/bytesbrains/16ane/pull/85",
-      "createdAt": "2026-10-20T16:37:09Z"
+      "title": "feat(insights): assistant and meetings in Insights, and share as a deck of cards",
+      "url": "https://github.com/AbhishekBarali/SpeakoFlow/pull/88",
+      "createdAt": "2026-10-20T09:03:05Z"
     },
     {
-      "title": "Quote an empty wallet in the chain's native token",
-      "url": "https://github.com/altananetwork/altana-sdk/pull/118",
-      "createdAt": "2026-10-20T17:06:13Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "[Feat] LiLiCorr: Support GGUF draft checkpoints",
-      "url": "https://github.com/sgl-project/sglang/pull/45229",
-      "createdAt": "2026-10-19T21:00:37Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "feat(arkade)!: remove Boltz swaps; Lightning on Arkade via Arkade Intents",
-      "url": "https://github.com/kaleidoswap/wallet-engine/pull/124",
-      "createdAt": "2026-10-17T19:45:01Z"
+      "title": "Website: add a Fleet server API for the profile generator",
+      "url": "https://github.com/fleetdm/fleet/pull/55939",
+      "createdAt": "2026-10-19T20:20:24Z"
     },
     {
-      "title": "fix(attribution): resolve remaining 50 CodeCheck findings",
-      "url": "https://github.com/openJiuwen-ai/agent-core/pull/2106",
-      "createdAt": "2026-10-20T16:23:06Z"
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/voku/BlindSpotMetaPromptApp/pull/21",
+      "createdAt": "2026-03-23T18:37:16Z"
     },
     {
-      "title": "docs(agents): add a page for giving an agent a wallet and test funds",
-      "url": "https://github.com/celo-org/docs/pull/2396",
-      "createdAt": "2026-10-15T22:28:28Z"
+      "title": "Prepare Airdrop 1.5.0 native packages and guided connection setup",
+      "url": "https://github.com/fluffydisk/airdrop-linux/pull/1",
+      "createdAt": "2026-10-20T17:08:33Z"
     }
   ]
 }
