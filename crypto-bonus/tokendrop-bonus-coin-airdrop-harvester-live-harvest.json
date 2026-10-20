@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T05:23:43.282Z",
-  "latencyMs": 892,
+  "executedAt": "2026-10-20T05:26:13.709Z",
+  "latencyMs": 866,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #858: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #859: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,19 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(dashmate)!: give Debian packages versions apt can order",
-      "url": "https://github.com/dashpay/platform/pull/4282",
-      "createdAt": "2026-08-04T12:24:19Z"
+      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
+      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
+      "createdAt": "2026-10-18T07:37:42Z"
     },
     {
-      "title": "CHORE: Version packages",
-      "url": "https://github.com/4thtech/agentlink/pull/264",
-      "createdAt": "2026-10-18T18:17:25Z"
+      "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
+      "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
+      "createdAt": "2026-10-09T09:52:33Z"
     },
     {
-      "title": "data(avalanche): add verified official explorer links",
-      "url": "https://github.com/Chain-Love/chain-love/pull/4488",
-      "createdAt": "2026-10-16T07:14:04Z"
+      "title": "[executorch][muse] Draft CUDA DFlash decode from pending tokens",
+      "url": "https://github.com/pytorch/executorch/pull/23983",
+      "createdAt": "2026-10-19T04:59:00Z"
+    },
+    {
+      "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
+      "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
+      "createdAt": "2026-10-19T08:06:34Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -285,14 +290,9 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Tooling: pinned pieces, skandha nodes, the Rust sender, and run records checked offline",
-      "url": "https://github.com/4w44h9jckz-boop/exp-e2e-frames/pull/1",
-      "createdAt": "2026-10-20T05:17:32Z"
-    },
-    {
-      "title": "docs: tANE as the shared currency of a cross-platform agent-economy playground",
-      "url": "https://github.com/bytesbrains/16ane/pull/64",
-      "createdAt": "2026-10-20T00:44:06Z"
+      "title": "fix(dashmate)!: give Debian packages versions apt can order",
+      "url": "https://github.com/dashpay/platform/pull/4282",
+      "createdAt": "2026-08-04T12:24:19Z"
     }
   ]
 }
