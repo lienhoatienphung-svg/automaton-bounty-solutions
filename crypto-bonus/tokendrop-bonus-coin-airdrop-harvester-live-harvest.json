@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T20:41:23.566Z",
-  "latencyMs": 879,
+  "executedAt": "2026-10-20T20:48:40.313Z",
+  "latencyMs": 1123,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #209: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #210: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,22 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "bsc",
+      "tokenAddress": "0x3F2B2F9eaB97abDf5A46dfc1B5a6b0679527202B",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Sir Pancake, Pancake swaps official mascot\n\nSirpancake paired with $CAKE",
+      "url": "https://dexscreener.com/bsc/0x3f2b2f9eab97abdf5a46dfc1b5a6b0679527202b"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "H6bKfM138tfiqa6BE2jTPJRsH2Pb2F8MwehykbU6pump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "PorchLight is a community-first memecoin on Solana. A porch light means someone's home and you're welcome $solporch is built for the people. Always active dev, ",
+      "url": "https://dexscreener.com/solana/h6bkfm138tfiqa6be2jtpjrsh2pb2f8mwehykbu6pump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x9A7C661Be578e50927268fb770146D701b3368e7",
       "boostAmount": 10,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/5mw9ngdqdgdzrsp1ydfh5jj2zodgg85kwwk3g24qdz8q"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "9gApkc4LJfLpefnV1J5BhPgzRktyrtbh59NYB9kYZkCE",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Launch in the shadows\n\nDiscover in the Open\n\npumpanon",
-      "url": "https://dexscreener.com/solana/9gapkc4ljflpefnv1j5bhpgzrktyrtbh59nyb9kyzkce"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x95286bEc1b0943D5A0fad60ac048f0C50EC8CCD0",
-      "boostAmount": 10,
-      "totalBoostAmount": 60,
-      "description": "Pixel farming game on  Robinhood",
-      "url": "https://dexscreener.com/robinhood/0x95286bec1b0943d5a0fad60ac048f0c50ec8ccd0"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 90,
-      "priceBtc": 0.000025506027697040577
+      "priceBtc": 0.00002560621008299086
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 114,
-      "priceBtc": 9.691518006494438e-8
+      "priceBtc": 9.727565812329829e-8
     },
     {
       "name": "Pepe",
       "symbol": "PEPE",
       "marketCapRank": 53,
-      "priceBtc": 5.524389918503196e-11
+      "priceBtc": 5.539566315678497e-11
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 137,
+      "priceBtc": 0.000004475077297814328
+    },
+    {
+      "name": "Grass",
+      "symbol": "GRASS",
+      "marketCapRank": 124,
+      "priceBtc": 0.000007436775969218321
     },
     {
       "name": "Pyth Network",
       "symbol": "PYTH",
       "marketCapRank": 100,
-      "priceBtc": 9.611362930214473e-7
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 138,
-      "priceBtc": 0.0000043413697929866114
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00005896278361568345
+      "priceBtc": 9.665554134286213e-7
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 123,
-      "priceBtc": 6.887524995095686e-7
+      "priceBtc": 6.925919156692156e-7
     },
     {
       "name": "Monero",
       "symbol": "XMR",
       "marketCapRank": 13,
-      "priceBtc": 0.007518899866594353
+      "priceBtc": 0.00749119124577893
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore: exclude vendored lib/ from SonarCloud; give numeric sorts a compare function (#87)",
-      "url": "https://github.com/bytesbrains/16ane/pull/88",
-      "createdAt": "2026-10-20T20:40:58Z"
+      "title": "feat(cookbook): ask Dexra for a risk verdict before buying a pump.fun coin",
+      "url": "https://github.com/chainstacklabs/pumpfun-bonkfun-bot/pull/242",
+      "createdAt": "2026-10-20T20:26:10Z"
     },
     {
-      "title": "LeakLock 0.4.4: fixes from the second security audit",
-      "url": "https://github.com/sotnikov-nk/LeakLock/pull/2",
-      "createdAt": "2026-10-20T20:17:43Z"
+      "title": "test: run Core Lightning's pay tests with barq serving pay, and close the gaps they found",
+      "url": "https://github.com/coffee-tools/barq/pull/59",
+      "createdAt": "2026-10-19T18:44:01Z"
     },
     {
-      "title": "feat(price_pusher): add v1 transactions to the Solana pusher behind --transaction-version",
-      "url": "https://github.com/pyth-network/pyth-crosschain/pull/4066",
-      "createdAt": "2026-10-20T15:23:30Z"
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
+    },
+    {
+      "title": "🤝 Agent coordination channel (standing, vol. 2)",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
+      "createdAt": "2026-09-20T06:23:41Z"
+    },
+    {
+      "title": "feat(frontend): Receive dialog to mockup note 9; one primary-button rule on the dashboard (Closes #4167)",
+      "url": "https://github.com/d-hinders/Haven-AI/pull/4183",
+      "createdAt": "2026-10-20T20:38:35Z"
     },
     {
       "title": "Track biology evals",
       "url": "https://github.com/marin-community/marin/issues/9258",
       "createdAt": "2026-09-18T20:24:44Z"
-    },
-    {
-      "title": "perf(sampling): fuse greedy chain verification output writes",
-      "url": "https://github.com/lightseekorg/tokenspeed/pull/2553",
-      "createdAt": "2026-10-20T19:50:31Z"
-    },
-    {
-      "title": "perf(jit): resolve old Vyper memory returns and drop unreached blocks",
-      "url": "https://github.com/alloy-rs/evm2/pull/687",
-      "createdAt": "2026-10-18T11:29:21Z"
     }
   ]
 }
