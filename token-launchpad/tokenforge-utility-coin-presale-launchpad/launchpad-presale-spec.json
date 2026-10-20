@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T01:19:42.699Z",
-  "latencyMs": 485,
+  "executedAt": "2026-10-20T01:21:47.622Z",
+  "latencyMs": 431,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #828: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #829: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52834917,
+    "liveBlockNumber": 52834980,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440982,
-    "baseMainnetTopPoolsVolume24hUsd": 139016,
+    "baseMainnetTopPoolsVolume24hUsd": 138755,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6vpAtdDWMV8gN5obqyosZBnerbZotsnXcQvs4mHipump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6vpatddwmv8gn5obqyoszbnerbzotsnxcqvs4mhipump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "pumpacpzi8vDp5axqfc9A3qXnfV1KHYG8eRdf2RvyLw",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/pumpacpzi8vdp5axqfc9a3qxnfv1khyg8erdf2rvylw"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2jHprbBU4mqPcoYQLXDynCEdwcmrLEgrKY1sFA3tpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2jhprbbu4mqpcoyqlxdyncedwcmrlegrky1sfa3tpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xcf51cC8f5fAeD7399EEc9f2cF6DF2Bd5c28395Ee",
+        "description": "Meet NANWOO ($NWOO), a little wolf with a pink nightcap, tiny glasses, and a very suspicious disguise. 🐺🌸\n\nShe offers cookies. She looks innocent. Then one ti",
+        "url": "https://dexscreener.com/robinhood/0xcf51cc8f5faed7399eec9f2cf6df2bd5c28395ee"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "RP8pXrfBtUjgiEnMvjK2fBhdKKPRA5thNSj9PnpDRhd",
@@ -57,30 +81,6 @@
         "tokenAddress": "6fzp9sPSJtwhTBr6gm2VRrAmKjW8ttd6AVWgH1S9pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/6fzp9spsjtwhtbr6gm2vrramkjw8ttd6avwgh1s9pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BA9dMJJZ6ht5kj7Zutedtx5RZVckgHUJikVtAxKmpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ba9dmjjz6ht5kj7zutedtx5rzvckghujikvtaxkmpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GnTKYuHvH4vkdEfqbUX76FYxcWgoaWo83QLTXjo6pump",
-        "description": "The most expensive Pokémon card sold by Logan Paul worth $16.4M and listed in Guinness Worlds.",
-        "url": "https://dexscreener.com/solana/gntkyuhvh4vkdefqbux76fyxcwgoawo83qltxjo6pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EA7Baz8uSSwDM5DudhivQyfSSqC7SYmKVm1vRMK9pump",
-        "description": "Your wallet must have an alibi.See what strangers see on Solana, then erase it. Exposure check · burners · private pools.",
-        "url": "https://dexscreener.com/solana/ea7baz8usswdm5dudhivqyfssqc7symkvm1vrmk9pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7jz5odotkTt3UUjFyHemTDPQMqzgX3YjMamM3Zx3pump",
-        "description": "Meet GTA VI Mascot ($GM), where Vice City vibes, wild adventures, and unstoppable meme energy collide. Rule the streets and ride the hype to the moon!",
-        "url": "https://dexscreener.com/solana/7jz5odotktt3uujfyhemtdpqmqzgx3yjmamm3zx3pump"
       }
     ]
   },
