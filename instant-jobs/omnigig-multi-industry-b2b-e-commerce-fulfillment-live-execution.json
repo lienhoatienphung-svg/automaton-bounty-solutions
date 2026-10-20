@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T15:59:53.451Z",
-  "latencyMs": 828,
+  "executedAt": "2026-10-20T16:00:44.908Z",
+  "latencyMs": 637,
   "companyName": "OmniGig Multi-Industry B2B & E-Commerce Fulfillment",
-  "workTitle": "Growth & Sales Sprint #136: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
-  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
+  "workTitle": "Delivery Sprint #137: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "targetUrl": "https://polymarket.com/event/macron-out-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -132,6 +132,21 @@
     "contracts": [
       {
         "source": "RemoteOK-InstantB2B",
+        "company": "SupportYourApp",
+        "roleOrTask": "Customer Support Consultant hospitality",
+        "industryTags": [
+          "consulting",
+          "customer support",
+          "saas",
+          "infosec",
+          "technical"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
         "company": "Sothebyâs",
         "roleOrTask": "Senior Software Engineer",
         "industryTags": [
@@ -188,21 +203,6 @@
         ],
         "compensation": "$500-$2,500 Instant Retainer",
         "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Yuno",
-        "roleOrTask": "Technical Account Manager",
-        "industryTags": [
-          "exec",
-          "design",
-          "hr",
-          "python",
-          "technical"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
         "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
       },
       {
