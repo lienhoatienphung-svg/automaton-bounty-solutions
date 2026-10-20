@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T20:24:50.107Z",
-  "latencyMs": 975,
+  "executedAt": "2026-10-20T20:25:39.988Z",
+  "latencyMs": 862,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #204: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #205: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Kimi K3 support",
+      "url": "https://github.com/tpurtell/cuteafd/issues/273",
+      "createdAt": "2026-10-15T06:49:01Z"
+    },
+    {
       "title": "fix(deps): update frontend",
       "url": "https://github.com/it-infra-meetup/website/pull/83",
       "createdAt": "2026-07-31T17:41:51Z"
@@ -288,11 +293,6 @@
       "title": "Add an overview",
       "url": "https://github.com/fungi-protocol/docs/pull/51",
       "createdAt": "2026-10-13T04:19:56Z"
-    },
-    {
-      "title": "feat(mcp): add onchain MCP server (quest #17689)",
-      "url": "https://github.com/pollinations/pollinations/pull/17972",
-      "createdAt": "2026-10-20T20:22:16Z"
     }
   ]
 }
