@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T16:25:22.582Z",
-  "latencyMs": 1034,
+  "executedAt": "2026-10-20T16:30:30.973Z",
+  "latencyMs": 1551,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #143: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #144: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+      "boostAmount": 500,
+      "totalBoostAmount": 510,
+      "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
+      "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "Stablecoin FX at the Pyth rate.",
       "url": "https://dexscreener.com/solana/wsb2aewvqrtz3dcufa6yd89aw3qu1gjlscujlnyfery"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "ttH5rJWVxCFBdjd3x2AnBxtYDJtRCFa9ty4QpmUpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "$ROULANA is the coin of Roulana: live multiplayer European roulette on Solana, played with real USDC at one 3D table. Every round with money on it is drawn and ",
-      "url": "https://dexscreener.com/solana/tth5rjwvxcfbdjd3x2anbxtydjtrcfa9ty4qpmupump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "customer: D-bridge-chain-05 Network card, Add to wallet and Supported networks",
-      "url": "https://github.com/INTAFACED/intafaced/pull/5564",
-      "createdAt": "2026-10-20T11:52:21Z"
+      "title": "feat(insights): assistant and meetings in Insights, and share as a deck of cards",
+      "url": "https://github.com/AbhishekBarali/SpeakoFlow/pull/88",
+      "createdAt": "2026-10-20T09:03:05Z"
     },
     {
-      "title": "Kimi K3 support",
-      "url": "https://github.com/tpurtell/cuteafd/issues/273",
-      "createdAt": "2026-10-15T06:49:01Z"
+      "title": "docs(agents): add a page for giving an agent a wallet and test funds",
+      "url": "https://github.com/celo-org/docs/pull/2396",
+      "createdAt": "2026-10-15T22:28:28Z"
     },
     {
-      "title": "[AP-ROLE] EVENTS — Daily, Weekly, S01 & Pass Config",
-      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/issues/25",
-      "createdAt": "2026-10-20T01:23:54Z"
+      "title": "ux(bot): 4 clear leaderboard periods and compact Telegram panels",
+      "url": "https://github.com/jaavid/Mustache/pull/49",
+      "createdAt": "2026-10-20T16:29:15Z"
     },
     {
-      "title": "fix(xrpl): act only on ledgers past the newest seen; a reset only on the testnet",
-      "url": "https://github.com/justmoon/dassie/pull/170",
-      "createdAt": "2026-10-20T16:23:36Z"
+      "title": "KITCHEN-PRERINSE-001: force-qualified, task-efficient commercial pre-rinse sprayer",
+      "url": "https://github.com/Luminous-Dynamics/symtropy/issues/2359",
+      "createdAt": "2026-10-20T16:13:41Z"
     },
     {
-      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
-      "url": "https://github.com/jsboige/CoursIA/pull/20377",
-      "createdAt": "2026-10-11T14:10:17Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/ELIXIR-NO/edam-browser/pull/76",
+      "createdAt": "2026-03-23T14:45:17Z"
     },
     {
-      "title": "test(events): audit S01 UTC calendar and safe content budgets",
-      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/pull/36",
-      "createdAt": "2026-10-20T16:22:03Z"
+      "title": "feat(ads): admob adapter",
+      "url": "https://github.com/RevenueCat/purchases-flutter/pull/1946",
+      "createdAt": "2026-10-11T19:49:28Z"
     }
   ]
 }
