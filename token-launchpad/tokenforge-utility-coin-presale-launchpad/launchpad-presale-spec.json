@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T10:53:36.365Z",
-  "latencyMs": 472,
+  "executedAt": "2026-10-20T10:56:14.236Z",
+  "latencyMs": 393,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #25: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #26: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52852134,
+    "liveBlockNumber": 52852213,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 421199,
-    "baseMainnetTopPoolsVolume24hUsd": 170337,
+    "baseMainnetTopPoolsVolume24hUsd": 170342,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3NtA5sXpWjwjb67phR6Ez13Mf84CBGYmEidPtycUpump",
+        "description": "Market-graded collectibles; create, buy, and sell cards graded by market cap. Each card carries its own revenue stream.",
+        "url": "https://dexscreener.com/solana/3nta5sxpwjwjb67phr6ez13mf84cbgymeidptycupump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "AuhAhnNNU6K7p3tBNzcRV5kDPZGF6zhofpfb6sUkpump",
@@ -57,12 +63,6 @@
         "tokenAddress": "Fxg6uAWLm7HTyDvhSwz8FX7yvdaSPGKzzijuBW1hpump",
         "description": "This story is actually insane and has been all over my X and IG feeds past few days",
         "url": "https://dexscreener.com/solana/fxg6uawlm7htydvhswz8fx7yvdaspgkzzijubw1hpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9BGJjumTYJwhGz4kCBsU9cM95No86TNYwWaNiUugpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9bgjjumtyjwhgz4kcbsu9cm95no86tnywwaniuugpump"
       },
       {
         "chainId": "solana",
