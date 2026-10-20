@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T11:18:37.907Z",
-  "latencyMs": 565,
+  "executedAt": "2026-10-20T11:21:37.187Z",
+  "latencyMs": 626,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #37: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #38: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52852885,
+    "liveBlockNumber": 52852974,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 421199,
-    "baseMainnetTopPoolsVolume24hUsd": 170628,
+    "baseMainnetTopPoolsVolume24hUsd": 171485,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "669Df9CmNckBxf3jAx6F7rS8XsAXATcS8dPXjqwXpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/669df9cmnckbxf3jax6f7rs8xsaxatcs8dpxjqwxpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GNZBkDriPAgDXbwigo34cfACpL2nEd1sX1W4wr8Kpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gnzbkdripagdxbwigo34cfacpl2ned1sx1w4wr8kpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Gd6cpW5153N5tZRm83yQBYgr6AJqXuNBCTCU9TPYpump",
+        "description": "A little chihuahua with an oversized cap and a seriously big attitude. Come for the dog. Stay for the pack.",
+        "url": "https://dexscreener.com/solana/gd6cpw5153n5tzrm83yqbygr6ajqxunbctcu9tpypump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3rNz6iJ8X1YLsvZBxo1U934qdccsyLsjAtPYicTnpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "B77TPEKSR8nu23ZYUHB83LYxyGDBNkCzfvHXFkfRpump",
         "description": "Chicken Nugget the Fastest growing Cat!",
         "url": "https://dexscreener.com/solana/b77tpeksr8nu23zyuhb83lyxygdbnkczfvhxfkfrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4YcxuEm5egtjMwRGe4G4QdgAzuC5ZDrebChiXNTopump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4ycxuem5egtjmwrge4g4qdgazuc5zdrebchixntopump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HPKUyR2V8ezN4XbrkZMW3KiDC9NrPvBuRK4zDHhqpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hpkuyr2v8ezn4xbrkzmw3kidc9nrpvburk4zdhhqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3NtA5sXpWjwjb67phR6Ez13Mf84CBGYmEidPtycUpump",
-        "description": "Market-graded collectibles; create, buy, and sell cards graded by market cap. Each card carries its own revenue stream.",
-        "url": "https://dexscreener.com/solana/3nta5sxpwjwjb67phr6ez13mf84cbgymeidptycupump"
       }
     ]
   },
