@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T14:18:15.324Z",
-  "latencyMs": 345,
+  "executedAt": "2026-10-20T14:23:10.805Z",
+  "latencyMs": 368,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #105: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #106: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52858274,
-    "liveGasPriceGwei": 0.0065,
+    "liveBlockNumber": 52858421,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 450114,
-    "baseMainnetTopPoolsVolume24hUsd": 206728,
+    "baseMainnetTopPoolsVolume24hUsd": 207005,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HRinaBFCW3YkU9oN3EvvuHWXPssbos7unSEi97Vipump",
+        "description": "Paper trade Pumpfun tokens, climb the leaderboard, and win real SOL. No wallet connection, no capital required",
+        "url": "https://dexscreener.com/solana/hrinabfcw3yku9on3evvuhwxpssbos7unsei97vipump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xA46Bb59e405D2bc3416eF11952cD6D64DA570562",
+        "description": "Play-to-earn token of Messenger, a 3D delivery game on Robinhood Chain.",
+        "url": "https://dexscreener.com/robinhood/0xa46bb59e405d2bc3416ef11952cd6d64da570562"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0xEd9Bc1A78DD4aee67DDD97365451deB00Fd38f10",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x63815c2091679f22ee96842019ec43b084a6e246",
         "description": "Hookereum is an AI-powered launchpad on Ethereum, built on Uniswap v4.\n\nEvery launched coin is paired with an AI agent that writes and upgrades its treasury str",
         "url": "https://dexscreener.com/ethereum/0x63815c2091679f22ee96842019ec43b084a6e246"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6hjwH1Q3FytRxReTWQ4eJN1E8qzWgZ5qhjc5oT3Ppump",
-        "description": "This HASN'T been deployed on Pump yet.\n\nThe market is in need of a simple animal runner instead of larp tech coins.\n\nLeo has been getting posted by news outlets",
-        "url": "https://dexscreener.com/solana/6hjwh1q3fytrxretwq4ejn1e8qzwgz5qhjc5ot3ppump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x5fbc8cd4ab70c4cf12c6c6883c8e2f6979f3451c",
-        "description": "A new era of digital journalism. \nAI-verified news. Community-powered rewards.\nBuilt on Robinhood Chain.",
-        "url": "https://dexscreener.com/robinhood/0x5fbc8cd4ab70c4cf12c6c6883c8e2f6979f3451c"
       }
     ]
   },
