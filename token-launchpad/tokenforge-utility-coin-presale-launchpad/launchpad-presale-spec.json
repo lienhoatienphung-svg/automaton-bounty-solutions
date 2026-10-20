@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T15:44:11.348Z",
-  "latencyMs": 330,
+  "executedAt": "2026-10-20T15:45:20.480Z",
+  "latencyMs": 767,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #130: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
+  "workTitle": "Delivery Sprint #131: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52860852,
-    "liveGasPriceGwei": 0.006,
+    "liveBlockNumber": 52860886,
+    "liveGasPriceGwei": 0.0061,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 457520,
-    "baseMainnetTopPoolsVolume24hUsd": 213881,
+    "baseMainnetTopPoolsVolume24hUsd": 213757,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9UNTqhLTCcbRLuey29vkVFse2FtzMSv4wHg47Vuapump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9untqhltccbrluey29vkvfse2ftzmsv4whg47vuapump"
+      },
       {
         "chainId": "ethereum",
         "tokenAddress": "0x5f0df9f34f74d3238fd026a2ca0b98a782b13095",
@@ -75,12 +81,6 @@
         "tokenAddress": "9oAKMJUqF3Q81bgJmpMYrsVgpW2y1SDgp2AUjsSGpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/9oakmjuqf3q81bgjmpmyrsvgpw2y1sdgp2aujssgpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6VAyooNsKhyS4UeUR2LBH1A52NvouCgmVBru7n6ipump",
-        "description": "Put your tokenized stocks to work.\n\nEarn weekly USDC premiums with onchain options vaults.\n\nBuilt on Solana. Powered by \n@xstocksfi\n.",
-        "url": "https://dexscreener.com/solana/6vayoonskhys4ueur2lbh1a52nvoucgmvbru7n6ipump"
       }
     ]
   },
