@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T22:36:46.628Z",
-  "latencyMs": 819,
+  "executedAt": "2026-10-20T22:44:48.747Z",
+  "latencyMs": 750,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #235: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #236: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "nPD9vif19C2oY1jhHRrAJSSpMu9tJQtibfxoZ4qcxph",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Launch and trade tokens paired with stocks, crypto, stablecoins & more.",
+      "url": "https://dexscreener.com/solana/npd9vif19c2oy1jhhrrajsspmu9tjqtibfxoz4qcxph"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "4KxtNWc5XTL3cuyc8PJMchqB6RYggvEFeMub727GBAGS",
       "boostAmount": 50,
       "totalBoostAmount": 50,
@@ -202,97 +210,89 @@
       "totalBoostAmount": 30,
       "description": "Sir Pancake, Pancake swaps official mascot\n\nSirpancake paired with $CAKE",
       "url": "https://dexscreener.com/bsc/0x3f2b2f9eab97abdf5a46dfc1b5a6b0679527202b"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "H6bKfM138tfiqa6BE2jTPJRsH2Pb2F8MwehykbU6pump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "PorchLight is a community-first memecoin on Solana. A porch light means someone's home and you're welcome $solporch is built for the people. Always active dev, ",
-      "url": "https://dexscreener.com/solana/h6bkfm138tfiqa6be2jtpjrsh2pb2f8mwehykbu6pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 90,
-      "priceBtc": 0.000025455402246256428
-    },
-    {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015308859658219333
+      "priceBtc": 0.015332962073883771
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 723,
-      "priceBtc": 0.0010590084911179334
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 83,
-      "priceBtc": 0.00001066642150887907
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 141,
-      "priceBtc": 0.000004193706854768234
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 90,
+      "priceBtc": 0.00002508356543762218
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.000059845049289765487
+      "priceBtc": 0.00005975892007506128
     },
     {
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "marketCapRank": 48,
-      "priceBtc": 0.000005474350015039051
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 719,
+      "priceBtc": 0.0010654572988290849
     },
     {
-      "name": "Ethereum",
-      "symbol": "ETH",
-      "marketCapRank": 2,
-      "priceBtc": 0.029600853458222335
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 114,
+      "priceBtc": 9.654910693664013e-8
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 83,
+      "priceBtc": 0.000010669474799040668
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 141,
+      "priceBtc": 0.000004226167902957046
+    },
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 49,
+      "priceBtc": 5.745905837502414e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "feat(android): turn the example app into a reference wallet (#399)",
+      "url": "https://github.com/fedimint/fedimint-sdk/pull/430",
+      "createdAt": "2026-09-30T13:51:32Z"
     },
     {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
+      "title": "CT-24: Admin transfer — make it consistent across contracts and add expiry",
+      "url": "https://github.com/zeekman/FarmersMarketplace/issues/1543",
+      "createdAt": "2026-10-15T15:07:31Z"
     },
     {
-      "title": "Redesign B: the faucet's status for the wallet menu",
-      "url": "https://github.com/PlusqRED/duelme/pull/133",
-      "createdAt": "2026-10-20T22:18:35Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "feat(top-holders): Top Holders on the expanded sheet",
-      "url": "https://github.com/rainbow-me/rainbow/pull/7885",
-      "createdAt": "2026-10-16T13:37:58Z"
+      "title": "Add official Aptos Devnet and Testnet faucet listings",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4334",
+      "createdAt": "2026-10-09T08:10:23Z"
     },
     {
-      "title": "Keep test Anvil state off disk",
-      "url": "https://github.com/mejango/banny-retail-v6/pull/144",
-      "createdAt": "2026-10-20T22:34:32Z"
+      "title": "Bundled features: issues #1123, #1126, #1131, #1132",
+      "url": "https://github.com/Fracverse/InheritX/pull/1250",
+      "createdAt": "2026-10-20T22:38:50Z"
     },
     {
-      "title": "Computadores: manda arquivos direto para outro computador da conta pela rede (cifrado, conferido, Drive junto)",
-      "url": "https://github.com/victorbarrosoc-hub/baixadordodrive/pull/80",
-      "createdAt": "2026-10-20T22:33:20Z"
+      "title": "Kimi K3 support",
+      "url": "https://github.com/tpurtell/cuteafd/issues/273",
+      "createdAt": "2026-10-15T06:49:01Z"
     }
   ]
 }
