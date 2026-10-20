@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T19:59:37.463Z",
-  "latencyMs": 1183,
+  "executedAt": "2026-10-20T20:00:48.017Z",
+  "latencyMs": 613,
   "companyName": "FlashSpread Cross-DEX Liquidity & Arbitrage",
-  "workTitle": "Growth & Sales Sprint #200: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
-  "targetUrl": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
+  "workTitle": "Delivery Sprint #201: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "targetUrl": "https://polymarket.com/event/will-any-country-leave-nato-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -106,24 +106,24 @@
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
+        "pairAddress": "0x29Ed55B18Af0Add137952CB3E29FB77B32fCE426",
+        "dexId": "pancakeswap",
+        "baseSymbol": "USDC",
+        "quoteSymbol": "USDbC",
+        "priceUsd": 1.0000059,
+        "liquidityUsd": 14836,
+        "volume24hUsd": 736,
+        "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
+      },
+      {
         "pairAddress": "0x06959273E9A65433De71F5A452D529544E07dDD0",
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 12034,
-        "volume24hUsd": 3329,
+        "volume24hUsd": 3321,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
-      },
-      {
-        "pairAddress": "0x29Ed55B18Af0Add137952CB3E29FB77B32fCE426",
-        "dexId": "pancakeswap",
-        "baseSymbol": "USDC",
-        "quoteSymbol": "USDbC",
-        "priceUsd": 1.0000067,
-        "liquidityUsd": 14836,
-        "volume24hUsd": 719,
-        "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       }
     ]
   },
