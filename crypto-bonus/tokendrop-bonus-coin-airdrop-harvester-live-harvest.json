@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T17:05:08.251Z",
-  "latencyMs": 975,
+  "executedAt": "2026-10-20T17:06:23.769Z",
+  "latencyMs": 1093,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #154: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #155: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(server): faucet claims need the recipient's signature or a Turnstile token; refused claims cost no gas (#79)",
+      "url": "https://github.com/bytesbrains/16ane/pull/85",
+      "createdAt": "2026-10-20T16:37:09Z"
+    },
+    {
+      "title": "Quote an empty wallet in the chain's native token",
+      "url": "https://github.com/altananetwork/altana-sdk/pull/118",
+      "createdAt": "2026-10-20T17:06:13Z"
+    },
+    {
+      "title": "[Feat] LiLiCorr: Support GGUF draft checkpoints",
+      "url": "https://github.com/sgl-project/sglang/pull/45229",
+      "createdAt": "2026-10-19T21:00:37Z"
+    },
+    {
+      "title": "feat(arkade)!: remove Boltz swaps; Lightning on Arkade via Arkade Intents",
+      "url": "https://github.com/kaleidoswap/wallet-engine/pull/124",
+      "createdAt": "2026-10-17T19:45:01Z"
+    },
+    {
+      "title": "fix(attribution): resolve remaining 50 CodeCheck findings",
+      "url": "https://github.com/openJiuwen-ai/agent-core/pull/2106",
+      "createdAt": "2026-10-20T16:23:06Z"
+    },
+    {
       "title": "docs(agents): add a page for giving an agent a wallet and test funds",
       "url": "https://github.com/celo-org/docs/pull/2396",
       "createdAt": "2026-10-15T22:28:28Z"
-    },
-    {
-      "title": "Add moe-router-design task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/28",
-      "createdAt": "2026-09-27T02:38:45Z"
-    },
-    {
-      "title": "kestrel: drain bulk-IN during bring-up on USB; redo a bring-up the 8852C fw halted",
-      "url": "https://github.com/OpenIPC/devourer/pull/496",
-      "createdAt": "2026-10-20T16:58:18Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
