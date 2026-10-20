@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T14:57:16.886Z",
-  "latencyMs": 719,
+  "executedAt": "2026-10-20T15:03:49.004Z",
+  "latencyMs": 340,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #117: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #118: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52859444,
-    "liveGasPriceGwei": 0.0062,
+    "liveBlockNumber": 52859640,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 453778,
-    "baseMainnetTopPoolsVolume24hUsd": 214398,
+    "baseMainnetTopPoolsLiquidityUsd": 453777,
+    "baseMainnetTopPoolsVolume24hUsd": 214832,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7LRu3HmrDxFcvaEHj9Fysxbfux2e8VWHx6UfDE9jpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7lru3hmrdxfcvaehj9fysxbfux2e8vwhx6ufde9jpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x0ceedb4145ded3a95769dad1fe8955b7ed586e69",
+        "description": "Let them cook. A coin opened through the kitchen sends its creator fee to its own tab, and seven cooks spend that tab on the coin's brand, page and daily plate.",
+        "url": "https://dexscreener.com/robinhood/0x0ceedb4145ded3a95769dad1fe8955b7ed586e69"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5k8bTV2bT3fBrJAGRdZEZtHAnp92eZzZ1ZRn3wLmpump",
+        "description": "Launch a token across multiple chains at once. One launch, multiple chains, unlimited reach. Available for iOs and Android.",
+        "url": "https://dexscreener.com/solana/5k8btv2bt3fbrjagrdzezthanp92ezzz1zrn3wlmpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4ZWaqSWxsTqcP2EstWHp8YybiprKP5ii3uethAM1pxLB",
@@ -63,24 +81,6 @@
         "tokenAddress": "0x7a2819526c563f814831d50791cd5419336d4365",
         "description": "HypeQ is an AI agent launchpad built on HyperEVM, powered by HyperliquidX\n\nEvery token launched on HypeQ gets its own AI agent. Each move is authenticated using",
         "url": "https://dexscreener.com/hyperevm/0x7a2819526c563f814831d50791cd5419336d4365"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "E9vJVF46N7sNEW7Rd2qf32gfttZDfYa4GZ9PXWrspump",
-        "description": "Giga Chad but make it AI.",
-        "url": "https://dexscreener.com/solana/e9vjvf46n7snew7rd2qf32gfttzdfya4gz9pxwrspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Bna5a5XCQ9Mxt5TK5TsVzEXWYosYBhjENvrz3dMwpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bna5a5xcq9mxt5tk5tsvzexwyosybhjenvrz3dmwpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GXdyH2rLvBrCjWoEptPBMjPQ15TP8VuVjuBYkjFypump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/gxdyh2rlvbrcjwoeptpbmjpq15tp8vuvjubykjfypump"
       }
     ]
   },
