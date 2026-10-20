@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T05:49:31.930Z",
-  "latencyMs": 339,
+  "executedAt": "2026-10-20T05:51:43.331Z",
+  "latencyMs": 1176,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #855: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #854: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52843012,
+    "liveBlockNumber": 52843078,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 159189,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7YBm4oJS6EFCqwuVMXh2pjYNHQVRaELc3KuCASxfpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7ybm4ojs6efcqwuvmxh2pjynhqvraelc3kucasxfpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BN3VouGoaTF4T3BmqF1yspwftgvev9BB6gdwzu6Ppump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0xE4A0A4CcC46dcF1FA121beDEb47567a9758B9F8A",
         "description": "Pokémon brings epic adventures, iconic creatures, and nostalgic magic together in a world where every trainer dreams of becoming a legend!",
         "url": "https://dexscreener.com/ethereum/0xe4a0a4ccc46dcf1fa121bedeb47567a9758b9f8a"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "J2ftCjfu7MGejUKqJvecymH8Pgsd5tUwpNJUvbyGpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/j2ftcjfu7mgejukqjvecymh8pgsd5tuwpnjuvbygpump"
       }
     ]
   },
