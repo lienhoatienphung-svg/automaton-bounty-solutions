@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T15:25:31.853Z",
-  "latencyMs": 739,
+  "executedAt": "2026-10-20T15:31:35.716Z",
+  "latencyMs": 809,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #125: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #126: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52860292,
+    "liveBlockNumber": 52860474,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 457521,
-    "baseMainnetTopPoolsVolume24hUsd": 214812,
+    "baseMainnetTopPoolsLiquidityUsd": 457520,
+    "baseMainnetTopPoolsVolume24hUsd": 215068,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8T2nkC9HQkgd2yjxc7Yn1LAietmXyZKbv1vR4FXDbonk",
+        "description": "Bonnie",
+        "url": "https://dexscreener.com/solana/8t2nkc9hqkgd2yjxc7yn1laietmxyzkbv1vr4fxdbonk"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9oAKMJUqF3Q81bgJmpMYrsVgpW2y1SDgp2AUjsSGpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9oakmjuqf3q81bgjmpmyrsvgpw2y1sdgp2aujssgpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6VAyooNsKhyS4UeUR2LBH1A52NvouCgmVBru7n6ipump",
+        "description": "Put your tokenized stocks to work.\n\nEarn weekly USDC premiums with onchain options vaults.\n\nBuilt on Solana. Powered by \n@xstocksfi\n.",
+        "url": "https://dexscreener.com/solana/6vayoonskhys4ueur2lbh1a52nvoucgmvbru7n6ipump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FLzyjWXHNPXBU95BgfP2CRjB7M1Vhp9jcuFGbcPDpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "0xdCfa97774BA2cb8a9deD0612524984f6f46d4556",
         "description": "COWL is a private receive link for Robinhood Chain. Share one link instead of your wallet address: every payment lands at a fresh one-time address that only you",
         "url": "https://dexscreener.com/robinhood/0xdcfa97774ba2cb8a9ded0612524984f6f46d4556"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x88900DA3C4B3418708d99D880129cacD9b037777",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/bsc/0x88900da3c4b3418708d99d880129cacd9b037777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EXaNWcxKVP1T4y7fL4jdB4WR5qFELPS9FdATFR6ppump",
-        "description": "GOTCHA - Cast. Catch. Earn. Explore tropical islands, reel in rare fish, and turn your catches into opportunities for SOL rewards in a multiplayer Play-to-Earn ",
-        "url": "https://dexscreener.com/solana/exanwcxkvp1t4y7fl4jdb4wr5qfelps9fdatfr6ppump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xF8393A2F960Eaf758df23D16f0E7A4B9Be33D790",
-        "description": "Self-hosted agentic AI for developers.",
-        "url": "https://dexscreener.com/robinhood/0xf8393a2f960eaf758df23d16f0e7a4b9be33d790"
       }
     ]
   },
