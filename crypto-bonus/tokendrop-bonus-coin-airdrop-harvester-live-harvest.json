@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T18:55:05.449Z",
-  "latencyMs": 1063,
+  "executedAt": "2026-10-20T18:55:59.418Z",
+  "latencyMs": 1201,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #182: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #183: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(deps): update production-dependencies-major (major)",
+      "url": "https://github.com/iamvikshan/nextjs-app/pull/6",
+      "createdAt": "2026-07-06T21:05:14Z"
+    },
+    {
       "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
       "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
       "createdAt": "2026-10-07T00:07:47Z"
@@ -288,11 +293,6 @@
       "title": "Update dependency lucide-react to v1.60.0",
       "url": "https://github.com/Elieez/aktiekollwebb/pull/145",
       "createdAt": "2026-04-23T17:04:49Z"
-    },
-    {
-      "title": "CT-16: Verify the escrow → reward-token mint integration end-to-end",
-      "url": "https://github.com/zeekman/FarmersMarketplace/issues/1535",
-      "createdAt": "2026-10-15T15:06:52Z"
     }
   ]
 }
