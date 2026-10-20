@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T08:01:01.754Z",
-  "latencyMs": 931,
+  "executedAt": "2026-10-20T08:03:58.563Z",
+  "latencyMs": 725,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #872: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #873: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,57 +217,67 @@
     {
       "name": "PHALA",
       "symbol": "PHA",
-      "marketCapRank": 417,
-      "priceBtc": 7.681270633944913e-7
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 141,
-      "priceBtc": 0.000004255398394712062
+      "marketCapRank": 426,
+      "priceBtc": 7.589481719535471e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 705,
-      "priceBtc": 0.001096556454190836
+      "priceBtc": 0.0010962405131866196
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 93,
-      "priceBtc": 0.00002413837374819511
+      "priceBtc": 0.00002414805415614883
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 141,
+      "priceBtc": 0.000004187352569773765
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9995393359217123
+      "priceBtc": 0.9991456831231299
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00005870574783938881
+      "priceBtc": 0.00005864284242639917
     },
     {
-      "name": "Ethereum",
-      "symbol": "ETH",
-      "marketCapRank": 2,
-      "priceBtc": 0.02931444399291571
+      "name": "GRVT Token",
+      "symbol": "GRVT",
+      "marketCapRank": 657,
+      "priceBtc": 0.0000031342087701953595
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.196389711056227e-8
+      "name": "Nullmask",
+      "symbol": "MASK",
+      "marketCapRank": 683,
+      "priceBtc": 5.721786273094075e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Penalty kick: drag to aim and a keeper who dives",
-      "url": "https://github.com/usernode-bot/goalio-a110d1/pull/121",
-      "createdAt": "2026-10-20T07:33:37Z"
+      "title": "# Spike 598 — Achievement season resets: from cumulative counters to seasonal competition",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/462",
+      "createdAt": "2026-10-15T10:33:10Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/kylescudder/jira-clone/pull/111",
+      "createdAt": "2026-03-23T17:44:25Z"
+    },
+    {
+      "title": "# Spike 597 — Creator revenue dashboards: royalties plus sales plus views plus costs unified P and L",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/461",
+      "createdAt": "2026-10-15T10:32:42Z"
     },
     {
       "title": "# Spike 590 — AI narrator multi-model routing with Gemini fallbacks and hedging",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-15T10:28:59Z"
     },
     {
-      "title": "Add evolutionary-optimization-llms-long-horizon task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/94",
-      "createdAt": "2026-10-18T10:27:55Z"
+      "title": "llm-algo-leetcode 性能优化 | 202610 Task 2 · 训练输入与状态优化",
+      "url": "https://github.com/datawhalechina/llm-algo-leetcode/issues/223",
+      "createdAt": "2026-10-14T04:59:41Z"
     },
     {
-      "title": "# Spike 588 — Accessibility hardening at scale: WCAG 2.2 AA across chiral and tactical UI",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/452",
-      "createdAt": "2026-10-15T10:27:55Z"
-    },
-    {
-      "title": "# Spike 587 — Email and SMS bridges for quest, offer, takedown and digest notifications",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/451",
-      "createdAt": "2026-10-15T10:27:29Z"
-    },
-    {
-      "title": "# Spike 602 — Load and chaos testing of faucet and RPC proxy with burst and fault injection",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/466",
-      "createdAt": "2026-10-15T10:35:07Z"
+      "title": "# Spike 594 — Bulk-listing CSV pipeline: from naive parser to resumable job",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/458",
+      "createdAt": "2026-10-15T10:31:01Z"
     }
   ]
 }
