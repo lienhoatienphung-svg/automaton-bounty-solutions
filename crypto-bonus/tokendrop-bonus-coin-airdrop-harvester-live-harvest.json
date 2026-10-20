@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T20:33:33.302Z",
-  "latencyMs": 847,
+  "executedAt": "2026-10-20T20:40:40.543Z",
+  "latencyMs": 883,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #207: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #208: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Route Arbitrum USDC to Acki Nacki through Circle CCTP, with AAVE on Sepolia",
-      "url": "https://github.com/gosh-sh/bridge/pull/114",
-      "createdAt": "2026-10-16T23:32:10Z"
+      "title": "LeakLock 0.4.4: fixes from the second security audit",
+      "url": "https://github.com/sotnikov-nk/LeakLock/pull/2",
+      "createdAt": "2026-10-20T20:17:43Z"
+    },
+    {
+      "title": "feat(price_pusher): add v1 transactions to the Solana pusher behind --transaction-version",
+      "url": "https://github.com/pyth-network/pyth-crosschain/pull/4066",
+      "createdAt": "2026-10-20T15:23:30Z"
+    },
+    {
+      "title": "Track biology evals",
+      "url": "https://github.com/marin-community/marin/issues/9258",
+      "createdAt": "2026-09-18T20:24:44Z"
     },
     {
       "title": "perf(sampling): fuse greedy chain verification output writes",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-20T19:50:31Z"
     },
     {
-      "title": "feat(tools): give each section its own path and make the rail's entries links",
-      "url": "https://github.com/alejoamiras/unleashed/pull/23",
-      "createdAt": "2026-10-20T20:32:51Z"
+      "title": "perf(jit): resolve old Vyper memory returns and drop unreached blocks",
+      "url": "https://github.com/alloy-rs/evm2/pull/687",
+      "createdAt": "2026-10-18T11:29:21Z"
     },
     {
-      "title": "docs(messaging): run a delivery node with an RLN membership on LEZ",
-      "url": "https://github.com/logos-co/logos-docs/pull/571",
-      "createdAt": "2026-10-16T00:23:13Z"
-    },
-    {
-      "title": "feat(mirror): add account mirror endpoints",
-      "url": "https://github.com/hiero-ledger/hiero-enterprise-java/pull/122",
-      "createdAt": "2026-05-01T22:52:48Z"
-    },
-    {
-      "title": "Share a saved conversation as text (#139)",
-      "url": "https://github.com/G-Eskayo/clarity-captions/pull/140",
-      "createdAt": "2026-10-20T17:15:02Z"
+      "title": "[infra] SonarCloud: exclude vendored lib/ and fix the few first-party findings",
+      "url": "https://github.com/bytesbrains/16ane/issues/87",
+      "createdAt": "2026-10-20T20:38:38Z"
     }
   ]
 }
