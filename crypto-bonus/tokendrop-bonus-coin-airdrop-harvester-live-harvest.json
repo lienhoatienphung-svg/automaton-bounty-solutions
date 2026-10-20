@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T12:23:33.560Z",
-  "latencyMs": 1457,
+  "executedAt": "2026-10-20T12:28:16.463Z",
+  "latencyMs": 888,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #65: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #66: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "bsc",
+      "tokenAddress": "0x7D0443CdDFc8E11AF105F4fE44Dd28c630237777",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "i got that dawg in me",
+      "url": "https://dexscreener.com/bsc/0x7d0443cddfc8e11af105f4fe44dd28c630237777"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "BLoVgMLRxxhq3X5x9s7KxaNhnQeMf5Lt7MrEpBkjpump",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "$Pepe turned into a pumpkin. \n\nMeet $PUMPE, the spookiest frog on the blockchain. \n\nHalloween hits different when $Pepe wears a pumpkin.",
       "url": "https://dexscreener.com/solana/86sf1fneu5g3lhsg4f1phjetarwszuzosu2e2pu7e5ar"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x47C5eA4d85C4c1A81F26124580A80B0b7A581CC0",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Factor gives AI agents an advance before the job is done. A customer locks the price of a job, the agent draws up to half to do the work, and the job repays it ",
-      "url": "https://dexscreener.com/robinhood/0x47c5ea4d85c4c1a81f26124580a80b0b7a581cc0"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/Hack-PSU/check-in/pull/565",
-      "createdAt": "2026-03-23T14:10:23Z"
-    },
-    {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "fix(evm): close safe-code paths to UB through inspector hooks and interpreter APIs",
-      "url": "https://github.com/alloy-rs/evm2/pull/725",
-      "createdAt": "2026-10-20T11:18:11Z"
+      "title": "customer: D-bridge-chain-05 Network card, Add to wallet and Supported networks",
+      "url": "https://github.com/INTAFACED/intafaced/pull/5564",
+      "createdAt": "2026-10-20T11:52:21Z"
     },
     {
-      "title": "feat: add the referral Perks tab (OK-65135)",
-      "url": "https://github.com/OneKeyHQ/app-monorepo/pull/14024",
-      "createdAt": "2026-10-20T10:20:47Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "FLOP CHATGPT HANDOFF — NEWEST COMMENT IS SOLE CURRENT AUTHORITY (historical archive preserved)",
-      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/765",
-      "createdAt": "2026-10-06T05:27:29Z"
+      "title": "Run Nightcast on Preprod: deploy tooling, oracle and request commands, beginner's guide",
+      "url": "https://github.com/LearnMidnight/Nightcast/pull/20",
+      "createdAt": "2026-10-20T11:59:14Z"
     },
     {
-      "title": "Changes to allow for upwards flowing channels and faucets",
-      "url": "https://github.com/SlimeKnights/Mantle/pull/259",
-      "createdAt": "2026-10-04T08:32:37Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/marcoturi/react-redux-boilerplate/pull/1349",
+      "createdAt": "2026-03-24T01:37:30Z"
+    },
+    {
+      "title": "Kimi K3 support",
+      "url": "https://github.com/tpurtell/cuteafd/issues/273",
+      "createdAt": "2026-10-15T06:49:01Z"
     }
   ]
 }
