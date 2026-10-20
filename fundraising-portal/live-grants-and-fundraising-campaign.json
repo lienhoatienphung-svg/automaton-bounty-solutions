@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-20T02:29:36.094Z",
-  "latencyMs": 1674,
+  "executedAt": "2026-10-20T02:32:51.694Z",
+  "latencyMs": 984,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #818: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #819: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "Make GDP enumeration lazy",
+          "url": "https://github.com/Pyomo/pyomo/pull/4031",
+          "repositoryUrl": "https://api.github.com/repos/Pyomo/pyomo",
+          "updatedAt": "2026-10-20T02:32:48Z"
+        },
+        {
+          "title": "fix(studio): redesign connection switching and verify account identities",
+          "url": "https://github.com/volcengine/OpenViking/pull/6308",
+          "repositoryUrl": "https://api.github.com/repos/volcengine/OpenViking",
+          "updatedAt": "2026-10-20T02:32:48Z"
+        },
+        {
+          "title": "fix(stylex): omit diagnostic spans for unmapped assets",
+          "url": "https://github.com/hesperia-js/hesperia/pull/5",
+          "repositoryUrl": "https://api.github.com/repos/hesperia-js/hesperia",
+          "updatedAt": "2026-10-20T02:32:46Z"
+        },
+        {
+          "title": "CRM-BILLING-FOLLOWUP: billing ingest accepts a charge line with no qty; runbook DODTL grant",
+          "url": "https://github.com/jayson-odoo/sorento-crm/pull/1798",
+          "repositoryUrl": "https://api.github.com/repos/jayson-odoo/sorento-crm",
+          "updatedAt": "2026-10-20T02:32:48Z"
+        },
+        {
+          "title": "Admin: page audit and notification history",
+          "url": "https://github.com/chatchairins-source/QueuGo/pull/467",
+          "repositoryUrl": "https://api.github.com/repos/chatchairins-source/QueuGo",
+          "updatedAt": "2026-10-20T02:32:44Z"
+        },
+        {
+          "title": "fix(apps): launch an app's own agent on kiro-cli from a Crew-written copy",
+          "url": "https://github.com/kirodotdev/KiroCrew/pull/21867",
+          "repositoryUrl": "https://api.github.com/repos/kirodotdev/KiroCrew",
+          "updatedAt": "2026-10-20T02:32:44Z"
+        },
+        {
+          "title": "[#912] Enforce exact product price rules before approved persistence",
+          "url": "https://github.com/skyg547/account/pull/928",
+          "repositoryUrl": "https://api.github.com/repos/skyg547/account",
+          "updatedAt": "2026-10-20T02:32:43Z"
+        },
+        {
+          "title": "Local box egress proxy — sealed GitHub credentials and host-store secrets without Gatehouse",
+          "url": "https://github.com/gominimal/minimal/issues/1501",
+          "repositoryUrl": "https://api.github.com/repos/gominimal/minimal",
+          "updatedAt": "2026-10-20T02:32:43Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
