@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T14:11:57.308Z",
-  "latencyMs": 2313,
+  "executedAt": "2026-10-20T14:13:28.436Z",
+  "latencyMs": 1938,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #104: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #105: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "bsc",
+      "tokenAddress": "0xEd9Bc1A78DD4aee67DDD97365451deB00Fd38f10",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Agent ID posted about its AI-focused token launch. The background is the rapid rise of autonomous agent projects in crypto. Its logo features a bold yellow squa",
+      "url": "https://dexscreener.com/bsc/0xed9bc1a78dd4aee67ddd97365451deb00fd38f10"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "9m5hwLG4brTyZkEhtKvkzgFAbA7YxVvwPY1XuSpupump",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "$HANDLE powers the SolHandle economy. Own your @, share your link, bring users and earn SOL from the activity you generate — including referred mints, creator r",
       "url": "https://dexscreener.com/solana/blovgmlrxxhq3x5x9s7kxanhnqemf5lt7mrepbkjpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "CYGidBuS8WwUXfZCmb98LnLGL9Mx8SvhdqA6t3xTLoch",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "A shielded balance inside the wallet you already use. Zero-knowledge proofs, no new seed phrase.",
-      "url": "https://dexscreener.com/solana/cygidbus8wwuxfzcmb98lnlgl9mx8svhdqa6t3xtloch"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,67 +217,57 @@
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 94,
-      "priceBtc": 0.000024112248875187496
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 743,
-      "priceBtc": 0.0010234786135067996
+      "marketCapRank": 95,
+      "priceBtc": 0.00002407407540377252
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
-      "marketCapRank": 150,
-      "priceBtc": 0.000003901581087117268
+      "marketCapRank": 148,
+      "priceBtc": 0.00000391635734374554
     },
     {
       "name": "Janction",
       "symbol": "JCT",
-      "marketCapRank": 430,
-      "priceBtc": 5.571657618144781e-8
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.304872928205097e-8
+      "marketCapRank": 452,
+      "priceBtc": 5.4274070270260324e-8
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
-      "marketCapRank": 21,
-      "priceBtc": 0.00005794236741181466
-    },
-    {
-      "name": "Monero",
-      "symbol": "XMR",
-      "marketCapRank": 13,
-      "priceBtc": 0.007415623561670009
+      "marketCapRank": 20,
+      "priceBtc": 0.00005831003851108268
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0018976803987034
+      "priceBtc": 1.0024390882841958
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 749,
+      "priceBtc": 0.0010186907211340488
+    },
+    {
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "marketCapRank": 50,
+      "priceBtc": 0.000006787278459388179
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.014669487843395538
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "chore(deps): update dependency @lucide/svelte to v1",
-      "url": "https://github.com/nwesterhausen/overseers-manual-df/pull/281",
-      "createdAt": "2026-04-27T18:59:33Z"
-    },
-    {
-      "title": "WC du bas, variante 1 : meuble vasque sur mesure dans la niche",
-      "url": "https://github.com/slorber/maison/pull/4",
-      "createdAt": "2026-10-20T10:14:29Z"
+      "title": "feat(insights): assistant and meetings in Insights, and share as a deck of cards",
+      "url": "https://github.com/AbhishekBarali/SpeakoFlow/pull/88",
+      "createdAt": "2026-10-20T09:03:05Z"
     },
     {
       "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
@@ -285,14 +275,24 @@
       "createdAt": "2026-10-16T09:56:24Z"
     },
     {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/Hack-PSU/adminv2/pull/310",
-      "createdAt": "2026-03-23T21:24:19Z"
+      "title": "Add an overview",
+      "url": "https://github.com/fungi-protocol/docs/pull/51",
+      "createdAt": "2026-10-13T04:19:56Z"
     },
     {
-      "title": "Adaptive in-flight cap from vLLM load in AsyncGRPO",
-      "url": "https://github.com/sjmaple/cr-trl/pull/1",
-      "createdAt": "2026-10-20T14:11:10Z"
+      "title": "Submit Your MCP Servers here",
+      "url": "https://github.com/chatmcp/mcpso/issues/1",
+      "createdAt": "2024-12-06T02:23:42Z"
+    },
+    {
+      "title": "On-chain testnet settlement (NU7): escrow, real sighash, extraction, time-locked refund",
+      "url": "https://github.com/Godwin-web3/lintel/pull/5",
+      "createdAt": "2026-10-20T13:06:50Z"
+    },
+    {
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/REVREBEL/Webflow-Metrics/pull/51",
+      "createdAt": "2026-06-02T18:28:41Z"
     }
   ]
 }
