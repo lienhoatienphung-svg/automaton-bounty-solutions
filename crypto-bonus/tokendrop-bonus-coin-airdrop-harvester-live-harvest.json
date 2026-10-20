@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T17:13:59.422Z",
-  "latencyMs": 1147,
+  "executedAt": "2026-10-20T17:14:49.151Z",
+  "latencyMs": 1174,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #156: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #157: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -175,7 +175,7 @@
       "chainId": "solana",
       "tokenAddress": "3qSd27nb3zyRmqbhLzH4PdeYcADqeLtjgYy2Fp4Apump",
       "boostAmount": 10,
-      "totalBoostAmount": 110,
+      "totalBoostAmount": 10,
       "description": "🐕🚀 ELONDOG — A NEW ADVENTURE BEGINS.\n\nA fearless cyber Doge. A Cybertruck. One destination: MARS. 🔴\n\nInspired by Elon’s futuristic universe and Doge’s legend",
       "url": "https://dexscreener.com/solana/3qsd27nb3zyrmqbhlzh4pdeycadqeltjgyy2fp4apump"
     },
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat: overlap RL generation with scoring and learning",
+      "url": "https://github.com/ViperEkura/AstrAI/pull/103",
+      "createdAt": "2026-10-20T14:53:38Z"
+    },
+    {
+      "title": "[fsdp, perf, trainer] feat: shared-prefix packing for the FSDP engine",
+      "url": "https://github.com/verl-project/verl/pull/8300",
+      "createdAt": "2026-10-20T17:14:29Z"
+    },
+    {
       "title": "feat(insights): assistant and meetings in Insights, and share as a deck of cards",
       "url": "https://github.com/AbhishekBarali/SpeakoFlow/pull/88",
       "createdAt": "2026-10-20T09:03:05Z"
@@ -283,16 +293,6 @@
       "title": "Website: add a Fleet server API for the profile generator",
       "url": "https://github.com/fleetdm/fleet/pull/55939",
       "createdAt": "2026-10-19T20:20:24Z"
-    },
-    {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/voku/BlindSpotMetaPromptApp/pull/21",
-      "createdAt": "2026-03-23T18:37:16Z"
-    },
-    {
-      "title": "Prepare Airdrop 1.5.0 native packages and guided connection setup",
-      "url": "https://github.com/fluffydisk/airdrop-linux/pull/1",
-      "createdAt": "2026-10-20T17:08:33Z"
     }
   ]
 }
