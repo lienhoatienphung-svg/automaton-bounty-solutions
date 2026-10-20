@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T13:08:51.452Z",
-  "latencyMs": 478,
+  "executedAt": "2026-10-20T13:13:31.615Z",
+  "latencyMs": 768,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #81: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #82: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52856192,
+    "liveBlockNumber": 52856331,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 450119,
-    "baseMainnetTopPoolsVolume24hUsd": 200054,
+    "baseMainnetTopPoolsLiquidityUsd": 450116,
+    "baseMainnetTopPoolsVolume24hUsd": 200046,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Edg7Cmy63tccrQBY7Whx1sLVazxvC6CS7CABoeigpump",
+        "description": "We will all be out of a job soon. UBI is the coin for the future owner class - the biggest story of the next decade.",
+        "url": "https://dexscreener.com/solana/edg7cmy63tccrqby7whx1slvazxvc6cs7caboeigpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6nM3X8J4H1ay3pCnJHYngGCz3iC4gXRRCu1paZdSpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "AJqeh2WQst7wd4XipvV7fvrKCyHaN4qdmzZsacHHpump",
         "description": "Dickcoin",
         "url": "https://dexscreener.com/solana/ajqeh2wqst7wd4xipvv7fvrkcyhan4qdmzzsachhpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AfrJ94Z9F93GYpU5uytkr3pgLrwv5XYqMSUUgyyipump",
-        "description": "The next Labubu\nMost viral home robot in Japan and everyone wants one.",
-        "url": "https://dexscreener.com/solana/afrj94z9f93gypu5uytkr3pglrwv5xyqmsuugyyipump"
       }
     ]
   },
