@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T21:00:47.502Z",
-  "latencyMs": 540,
+  "executedAt": "2026-10-20T21:07:43.965Z",
+  "latencyMs": 331,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #211: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #212: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52870350,
+    "liveBlockNumber": 52870558,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 460395,
-    "baseMainnetTopPoolsVolume24hUsd": 212857,
+    "baseMainnetTopPoolsVolume24hUsd": 212868,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xb11384A6ac2b3708E3d25A834c8a88687Accbcd1",
+        "description": "Private and uncensored AI meets limitless creation. Chat with powerful models.",
+        "url": "https://dexscreener.com/robinhood/0xb11384a6ac2b3708e3d25a834c8a88687accbcd1"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6R8Rnn8VNF3ckwapTsoApEyKg7V2u2psk46k5hXgpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6r8rnn8vnf3ckwaptsoapeykg7v2u2psk46k5hxgpump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x8b046926a7f875309117f749411e83c7e37ff73d",
+        "description": "The nucleus of the hook economy on Ethereum. It watches every V4 hook, learns from the best and mutates every hour.",
+        "url": "https://dexscreener.com/ethereum/0x8b046926a7f875309117f749411e83c7e37ff73d"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "AMR16uuJhdQuXTCjJRVvHZmmza3ZNUBHwSgVAYpvpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/amr16uujhdquxtcjjrvvhzmmza3znubhwsgvaypvpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7o6wH9NcVHBSzvXMaiTecm2oGkN2jVJX3S57NvbJpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "Ci8fSR6gqN4AFGem4o4SZU7rRtp1BG3MgaTE4HdJpump",
         "description": "Sun is one of the most viral monkeys in China, with over 1M followers on TikTok and 1.5B+ views. Literally every video gets millions of views. I got in touch wi",
         "url": "https://dexscreener.com/solana/ci8fsr6gqn4afgem4o4szu7rrtp1bg3mgate4hdjpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3y2rCaVeepcwvZdguyk5Cw87mkEnXiXQ2qaSyt5Bpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3y2rcaveepcwvzdguyk5cw87mkenxixq2qasyt5bpump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x19D2d2AC8c236a000368De4e9cA0B1E2877f4a1f",
-        "description": "Enter the new world order with LILPEPE — where memes meet speed and low-cost power on the lightning-fast Little Pepe Layer 2 EVM chain.",
-        "url": "https://dexscreener.com/ethereum/0x19d2d2ac8c236a000368de4e9ca0b1e2877f4a1f"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5WBLLnyCuN6tqmMzxEkq8UYGFv1k3Kx7bg9aPx37LyQR",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5wbllnycun6tqmmzxekq8uygfv1k3kx7bg9apx37lyqr"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HsycKzaBd3UEsspJ6VuuoXmYET4z7nc3krCPYFtZpump",
-        "description": "Accelerate is a Solana community coin aiming to turn creator fees into paid bounties, contributor rewards and project funding through Accelerate Tank.",
-        "url": "https://dexscreener.com/solana/hsyckzabd3uesspj6vuuoxmyet4z7nc3krcpyftzpump"
       }
     ]
   },
