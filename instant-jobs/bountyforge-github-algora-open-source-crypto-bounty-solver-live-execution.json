@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T15:55:02.085Z",
-  "latencyMs": 699,
+  "executedAt": "2026-10-20T16:00:37.312Z",
+  "latencyMs": 1498,
   "companyName": "BountyForge GitHub & Algora Open-Source Crypto Bounty Solver",
-  "workTitle": "Delivery Sprint #149: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
-  "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
+  "workTitle": "Growth & Sales Sprint #150: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
+  "targetUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656688,
-        "liquidityUsd": 37481,
+        "liquidityUsd": 36370,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501899,
-        "liquidityUsd": 18893,
+        "liquidityUsd": 18336,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2211863,
-        "liquidityUsd": 64397,
+        "liquidityUsd": 61909,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1860335,
-        "liquidityUsd": 15718,
+        "liquidityUsd": 16083,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -82,7 +82,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 101864,
-        "volume24hUsd": 90445,
+        "volume24hUsd": 91226,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21383,
-        "volume24hUsd": 96242,
+        "volume24hUsd": 96614,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -130,6 +130,21 @@
   "multiIndustryB2BContracts": {
     "contractsPackagedCount": 10,
     "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "SupportYourApp",
+        "roleOrTask": "Customer Support Consultant hospitality",
+        "industryTags": [
+          "consulting",
+          "customer support",
+          "saas",
+          "infosec",
+          "technical"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
       {
         "source": "RemoteOK-InstantB2B",
         "company": "Sothebyâs",
@@ -188,21 +203,6 @@
         ],
         "compensation": "$500-$2,500 Instant Retainer",
         "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Yuno",
-        "roleOrTask": "Technical Account Manager",
-        "industryTags": [
-          "exec",
-          "design",
-          "hr",
-          "python",
-          "technical"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
         "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
       },
       {
