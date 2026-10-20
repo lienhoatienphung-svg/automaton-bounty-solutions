@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T18:18:21.485Z",
-  "latencyMs": 494,
+  "executedAt": "2026-10-20T18:25:06.783Z",
+  "latencyMs": 342,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #171: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #172: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52865477,
+    "liveBlockNumber": 52865679,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 460393,
-    "baseMainnetTopPoolsVolume24hUsd": 215429,
+    "baseMainnetTopPoolsLiquidityUsd": 460394,
+    "baseMainnetTopPoolsVolume24hUsd": 215262,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x56e1d9e1f68e7938a49b0a60eedd8ba64923b4de",
+        "description": "Automated Credit to $BALANCE conversion, run by the IMD swarm.",
+        "url": "https://dexscreener.com/ethereum/0x56e1d9e1f68e7938a49b0a60eedd8ba64923b4de"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "C7yWWv32D2QLhZ2JAs53MhZpvxpgdeUmn4rdeCUXpump",
+        "description": "The gacha launchpad built on http://pump.fun packs. Every coin gets its own machine, stocked with real graded cards by its trading fees.",
+        "url": "https://dexscreener.com/solana/c7ywwv32d2qlhz2jas53mhzpvxpgdeumn4rdecuxpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BAcyfLP2itBKzPUqhrpnTyyJfCiaFx3oH8TDmgvspump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bacyflp2itbkzpuqhrpntyyjfciafx3oh8tdmgvspump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8joZywj2Rc5JmyEXWmDR3w2cwBexW2dYB2Vjr5T3pump",
@@ -63,24 +81,6 @@
         "tokenAddress": "9f96ndkQBr4q7qFcETc2u5JqsF6M1F2TsbzbMCL7pQFj",
         "description": "A launchpad where every coin comes with its own NFT collection. Launch coins backed by NFTs. Trade coins for NFTs, earn rewards, and promote them for more.",
         "url": "https://dexscreener.com/solana/9f96ndkqbr4q7qfcetc2u5jqsf6m1f2tsbzbmcl7pqfj"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CT1141iVokYnxWb4m8vX3uu4M9mcvmbgn4kueVC8pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ct1141ivokynxwb4m8vx3uu4m9mcvmbgn4kuevc8pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5QXsW8eZVfX3eugNZgjkktf5X32qpNXg4z7oRa5XUhi5",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5qxsw8ezvfx3eugnzgjkktf5x32qpnxg4z7ora5xuhi5"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4APSduHsvzrfUgPomuQnQdPEyKZGvDNiBLJLf453pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4apsduhsvzrfugpomuqnqdpeykzgvdnibljlf453pump"
       }
     ]
   },
