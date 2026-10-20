@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T01:41:08.349Z",
-  "latencyMs": 1135,
+  "executedAt": "2026-10-20T01:43:30.112Z",
+  "latencyMs": 395,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #830: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
+  "workTitle": "Delivery Sprint #831: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52835560,
+    "liveBlockNumber": 52835631,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 440982,
-    "baseMainnetTopPoolsVolume24hUsd": 144968,
+    "baseMainnetTopPoolsLiquidityUsd": 440981,
+    "baseMainnetTopPoolsVolume24hUsd": 144870,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "35xfZ32EE1fh28HdVdj3RLX611ebi5XFRpmV2saYpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/35xfz32ee1fh28hdvdj3rlx611ebi5xfrpmv2saypump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5EdajXG624C7uVLArueGjFxEAdbJnSs12orQJ8RZpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "BbhrCey7cENFXsjENSQfwtwvs3QzcJnDwsCTNx59pump",
         "description": "oqcuhfw",
         "url": "https://dexscreener.com/solana/bbhrcey7cenfxsjensqfwtwvs3qzcjndwsctnx59pump"
-      },
-      {
-        "chainId": "pulsechain",
-        "tokenAddress": "0xF4100429b786bd609B002D696Ffdf5DcB43dea13",
-        "description": "$FREEHEART ✊ Free Heart\n\nCommunity token on PulseChain standing with Richard Heart, founder of HEX & PulseChain. Free speech. Free markets. Free Heart.\n\nBuilt f",
-        "url": "https://dexscreener.com/pulsechain/0xf4100429b786bd609b002d696ffdf5dcb43dea13"
       }
     ]
   },
