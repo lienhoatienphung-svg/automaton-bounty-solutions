@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-20T19:21:20.525Z",
-  "latencyMs": 1325,
+  "executedAt": "2026-10-20T19:23:27.605Z",
+  "latencyMs": 1112,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #188: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #189: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "Phase 1 discovery + bounded probe ledger + shadow quota cap (inert, all flags off)",
-          "url": "https://github.com/lastdayone87-del/trading-discovery-engine/pull/531",
-          "repositoryUrl": "https://api.github.com/repos/lastdayone87-del/trading-discovery-engine",
-          "updatedAt": "2026-10-20T19:21:16Z"
+          "title": "feat(lsp): quick fix adding a missing toctree dependency (#21)",
+          "url": "https://github.com/nachstedt/rinx/pull/328",
+          "repositoryUrl": "https://api.github.com/repos/nachstedt/rinx",
+          "updatedAt": "2026-10-20T19:23:22Z"
         },
         {
-          "title": "feat(returns): tenant-safe receipt and credit memo ledger",
-          "url": "https://github.com/Report-Engainall/Nasr1/pull/18",
-          "repositoryUrl": "https://api.github.com/repos/Report-Engainall/Nasr1",
-          "updatedAt": "2026-10-20T19:21:14Z"
+          "title": "fix(billing): hold or gate credits before TTS, transcription, tools and agent runs",
+          "url": "https://github.com/Bike4Mind/bike4mind/pull/5035",
+          "repositoryUrl": "https://api.github.com/repos/Bike4Mind/bike4mind",
+          "updatedAt": "2026-10-20T19:23:22Z"
         },
         {
-          "title": "🐛 contracts: fix owner plugin bundler compatibility",
-          "url": "https://github.com/exactly/exa/pull/1462",
-          "repositoryUrl": "https://api.github.com/repos/exactly/exa",
-          "updatedAt": "2026-10-20T19:21:14Z"
+          "title": "Rota AI Phase 4C: intelligent planner and weak-model validation",
+          "url": "https://github.com/mokaradag/Takvim/pull/103",
+          "repositoryUrl": "https://api.github.com/repos/mokaradag/Takvim",
+          "updatedAt": "2026-10-20T19:23:21Z"
         },
         {
-          "title": "release: promote dev with production exercise gates and UI polish",
-          "url": "https://github.com/InBotWeTrust/hockey/pull/414",
-          "repositoryUrl": "https://api.github.com/repos/InBotWeTrust/hockey",
-          "updatedAt": "2026-10-20T19:21:13Z"
+          "title": "Grant mgmt reads only on explicit resources the caller holds",
+          "url": "https://github.com/rosenhouse-bot-sandbox/kglance/pull/23",
+          "repositoryUrl": "https://api.github.com/repos/rosenhouse-bot-sandbox/kglance",
+          "updatedAt": "2026-10-20T19:23:20Z"
         },
         {
-          "title": "fix(spells): complete PHB level-1 lists, self-range casts need no target, Bless chip and +1d4 (Refs #902)",
-          "url": "https://github.com/Garblesnarff/infinite-realms-app/pull/932",
-          "repositoryUrl": "https://api.github.com/repos/Garblesnarff/infinite-realms-app",
-          "updatedAt": "2026-10-20T19:21:16Z"
+          "title": "fix(github-feedback): bind commands to the caller repository",
+          "url": "https://github.com/mrkillbob/hermes-agent/pull/324",
+          "repositoryUrl": "https://api.github.com/repos/mrkillbob/hermes-agent",
+          "updatedAt": "2026-10-20T19:23:20Z"
         },
         {
-          "title": "Verify a controlled restricted Hermes issue-to-PR workflow",
-          "url": "https://github.com/DanielssonThomas/Stellar/issues/24",
-          "repositoryUrl": "https://api.github.com/repos/DanielssonThomas/Stellar",
-          "updatedAt": "2026-10-20T19:21:12Z"
+          "title": "fix(kubernetes): check PV permissions before creating jobs",
+          "url": "https://github.com/calypr/funnel/pull/1470",
+          "repositoryUrl": "https://api.github.com/repos/calypr/funnel",
+          "updatedAt": "2026-10-20T19:23:19Z"
         },
         {
-          "title": "feat(escrow-enclave): CloudTrail-backed authority write alarms; defer archiver",
-          "url": "https://github.com/learningeconomy/LearnCard/pull/1767",
-          "repositoryUrl": "https://api.github.com/repos/learningeconomy/LearnCard",
-          "updatedAt": "2026-10-20T19:21:18Z"
+          "title": "S1c: Sales Order allocation on EOS (hard reservation at a stated company and warehouse)",
+          "url": "https://github.com/TaylorService-spec/Taylor_Parts/pull/2189",
+          "repositoryUrl": "https://api.github.com/repos/TaylorService-spec/Taylor_Parts",
+          "updatedAt": "2026-10-20T19:23:19Z"
         },
         {
-          "title": "feat(core): the Compute block and container-backed AsyncJobs",
-          "url": "https://github.com/aws-devtools-labs/aws-blocks/pull/574",
-          "repositoryUrl": "https://api.github.com/repos/aws-devtools-labs/aws-blocks",
-          "updatedAt": "2026-10-20T19:21:12Z"
+          "title": "feat(surfaces): guarded operations write an intent before the effect, so a send whose outcome is unknown is parked, never repeated",
+          "url": "https://github.com/the-vibey-project/vibey/issues/932",
+          "repositoryUrl": "https://api.github.com/repos/the-vibey-project/vibey",
+          "updatedAt": "2026-10-20T19:23:19Z"
         }
       ]
     },
