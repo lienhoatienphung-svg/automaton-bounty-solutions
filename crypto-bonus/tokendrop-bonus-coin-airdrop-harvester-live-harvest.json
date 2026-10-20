@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T15:41:39.202Z",
-  "latencyMs": 1223,
+  "executedAt": "2026-10-20T15:47:38.717Z",
+  "latencyMs": 1570,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #131: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #132: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,71 +218,71 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.00002648260282047612
+      "priceBtc": 0.000026610752781417918
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010399054629391663
+      "priceBtc": 0.000010373139794398483
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 684,
-      "priceBtc": 0.001143995131545855
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "marketCapRank": 48,
+      "priceBtc": 0.00000683007450925326
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9998025928769075
+      "priceBtc": 0.9998097570125426
     },
     {
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "marketCapRank": 49,
-      "priceBtc": 0.000006814890969175855
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 147,
-      "priceBtc": 0.0000039807977208457525
-    },
-    {
-      "name": "Janction",
-      "symbol": "JCT",
-      "marketCapRank": 437,
-      "priceBtc": 5.493785144834034e-8
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 705,
+      "priceBtc": 0.0010928949883804622
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00005836203998913974
+      "priceBtc": 0.000058238923606045086
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 145,
+      "priceBtc": 0.000004012770251317578
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 84,
+      "priceBtc": 0.00010402316248292794
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "CC-CEDICT: Latin words and kana runs split into many unknown words",
+      "url": "https://github.com/lindera/lindera/issues/1128",
+      "createdAt": "2026-10-06T12:01:50Z"
+    },
+    {
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/descope-sample-apps/docs-gpt/pull/97",
+      "createdAt": "2026-03-26T19:42:07Z"
+    },
+    {
+      "title": "Add hybrid architecture search task (draft)",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/26",
+      "createdAt": "2026-09-25T22:42:20Z"
+    },
+    {
       "title": "feat(price_pusher): add v1 transactions to the Solana pusher behind --transaction-version",
       "url": "https://github.com/pyth-network/pyth-crosschain/pull/4066",
       "createdAt": "2026-10-20T15:23:30Z"
-    },
-    {
-      "title": "Kimi K3 support",
-      "url": "https://github.com/tpurtell/cuteafd/issues/273",
-      "createdAt": "2026-10-15T06:49:01Z"
-    },
-    {
-      "title": "feat(server): persist state in SQLite so restarts forget nothing (#75)",
-      "url": "https://github.com/bytesbrains/16ane/pull/82",
-      "createdAt": "2026-10-20T15:01:54Z"
-    },
-    {
-      "title": "P37: BULK paper qualification and native fill compatibility",
-      "url": "https://github.com/arnabnandikgp/cinder/pull/83",
-      "createdAt": "2026-10-20T15:32:06Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -290,9 +290,9 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "cards: read-only WaveZ Station buyer snapshot for the first ZAO TCG Card",
-      "url": "https://github.com/bettercallzaal/ZAOOS/pull/4049",
-      "createdAt": "2026-10-20T15:26:37Z"
+      "title": "Kimi K3 support",
+      "url": "https://github.com/tpurtell/cuteafd/issues/273",
+      "createdAt": "2026-10-15T06:49:01Z"
     }
   ]
 }
