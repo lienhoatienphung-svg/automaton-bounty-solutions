@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T18:26:23.825Z",
-  "latencyMs": 338,
+  "executedAt": "2026-10-20T18:32:51.085Z",
+  "latencyMs": 1113,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #173: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #174: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52865718,
+    "liveBlockNumber": 52865911,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,34 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 460393,
-    "baseMainnetTopPoolsVolume24hUsd": 215410,
+    "baseMainnetTopPoolsLiquidityUsd": 460394,
+    "baseMainnetTopPoolsVolume24hUsd": 215036,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x22cF03dA665b4d1459a56Dd09dBC069935d16b37",
+        "description": "METH MINERS: 25 PACKS, ONE PAYS OUT EVERY 30 MINUTES",
+        "url": "https://dexscreener.com/ethereum/0x22cf03da665b4d1459a56dd09dbc069935d16b37"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HxmxPo5ukfdAUoy7DQrnVa8HtAMVyL3MVEKJFJRXpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hxmxpo5ukfdauoy7dqrnva8htamvyl3mvekjfjrxpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3aQq2P9atK84s58fbqSMuoJdCmwXGNH3HyjRzbMSpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/3aqq2p9atk84s58fbqsmuojdcmwxgnh3hyjrzbmspump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GmxYy7ZSQs6m3cVgbMUwxJpxVmKXLwq2uXpcFHNxpump",
+        "description": "XMR ? sounds like Fedora mode.",
+        "url": "https://dexscreener.com/solana/gmxyy7zsqs6m3cvgbmuwxjpxvmkxlwq2uxpcfhnxpump"
+      },
       {
         "chainId": "ethereum",
         "tokenAddress": "0x56e1d9e1f68e7938a49b0a60eedd8ba64923b4de",
@@ -57,30 +81,6 @@
         "tokenAddress": "8joZywj2Rc5JmyEXWmDR3w2cwBexW2dYB2Vjr5T3pump",
         "description": "Lucia is the main bagworker of $DaCity.",
         "url": "https://dexscreener.com/solana/8jozywj2rc5jmyexwmdr3w2cwbexw2dyb2vjr5t3pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EDp9SpNPEDJ7FGWHYHTYy9gR4QzVv68KgP6huo14pump",
-        "description": "There's a meme coin in GTA 6 called \"Dacity Coin\" in the new leak.",
-        "url": "https://dexscreener.com/solana/edp9spnpedj7fgwhyhtyy9gr4qzvv68kgp6huo14pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "B7ZFCk99D8NsAjYRiQUWsBqwoSsjzSR6FLXmNd66Xy7u",
-        "description": "Two coins in. One comes out. Splice reverse-engineers both, fuses their DNA into a new Solana token with its own AI art.",
-        "url": "https://dexscreener.com/solana/b7zfck99d8nsajyriquwsbqwossjzsr6flxmnd66xy7u"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5kjg6qRVfhmc2USZbLLoXmrnrsVYUCT5WSLb2Qtmpump",
-        "description": "SKY is an original community-driven token built around aviation, American industry, and the enduring optimism of looking upward.\n\nInspired by the golden age of ",
-        "url": "https://dexscreener.com/solana/5kjg6qrvfhmc2uszblloxmrnrsvyuct5wslb2qtmpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9f96ndkQBr4q7qFcETc2u5JqsF6M1F2TsbzbMCL7pQFj",
-        "description": "A launchpad where every coin comes with its own NFT collection. Launch coins backed by NFTs. Trade coins for NFTs, earn rewards, and promote them for more.",
-        "url": "https://dexscreener.com/solana/9f96ndkqbr4q7qfcetc2u5jqsf6m1f2tsbzbmcl7pqfj"
       }
     ]
   },
