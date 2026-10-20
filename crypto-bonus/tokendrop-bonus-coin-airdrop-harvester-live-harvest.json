@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T22:55:21.091Z",
-  "latencyMs": 765,
+  "executedAt": "2026-10-20T22:56:21.458Z",
+  "latencyMs": 823,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #238: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #239: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat: fix the vLLM DP path",
+      "url": "https://github.com/NVIDIA-NeMo/RL/pull/2517",
+      "createdAt": "2026-05-18T04:46:25Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
       "title": "V3 ledger core: INV-LED-001..015 + T03-01..12 (packages/engine/ledger)",
       "url": "https://github.com/Aiouyn/trading-game/pull/3",
       "createdAt": "2026-10-20T21:39:24Z"
@@ -278,21 +293,6 @@
       "title": "Kimi K3 support",
       "url": "https://github.com/tpurtell/cuteafd/issues/273",
       "createdAt": "2026-10-15T06:49:01Z"
-    },
-    {
-      "title": "OWNER DIRECTIVE — Zero-budget public launch and genuine liquidity gate",
-      "url": "https://github.com/hamidnikkhah660-arch/ai-native-l1/issues/12",
-      "createdAt": "2026-10-20T22:28:26Z"
-    },
-    {
-      "title": "fix(CYBERTRON-908): convert heic images to jpeg so they preview in chrome",
-      "url": "https://github.com/Cybertron-HNG/zedu-fe/pull/68",
-      "createdAt": "2026-10-20T22:53:28Z"
-    },
-    {
-      "title": "fix(deps): update code.vegaprotocol.io/shared digest to bda6563",
-      "url": "https://github.com/vegaprotocol/liqbot/pull/211",
-      "createdAt": "2024-05-21T19:33:24Z"
     }
   ]
 }
