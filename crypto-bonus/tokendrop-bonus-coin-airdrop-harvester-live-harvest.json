@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T09:37:06.349Z",
-  "latencyMs": 855,
+  "executedAt": "2026-10-20T09:58:58.813Z",
+  "latencyMs": 797,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #881: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #882: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "86sf1fnEu5g3Lhsg4F1pHJEtaRwszUZosU2e2PU7E5ar",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "$Pepe turned into a pumpkin. \n\nMeet $PUMPE, the spookiest frog on the blockchain. \n\nHalloween hits different when $Pepe wears a pumpkin.",
+      "url": "https://dexscreener.com/solana/86sf1fneu5g3lhsg4f1phjetarwszuzosu2e2pu7e5ar"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x47C5eA4d85C4c1A81F26124580A80B0b7A581CC0",
       "boostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "TART is the ecosystem token of TartSwap Dex on BNB Chain. Fixed 10B supply, live buyback & burn, Self-custody DeFi with  swaps, real-yield farms & staking, plus",
       "url": "https://dexscreener.com/bsc/0x7ab8d02cbb51ff7223fde700eaaa2a91bf750314"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "9oJvYRC2UBLbUShDBnzhNVcJaAffYANPmDHmgf9Lpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 20,
-      "description": "Purr the viral Instagram dog with 1M followers and 10M+ likes this week. Owners fully onboard, all fees sent directly to them, and CA added to bio.",
-      "url": "https://dexscreener.com/solana/9ojvyrc2ublbushdbnzhnvcjaaffyanpmdhmgf9lpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 93,
-      "priceBtc": 0.000024270659225779975
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 706,
-      "priceBtc": 0.0010975553429533012
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00005793206822657504
+      "priceBtc": 0.00002424678893636844
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9993370656553416
+      "priceBtc": 0.9992472982838521
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 707,
+      "priceBtc": 0.0010980344655794345
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00005773587468980977
     },
     {
       "name": "Metaplex",
       "symbol": "MPLX",
-      "marketCapRank": 438,
-      "priceBtc": 0.0000013509477130066154
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 147,
-      "priceBtc": 0.000003966783106344822
+      "marketCapRank": 522,
+      "priceBtc": 0.0000010784733078172013
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.20683027889342e-8
+      "priceBtc": 9.181137872080492e-8
     },
     {
-      "name": "PHALA",
-      "symbol": "PHA",
-      "marketCapRank": 436,
-      "priceBtc": 7.254598748574863e-7
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 147,
+      "priceBtc": 0.000003962321254827759
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.013850395293269334
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Nightly heavy integration suite failed",
-      "url": "https://github.com/faucet-hq/faucet-stream/issues/892",
-      "createdAt": "2026-10-13T11:23:01Z"
+      "title": "Add checked arithmetic to learn-token claim_reward function",
+      "url": "https://github.com/ChainLearnOfficial/chainlearn-contracts/issues/556",
+      "createdAt": "2026-10-14T15:10:18Z"
     },
     {
-      "title": "🤝 Agent coordination channel (standing, vol. 2)",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
-      "createdAt": "2026-09-20T06:23:41Z"
+      "title": "feat: build holder reward for distribution key holder",
+      "url": "https://github.com/accesslayerorg/accesslayer-contracts/pull/1162",
+      "createdAt": "2026-10-20T09:58:11Z"
     },
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/LightInn/breval/pull/848",
-      "createdAt": "2026-03-23T20:47:43Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Add evolutionary-optimization-llms-long-horizon task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/94",
-      "createdAt": "2026-10-18T10:27:55Z"
+      "title": "Bind injected Phantom events through verified swap lifecycle",
+      "url": "https://github.com/Beaver0001/plovcoin-app/pull/11",
+      "createdAt": "2026-10-19T00:40:30Z"
     },
     {
       "title": "chore(deps): update dependency lucide-react to v1.60.0",
-      "url": "https://github.com/brijeshb42/kannada-gottu/pull/14",
-      "createdAt": "2026-08-06T17:15:34Z"
+      "url": "https://github.com/cotzo/chartpack/pull/30",
+      "createdAt": "2026-04-09T09:06:16Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     }
   ]
 }
