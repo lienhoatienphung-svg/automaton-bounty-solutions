@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T16:58:54.735Z",
-  "latencyMs": 1364,
+  "executedAt": "2026-10-20T17:05:08.251Z",
+  "latencyMs": 975,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #153: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #154: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,66 +218,66 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.0000263095520793877
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 735,
-      "priceBtc": 0.00104114653865583
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.436080854370398e-8
+      "priceBtc": 0.000026790205805824368
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.000059797606070763614
+      "priceBtc": 0.00005984578970348202
     },
     {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 85,
-      "priceBtc": 0.000010386439506200263
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 737,
+      "priceBtc": 0.0010391074982244602
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.0012737755263499
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.432224760042726e-8
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
       "marketCapRank": 147,
-      "priceBtc": 0.000004022287397487618
+      "priceBtc": 0.000003997750558857256
     },
     {
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "marketCapRank": 49,
-      "priceBtc": 0.00000689291911474969
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9999623942136521
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 85,
+      "priceBtc": 0.00001045511674233887
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "marketCapRank": 71,
+      "priceBtc": 0.00030673496507618967
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "docs(agents): add a page for giving an agent a wallet and test funds",
+      "url": "https://github.com/celo-org/docs/pull/2396",
+      "createdAt": "2026-10-15T22:28:28Z"
+    },
+    {
+      "title": "Add moe-router-design task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/28",
+      "createdAt": "2026-09-27T02:38:45Z"
+    },
+    {
       "title": "kestrel: drain bulk-IN during bring-up on USB; redo a bring-up the 8852C fw halted",
       "url": "https://github.com/OpenIPC/devourer/pull/496",
       "createdAt": "2026-10-20T16:58:18Z"
-    },
-    {
-      "title": "feat(ads): admob adapter",
-      "url": "https://github.com/RevenueCat/purchases-flutter/pull/1946",
-      "createdAt": "2026-10-11T19:49:28Z"
-    },
-    {
-      "title": "Submit Your MCP Servers here",
-      "url": "https://github.com/chatmcp/mcpso/issues/1",
-      "createdAt": "2024-12-06T02:23:42Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -285,14 +285,14 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Explorer: faucet tickets follow a late payout; refuse transactions below the base fee",
-      "url": "https://github.com/rome-protocol/canton-zk-evm/pull/8",
-      "createdAt": "2026-10-20T16:57:43Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "🤝 Agent coordination channel (standing, vol. 2)",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
-      "createdAt": "2026-09-20T06:23:41Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
