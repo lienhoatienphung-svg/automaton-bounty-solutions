@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T19:36:25.201Z",
-  "latencyMs": 972,
+  "executedAt": "2026-10-20T19:43:08.101Z",
+  "latencyMs": 1314,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #193: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #194: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "9gApkc4LJfLpefnV1J5BhPgzRktyrtbh59NYB9kYZkCE",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Launch in the shadows\n\nDiscover in the Open\n\npumpanon",
+      "url": "https://dexscreener.com/solana/9gapkc4ljflpefnv1j5bhpgzrktyrtbh59nyb9kyzkce"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x95286bEc1b0943D5A0fad60ac048f0C50EC8CCD0",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "MINT is a crypto-first entertainment platform bringing games, sports and prediction markets together in one account. Live for over a year, MINT is built by a te",
       "url": "https://dexscreener.com/robinhood/0x62ed300a5916aed339a65e04754392763982a967"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "5do8SkQt2nxp3daqXgKcdF7j2BjgiGgxYi5Avkqppump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "💖 Meet Penelope $PENELOPE 💖 \n\nShe's got the hair, the attitude, and the gold teeth but don't ask her to do math. Penelope is the internet's most unhinged fash",
-      "url": "https://dexscreener.com/solana/5do8skqt2nxp3daqxgkcdf7j2bjgiggxyi5avkqppump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,67 +217,62 @@
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 91,
-      "priceBtc": 0.000025698097137326286
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 113,
-      "priceBtc": 9.789240437925778e-8
+      "marketCapRank": 90,
+      "priceBtc": 0.00002589697158964145
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 732,
-      "priceBtc": 0.0010391158434825073
+      "marketCapRank": 730,
+      "priceBtc": 0.001041034399096292
     },
     {
       "name": "Pepe",
       "symbol": "PEPE",
-      "marketCapRank": 53,
-      "priceBtc": 5.551817057287023e-11
+      "marketCapRank": 52,
+      "priceBtc": 5.595352929292948e-11
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 112,
+      "priceBtc": 9.906136631925639e-8
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 123,
+      "priceBtc": 6.870048775193993e-7
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 71,
-      "priceBtc": 0.0003030494258961171
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 124,
-      "priceBtc": 6.876803189753788e-7
+      "priceBtc": 0.0003043188884064894
     },
     {
       "name": "Grass",
       "symbol": "GRASS",
-      "marketCapRank": 125,
-      "priceBtc": 0.0000073900252221061525
+      "marketCapRank": 124,
+      "priceBtc": 0.0000074166563136055615
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00005859068512466308
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 140,
+      "priceBtc": 0.000004173685630559382
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "authentication",
-      "url": "https://github.com/mrvrn/RentMyCar/pull/21",
-      "createdAt": "2026-10-20T11:32:50Z"
+      "title": "security: fix 10 Snyk findings (automated sweep)",
+      "url": "https://github.com/shaw-andy/juice-shop/pull/2",
+      "createdAt": "2026-10-20T19:42:52Z"
     },
     {
-      "title": "test(checkpoint): add Workplace prefix-recovery parity",
-      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4507",
-      "createdAt": "2026-10-05T16:03:27Z"
-    },
-    {
-      "title": "Bind injected Phantom events through verified swap lifecycle",
-      "url": "https://github.com/Beaver0001/plovcoin-app/pull/11",
-      "createdAt": "2026-10-19T00:40:30Z"
+      "title": "Market-fit and customer receiving across on-chain energy and solar economies",
+      "url": "https://github.com/causeway-services/public-energy-services-section/issues/1",
+      "createdAt": "2026-10-20T19:14:13Z"
     },
     {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
@@ -290,9 +285,14 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "docs(docs): show the MIT license badge at the top of the README",
-      "url": "https://github.com/s3anstanz/Bloom/pull/25",
-      "createdAt": "2026-10-20T19:34:20Z"
+      "title": "CI step 3: PR path classifier and always-reporting lane-gate; stock-reth workflows renamed and made manual",
+      "url": "https://github.com/ristik/bft-core/pull/706",
+      "createdAt": "2026-10-20T18:35:19Z"
+    },
+    {
+      "title": "authentication",
+      "url": "https://github.com/mrvrn/RentMyCar/pull/21",
+      "createdAt": "2026-10-20T11:32:50Z"
     }
   ]
 }
