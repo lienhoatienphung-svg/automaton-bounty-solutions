@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T21:39:41.850Z",
-  "latencyMs": 711,
+  "executedAt": "2026-10-20T21:40:35.175Z",
+  "latencyMs": 769,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #222: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #223: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(sdk): owner-signed transfer, policy, revocation and vault creation for a relayer to submit (#77)",
+      "url": "https://github.com/bytesbrains/16ane/pull/101",
+      "createdAt": "2026-10-20T21:39:54Z"
+    },
+    {
+      "title": "SF-022: Seal-encrypted artifact delivery with scoped, device-authenticated decryption",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/118",
+      "createdAt": "2026-10-16T21:18:29Z"
+    },
+    {
+      "title": "Oct 25, 19:30 IST · IEEE ClimateChain",
+      "url": "https://github.com/JannetEkka/DSProjects/issues/20",
+      "createdAt": "2026-10-05T20:54:08Z"
+    },
+    {
       "title": "Import dishes by pasting text",
       "url": "https://github.com/muhve/mealplanner/issues/3",
       "createdAt": "2026-10-20T20:26:55Z"
@@ -278,21 +293,6 @@
       "title": "V3 ledger core: INV-LED-001..015 + T03-01..12 (packages/engine/ledger)",
       "url": "https://github.com/Aiouyn/trading-game/pull/3",
       "createdAt": "2026-10-20T21:39:24Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
-      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
-      "createdAt": "2026-10-07T16:13:30Z"
-    },
-    {
-      "title": "AppWorld eval REST: Cap-Evolve-improve vs seed (gpt-oss-120b)",
-      "url": "https://github.com/skillberry-ai/cap-evolve/issues/901",
-      "createdAt": "2026-10-20T19:52:43Z"
     }
   ]
 }
