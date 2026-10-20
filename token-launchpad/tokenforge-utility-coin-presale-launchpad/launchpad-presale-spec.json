@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T09:43:15.275Z",
-  "latencyMs": 333,
+  "executedAt": "2026-10-20T10:05:51.939Z",
+  "latencyMs": 258,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #875: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #876: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52850024,
+    "liveBlockNumber": 52850702,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 450124,
-    "baseMainnetTopPoolsVolume24hUsd": 166588,
+    "baseMainnetTopPoolsLiquidityUsd": 421198,
+    "baseMainnetTopPoolsVolume24hUsd": 167608,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7Ny9wKw9yqvsAkMzfC2Vap4awFXqiUzjEJVH2LNfpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7ny9wkw9yqvsakmzfc2vap4awfxqiuzjejvh2lnfpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "ijsLxSsvoH2ianECZivsdK7hhaM9fPp4LCuKUnspump",
+        "description": "A black cat hiding in the signal. Two violet eyes, infinite pixels. $PROWLER",
+        "url": "https://dexscreener.com/solana/ijslxssvoh2ianeczivsdk7hham9fpp4lcukunspump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "ESsWeueSNdzRFcRcDBo136uoXDpCbDC6Ky5bkgYtpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/essweuesndzrfcrcdbo136uoxdpcbdc6ky5bkgytpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x23Dd8ea7C23058E75EE6DFeb5e66A826af27eb91",
@@ -63,24 +81,6 @@
         "tokenAddress": "triaLwmrTNYakjJwpAzgPSKVtUCmyxAG6C59WUdXnSa",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/trialwmrtnyakjjwpazgpskvtucmyxag6c59wudxnsa"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DxwELAuxJ4bCNEGkpmnB3VGhfD8XdgCKf2LaJ5v6pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/dxwelauxj4bcnegkpmnb3vghfd8xdgckf2laj5v6pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "B9uu8e5pYytoU3h2N4cpvRUwfBEU2ZGTbqw4CLSopump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/b9uu8e5pyytou3h2n4cpvruwfbeu2zgtbqw4clsopump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x546F9817DeE526a2A2099105D41864c0662089BD",
-        "description": "Warden watches over your code by running skills against your changes. Skills are Markdown prompts that define what to look for: security vulnerabilities, correc",
-        "url": "https://dexscreener.com/robinhood/0x546f9817dee526a2a2099105d41864c0662089bd"
       }
     ]
   },
