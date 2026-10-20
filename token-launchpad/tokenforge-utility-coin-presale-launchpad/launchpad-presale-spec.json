@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T14:11:50.515Z",
-  "latencyMs": 263,
+  "executedAt": "2026-10-20T14:17:17.489Z",
+  "latencyMs": 340,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #103: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #104: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52858081,
-    "liveGasPriceGwei": 0.0067,
+    "liveBlockNumber": 52858245,
+    "liveGasPriceGwei": 0.0066,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 450114,
-    "baseMainnetTopPoolsVolume24hUsd": 202995,
+    "baseMainnetTopPoolsVolume24hUsd": 204194,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0xEd9Bc1A78DD4aee67DDD97365451deB00Fd38f10",
+        "description": "Agent ID posted about its AI-focused token launch. The background is the rapid rise of autonomous agent projects in crypto. Its logo features a bold yellow squa",
+        "url": "https://dexscreener.com/bsc/0xed9bc1a78dd4aee67ddd97365451deb00fd38f10"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FvWz1LVYNzGfLpXEYTrdzArWpRVhMpS7Pm3RPKcvpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x5fbc8cd4ab70c4cf12c6c6883c8e2f6979f3451c",
         "description": "A new era of digital journalism. \nAI-verified news. Community-powered rewards.\nBuilt on Robinhood Chain.",
         "url": "https://dexscreener.com/robinhood/0x5fbc8cd4ab70c4cf12c6c6883c8e2f6979f3451c"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8H8U6SGQbkqCBeA5vYGx2yAQVud6V5bPfbYQKEzcpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8h8u6sgqbkqcbea5vygx2yaqvud6v5bpfbyqkezcpump"
       }
     ]
   },
