@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T18:10:07.141Z",
-  "latencyMs": 700,
+  "executedAt": "2026-10-20T18:10:52.114Z",
+  "latencyMs": 328,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #168: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #169: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52865229,
+    "liveBlockNumber": 52865252,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 215573,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4APbcuA4Eqj1vbmjTq2nnTyCAE18aK8kkmzE5LaTpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4apbcua4eqj1vbmjtq2nntycae18ak8kkmze5latpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "A1kzJYFTdXUVxFjoi6g2xTRBtkX7MmiTDT6tD6Bopump",
@@ -75,12 +81,6 @@
         "tokenAddress": "CcfmQBZ6o3suCyd638CbjCVZtdsYHSwYnkHbPbSgpump",
         "description": "CUMROCKET",
         "url": "https://dexscreener.com/solana/ccfmqbz6o3sucyd638cbjcvztdsyhswynkhbpbsgpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CaRD6oAFhB3ejYy9Bo1qfYMLRYSKHHDS7FfMqE9LRoLL",
-        "description": "Hold the coin, win graded Pokémon cards.\nWe rip packs and raffle each graded Pokémon card to a holder.",
-        "url": "https://dexscreener.com/solana/card6oafhb3ejyy9bo1qfymlryskhhds7ffmqe9lroll"
       }
     ]
   },
