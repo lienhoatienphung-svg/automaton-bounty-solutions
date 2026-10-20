@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T16:57:32.366Z",
-  "latencyMs": 789,
+  "executedAt": "2026-10-20T17:04:11.700Z",
+  "latencyMs": 750,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #151: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #152: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52863052,
+    "liveBlockNumber": 52863252,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 460393,
-    "baseMainnetTopPoolsVolume24hUsd": 222221,
+    "baseMainnetTopPoolsVolume24hUsd": 222412,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "kai8sjSxmcxyEyXzy58bBmPFPB4bqZdGMty2ZosxJuP",
+        "description": "Kai means sea in Hawaiian. He was the apex predator of the ocean until he put on a flower shirt and decided to never stress again. Tap anywhere to see what is h",
+        "url": "https://dexscreener.com/solana/kai8sjsxmcxyeyxzy58bbmpfpb4bqzdgmty2zosxjup"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7vroZUHnZax2xvSmHFQE26iL2Dn1jPjVJKDvxHy2pump",
+        "description": "Xitter is the new twitter.",
+        "url": "https://dexscreener.com/solana/7vrozuhnzax2xvsmhfqe26il2dn1jpjvjkdvxhy2pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "AMsxDwM3LA5p2sYmhSH3eCaReedF7ZNunEjpKsVanity",
+        "description": "Mine your custom CA, Register your plate, then launch a coin or sell it on the marketplace.",
+        "url": "https://dexscreener.com/solana/amsxdwm3la5p2symhsh3ecareedf7znunejpksvanity"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0x77750d63d598032065A6BF7D12568E86c0757777",
@@ -63,24 +81,6 @@
         "tokenAddress": "WtV4rGq9TJ4vfeFfuadCRE1eaPkcMEGMe81gQ9ppump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/wtv4rgq9tj4vfeffuadcre1eapkcmegme81gq9ppump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xebfe1c9ac846c5d3bbef0a08fccbc698ded4f516",
-        "description": "The protocol for configurable hooks on Pons, built around native Uniswap v4 liquidity.",
-        "url": "https://dexscreener.com/robinhood/0xebfe1c9ac846c5d3bbef0a08fccbc698ded4f516"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "dirtyy3qnswmRjt6gzCTrwgYpVRgD7DGTyiJTZrQ85Q",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/dirtyy3qnswmrjt6gzctrwgypvrgd7dgtyijtzrq85q"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4VPbDqHHoXtNVQcxeYJ5EjUduh6ZkFD3cU1deoVMpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4vpbdqhhoxtnvqcxeyj5ejuduh6zkfd3cu1deovmpump"
       }
     ]
   },
