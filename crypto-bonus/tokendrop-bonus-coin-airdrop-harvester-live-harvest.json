@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T22:08:15.640Z",
-  "latencyMs": 813,
+  "executedAt": "2026-10-20T22:16:59.403Z",
+  "latencyMs": 706,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #229: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #230: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "4KxtNWc5XTL3cuyc8PJMchqB6RYggvEFeMub727GBAGS",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "The persistent knowledge layer for AI coding. Preserve decisions, context & lessons across sessions, agents and teams. Portable, vendor agnostic, Open source.",
+      "url": "https://dexscreener.com/solana/4kxtnwc5xtl3cuyc8pjmchqb6ryggvefemub727gbags"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "Ci8fSR6gqN4AFGem4o4SZU7rRtp1BG3MgaTE4HdJpump",
       "boostAmount": 10,
       "totalBoostAmount": 40,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "PorchLight is a community-first memecoin on Solana. A porch light means someone's home and you're welcome $solporch is built for the people. Always active dev, ",
       "url": "https://dexscreener.com/solana/h6bkfm138tfiqa6be2jtpjrsh2pb2f8mwehykbu6pump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x9A7C661Be578e50927268fb770146D701b3368e7",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "INVARA Core is building infrastructure for synthetic equities on Robinhood Chain, connecting traditional market intelligence with on-chain execution.",
-      "url": "https://dexscreener.com/robinhood/0x9a7c661be578e50927268fb770146d701b3368e7"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 115,
-      "priceBtc": 9.633372979085131e-8
+      "priceBtc": 9.620355567397197e-8
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 90,
-      "priceBtc": 0.00002554060882047378
+      "priceBtc": 0.000025413590569292178
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 716,
-      "priceBtc": 0.0010671616368536792
+      "marketCapRank": 723,
+      "priceBtc": 0.0010593368137951937
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015260817560813732
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 140,
-      "priceBtc": 0.000004232556333755897
+      "priceBtc": 0.01532898615283938
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 83,
-      "priceBtc": 0.000010700308521149455
+      "priceBtc": 0.000010720744392787322
+    },
+    {
+      "name": "Aave",
+      "symbol": "AAVE",
+      "marketCapRank": 44,
+      "priceBtc": 0.0018709051032993753
     },
     {
       "name": "Pepe",
       "symbol": "PEPE",
       "marketCapRank": 53,
-      "priceBtc": 5.4612375531601405e-11
+      "priceBtc": 5.425756482151543e-11
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00005990181941811927
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 141,
+      "priceBtc": 0.000004164934671233719
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
-      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
-      "createdAt": "2026-10-07T16:13:30Z"
+      "title": "AppWorld eval REST: GEPA-Full vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/900",
+      "createdAt": "2026-10-20T19:52:40Z"
     },
     {
-      "title": "Add official Aptos Devnet and Testnet faucet listings",
-      "url": "https://github.com/Chain-Love/chain-love/pull/4334",
-      "createdAt": "2026-10-09T08:10:23Z"
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
     },
     {
-      "title": "build(deps): bump follow-redirects from 1.16.0 to 1.16.1 in /faucet/frontend",
-      "url": "https://github.com/symbol/product/pull/2726",
-      "createdAt": "2026-10-20T21:59:38Z"
+      "title": "CI: hosted Rust image and four-shard tests with AWS fallback",
+      "url": "https://github.com/aptos-labs/aptos-core/pull/20773",
+      "createdAt": "2026-10-16T22:20:14Z"
     },
     {
-      "title": "CI step 3: PR path classifier and always-reporting lane-gate; stock-reth workflows renamed and made manual",
-      "url": "https://github.com/ristik/bft-core/pull/706",
-      "createdAt": "2026-10-20T18:35:19Z"
+      "title": "Lock down the paymaster relay: auth, allowlisted operations and spend caps",
+      "url": "https://github.com/yosemite01/stellar-creator-portfolio/issues/1510",
+      "createdAt": "2026-10-13T21:14:35Z"
     },
     {
-      "title": "Oct 24 · Web3 for Social Good (DoraHacks) — Recourse — closes Oct 25, 05:30 IST",
-      "url": "https://github.com/JannetEkka/DSProjects/issues/45",
-      "createdAt": "2026-10-20T10:49:21Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
+      "title": "AppWorld eval REST: Cap-Evolve-improve vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/901",
+      "createdAt": "2026-10-20T19:52:43Z"
     }
   ]
 }
