@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T01:39:12.776Z",
-  "latencyMs": 1680,
+  "executedAt": "2026-10-20T01:51:36.396Z",
+  "latencyMs": 805,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #834: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Growth & Sales Sprint #836: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Monero dog meme from an OG Monero Website. Real lore.",
+      "url": "https://dexscreener.com/solana/cv37zbhxdgza5cgeppjhshexz9jpslncwuaqrbgcpump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0xa01fF10774CFe53C3FBC1D7D124c42e19F6AfcBD",
       "boostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/ffud9sb1aehe5awnx7qkbrjvxpklvh18rw9impqtpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "AcLEFAt6YX7tpC8tafagpfZbVw42aowmiXEJaKN1pump",
-      "boostAmount": 500,
-      "totalBoostAmount": 550,
-      "description": "Kim is dying",
-      "url": "https://dexscreener.com/solana/aclefat6yx7tpc8tafagpfzbvw42aowmixejakn1pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 739,
-      "priceBtc": 3.0078942162493376e-7
+      "marketCapRank": 681,
+      "priceBtc": 3.423594966603643e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00005926366778950034
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 692,
-      "priceBtc": 0.001129411653180879
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009659157920195932
-    },
-    {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "marketCapRank": 71,
-      "priceBtc": 0.00029893202139994493
+      "priceBtc": 0.00005950900125116252
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 91,
-      "priceBtc": 0.000024578712902717874
+      "priceBtc": 0.000024536332230019876
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "marketCapRank": 71,
+      "priceBtc": 0.0003081419351604126
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009668990403847848
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
       "marketCapRank": 35,
-      "priceBtc": 0.0032544907664456392
+      "priceBtc": 0.003265563679748125
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.217131243492325e-8
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 689,
+      "priceBtc": 0.0011414150526544021
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 83,
+      "priceBtc": 0.00010410004822597864
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(a11y): keyboard focus in the hand-rolled dialogs; Add Margin on the shared Modal",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3578",
-      "createdAt": "2026-10-20T01:38:45Z"
+      "title": "[Engine] Remote stage: run the later layers of a layer split on other PCs, over TCP (opt-in; Linux and Windows; Qwen3.8-Flash-Next)",
+      "url": "https://github.com/Niko1221/Strata/pull/1748",
+      "createdAt": "2026-10-09T18:04:44Z"
     },
     {
-      "title": "fix: share documents from the mobile Share button",
-      "url": "https://github.com/open-pencil/open-pencil/pull/1310",
-      "createdAt": "2026-10-19T23:03:33Z"
+      "title": "fix(interpreter): keep memory accounting out of safe code's reach",
+      "url": "https://github.com/alloy-rs/evm2/pull/718",
+      "createdAt": "2026-10-20T01:20:13Z"
     },
     {
-      "title": "Centurion Dual Wield retains a different target during its attack",
-      "url": "https://github.com/qbisi/mechcore/issues/1337",
-      "createdAt": "2026-10-20T01:36:10Z"
+      "title": "RC2.3.13R.3.2.6 — Chinese Living Canvas, animated scenic SVGs & ornamental frame system",
+      "url": "https://github.com/matstangherlin/longyu/pull/357",
+      "createdAt": "2026-10-20T00:56:21Z"
+    },
+    {
+      "title": "[KIX-PLAN-PLAN-V5-TRANSITION-EVIDENCE-MAP] Per-transition evidence map from the lifecycle contract to the v5 crate tests",
+      "url": "https://github.com/SUNBURN-Golden/kix-protocol/pull/225",
+      "createdAt": "2026-10-20T01:49:26Z"
+    },
+    {
+      "title": "[None][perf] One-model speculative decoding: host work between steps, worker-produced target logits, KDA drafts' records",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/19989",
+      "createdAt": "2026-10-08T14:23:11Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "fix(sc): SWE PPO fixes for token capture and Megatron critic memory",
-      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4776",
-      "createdAt": "2026-10-18T18:00:55Z"
-    },
-    {
-      "title": "04O-C: The Fractured Wilds and the Vanishing Metropolis",
-      "url": "https://github.com/tycs1992-RBT/NeonSyndicate_LasVeyra/pull/11",
-      "createdAt": "2026-10-19T20:46:51Z"
     }
   ]
 }
