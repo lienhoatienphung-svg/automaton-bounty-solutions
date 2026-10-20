@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T00:36:11.396Z",
-  "latencyMs": 836,
+  "executedAt": "2026-10-20T00:38:17.548Z",
+  "latencyMs": 728,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #828: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #829: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "CYkd2c94pYn1Lt7PWK5qku8qAuTawNdJCdR63b2dpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Onboarded the creator of the giga-viral Millionaire in 30 days trend @glowboynoah7 on tiktok.",
+      "url": "https://dexscreener.com/solana/cykd2c94pyn1lt7pwk5qku8qautawndjcdr63b2dpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "FFUd9sB1Aehe5aWNX7QkBrJvXPkLvh18RW9iMpqtpump",
       "boostAmount": 50,
       "totalBoostAmount": 50,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Chapter four, the signal  is the fourth of the series token launch on pumpfun",
       "url": "https://dexscreener.com/solana/5nkqtw9zrhpwf6lhhr25y2qtgqqdqrnftbmnhvdrpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Every coin gets one AI founder",
-      "url": "https://dexscreener.com/solana/ekosqw4ojfbxmej4qrnbh1qugfrtc3eok6nwnfkdpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,9 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Add the collection to TrainingAi Preview: screen, Home card and animated pen",
+      "url": "https://github.com/nekodas-neko/TrainingAi_Open/pull/3140",
+      "createdAt": "2026-10-20T00:31:07Z"
+    },
+    {
       "title": "build(deps): bump @cosmjs/proto-signing from 0.38.1 to 0.39.0",
       "url": "https://github.com/axone-protocol/surface/pull/45",
       "createdAt": "2026-10-20T00:35:36Z"
+    },
+    {
+      "title": "Growth & Marketing — ASO, launch content, analytics, paid acquisition",
+      "url": "https://github.com/emadabdelzahermohamed-create/THF-Nexus-17.02.2026/issues/7",
+      "createdAt": "2026-09-12T15:13:37Z"
+    },
+    {
+      "title": "Increase expedition equipment yields across all six checkpoints",
+      "url": "https://github.com/micisachen63-gif/--MiniApp/pull/9",
+      "createdAt": "2026-10-20T00:35:25Z"
     },
     {
       "title": "feat: size faucet and relayer limits for agent-speed use (#61)",
@@ -278,21 +293,6 @@
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "build(deps): bump @cosmjs/stargate from 0.38.1 to 0.39.0",
-      "url": "https://github.com/axone-protocol/surface/pull/42",
-      "createdAt": "2026-10-20T00:34:41Z"
-    },
-    {
-      "title": "Increase expedition equipment yields across all six checkpoints",
-      "url": "https://github.com/micisachen63-gif/--MiniApp/pull/9",
-      "createdAt": "2026-10-20T00:35:25Z"
-    },
-    {
-      "title": "Say how to request TEST tokens for the Fast Feed on Arbitrum Sepolia",
-      "url": "https://github.com/OffchainLabs/arbitrum-docs/pull/3740",
-      "createdAt": "2026-10-20T00:31:17Z"
     }
   ]
 }
