@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T12:23:36.112Z",
-  "latencyMs": 266,
+  "executedAt": "2026-10-20T12:25:02.716Z",
+  "latencyMs": 360,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #64: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #65: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52854834,
+    "liveBlockNumber": 52854877,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 450120,
-    "baseMainnetTopPoolsVolume24hUsd": 200592,
+    "baseMainnetTopPoolsVolume24hUsd": 200833,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GmyPS2NiJR4P7kZUVg93TXzLVzPYgsRozouHwm7qNruE",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gmyps2nijr4p7kzuvg93txzlvzpygsrozouhwm7qnrue"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "GZSCdvNQ8S3aKnZGhfVa2a9thN9VuQw3QqBD9Rfzpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "81ugDLy8fyHxsL8j9v83yzM9rM7QEL6YcZioD8L1pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/81ugdly8fyhxsl8j9v83yzm9rm7qel6ycziod8l1pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AmAya4AEgxNtkCQP3g2VhmceLkDjzrQcqa1tQMaipump",
-        "description": "highly skilled professionals. free accommodation enjoyers. europe's greatest investment.",
-        "url": "https://dexscreener.com/solana/amaya4aegxntkcqp3g2vhmcelkdjzrqcqa1tqmaipump"
       }
     ]
   },
