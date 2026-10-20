@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-20T21:01:34.080Z",
-  "latencyMs": 1042,
+  "executedAt": "2026-10-20T21:08:24.152Z",
+  "latencyMs": 545,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #213: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #214: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and report how it went",
-          "url": "https://github.com/auscaster/frantic-board/issues/539",
-          "repositoryUrl": "https://api.github.com/repos/auscaster/frantic-board",
-          "updatedAt": "2026-10-20T21:01:31Z"
-        },
-        {
-          "title": "test(bundler): cover dra-node-labeler in the render golden",
-          "url": "https://github.com/NVIDIA/aicr/pull/3339",
-          "repositoryUrl": "https://api.github.com/repos/NVIDIA/aicr",
-          "updatedAt": "2026-10-20T21:01:28Z"
-        },
-        {
-          "title": "Setup: a position's same-named permission set is in force but invisible — the set's Assigned Users panel is empty and the position reads as ",
-          "url": "https://github.com/objectstack-ai/objectstack/issues/24757",
-          "repositoryUrl": "https://api.github.com/repos/objectstack-ai/objectstack",
-          "updatedAt": "2026-10-20T21:01:27Z"
-        },
-        {
-          "title": "feat(actions): manage repository retention policy",
-          "url": "https://github.com/daiksud/gh-settings/pull/373",
-          "repositoryUrl": "https://api.github.com/repos/daiksud/gh-settings",
-          "updatedAt": "2026-10-20T21:01:29Z"
-        },
-        {
-          "title": "feat(slack): start code-channel sessions in a configured approval mode",
-          "url": "https://github.com/kirodotdev/KiroCrew/pull/21997",
-          "repositoryUrl": "https://api.github.com/repos/kirodotdev/KiroCrew",
-          "updatedAt": "2026-10-20T21:01:26Z"
-        },
-        {
-          "title": "Refresh Claude provider-update automation",
-          "url": "https://github.com/braintrustdata/lingua/pull/512",
-          "repositoryUrl": "https://api.github.com/repos/braintrustdata/lingua",
-          "updatedAt": "2026-10-20T21:01:26Z"
-        },
-        {
-          "title": "feat: add chunked prefill for standard, MLA, and hybrid attention",
-          "url": "https://github.com/alibaba/rtp-llm/pull/1460",
-          "repositoryUrl": "https://api.github.com/repos/alibaba/rtp-llm",
-          "updatedAt": "2026-10-20T21:01:26Z"
-        },
-        {
-          "title": "Triage: stack rank of the open issue set",
-          "url": "https://github.com/mcguinness/mission-bound-authorization/issues/302",
-          "repositoryUrl": "https://api.github.com/repos/mcguinness/mission-bound-authorization",
-          "updatedAt": "2026-10-20T21:01:26Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
