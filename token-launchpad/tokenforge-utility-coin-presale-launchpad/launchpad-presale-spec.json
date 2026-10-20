@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T07:21:14.502Z",
-  "latencyMs": 587,
+  "executedAt": "2026-10-20T07:23:59.488Z",
+  "latencyMs": 347,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #862: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #863: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52845763,
+    "liveBlockNumber": 52845846,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 450121,
-    "baseMainnetTopPoolsVolume24hUsd": 158387,
+    "baseMainnetTopPoolsLiquidityUsd": 450125,
+    "baseMainnetTopPoolsVolume24hUsd": 158471,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BcP3TKip7zpM4kF9chBHp6T4btYrz6GZX5XXNobapump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bcp3tkip7zpm4kf9chbhp6t4btyrz6gzx5xxnobapump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "UGiij2Gc3vqGw1BgLQCDWCSYxPXCURY9HsBaPFEpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/687h1vdxkawckbzqpmefvs4y4k1vtpogoriikhsqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7UPGRUg6oEynFrd64eK75tVR5QeXBLAd2vWDV1fMpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7upgrug6oeynfrd64ek75tvr5qexblad2vwdv1fmpump"
       }
     ]
   },
