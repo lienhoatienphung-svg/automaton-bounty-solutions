@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T23:51:50.196Z",
-  "latencyMs": 1189,
+  "executedAt": "2026-10-20T23:53:04.444Z",
+  "latencyMs": 871,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #250: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
+  "workTitle": "Delivery Sprint #251: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,56 +218,66 @@
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 115,
-      "priceBtc": 9.611813183808171e-8
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 90,
-      "priceBtc": 0.000025674219288766072
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.01519157516755485
+      "priceBtc": 9.626754052442048e-8
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 83,
-      "priceBtc": 0.000010626663579350676
+      "priceBtc": 0.000010659482051270817
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.015211254624062514
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 90,
+      "priceBtc": 0.00002581121859647811
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.000059210352593091785
+      "priceBtc": 0.00005936994628203745
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009688086127907053
+      "priceBtc": 0.0009691759667934361
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9989923647488445
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000012428260634755488
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 715,
-      "priceBtc": 0.0010696176400760988
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.0012842920372105073
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "🤝 Agent coordination channel (standing, vol. 2)",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
+      "createdAt": "2026-09-20T06:23:41Z"
+    },
+    {
       "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
       "url": "https://github.com/tehki/myaso/issues/360",
       "createdAt": "2026-10-20T17:25:33Z"
+    },
+    {
+      "title": "[fsdp, perf, trainer] feat: shared-prefix packing for the FSDP engine",
+      "url": "https://github.com/verl-project/verl/pull/8300",
+      "createdAt": "2026-10-20T17:14:29Z"
     },
     {
       "title": "test(checkpoint): add Workplace prefix-recovery parity",
@@ -280,19 +290,9 @@
       "createdAt": "2026-06-25T11:15:33Z"
     },
     {
-      "title": "[fsdp, perf, trainer] feat: shared-prefix packing for the FSDP engine",
-      "url": "https://github.com/verl-project/verl/pull/8300",
-      "createdAt": "2026-10-20T17:14:29Z"
-    },
-    {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "Next fork, part 1: stage block versions by height, commit the validity bounds at genesis, and add fundPot",
-      "url": "https://github.com/rchain-community/rchain-rust/pull/373",
-      "createdAt": "2026-10-16T16:04:15Z"
     }
   ]
 }
