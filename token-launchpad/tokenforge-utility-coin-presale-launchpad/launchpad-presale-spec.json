@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T19:05:23.057Z",
-  "latencyMs": 686,
+  "executedAt": "2026-10-20T19:06:45.328Z",
+  "latencyMs": 335,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #182: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #183: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52866887,
-    "liveGasPriceGwei": 0.0061,
+    "liveBlockNumber": 52866929,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 211527,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "ETVsGFnykwYerYw2UY4t28G4mkkgAhtG4h6uyiqMpump",
+        "description": "The art of the pull. The first illustrator pikachu paired with cards",
+        "url": "https://dexscreener.com/solana/etvsgfnykwyeryw2uy4t28g4mkkgahtg4h6uyiqmpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8ek2qvnarCmbJmJTw6yWmP3wCMhBJjK12Qdkw4TNpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "7LDtJtRJgMej7aLhGEkoX438CJScs3hfVeS5iUV7pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/7ldtjtrjgmej7alhgekox438cjscs3hfves5iuv7pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HXhZkp1jyvg12fnc5mh6qhs1QMtjLtj6SmFA5RU1pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hxhzkp1jyvg12fnc5mh6qhs1qmtjltj6smfa5ru1pump"
       }
     ]
   },
