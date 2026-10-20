@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T12:25:02.716Z",
-  "latencyMs": 360,
+  "executedAt": "2026-10-20T12:29:05.983Z",
+  "latencyMs": 482,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #65: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #66: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52854877,
+    "liveBlockNumber": 52854999,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 450120,
-    "baseMainnetTopPoolsVolume24hUsd": 200833,
+    "baseMainnetTopPoolsLiquidityUsd": 450119,
+    "baseMainnetTopPoolsVolume24hUsd": 201152,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8wbPTbMDPvBcrfWzbcYi4Xutk8rH3FDeLSWZwfGZpump",
+        "description": "age of abundance",
+        "url": "https://dexscreener.com/solana/8wbptbmdpvbcrfwzbcyi4xutk8rh3fdelswzwfgzpump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0xa769763E61bc5eb7AC44284018fA77A5FFb72147",
+        "description": "Elon Musk's Chinese Doppelgänger",
+        "url": "https://dexscreener.com/ethereum/0xa769763e61bc5eb7ac44284018fa77a5ffb72147"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DmL9nt1nMjsSCv2r9Dr8pbBnA6sKX6z1KEqAayUipump",
+        "description": "Meet PENUM Protocol\n\nYour wallet shouldn’t tell your whole story.\n\nPrivacy means choosing what you share, who can see it, and where you draw the line.\n\nThat pri",
+        "url": "https://dexscreener.com/solana/dml9nt1nmjsscv2r9dr8pbbna6skx6z1keqaayuipump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "GmyPS2NiJR4P7kZUVg93TXzLVzPYgsRozouHwm7qNruE",
@@ -63,24 +81,6 @@
         "tokenAddress": "0x5943D989Cd95388B4dfAA9A61fd66843E6e57777",
         "description": "Agent ID x LaunchPad",
         "url": "https://dexscreener.com/bsc/0x5943d989cd95388b4dfaa9a61fd66843e6e57777"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x92Fa51F17820260D69988F038BeCaD11A59aF4a2",
-        "description": "Neocloud for AI teams. Real racks, live telemetry, liquid hours.\n\nBuilt on Robinhood.",
-        "url": "https://dexscreener.com/robinhood/0x92fa51f17820260d69988f038becad11a59af4a2"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xd8b3473D9F3832DF07B0972Dc3Af04D4BbF3Ceb2",
-        "description": "Inugnito ($INUGNITO) is the Shiba that everyone recognizes but nobody can identify. Born where Inu meets incognito, it brings anonymous internet culture to Robi",
-        "url": "https://dexscreener.com/robinhood/0xd8b3473d9f3832df07b0972dc3af04d4bbf3ceb2"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "81ugDLy8fyHxsL8j9v83yzM9rM7QEL6YcZioD8L1pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/81ugdly8fyhxsl8j9v83yzm9rm7qel6ycziod8l1pump"
       }
     ]
   },
