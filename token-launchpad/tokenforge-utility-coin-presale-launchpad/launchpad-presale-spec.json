@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T21:34:10.335Z",
-  "latencyMs": 249,
+  "executedAt": "2026-10-20T21:41:19.272Z",
+  "latencyMs": 738,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #219: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #220: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52871351,
+    "liveBlockNumber": 52871566,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,34 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 460288,
-    "baseMainnetTopPoolsVolume24hUsd": 214233,
+    "baseMainnetTopPoolsLiquidityUsd": 460077,
+    "baseMainnetTopPoolsVolume24hUsd": 211163,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2gJBAZVtxFcQzj3NQDKgqKbpECh6epSoq8Mzu4Fupump",
+        "description": "$DACAT | Solana's feline menace Paws on-chain, eyes on the moon",
+        "url": "https://dexscreener.com/solana/2gjbazvtxfcqzj3nqdkgqkbpech6epsoq8mzu4fupump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BvpkEViw9ENeCpFiTac7jiBn9UN2F1YJvdhub49rpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bvpkeviw9enecpfitac7jibn9un2f1yjvdhub49rpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DmzsmR6ZX9xVYst5mfTPyCtNhwGYsw1iuEUYEvhD5oaw",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/dmzsmr6zx9xvyst5mftpyctnhwgysw1iueuyevhd5oaw"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xfb3FEBaa029f58be6c5882c235e1970EE1C5B67d",
+        "description": "LOTs makes the other half of the trading pair yours to create. Compose eligible assets into one redeemable Lot, then launch a family of tokens that trade agains",
+        "url": "https://dexscreener.com/robinhood/0xfb3febaa029f58be6c5882c235e1970ee1c5b67d"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "KoLoaG4ktXXA2g5FjrwNAHeNy5wPfQ2RzVUxscgZrpc",
@@ -57,30 +81,6 @@
         "tokenAddress": "FBwFZUFehJ3ESQmBfaHzc39P1Msqn8LB7FVQDKaenCpE",
         "description": "DoggyCoin One of Gta's most important missions as told by a long time gta fan account with 230k followers.",
         "url": "https://dexscreener.com/solana/fbwfzufehj3esqmbfahzc39p1msqn8lb7fvqdkaencpe"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2yEqrg7mpTw51rgkfvN7hPztdjdvYzA352nHw89Fpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2yeqrg7mptw51rgkfvn7hpztdjdvyza352nhw89fpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6zGnm41C6rC7hDY5muLBS7adagZVMtUzBCUbwFGCpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6zgnm41c6rc7hdy5mulbs7adagzvmtuzbcubwfgcpump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0xFDAa78896D09E4090c7789690D4bf50a5AE016d5",
-        "description": "An autonomous on-chain mining system where locked tokens generate power, rewards flow continuously, and emissions decrease with every passing cycle",
-        "url": "https://dexscreener.com/ethereum/0xfdaa78896d09e4090c7789690d4bf50a5ae016d5"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7eNW16psRtuVvXK9JxLvnMsZkGbpJkh5HEsf57wbyjAy",
-        "description": "Stonk just added a basket of Trump's stocks/ crypto coins called the $TRUMP3.\n\nThe best possible narrative to run paired to this is the Trump $1 Coin.\n\nThe $1 T",
-        "url": "https://dexscreener.com/solana/7enw16psrtuvvxk9jxlvnmszkgbpjkh5hesf57wbyjay"
       }
     ]
   },
