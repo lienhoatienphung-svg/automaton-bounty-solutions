@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T19:51:39.839Z",
-  "latencyMs": 728,
+  "executedAt": "2026-10-20T19:58:38.191Z",
+  "latencyMs": 1036,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #197: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #198: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -191,7 +191,7 @@
       "chainId": "solana",
       "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
       "boostAmount": 100,
-      "totalBoostAmount": 710,
+      "totalBoostAmount": 700,
       "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
       "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
     },
@@ -218,61 +218,66 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 90,
-      "priceBtc": 0.00002589697158964145
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 730,
-      "priceBtc": 0.001041034399096292
+      "priceBtc": 0.00002583961118524783
     },
     {
       "name": "Pepe",
       "symbol": "PEPE",
       "marketCapRank": 52,
-      "priceBtc": 5.595352929292948e-11
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 112,
-      "priceBtc": 9.906136631925639e-8
+      "priceBtc": 5.594874017563384e-11
     },
     {
       "name": "Starknet",
       "symbol": "STRK",
       "marketCapRank": 123,
-      "priceBtc": 6.870048775193993e-7
+      "priceBtc": 6.88083776170913e-7
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 735,
+      "priceBtc": 0.0010359625752355134
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 71,
-      "priceBtc": 0.0003043188884064894
+      "priceBtc": 0.0003045382663053231
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00005913870781515147
     },
     {
       "name": "Grass",
       "symbol": "GRASS",
       "marketCapRank": 124,
-      "priceBtc": 0.0000074166563136055615
+      "priceBtc": 0.000007453121824065781
     },
     {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 140,
-      "priceBtc": 0.000004173685630559382
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9996868708572655
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Kimi K3 support",
-      "url": "https://github.com/tpurtell/cuteafd/issues/273",
-      "createdAt": "2026-10-15T06:49:01Z"
+      "title": "🤝 Agent coordination channel (standing, vol. 2)",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
+      "createdAt": "2026-09-20T06:23:41Z"
     },
     {
-      "title": "fix(deps): update production dependencies (patch and minor)",
-      "url": "https://github.com/AgentsKit-io/harness/pull/191",
-      "createdAt": "2026-10-19T05:37:07Z"
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/midnightntwrk/midnight-faucet-api/issues/3",
+      "createdAt": "2026-07-28T15:02:31Z"
+    },
+    {
+      "title": "Add the vision-encoder-objective task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/84",
+      "createdAt": "2026-10-14T17:20:01Z"
     },
     {
       "title": "authentication",
@@ -280,19 +285,14 @@
       "createdAt": "2026-10-20T11:32:50Z"
     },
     {
-      "title": "perf(sampling): fuse greedy chain verification output writes",
-      "url": "https://github.com/lightseekorg/tokenspeed/pull/2553",
-      "createdAt": "2026-10-20T19:50:31Z"
+      "title": "contracts: cap a transfer at 50 USDC and the bridge principal at 1000",
+      "url": "https://github.com/gosh-sh/bridge/pull/101",
+      "createdAt": "2026-10-14T00:22:26Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "[SF-089] Transfer fleet administration safely between customer wallets",
+      "url": "https://github.com/tyler-suifleet/suifleet/issues/176",
+      "createdAt": "2026-10-20T17:42:40Z"
     }
   ]
 }
