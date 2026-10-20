@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T21:08:38.024Z",
-  "latencyMs": 475,
+  "executedAt": "2026-10-20T21:16:36.314Z",
+  "latencyMs": 259,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #213: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #214: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52870585,
+    "liveBlockNumber": 52870824,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 460395,
-    "baseMainnetTopPoolsVolume24hUsd": 212908,
+    "baseMainnetTopPoolsVolume24hUsd": 212794,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8mnc8YdDjkM5mJXonYEZcrvjcD4w2jeLUs6p77Fdpump",
+        "description": "AI launchpad with hooks, arena and on-chain agents on @Solana.",
+        "url": "https://dexscreener.com/solana/8mnc8yddjkm5mjxonyezcrvjcd4w2jelus6p77fdpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "rHWVGNmhuzHZRXRj15A6rZz9KTbSkYMUBB9spSzpump",
+        "description": "This is the OFFICIAL PSA10 coin.",
+        "url": "https://dexscreener.com/solana/rhwvgnmhuzhzrxrj15a6rzz9ktbskymubb9spszpump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x8679fF5D5320fDd05eF4Dba9038698f95204E76C",
+        "description": "Advanced DeAI infrastructure powering custom autonomous agent deployment, confidential reasoning, and deterministic risk protection via Cryptic Vaults across 6 ",
+        "url": "https://dexscreener.com/ethereum/0x8679ff5d5320fdd05ef4dba9038698f95204e76c"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xb11384A6ac2b3708E3d25A834c8a88687Accbcd1",
@@ -63,24 +81,6 @@
         "tokenAddress": "7o6wH9NcVHBSzvXMaiTecm2oGkN2jVJX3S57NvbJpump",
         "description": "$PVE is the coin of PvePad, the launchpad that takes a Solana coin to multiple chains in one click. \n\nEvery PvePad launch sends a quarter of its creator fees to",
         "url": "https://dexscreener.com/solana/7o6wh9ncvhbszvxmaitecm2ogkn2jvjx3s57nvbjpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2yY8nKodSpaGXKcZVYJjgW1HgQRXo6ELg1WFG45Fpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2yy8nkodspagxkczvyjjgw1hgqrxo6elg1wfg45fpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "JBpDKrccA4p4ooszHimumyz6djwL92NRfkHZAht3pump",
-        "description": "Privacy coins are outperforming memes.",
-        "url": "https://dexscreener.com/solana/jbpdkrcca4p4ooszhimumyz6djwl92nrfkhzaht3pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Ci8fSR6gqN4AFGem4o4SZU7rRtp1BG3MgaTE4HdJpump",
-        "description": "Sun is one of the most viral monkeys in China, with over 1M followers on TikTok and 1.5B+ views. Literally every video gets millions of views. I got in touch wi",
-        "url": "https://dexscreener.com/solana/ci8fsr6gqn4afgem4o4szu7rrtp1bg3mgate4hdjpump"
       }
     ]
   },
