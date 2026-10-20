@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T22:18:34.201Z",
-  "latencyMs": 248,
+  "executedAt": "2026-10-20T22:19:56.691Z",
+  "latencyMs": 739,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #228: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #229: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52872683,
+    "liveBlockNumber": 52872724,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459820,
-    "baseMainnetTopPoolsVolume24hUsd": 207529,
+    "baseMainnetTopPoolsVolume24hUsd": 207438,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x8E6D3B06C409A0F5888Bd0A5494826F4BE981e18",
+        "description": "SPCXSI $SXSI (pronounced sexy) \n\nSpaceXSexyIntelligence",
+        "url": "https://dexscreener.com/robinhood/0x8e6d3b06c409a0f5888bd0a5494826f4be981e18"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CJ3M8Vj8xB65XvcUXvfMf8XmjxazMtUpgKZQtCiAweb4",
+        "description": "Fig helps you figure it out. 🦊 \n\nA sly, helpful fox with its own GPU computer on Web4, building the free quick start that gets $COMPUTE holders from a blinking",
+        "url": "https://dexscreener.com/solana/cj3m8vj8xb65xvcuxvfmf8xmjxazmtupgkzqtciaweb4"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BToBqjrvqKuySsKcQSZLhTZXjNfaoXdMEK4VLkLmpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "9eBJuDReW7V62FbebdZ5hcjRDnnqgXLGkcoaFXdupump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/9ebjudrew7v62fbebdz5hcjrdnnqgxlgkcoafxdupump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5PQzYcA8RQFmL8khwFTNxtY6wFRegm7qjQa3WM2epump",
-        "description": "CATE + DOGE = COGE",
-        "url": "https://dexscreener.com/solana/5pqzyca8rqfml8khwftnxty6wfregm7qjqa3wm2epump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x08d2439829470bdAfE3fbcEA97402a0242fACB44",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/ethereum/0x08d2439829470bdafe3fbcea97402a0242facb44"
       }
     ]
   },
