@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T01:14:58.367Z",
-  "latencyMs": 1185,
+  "executedAt": "2026-10-20T01:32:11.967Z",
+  "latencyMs": 1466,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #833: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #834: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 672767,
-      "apyBase": 35.37,
-      "apyRewardBonus": 437385.49,
-      "apyTotal": 437420.86,
+      "tvlUsd": 668781,
+      "apyBase": 37.58,
+      "apyRewardBonus": 437493.56,
+      "apyTotal": 437531.14,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -30,11 +30,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "USDC-PROS",
+      "tvlUsd": 941127,
+      "apyBase": 23.17,
+      "apyRewardBonus": 60814.91,
+      "apyTotal": 60838.08,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1076164,
-      "apyBase": 0.74,
-      "apyRewardBonus": 51451.23,
-      "apyTotal": 51451.97,
+      "tvlUsd": 1074252,
+      "apyBase": 0.71,
+      "apyRewardBonus": 46991.36,
+      "apyTotal": 46992.07,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -44,10 +57,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 52745,
+      "tvlUsd": 52248,
       "apyBase": 0,
-      "apyRewardBonus": 37322.03,
-      "apyTotal": 37322.03,
+      "apyRewardBonus": 37535.49,
+      "apyTotal": 37535.49,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -56,24 +69,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-PROS",
-      "tvlUsd": 942219,
-      "apyBase": 12.29,
-      "apyRewardBonus": 16962.1,
-      "apyTotal": 16974.4,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "9e788cd1-c7f7-4857-99ca-495db03e67f1"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 97404,
-      "apyBase": 122.28,
-      "apyRewardBonus": 13843.7,
-      "apyTotal": 13965.98,
+      "tvlUsd": 97754,
+      "apyBase": 120.42,
+      "apyRewardBonus": 19992.1,
+      "apyTotal": 20112.52,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -82,24 +82,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-CBBTC",
-      "tvlUsd": 176962,
-      "apyBase": 25.63,
-      "apyRewardBonus": 5225.26,
-      "apyTotal": 5250.89,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 153184,
-      "apyBase": 27.85,
-      "apyRewardBonus": 5118.13,
-      "apyTotal": 5145.97,
+      "tvlUsd": 152736,
+      "apyBase": 31.26,
+      "apyRewardBonus": 10490.76,
+      "apyTotal": 10522.02,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -108,11 +95,37 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 3117411,
+      "apyBase": 65.42,
+      "apyRewardBonus": 5971.72,
+      "apyTotal": 6037.14,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 178237,
+      "apyBase": 25.81,
+      "apyRewardBonus": 5621.66,
+      "apyTotal": 5647.47,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "USDC-MUC",
-      "tvlUsd": 676947,
-      "apyBase": 111.39,
-      "apyRewardBonus": 4990.66,
-      "apyTotal": 5102.04,
+      "tvlUsd": 675739,
+      "apyBase": 110.09,
+      "apyRewardBonus": 5223.25,
+      "apyTotal": 5333.34,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -130,23 +143,18 @@
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "eb27d0be-9de4-4ed9-8d36-a754e18d3358"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "WETH-CBBTC",
-      "tvlUsd": 3125617,
-      "apyBase": 57.67,
-      "apyRewardBonus": 3243.56,
-      "apyTotal": 3301.23,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0xa01fF10774CFe53C3FBC1D7D124c42e19F6AfcBD",
+      "boostAmount": 100,
+      "totalBoostAmount": 200,
+      "description": "Nobody knows where OWOWO came from.\n\nNo roadmap. No promises. Just vibes and a stare you can’t unsee.",
+      "url": "https://dexscreener.com/robinhood/0xa01ff10774cfe53c3fbc1d7d124c42e19f6afcbd"
+    },
     {
       "chainId": "solana",
       "tokenAddress": "Bvcpk7xA48ffampDuKpFjNG7LPBcJYCojC6XUVKLBbVH",
@@ -202,14 +210,6 @@
       "totalBoostAmount": 550,
       "description": "Kim is dying",
       "url": "https://dexscreener.com/solana/aclefat6yx7tpc8tafagpfzbvw42aowmixejakn1pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "GoLdZWYNg9jg4z5SGCLJx69xag2vMjLaSQK5S7TUGoLd",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "The first Gold token paired to real Gold. \n\nTrade-> Receive high gold rewards.\n\nCA= Gold....Gold too.",
-      "url": "https://dexscreener.com/solana/goldzwyng9jg4z5sgcljx69xag2vmjlasqk5s7tugold"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 749,
-      "priceBtc": 2.946307979756562e-7
+      "marketCapRank": 751,
+      "priceBtc": 2.9387809146869636e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 692,
-      "priceBtc": 0.0011249732846365587
+      "marketCapRank": 691,
+      "priceBtc": 0.0011325906411568966
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "marketCapRank": 117,
-      "priceBtc": 9.218165028006022e-8
-    },
-    {
-      "name": "Backpack",
-      "symbol": "BP",
-      "marketCapRank": 151,
-      "priceBtc": 0.00001384302251634621
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PRL",
-      "marketCapRank": 91,
-      "priceBtc": 0.00002464910399705483
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00005898900040973139
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009638817386311814
+      "marketCapRank": 118,
+      "priceBtc": 9.213668590397501e-8
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 71,
-      "priceBtc": 0.00029257809754612454
+      "priceBtc": 0.00029278968185538395
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00005937977693506296
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "marketCapRank": 36,
+      "priceBtc": 0.0032569833472346054
+    },
+    {
+      "name": "Backpack",
+      "symbol": "BP",
+      "marketCapRank": 150,
+      "priceBtc": 0.000013841345305517266
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PRL",
+      "marketCapRank": 91,
+      "priceBtc": 0.000024615206284867823
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "WIP V2 native fittings, architectural finishes and kitchen preparation",
-      "url": "https://github.com/NateHiggins/Lily-s-Music-Box/pull/10",
-      "createdAt": "2026-10-19T16:10:41Z"
+      "title": "Daily Shorts Pipeline — Reports",
+      "url": "https://github.com/caleblschulte0-ux/Shorts-pipeline/issues/1",
+      "createdAt": "2026-05-28T21:54:45Z"
     },
     {
-      "title": "[功能] 传输路径自动选择：点对点 Wi-Fi 优先、局域网次级、蓝牙兜底及 UI 提示",
-      "url": "https://github.com/GHOST-AKU/wozai/issues/23",
-      "createdAt": "2026-10-12T11:07:47Z"
+      "title": "Add the collection to TrainingAi Preview: screen, Home card and animated pen",
+      "url": "https://github.com/nekodas-neko/TrainingAi_Open/pull/3140",
+      "createdAt": "2026-10-20T00:31:07Z"
     },
     {
-      "title": "[CVL2-RESEARCH][AGENTE-05] Projetos 7, 19, 6, 3, 21",
-      "url": "https://github.com/matheus-junio-da-silva/Web3Bugs/pull/40",
-      "createdAt": "2026-10-19T16:56:21Z"
+      "title": "Security audit 2026-10-18: record SA-61..160, fix the 23 clear-cut items",
+      "url": "https://github.com/deterministicstatemachine/dsm/pull/1142",
+      "createdAt": "2026-10-18T10:19:50Z"
+    },
+    {
+      "title": "Security(deps): bump lucide-react from 0.516.0 to 1.47.0 in /dashboard-mvp",
+      "url": "https://github.com/dagimhaile1627-ux/project-management-excel/pull/4",
+      "createdAt": "2026-09-23T15:50:56Z"
+    },
+    {
+      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
+      "url": "https://github.com/Open-Athena/biotasks/issues/21",
+      "createdAt": "2026-10-16T20:07:24Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "docs: content accuracy and completeness fixes",
-      "url": "https://github.com/MystenLabs/walrus/pull/3821",
-      "createdAt": "2026-09-29T19:03:17Z"
-    },
-    {
-      "title": "docs: update page metadata for search and AI discovery",
-      "url": "https://github.com/MystenLabs/sui-docs/pull/341",
-      "createdAt": "2026-10-19T11:19:24Z"
     }
   ]
 }
