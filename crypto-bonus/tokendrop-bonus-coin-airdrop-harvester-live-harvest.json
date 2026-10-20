@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T11:11:34.522Z",
-  "latencyMs": 815,
+  "executedAt": "2026-10-20T11:12:47.800Z",
+  "latencyMs": 790,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #34: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #35: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 92,
-      "priceBtc": 0.000023982564273524687
+      "marketCapRank": 94,
+      "priceBtc": 0.00002394257027476787
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.196613534570802e-8
+      "priceBtc": 9.191590188713918e-8
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.000061952230662
-    },
-    {
-      "name": "Metaplex",
-      "symbol": "MPLX",
-      "marketCapRank": 545,
-      "priceBtc": 0.0000010004054355443372
+      "priceBtc": 0.9991142092030699
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00005739154806857233
+      "priceBtc": 0.000057448495677565294
+    },
+    {
+      "name": "PHALA",
+      "symbol": "PHA",
+      "marketCapRank": 432,
+      "priceBtc": 7.335449724194819e-7
+    },
+    {
+      "name": "Metaplex",
+      "symbol": "MPLX",
+      "marketCapRank": 536,
+      "priceBtc": 0.000001014061537532505
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 71,
-      "priceBtc": 0.0002968305172655704
+      "priceBtc": 0.0002966782397468747
     },
     {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 87,
-      "priceBtc": 0.000009830871094904719
-    },
-    {
-      "name": "PHALA",
-      "symbol": "PHA",
-      "marketCapRank": 421,
-      "priceBtc": 7.553722726362818e-7
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 83,
+      "priceBtc": 0.00010402331527816385
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "perf(jit): resolve old Vyper memory returns and drop unreached blocks",
+      "url": "https://github.com/alloy-rs/evm2/pull/687",
+      "createdAt": "2026-10-18T11:29:21Z"
+    },
+    {
+      "title": "chore(deps): update dependency @lucide/svelte to v1",
+      "url": "https://github.com/yshalsager/mini-baheth/pull/58",
+      "createdAt": "2026-04-25T02:16:47Z"
+    },
+    {
+      "title": "feat: add native DeepSeek Harness usage and account balances",
+      "url": "https://github.com/chenchaoyi/gtmux/pull/1674",
+      "createdAt": "2026-10-20T10:38:32Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/manastalukdar/template-repo/pull/124",
+      "createdAt": "2026-03-31T09:51:02Z"
+    },
+    {
+      "title": "perf(jit): switch dynamic jumps on a dense index",
+      "url": "https://github.com/alloy-rs/evm2/pull/609",
+      "createdAt": "2026-10-15T00:19:06Z"
+    },
+    {
       "title": "Explorer: a queued faucet with limits that survive restarts",
       "url": "https://github.com/rome-protocol/canton-zk-evm/pull/6",
       "createdAt": "2026-10-20T11:11:21Z"
-    },
-    {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/REVREBEL/REVREBEL-Metrics/pull/21",
-      "createdAt": "2026-05-10T00:25:19Z"
-    },
-    {
-      "title": "Data/filecoin forest explorer faucets 20261019",
-      "url": "https://github.com/Chain-Love/chain-love/pull/4707",
-      "createdAt": "2026-10-20T10:37:04Z"
-    },
-    {
-      "title": "CON-1042: route trivia through admin API and track finalized rewards",
-      "url": "https://github.com/genlayerlabs/trivia-faucet/pull/2",
-      "createdAt": "2026-10-20T11:10:11Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "feat: Workspace Handoff MVP — portable Git manifest, conflict-safe restore and native macOS UI",
-      "url": "https://github.com/truongbo17/inputmesh/pull/6",
-      "createdAt": "2026-10-20T10:57:23Z"
     }
   ]
 }
