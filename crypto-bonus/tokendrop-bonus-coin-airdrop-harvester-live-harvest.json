@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T18:31:26.366Z",
-  "latencyMs": 777,
+  "executedAt": "2026-10-20T18:38:18.842Z",
+  "latencyMs": 1081,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #177: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #178: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "GyWkSn2ah7dqLyPeZAjEZmfxuU2H4nwfGvgJhfYDVegn",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Bul is bullish",
+      "url": "https://dexscreener.com/solana/gywksn2ah7dqlypezajezmfxuu2h4nwfgvgjhfydvegn"
+    },
+    {
       "chainId": "ethereum",
       "tokenAddress": "0x22cF03dA665b4d1459a56Dd09dBC069935d16b37",
       "boostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "You arrive with nothing but a name and a way in. Run jobs, build crews, buy property, kill cops, take over businesses, and turn street money into an empire.",
       "url": "https://dexscreener.com/solana/g6dhfpt5nd77rbngoksmksuh8kfhqif3ktpge9a2pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "G2a5BzQ9vhk2wBZFNH9dKRJgy6DwebW4yS2YS8fFpump",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/g2a5bzq9vhk2wbzfnh9dkrjgy6dwebw4ys2ys8ffpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.000025627410771610063
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 114,
-      "priceBtc": 9.747853398589609e-8
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 141,
-      "priceBtc": 0.000004135958395122279
+      "priceBtc": 0.00002565064983045758
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010414066333802106
+      "priceBtc": 0.000010371169820985017
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 114,
+      "priceBtc": 9.721742926390807e-8
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 141,
+      "priceBtc": 0.000004147124474586887
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9992167100896446
+      "priceBtc": 0.9989927865153992
+    },
+    {
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "marketCapRank": 27,
+      "priceBtc": 0.00011657924570645334
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
-      "marketCapRank": 70,
-      "priceBtc": 0.0003121950092491354
+      "marketCapRank": 71,
+      "priceBtc": 0.0003097808846060062
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00005965603728790412
-    },
-    {
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "marketCapRank": 47,
-      "priceBtc": 0.000007014933225584616
+      "priceBtc": 0.00005960493451834299
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/53",
-      "createdAt": "2026-10-20T02:41:45Z"
+      "title": "⬆️ Update dependency lucide-react to v1",
+      "url": "https://github.com/ikifar2012/publicipme-site/pull/815",
+      "createdAt": "2026-03-23T17:31:37Z"
     },
     {
-      "title": "test: every error code has a test that triggers it; ci: deny unwrap/expect; ci: reproducible build; docs: publish cargo doc",
-      "url": "https://github.com/Godgift-care/sci-healthcare-contracts/pull/149",
-      "createdAt": "2026-10-20T17:28:44Z"
+      "title": "ci: Bump MBridge.",
+      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4752",
+      "createdAt": "2026-10-15T22:02:19Z"
     },
     {
-      "title": "fix(deps): update dependency lucide to v1.60.0",
-      "url": "https://github.com/airscripts/awesome-steam-deck/pull/68",
-      "createdAt": "2026-09-12T01:12:20Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "feat(equivalence-judge): support per-problem question extraction",
-      "url": "https://github.com/NVIDIA-NeMo/Gym/pull/4765",
-      "createdAt": "2026-10-19T21:09:49Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "feat(validation): catch reserved-word respellings and words hidden in longer names",
-      "url": "https://github.com/divinevideo/divine-name-server/pull/112",
-      "createdAt": "2026-09-24T21:42:04Z"
+      "title": "chore(deps): update dependency lucide-react to v1.60.0",
+      "url": "https://github.com/dtsong/tcg-scout/pull/153",
+      "createdAt": "2026-04-09T08:50:55Z"
     },
     {
-      "title": "docs(tron): USDT vault tutorial and agentic development guide",
-      "url": "https://github.com/OpenZeppelin/docs/pull/248",
-      "createdAt": "2026-10-15T23:16:53Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/SamuelAlev/dotjs-to-react/pull/138",
+      "createdAt": "2026-03-23T22:01:24Z"
     }
   ]
 }
