@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-20T15:37:40.524Z",
-  "latencyMs": 1020,
+  "executedAt": "2026-10-20T15:42:52.721Z",
+  "latencyMs": 895,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #129: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #130: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "Rule Proposal: Prefer `TYPE_CHECKING = False` over `from typing import TYPE_CHECKING` if it's the only eager import from `typing`",
-          "url": "https://github.com/astral-sh/ruff/issues/29516",
-          "repositoryUrl": "https://api.github.com/repos/astral-sh/ruff",
-          "updatedAt": "2026-10-20T15:37:36Z"
+          "title": "chore(cla): exempt the northmes-agent machine user on its own and the maintainer's pull requests",
+          "url": "https://github.com/northMES/northmes/pull/750",
+          "repositoryUrl": "https://api.github.com/repos/northMES/northmes",
+          "updatedAt": "2026-10-20T15:42:49Z"
         },
         {
-          "title": "fix(typography): fix hardcoded tv font sizes & add linter to prevent it happening again",
-          "url": "https://github.com/streamyfin/streamyfin/pull/2297",
-          "repositoryUrl": "https://api.github.com/repos/streamyfin/streamyfin",
-          "updatedAt": "2026-10-20T15:37:34Z"
+          "title": "Remediation W16-W41 and parity programmes locally complete (25/25 + 5/5)",
+          "url": "https://github.com/simone-coelho/__cloudflare_base/pull/1",
+          "repositoryUrl": "https://api.github.com/repos/simone-coelho/__cloudflare_base",
+          "updatedAt": "2026-10-20T15:42:48Z"
         },
         {
-          "title": "feat(harness): 接通原生开发执行、经验消费与主动事件链路",
-          "url": "https://github.com/zemeng5208/PersonalAgent/pull/451",
-          "repositoryUrl": "https://api.github.com/repos/zemeng5208/PersonalAgent",
-          "updatedAt": "2026-10-20T15:37:34Z"
+          "title": "fix(sandbox): allow macOS system resolver and TLS services in network Host mode",
+          "url": "https://github.com/clairun/clai/pull/237",
+          "repositoryUrl": "https://api.github.com/repos/clairun/clai",
+          "updatedAt": "2026-10-20T15:42:47Z"
         },
         {
-          "title": "TAWḤĪD KIDS · 150 (4–6): 47/56 alte V4-MP3s gesichert · letzte 9 per API 402 blockiert",
-          "url": "https://github.com/Sero91ak/dar-al-tawhid-site/pull/1143",
-          "repositoryUrl": "https://api.github.com/repos/Sero91ak/dar-al-tawhid-site",
-          "updatedAt": "2026-10-20T15:37:38Z"
+          "title": "feat(cryptomap): FOSS-483 B5.6 bounded X.509 issuer-candidate evidence graph",
+          "url": "https://github.com/LATTIX-IO/cryptomap/pull/71",
+          "repositoryUrl": "https://api.github.com/repos/LATTIX-IO/cryptomap",
+          "updatedAt": "2026-10-20T15:42:46Z"
         },
         {
-          "title": "feat(keysmith): per-dataset key derivation package",
-          "url": "https://github.com/FilOzone/synapse-sdk/pull/983",
-          "repositoryUrl": "https://api.github.com/repos/FilOzone/synapse-sdk",
-          "updatedAt": "2026-10-20T15:37:33Z"
+          "title": "feat(runtime): connect guarded commands and truthful action presentation (#126)",
+          "url": "https://github.com/florianfinn/docklet-next/pull/127",
+          "repositoryUrl": "https://api.github.com/repos/florianfinn/docklet-next",
+          "updatedAt": "2026-10-20T15:42:45Z"
         },
         {
-          "title": "feat(api): add the resource-state read model tables",
-          "url": "https://github.com/RMI/stitch/pull/330",
-          "repositoryUrl": "https://api.github.com/repos/RMI/stitch",
-          "updatedAt": "2026-10-20T15:37:33Z"
+          "title": "fix(signals)!: track agent status on any tool version, add opt-out",
+          "url": "https://github.com/2witstudios/PurePoint/pull/258",
+          "repositoryUrl": "https://api.github.com/repos/2witstudios/PurePoint",
+          "updatedAt": "2026-10-20T15:42:45Z"
         },
         {
-          "title": "feat(mktg-os-agents): add linkedin post profile and post intake (7/9)",
-          "url": "https://github.com/linuxfoundation/lfx-self-serve/pull/3930",
-          "repositoryUrl": "https://api.github.com/repos/linuxfoundation/lfx-self-serve",
-          "updatedAt": "2026-10-20T15:37:38Z"
+          "title": "🚨 Crypto Logger alert delivery failed",
+          "url": "https://github.com/dulnasavin/logger-runner/issues/36",
+          "repositoryUrl": "https://api.github.com/repos/dulnasavin/logger-runner",
+          "updatedAt": "2026-10-20T15:42:44Z"
         },
         {
-          "title": "Rewards: reliable modal redemption UX and wallet-confirmed status",
-          "url": "https://github.com/JILLOnline/JILL-WEB/pull/39",
-          "repositoryUrl": "https://api.github.com/repos/JILLOnline/JILL-WEB",
-          "updatedAt": "2026-10-20T15:37:33Z"
+          "title": "Add gRPC, mutual TLS, Memgraph reads, routed database ports, per-requester branches and cross-cluster workers",
+          "url": "https://github.com/trmlabs/trm-gatehouse/pull/86",
+          "repositoryUrl": "https://api.github.com/repos/trmlabs/trm-gatehouse",
+          "updatedAt": "2026-10-20T15:42:44Z"
         }
       ]
     },
