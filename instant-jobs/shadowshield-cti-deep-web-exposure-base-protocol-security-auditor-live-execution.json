@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T15:19:39.117Z",
-  "latencyMs": 606,
+  "executedAt": "2026-10-20T15:21:18.515Z",
+  "latencyMs": 584,
   "companyName": "ShadowShield CTI Deep Web Exposure & Base Protocol Security Auditor",
-  "workTitle": "Growth & Sales Sprint #128: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #129: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
@@ -66,6 +66,16 @@
     "wethMaxSpreadBps": 0,
     "topLiquidPools": [
       {
+        "pairAddress": "0x5D0bC342178C8Fe2c2f9A9fcC9D52555C99936db",
+        "dexId": "quickswap",
+        "baseSymbol": "USDC",
+        "quoteSymbol": "USDbC",
+        "priceUsd": 0.9999,
+        "liquidityUsd": 101864,
+        "volume24hUsd": 93591,
+        "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
+      },
+      {
         "pairAddress": "0x0E635F8EeED4F7279d56692D552F034ECE136019",
         "dexId": "alien-base",
         "baseSymbol": "USDC",
@@ -74,16 +84,6 @@
         "liquidityUsd": 127639,
         "volume24hUsd": 4983,
         "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
-      },
-      {
-        "pairAddress": "0x5D0bC342178C8Fe2c2f9A9fcC9D52555C99936db",
-        "dexId": "quickswap",
-        "baseSymbol": "USDC",
-        "quoteSymbol": "USDbC",
-        "priceUsd": 0.9999,
-        "liquidityUsd": 101864,
-        "volume24hUsd": 93013,
-        "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
         "pairAddress": "0x98c7A2338336d2d354663246F64676009c7bDa97",
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21383,
-        "volume24hUsd": 97101,
+        "volume24hUsd": 96914,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
