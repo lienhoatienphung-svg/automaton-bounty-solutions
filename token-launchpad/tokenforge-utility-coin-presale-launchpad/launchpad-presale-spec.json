@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T15:32:39.182Z",
-  "latencyMs": 744,
+  "executedAt": "2026-10-20T15:37:51.661Z",
+  "latencyMs": 532,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #127: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #128: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52860505,
+    "liveBlockNumber": 52860662,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 457520,
-    "baseMainnetTopPoolsVolume24hUsd": 215069,
+    "baseMainnetTopPoolsVolume24hUsd": 214954,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump",
+        "description": "When the city goes dark, the signal comes alive. Darkinator Cat owns the night. 🐈‍⬛🌃",
+        "url": "https://dexscreener.com/solana/fpam8wynidshtwx1znyeipggrnnbcbtcn1iechcpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8T2nkC9HQkgd2yjxc7Yn1LAietmXyZKbv1vR4FXDbonk",
@@ -75,12 +81,6 @@
         "tokenAddress": "BpccYDw4hDFfEUF3zGrBncCc4GNDxgntnKBbYeTQZaqT",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/bpccydw4hdffeuf3zgrbnccc4gndxgntnkbbyetqzaqt"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xdCfa97774BA2cb8a9deD0612524984f6f46d4556",
-        "description": "COWL is a private receive link for Robinhood Chain. Share one link instead of your wallet address: every payment lands at a fresh one-time address that only you",
-        "url": "https://dexscreener.com/robinhood/0xdcfa97774ba2cb8a9ded0612524984f6f46d4556"
       }
     ]
   },
