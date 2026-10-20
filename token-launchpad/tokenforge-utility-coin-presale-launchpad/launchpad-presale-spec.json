@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T06:11:09.047Z",
-  "latencyMs": 1009,
+  "executedAt": "2026-10-20T06:13:36.005Z",
+  "latencyMs": 259,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #856: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #857: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52843660,
+    "liveBlockNumber": 52843734,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440983,
-    "baseMainnetTopPoolsVolume24hUsd": 159767,
+    "baseMainnetTopPoolsVolume24hUsd": 159820,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GLgMcJjNJRfK87qBnw9mirWVTqrF7yzyeCvbDJYC4ASH",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/glgmcjjnjrfk87qbnw9mirwvtqrf7yzyecvbdjyc4ash"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2UKY5BDtvgkEzopKcViMzgpUrfwhCnXyka2D2pN1pump",
@@ -75,12 +81,6 @@
         "tokenAddress": "BN3VouGoaTF4T3BmqF1yspwftgvev9BB6gdwzu6Ppump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/bn3vougoatf4t3bmqf1yspwftgvev9bb6gdwzu6ppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2vP46f4dfuPY8DC4fo1P8Mng53oNfZtwpjKkf4JWpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2vp46f4dfupy8dc4fo1p8mng53onfztwpjkkf4jwpump"
       }
     ]
   },
