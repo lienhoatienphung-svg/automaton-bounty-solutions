@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T21:16:36.314Z",
-  "latencyMs": 259,
+  "executedAt": "2026-10-20T21:17:38.897Z",
+  "latencyMs": 262,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #214: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #215: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52870824,
+    "liveBlockNumber": 52870855,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 460395,
-    "baseMainnetTopPoolsVolume24hUsd": 212794,
+    "baseMainnetTopPoolsVolume24hUsd": 212847,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GL4SNrzNSUF13tjW4hubfxh8eyjzrBVpjUS59qpmqCYq",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gl4snrznsuf13tjw4hubfxh8eyjzrbvpjus59qpmqcyq"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8mnc8YdDjkM5mJXonYEZcrvjcD4w2jeLUs6p77Fdpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "AMR16uuJhdQuXTCjJRVvHZmmza3ZNUBHwSgVAYpvpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/amr16uujhdquxtcjjrvvhzmmza3znubhwsgvaypvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7o6wH9NcVHBSzvXMaiTecm2oGkN2jVJX3S57NvbJpump",
-        "description": "$PVE is the coin of PvePad, the launchpad that takes a Solana coin to multiple chains in one click. \n\nEvery PvePad launch sends a quarter of its creator fees to",
-        "url": "https://dexscreener.com/solana/7o6wh9ncvhbszvxmaitecm2ogkn2jvjx3s57nvbjpump"
       }
     ]
   },
