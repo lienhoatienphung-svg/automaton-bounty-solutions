@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T14:14:51.496Z",
-  "latencyMs": 655,
+  "executedAt": "2026-10-20T14:16:28.052Z",
+  "latencyMs": 839,
   "companyName": "Aegis Web3 Smart Contract Security Audit & Bug Bounty Lab",
-  "workTitle": "Growth & Sales Sprint #118: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #119: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
@@ -70,9 +70,9 @@
         "dexId": "alien-base",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000013,
+        "priceUsd": 1.00001,
         "liquidityUsd": 127640,
-        "volume24hUsd": 4558,
+        "volume24hUsd": 4802,
         "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
       },
       {
@@ -82,7 +82,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 101862,
-        "volume24hUsd": 90754,
+        "volume24hUsd": 90818,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -102,28 +102,28 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21383,
-        "volume24hUsd": 90274,
+        "volume24hUsd": 90743,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
-      },
-      {
-        "pairAddress": "0x29Ed55B18Af0Add137952CB3E29FB77B32fCE426",
-        "dexId": "pancakeswap",
-        "baseSymbol": "USDC",
-        "quoteSymbol": "USDbC",
-        "priceUsd": 1.000022,
-        "liquidityUsd": 14836,
-        "volume24hUsd": 514,
-        "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       },
       {
         "pairAddress": "0x06959273E9A65433De71F5A452D529544E07dDD0",
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000013,
+        "priceUsd": 1.0000078,
         "liquidityUsd": 12034,
-        "volume24hUsd": 2401,
+        "volume24hUsd": 2648,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
+      },
+      {
+        "pairAddress": "0x29Ed55B18Af0Add137952CB3E29FB77B32fCE426",
+        "dexId": "pancakeswap",
+        "baseSymbol": "USDC",
+        "quoteSymbol": "USDbC",
+        "priceUsd": 1.000015,
+        "liquidityUsd": 14836,
+        "volume24hUsd": 662,
+        "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       }
     ]
   },
