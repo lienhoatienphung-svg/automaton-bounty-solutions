@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T12:04:45.680Z",
-  "latencyMs": 382,
+  "executedAt": "2026-10-20T12:08:40.645Z",
+  "latencyMs": 360,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #57: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #58: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52854269,
+    "liveBlockNumber": 52854386,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 421194,
-    "baseMainnetTopPoolsVolume24hUsd": 192040,
+    "baseMainnetTopPoolsVolume24hUsd": 191982,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "AmAya4AEgxNtkCQP3g2VhmceLkDjzrQcqa1tQMaipump",
+        "description": "highly skilled professionals. free accommodation enjoyers. europe's greatest investment.",
+        "url": "https://dexscreener.com/solana/amaya4aegxntkcqp3g2vhmcelkdjzrqcqa1tqmaipump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9ymTnjQfTVLzMRa2G5V1xxv7LnS8nnDdACr2hW8KGHPM",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x1FCf99E36cfcf6963cF71b77bBad7d5a61d27777",
         "description": "Japanese markets, yen data & onchain launches. Launch and trade tokens paired with EWJon or TMon on BNB Chain. Research meets wallet execution. 🇯🇵⛓️",
         "url": "https://dexscreener.com/bsc/0x1fcf99e36cfcf6963cf71b77bbad7d5a61d27777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump",
-        "description": "the earth pair",
-        "url": "https://dexscreener.com/solana/2qgntgjbzu6tu6cmrm5z5epdguuaygtacbbobcw6pump"
       }
     ]
   },
