@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T14:10:48.658Z",
-  "latencyMs": 704,
+  "executedAt": "2026-10-20T14:11:50.515Z",
+  "latencyMs": 263,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #102: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #103: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52858050,
-    "liveGasPriceGwei": 0.0068,
+    "liveBlockNumber": 52858081,
+    "liveGasPriceGwei": 0.0067,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 450114,
-    "baseMainnetTopPoolsVolume24hUsd": 202512,
+    "baseMainnetTopPoolsVolume24hUsd": 202995,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "FvWz1LVYNzGfLpXEYTrdzArWpRVhMpS7Pm3RPKcvpump",
+        "description": "The kid nobody believed in, with the Nine-Tails inside. The thing they feared became the power source. $NARUTO. Believe it.",
+        "url": "https://dexscreener.com/solana/fvwz1lvynzgflpxeytrdzarwprvhmps7pm3rpkcvpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "AjsbSXT7TTaK5jtFLE8T2csnaicTPAx3pxsWZzBvRqo",
@@ -75,12 +81,6 @@
         "tokenAddress": "8H8U6SGQbkqCBeA5vYGx2yAQVud6V5bPfbYQKEzcpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/8h8u6sgqbkqcbea5vygx2yaqvud6v5bpfbyqkezcpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x846eD204275edBdF3226C8786f068D6828B44814",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0x846ed204275edbdf3226c8786f068d6828b44814"
       }
     ]
   },
