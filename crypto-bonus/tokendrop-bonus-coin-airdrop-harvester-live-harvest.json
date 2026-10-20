@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T15:26:40.398Z",
-  "latencyMs": 1476,
+  "executedAt": "2026-10-20T15:27:54.241Z",
+  "latencyMs": 879,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #126: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #127: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "deps: bump npm dependencies (minor)",
-      "url": "https://github.com/holomush/holomush/pull/5016",
-      "createdAt": "2026-08-17T07:10:18Z"
+      "title": "server: report target logprobs/top_logprobs under MTP speculative decoding",
+      "url": "https://github.com/Blaizzy/mlx-vlm/pull/2557",
+      "createdAt": "2026-10-20T15:27:38Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
       "title": "feat(price_pusher): push Solana price updates with v1 transactions",
@@ -275,24 +280,19 @@
       "createdAt": "2026-10-20T15:23:30Z"
     },
     {
-      "title": "Ai/asad production retrieval",
-      "url": "https://github.com/aarizmehdi/AJG-SOP/pull/18",
-      "createdAt": "2026-10-06T16:51:13Z"
+      "title": "[Security] ERC-1155 unstaking in nft-staking contract drops rewards without transferring tokens",
+      "url": "https://github.com/Afristore/marketplace/issues/1071",
+      "createdAt": "2026-10-20T11:35:23Z"
     },
     {
-      "title": "Auto-compound should support reward Harvesting into a different token than the vault holds",
-      "url": "https://github.com/Kevin737866/stellar-liquidity-yield-engine/issues/276",
-      "createdAt": "2026-10-16T17:47:43Z"
+      "title": "cards: read-only WaveZ Station buyer snapshot for the first ZAO TCG Card",
+      "url": "https://github.com/bettercallzaal/ZAOOS/pull/4049",
+      "createdAt": "2026-10-20T15:26:37Z"
     },
     {
-      "title": "[Good First Issue]: Fix copy-pasted JSDoc descriptions in NetworkVersionInfo, TransactionRecord, TokenNftTransfer and ManagedNetwork",
-      "url": "https://github.com/hiero-ledger/hiero-sdk-js/issues/4549",
-      "createdAt": "2026-10-19T11:52:09Z"
-    },
-    {
-      "title": "Kimi K3 support",
-      "url": "https://github.com/tpurtell/cuteafd/issues/273",
-      "createdAt": "2026-10-15T06:49:01Z"
+      "title": "feat: deposit_pool for vesting",
+      "url": "https://github.com/Talus-Network/talus-token/pull/27",
+      "createdAt": "2026-10-20T14:52:35Z"
     }
   ]
 }
