@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T02:29:48.023Z",
-  "latencyMs": 841,
+  "executedAt": "2026-10-20T02:46:59.403Z",
+  "latencyMs": 811,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #841: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #842: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "5org5Hza3TQ3ps5LHYzQfZkJhokHF73AWc1vZZcmpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "10,000x on solana. moon or dust.\n\ndust your dead bags and give them one last shot. get dusted? you get ASH, pays you USDC every day.\n\nthe degens are the house. ",
+      "url": "https://dexscreener.com/solana/5org5hza3tq3ps5lhyzqfzkjhokhf73awc1vzzcmpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "54XyfgB9iAodwUbietZNXrV3nUWg8noHBfa3258tpump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "The most expensive Pokémon card sold by Logan Paul worth $16.4M and listed in Guinness Worlds.",
       "url": "https://dexscreener.com/solana/gntkyuhvh4vkdefqbux76fyxcwgoawo83qltxjo6pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "JBENAHSV47Jo366BZqwB5ncpaJqmKc84DfBNbWm3jray",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/jbenahsv47jo366bzqwb5ncpajqmkc84dfbnbwm3jray"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,57 +217,72 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 740,
-      "priceBtc": 3.0784817686343266e-7
+      "marketCapRank": 879,
+      "priceBtc": 2.1535541973965826e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 93,
-      "priceBtc": 0.000024111362688090003
+      "marketCapRank": 94,
+      "priceBtc": 0.000023751838155203293
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.27813404798859e-8
+      "priceBtc": 9.215668099692406e-8
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 694,
-      "priceBtc": 0.0011245786129436368
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.000059053809036204965
+      "marketCapRank": 691,
+      "priceBtc": 0.0011315701330819195
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009681771362182672
+      "priceBtc": 0.0009671424372190673
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.000058841948315834525
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 71,
-      "priceBtc": 0.000302722084486796
+      "priceBtc": 0.00030192773857700556
     },
     {
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "marketCapRank": 48,
-      "priceBtc": 0.0000053238683198374
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.0012811629360049233
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(frontend): one Receive dialog replaces Add funds and Deposit address; dashboard Send/Receive (#4094)",
-      "url": "https://github.com/d-hinders/Haven-AI/pull/4105",
-      "createdAt": "2026-10-20T00:48:08Z"
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
+    },
+    {
+      "title": "Determine testnet path forward for adaptive execution, cost accounting, and F1r3fly CbC Casper design",
+      "url": "https://github.com/F1R3FLY-io/f1r3node-rust/issues/764",
+      "createdAt": "2026-10-18T10:33:03Z"
+    },
+    {
+      "title": "Create SKILL.md",
+      "url": "https://github.com/Tsukimarf/PiRC/pull/1",
+      "createdAt": "2026-04-12T09:36:45Z"
+    },
+    {
+      "title": "[CEO INTEGRATION] Economy + Events S01 contract validation and retry-safe reward bridge",
+      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/pull/34",
+      "createdAt": "2026-10-20T02:37:42Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "feat(binance): add target allocation and crypto cost basis",
-      "url": "https://github.com/noctalia-dev/community-plugins/pull/1077",
-      "createdAt": "2026-10-20T02:21:07Z"
-    },
-    {
-      "title": "Security audit 2026-10-18: record SA-61..160, fix the 23 clear-cut items",
-      "url": "https://github.com/deterministicstatemachine/dsm/pull/1142",
-      "createdAt": "2026-10-18T10:19:50Z"
-    },
-    {
-      "title": "security: initialize can be front-run; use Soroban constructors",
-      "url": "https://github.com/Godgift-care/sci-healthcare-contracts/issues/87",
-      "createdAt": "2026-10-20T01:18:57Z"
-    },
-    {
-      "title": "Create SKILL.md",
-      "url": "https://github.com/Tsukimarf/PiRC/pull/1",
-      "createdAt": "2026-04-12T09:36:45Z"
+      "title": "feat(openzeppelin): drop-in replacement for @openzeppelin/merkle-tree",
+      "url": "https://github.com/1888-Labs/MerkleForge-ts/pull/16",
+      "createdAt": "2026-10-18T20:22:02Z"
     }
   ]
 }
