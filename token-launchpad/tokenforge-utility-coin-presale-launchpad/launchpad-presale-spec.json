@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T15:24:20.322Z",
-  "latencyMs": 478,
+  "executedAt": "2026-10-20T15:25:31.853Z",
+  "latencyMs": 739,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #124: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #125: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52860256,
+    "liveBlockNumber": 52860292,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 457521,
-    "baseMainnetTopPoolsVolume24hUsd": 217580,
+    "baseMainnetTopPoolsVolume24hUsd": 214812,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "FLzyjWXHNPXBU95BgfP2CRjB7M1Vhp9jcuFGbcPDpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/flzyjwxhnpxbu95bgfp2crjb7m1vhp9jcufgbcpdpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "WGcYi5Zomf7AroET274kyX8FjhfYfMFaboM9BoJpump",
+        "description": "Papertrade for Solana and Robinhood",
+        "url": "https://dexscreener.com/solana/wgcyi5zomf7aroet274kyx8fjhfyfmfabom9bojpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "UiunBXF9R9Ee58eNSxfcCW9iotsSAjSP69HMLDdpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0xF8393A2F960Eaf758df23D16f0E7A4B9Be33D790",
         "description": "Self-hosted agentic AI for developers.",
         "url": "https://dexscreener.com/robinhood/0xf8393a2f960eaf758df23d16f0e7a4b9be33d790"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "69RV541yczXGc8SdMtfK7Ctnwx4kTLymNY8YxdsPpump",
-        "description": "Gacha Lottery For Holders, Ripping Packs on CARDS",
-        "url": "https://dexscreener.com/solana/69rv541yczxgc8sdmtfk7ctnwx4ktlymny8yxdsppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BjvruPbagrnmGKGbjWjSxVD3hYYeRE4VDSkfeysnpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bjvrupbagrnmgkgbjwjsxvd3hyyere4vdskfeysnpump"
       }
     ]
   },
