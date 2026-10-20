@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T02:49:28.312Z",
-  "latencyMs": 811,
+  "executedAt": "2026-10-20T03:06:09.936Z",
+  "latencyMs": 1031,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #843: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #844: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,9 +149,25 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "5EdajXG624C7uVLArueGjFxEAdbJnSs12orQJ8RZpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Welcome to The Capital, the community behind CapitalVault, a next-generation launchpad integrated with Pumpfun.\n\nLaunch your own token, choose from stocks like ",
+      "url": "https://dexscreener.com/solana/5edajxg624c7uvlaruegjfxeadbjnss12orqj8rzpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "5org5Hza3TQ3ps5LHYzQfZkJhokHF73AWc1vZZcmpump",
       "boostAmount": 100,
-      "totalBoostAmount": 100,
+      "totalBoostAmount": 200,
+      "description": "10,000x on solana. moon or dust.\n\ndust your dead bags and give them one last shot. get dusted? you get ASH, pays you USDC every day.\n\nthe degens are the house. ",
+      "url": "https://dexscreener.com/solana/5org5hza3tq3ps5lhyzqfzkjhokhf73awc1vzzcmpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "5org5Hza3TQ3ps5LHYzQfZkJhokHF73AWc1vZZcmpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 200,
       "description": "10,000x on solana. moon or dust.\n\ndust your dead bags and give them one last shot. get dusted? you get ASH, pays you USDC every day.\n\nthe degens are the house. ",
       "url": "https://dexscreener.com/solana/5org5hza3tq3ps5lhyzqfzkjhokhf73awc1vzzcmpump"
     },
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Oldest pikachu coin and it's a mix with inu, the two main runners in a og coin.",
       "url": "https://dexscreener.com/solana/bvcpk7xa48ffampdukpfjng7lpbcjycojc6xuvklbbvh"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "wLZrRQk9XBynAJSRdeQgsQrVURXGdfo4ahb1oRBpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Catch real graded Pokémon cards on a shared 3D island. $CATCH (https://x.com/search?q=%24CATCH&src=cashtag_click) on Solana. Powered by Collector Crypt",
-      "url": "https://dexscreener.com/solana/wlzrrqk9xbynajsrdeqgsqrvurxgdfo4ahb1orbpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "GnTKYuHvH4vkdEfqbUX76FYxcWgoaWo83QLTXjo6pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "The most expensive Pokémon card sold by Logan Paul worth $16.4M and listed in Guinness Worlds.",
-      "url": "https://dexscreener.com/solana/gntkyuhvh4vkdefqbux76fyxcwgoawo83qltxjo6pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,51 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 879,
-      "priceBtc": 2.1535541973965826e-7
+      "marketCapRank": 844,
+      "priceBtc": 2.3977260015143206e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 94,
-      "priceBtc": 0.000023751838155203293
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.215668099692406e-8
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 691,
-      "priceBtc": 0.0011315701330819195
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009671424372190673
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.000058841948315834525
+      "priceBtc": 0.00002384457079174398
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 71,
-      "priceBtc": 0.00030192773857700556
+      "priceBtc": 0.00030577106789422804
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009688774644438639
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.0000591836825360113
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 695,
+      "priceBtc": 0.0011201198752619804
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012811629360049233
+      "priceBtc": 0.001285231127571548
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 150,
+      "priceBtc": 0.000003887633192846421
     }
   ],
-  "activeAirdropAndFaucetQuests": [
-    {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "merkle-airdrop template: no tool to build the tree and proofs",
-      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/605",
-      "createdAt": "2026-10-16T22:12:09Z"
-    },
-    {
-      "title": "[CEO INTEGRATION] Economy + Events S01 contract validation and retry-safe reward bridge",
-      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/pull/34",
-      "createdAt": "2026-10-20T02:37:42Z"
-    },
-    {
-      "title": "Experiment: assess Repo2RLEnv recipes across biological repositories and languages",
-      "url": "https://github.com/Open-Athena/biotasks/issues/21",
-      "createdAt": "2026-10-16T20:07:24Z"
-    },
-    {
-      "title": "Determine testnet path forward for adaptive execution, cost accounting, and F1r3fly CbC Casper design",
-      "url": "https://github.com/F1R3FLY-io/f1r3node-rust/issues/764",
-      "createdAt": "2026-10-18T10:33:03Z"
-    },
-    {
-      "title": "Create SKILL.md",
-      "url": "https://github.com/Tsukimarf/PiRC/pull/1",
-      "createdAt": "2026-04-12T09:36:45Z"
-    }
-  ]
+  "activeAirdropAndFaucetQuests": []
 }
