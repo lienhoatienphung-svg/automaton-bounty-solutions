@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T11:31:27.637Z",
-  "latencyMs": 334,
+  "executedAt": "2026-10-20T11:35:00.631Z",
+  "latencyMs": 390,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #43: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #44: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52853270,
+    "liveBlockNumber": 52853376,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 421196,
-    "baseMainnetTopPoolsVolume24hUsd": 179149,
+    "baseMainnetTopPoolsVolume24hUsd": 181798,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x1FCf99E36cfcf6963cF71b77bBad7d5a61d27777",
+        "description": "Japanese markets, yen data & onchain launches. Launch and trade tokens paired with EWJon or TMon on BNB Chain. Research meets wallet execution. 🇯🇵⛓️",
+        "url": "https://dexscreener.com/bsc/0x1fcf99e36cfcf6963cf71b77bbad7d5a61d27777"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump",
@@ -75,12 +81,6 @@
         "tokenAddress": "HKjrNpoTZC6Q1gdJruVYtwfCbRBFRZgZWRNqDamTxbNa",
         "description": "Zephyr is a next-generation Web3 browser built for privacy, security, and control, starting with Auto Burn Sessions and expanding into a broader suite of Web3 t",
         "url": "https://dexscreener.com/solana/hkjrnpotzc6q1gdjruvytwfcbrbfrzgzwrnqdamtxbna"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AEfK6BNAufKzVJ19tW3E8eTCXRxJ1EgQV5Z2byb7ffpT",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/aefk6bnaufkzvj19tw3e8etcxrxj1egqv5z2byb7ffpt"
       }
     ]
   },
