@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T11:41:02.448Z",
-  "latencyMs": 349,
+  "executedAt": "2026-10-20T11:44:45.117Z",
+  "latencyMs": 1159,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #47: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #48: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52853557,
+    "liveBlockNumber": 52853668,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 421196,
-    "baseMainnetTopPoolsVolume24hUsd": 186944,
+    "baseMainnetTopPoolsVolume24hUsd": 186913,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "E8XoJg3A4YpYtbE6WfN6qWEcXmypLKSWzDkjga6Zpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/e8xojg3a4ypytbe6wfn6qwecxmyplkswzdkjga6zpump"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0x1FCf99E36cfcf6963cF71b77bBad7d5a61d27777",
@@ -75,12 +81,6 @@
         "tokenAddress": "3rNz6iJ8X1YLsvZBxo1U934qdccsyLsjAtPYicTnpump",
         "description": "the US Government is developer an AI Superweapon \"worm-style\" agent called ECHOTRIBBLE",
         "url": "https://dexscreener.com/solana/3rnz6ij8x1ylsvzbxo1u934qdccsylsjatpyictnpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HKjrNpoTZC6Q1gdJruVYtwfCbRBFRZgZWRNqDamTxbNa",
-        "description": "Zephyr is a next-generation Web3 browser built for privacy, security, and control, starting with Auto Burn Sessions and expanding into a broader suite of Web3 t",
-        "url": "https://dexscreener.com/solana/hkjrnpotzc6q1gdjruvytwfcbrbfrzgzwrnqdamtxbna"
       }
     ]
   },
