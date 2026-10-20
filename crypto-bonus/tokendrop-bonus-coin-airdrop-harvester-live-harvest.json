@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T22:56:21.458Z",
-  "latencyMs": 823,
+  "executedAt": "2026-10-20T23:04:42.070Z",
+  "latencyMs": 780,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #239: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #240: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,84 +215,84 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.015270377874114702
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 114,
+      "priceBtc": 9.649934356138241e-8
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 90,
-      "priceBtc": 0.000025215463366911455
+      "priceBtc": 0.000025178667231574267
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 113,
-      "priceBtc": 9.661286275797522e-8
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.015234928027757479
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 83,
-      "priceBtc": 0.000010635919556483887
+      "priceBtc": 0.000010613872182488272
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 717,
-      "priceBtc": 0.0010669808322542563
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.000059452099601552665
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9994483636410278
+      "marketCapRank": 722,
+      "priceBtc": 0.0010608000370976739
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009781388680353636
+      "priceBtc": 0.0009750778105671792
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.000153934455466
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.000059354736295610556
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat: fix the vLLM DP path",
-      "url": "https://github.com/NVIDIA-NeMo/RL/pull/2517",
-      "createdAt": "2026-05-18T04:46:25Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "V3 ledger core: INV-LED-001..015 + T03-01..12 (packages/engine/ledger)",
-      "url": "https://github.com/Aiouyn/trading-game/pull/3",
-      "createdAt": "2026-10-20T21:39:24Z"
-    },
-    {
-      "title": "Update all non-major dependencies",
-      "url": "https://github.com/HarryAllen1/tsa-grouping-thing/pull/132",
-      "createdAt": "2026-03-04T10:04:50Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     },
     {
       "title": "Kimi K3 support",
       "url": "https://github.com/tpurtell/cuteafd/issues/273",
       "createdAt": "2026-10-15T06:49:01Z"
+    },
+    {
+      "title": "OWNER DIRECTIVE — Zero-budget public launch and genuine liquidity gate",
+      "url": "https://github.com/hamidnikkhah660-arch/ai-native-l1/issues/12",
+      "createdAt": "2026-10-20T22:28:26Z"
+    },
+    {
+      "title": "fix(CYBERTRON-908): convert heic images to jpeg so they preview in chrome",
+      "url": "https://github.com/Cybertron-HNG/zedu-fe/pull/68",
+      "createdAt": "2026-10-20T22:53:28Z"
+    },
+    {
+      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
+      "url": "https://github.com/tehki/myaso/issues/360",
+      "createdAt": "2026-10-20T17:25:33Z"
+    },
+    {
+      "title": "CT-24: Admin transfer — make it consistent across contracts and add expiry",
+      "url": "https://github.com/zeekman/FarmersMarketplace/issues/1543",
+      "createdAt": "2026-10-15T15:07:31Z"
     }
   ]
 }
