@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T09:10:23.445Z",
-  "latencyMs": 1288,
+  "executedAt": "2026-10-20T09:13:13.898Z",
+  "latencyMs": 1037,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #878: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #879: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,84 +215,84 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "PHALA",
-      "symbol": "PHA",
-      "marketCapRank": 430,
-      "priceBtc": 7.439913678146754e-7
-    },
-    {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 706,
-      "priceBtc": 0.0010976142333247686
+      "priceBtc": 0.0010974552800552587
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00005805107143560315
+      "marketCapRank": 20,
+      "priceBtc": 0.00005790979505138376
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 93,
-      "priceBtc": 0.000024106583269896844
+      "marketCapRank": 94,
+      "priceBtc": 0.000024105570488389165
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
-      "marketCapRank": 149,
-      "priceBtc": 0.000003891533187000365
+      "marketCapRank": 146,
+      "priceBtc": 0.000003958000060453225
+    },
+    {
+      "name": "PHALA",
+      "symbol": "PHA",
+      "marketCapRank": 431,
+      "priceBtc": 7.434170670204738e-7
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9994792569403944
+      "priceBtc": 0.9989854352150701
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012761753935158163
+      "priceBtc": 0.0012758218663875894
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.190897253394146e-8
+      "name": "Metaplex",
+      "symbol": "MPLX",
+      "marketCapRank": 425,
+      "priceBtc": 0.000001399098258061705
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "perf(communities): switch member views to the community roster",
+      "url": "https://github.com/status-im/status-app/pull/22799",
+      "createdAt": "2026-10-13T15:26:44Z"
+    },
     {
       "title": "feat: civilian emergency-aid airdrop experiment platform",
       "url": "https://github.com/ykk4448-code/kk1/pull/1",
       "createdAt": "2026-10-20T06:33:46Z"
     },
     {
+      "title": "fix(deps): update dependency lucide-react to v1.60.0",
+      "url": "https://github.com/wingkwong/leetcode-the-hard-way/pull/770",
+      "createdAt": "2026-10-17T22:21:38Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "feat: 여러 장 저장을 기기가 잘하는 방식으로 — 폴더, 공유 시트, ZIP",
+      "url": "https://github.com/pcwadarong/STOCKROLL/pull/30",
+      "createdAt": "2026-10-20T09:06:55Z"
+    },
+    {
       "title": "Central message board — Hermes, Claude, Codex and operator coordination",
       "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
       "createdAt": "2026-10-05T23:48:30Z"
-    },
-    {
-      "title": "epic: revive the zkApp tutorials — o1js 3.0.0, a project per tutorial, and CI that runs them",
-      "url": "https://github.com/MinaProtocol/docs2/issues/1249",
-      "createdAt": "2026-09-14T22:45:15Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/ell-ska/portfolio/pull/735",
-      "createdAt": "2026-03-28T01:10:10Z"
-    },
-    {
-      "title": "🤝 Agent coordination channel (standing, vol. 2)",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
-      "createdAt": "2026-09-20T06:23:41Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
     }
   ]
 }
