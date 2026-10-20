@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T13:30:45.426Z",
-  "latencyMs": 709,
+  "executedAt": "2026-10-20T13:35:33.710Z",
+  "latencyMs": 453,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #89: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #90: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52856848,
+    "liveBlockNumber": 52856993,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 450112,
-    "baseMainnetTopPoolsVolume24hUsd": 199996,
+    "baseMainnetTopPoolsLiquidityUsd": 450113,
+    "baseMainnetTopPoolsVolume24hUsd": 200318,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Fej6xm3Pfe7mYYA7r5anC6ExseuqZswoshXhPQ1Upump",
+        "description": "The Official Currency of Ali G/ Borat",
+        "url": "https://dexscreener.com/solana/fej6xm3pfe7myya7r5anc6exseuqzswoshxhpq1upump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Yf1MjFqhu8U6Y45QWf57YuDYxsk3Hb98JU2ii8Epump",
+        "description": "The packs that opens itself.",
+        "url": "https://dexscreener.com/solana/yf1mjfqhu8u6y45qwf57yudyxsk3hb98ju2ii8epump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HcpVmHrXV5WLnkgdnYHHvYNcD2AsR54yom6ua5aTpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "Edg7Cmy63tccrQBY7Whx1sLVazxvC6CS7CABoeigpump",
         "description": "We will all be out of a job soon. UBI is the coin for the future owner class - the biggest story of the next decade.",
         "url": "https://dexscreener.com/solana/edg7cmy63tccrqby7whx1slvazxvc6cs7caboeigpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6nM3X8J4H1ay3pCnJHYngGCz3iC4gXRRCu1paZdSpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6nm3x8j4h1ay3pcnjhynggcz3ic4gxrrcu1pazdspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EpZiP6sJBcZGnvfd3oX68Sx4cV1CKBcAGHo9u7Uypump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/epzip6sjbczgnvfd3ox68sx4cv1ckbcagho9u7uypump"
       }
     ]
   },
