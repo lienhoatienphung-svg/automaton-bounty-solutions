@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T16:10:51.987Z",
-  "latencyMs": 1285,
+  "executedAt": "2026-10-20T16:12:13.334Z",
+  "latencyMs": 1101,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #138: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #139: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x8B39b55857ceA6D173aF2b5Bb1144c2633739960",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "The multiplayer terminal host your shell, let teammates watch and type together. E2EE, per-guest permissions, audit trail. One Go binary.",
+      "url": "https://dexscreener.com/robinhood/0x8b39b55857cea6d173af2b5bb1144c2633739960"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "9UNTqhLTCcbRLuey29vkVFse2FtzMSv4wHg47Vuapump",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/3s2dqdypbd4nvkk1gh3zfk98kb6a376pxyr5pkwrpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump",
-      "boostAmount": 500,
-      "totalBoostAmount": 500,
-      "description": "He got his hands on the money. Now he won't let go. A tiny capuchin with a firm grip and absolutely no plans to share.",
-      "url": "https://dexscreener.com/solana/ehpugw1ghe46beysaa7chvozhwyometbp1ak1q7jpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(deps): bump wasmtime to 49.0.4 (RUSTSEC-2026-0378, RUSTSEC-2026-0379)",
-      "url": "https://github.com/faucet-hq/faucet-stream/pull/928",
-      "createdAt": "2026-10-20T13:41:51Z"
-    },
-    {
       "title": "docs(kitchen): add sink and drying station benchmark",
       "url": "https://github.com/Luminous-Dynamics/symtropy/pull/2325",
       "createdAt": "2026-10-20T13:09:50Z"
     },
     {
-      "title": "CHAT-CLOSED-LISTS: chatbot step 2, closed candidate lists (spec, attachment, certification types)",
-      "url": "https://github.com/jayson-odoo/sorento-crm/pull/1755",
-      "createdAt": "2026-10-17T00:18:46Z"
+      "title": "feat: merge Chatless feature branch into main",
+      "url": "https://github.com/Wishmaster117/MultiBot-Chatless/pull/87",
+      "createdAt": "2026-10-19T13:52:59Z"
     },
     {
-      "title": "Update dependency @lucide/svelte to v1.60.0",
-      "url": "https://github.com/akshaybabloo/whats-my-ip/pull/312",
-      "createdAt": "2026-06-08T02:41:49Z"
+      "title": "Add unilateral exit, ArkadeCash, and offline LNURL receive demos",
+      "url": "https://github.com/arkade-os/demos/pull/14",
+      "createdAt": "2026-10-16T18:57:04Z"
+    },
+    {
+      "title": "feat(ads): admob adapter",
+      "url": "https://github.com/RevenueCat/purchases-flutter/pull/1946",
+      "createdAt": "2026-10-11T19:49:28Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
       "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/Gezita/rental-app/pull/30",
-      "createdAt": "2026-06-19T18:09:57Z"
-    },
-    {
-      "title": "📦 Pending promotion: dev → main",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
-      "createdAt": "2026-06-29T11:18:37Z"
+      "url": "https://github.com/mrclrchtr/supabase-nextjs-starter/pull/63",
+      "createdAt": "2026-03-27T02:14:57Z"
     }
   ]
 }
