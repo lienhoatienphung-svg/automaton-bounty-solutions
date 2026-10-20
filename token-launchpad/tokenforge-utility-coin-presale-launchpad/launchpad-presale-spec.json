@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T14:43:03.504Z",
-  "latencyMs": 795,
+  "executedAt": "2026-10-20T14:48:35.072Z",
+  "latencyMs": 771,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #113: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #114: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52859017,
+    "liveBlockNumber": 52859183,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 450114,
-    "baseMainnetTopPoolsVolume24hUsd": 211272,
+    "baseMainnetTopPoolsVolume24hUsd": 209902,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "E9vJVF46N7sNEW7Rd2qf32gfttZDfYa4GZ9PXWrspump",
+        "description": "Giga Chad but make it AI.",
+        "url": "https://dexscreener.com/solana/e9vjvf46n7snew7rd2qf32gfttzdfya4gz9pxwrspump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Bna5a5XCQ9Mxt5TK5TsVzEXWYosYBhjENvrz3dMwpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "3udRiYky1mbBVFLoLhheQHkESEj5H7vjPqneivU7pump",
         "description": "Everyone gets a free Rolex",
         "url": "https://dexscreener.com/solana/3udriyky1mbbvflolhheqhkesej5h7vjpqneivu7pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x4991dd06012eEe69aA509A279B0a4FD8261B1a58",
-        "description": "RWAOS",
-        "url": "https://dexscreener.com/robinhood/0x4991dd06012eee69aa509a279b0a4fd8261b1a58"
       }
     ]
   },
