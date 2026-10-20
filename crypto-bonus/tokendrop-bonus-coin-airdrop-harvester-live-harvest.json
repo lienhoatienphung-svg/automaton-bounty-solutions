@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T13:16:31.385Z",
-  "latencyMs": 1058,
+  "executedAt": "2026-10-20T13:17:05.658Z",
+  "latencyMs": 988,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #84: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #85: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(deps): update production dependencies (patch and minor)",
-      "url": "https://github.com/AgentsKit-io/harness/pull/191",
-      "createdAt": "2026-10-19T05:37:07Z"
+      "title": "Note Configuration",
+      "url": "https://github.com/OpenZeppelin/miden-confidential-contracts/issues/127",
+      "createdAt": "2026-08-12T08:29:18Z"
+    },
+    {
+      "title": "NFT Capability Gap Analysis",
+      "url": "https://github.com/OpenZeppelin/miden-confidential-contracts/issues/184",
+      "createdAt": "2026-10-20T12:34:30Z"
+    },
+    {
+      "title": "feat(web): frontend for the whole platform, with e2e tests (P16 slice 2)",
+      "url": "https://github.com/KhannGia/wallet/pull/18",
+      "createdAt": "2026-10-16T10:16:46Z"
     },
     {
       "title": "Shell tests, complete XML docs and BCUK-Bot-4's standards (Core 0.17.1, Shell 0.16.1)",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-20T10:15:34Z"
     },
     {
+      "title": "fix(deps): update production dependencies (patch and minor)",
+      "url": "https://github.com/AgentsKit-io/harness/pull/191",
+      "createdAt": "2026-10-19T05:37:07Z"
+    },
+    {
       "title": "Determine testnet path forward for adaptive execution, cost accounting, and F1r3fly CbC Casper design",
       "url": "https://github.com/F1R3FLY-io/f1r3node-rust/issues/764",
       "createdAt": "2026-10-18T10:33:03Z"
-    },
-    {
-      "title": "feat(staking): BUILD 1 — HeroSingleSidedStaking (HERO→HERO, DAO vote source)",
-      "url": "https://github.com/jratdish1/hero-dapp/pull/119",
-      "createdAt": "2026-09-27T22:49:15Z"
-    },
-    {
-      "title": "Add missing test for batch_claim_reward in integration context",
-      "url": "https://github.com/ChainLearnOfficial/chainlearn-contracts/issues/577",
-      "createdAt": "2026-10-14T15:24:11Z"
-    },
-    {
-      "title": "feat(qualification): consume treasury notes before every live run",
-      "url": "https://github.com/OpenZeppelin/guardian/pull/551",
-      "createdAt": "2026-10-13T06:14:52Z"
     }
   ]
 }
