@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T11:59:57.630Z",
-  "latencyMs": 1321,
+  "executedAt": "2026-10-20T12:02:46.924Z",
+  "latencyMs": 1014,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #55: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #56: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "CYGidBuS8WwUXfZCmb98LnLGL9Mx8SvhdqA6t3xTLoch",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "A shielded balance inside the wallet you already use. Zero-knowledge proofs, no new seed phrase.",
+      "url": "https://dexscreener.com/solana/cygidbus8wwuxfzcmb98lnlgl9mx8svhdqa6t3xtloch"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "The World Famous Pikachu Dog",
       "url": "https://dexscreener.com/solana/148fjtrvybpyqqztxnzflqq5sxvkmfmv2clpayvnncx3"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x48d134b04238ab7Fb9134e6fc47149C39F3D022c",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Carbonized is an onchain marketplace for carbon credits. Explore order books, auctions, retirement certificates and portfolio tracking with settlement in USDG o",
-      "url": "https://dexscreener.com/robinhood/0x48d134b04238ab7fb9134e6fc47149c39f3d022c"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 93,
-      "priceBtc": 0.000023957958106186173
+      "marketCapRank": 94,
+      "priceBtc": 0.000023988746342901382
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 705,
-      "priceBtc": 0.0010903973388473405
+      "priceBtc": 0.0010913913358262589
     },
     {
       "name": "Celestia",
       "symbol": "TIA",
-      "marketCapRank": 100,
-      "priceBtc": 0.000007936566676468552
-    },
-    {
-      "name": "Ethereum",
-      "symbol": "ETH",
-      "marketCapRank": 2,
-      "priceBtc": 0.029190829214354234
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 146,
-      "priceBtc": 0.000003971966134323723
+      "marketCapRank": 99,
+      "priceBtc": 0.000007979910927423903
     },
     {
       "name": "Injective",
       "symbol": "INJ",
       "marketCapRank": 83,
-      "priceBtc": 0.00010406531383538564
+      "priceBtc": 0.00010439940133220997
     },
     {
-      "name": "TensorCash",
-      "symbol": "TSC",
-      "marketCapRank": 767,
-      "priceBtc": 0.0000631751029895642
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 147,
+      "priceBtc": 0.000003925759595666872
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.202799704184988e-8
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9975995893409919
+      "priceBtc": 1.0000224384678023
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "marketCapRank": 2,
+      "priceBtc": 0.029268555088050176
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Update all major dependencies (major)",
-      "url": "https://github.com/Mbehbahani/JobPilot/pull/18",
-      "createdAt": "2026-08-05T16:21:46Z"
+      "title": "WC du bas, variante 2 : petit meuble type Moon 50 × 30 dans l'angle",
+      "url": "https://github.com/slorber/maison/pull/6",
+      "createdAt": "2026-10-20T10:14:40Z"
     },
     {
-      "title": "feat(analytics): track staking and yield transaction outcomes",
-      "url": "https://github.com/trezor/trezor-suite/pull/33748",
-      "createdAt": "2026-10-20T10:28:16Z"
+      "title": "chore(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/slvnlrt/Ouitransfer/pull/67",
+      "createdAt": "2026-10-12T06:25:18Z"
     },
     {
-      "title": "[Refactor] speculative: Adopt shared request features in TPU spec workers",
-      "url": "https://github.com/sgl-project/sglang-torchtpu/pull/1527",
-      "createdAt": "2026-10-18T11:24:20Z"
+      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
+      "url": "https://github.com/Dillen198/bfnext/pull/1",
+      "createdAt": "2026-01-19T07:41:07Z"
     },
     {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/Hack-PSU/inventory/pull/529",
-      "createdAt": "2026-03-23T14:40:33Z"
+      "title": "Kimi K3 support",
+      "url": "https://github.com/tpurtell/cuteafd/issues/273",
+      "createdAt": "2026-10-15T06:49:01Z"
     },
     {
-      "title": "chore(deps): update dependency lucide-react to v1.60.0",
-      "url": "https://github.com/agentic-layer/showcase-cross-selling/pull/93",
-      "createdAt": "2026-05-29T06:50:56Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/Replikanti/flowlint-weblinter/pull/265",
+      "createdAt": "2026-03-26T20:39:49Z"
     },
     {
-      "title": "Update dependency lucide-react to v1.60.0",
-      "url": "https://github.com/tuna2134/webcord/pull/637",
-      "createdAt": "2026-08-28T12:08:59Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     }
   ]
 }
