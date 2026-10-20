@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T11:16:06.028Z",
-  "latencyMs": 780,
+  "executedAt": "2026-10-20T11:17:19.769Z",
+  "latencyMs": 757,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #36: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #37: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
-      "url": "https://github.com/Dillen198/bfnext/pull/1",
-      "createdAt": "2026-01-19T07:41:07Z"
+      "title": "CON-1042: route trivia through admin API and track finalized rewards",
+      "url": "https://github.com/genlayerlabs/trivia-faucet/pull/2",
+      "createdAt": "2026-10-20T11:10:11Z"
+    },
+    {
+      "title": "Sink front offset: GV's standard checked by code in the full check (#1807)",
+      "url": "https://github.com/tech-nexolvai/GV-v1/pull/1813",
+      "createdAt": "2026-10-20T11:16:54Z"
     },
     {
       "title": "Write an incident response runbook",
@@ -275,24 +280,19 @@
       "createdAt": "2026-10-19T21:51:40Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
+      "url": "https://github.com/Dillen198/bfnext/pull/1",
+      "createdAt": "2026-01-19T07:41:07Z"
     },
     {
-      "title": "[rolloutengine] History resets silently discard earlier TITO training actions",
-      "url": "https://github.com/marin-community/marin/issues/10326",
-      "createdAt": "2026-10-20T11:01:51Z"
+      "title": "perf(jit): resolve old Vyper memory returns and drop unreached blocks",
+      "url": "https://github.com/alloy-rs/evm2/pull/687",
+      "createdAt": "2026-10-18T11:29:21Z"
     },
     {
-      "title": "Update lucide-react to 1.56.0",
-      "url": "https://github.com/connorgallopo/tracearr-docs/pull/49",
-      "createdAt": "2026-09-21T00:02:16Z"
-    },
-    {
-      "title": "Epic: agent eval suite — measure how often real agents succeed through Haven's MCP surface (Hermes lane first, Claude Code second)",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/3957",
-      "createdAt": "2026-10-14T15:43:32Z"
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/sou1118/audio-simulator/pull/189",
+      "createdAt": "2026-10-02T06:26:19Z"
     }
   ]
 }
