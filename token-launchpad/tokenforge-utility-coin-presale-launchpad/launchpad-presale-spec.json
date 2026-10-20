@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T11:10:11.015Z",
-  "latencyMs": 672,
+  "executedAt": "2026-10-20T11:12:38.241Z",
+  "latencyMs": 332,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #33: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #34: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52852631,
+    "liveBlockNumber": 52852705,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 421199,
-    "baseMainnetTopPoolsVolume24hUsd": 169698,
+    "baseMainnetTopPoolsLiquidityUsd": 421195,
+    "baseMainnetTopPoolsVolume24hUsd": 169702,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "AEfK6BNAufKzVJ19tW3E8eTCXRxJ1EgQV5Z2byb7ffpT",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/aefk6bnaufkzvj19tw3e8etcxrxj1egqv5z2byb7ffpt"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0xefA7074f4B83a2bCFcD99F5d4a42F69F94fA6666",
+        "description": "🐼 Stay early. Stay active. Let the BIAO army grow!",
+        "url": "https://dexscreener.com/bsc/0xefa7074f4b83a2bcfcd99f5d4a42f69f94fa6666"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "B77TPEKSR8nu23ZYUHB83LYxyGDBNkCzfvHXFkfRpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0xAb5dDCC11A3c3ABA85fEbC35Ec3B34C873817777",
         "description": "Bet on the traders who print.\n\nPari-mutuel markets on the GMGN Global Championship. Back traders with BNB. Winners split the pot.",
         "url": "https://dexscreener.com/bsc/0xab5ddcc11a3c3aba85febc35ec3b34c873817777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4o9tQjy3bWKM3qjDTTnQCYhHb64ie9VcDFCjGqDTpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4o9tqjy3bwkm3qjdttnqcyhhb64ie9vcdfcjgqdtpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Fxg6uAWLm7HTyDvhSwz8FX7yvdaSPGKzzijuBW1hpump",
-        "description": "This story is actually insane and has been all over my X and IG feeds past few days",
-        "url": "https://dexscreener.com/solana/fxg6uawlm7htydvhswz8fx7yvdaspgkzzijubw1hpump"
       }
     ]
   },
