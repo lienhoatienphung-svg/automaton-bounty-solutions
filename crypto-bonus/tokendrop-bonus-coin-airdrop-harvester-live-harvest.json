@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T14:07:48.874Z",
-  "latencyMs": 1112,
+  "executedAt": "2026-10-20T14:11:57.308Z",
+  "latencyMs": 2313,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #103: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #104: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,24 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[Describe]: add bedrock selini vault",
-      "url": "https://github.com/ethereum/clear-signing-erc7730-registry/pull/3047",
-      "createdAt": "2026-09-24T03:30:26Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "chore(main): release 0.87.0",
-      "url": "https://github.com/solana-foundation/solana-developer-platform/pull/2392",
-      "createdAt": "2026-10-16T19:00:01Z"
+      "title": "chore(deps): update dependency @lucide/svelte to v1",
+      "url": "https://github.com/nwesterhausen/overseers-manual-df/pull/281",
+      "createdAt": "2026-04-27T18:59:33Z"
     },
     {
-      "title": "Android の戻るで、撮った動画・写真が黙って消えないようにする",
-      "url": "https://github.com/makim0939/michishirube/pull/103",
-      "createdAt": "2026-10-19T15:59:36Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "WC du bas, variante 1 : meuble vasque sur mesure dans la niche",
+      "url": "https://github.com/slorber/maison/pull/4",
+      "createdAt": "2026-10-20T10:14:29Z"
     },
     {
       "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
@@ -290,9 +285,14 @@
       "createdAt": "2026-10-16T09:56:24Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/Hack-PSU/adminv2/pull/310",
+      "createdAt": "2026-03-23T21:24:19Z"
+    },
+    {
+      "title": "Adaptive in-flight cap from vLLM load in AsyncGRPO",
+      "url": "https://github.com/sjmaple/cr-trl/pull/1",
+      "createdAt": "2026-10-20T14:11:10Z"
     }
   ]
 }
