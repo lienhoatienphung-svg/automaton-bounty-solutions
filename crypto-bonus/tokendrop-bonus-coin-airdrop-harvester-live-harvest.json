@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T18:55:59.418Z",
-  "latencyMs": 1201,
+  "executedAt": "2026-10-20T19:03:03.385Z",
+  "latencyMs": 1148,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #183: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #184: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x62Ed300A5916aeD339a65E04754392763982a967",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "MINT is a crypto-first entertainment platform bringing games, sports and prediction markets together in one account. Live for over a year, MINT is built by a te",
+      "url": "https://dexscreener.com/robinhood/0x62ed300a5916aed339a65e04754392763982a967"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "5do8SkQt2nxp3daqXgKcdF7j2BjgiGgxYi5Avkqppump",
       "boostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "SKY is an original community-driven token built around aviation, American industry, and the enduring optimism of looking upward.\n\nInspired by the golden age of ",
       "url": "https://dexscreener.com/solana/5kjg6qrvfhmc2uszblloxmrnrsvyuct5wslb2qtmpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "F7jZrB2aUG9v7rQY348F2EB9UvHLwV5tjEEL6B2ypump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "ROCKETS. CARS. CHAOS. \nNo brakes. No limits. Just pure rocket-powered madness. \nFrom the field to the MOON!",
-      "url": "https://dexscreener.com/solana/f7jzrb2aug9v7rqy348f2eb9uvhlwv5tjeel6b2ypump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.000025689772114096838
+      "priceBtc": 0.000025608319327301648
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.804404938912979e-8
+      "priceBtc": 9.868270743701269e-8
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 731,
+      "priceBtc": 0.0010393190548583
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.00001037403015567767
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 735,
-      "priceBtc": 0.001038512428935706
+      "priceBtc": 0.000010403184255407093
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 71,
-      "priceBtc": 0.0003083809990112621
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 142,
-      "priceBtc": 0.000004142622805590826
+      "priceBtc": 0.0003063004889074668
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0001890302652794
+      "priceBtc": 0.9998829368792398
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.000059508809004073524
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 143,
+      "priceBtc": 0.0000040912175366015975
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 84,
+      "priceBtc": 0.00010365641765302395
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(deps): update production-dependencies-major (major)",
-      "url": "https://github.com/iamvikshan/nextjs-app/pull/6",
-      "createdAt": "2026-07-06T21:05:14Z"
+      "title": "Milestone #20: atomically commit fee-funded AI receipts as replayable local blocks",
+      "url": "https://github.com/jihadelsayed/AivoBlock/pull/20",
+      "createdAt": "2026-10-20T19:02:31Z"
     },
     {
-      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
-      "createdAt": "2026-10-07T00:07:47Z"
+      "title": "ci(ci): test agent rules and CI files, and add a validation policy",
+      "url": "https://github.com/s3anstanz/Bloom/pull/23",
+      "createdAt": "2026-10-20T19:02:18Z"
     },
     {
-      "title": "Bump follow-redirects from 1.16.0 to 1.16.1",
-      "url": "https://github.com/willyfromtheblock/peercoinexplorer.net-faucet/pull/74",
-      "createdAt": "2026-10-20T18:53:34Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "feat(cc): reconstruct training segments from ordinary rollout history",
-      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4124",
-      "createdAt": "2026-09-14T16:29:16Z"
+      "title": "Say how to request TEST tokens for the Fast Feed on Arbitrum Sepolia",
+      "url": "https://github.com/OffchainLabs/arbitrum-docs/pull/3740",
+      "createdAt": "2026-10-20T00:31:17Z"
     },
     {
-      "title": "[executorch][muse] Draft CUDA DFlash decode from pending tokens",
-      "url": "https://github.com/pytorch/executorch/pull/23983",
-      "createdAt": "2026-10-19T04:59:00Z"
+      "title": "[SF-089] Transfer fleet administration safely between customer wallets",
+      "url": "https://github.com/tyler-suifleet/suifleet/issues/176",
+      "createdAt": "2026-10-20T17:42:40Z"
     },
     {
       "title": "Update dependency lucide-react to v1.60.0",
-      "url": "https://github.com/Elieez/aktiekollwebb/pull/145",
-      "createdAt": "2026-04-23T17:04:49Z"
+      "url": "https://github.com/RyuSeiri/twitch-assistant-prd/pull/12",
+      "createdAt": "2026-09-06T21:50:55Z"
     }
   ]
 }
