@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T16:12:13.334Z",
-  "latencyMs": 1101,
+  "executedAt": "2026-10-20T16:17:35.146Z",
+  "latencyMs": 923,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #139: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #140: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,71 +218,66 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.00002623661262854673
+      "priceBtc": 0.00002647697226622706
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010298312913827215
+      "priceBtc": 0.00001038054553649983
     },
     {
       "name": "Worldcoin",
       "symbol": "WLD",
       "marketCapRank": 49,
-      "priceBtc": 0.000006817789163098183
+      "priceBtc": 0.000006808555973389378
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9999823452916282
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 731,
-      "priceBtc": 0.0010486335062845603
+      "priceBtc": 1.0002437725161246
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00005840524168024174
+      "priceBtc": 0.00005907954451263897
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 735,
+      "priceBtc": 0.001049230656685636
+    },
+    {
+      "name": "Janction",
+      "symbol": "JCT",
+      "marketCapRank": 430,
+      "priceBtc": 5.541181819170572e-8
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012783943041401802
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 146,
-      "priceBtc": 0.000003994613951235297
+      "priceBtc": 0.001282793647428574
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "docs(kitchen): add sink and drying station benchmark",
-      "url": "https://github.com/Luminous-Dynamics/symtropy/pull/2325",
-      "createdAt": "2026-10-20T13:09:50Z"
+      "title": "KITCHEN-PRERINSE-001: force-qualified, task-efficient commercial pre-rinse sprayer",
+      "url": "https://github.com/Luminous-Dynamics/symtropy/issues/2359",
+      "createdAt": "2026-10-20T16:13:41Z"
     },
     {
-      "title": "feat: merge Chatless feature branch into main",
-      "url": "https://github.com/Wishmaster117/MultiBot-Chatless/pull/87",
-      "createdAt": "2026-10-19T13:52:59Z"
+      "title": "[Bugfix] Honor add_generation_prompt and continue_final_message in the DeepSeek V4.1 tokenizer",
+      "url": "https://github.com/vllm-project/vllm/pull/62729",
+      "createdAt": "2026-10-20T16:17:16Z"
     },
     {
-      "title": "Add unilateral exit, ArkadeCash, and offline LNURL receive demos",
-      "url": "https://github.com/arkade-os/demos/pull/14",
-      "createdAt": "2026-10-16T18:57:04Z"
-    },
-    {
-      "title": "feat(ads): admob adapter",
-      "url": "https://github.com/RevenueCat/purchases-flutter/pull/1946",
-      "createdAt": "2026-10-11T19:49:28Z"
+      "title": "Add Bumpkin Reward (BPL) jetton",
+      "url": "https://github.com/tonkeeper/ton-assets/pull/6556",
+      "createdAt": "2026-10-20T16:16:46Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -290,9 +285,14 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/mrclrchtr/supabase-nextjs-starter/pull/63",
-      "createdAt": "2026-03-27T02:14:57Z"
+      "title": "KITCHEN-STATION-001: low-water, splash-aware sink and passive-first drying station",
+      "url": "https://github.com/Luminous-Dynamics/symtropy/issues/2324",
+      "createdAt": "2026-10-20T13:07:26Z"
+    },
+    {
+      "title": "feat: configurable collateral instruments, index-sourced deposits, treasury transfers, token-app mint/burn, TRO rewards (truthoracle-v17)",
+      "url": "https://github.com/TruthOracle/backend/pull/7",
+      "createdAt": "2026-10-15T09:01:56Z"
     }
   ]
 }
