@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T06:30:18.020Z",
-  "latencyMs": 1048,
+  "executedAt": "2026-10-20T06:52:36.010Z",
+  "latencyMs": 1143,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #865: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #866: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "a worthless coin giving you Bitcoin",
+      "url": "https://dexscreener.com/solana/87sexkpmbeoryaqfqqnq1yq6muvjenzhifgxjbrjpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "547mPBDKVshVHz1JN54ENUZ9w2wwiZf3x2ctjvnipump",
       "boostAmount": 50,
       "totalBoostAmount": 50,
@@ -202,97 +210,89 @@
       "totalBoostAmount": 10,
       "description": "Welcome to The Capital, the community behind CapitalVault, a next-generation launchpad integrated with Pumpfun.\n\nLaunch your own token, choose from stocks like ",
       "url": "https://dexscreener.com/solana/5edajxg624c7uvlaruegjfxeadbjnss12orqj8rzpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "5org5Hza3TQ3ps5LHYzQfZkJhokHF73AWc1vZZcmpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 200,
-      "description": "10,000x on solana. moon or dust.\n\ndust your dead bags and give them one last shot. get dusted? you get ASH, pays you USDC every day.\n\nthe degens are the house. ",
-      "url": "https://dexscreener.com/solana/5org5hza3tq3ps5lhyzqfzkjhokhf73awc1vzzcmpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 705,
+      "priceBtc": 0.0010939011357003294
+    },
+    {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 94,
-      "priceBtc": 0.000023977140142023577
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 704,
-      "priceBtc": 0.0010958101291258498
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.196695672171795e-8
-    },
-    {
-      "name": "PHALA",
-      "symbol": "PHA",
-      "marketCapRank": 409,
-      "priceBtc": 7.949369642097443e-7
-    },
-    {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 50,
-      "priceBtc": 5.3759474055248324e-8
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.0003789817843742
+      "priceBtc": 0.000023920282413694096
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
       "marketCapRank": 141,
-      "priceBtc": 0.000004135868727424752
+      "priceBtc": 0.000004170252907044436
     },
     {
-      "name": "Grass",
-      "symbol": "GRASS",
-      "marketCapRank": 123,
-      "priceBtc": 0.0000074952674267416725
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9989759398806055
+    },
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 50,
+      "priceBtc": 5.388509233640841e-8
+    },
+    {
+      "name": "PHALA",
+      "symbol": "PHA",
+      "marketCapRank": 411,
+      "priceBtc": 7.823720791017578e-7
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.214398892147545e-8
+    },
+    {
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "marketCapRank": 66,
+      "priceBtc": 0.000002424692911882353
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Create SKILL.md",
-      "url": "https://github.com/Tsukimarf/PiRC/pull/1",
-      "createdAt": "2026-04-12T09:36:45Z"
+      "title": "Land the Phase 1 security record (risk register, evidence, runbooks)",
+      "url": "https://github.com/bitXbit-aus/bitxbit-rebrand/pull/7",
+      "createdAt": "2026-10-20T06:49:27Z"
     },
     {
-      "title": "chore(lockfile): update lucide-react-lockfile #patch",
-      "url": "https://github.com/GlueOps/waggle/pull/183",
-      "createdAt": "2026-10-17T08:20:12Z"
+      "title": "fix: ask once for a session handoff",
+      "url": "https://github.com/omnirush-ai/omnirush-gui/pull/233",
+      "createdAt": "2026-10-20T06:37:45Z"
     },
     {
-      "title": "parakeet: honor run_params.vocabulary with phrase boosting",
-      "url": "https://github.com/handy-computer/transcribe.cpp/pull/221",
-      "createdAt": "2026-10-20T06:28:34Z"
+      "title": "chore(deps): bump lucide-react from 1.42.0 to 1.47.0",
+      "url": "https://github.com/MehfoozurRehman/v7/pull/23",
+      "createdAt": "2026-09-25T02:34:25Z"
     },
     {
-      "title": "CHAT-CLOSED-LISTS: chatbot step 2, closed candidate lists (spec, attachment, certification types)",
-      "url": "https://github.com/jayson-odoo/sorento-crm/pull/1755",
-      "createdAt": "2026-10-17T00:18:46Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "chore(deps): Bump the production-dependencies group with 89 updates",
-      "url": "https://github.com/Littlesheepxy/flowmail/pull/11",
-      "createdAt": "2026-10-05T06:16:06Z"
+      "title": "chore: pin gh-actions references to 35019557",
+      "url": "https://github.com/tempoxyz/tempo-evals/pull/222",
+      "createdAt": "2026-10-20T06:51:32Z"
     },
     {
-      "title": "[Perf][Spec Decode] Sharded greedy verification and fused vocab-parallel draft argmax",
-      "url": "https://github.com/vllm-project/vllm/pull/62604",
-      "createdAt": "2026-10-20T03:19:36Z"
+      "title": "[perf] spec-decoding: fuse simulated speculative acceptance tensor preparation",
+      "url": "https://github.com/sgl-project/sglang/pull/41169",
+      "createdAt": "2026-09-24T20:43:54Z"
     }
   ]
 }
