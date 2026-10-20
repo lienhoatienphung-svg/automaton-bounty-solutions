@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T20:52:00.020Z",
-  "latencyMs": 251,
+  "executedAt": "2026-10-20T20:59:48.529Z",
+  "latencyMs": 332,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #209: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #210: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52870086,
+    "liveBlockNumber": 52870320,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 460395,
-    "baseMainnetTopPoolsVolume24hUsd": 211724,
+    "baseMainnetTopPoolsVolume24hUsd": 212888,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7o6wH9NcVHBSzvXMaiTecm2oGkN2jVJX3S57NvbJpump",
+        "description": "$PVE is the coin of PvePad, the launchpad that takes a Solana coin to multiple chains in one click. \n\nEvery PvePad launch sends a quarter of its creator fees to",
+        "url": "https://dexscreener.com/solana/7o6wh9ncvhbszvxmaitecm2ogkn2jvjx3s57nvbjpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2yY8nKodSpaGXKcZVYJjgW1HgQRXo6ELg1WFG45Fpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2yy8nkodspagxkczvyjjgw1hgqrxo6elg1wfg45fpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "JBpDKrccA4p4ooszHimumyz6djwL92NRfkHZAht3pump",
@@ -69,18 +81,6 @@
         "tokenAddress": "HsycKzaBd3UEsspJ6VuuoXmYET4z7nc3krCPYFtZpump",
         "description": "Accelerate is a Solana community coin aiming to turn creator fees into paid bounties, contributor rewards and project funding through Accelerate Tank.",
         "url": "https://dexscreener.com/solana/hsyckzabd3uesspj6vuuoxmyet4z7nc3krcpyftzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "H6bKfM138tfiqa6BE2jTPJRsH2Pb2F8MwehykbU6pump",
-        "description": "PorchLight is a community-first memecoin on Solana. A porch light means someone's home and you're welcome $solporch is built for the people. Always active dev, ",
-        "url": "https://dexscreener.com/solana/h6bkfm138tfiqa6be2jtpjrsh2pb2f8mwehykbu6pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "T86sUpHnjo7aBvLVJPRA87ZNGCEt7o8KJUuEyQVpump",
-        "description": "MemeTok is TikTok but for PumpFun coins only. Every single video needs to be linked to a specific coin.",
-        "url": "https://dexscreener.com/solana/t86suphnjo7abvlvjpra87zngcet7o8kjuueyqvpump"
       }
     ]
   },
