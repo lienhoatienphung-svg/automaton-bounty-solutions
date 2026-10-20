@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T13:37:26.105Z",
-  "latencyMs": 935,
+  "executedAt": "2026-10-20T13:38:01.653Z",
+  "latencyMs": 1483,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #92: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #93: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat: opt-in concurrent spending and VTXO reservations",
+      "url": "https://github.com/arkade-os/ts-sdk/pull/1051",
+      "createdAt": "2026-10-09T12:49:32Z"
+    },
+    {
       "title": "feat(staking): BUILD 1 — HeroSingleSidedStaking (HERO→HERO, DAO vote source)",
       "url": "https://github.com/jratdish1/hero-dapp/pull/119",
       "createdAt": "2026-09-27T22:49:15Z"
+    },
+    {
+      "title": "feat(insights): assistant and meetings in Insights, and share as a deck of cards",
+      "url": "https://github.com/AbhishekBarali/SpeakoFlow/pull/88",
+      "createdAt": "2026-10-20T09:03:05Z"
     },
     {
       "title": "FLOP CHATGPT HANDOFF — NEWEST COMMENT IS SOLE CURRENT AUTHORITY (historical archive preserved)",
@@ -283,16 +293,6 @@
       "title": "Epic: agent eval suite — measure how often real agents succeed through Haven's MCP surface (Hermes lane first, Claude Code second)",
       "url": "https://github.com/d-hinders/Haven-AI/issues/3957",
       "createdAt": "2026-10-14T15:43:32Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "fix(deps): update production dependencies (patch and minor)",
-      "url": "https://github.com/AgentsKit-io/harness/pull/191",
-      "createdAt": "2026-10-19T05:37:07Z"
     }
   ]
 }
