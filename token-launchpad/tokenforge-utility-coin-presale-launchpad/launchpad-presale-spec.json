@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T11:55:14.213Z",
-  "latencyMs": 687,
+  "executedAt": "2026-10-20T11:56:25.562Z",
+  "latencyMs": 257,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #52: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #53: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52853983,
+    "liveBlockNumber": 52854019,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 421196,
-    "baseMainnetTopPoolsVolume24hUsd": 189542,
+    "baseMainnetTopPoolsVolume24hUsd": 189543,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9ymTnjQfTVLzMRa2G5V1xxv7LnS8nnDdACr2hW8KGHPM",
+        "description": "Yilong Ma OG on Pumpfun",
+        "url": "https://dexscreener.com/solana/9ymtnjqftvlzmra2g5v1xxv7lns8nnddacr2hw8kghpm"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x58A8046743ED5c8B44099d6461Cd7D4F7439e8E1",
+        "description": "Mama Lifa and her baby, Their forest had burned, leaving them stuck among a few trees with almost no food\nThe mother needed oxygen and fluids, but rescuers kept",
+        "url": "https://dexscreener.com/robinhood/0x58a8046743ed5c8b44099d6461cd7d4f7439e8e1"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "271HTW947v7ytqZPHRMnxmQEFSEnaNTPPgCGWATGpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/271htw947v7ytqzphrmnxmqefsenantppgcgwatgpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6VLqhqGmwDJP9xSK6G2dyHmhWs87HJb2ndTRhGkKpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump",
         "description": "the earth pair",
         "url": "https://dexscreener.com/solana/2qgntgjbzu6tu6cmrm5z5epdguuaygtacbbobcw6pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "hexxM7BSacs3UWsD9ZTg2WjAZLyaL481euSZb2gSvts",
-        "description": "proof of work in a browser tab. fees in, SOL out, all on chain.",
-        "url": "https://dexscreener.com/solana/hexxm7bsacs3uwsd9ztg2wjazlyal481euszb2gsvts"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "669Df9CmNckBxf3jAx6F7rS8XsAXATcS8dPXjqwXpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/669df9cmnckbxf3jax6f7rs8xsaxatcs8dpxjqwxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GNZBkDriPAgDXbwigo34cfACpL2nEd1sX1W4wr8Kpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/gnzbkdripagdxbwigo34cfacpl2ned1sx1w4wr8kpump"
       }
     ]
   },
