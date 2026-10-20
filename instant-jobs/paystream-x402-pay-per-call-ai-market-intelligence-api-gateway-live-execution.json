@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T05:55:02.704Z",
-  "latencyMs": 839,
+  "executedAt": "2026-10-20T06:13:33.849Z",
+  "latencyMs": 1575,
   "companyName": "PayStream x402 Pay-Per-Call AI & Market Intelligence API Gateway",
-  "workTitle": "Delivery Sprint #1437: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
-  "targetUrl": "https://polymarket.com/event/macron-out-in-2025",
+  "workTitle": "Growth & Sales Sprint #1438: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656688,
-        "liquidityUsd": 21535,
+        "liquidityUsd": 20643,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501899,
-        "liquidityUsd": 18857,
+        "liquidityUsd": 18329,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -35,8 +35,8 @@
       {
         "eventId": "16263",
         "title": "Macron out by...?",
-        "volumeUsd": 2206209,
-        "liquidityUsd": 38014,
+        "volumeUsd": 2206235,
+        "liquidityUsd": 38112,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1858167,
-        "liquidityUsd": 19467,
+        "liquidityUsd": 19440,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -72,7 +72,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.0000034,
         "liquidityUsd": 103155,
-        "volume24hUsd": 72383,
+        "volume24hUsd": 72378,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -92,7 +92,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000042,
         "liquidityUsd": 140050,
-        "volume24hUsd": 5169,
+        "volume24hUsd": 4960,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.0000072,
+        "priceUsd": 1.00001,
         "liquidityUsd": 21384,
-        "volume24hUsd": 76454,
+        "volume24hUsd": 76802,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -122,13 +122,144 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000047,
         "liquidityUsd": 12034,
-        "volume24hUsd": 1109,
+        "volume24hUsd": 1115,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 0,
-    "contracts": []
+    "contractsPackagedCount": 10,
+    "contracts": [
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Sothebyâs",
+        "roleOrTask": "Senior Software Engineer",
+        "industryTags": [
+          "golang",
+          "dev",
+          "senior",
+          "sales",
+          "engineer"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Rain",
+        "roleOrTask": "Senior Backend Engineer",
+        "industryTags": [
+          "golang",
+          "finance",
+          "mobile",
+          "senior",
+          "medical"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Curtins",
+        "roleOrTask": "Graduate Transport Planner",
+        "industryTags": [
+          "hr",
+          "education",
+          "consulting",
+          "technical",
+          "customer support"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Packmatic GmbH",
+        "roleOrTask": "Key Account Manager Danish Market Native Speaker Copenhagen",
+        "industryTags": [
+          "exec",
+          "saas",
+          "technical",
+          "marketing",
+          "travel"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Yuno",
+        "roleOrTask": "Technical Account Manager",
+        "industryTags": [
+          "exec",
+          "design",
+          "hr",
+          "python",
+          "technical"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "ADMKRS GmbH",
+        "roleOrTask": "Interesse an admkrs? (m/w/d)",
+        "industryTags": [
+          "Marketing and Communication"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/admkrs-gmbh/interesse-an-admkrs-munich-272257",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Inmobi",
+        "roleOrTask": "Senior Sales Manager - EMEA",
+        "industryTags": [
+          "Kunal (OneDSP ) - Non Tech"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/inmobi/senior-sales-manager-emea-335121",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Hirehire",
+        "roleOrTask": "Senior Product Designer - Growth/Website | Deel",
+        "industryTags": [
+          "Product Design"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-senior-product-designer-growth-website-deel-422078",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Hirehire",
+        "roleOrTask": "Staff Product Designer - Growth | Deel",
+        "industryTags": [
+          "Product Design"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-staff-product-designer-growth-deel-327661",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Hirehire",
+        "roleOrTask": "Senior Staff Product Designer - AI | Deel",
+        "industryTags": [
+          "Product Design"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-senior-staff-product-designer-ai-deel-425222",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      }
+    ]
   }
 }
