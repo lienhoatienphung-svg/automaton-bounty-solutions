@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T10:34:39.684Z",
-  "latencyMs": 899,
+  "executedAt": "2026-10-20T10:36:00.003Z",
+  "latencyMs": 915,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #16: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #17: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Add a native iPhone app with the same liquid glass design",
+      "url": "https://github.com/alexmaxham/Claude/pull/9",
+      "createdAt": "2026-10-20T10:34:53Z"
+    },
+    {
+      "title": "feat(analytics): track staking and yield transaction outcomes",
+      "url": "https://github.com/trezor/trezor-suite/pull/33748",
+      "createdAt": "2026-10-20T10:28:16Z"
+    },
+    {
       "title": "docs(solana): document Devnet support with gas paid in devnet USDC",
       "url": "https://github.com/candidelabs/developer-docs/pull/93",
       "createdAt": "2026-10-20T10:11:35Z"
@@ -280,19 +290,9 @@
       "createdAt": "2025-09-05T14:09:04Z"
     },
     {
-      "title": "feat(analytics): track staking and yield transaction outcomes",
-      "url": "https://github.com/trezor/trezor-suite/pull/33748",
-      "createdAt": "2026-10-20T10:28:16Z"
-    },
-    {
       "title": "feat(contracts): Implement configurable campaign participation fee in custom tokens",
       "url": "https://github.com/FinesseStudioLab/Trivela/issues/1371",
       "createdAt": "2026-09-24T03:02:19Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
     }
   ]
 }
