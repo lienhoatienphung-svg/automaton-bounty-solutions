@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T17:46:18.377Z",
-  "latencyMs": 473,
+  "executedAt": "2026-10-20T17:48:36.067Z",
+  "latencyMs": 332,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #162: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #163: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52864515,
+    "liveBlockNumber": 52864584,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 460393,
-    "baseMainnetTopPoolsVolume24hUsd": 213876,
+    "baseMainnetTopPoolsVolume24hUsd": 213577,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HwvE5nyGZnDWFVQU28QRLur5s6iqJBc8a9KbMBWApump",
+        "description": "CHATGBT, HOW I BECOME A MILLIONAIRE IN 30 DAYS",
+        "url": "https://dexscreener.com/solana/hwve5nygzndwfvqu28qrlur5s6iqjbc8a9kbmbwapump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x95286bEc1b0943D5A0fad60ac048f0C50EC8CCD0",
@@ -75,12 +81,6 @@
         "tokenAddress": "9FAjujeZsLW7C8jRLvcH1fS3dYCtLV6LYHKq822dpump",
         "description": "The Exfil Rat, unofficial mascot. 3% buy and sell tax, rewards are in $EXFIL and distributed to holders. Hodl $RAT and escape the rat race.",
         "url": "https://dexscreener.com/solana/9fajujezslw7c8jrlvch1fs3dyctlv6lyhkq822dpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3vpvkgxLTMtpff5BjNwfqKmVcpdyTbqihG8gEZAwpump",
-        "description": "Pokémon GO for Collector Crypt packs. Explore the map. Find packs. Rip.",
-        "url": "https://dexscreener.com/solana/3vpvkgxltmtpff5bjnwfqkmvcpdytbqihg8gezawpump"
       }
     ]
   },
