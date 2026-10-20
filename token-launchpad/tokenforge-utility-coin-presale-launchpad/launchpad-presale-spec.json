@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T12:10:21.320Z",
-  "latencyMs": 358,
+  "executedAt": "2026-10-20T12:14:00.874Z",
+  "latencyMs": 385,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #59: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #60: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52854437,
+    "liveBlockNumber": 52854546,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 421194,
-    "baseMainnetTopPoolsVolume24hUsd": 191974,
+    "baseMainnetTopPoolsLiquidityUsd": 421193,
+    "baseMainnetTopPoolsVolume24hUsd": 195376,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "81ugDLy8fyHxsL8j9v83yzM9rM7QEL6YcZioD8L1pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/81ugdly8fyhxsl8j9v83yzm9rm7qel6ycziod8l1pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "AmAya4AEgxNtkCQP3g2VhmceLkDjzrQcqa1tQMaipump",
@@ -75,12 +81,6 @@
         "tokenAddress": "E8XoJg3A4YpYtbE6WfN6qWEcXmypLKSWzDkjga6Zpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/e8xojg3a4ypytbe6wfn6qwecxmyplkswzdkjga6zpump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x1FCf99E36cfcf6963cF71b77bBad7d5a61d27777",
-        "description": "Japanese markets, yen data & onchain launches. Launch and trade tokens paired with EWJon or TMon on BNB Chain. Research meets wallet execution. 🇯🇵⛓️",
-        "url": "https://dexscreener.com/bsc/0x1fcf99e36cfcf6963cf71b77bbad7d5a61d27777"
       }
     ]
   },
