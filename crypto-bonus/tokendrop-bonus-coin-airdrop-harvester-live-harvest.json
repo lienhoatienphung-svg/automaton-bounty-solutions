@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T15:07:41.499Z",
-  "latencyMs": 1218,
+  "executedAt": "2026-10-20T15:13:47.382Z",
+  "latencyMs": 1128,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #121: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #122: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,71 +218,66 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.000024977431480123537
+      "priceBtc": 0.00002544652828011493
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 691,
+      "priceBtc": 0.0011376460492231407
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0023483721307052
-    },
-    {
-      "name": "Janction",
-      "symbol": "JCT",
-      "marketCapRank": 460,
-      "priceBtc": 5.1719901115175385e-8
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 690,
-      "priceBtc": 0.0011394153816090605
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000012522374477832667
-    },
-    {
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "marketCapRank": 48,
-      "priceBtc": 0.000006938637112938557
+      "priceBtc": 1.0000164002134417
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
       "marketCapRank": 145,
-      "priceBtc": 0.000004056788488731103
+      "priceBtc": 0.000004064137649528348
+    },
+    {
+      "name": "Janction",
+      "symbol": "JCT",
+      "marketCapRank": 454,
+      "priceBtc": 5.294549634494626e-8
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010500220190894267
+      "priceBtc": 0.000010341335854699693
+    },
+    {
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "marketCapRank": 48,
+      "priceBtc": 0.000006940018190529936
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 38,
+      "priceBtc": 0.0023982346892179695
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[recipe, hardware] feat: add complete FAPO Megatron Ascend recipe",
-      "url": "https://github.com/verl-project/verl-ascend-recipe/pull/152",
-      "createdAt": "2026-10-19T02:38:33Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Bring Windows tools and workflows to Mac feature parity",
-      "url": "https://github.com/orkunisitmak/nashi-app/pull/1",
-      "createdAt": "2026-10-19T20:30:48Z"
+      "title": "CI Failure: Issue fix (Codex Luna Max → PR)",
+      "url": "https://github.com/valerielinc-ops/frontaliere-si-o-no/issues/9285",
+      "createdAt": "2026-09-19T18:15:23Z"
     },
     {
-      "title": "feat(fuel-inference): n-gram prompt-lookup drafter + proxy measurement (ROADMAP 17 H24) (0.20.28)",
-      "url": "https://github.com/ciresnave/fuel/pull/413",
-      "createdAt": "2026-10-20T10:09:41Z"
-    },
-    {
-      "title": "feat(android): turn the example app into a reference wallet (#399)",
-      "url": "https://github.com/fedimint/fedimint-sdk/pull/430",
-      "createdAt": "2026-09-30T13:51:32Z"
+      "title": "fix(react-sdk): cancel in-flight initialize on useSessionAccount unmount (#288)",
+      "url": "https://github.com/0xMiden/web-sdk/pull/468",
+      "createdAt": "2026-10-10T21:40:18Z"
     },
     {
       "title": "authentication",
@@ -290,9 +285,14 @@
       "createdAt": "2026-10-20T11:32:50Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "fix(wallet): effective network on Profile, 2 min USDC bridge-in estimate, new Activity tabs",
+      "url": "https://github.com/0xMiden/wallet/pull/1658",
+      "createdAt": "2026-10-20T15:11:47Z"
+    },
+    {
+      "title": "CT-18: Standardise contract event topics and payloads",
+      "url": "https://github.com/zeekman/FarmersMarketplace/issues/1537",
+      "createdAt": "2026-10-15T15:07:02Z"
     }
   ]
 }
