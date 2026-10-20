@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T16:37:44.980Z",
-  "latencyMs": 1851,
+  "executedAt": "2026-10-20T16:43:07.473Z",
+  "latencyMs": 871,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #147: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #148: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "AyYNfPtftg2zDP4ZbgcoQMggQtwLh4zpfVVmUJs2thto",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/ayynfptftg2zdp4zbgcoqmggqtwlh4zpfvvmujs2thto"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "6VAyooNsKhyS4UeUR2LBH1A52NvouCgmVBru7n6ipump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Put your tokenized stocks to work.\n\nEarn weekly USDC premiums with onchain options vaults.\n\nBuilt on Solana. Powered by \n@xstocksfi\n.",
+      "url": "https://dexscreener.com/solana/6vayoonskhys4ueur2lbh1a52nvoucgmvbru7n6ipump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
       "boostAmount": 500,
       "totalBoostAmount": 510,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "GOTCHA - Cast. Catch. Earn. Explore tropical islands, reel in rare fish, and turn your catches into opportunities for SOL rewards in a multiplayer Play-to-Earn ",
       "url": "https://dexscreener.com/solana/exanwcxkvp1t4y7fl4jdb4wr5qfelps9fdatfr6ppump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "BGsMjz8wobAcpspSE3RvGBhEirngJSmpEsmuzZrkpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "⛏️ **TNTCRAFT** 💣\n\nA Minecraft-inspired NFT game with Bomb Crypto-style mechanics!\n\nMine, collect NFT heroes, fuse characters, and earn rewards in a blocky wor",
-      "url": "https://dexscreener.com/solana/bgsmjz8wobacpspse3rvgbheirngjsmpesmuzzrkpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "WSb2aEwVqrtZ3DCufa6yd89Aw3qU1GJLScuJLNYFERY",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Stablecoin FX at the Pyth rate.",
-      "url": "https://dexscreener.com/solana/wsb2aewvqrtz3dcufa6yd89aw3qu1gjlscujlnyfery"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,50 +217,50 @@
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 90,
-      "priceBtc": 0.000026430130816210694
+      "marketCapRank": 91,
+      "priceBtc": 0.000026261244329428293
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00005884102633960878
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 733,
+      "priceBtc": 0.0010468406977153938
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.362933290690613e-8
-    },
-    {
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "marketCapRank": 49,
-      "priceBtc": 0.000006861278380191361
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 732,
-      "priceBtc": 0.0010440578372126592
+      "priceBtc": 9.395927439706116e-8
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010314111729815925
+      "priceBtc": 0.000010347450245980443
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00005900707388028414
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0002541508488025
+      "priceBtc": 0.9992842457516742
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
       "marketCapRank": 147,
-      "priceBtc": 0.000003995784646175191
+      "priceBtc": 0.000004014292262281025
+    },
+    {
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "marketCapRank": 49,
+      "priceBtc": 0.000006858271047083122
     }
   ],
   "activeAirdropAndFaucetQuests": [
@@ -270,29 +270,29 @@
       "createdAt": "2026-10-20T16:37:09Z"
     },
     {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/JaimeTR/Envialo/pull/10",
-      "createdAt": "2026-09-04T06:00:49Z"
-    },
-    {
-      "title": "fix(xrpl): act only on ledgers past the newest seen; a reset only on the testnet",
-      "url": "https://github.com/justmoon/dassie/pull/170",
-      "createdAt": "2026-10-20T16:23:36Z"
-    },
-    {
-      "title": "chore(deps): update all non-major dependencies",
-      "url": "https://github.com/reddoorla/medical-solutions-of-texas/pull/68",
-      "createdAt": "2026-09-21T16:45:08Z"
-    },
-    {
-      "title": "chore(main): release 0.87.0",
-      "url": "https://github.com/solana-foundation/solana-developer-platform/pull/2392",
-      "createdAt": "2026-10-16T19:00:01Z"
+      "title": "P38: assemble the measured two-unit enclave runtime",
+      "url": "https://github.com/arnabnandikgp/cinder/pull/84",
+      "createdAt": "2026-10-20T16:39:26Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "Range pools 1/4: the site's client for our range program",
+      "url": "https://github.com/fomotsar-commits/tegridy-farms/pull/911",
+      "createdAt": "2026-10-20T16:42:09Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide-react to v1 (master)",
+      "url": "https://github.com/rajput-hemant/react-template-vite/pull/257",
+      "createdAt": "2026-03-30T01:49:17Z"
+    },
+    {
+      "title": "Execute ordered signed batches in Haskell and atomically commit multi-transfer blocks",
+      "url": "https://github.com/jihadelsayed/AivoBlock/pull/15",
+      "createdAt": "2026-10-20T16:31:25Z"
     }
   ]
 }
