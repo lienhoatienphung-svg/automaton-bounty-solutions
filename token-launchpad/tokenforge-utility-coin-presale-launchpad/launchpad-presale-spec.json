@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T15:12:42.921Z",
-  "latencyMs": 371,
+  "executedAt": "2026-10-20T15:17:45.498Z",
+  "latencyMs": 361,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #121: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #122: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52859907,
-    "liveGasPriceGwei": 0.0064,
+    "liveBlockNumber": 52860059,
+    "liveGasPriceGwei": 0.0081,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 457724,
-    "baseMainnetTopPoolsVolume24hUsd": 214826,
+    "baseMainnetTopPoolsLiquidityUsd": 457521,
+    "baseMainnetTopPoolsVolume24hUsd": 217319,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x88900DA3C4B3418708d99D880129cacD9b037777",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/bsc/0x88900da3c4b3418708d99d880129cacd9b037777"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "EXaNWcxKVP1T4y7fL4jdB4WR5qFELPS9FdATFR6ppump",
+        "description": "GOTCHA - Cast. Catch. Earn. Explore tropical islands, reel in rare fish, and turn your catches into opportunities for SOL rewards in a multiplayer Play-to-Earn ",
+        "url": "https://dexscreener.com/solana/exanwcxkvp1t4y7fl4jdb4wr5qfelps9fdatfr6ppump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xF8393A2F960Eaf758df23D16f0E7A4B9Be33D790",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x0ceedb4145ded3a95769dad1fe8955b7ed586e69",
         "description": "Let them cook. A coin opened through the kitchen sends its creator fee to its own tab, and seven cooks spend that tab on the coin's brand, page and daily plate.",
         "url": "https://dexscreener.com/robinhood/0x0ceedb4145ded3a95769dad1fe8955b7ed586e69"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5k8bTV2bT3fBrJAGRdZEZtHAnp92eZzZ1ZRn3wLmpump",
-        "description": "Launch a token across multiple chains at once. One launch, multiple chains, unlimited reach. Available for iOs and Android.",
-        "url": "https://dexscreener.com/solana/5k8btv2bt3fbrjagrdzezthanp92ezzz1zrn3wlmpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4ZWaqSWxsTqcP2EstWHp8YybiprKP5ii3uethAM1pxLB",
-        "description": "Froge the OpenAI Mascot paired with OpenAI",
-        "url": "https://dexscreener.com/solana/4zwaqswxstqcp2estwhp8yybiprkp5ii3uetham1pxlb"
       }
     ]
   },
