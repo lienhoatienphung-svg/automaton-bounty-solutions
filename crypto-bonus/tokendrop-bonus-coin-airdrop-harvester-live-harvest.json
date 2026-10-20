@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T05:26:13.709Z",
-  "latencyMs": 866,
+  "executedAt": "2026-10-20T05:44:01.974Z",
+  "latencyMs": 1046,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #859: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #860: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,81 +218,50 @@
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 700,
-      "priceBtc": 0.0010997454770631484
+      "priceBtc": 0.0011004038387102241
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
       "marketCapRank": 94,
-      "priceBtc": 0.00002381747123642117
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00005856671169904414
+      "priceBtc": 0.000023888049012508986
     },
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
       "marketCapRank": 50,
-      "priceBtc": 5.3806287544879766e-8
+      "priceBtc": 5.3649886005901785e-8
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9989339316835824
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 86,
-      "priceBtc": 0.000009860878234309693
-    },
-    {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "marketCapRank": 71,
-      "priceBtc": 0.000299654330265762
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.181991875633748e-8
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
       "marketCapRank": 141,
-      "priceBtc": 0.000004230106147447906
+      "priceBtc": 0.00000416796149223576
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 86,
+      "priceBtc": 0.000009868086672169897
+    },
+    {
+      "name": "PHALA",
+      "symbol": "PHA",
+      "marketCapRank": 422,
+      "priceBtc": 7.595459107155281e-7
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.998225040162398
     }
   ],
-  "activeAirdropAndFaucetQuests": [
-    {
-      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
-      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
-      "createdAt": "2026-10-18T07:37:42Z"
-    },
-    {
-      "title": "R4: 2.6.4 mobile integration and release-readiness candidate",
-      "url": "https://github.com/KeeperCommunity/bitcoin-keeper/pull/7045",
-      "createdAt": "2026-10-09T09:52:33Z"
-    },
-    {
-      "title": "[executorch][muse] Draft CUDA DFlash decode from pending tokens",
-      "url": "https://github.com/pytorch/executorch/pull/23983",
-      "createdAt": "2026-10-19T04:59:00Z"
-    },
-    {
-      "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
-      "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
-      "createdAt": "2026-10-19T08:06:34Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "fix(dashmate)!: give Debian packages versions apt can order",
-      "url": "https://github.com/dashpay/platform/pull/4282",
-      "createdAt": "2026-08-04T12:24:19Z"
-    }
-  ]
+  "activeAirdropAndFaucetQuests": []
 }
