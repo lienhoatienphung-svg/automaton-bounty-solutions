@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T04:03:53.264Z",
-  "latencyMs": 349,
+  "executedAt": "2026-10-20T04:06:12.056Z",
+  "latencyMs": 333,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #844: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #845: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52839843,
+    "liveBlockNumber": 52839912,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440978,
-    "baseMainnetTopPoolsVolume24hUsd": 145597,
+    "baseMainnetTopPoolsVolume24hUsd": 145569,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6AybbCuYiPrwkWcLvxdEbfKSB9QjQ8mzWVZ7y2iDpump",
+        "description": "Pair coins with graded Pokémon card collections and turn creator fees into automatic card sweeps. Powered by $CARDS.",
+        "url": "https://dexscreener.com/solana/6aybbcuyiprwkwclvxdebfksb9qjq8mzwvz7y2idpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9ce7UmBhSfFvp22Ho1iJeZgZ1XJ47e72AuW52b9BrnwA",
@@ -75,12 +81,6 @@
         "tokenAddress": "DCUYhiNUJnu28H5tahmsbSLb2YMuRvvFkLwvWJrapump",
         "description": "Charlie Munger once called compared cryptocurrency to \"TURDS\"   \n\nThis is the fartcoin of paired meta.",
         "url": "https://dexscreener.com/solana/dcuyhinujnu28h5tahmsbslb2ymurvvfklwvwjrapump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FBaeVexVcny6spAS6LhEiH72LTPXzaUG8hrVRuQKpump",
-        "description": "Oryn watches every pump fun launch and PumpSwap pool, scores each one on order flow, liquidity and momentum, then trades only what clears the rules you set.",
-        "url": "https://dexscreener.com/solana/fbaevexvcny6spas6lheih72ltpxzaug8hrvruqkpump"
       }
     ]
   },
