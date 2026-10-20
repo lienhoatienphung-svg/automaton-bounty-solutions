@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T17:10:48.214Z",
-  "latencyMs": 679,
+  "executedAt": "2026-10-20T17:17:27.298Z",
+  "latencyMs": 703,
   "companyName": "FlashSpread Cross-DEX Liquidity & Arbitrage",
-  "workTitle": "Delivery Sprint #157: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
-  "targetUrl": "https://polymarket.com/event/macron-out-in-2025",
+  "workTitle": "Growth & Sales Sprint #158: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501899,
-        "liquidityUsd": 18310,
+        "liquidityUsd": 18271,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2211863,
-        "liquidityUsd": 66574,
+        "liquidityUsd": 66588,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059857,
-        "liquidityUsd": 253,
+        "liquidityUsd": 251,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1860335,
-        "liquidityUsd": 16462,
+        "liquidityUsd": 16735,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -66,16 +66,6 @@
     "wethMaxSpreadBps": 0,
     "topLiquidPools": [
       {
-        "pairAddress": "0x5D0bC342178C8Fe2c2f9A9fcC9D52555C99936db",
-        "dexId": "quickswap",
-        "baseSymbol": "USDC",
-        "quoteSymbol": "USDbC",
-        "priceUsd": 0.9999,
-        "liquidityUsd": 104841,
-        "volume24hUsd": 93320,
-        "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
-      },
-      {
         "pairAddress": "0x0E635F8EeED4F7279d56692D552F034ECE136019",
         "dexId": "alien-base",
         "baseSymbol": "USDC",
@@ -86,13 +76,23 @@
         "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
       },
       {
+        "pairAddress": "0x5D0bC342178C8Fe2c2f9A9fcC9D52555C99936db",
+        "dexId": "quickswap",
+        "baseSymbol": "USDC",
+        "quoteSymbol": "USDbC",
+        "priceUsd": 0.9999,
+        "liquidityUsd": 104841,
+        "volume24hUsd": 89245,
+        "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
+      },
+      {
         "pairAddress": "0x98c7A2338336d2d354663246F64676009c7bDa97",
         "dexId": "aerodrome",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000012,
         "liquidityUsd": 139740,
-        "volume24hUsd": 19176,
+        "volume24hUsd": 19403,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21383,
-        "volume24hUsd": 99855,
+        "volume24hUsd": 95996,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
