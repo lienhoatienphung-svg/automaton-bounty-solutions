@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T14:47:00.319Z",
-  "latencyMs": 1446,
+  "executedAt": "2026-10-20T14:47:46.309Z",
+  "latencyMs": 832,
   "companyName": "PolyAlpha Prediction & Arbitrage Desk",
-  "workTitle": "Growth & Sales Sprint #116: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
-  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
+  "workTitle": "Delivery Sprint #117: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "targetUrl": "https://polymarket.com/event/macron-out-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -102,18 +102,8 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21383,
-        "volume24hUsd": 95114,
+        "volume24hUsd": 95105,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
-      },
-      {
-        "pairAddress": "0x06959273E9A65433De71F5A452D529544E07dDD0",
-        "dexId": "uniswap",
-        "baseSymbol": "USDC",
-        "quoteSymbol": "USDbC",
-        "priceUsd": 1.0000066,
-        "liquidityUsd": 12034,
-        "volume24hUsd": 2710,
-        "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
         "pairAddress": "0x29Ed55B18Af0Add137952CB3E29FB77B32fCE426",
@@ -122,8 +112,18 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000012,
         "liquidityUsd": 14836,
-        "volume24hUsd": 732,
+        "volume24hUsd": 736,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
+      },
+      {
+        "pairAddress": "0x06959273E9A65433De71F5A452D529544E07dDD0",
+        "dexId": "uniswap",
+        "baseSymbol": "USDC",
+        "quoteSymbol": "USDbC",
+        "priceUsd": 1.0000066,
+        "liquidityUsd": 12034,
+        "volume24hUsd": 2702,
+        "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
   },
