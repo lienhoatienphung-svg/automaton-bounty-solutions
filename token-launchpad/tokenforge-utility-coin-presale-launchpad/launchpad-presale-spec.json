@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T22:58:21.828Z",
-  "latencyMs": 653,
+  "executedAt": "2026-10-20T23:07:24.447Z",
+  "latencyMs": 717,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #237: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #238: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52873877,
+    "liveBlockNumber": 52874148,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459820,
-    "baseMainnetTopPoolsVolume24hUsd": 212074,
+    "baseMainnetTopPoolsVolume24hUsd": 213820,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "dij2xs8oFJc8YckXooDCH6XXuexAmBp7W8A6Y5t6YA1",
+        "description": "We built Ditto, where AI agents track Solana wallets, predict their possible next buys, and find the strongest opportunities among their recent purchases—with f",
+        "url": "https://dexscreener.com/solana/dij2xs8ofjc8yckxoodch6xxuexambp7w8a6y5t6ya1"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4VB4TyWvixx6tbLFM9p3DWAsEnRhBPnbS2dvDJXtpump",
+        "description": "Jason’s dog and the main dog of GTA VI.\n\nOne in-game dog economy. Powered by $RICO.",
+        "url": "https://dexscreener.com/solana/4vb4tywvixx6tblfm9p3dwasenrhbpnbs2dvdjxtpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7cmhnQgXrYFGpttmbez6VvAUndWPjPFg7ocB96AJvJBZ",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7cmhnqgxryfgpttmbez6vvaundwpjpfg7ocb96ajvjbz"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xda33394ff475f70992e56ce084920aea6f6e4fbb",
@@ -63,24 +81,6 @@
         "tokenAddress": "7sbzuBNq9YVgTyuqYDVSJdX1GbLNvhpPka7hYhoJR2LX",
         "description": "A 4% tax token on pump where fees are used automatically to rip $100 Gacha packs and distribute to random holders.\n\nLaunched on Souvenir.",
         "url": "https://dexscreener.com/solana/7sbzubnq9yvgtyuqydvsjdx1gblnvhppka7hyhojr2lx"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CAZ3iuCd5oW2UuJ2wg5ucnbEziat7jYTsUitPg9ipump",
-        "description": "Super Inu Singularity",
-        "url": "https://dexscreener.com/solana/caz3iucd5ow2uuj2wg5ucnbeziat7jytsuitpg9ipump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9vuGTtRoL6GeD4Gwt6mQBm7Bn1AzJWATBvjkiMQXpump",
-        "description": "AI girl ripping real graded card packs live!\nevery $GEMMA fee buys a pack, every card goes to a holder.",
-        "url": "https://dexscreener.com/solana/9vugttrol6ged4gwt6mqbm7bn1azjwatbvjkimqxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "E2AuxyVptsdNBvy9xsXgBr7mxgPHxJUs4T2xQXf2pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/e2auxyvptsdnbvy9xsxgbr7mxgphxjus4t2xqxf2pump"
       }
     ]
   },
