@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T13:42:09.496Z",
-  "latencyMs": 791,
+  "executedAt": "2026-10-20T13:47:00.688Z",
+  "latencyMs": 440,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #93: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #94: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52857191,
+    "liveBlockNumber": 52857336,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 450117,
-    "baseMainnetTopPoolsVolume24hUsd": 200224,
+    "baseMainnetTopPoolsVolume24hUsd": 200498,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump",
+        "description": "He got his hands on the money. Now he won't let go. A tiny capuchin with a firm grip and absolutely no plans to share.",
+        "url": "https://dexscreener.com/solana/ehpugw1ghe46beysaa7chvozhwyometbp1ak1q7jpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x99560Ea123D448a4f202df62Ec158DD6efd954a2",
+        "description": "A platform where anyone can create a game, host tournaments, and build a gaming community.",
+        "url": "https://dexscreener.com/robinhood/0x99560ea123d448a4f202df62ec158dd6efd954a2"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0x4F8d81797e76e409C6db47fD89E19937Fa42FFff",
@@ -69,18 +81,6 @@
         "tokenAddress": "Yf1MjFqhu8U6Y45QWf57YuDYxsk3Hb98JU2ii8Epump",
         "description": "The packs that opens itself.",
         "url": "https://dexscreener.com/solana/yf1mjfqhu8u6y45qwf57yudyxsk3hb98ju2ii8epump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HcpVmHrXV5WLnkgdnYHHvYNcD2AsR54yom6ua5aTpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hcpvmhrxv5wlnkgdnyhhvyncd2asr54yom6ua5atpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FwvXXsPMoHWPG22xyb1G2x94grbYMZV3qmfCbTV2pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fwvxxspmohwpg22xyb1g2x94grbymzv3qmfcbtv2pump"
       }
     ]
   },
