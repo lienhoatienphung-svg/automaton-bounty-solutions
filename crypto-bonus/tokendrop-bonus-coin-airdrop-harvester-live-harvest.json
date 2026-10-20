@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T13:42:18.525Z",
-  "latencyMs": 1251,
+  "executedAt": "2026-10-20T13:43:41.774Z",
+  "latencyMs": 1255,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #94: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #95: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 92,
-      "priceBtc": 0.0000242889584668487
+      "priceBtc": 0.000024250862023225428
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 743,
-      "priceBtc": 0.0010249092736512493
+      "priceBtc": 0.0010236973795532663
     },
     {
       "name": "Monero",
       "symbol": "XMR",
       "marketCapRank": 13,
-      "priceBtc": 0.007458472359215587
+      "priceBtc": 0.00749561078482536
     },
     {
       "name": "Janction",
       "symbol": "JCT",
-      "marketCapRank": 456,
-      "priceBtc": 5.1377940504640326e-8
+      "marketCapRank": 451,
+      "priceBtc": 5.232336107628665e-8
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.235215367004654e-8
+      "priceBtc": 9.301824752963562e-8
     },
     {
       "name": "Worldcoin",
       "symbol": "WLD",
       "marketCapRank": 49,
-      "priceBtc": 0.000006775982905111081
+      "priceBtc": 0.000006811934417450614
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.0028846825776476
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.014052815118788968
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 21,
-      "priceBtc": 0.0000575066678933192
+      "priceBtc": 0.014130709904899208
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "fix: ship state-sync validator and diligence links (EVO-1634)",
+      "url": "https://github.com/RP-ONE/rp1-benchmark/pull/6",
+      "createdAt": "2026-10-20T11:00:50Z"
+    },
+    {
+      "title": "feat: add the referral Perks tab (OK-65135)",
+      "url": "https://github.com/OneKeyHQ/app-monorepo/pull/14024",
+      "createdAt": "2026-10-20T10:20:47Z"
+    },
+    {
+      "title": "feat(insights): assistant and meetings in Insights, and share as a deck of cards",
+      "url": "https://github.com/AbhishekBarali/SpeakoFlow/pull/88",
+      "createdAt": "2026-10-20T09:03:05Z"
+    },
+    {
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/Theo024/papierpiano/pull/365",
+      "createdAt": "2026-03-26T16:59:19Z"
+    },
     {
       "title": "Update all non-major dependencies",
       "url": "https://github.com/HarryAllen1/tsa-grouping-thing/pull/132",
       "createdAt": "2026-03-04T10:04:50Z"
     },
     {
-      "title": "fix(deps): bump wasmtime to 49.0.4 (RUSTSEC-2026-0378, RUSTSEC-2026-0379)",
-      "url": "https://github.com/faucet-hq/faucet-stream/pull/928",
-      "createdAt": "2026-10-20T13:41:51Z"
-    },
-    {
       "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
       "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
       "createdAt": "2026-10-16T09:56:24Z"
-    },
-    {
-      "title": "Shell tests, complete XML docs and BCUK-Bot-4's standards (Core 0.17.1, Shell 0.16.1)",
-      "url": "https://github.com/Battle-Cattle/BCUK-Companion-Core/pull/49",
-      "createdAt": "2026-10-20T10:15:34Z"
-    },
-    {
-      "title": "feat(bot): persistent 3-color navigation and copyable wallet commands",
-      "url": "https://github.com/jaavid/Mustache/pull/47",
-      "createdAt": "2026-10-20T13:37:59Z"
-    },
-    {
-      "title": "feat(mocks): issuer-agnostic mock RFQ venue and mAAPL for testnets",
-      "url": "https://github.com/Assetera-AG/AsseteraEvmContracts/pull/106",
-      "createdAt": "2026-10-20T11:21:01Z"
     }
   ]
 }
