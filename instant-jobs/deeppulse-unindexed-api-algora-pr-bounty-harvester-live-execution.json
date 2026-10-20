@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T21:44:38.719Z",
-  "latencyMs": 733,
+  "executedAt": "2026-10-20T21:46:36.230Z",
+  "latencyMs": 616,
   "companyName": "DeepPulse Unindexed API & Algora PR Bounty Harvester",
-  "workTitle": "Growth & Sales Sprint #228: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #229: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
@@ -82,7 +82,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 104841,
-        "volume24hUsd": 83159,
+        "volume24hUsd": 83358,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21383,
-        "volume24hUsd": 94841,
+        "volume24hUsd": 95091,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -207,58 +207,59 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Rühl & Partner Steuerberater Wirtschaftsprüfer",
-        "roleOrTask": "Steuerberater (m/w/d)",
-        "industryTags": [
-          "Finance"
-        ],
+        "company": "Flora Food Group",
+        "roleOrTask": "Senior Nutritionist (m/f/d)",
+        "industryTags": [],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/ruhl-partner-steuerberater-wirtschaftsprufer/steuerberater-augsburg-99628",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/flora-food-group/senior-nutritionist-hamburg-83622",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "likeyaa GmbH",
-        "roleOrTask": "Projektmanager:in Social & Creator Marketing (Intermediate) (w/m/d)",
+        "company": "Parity",
+        "roleOrTask": "Senior Security Engineer - Remote",
         "industryTags": [
-          "Marketing and Communication"
+          "Acceleration"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/likeyaa-gmbh/projektmanagerin-social-creator-marketing-intermediate-dortmund-383496",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/parity/senior-security-engineer-remote-196334",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Right Search",
-        "roleOrTask": "Team Lead – ERP Basis & Development (w/m/d)",
+        "company": "TEILE Elektronik",
+        "roleOrTask": "Head of Finance / FP&A (m/w/d)",
         "industryTags": [
-          "SAP/ERP Consulting",
-          "Development"
+          "Management",
+          "Team Leader"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/right-search/team-lead-erp-basis-development-villingen-schwenningen-398594",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/teile-elektronik/head-of-finance-fpa-freiburg-im-breisgau-417998",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting für Digital, Sales, IT, KI, Automation",
-        "roleOrTask": "B2B Sales & Business Development Manager • SaaS für börsennotierte AGs • Rhein-Main / BaWü *",
+        "company": "Seeq",
+        "roleOrTask": "Senior Analytics Engineer - EMEA",
+        "industryTags": [
+          "Data Analyst",
+          "Computer Software",
+          "Analytics Engineering",
+          "Remote"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/seeq/remote-senior-analytics-engineer-emea-germany-207467",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "EuBiA",
+        "roleOrTask": "Standortentwickler (m/w/d)",
         "industryTags": [
           "Business Development"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/b2b-sales-business-development-manager-saas-fur-borsennotierte-ags-rhein-main-bawu-frankfurt-am-main-416280",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "ElevenLabs",
-        "roleOrTask": "Full-Stack Engineer - ElevenMusic",
-        "industryTags": [
-          "Engineering & Product"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevenmusic-401054",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/eubia/standortentwickler-berlin-223147",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
