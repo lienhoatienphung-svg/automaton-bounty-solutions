@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T14:29:58.305Z",
-  "latencyMs": 738,
+  "executedAt": "2026-10-20T14:34:58.165Z",
+  "latencyMs": 632,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #109: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #110: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52858625,
+    "liveBlockNumber": 52858775,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 450114,
-    "baseMainnetTopPoolsVolume24hUsd": 210083,
+    "baseMainnetTopPoolsVolume24hUsd": 211077,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3udRiYky1mbBVFLoLhheQHkESEj5H7vjPqneivU7pump",
+        "description": "Everyone gets a free Rolex",
+        "url": "https://dexscreener.com/solana/3udriyky1mbbvflolhheqhkesej5h7vjpqneivu7pump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x4991dd06012eEe69aA509A279B0a4FD8261B1a58",
+        "description": "RWAOS",
+        "url": "https://dexscreener.com/robinhood/0x4991dd06012eee69aa509a279b0a4fd8261b1a58"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x35e7b8068bdb51dc04daac785a1328e41a0ab0fc",
@@ -69,18 +81,6 @@
         "tokenAddress": "0xEd9Bc1A78DD4aee67DDD97365451deB00Fd38f10",
         "description": "Agent ID posted about its AI-focused token launch. The background is the rapid rise of autonomous agent projects in crypto. Its logo features a bold yellow squa",
         "url": "https://dexscreener.com/bsc/0xed9bc1a78dd4aee67ddd97365451deb00fd38f10"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FvWz1LVYNzGfLpXEYTrdzArWpRVhMpS7Pm3RPKcvpump",
-        "description": "The kid nobody believed in, with the Nine-Tails inside. The thing they feared became the power source. $NARUTO. Believe it.",
-        "url": "https://dexscreener.com/solana/fvwz1lvynzgflpxeytrdzarwprvhmps7pm3rpkcvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AjsbSXT7TTaK5jtFLE8T2csnaicTPAx3pxsWZzBvRqo",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ajsbsxt7ttak5jtfle8t2csnaictpax3pxswzzbvrqo"
       }
     ]
   },
