@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T13:26:13.573Z",
-  "latencyMs": 1070,
+  "executedAt": "2026-10-20T13:27:49.416Z",
+  "latencyMs": 1354,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #88: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #89: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
-      "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
-      "createdAt": "2026-10-16T09:56:24Z"
+      "title": "fix(deps): update dependency @cosmjs/cosmwasm-stargate to v0.38.1",
+      "url": "https://github.com/howlpack/howlpack/pull/30",
+      "createdAt": "2023-11-23T16:37:10Z"
     },
     {
-      "title": "feat: add the referral Perks tab (OK-65135)",
-      "url": "https://github.com/OneKeyHQ/app-monorepo/pull/14024",
-      "createdAt": "2026-10-20T10:20:47Z"
+      "title": "feat(staking): BUILD 1 — HeroSingleSidedStaking (HERO→HERO, DAO vote source)",
+      "url": "https://github.com/jratdish1/hero-dapp/pull/119",
+      "createdAt": "2026-09-27T22:49:15Z"
     },
     {
-      "title": "feat(bot): explain Polygon Amoy faucet and wallet gas in Telegram",
-      "url": "https://github.com/jaavid/Mustache/pull/46",
-      "createdAt": "2026-10-20T13:25:38Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/BoomchainLabs/walletgpt-ai/pull/34",
+      "createdAt": "2026-09-08T19:12:54Z"
     },
     {
-      "title": "S25 final integration: sampler islands on spot, synced trainers to samplers, round cut, stage-1 rehearsal, agentic RL, eval suite",
-      "url": "https://github.com/agentenv/yeto/pull/279",
-      "createdAt": "2026-10-20T13:25:52Z"
+      "title": "Release 1.5: Linux and Android with a folder workspace",
+      "url": "https://github.com/dees91/posato/pull/168",
+      "createdAt": "2026-10-11T00:52:25Z"
     },
     {
-      "title": "fix(advantage): mask critic values before GAE",
-      "url": "https://github.com/alibaba/ROLL/pull/510",
-      "createdAt": "2026-10-20T13:25:23Z"
+      "title": "📦 Pending promotion: dev → main",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/666",
+      "createdAt": "2026-06-29T11:18:37Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "perf(jit): resolve old Vyper memory returns and drop unreached blocks",
+      "url": "https://github.com/alloy-rs/evm2/pull/687",
+      "createdAt": "2026-10-18T11:29:21Z"
     }
   ]
 }
