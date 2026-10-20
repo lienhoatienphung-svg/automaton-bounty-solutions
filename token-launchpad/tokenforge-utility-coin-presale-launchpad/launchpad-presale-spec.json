@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T18:34:08.870Z",
-  "latencyMs": 547,
+  "executedAt": "2026-10-20T18:41:26.331Z",
+  "latencyMs": 331,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #175: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #176: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52865950,
+    "liveBlockNumber": 52866169,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 460394,
-    "baseMainnetTopPoolsVolume24hUsd": 215165,
+    "baseMainnetTopPoolsVolume24hUsd": 214980,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CSUVLjP5oXwThVBn4rgfPhH2bEEzExNS3pHFXoqMpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/csuvljp5oxwthvbn4rgfphh2beezexns3phfxoqmpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "D18rot5ggCGYPLngoazFcKx5VU8piZXgrFSmEXYupump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/d18rot5ggcgyplngoazfckx5vu8pizxgrfsmexyupump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "H6JHSruJxRSdmEsrst26nKX5WprLJPHoMtfhfdgjpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/h6jhsrujxrsdmesrst26nkx5wprljphomtfhfdgjpump"
+      },
       {
         "chainId": "ethereum",
         "tokenAddress": "0x22cF03dA665b4d1459a56Dd09dBC069935d16b37",
@@ -63,24 +81,6 @@
         "tokenAddress": "0x56e1d9e1f68e7938a49b0a60eedd8ba64923b4de",
         "description": "Automated Credit to $BALANCE conversion, run by the IMD swarm.",
         "url": "https://dexscreener.com/ethereum/0x56e1d9e1f68e7938a49b0a60eedd8ba64923b4de"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "C7yWWv32D2QLhZ2JAs53MhZpvxpgdeUmn4rdeCUXpump",
-        "description": "The gacha launchpad built on http://pump.fun packs. Every coin gets its own machine, stocked with real graded cards by its trading fees.",
-        "url": "https://dexscreener.com/solana/c7ywwv32d2qlhz2jas53mhzpvxpgdeumn4rdecuxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BAcyfLP2itBKzPUqhrpnTyyJfCiaFx3oH8TDmgvspump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bacyflp2itbkzpuqhrpntyyjfciafx3oh8tdmgvspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8joZywj2Rc5JmyEXWmDR3w2cwBexW2dYB2Vjr5T3pump",
-        "description": "Lucia is the main bagworker of $DaCity.",
-        "url": "https://dexscreener.com/solana/8jozywj2rc5jmyexwmdr3w2cwbexw2dyb2vjr5t3pump"
       }
     ]
   },
