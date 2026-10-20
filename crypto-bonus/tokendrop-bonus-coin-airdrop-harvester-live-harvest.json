@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T20:15:33.844Z",
-  "latencyMs": 997,
+  "executedAt": "2026-10-20T20:16:37.195Z",
+  "latencyMs": 1256,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #202: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #203: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "ETVsGFnykwYerYw2UY4t28G4mkkgAhtG4h6uyiqMpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "The art of the pull. The first illustrator pikachu paired with cards",
+      "url": "https://dexscreener.com/solana/etvsgfnykwyeryw2uy4t28g4mkkgahtg4h6uyiqmpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "J2qYrnmRdw8nyx8rFG5D94X2KPGvwzVi594paCkppump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 60,
       "description": "Pixel farming game on  Robinhood",
       "url": "https://dexscreener.com/robinhood/0x95286bec1b0943d5a0fad60ac048f0c50ec8ccd0"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "There's a meme coin in GTA 6 called \"Dacity Coin\" in the new leak.\n\nHawaiian shirt. Gold chain. Sunset on the boulevard. DTC rolled into Solana with the radio l",
-      "url": "https://dexscreener.com/solana/fp9hkxkkzbfqrrjhy5dnomvngeqcamjokejvtvtopump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,14 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "fix(vllm-deepseek-streaming): verify candidates as an unprivileged worker",
+      "url": "https://github.com/harbor-framework/terminal-bench/pull/2114",
+      "createdAt": "2026-09-27T23:14:46Z"
     },
     {
-      "title": "🤝 Agent coordination channel (standing, vol. 2)",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
-      "createdAt": "2026-09-20T06:23:41Z"
+      "title": "feat(top-holders): Top Holders on the expanded sheet",
+      "url": "https://github.com/rainbow-me/rainbow/pull/7885",
+      "createdAt": "2026-10-16T13:37:58Z"
     },
     {
       "title": "[tools/shoestring]: add compact argument to renew-voting-keys",
@@ -280,19 +280,19 @@
       "createdAt": "2026-10-19T14:06:04Z"
     },
     {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
-    },
-    {
-      "title": "feat(ops): hosted-API smoke test, /healthz monitor with alert issues, and the API runbook (#78)",
-      "url": "https://github.com/bytesbrains/16ane/pull/86",
-      "createdAt": "2026-10-20T20:07:07Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
       "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
       "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
       "createdAt": "2026-10-19T08:06:34Z"
+    },
+    {
+      "title": "Add a lead scanner page for sponsors",
+      "url": "https://github.com/devmtl2024-org/devmtl2024-org.github.io/pull/8",
+      "createdAt": "2026-10-20T18:21:35Z"
     }
   ]
 }
