@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T03:29:07.290Z",
-  "latencyMs": 775,
+  "executedAt": "2026-10-20T03:46:07.109Z",
+  "latencyMs": 811,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #847: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #848: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "DZ4DzfLBMthSZ9SkLd8oAo4gmT4sm8BQSUpSJrbzpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Create a community token and pair it with SOL, stablecoins, or tokenized real-world assets. One fair launch flow, from bonding curve to open market.",
+      "url": "https://dexscreener.com/solana/dz4dzflbmthsz9skld8oao4gmt4sm8bqsupsjrbzpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HKZDfZnkHZxd9agRDNPyDv4iT6LmAurJnpRtj9wpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "literally just a dog with a torch.",
       "url": "https://dexscreener.com/robinhood/0xb1077b7e83be572de3cb32b2543109ad28bd1111"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Monero dog meme from an OG Monero Website. Real lore.",
-      "url": "https://dexscreener.com/solana/cv37zbhxdgza5cgeppjhshexz9jpslncwuaqrbgcpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,72 +217,57 @@
     {
       "name": "startupSI",
       "symbol": "STARTUPSI",
-      "marketCapRank": 855,
-      "priceBtc": 2.4252038790944086e-7
+      "marketCapRank": 838,
+      "priceBtc": 2.291062747748964e-7
     },
     {
       "name": "Pearl",
       "symbol": "PRL",
-      "marketCapRank": 94,
-      "priceBtc": 0.000023655829374052647
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.0000586908286907889
+      "marketCapRank": 95,
+      "priceBtc": 0.000023641482700080332
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 700,
-      "priceBtc": 0.001100847688563202
+      "priceBtc": 0.001100622949511207
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 118,
+      "priceBtc": 9.282008952068611e-8
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00005922763098956177
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012796931910185711
-    },
-    {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "marketCapRank": 71,
-      "priceBtc": 0.00030082426545256465
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009639484311776352
+      "priceBtc": 0.0012831788172565995
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "marketCapRank": 192,
-      "priceBtc": 0.0000033521980296939006
+      "priceBtc": 0.0000033641766451381047
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 150,
+      "priceBtc": 0.0000039296627341055636
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[Bugfix] Preserve rejection sampler bonus tokens with padded inputs",
-      "url": "https://github.com/vllm-project/tpu-inference/pull/3854",
-      "createdAt": "2026-10-20T03:28:52Z"
-    },
-    {
-      "title": "refactor: switch the draft proposal plumbing from probs to logits.",
-      "url": "https://github.com/xLLM-AI/xllm/pull/2509",
-      "createdAt": "2026-10-18T07:37:42Z"
-    },
-    {
-      "title": "Upgrade to Angular 22, rebuild the bonus tutorials, and deploy to Netlify",
-      "url": "https://github.com/mraible/ng-demo/pull/295",
-      "createdAt": "2026-10-15T15:03:46Z"
-    },
-    {
-      "title": "[Bug] Rejection sampler drops bonus tokens when padded rows reject",
-      "url": "https://github.com/vllm-project/tpu-inference/issues/3853",
-      "createdAt": "2026-10-20T03:12:46Z"
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
     },
     {
       "title": "feat(custody): dashboard-only devnet faucet replaces the RPC relay (HOO-2168)",
@@ -290,9 +275,24 @@
       "createdAt": "2026-10-19T17:08:15Z"
     },
     {
-      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
-      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
-      "createdAt": "2026-10-07T16:13:30Z"
+      "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
+      "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
+      "createdAt": "2026-10-19T08:06:34Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "chore(deps): bump tempo dependencies to 296be2a",
+      "url": "https://github.com/mowind/foundry/pull/2",
+      "createdAt": "2026-07-28T02:34:15Z"
+    },
+    {
+      "title": "EVM: Verify Merkle distributor claims against published trees",
+      "url": "https://github.com/Drago-Labs/golden-raccoon/issues/363",
+      "createdAt": "2026-10-17T22:19:03Z"
     }
   ]
 }
