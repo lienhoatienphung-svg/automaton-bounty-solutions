@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T16:56:43.369Z",
-  "latencyMs": 569,
+  "executedAt": "2026-10-20T16:57:32.366Z",
+  "latencyMs": 789,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #150: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
+  "workTitle": "Delivery Sprint #151: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52863027,
+    "liveBlockNumber": 52863052,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 460393,
-    "baseMainnetTopPoolsVolume24hUsd": 222223,
+    "baseMainnetTopPoolsVolume24hUsd": 222221,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x77750d63d598032065A6BF7D12568E86c0757777",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/bsc/0x77750d63d598032065a6bf7d12568e86c0757777"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4bWNjXPCS3pj9hxDQpM9VZwGmomxgvrENT39vNRJpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "4VPbDqHHoXtNVQcxeYJ5EjUduh6ZkFD3cU1deoVMpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/4vpbdqhhoxtnvqcxeyj5ejuduh6zkfd3cu1deovmpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6ceuPfcE67PLs3Z6CbJpFpqNyAevVocP2zsDkbM1pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6ceupfce67pls3z6cbjpfpqnyaevvocp2zsdkbm1pump"
       }
     ]
   },
