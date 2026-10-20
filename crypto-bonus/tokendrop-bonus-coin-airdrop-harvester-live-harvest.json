@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T21:40:35.175Z",
-  "latencyMs": 769,
+  "executedAt": "2026-10-20T21:47:54.435Z",
+  "latencyMs": 742,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #223: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #224: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 90,
-      "priceBtc": 0.0000253733820320879
+      "priceBtc": 0.000025453461760269448
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "marketCapRank": 114,
-      "priceBtc": 9.671698889098962e-8
-    },
-    {
-      "name": "Pepe",
-      "symbol": "PEPE",
-      "marketCapRank": 53,
-      "priceBtc": 5.4734119478894414e-11
+      "marketCapRank": 115,
+      "priceBtc": 9.651338399837148e-8
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 715,
-      "priceBtc": 0.0010663197459033391
+      "priceBtc": 0.0010655307992067165
     },
     {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 140,
-      "priceBtc": 0.000004290941488943179
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 38,
-      "priceBtc": 0.0023846928070175907
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "marketCapRank": 53,
+      "priceBtc": 5.4588463260161687e-11
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
-      "marketCapRank": 85,
-      "priceBtc": 0.00001050908957907592
+      "marketCapRank": 84,
+      "priceBtc": 0.000010526573364985275
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 139,
+      "priceBtc": 0.000004262844978238223
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015054264122358562
+      "priceBtc": 0.01501452212486586
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 39,
+      "priceBtc": 0.002380115672114234
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "[testnet] requestFaucet() always 403s on the public testnet — undocumented dev-only endpoint",
+      "url": "https://github.com/asentum-network/asentum-connect/issues/4",
+      "createdAt": "2026-10-19T20:16:49Z"
+    },
     {
       "title": "feat(sdk): owner-signed transfer, policy, revocation and vault creation for a relayer to submit (#77)",
       "url": "https://github.com/bytesbrains/16ane/pull/101",
       "createdAt": "2026-10-20T21:39:54Z"
     },
     {
-      "title": "SF-022: Seal-encrypted artifact delivery with scoped, device-authenticated decryption",
-      "url": "https://github.com/tyler-suifleet/suifleet/pull/118",
-      "createdAt": "2026-10-16T21:18:29Z"
+      "title": "[testnet] AsentumClient.viewCall() posts to /view but the documented RPC host only serves /rpc/view",
+      "url": "https://github.com/asentum-network/asentum-connect/issues/3",
+      "createdAt": "2026-10-19T20:16:47Z"
     },
     {
-      "title": "Oct 25, 19:30 IST · IEEE ClimateChain",
-      "url": "https://github.com/JannetEkka/DSProjects/issues/20",
-      "createdAt": "2026-10-05T20:54:08Z"
+      "title": "Release 2.6.0: live testnet AMM, Host/Origin gate, packaging and docs (F1–F10)",
+      "url": "https://github.com/mcp-tool-shop-org/xrpl-lab/pull/19",
+      "createdAt": "2026-10-20T20:54:56Z"
     },
     {
-      "title": "Import dishes by pasting text",
-      "url": "https://github.com/muhve/mealplanner/issues/3",
-      "createdAt": "2026-10-20T20:26:55Z"
+      "title": "Kimi K3 support",
+      "url": "https://github.com/tpurtell/cuteafd/issues/273",
+      "createdAt": "2026-10-15T06:49:01Z"
     },
     {
-      "title": "feat(top-holders): Top Holders on the expanded sheet",
-      "url": "https://github.com/rainbow-me/rainbow/pull/7885",
-      "createdAt": "2026-10-16T13:37:58Z"
-    },
-    {
-      "title": "V3 ledger core: INV-LED-001..015 + T03-01..12 (packages/engine/ledger)",
-      "url": "https://github.com/Aiouyn/trading-game/pull/3",
-      "createdAt": "2026-10-20T21:39:24Z"
+      "title": "feat(tools): give each section its own path and make the rail's entries links",
+      "url": "https://github.com/alejoamiras/unleashed/pull/23",
+      "createdAt": "2026-10-20T20:32:51Z"
     }
   ]
 }
