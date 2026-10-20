@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T21:47:54.435Z",
-  "latencyMs": 742,
+  "executedAt": "2026-10-20T21:48:51.786Z",
+  "latencyMs": 1036,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #224: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #225: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "Ci8fSR6gqN4AFGem4o4SZU7rRtp1BG3MgaTE4HdJpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 20,
+      "description": "Sun is one of the most viral monkeys in China, with over 1M followers on TikTok and 1.5B+ views. Literally every video gets millions of views. I got in touch wi",
+      "url": "https://dexscreener.com/solana/ci8fsr6gqn4afgem4o4szu7rrtp1bg3mgate4hdjpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "The art of the pull. The first illustrator pikachu paired with cards",
       "url": "https://dexscreener.com/solana/etvsgfnykwyeryw2uy4t28g4mkkgahtg4h6uyiqmpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "J2qYrnmRdw8nyx8rFG5D94X2KPGvwzVi594paCkppump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Small paws. BIG punches. \nBorn cute. Built to fight.\nThe underdog is coming for the top.",
-      "url": "https://dexscreener.com/solana/j2qyrnmrdw8nyx8rfg5d94x2kpgvwzvi594packppump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,19 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[testnet] requestFaucet() always 403s on the public testnet — undocumented dev-only endpoint",
-      "url": "https://github.com/asentum-network/asentum-connect/issues/4",
-      "createdAt": "2026-10-19T20:16:49Z"
+      "title": "Token tutorial still calls the deprecated `wallet.requestFaucet()`, which fails on public nodes",
+      "url": "https://github.com/asentum-network/asentum-connect/issues/10",
+      "createdAt": "2026-10-20T18:13:31Z"
     },
     {
-      "title": "feat(sdk): owner-signed transfer, policy, revocation and vault creation for a relayer to submit (#77)",
-      "url": "https://github.com/bytesbrains/16ane/pull/101",
-      "createdAt": "2026-10-20T21:39:54Z"
+      "title": "Documented npm packages `@asentum/vault-sdk`, `@asentum/workers`, `@asentum/vm` return 404",
+      "url": "https://github.com/asentum-network/asentum-connect/issues/9",
+      "createdAt": "2026-10-20T18:12:25Z"
     },
     {
-      "title": "[testnet] AsentumClient.viewCall() posts to /view but the documented RPC host only serves /rpc/view",
-      "url": "https://github.com/asentum-network/asentum-connect/issues/3",
-      "createdAt": "2026-10-19T20:16:47Z"
+      "title": "Carry a Commons copy's credit into every file that takes it out",
+      "url": "https://github.com/ZsomborRajki/OpenHikes/pull/899",
+      "createdAt": "2026-10-20T21:48:21Z"
     },
     {
       "title": "Release 2.6.0: live testnet AMM, Host/Origin gate, packaging and docs (F1–F10)",
@@ -285,14 +285,14 @@
       "createdAt": "2026-10-20T20:54:56Z"
     },
     {
-      "title": "Kimi K3 support",
-      "url": "https://github.com/tpurtell/cuteafd/issues/273",
-      "createdAt": "2026-10-15T06:49:01Z"
+      "title": "Secrets & Workers guide uses `E.call` / `E.callView` / `E.deriveJobId`, none of which exist",
+      "url": "https://github.com/asentum-network/asentum-connect/issues/8",
+      "createdAt": "2026-10-20T18:11:24Z"
     },
     {
-      "title": "feat(tools): give each section its own path and make the rail's entries links",
-      "url": "https://github.com/alejoamiras/unleashed/pull/23",
-      "createdAt": "2026-10-20T20:32:51Z"
+      "title": "feat(sdk): owner-signed transfer, policy, revocation and vault creation for a relayer to submit (#77)",
+      "url": "https://github.com/bytesbrains/16ane/pull/101",
+      "createdAt": "2026-10-20T21:39:54Z"
     }
   ]
 }
