@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T16:36:34.607Z",
-  "latencyMs": 1163,
+  "executedAt": "2026-10-20T16:37:44.980Z",
+  "latencyMs": 1851,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #146: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #147: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore(deps): update dependency lucide-react to v1.60.0",
-      "url": "https://github.com/techiall/auto-bangumi/pull/280",
-      "createdAt": "2026-08-28T11:46:12Z"
+      "title": "feat(server): faucet claims need the recipient's signature or a Turnstile token; refused claims cost no gas (#79)",
+      "url": "https://github.com/bytesbrains/16ane/pull/85",
+      "createdAt": "2026-10-20T16:37:09Z"
+    },
+    {
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/JaimeTR/Envialo/pull/10",
+      "createdAt": "2026-09-04T06:00:49Z"
     },
     {
       "title": "fix(xrpl): act only on ledgers past the newest seen; a reset only on the testnet",
@@ -275,24 +280,19 @@
       "createdAt": "2026-10-20T16:23:36Z"
     },
     {
-      "title": "Update dependency @lucide/svelte to v1.60.0",
-      "url": "https://github.com/akshaybabloo/whats-my-ip/pull/312",
-      "createdAt": "2026-06-08T02:41:49Z"
+      "title": "chore(deps): update all non-major dependencies",
+      "url": "https://github.com/reddoorla/medical-solutions-of-texas/pull/68",
+      "createdAt": "2026-09-21T16:45:08Z"
     },
     {
-      "title": "feat(midnight-js): ship predefined network endpoints (mainnet, preprod, preview)",
-      "url": "https://github.com/midnightntwrk/midnight-js/issues/1529",
-      "createdAt": "2026-10-20T16:35:39Z"
+      "title": "chore(main): release 0.87.0",
+      "url": "https://github.com/solana-foundation/solana-developer-platform/pull/2392",
+      "createdAt": "2026-10-16T19:00:01Z"
     },
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/soodoh/swanki/pull/37",
-      "createdAt": "2026-09-04T00:03:40Z"
-    },
-    {
-      "title": "Bind injected Phantom events through verified swap lifecycle",
-      "url": "https://github.com/Beaver0001/plovcoin-app/pull/11",
-      "createdAt": "2026-10-19T00:40:30Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     }
   ]
 }
