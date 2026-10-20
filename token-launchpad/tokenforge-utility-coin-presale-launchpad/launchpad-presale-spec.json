@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T16:36:20.612Z",
-  "latencyMs": 359,
+  "executedAt": "2026-10-20T16:41:43.022Z",
+  "latencyMs": 579,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #145: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #146: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52862416,
+    "liveBlockNumber": 52862577,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459641,
-    "baseMainnetTopPoolsVolume24hUsd": 219613,
+    "baseMainnetTopPoolsLiquidityUsd": 459640,
+    "baseMainnetTopPoolsVolume24hUsd": 221594,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BYFXauqtWiRvr7dK7caVnsoK8eQJjBcu4KvWgiA9pump",
+        "description": "Every 30 minutes, one $PACKEMON holder wins a real graded Pokémon card.\n\nFees buy packs. Packs get ripped. Holders get the cards.\n\nHold = entered. No claiming, ",
+        "url": "https://dexscreener.com/solana/byfxauqtwirvr7dk7cavnsok8eqjjbcu4kvwgia9pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2fnH6TAvpSKSjJWzr78vvnkJZVTnNhaWSY6twtvFpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2fnh6tavpsksjjwzr78vvnkjzvtnnhawsy6twtvfpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HLPuUk7Rwk8133oGdewTMoWtusz5ZQLraLJpYqa5pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hlpuuk7rwk8133ogdewtmowtusz5zqlraljpyqa5pump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x78D5E70ea8EbDcA8da3aBE485D50f234e06c71D2",
@@ -63,24 +81,6 @@
         "tokenAddress": "ChZfQ7Bz3RXJQjWU5WioM3cSdZLrP9foQMsghHM4pump",
         "description": "Pokémon, recreated for memecoins. Catch real memecoins on Pumpémon and get paid instantly to your wallet. No wallet connect needed.",
         "url": "https://dexscreener.com/solana/chzfq7bz3rxjqjwu5wiom3csdzlrp9foqmsghhm4pump"
-      },
-      {
-        "chainId": "cronos",
-        "tokenAddress": "0x188434fe2db6c23520f62DbFEd1ED02Ed3F9cbea",
-        "description": "Representing finnjomo, $FINN  is now featured on the FIRST PAGE of UltApp!\nLiving somewhere between good food and bad playlists.",
-        "url": "https://dexscreener.com/cronos/0x188434fe2db6c23520f62dbfed1ed02ed3f9cbea"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x48aF9FE69E45b1bA7a1BbB42d9944d09CffB2f31",
-        "description": "Every token dies. We write the report. Open model on Robinhood Chain.",
-        "url": "https://dexscreener.com/robinhood/0x48af9fe69e45b1ba7a1bbb42d9944d09cffb2f31"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5rTTHaXsTc8rk45i1g65KoZJ3jmFacjM31YerLx9fwL6",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5rtthaxstc8rk45i1g65kozj3jmfacjm31yerlx9fwl6"
       }
     ]
   },
