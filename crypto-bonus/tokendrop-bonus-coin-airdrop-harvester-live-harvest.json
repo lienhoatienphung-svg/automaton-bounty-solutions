@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T15:27:54.241Z",
-  "latencyMs": 879,
+  "executedAt": "2026-10-20T15:33:50.230Z",
+  "latencyMs": 1266,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #127: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #128: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,61 +218,56 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.00002670431612966595
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 684,
-      "priceBtc": 0.0011465441632581717
-    },
-    {
-      "name": "Janction",
-      "symbol": "JCT",
-      "marketCapRank": 439,
-      "priceBtc": 5.453604673830738e-8
+      "priceBtc": 0.00002648260282047612
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010264093328774254
+      "priceBtc": 0.000010399054629391663
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 684,
+      "priceBtc": 0.001143995131545855
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0014778693056297
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 146,
-      "priceBtc": 0.000004021553033005071
+      "priceBtc": 0.9998025928769075
     },
     {
       "name": "Worldcoin",
       "symbol": "WLD",
       "marketCapRank": 49,
-      "priceBtc": 0.000006907096588117116
+      "priceBtc": 0.000006814890969175855
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 147,
+      "priceBtc": 0.0000039807977208457525
+    },
+    {
+      "name": "Janction",
+      "symbol": "JCT",
+      "marketCapRank": 437,
+      "priceBtc": 5.493785144834034e-8
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00005916783562231069
+      "priceBtc": 0.00005836203998913974
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "server: report target logprobs/top_logprobs under MTP speculative decoding",
-      "url": "https://github.com/Blaizzy/mlx-vlm/pull/2557",
-      "createdAt": "2026-10-20T15:27:38Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "P37: BULK paper qualification and native fill compatibility",
+      "url": "https://github.com/arnabnandikgp/cinder/pull/83",
+      "createdAt": "2026-10-20T15:32:06Z"
     },
     {
       "title": "feat(price_pusher): push Solana price updates with v1 transactions",
@@ -280,19 +275,24 @@
       "createdAt": "2026-10-20T15:23:30Z"
     },
     {
-      "title": "[Security] ERC-1155 unstaking in nft-staking contract drops rewards without transferring tokens",
-      "url": "https://github.com/Afristore/marketplace/issues/1071",
-      "createdAt": "2026-10-20T11:35:23Z"
+      "title": "feat(wallet): show the XLM balance and offer Friendbot on testnet",
+      "url": "https://github.com/MMM-pay/payflow-frontend/pull/121",
+      "createdAt": "2026-10-19T12:02:49Z"
     },
     {
-      "title": "cards: read-only WaveZ Station buyer snapshot for the first ZAO TCG Card",
-      "url": "https://github.com/bettercallzaal/ZAOOS/pull/4049",
-      "createdAt": "2026-10-20T15:26:37Z"
+      "title": "feat(simulation): Pendle protocol",
+      "url": "https://github.com/propeller-heads/tycho/pull/1646",
+      "createdAt": "2026-10-19T18:48:41Z"
     },
     {
-      "title": "feat: deposit_pool for vesting",
-      "url": "https://github.com/Talus-Network/talus-token/pull/27",
-      "createdAt": "2026-10-20T14:52:35Z"
+      "title": "Add hybrid architecture search task (draft)",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/26",
+      "createdAt": "2026-09-25T22:42:20Z"
+    },
+    {
+      "title": "perf(search): scan search fast paths, under 100 ms target (R2c-3b)",
+      "url": "https://github.com/liqiangcc/reading-mcp/pull/189",
+      "createdAt": "2026-10-20T15:31:46Z"
     }
   ]
 }
