@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T01:03:03.461Z",
-  "latencyMs": 399,
+  "executedAt": "2026-10-20T01:19:42.699Z",
+  "latencyMs": 485,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #827: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #828: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52834418,
+    "liveBlockNumber": 52834917,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 440981,
-    "baseMainnetTopPoolsVolume24hUsd": 137960,
+    "baseMainnetTopPoolsLiquidityUsd": 440982,
+    "baseMainnetTopPoolsVolume24hUsd": 139016,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "RP8pXrfBtUjgiEnMvjK2fBhdKKPRA5thNSj9PnpDRhd",
+        "description": "Every coin is a block, chained to the last. 21,000,000 supply, SHA-256d mining, trading in sats, and 6 confirmations to graduate.",
+        "url": "https://dexscreener.com/solana/rp8pxrfbtujgienmvjk2fbhdkkpra5thnsj9pnpdrhd"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "8SNWRuJDaN5VFgAghb8emniYgRB5RbiVUpK4wyhedgM8",
+        "description": "Chudbob endorsed by the owner of Chud Plush\n\n100% of creator fees are used on Souvenir's launchpad to buy and distribute chudbob plushies to holders automatical",
+        "url": "https://dexscreener.com/solana/8snwrujdan5vfgaghb8emniygrb5rbivupk4wyhedgm8"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "86YGZ7MCzBWy4wsoY78cDjy8sZNDmZm3Vie8XkYzpump",
+        "description": "Launch tokens paired with real collectible cards from Collector Crypt. The collector’s launchpad on Solana.",
+        "url": "https://dexscreener.com/solana/86ygz7mczbwy4wsoy78cdjy8szndmzm3vie8xkyzpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6fzp9sPSJtwhTBr6gm2VRrAmKjW8ttd6AVWgH1S9pump",
@@ -63,24 +81,6 @@
         "tokenAddress": "7jz5odotkTt3UUjFyHemTDPQMqzgX3YjMamM3Zx3pump",
         "description": "Meet GTA VI Mascot ($GM), where Vice City vibes, wild adventures, and unstoppable meme energy collide. Rule the streets and ride the hype to the moon!",
         "url": "https://dexscreener.com/solana/7jz5odotktt3uujfyhemtdpqmqzgx3yjmamm3zx3pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x3b092A9cAaC1aED19b41F6B580af926C7BaE32A5",
-        "description": "Fart Swirl Pokémon is a hilarious Pokémon card phenomenon where a random holographic swirl lands perfectly near a Pokémon’s butt. These accidental “fart swirls”",
-        "url": "https://dexscreener.com/robinhood/0x3b092a9caac1aed19b41f6b580af926c7bae32a5"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "21qwLuQhMumr8ggXgFz6a21eqZoT3aBa6diaboxdpump",
-        "description": "Anime coin for anime memes.",
-        "url": "https://dexscreener.com/solana/21qwluqhmumr8ggxgfz6a21eqzot3aba6diaboxdpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x53a8211374a6517e520F07f1a12f7F91c4261252",
-        "description": "Giving SpaceX Stock to millions of American children",
-        "url": "https://dexscreener.com/robinhood/0x53a8211374a6517e520f07f1a12f7f91c4261252"
       }
     ]
   },
