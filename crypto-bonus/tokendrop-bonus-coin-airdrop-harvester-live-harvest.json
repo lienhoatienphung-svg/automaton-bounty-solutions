@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T13:49:33.407Z",
-  "latencyMs": 1184,
+  "executedAt": "2026-10-20T13:53:45.423Z",
+  "latencyMs": 891,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #97: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #98: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "ESnW5ZbLmoEAg2QEMxnMsY9R3aS8Kw58HJacYURmpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/esnw5zblmoeag2qemxnmsy9r3as8kw58hjacyurmpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "USEu5qroduzuvrSZfvs3xM1MwyU83joapQF5LMyWiSP",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "The OG ***** memecoin, powered by the community and built around the ***** ***** **** ** narrative. Unofficial.",
       "url": "https://dexscreener.com/solana/eaxaucxxnnvwcqm2bbocbows7d1xvy2q63v38neypump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x58DD8583420151785eFA434af2429f96DE6E1111",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/robinhood/0x58dd8583420151785efa434af2429f96de6e1111"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 92,
-      "priceBtc": 0.000024250862023225428
+      "priceBtc": 0.00002416711783177808
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 743,
-      "priceBtc": 0.0010236973795532663
+      "priceBtc": 0.0010217654390619517
     },
     {
       "name": "Monero",
       "symbol": "XMR",
       "marketCapRank": 13,
-      "priceBtc": 0.00749561078482536
+      "priceBtc": 0.007468660850404876
     },
     {
       "name": "Janction",
       "symbol": "JCT",
-      "marketCapRank": 451,
-      "priceBtc": 5.232336107628665e-8
+      "marketCapRank": 435,
+      "priceBtc": 5.3842143697069386e-8
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.301824752963562e-8
+      "priceBtc": 9.298879148785713e-8
     },
     {
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "marketCapRank": 49,
-      "priceBtc": 0.000006811934417450614
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 21,
+      "priceBtc": 0.00005780169002597341
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.0028846825776476
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 150,
+      "priceBtc": 0.000003884073184412527
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.014130709904899208
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 193,
+      "priceBtc": 0.0000033451790212645896
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[Feature] Support PPO with shared actor and critic packing",
-      "url": "https://github.com/InternLM/xtuner/pull/2186",
-      "createdAt": "2026-10-16T08:06:54Z"
+      "title": "feat(staking): BUILD 1 — HeroSingleSidedStaking (HERO→HERO, DAO vote source)",
+      "url": "https://github.com/jratdish1/hero-dapp/pull/119",
+      "createdAt": "2026-09-27T22:49:15Z"
     },
     {
-      "title": "Speculative decoding: turn-final stop token is never committed, so multi-turn transcripts lose <|im_end|> after every assistant turn",
-      "url": "https://github.com/google-ai-edge/LiteRT-LM/issues/3439",
-      "createdAt": "2026-09-01T05:10:59Z"
+      "title": "🤝 Agent coordination channel (standing, vol. 2)",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
+      "createdAt": "2026-09-20T06:23:41Z"
     },
     {
-      "title": "Harden Super Admin authorization and repair registration token bonus",
-      "url": "https://github.com/SmartServicesTZ/Huduma-za-mitandaoni/pull/11",
-      "createdAt": "2026-10-20T13:36:18Z"
+      "title": "On-chain testnet settlement (NU7): escrow, real sighash, extraction, refund",
+      "url": "https://github.com/Godwin-web3/lintel/pull/5",
+      "createdAt": "2026-10-20T13:06:50Z"
     },
     {
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/orangecheck/oc-packages/issues/11",
-      "createdAt": "2026-05-20T14:30:24Z"
+      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
+      "createdAt": "2026-10-12T04:03:25Z"
     },
     {
-      "title": "fix(heartbeat): qualify inline scheduler prompts without memory",
-      "url": "https://github.com/loopx-project/loopx/pull/6930",
-      "createdAt": "2026-10-20T08:20:10Z"
+      "title": "Bring Windows tools and workflows to Mac feature parity",
+      "url": "https://github.com/orkunisitmak/nashi-app/pull/1",
+      "createdAt": "2026-10-19T20:30:48Z"
     },
     {
-      "title": "iOS: Open Duck.ai file attachments in place instead of copying them",
-      "url": "https://github.com/duckduckgo/apple-browsers/pull/7519",
-      "createdAt": "2026-10-20T11:12:47Z"
+      "title": "security(launch): publish official domains and watch for phishing lookalikes",
+      "url": "https://github.com/Suncrest-Labs/nester/issues/1535",
+      "createdAt": "2026-10-18T00:27:34Z"
     }
   ]
 }
