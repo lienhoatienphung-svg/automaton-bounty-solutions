@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T06:36:49.944Z",
-  "latencyMs": 955,
+  "executedAt": "2026-10-20T06:43:55.590Z",
+  "latencyMs": 560,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
   "workTitle": "Delivery Sprint #859: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52844431,
+    "liveBlockNumber": 52844644,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 440983,
-    "baseMainnetTopPoolsVolume24hUsd": 151820,
+    "baseMainnetTopPoolsVolume24hUsd": 155213,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4fKFtE91HmvkdXTJw34VaNDxJ6Dafe55rTNnvcDBpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4fkfte91hmvkdxtjw34vandxj6dafe55rtnnvcdbpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Dq7Q5Czf78aZkFe7cdiT6UGP1u5s7o88mTA31Q39a1on",
@@ -75,12 +81,6 @@
         "tokenAddress": "Ai6j3LFGYE6SzgyXyWQP7S1JZQkvFaUJSX2zTotrench",
         "description": "your ai, in the trenches. scout @solana memecoins, trade & manage your portfolio with your claude or codex login.",
         "url": "https://dexscreener.com/solana/ai6j3lfgye6szgyxywqp7s1jzqkvfaujsx2ztotrench"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BBosWSCuM31rd99jG9DE27QjZL1JAJaYp26PtF7vpump",
-        "description": "the trenches got packs hold the bag, rip a pack every epoch, pull a trench legend, get SOL. bigger bag = better pack. 2% club fights for the Golden Pill",
-        "url": "https://dexscreener.com/solana/bboswscum31rd99jg9de27qjzl1jajayp26ptf7vpump"
       }
     ]
   },
