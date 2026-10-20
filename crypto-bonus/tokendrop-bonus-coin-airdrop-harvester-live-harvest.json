@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T19:12:07.648Z",
-  "latencyMs": 850,
+  "executedAt": "2026-10-20T19:19:53.068Z",
+  "latencyMs": 857,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #187: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #188: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "There's a meme coin in GTA 6 called \"Dacity Coin\" in the new leak.\n\nHawaiian shirt. Gold chain. Sunset on the boulevard. DTC rolled into Solana with the radio l",
+      "url": "https://dexscreener.com/solana/fp9hkxkkzbfqrrjhy5dnomvngeqcamjokejvtvtopump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
       "boostAmount": 100,
       "totalBoostAmount": 710,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Bul is bullish",
       "url": "https://dexscreener.com/solana/gywksn2ah7dqlypezajezmfxuu2h4nwfgvgjhfydvegn"
-    },
-    {
-      "chainId": "ethereum",
-      "tokenAddress": "0x22cF03dA665b4d1459a56Dd09dBC069935d16b37",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "METH MINERS: 25 PACKS, ONE PAYS OUT EVERY 30 MINUTES",
-      "url": "https://dexscreener.com/ethereum/0x22cf03da665b4d1459a56dd09dbc069935d16b37"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.000025608319327301648
+      "priceBtc": 0.0000252785503380982
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.868270743701269e-8
+      "priceBtc": 9.788224380403062e-8
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 731,
-      "priceBtc": 0.0010393190548583
+      "marketCapRank": 732,
+      "priceBtc": 0.0010369735883169623
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010403184255407093
-    },
-    {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "marketCapRank": 71,
-      "priceBtc": 0.0003063004889074668
+      "priceBtc": 0.000010414239439734726
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9998829368792398
+      "priceBtc": 0.999610707404101
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "marketCapRank": 71,
+      "priceBtc": 0.0003065291141651647
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 125,
+      "priceBtc": 6.837778370287922e-7
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
-      "marketCapRank": 143,
-      "priceBtc": 0.0000040912175366015975
-    },
-    {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 84,
-      "priceBtc": 0.00010365641765302395
+      "marketCapRank": 141,
+      "priceBtc": 0.000004127815423346784
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Bump source-map-js from 1.2.1 to 1.2.2",
-      "url": "https://github.com/willyfromtheblock/peercoinexplorer.net-faucet/pull/73",
-      "createdAt": "2026-10-12T11:09:52Z"
+      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
+      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
+      "createdAt": "2026-10-07T16:13:30Z"
     },
     {
-      "title": "Route Arbitrum USDC to Acki Nacki through Circle CCTP, with AAVE on Sepolia",
-      "url": "https://github.com/gosh-sh/bridge/pull/114",
-      "createdAt": "2026-10-16T23:32:10Z"
+      "title": "CT-18: Standardise contract event topics and payloads",
+      "url": "https://github.com/zeekman/FarmersMarketplace/issues/1537",
+      "createdAt": "2026-10-15T15:07:02Z"
     },
     {
-      "title": "Kimi K3 support",
-      "url": "https://github.com/tpurtell/cuteafd/issues/273",
-      "createdAt": "2026-10-15T06:49:01Z"
+      "title": "account page follow-up 3/4: Receive dialog to mockup note 9; one primary-button rule on the dashboard",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/4167",
+      "createdAt": "2026-10-20T18:19:44Z"
     },
     {
-      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
-      "createdAt": "2026-10-07T00:07:47Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "fix(ci): stop check.sh failing when the journeys are needed without the matrix",
-      "url": "https://github.com/s3anstanz/Bloom/pull/24",
-      "createdAt": "2026-10-20T19:09:34Z"
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "Milestone #20: atomically commit fee-funded AI receipts as replayable local blocks",
-      "url": "https://github.com/jihadelsayed/AivoBlock/pull/20",
-      "createdAt": "2026-10-20T19:02:31Z"
+      "title": "feat(frontend): add real-time balance refresh and low gas warning badge (#1096)",
+      "url": "https://github.com/Fracverse/InheritX/pull/1248",
+      "createdAt": "2026-10-20T15:59:59Z"
     }
   ]
 }
