@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T13:01:52.848Z",
-  "latencyMs": 1331,
+  "executedAt": "2026-10-20T13:05:54.452Z",
+  "latencyMs": 919,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #79: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #80: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 95,
-      "priceBtc": 0.000023741659484226013
+      "priceBtc": 0.000023887419855783966
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 739,
-      "priceBtc": 0.0010335459057955357
+      "marketCapRank": 740,
+      "priceBtc": 0.0010376490445769574
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 118,
-      "priceBtc": 9.243939851609082e-8
+      "name": "Janction",
+      "symbol": "JCT",
+      "marketCapRank": 462,
+      "priceBtc": 5.194585474590367e-8
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 88,
-      "priceBtc": 0.00003889957597853173
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9997166694398804
-    },
-    {
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "marketCapRank": 49,
-      "priceBtc": 0.000006817869237016872
-    },
-    {
-      "name": "Janction",
-      "symbol": "JCT",
-      "marketCapRank": 453,
-      "priceBtc": 5.2369411799938206e-8
+      "priceBtc": 0.00003881269288478642
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 21,
-      "priceBtc": 0.00005774013660212776
+      "priceBtc": 0.00005748577553588469
+    },
+    {
+      "name": "Monero",
+      "symbol": "XMR",
+      "marketCapRank": 13,
+      "priceBtc": 0.0074526454708678915
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9993838013925417
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 150,
+      "priceBtc": 0.000003858319541391536
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[WIP] Support PPO with shared actor and critic packing",
-      "url": "https://github.com/InternLM/xtuner/pull/2186",
-      "createdAt": "2026-10-16T08:06:54Z"
+      "title": "add support for portuguese",
+      "url": "https://github.com/arkade-os/wallet/pull/1059",
+      "createdAt": "2026-10-12T16:42:24Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "Website: add a Fleet server API for the profile generator",
+      "url": "https://github.com/fleetdm/fleet/pull/55939",
+      "createdAt": "2026-10-19T20:20:24Z"
     },
     {
-      "title": "feat(analytics): track staking and yield transaction outcomes",
-      "url": "https://github.com/trezor/trezor-suite/pull/33748",
-      "createdAt": "2026-10-20T10:28:16Z"
+      "title": "Handle unfunded Stellar accounts in balance UI",
+      "url": "https://github.com/OpenLedger-Foundation/Kora-Frontend/issues/1052",
+      "createdAt": "2026-10-17T19:37:23Z"
     },
     {
-      "title": "chore(deps): update dependency lucide-react to v1.60.0",
-      "url": "https://github.com/chrisye96/k-tools/pull/15",
-      "createdAt": "2026-09-21T11:48:05Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "Add evolutionary-optimization-llms-long-horizon task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/94",
-      "createdAt": "2026-10-18T10:27:55Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "fix(oneplay): verify official skill hash and server-issued payloads",
-      "url": "https://github.com/imjlk/mpgd-kit/pull/401",
-      "createdAt": "2026-10-20T12:18:44Z"
+      "title": "feat(ios): add experimental Swift/WKWebView iOS app",
+      "url": "https://github.com/Gang-of-Beads/open-teams/pull/1",
+      "createdAt": "2026-10-20T10:03:54Z"
     }
   ]
 }
