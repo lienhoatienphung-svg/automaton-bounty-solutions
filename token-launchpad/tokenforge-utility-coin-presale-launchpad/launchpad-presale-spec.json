@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T11:14:00.239Z",
-  "latencyMs": 337,
+  "executedAt": "2026-10-20T11:17:22.020Z",
+  "latencyMs": 458,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #35: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #36: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52852746,
+    "liveBlockNumber": 52852847,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 421195,
-    "baseMainnetTopPoolsVolume24hUsd": 169663,
+    "baseMainnetTopPoolsVolume24hUsd": 169946,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "3rNz6iJ8X1YLsvZBxo1U934qdccsyLsjAtPYicTnpump",
+        "description": "the US Government is developer an AI Superweapon \"worm-style\" agent called ECHOTRIBBLE",
+        "url": "https://dexscreener.com/solana/3rnz6ij8x1ylsvzbxo1u934qdccsylsjatpyictnpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HKjrNpoTZC6Q1gdJruVYtwfCbRBFRZgZWRNqDamTxbNa",
+        "description": "Zephyr is a next-generation Web3 browser built for privacy, security, and control, starting with Auto Burn Sessions and expanding into a broader suite of Web3 t",
+        "url": "https://dexscreener.com/solana/hkjrnpotzc6q1gdjruvytwfcbrbfrzgzwrnqdamtxbna"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "AEfK6BNAufKzVJ19tW3E8eTCXRxJ1EgQV5Z2byb7ffpT",
@@ -69,18 +81,6 @@
         "tokenAddress": "3NtA5sXpWjwjb67phR6Ez13Mf84CBGYmEidPtycUpump",
         "description": "Market-graded collectibles; create, buy, and sell cards graded by market cap. Each card carries its own revenue stream.",
         "url": "https://dexscreener.com/solana/3nta5sxpwjwjb67phr6ez13mf84cbgymeidptycupump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AuhAhnNNU6K7p3tBNzcRV5kDPZGF6zhofpfb6sUkpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/auhahnnnu6k7p3tbnzcrv5kdpzgf6zhofpfb6sukpump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0xAb5dDCC11A3c3ABA85fEbC35Ec3B34C873817777",
-        "description": "Bet on the traders who print.\n\nPari-mutuel markets on the GMGN Global Championship. Back traders with BNB. Winners split the pot.",
-        "url": "https://dexscreener.com/bsc/0xab5ddcc11a3c3aba85febc35ec3b34c873817777"
       }
     ]
   },
