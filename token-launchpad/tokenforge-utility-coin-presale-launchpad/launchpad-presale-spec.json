@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T20:43:00.380Z",
-  "latencyMs": 726,
+  "executedAt": "2026-10-20T20:43:49.985Z",
+  "latencyMs": 602,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #206: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #207: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52869816,
+    "liveBlockNumber": 52869841,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 211512,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "T86sUpHnjo7aBvLVJPRA87ZNGCEt7o8KJUuEyQVpump",
+        "description": "MemeTok is TikTok but for PumpFun coins only. Every single video needs to be linked to a specific coin.",
+        "url": "https://dexscreener.com/solana/t86suphnjo7abvlvjpra87zngcet7o8kjuueyqvpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9xKtV2UkajvXGdc2o1uWjFnYampo71sewYcapA4rpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "79r9JgCuaVVumUuKkuzNn9rNgFftdgSw8G1EmUvdpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/79r9jgcuavvumuukkuznn9rngfftdgsw8g1emuvdpump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x867585Caf0A877dB3f88A2303120f8dE77629eAE",
-        "description": "JUL 30, 2015\nEthereum goes live.\nMainnet launches. There is no token standard yet, and developers are working out conventions as they go.\n\nMAY 4, 2016\nAn anonym",
-        "url": "https://dexscreener.com/ethereum/0x867585caf0a877db3f88a2303120f8de77629eae"
       }
     ]
   },
