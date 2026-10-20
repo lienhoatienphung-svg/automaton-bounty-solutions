@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T10:39:52.706Z",
-  "latencyMs": 905,
+  "executedAt": "2026-10-20T10:42:45.925Z",
+  "latencyMs": 804,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #19: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #20: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 94,
-      "priceBtc": 0.00002405478237345395
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 704,
-      "priceBtc": 0.0010971769343373595
+      "marketCapRank": 93,
+      "priceBtc": 0.000024061622705036622
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.999597531438715
+      "priceBtc": 0.9997269935727016
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 701,
+      "priceBtc": 0.0011047573205585067
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 146,
+      "priceBtc": 0.000003957294336222793
+    },
+    {
+      "name": "Metaplex",
+      "symbol": "MPLX",
+      "marketCapRank": 550,
+      "priceBtc": 9.879733230167749e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.000057458660253822635
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 147,
-      "priceBtc": 0.000003960974987331534
+      "priceBtc": 0.000057360275530724314
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 71,
-      "priceBtc": 0.0002968483685007067
+      "priceBtc": 0.00029698470668158025
     },
     {
-      "name": "Metaplex",
-      "symbol": "MPLX",
-      "marketCapRank": 538,
-      "priceBtc": 0.0000010063816646139005
-    },
-    {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012743772973325901
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "marketCapRank": 90,
+      "priceBtc": 0.00002360229136774173
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/Hack-PSU/sponsor/pull/547",
-      "createdAt": "2026-04-02T01:15:35Z"
+      "title": "feat(connector): [Adyen] add 10 flows (Authorize, PSync, Capture, Void, Refund, RSync, ...)",
+      "url": "https://github.com/juspay/hyperswitch-prism/pull/2553",
+      "createdAt": "2026-10-19T05:17:08Z"
     },
     {
-      "title": "feat: add the referral Perks tab (OK-65135)",
-      "url": "https://github.com/OneKeyHQ/app-monorepo/pull/14024",
-      "createdAt": "2026-10-20T10:20:47Z"
+      "title": "ENG-5247: Zama QA fixes for withdraw amount, deposit steps, batch timing and APY split",
+      "url": "https://github.com/stakekit/widget/pull/589",
+      "createdAt": "2026-10-20T07:45:19Z"
     },
     {
-      "title": "perf: read call input from the caller's memory",
-      "url": "https://github.com/alloy-rs/evm2/pull/714",
-      "createdAt": "2026-10-19T20:55:41Z"
+      "title": "chore: bump NanoBot submodule and refresh command stats",
+      "url": "https://github.com/therealjustsnow/portfolio-/pull/40",
+      "createdAt": "2026-07-15T07:52:16Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "fix(harnesses): grade Harbor cells from Harbor's result.json",
+      "url": "https://github.com/intel/dokimi/pull/111",
+      "createdAt": "2026-10-19T04:55:47Z"
     },
     {
-      "title": "⬆️ upgrade `lucide-react` to `v1`",
-      "url": "https://github.com/antoinekm/antoinek.fr/pull/697",
-      "createdAt": "2026-03-23T14:19:16Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "liquidity: SetTokenTuple percentage totals are summed in uint32 and can wrap to a valid sum",
-      "url": "https://github.com/zenon-network/go-zenon/issues/198",
-      "createdAt": "2026-10-20T10:38:41Z"
+      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
+      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
+      "createdAt": "2026-10-05T23:48:30Z"
     }
   ]
 }
