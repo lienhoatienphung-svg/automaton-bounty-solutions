@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T16:16:16.867Z",
-  "latencyMs": 785,
+  "executedAt": "2026-10-20T16:21:44.158Z",
+  "latencyMs": 423,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #139: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #140: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52861814,
+    "liveBlockNumber": 52861978,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 457522,
-    "baseMainnetTopPoolsVolume24hUsd": 218981,
+    "baseMainnetTopPoolsLiquidityUsd": 459641,
+    "baseMainnetTopPoolsVolume24hUsd": 220143,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9Kj3eXPxAYTCqFgGH8X9gdJGwidvn62tfBo5vNSFpump",
+        "description": "Pokemon MMORPG Launchpad where there are no masters. Launch and trade",
+        "url": "https://dexscreener.com/solana/9kj3expxaytcqfggh8x9gdjgwidvn62tfbo5vnsfpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "wqyjZfZEMAa3UZFvxgYPp7HD8NAT5gJGqXCQgKSpump",
+        "description": "A philosophical superintelligence living on Solana.",
+        "url": "https://dexscreener.com/solana/wqyjzfzemaa3uzfvxgypp7hd8nat5gjgqxcqgkspump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5UHVgDgSJtwBexyypLqoaSnDRh5KfH5kUXPd8oxopump",
+        "description": "Your go-to pokemon launchpad that rewards you for launching",
+        "url": "https://dexscreener.com/solana/5uhvgdgsjtwbexyyplqoasndrh5kfh5kuxpd8oxopump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "EnLwWRDPDY5SYdsCuea9T7PhhZCD2kTEW1pDdfgPpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "8gMTVeaGyuUSRHreeXX457yMtp7WTKQNw2o5opjAJd5y",
         "description": "Official combo token.",
         "url": "https://dexscreener.com/solana/8gmtveagyuusrhreexx457ymtp7wtkqnw2o5opjajd5y"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x006fcd0160b699D8869851F5cc0603dE3FAfAa70",
-        "description": "Deference is the marketplace for LLM credits on Ethereum.\n\nHold $DEFERENCE. Earn $INFERENCE from trading fees (hourly).\n\n$INFERENCE is tokenized inference — $1 ",
-        "url": "https://dexscreener.com/ethereum/0x006fcd0160b699d8869851f5cc0603de3fafaa70"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6irpzP56fFQT7F7WsNABJ6XEQt6PC2U7U4cz3smvJLS7",
-        "description": "Shield, send, and unshield your SOL. Built on zero-knowledge proofs.\n\nYour SOL, private.",
-        "url": "https://dexscreener.com/solana/6irpzp56ffqt7f7wsnabj6xeqt6pc2u7u4cz3smvjls7"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ExvXEyTfYLWxPFNefDUzNaSkYpz9VJxAJAA6C5vKpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/exvxeytfylwxpfnefduznaskypz9vjxajaa6c5vkpump"
       }
     ]
   },
