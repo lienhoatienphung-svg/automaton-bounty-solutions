@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T18:44:56.972Z",
-  "latencyMs": 607,
+  "executedAt": "2026-10-20T18:52:08.545Z",
+  "latencyMs": 1614,
   "companyName": "DeepPulse Unindexed API & Algora PR Bounty Harvester",
-  "workTitle": "Delivery Sprint #183: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
-  "targetUrl": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
+  "workTitle": "Growth & Sales Sprint #184: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "targetUrl": "https://polymarket.com/event/natoeu-troops-fighting-in-ukraine-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2211863,
-        "liquidityUsd": 67015,
+        "liquidityUsd": 67959,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059857,
-        "liquidityUsd": 270,
+        "liquidityUsd": 257,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1860335,
-        "liquidityUsd": 17538,
+        "liquidityUsd": 17504,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -82,7 +82,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 104841,
-        "volume24hUsd": 89192,
+        "volume24hUsd": 89182,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -102,8 +102,18 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21383,
-        "volume24hUsd": 94514,
+        "volume24hUsd": 94501,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
+      },
+      {
+        "pairAddress": "0x06959273E9A65433De71F5A452D529544E07dDD0",
+        "dexId": "uniswap",
+        "baseSymbol": "USDC",
+        "quoteSymbol": "USDbC",
+        "priceUsd": 0.9999,
+        "liquidityUsd": 12034,
+        "volume24hUsd": 3322,
+        "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
         "pairAddress": "0x29Ed55B18Af0Add137952CB3E29FB77B32fCE426",
@@ -114,16 +124,6 @@
         "liquidityUsd": 14836,
         "volume24hUsd": 746,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
-      },
-      {
-        "pairAddress": "0x06959273E9A65433De71F5A452D529544E07dDD0",
-        "dexId": "uniswap",
-        "baseSymbol": "USDC",
-        "quoteSymbol": "USDbC",
-        "priceUsd": 0.9999,
-        "liquidityUsd": 12034,
-        "volume24hUsd": 3319,
-        "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
   },
@@ -207,57 +207,57 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "HvS-Consulting GmbH",
-        "roleOrTask": "(Senior) Penetration Tester / Red Teamer (m/w/d)",
+        "company": "ElevenLabs",
+        "roleOrTask": "Full-Stack Engineer - ElevenMusic",
         "industryTags": [
-          "IT Security"
+          "Engineering & Product"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/hvs-consulting-gmbh/senior-penetration-tester-red-teamer-garching-77295",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevenmusic-401054",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "SAJ Digital Energy Germany GmbH",
-        "roleOrTask": "Solution & Service Manager",
+        "company": "ElevenLabs",
+        "roleOrTask": "Mobile Engineer - ElevenMusic",
         "industryTags": [
-          "Project Management"
+          "Engineering & Product"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/saj-digital-energy-germany-gmbh/solution-service-manager-frankfurt-am-main-141239",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-mobile-engineer-elevenmusic-390337",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "LunyOne GmbH",
-        "roleOrTask": "Campaign & Account Manager DACH – Mandarin (all genders)",
+        "company": "ElevenLabs",
+        "roleOrTask": "Full-Stack Engineer (Backend Leaning) - CoreMusic",
         "industryTags": [
-          "Marketing Manager"
+          "Engineering & Product"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/lunyone-gmbh/campaign-account-manager-dach-mandarin-all-genders-langenfeld-89852",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-coremusic-118556",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "audibene GmbH",
-        "roleOrTask": "Karrierewechsel mit Sinn Kundenberatung - Hörakustik Quereinstieg",
+        "company": "Cohere",
+        "roleOrTask": "Technical Program Manager, AI Delivery for Public Sector & Defense, Germany",
         "industryTags": [
-          "Customer Service"
+          "Product Management & Program Management"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/audibene-gmbh/karrierewechsel-mit-sinn-kundenberatung-horakustik-quereinstieg-leonberg-720",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/cohere/technical-program-manager-ai-delivery-for-public-sector-defense-germany-418557",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Römergarten Residenzen",
-        "roleOrTask": "Qualitätsmanagementbeauftragte im ZQM (m/w/d ) | Überregional | Vollzeit |",
+        "company": "praxipal",
+        "roleOrTask": "Customer Success Manager (m/f/d)",
         "industryTags": [
-          "Quality Management"
+          "Customer Success"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/romergarten-residenzen/qualitatsmanagementbeauftragte-im-zqm-uberregional-vollzeit-kindsbach-419496",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/praxipal/customer-success-manager-berlin-115206",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
