@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T22:44:38.270Z",
-  "latencyMs": 1279,
+  "executedAt": "2026-10-20T22:45:41.763Z",
+  "latencyMs": 683,
   "companyName": "OmniGig Multi-Industry B2B & E-Commerce Fulfillment",
-  "workTitle": "Growth & Sales Sprint #238: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #239: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21383,
-        "volume24hUsd": 97309,
+        "volume24hUsd": 96909,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -207,6 +207,43 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
+        "company": "Weiler Consult GmbH",
+        "roleOrTask": "Managing Consultant (m/w/d) Power BI, Customer Success mit Entscheidungsbefugnis",
+        "industryTags": [
+          "Remote",
+          "Management",
+          "Team Leader"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/managing-consultant-power-bi-customer-success-mit-entscheidungsbefugnis-berlin-391548",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Craftevo UG (haftungsbeschränkt)",
+        "roleOrTask": "Supportmitarbeiter (m/w/d) – 100 % Remote | Handwerkersoftware",
+        "industryTags": [
+          "Remote",
+          "Customer Service"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/craftevo-ug-haftungsbeschrankt/supportmitarbeiter-100-remote-handwerkersoftware-garrel-432156",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "TEILE Elektronik",
+        "roleOrTask": "Head of Finance / FP&A (m/w/d)",
+        "industryTags": [
+          "Management",
+          "Team Leader"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/teile-elektronik/head-of-finance-fpa-berlin-159328",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
         "company": "Flora Food Group",
         "roleOrTask": "Senior Nutritionist (m/f/d)",
         "industryTags": [],
@@ -223,43 +260,6 @@
         ],
         "compensation": "Instant Milestone USDC / Wire",
         "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/parity/senior-security-engineer-remote-196334",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "TEILE Elektronik",
-        "roleOrTask": "Head of Finance / FP&A (m/w/d)",
-        "industryTags": [
-          "Management",
-          "Team Leader"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/teile-elektronik/head-of-finance-fpa-freiburg-im-breisgau-417998",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Seeq",
-        "roleOrTask": "Senior Analytics Engineer - EMEA",
-        "industryTags": [
-          "Data Analyst",
-          "Computer Software",
-          "Analytics Engineering",
-          "Remote"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/seeq/remote-senior-analytics-engineer-emea-germany-207467",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "EuBiA",
-        "roleOrTask": "Standortentwickler (m/w/d)",
-        "industryTags": [
-          "Business Development"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/eubia/standortentwickler-berlin-223147",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
