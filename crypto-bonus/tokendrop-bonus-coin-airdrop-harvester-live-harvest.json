@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T20:56:44.667Z",
-  "latencyMs": 816,
+  "executedAt": "2026-10-20T20:58:55.652Z",
+  "latencyMs": 1256,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #212: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #213: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,24 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
-      "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
-      "createdAt": "2026-10-19T08:06:34Z"
-    },
-    {
-      "title": "fix(deps): update npm",
-      "url": "https://github.com/WarningImHack3r/svelte-changelog/pull/224",
-      "createdAt": "2026-09-02T12:02:39Z"
-    },
-    {
       "title": "Kimi K3 support",
       "url": "https://github.com/tpurtell/cuteafd/issues/273",
       "createdAt": "2026-10-15T06:49:01Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "[Refactor] speculative: Adopt shared request features in TPU spec workers",
+      "url": "https://github.com/sgl-project/sglang-torchtpu/pull/1527",
+      "createdAt": "2026-10-18T11:24:20Z"
     },
     {
       "title": "feat(tools): give each section its own path and make the rail's entries links",
@@ -290,9 +280,19 @@
       "createdAt": "2026-10-20T20:32:51Z"
     },
     {
-      "title": "[bug] Repository audit follow-ups: security, correctness, CI, and docs",
-      "url": "https://github.com/Boing-Network/boing.network/issues/61",
-      "createdAt": "2026-10-20T20:55:06Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "fix(deps): update npm",
+      "url": "https://github.com/WarningImHack3r/svelte-changelog/pull/224",
+      "createdAt": "2026-09-02T12:02:39Z"
+    },
+    {
+      "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
+      "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
+      "createdAt": "2026-10-19T08:06:34Z"
     }
   ]
 }
