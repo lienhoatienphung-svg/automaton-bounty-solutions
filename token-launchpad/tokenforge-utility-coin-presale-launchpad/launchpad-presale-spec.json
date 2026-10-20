@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T12:41:12.739Z",
-  "latencyMs": 679,
+  "executedAt": "2026-10-20T12:46:03.910Z",
+  "latencyMs": 420,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #71: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #72: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52855362,
+    "liveBlockNumber": 52855508,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 450119,
-    "baseMainnetTopPoolsVolume24hUsd": 199881,
+    "baseMainnetTopPoolsVolume24hUsd": 200115,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8Bm6eGHRWNjBybaKjPVuRggnfn5mf815y8FZEP2qpump",
+        "description": "Pixel monsters, real-time PvP, win streaks that pay. $ARENA",
+        "url": "https://dexscreener.com/solana/8bm6eghrwnjbybakjpvurggnfn5mf815y8fzep2qpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CWLamwkLtezbAzPAQMoiyCWMWM9NAgTtVRdyRxzpsX8A",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cwlamwkltezbazpaqmoiycwmwm9nagttvrdyrxzpsx8a"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0xf9C1BB763520B4826714eA410695DD7076987777",
@@ -69,18 +81,6 @@
         "tokenAddress": "GmyPS2NiJR4P7kZUVg93TXzLVzPYgsRozouHwm7qNruE",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/gmyps2nijr4p7kzuvg93txzlvzpygsrozouhwm7qnrue"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GZSCdvNQ8S3aKnZGhfVa2a9thN9VuQw3QqBD9Rfzpump",
-        "description": "AI agents decompile old games and programs one function at a time. A function counts only when gcc compiles the agent's C back to the original bytes. DOOM first",
-        "url": "https://dexscreener.com/solana/gzscdvnq8s3aknzghfva2a9thn9vuqw3qqbd9rfzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6J5P1H6yLUHuzEio9hQhufQEytar5bRAvMde8V48pump",
-        "description": "A scanner for predicting coins ath",
-        "url": "https://dexscreener.com/solana/6j5p1h6yluhuzeio9hqhufqeytar5bravmde8v48pump"
       }
     ]
   },
