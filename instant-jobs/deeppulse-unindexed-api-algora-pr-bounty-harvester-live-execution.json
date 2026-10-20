@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T09:43:13.462Z",
-  "latencyMs": 747,
+  "executedAt": "2026-10-20T09:49:44.532Z",
+  "latencyMs": 1142,
   "companyName": "DeepPulse Unindexed API & Algora PR Bounty Harvester",
-  "workTitle": "Delivery Sprint #1355: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
-  "targetUrl": "https://polymarket.com/event/china-x-india-military-clash-by-december-31",
+  "workTitle": "Growth & Sales Sprint #1354: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "targetUrl": "https://polymarket.com/event/natoeu-troops-fighting-in-ukraine-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656688,
-        "liquidityUsd": 36938,
+        "liquidityUsd": 37382,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501899,
-        "liquidityUsd": 18306,
+        "liquidityUsd": 18863,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2210272,
-        "liquidityUsd": 58328,
+        "liquidityUsd": 59718,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059857,
-        "liquidityUsd": 264,
+        "liquidityUsd": 223,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1858167,
-        "liquidityUsd": 19855,
+        "liquidityUsd": 19730,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -92,7 +92,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000034,
         "liquidityUsd": 140050,
-        "volume24hUsd": 8629,
+        "volume24hUsd": 6382,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000016,
         "liquidityUsd": 21384,
-        "volume24hUsd": 70390,
+        "volume24hUsd": 69999,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -207,59 +207,57 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "levelbuild AG",
-        "roleOrTask": "Technical Consultant (m/w/d)",
+        "company": "dkbcodefactory",
+        "roleOrTask": "Junior Android Developer",
         "industryTags": [
-          "IT"
+          "Technology & Infrastructure"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/levelbuild-ag/technical-consultant-leipzig-81802",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/junior-android-developer-berlin-367608",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "much. GmbH",
-        "roleOrTask": "Senior IT Consultant / Senior Business Analyst (m/w/d)",
+        "company": "gitlab",
+        "roleOrTask": "Regional Sales Director",
         "industryTags": [
-          "Business Analyst"
+          "EMEA - Enterprise"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/much-gmbh/senior-it-consultant-senior-business-analyst-munich-180122",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-regional-sales-director-142142",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "much. GmbH",
-        "roleOrTask": "Senior ERP Consultant (m/w/d)",
+        "company": "Commvault",
+        "roleOrTask": "Enterprise Account Executive (Germany South)",
         "industryTags": [
-          "SAP/ERP Consulting",
-          "Development"
+          "Field Sales Rep - Front Line"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/much-gmbh/senior-erp-consultant-munich-434285",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/commvault/enterprise-account-executive-germany-south-210861",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Smava GmbH",
-        "roleOrTask": "Bankkaufmann/-frau - als Kreditspezialist im Homeoffice (m/w/d)",
+        "company": "Commvault",
+        "roleOrTask": "Enterprise Account Executive (Central Germany)",
         "industryTags": [
-          "Remote",
-          "Credit Analysis"
+          "Field Sales Rep - Front Line"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/bankkaufmann-frau-als-kreditspezialist-im-homeoffice-berlin-64488",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/commvault/enterprise-account-executive-central-germany-frankfurt-37578",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "V-HEAL GmbH",
-        "roleOrTask": "Teamleiter (w/m/d) Kundenberatung Hygiene und technische Mikrobiologie",
+        "company": "Agilerobotsse",
+        "roleOrTask": "Working Student (m/f/d) -  Data Engineer & Software Developer (Research Analytics)",
         "industryTags": [
-          "Customer Service"
+          "Research Partnerships"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/v-heal-gmbh/teamleiter-kundenberatung-hygiene-und-technische-mikrobiologie-offenburg-105668",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/working-student-data-engineer-software-developer-research-analytics-munich-bavaria-406891",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
