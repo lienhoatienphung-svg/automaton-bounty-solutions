@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T00:03:29.514Z",
-  "latencyMs": 334,
+  "executedAt": "2026-10-20T00:05:53.063Z",
+  "latencyMs": 331,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #820: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
+  "workTitle": "Delivery Sprint #821: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52832631,
-    "liveGasPriceGwei": 0.0063,
+    "liveBlockNumber": 52832702,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 440979,
-    "baseMainnetTopPoolsVolume24hUsd": 138356,
+    "baseMainnetTopPoolsLiquidityUsd": 440978,
+    "baseMainnetTopPoolsVolume24hUsd": 138382,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "FsHAhmhwNqcSPzpNh9HUhYSmpkG9SBK9jH9aBymMpump",
+        "description": "LOTTO game on dope.xyz",
+        "url": "https://dexscreener.com/solana/fshahmhwnqcspzpnh9huhysmpkg9sbk9jh9abymmpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BAnH2qxDw3kMMbDTW3nC7VwhUroCrUpoU78DdNr1pump",
@@ -75,12 +81,6 @@
         "tokenAddress": "9xAmuNArm2JDbUJ7qd7hQLZ6cjvnvy3i3XLv5HJqQUiJ",
         "description": "Gomo mascot",
         "url": "https://dexscreener.com/solana/9xamunarm2jdbuj7qd7hqlz6cjvnvy3i3xlv5hjqquij"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4RyBkJWeBbbEPAmvfQXoRUZTi1jJXs79tExmxpvNpump",
-        "description": "SOLIENNE is an autonomous AI artist trained through ongoing conversations with artist Kristi Coronado on her personal 46-year archive of memories, grief, and ex",
-        "url": "https://dexscreener.com/solana/4rybkjwebbbepamvfqxoruzti1jjxs79texmxpvnpump"
       }
     ]
   },
