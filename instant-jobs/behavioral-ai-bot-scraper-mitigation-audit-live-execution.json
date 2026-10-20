@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-20T13:41:40.294Z",
-  "latencyMs": 591,
+  "executedAt": "2026-10-20T13:45:43.384Z",
+  "latencyMs": 1089,
   "companyName": "Behavioral AI Bot & Scraper Mitigation Audit",
-  "workTitle": "Delivery Sprint #105: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
-  "targetUrl": "https://polymarket.com/event/china-x-india-military-clash-by-december-31",
+  "workTitle": "Growth & Sales Sprint #106: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656688,
-        "liquidityUsd": 37382,
+        "liquidityUsd": 37481,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2211863,
-        "liquidityUsd": 67037,
+        "liquidityUsd": 66960,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -53,8 +53,8 @@
       {
         "eventId": "18558",
         "title": "Ukraine election called by...?",
-        "volumeUsd": 1859886,
-        "liquidityUsd": 15450,
+        "volumeUsd": 1860335,
+        "liquidityUsd": 15445,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -72,7 +72,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 101864,
-        "volume24hUsd": 90444,
+        "volume24hUsd": 90443,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21383,
-        "volume24hUsd": 89511,
+        "volume24hUsd": 89763,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -122,7 +122,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000025,
         "liquidityUsd": 12034,
-        "volume24hUsd": 1885,
+        "volume24hUsd": 1878,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
@@ -207,6 +207,40 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
+        "company": "PLUTEX GmbH",
+        "roleOrTask": "Linux - Systemadministrator:in",
+        "industryTags": [
+          "System and Network Administration"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/plutex-gmbh/linux-systemadministratorin-bremen-220186",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Barz-Bürodienstleistung",
+        "roleOrTask": "Recruiter (m/w/d) - Headhunter (w/m/d) - nur für unser Unternehmen - Remote",
+        "industryTags": [
+          "Remote",
+          "Recruitment and Selection"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/barz-burodienstleistung/recruiter-headhunter-nur-fur-unser-unternehmen-remote-konz-458655",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "TDJ Stadtgärtner GmbH",
+        "roleOrTask": "Mitarbeiter Kundensupport (m/w/d) in Teilzeit (inkl. Homeoffice)",
+        "industryTags": [
+          "Customer Service"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/tdj-stadtgartner-gmbh/mitarbeiter-kundensupport-in-teilzeit-inkl-homeoffice-lubeck-100725",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
         "company": "Vexcash AG",
         "roleOrTask": "Systems Analyst/ IT Project Manager as Freelancer (all genders)",
         "industryTags": [
@@ -227,41 +261,6 @@
         ],
         "compensation": "Instant Milestone USDC / Wire",
         "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/quality-and-assurance-manager-as-freelancer-all-genders-berlin-432924",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Elbphilharmonie und Laeiszhalle Betriebsgesellschaft mbH",
-        "roleOrTask": "Haus- und Veranstaltungstechniker (m/w/div.) in der Laeiszhalle",
-        "industryTags": [
-          "Building",
-          "Supply",
-          "Safety Services Engineering"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/elbphilharmonie-und-laeiszhalle-betriebsgesellschaft-mbh/haus-und-veranstaltungstechniker-iv-in-der-laeiszhalle-hamburg-406728",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Riverstate Premium Recruiting",
-        "roleOrTask": "Senior Projektsteuerer (m/w/d)",
-        "industryTags": [
-          "Project Management"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/senior-projektsteuerer-munster-394351",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "raisin",
-        "roleOrTask": "People Analytics Manager (m/f/d)",
-        "industryTags": [
-          "People and Culture"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/raisin/people-analytics-manager-berlin-berlin-18317",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
