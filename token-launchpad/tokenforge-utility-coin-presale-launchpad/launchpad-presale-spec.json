@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T20:01:34.268Z",
-  "latencyMs": 342,
+  "executedAt": "2026-10-20T20:08:27.166Z",
+  "latencyMs": 361,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #197: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #198: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52868573,
+    "liveBlockNumber": 52868779,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 460395,
-    "baseMainnetTopPoolsVolume24hUsd": 212104,
+    "baseMainnetTopPoolsVolume24hUsd": 212025,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "G9fJWwVZJ5jYVpt5bfExJYcT1UidG1iVJg5jTdoHxvSj",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/g9fjwwvzj5jyvpt5bfexjyct1uidg1ivjg5jtdohxvsj"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FTPSUJUNMPPeYdwfoPawZYP7WHDQWctGyYR7ag8tpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "5qNHR5NVn76yGWvpUv66fcJ8KnD3ePm4JVctqGPkpump",
         "description": "The Future of Finance",
         "url": "https://dexscreener.com/solana/5qnhr5nvn76ygwvpuv66fcj8knd3epm4jvctqgpkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "39WWF7gcvFSsDxqNfaoX9QpARijg8bvoMrrJshz5pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/39wwf7gcvfssdxqnfaox9qparijg8bvomrrjshz5pump"
       }
     ]
   },
