@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T13:00:02.778Z",
-  "latencyMs": 1283,
+  "executedAt": "2026-10-20T13:01:52.848Z",
+  "latencyMs": 1331,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #78: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #79: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "[WIP] Support PPO with shared actor and critic packing",
+      "url": "https://github.com/InternLM/xtuner/pull/2186",
+      "createdAt": "2026-10-16T08:06:54Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "feat(analytics): track staking and yield transaction outcomes",
+      "url": "https://github.com/trezor/trezor-suite/pull/33748",
+      "createdAt": "2026-10-20T10:28:16Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide-react to v1.60.0",
+      "url": "https://github.com/chrisye96/k-tools/pull/15",
+      "createdAt": "2026-09-21T11:48:05Z"
+    },
+    {
       "title": "Add evolutionary-optimization-llms-long-horizon task",
       "url": "https://github.com/scaleapi/rsi-benchmark/pull/94",
       "createdAt": "2026-10-18T10:27:55Z"
@@ -273,26 +293,6 @@
       "title": "fix(oneplay): verify official skill hash and server-issued payloads",
       "url": "https://github.com/imjlk/mpgd-kit/pull/401",
       "createdAt": "2026-10-20T12:18:44Z"
-    },
-    {
-      "title": "feat(ios): add experimental Swift/WKWebView iOS app",
-      "url": "https://github.com/Gang-of-Beads/open-teams/pull/1",
-      "createdAt": "2026-10-20T10:03:54Z"
-    },
-    {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/53",
-      "createdAt": "2026-10-20T02:41:45Z"
-    },
-    {
-      "title": "chore(deps): update dependency lucide-react to v1.60.0",
-      "url": "https://github.com/chrisye96/k-tools/pull/15",
-      "createdAt": "2026-09-21T11:48:05Z"
-    },
-    {
-      "title": "ci(regtest): add the nightly hosted and local e2e workflow",
-      "url": "https://github.com/qntx/spark/pull/43",
-      "createdAt": "2026-10-20T11:33:05Z"
     }
   ]
 }
