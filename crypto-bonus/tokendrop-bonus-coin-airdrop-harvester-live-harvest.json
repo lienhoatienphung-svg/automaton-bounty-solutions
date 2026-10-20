@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T13:11:13.536Z",
-  "latencyMs": 921,
+  "executedAt": "2026-10-20T13:12:04.422Z",
+  "latencyMs": 937,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #82: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #83: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(mocks): issuer-agnostic mock RFQ venue and mAAPL for testnets",
+      "url": "https://github.com/Assetera-AG/AsseteraEvmContracts/pull/106",
+      "createdAt": "2026-10-20T11:21:01Z"
+    },
+    {
       "title": "Add missing test for batch_claim_reward in integration context",
       "url": "https://github.com/ChainLearnOfficial/chainlearn-contracts/issues/577",
       "createdAt": "2026-10-14T15:24:11Z"
+    },
+    {
+      "title": "docs(kitchen): add sink and drying station benchmark",
+      "url": "https://github.com/Luminous-Dynamics/symtropy/pull/2325",
+      "createdAt": "2026-10-20T13:09:50Z"
     },
     {
       "title": "ADD: SwiftUI Files previews for vaults, transactions, PSBTs, and labels",
@@ -283,16 +293,6 @@
       "title": "KITCHEN-STATION-001: low-water, splash-aware sink and passive-first drying station",
       "url": "https://github.com/Luminous-Dynamics/symtropy/issues/2324",
       "createdAt": "2026-10-20T13:07:26Z"
-    },
-    {
-      "title": "[Feature] Support PPO with shared actor and critic packing",
-      "url": "https://github.com/InternLM/xtuner/pull/2186",
-      "createdAt": "2026-10-16T08:06:54Z"
-    },
-    {
-      "title": "Migrate from the deprecated cardano-api TxBody API to Cardano.Api.Experimental",
-      "url": "https://github.com/cardano-scaling/hydra/issues/2896",
-      "createdAt": "2026-10-08T06:50:24Z"
     }
   ]
 }
