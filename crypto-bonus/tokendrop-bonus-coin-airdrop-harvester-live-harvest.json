@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T14:00:14.198Z",
-  "latencyMs": 1990,
+  "executedAt": "2026-10-20T14:01:23.393Z",
+  "latencyMs": 2064,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #100: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Sothebyâs: Senior Software Engine",
+  "workTitle": "Delivery Sprint #101: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "EGGU is an independent Solana community token paired directly with PENGU.\n🥚 EGGU → 🐧 PENGU\nThrough StonkFun’s built-in reward system, eligible EGGU holders ca",
+      "url": "https://dexscreener.com/solana/49vznzqvkcsgajj8k9xrezdztlrdv5rzn9yythg53czn"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "ESnW5ZbLmoEAg2QEMxnMsY9R3aS8Kw58HJacYURmpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "viral meme. 10M+ views. we’re all texcat.\neverything is fine.™",
       "url": "https://dexscreener.com/solana/bdxflfcbde8yvpbvvmmgtduqcdesaqvum5xlxguc2s5t"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "EaxAUcXxNnVwcqm2BBocbows7D1XVY2Q63V38NEypump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "The OG ***** memecoin, powered by the community and built around the ***** ***** **** ** narrative. Unofficial.",
-      "url": "https://dexscreener.com/solana/eaxaucxxnnvwcqm2bbocbows7d1xvy2q63v38neypump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -270,6 +270,11 @@
       "createdAt": "2026-10-20T12:18:44Z"
     },
     {
+      "title": "fix: reject simple fee schedules missing extras the fee calculators charge",
+      "url": "https://github.com/hiero-ledger/hiero-consensus-node/pull/27657",
+      "createdAt": "2026-10-16T09:56:24Z"
+    },
+    {
       "title": "Add DeepSeek V4.1 Flash rank-32 LoRA recipe and 32K validation",
       "url": "https://github.com/modal-projects/modal-dojo/pull/724",
       "createdAt": "2026-10-20T13:55:51Z"
@@ -288,11 +293,6 @@
       "title": "chore(deps): update dependency ethers to v6",
       "url": "https://github.com/paypr/message-contracts/pull/134",
       "createdAt": "2023-02-03T05:56:09Z"
-    },
-    {
-      "title": "feat(analytics): track staking and yield transaction outcomes",
-      "url": "https://github.com/trezor/trezor-suite/pull/33748",
-      "createdAt": "2026-10-20T10:28:16Z"
     }
   ]
 }
