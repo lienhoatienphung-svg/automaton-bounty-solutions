@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T16:01:21.462Z",
-  "latencyMs": 605,
+  "executedAt": "2026-10-20T16:07:23.137Z",
+  "latencyMs": 346,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #135: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #136: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52861367,
+    "liveBlockNumber": 52861547,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 457521,
-    "baseMainnetTopPoolsVolume24hUsd": 215095,
+    "baseMainnetTopPoolsVolume24hUsd": 216399,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x006fcd0160b699D8869851F5cc0603dE3FAfAa70",
+        "description": "Deference is the marketplace for LLM credits on Ethereum.\n\nHold $DEFERENCE. Earn $INFERENCE from trading fees (hourly).\n\n$INFERENCE is tokenized inference — $1 ",
+        "url": "https://dexscreener.com/ethereum/0x006fcd0160b699d8869851f5cc0603de3fafaa70"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6irpzP56fFQT7F7WsNABJ6XEQt6PC2U7U4cz3smvJLS7",
+        "description": "Shield, send, and unshield your SOL. Built on zero-knowledge proofs.\n\nYour SOL, private.",
+        "url": "https://dexscreener.com/solana/6irpzp56ffqt7f7wsnabj6xeqt6pc2u7u4cz3smvjls7"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "ExvXEyTfYLWxPFNefDUzNaSkYpz9VJxAJAA6C5vKpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "DYxJc5Wb7XD1npHaRMFak2XPyHPDkrM6yx3UeLednDMh",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/dyxjc5wb7xd1npharmfak2xpyhpdkrm6yx3ueledndmh"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x1422338Ed2904bceE39CFe7917F945cFc15b86dE",
-        "description": "Consumer AI for frontier models at lower prices. Buy discounted AI credits, use them across leading models, and sell what you don’t use.",
-        "url": "https://dexscreener.com/robinhood/0x1422338ed2904bcee39cfe7917f945cfc15b86de"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6TnNgprbRAFk3SApRw4rkLGkeUamVpSuUup8GAtNpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6tnngprbrafk3saprw4rklgkeuamvpsuuup8gatnpump"
       }
     ]
   },
