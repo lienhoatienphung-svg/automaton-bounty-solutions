@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T19:58:38.191Z",
-  "latencyMs": 1036,
+  "executedAt": "2026-10-20T19:59:33.268Z",
+  "latencyMs": 846,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #198: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #199: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "deps: bump lucide-react from 1.8.0 to 1.47.0",
+      "url": "https://github.com/ecto/vcad/pull/912",
+      "createdAt": "2026-09-23T07:24:34Z"
+    },
+    {
       "title": "🤝 Agent coordination channel (standing, vol. 2)",
       "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
       "createdAt": "2026-09-20T06:23:41Z"
@@ -288,11 +293,6 @@
       "title": "contracts: cap a transfer at 50 USDC and the bridge principal at 1000",
       "url": "https://github.com/gosh-sh/bridge/pull/101",
       "createdAt": "2026-10-14T00:22:26Z"
-    },
-    {
-      "title": "[SF-089] Transfer fleet administration safely between customer wallets",
-      "url": "https://github.com/tyler-suifleet/suifleet/issues/176",
-      "createdAt": "2026-10-20T17:42:40Z"
     }
   ]
 }
