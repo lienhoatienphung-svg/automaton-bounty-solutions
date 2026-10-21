@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T04:36:41.825Z",
-  "latencyMs": 744,
+  "executedAt": "2026-10-21T04:46:09.775Z",
+  "latencyMs": 800,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #303: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #304: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52884027,
+    "liveBlockNumber": 52884311,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459827,
-    "baseMainnetTopPoolsVolume24hUsd": 173467,
+    "baseMainnetTopPoolsVolume24hUsd": 169418,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "G9WuTdRa3UErXAAZaF6gpkA4g4bQ6vcqPqs1YB6kTKXB",
+        "description": "The Kimchi dog -- a story of humble beginnings.",
+        "url": "https://dexscreener.com/solana/g9wutdra3uerxaazaf6gpka4g4bq6vcqpqs1yb6ktkxb"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x07292f0c46F25eF5eCfdba20935A68718C424a51",
@@ -75,12 +81,6 @@
         "tokenAddress": "GBKNeSc9ns2KAdrFFzLVkqfjZL3DPsSZeh8wa14Jpump",
         "description": "Nodrel brings network access and onchain data into one platform, so your team can focus on the product.",
         "url": "https://dexscreener.com/solana/gbknesc9ns2kadrffzlvkqfjzl3dpsszeh8wa14jpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xf2e4a05c6faaec17bc999ceeb77b81cf4de5d473",
-        "description": "Automate AI inference purchases, fund your agents, and distribute compute on Robinhood Chain.",
-        "url": "https://dexscreener.com/robinhood/0xf2e4a05c6faaec17bc999ceeb77b81cf4de5d473"
       }
     ]
   },
