@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T13:03:33.444Z",
-  "latencyMs": 257,
+  "executedAt": "2026-10-21T13:15:36.066Z",
+  "latencyMs": 414,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #381: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #382: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52899233,
+    "liveBlockNumber": 52899594,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459840,
-    "baseMainnetTopPoolsVolume24hUsd": 125876,
+    "baseMainnetTopPoolsLiquidityUsd": 430911,
+    "baseMainnetTopPoolsVolume24hUsd": 145189,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x3527212926471D19D88ffbaD8CF83505735c496d",
+        "description": "A programmable equity layer. Tokenized stocks, capital markets infrastructure & onchain financial primitives.",
+        "url": "https://dexscreener.com/robinhood/0x3527212926471d19d88ffbad8cf83505735c496d"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3H5y8ViY6MKXN5zyWzXQznfdS83Q45QqBCGsGTp7pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/3h5y8viy6mkxn5zywzxqznfds83q45qqbcgsgtp7pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6bxBZwvU4gMWKFMViGAnHSsdJChixyCUwV1VB8wnpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0xA8Ba1e1AEba6c27BD76caF09FDA020e658641343",
         "description": "A Nvidia owned company, created by Hugging Face, launched the viral microduck. \n\nSoon to be in every house in the world.",
         "url": "https://dexscreener.com/robinhood/0xa8ba1e1aeba6c27bd76caf09fda020e658641343"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "F1szJ3xM9GEEJ8sZjewirpAMjAKDPKR5ZnQJ775dpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/f1szj3xm9geej8szjewirpamjakdpkr5znqj775dpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "67xA5fT1qLYqCycwBtyZmA5AmPnJChhUUBJfDLy2pump",
-        "description": "Ten Tokens, One Ticker. The Index of @Solana",
-        "url": "https://dexscreener.com/solana/67xa5ft1qlyqcycwbtyzma5ampnjchhuubjfdly2pump"
       }
     ]
   },
