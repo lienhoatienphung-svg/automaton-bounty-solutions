@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-21T04:39:39.946Z",
-  "latencyMs": 581,
+  "executedAt": "2026-10-21T04:48:42.651Z",
+  "latencyMs": 615,
   "companyName": "FlashSpread Cross-DEX Liquidity & Arbitrage",
-  "workTitle": "Delivery Sprint #309: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
-  "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
+  "workTitle": "Growth & Sales Sprint #310: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
+  "targetUrl": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2656790,
-        "liquidityUsd": 38238,
+        "liquidityUsd": 38904,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501899,
-        "liquidityUsd": 18351,
+        "liquidityUsd": 18352,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2212354,
-        "liquidityUsd": 70816,
+        "liquidityUsd": 69272,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059857,
-        "liquidityUsd": 256,
+        "liquidityUsd": 269,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1860857,
-        "liquidityUsd": 19784,
+        "liquidityUsd": 19828,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21384,
-        "volume24hUsd": 77965,
+        "volume24hUsd": 76291,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -112,7 +112,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 12034,
-        "volume24hUsd": 3548,
+        "volume24hUsd": 3543,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
@@ -207,6 +207,17 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
+        "company": "Nordmut GmbH",
+        "roleOrTask": "Junior Marketplace Manager (E-Commerce) (m/w/d)| Flexible Remote-Option",
+        "industryTags": [
+          "Online Marketing"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/nordmut-gmbh/junior-marketplace-manager-e-commerce-flexible-remote-option-hamburg-52362",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
         "company": "Verve",
         "roleOrTask": "Senior Sales Manager - Media (m/w/d)",
         "industryTags": [
@@ -247,17 +258,6 @@
         ],
         "compensation": "Instant Milestone USDC / Wire",
         "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/werkstudent-in-finance-fordermittelmanagement-aachen-311329",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Cosuno",
-        "roleOrTask": "Senior Talent Acquisition Manager – Commercial (f/m/d)",
-        "industryTags": [
-          "Talent Acquisition"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-talent-acquisition-manager-commercial-berlin-216740",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
