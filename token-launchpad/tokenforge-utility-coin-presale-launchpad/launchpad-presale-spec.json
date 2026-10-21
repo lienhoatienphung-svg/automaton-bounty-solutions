@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T05:20:33.586Z",
-  "latencyMs": 265,
+  "executedAt": "2026-10-21T05:21:56.979Z",
+  "latencyMs": 366,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #310: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
+  "workTitle": "Delivery Sprint #311: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52885343,
+    "liveBlockNumber": 52885384,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459833,
-    "baseMainnetTopPoolsVolume24hUsd": 148571,
+    "baseMainnetTopPoolsVolume24hUsd": 148625,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7wY4rfVsUcNcwKcrLw6CHazzXw4bihcwP73ynj6jpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7wy4rfvsucncwkcrlw6chazzxw4bihcwp73ynj6jpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7KBuwAcjRazXBFVdVtYegX5mTvHK2zjwJedgZDe8pump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x07292f0c46F25eF5eCfdba20935A68718C424a51",
         "description": "Real-time Uniswap v4 analytics, hook intelligence, and launchpad aggregator.\nTrack live pools, swaps, and v4 token launches in one place—with decoded hook permi",
         "url": "https://dexscreener.com/robinhood/0x07292f0c46f25ef5ecfdba20935a68718c424a51"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "fUP4mNub1ipk5xLxyvdHZoXtVuR4Yj9PyTcVQPPpump",
-        "description": "Pepe final boss by Real $Pepe Dev ( 10 billion ath )",
-        "url": "https://dexscreener.com/solana/fup4mnub1ipk5xlxyvdhzoxtvur4yj9pytcvqpppump"
       }
     ]
   },
