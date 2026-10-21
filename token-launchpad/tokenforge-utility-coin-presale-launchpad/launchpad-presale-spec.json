@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T10:48:23.724Z",
-  "latencyMs": 416,
+  "executedAt": "2026-10-21T10:59:12.326Z",
+  "latencyMs": 371,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #361: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #362: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52895178,
+    "liveBlockNumber": 52895502,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459838,
-    "baseMainnetTopPoolsVolume24hUsd": 140742,
+    "baseMainnetTopPoolsLiquidityUsd": 459839,
+    "baseMainnetTopPoolsVolume24hUsd": 142852,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HuShD8S8AqrFGDWeqtkm3oJAdQyWkRgaHRZ1jZFBFuNd",
+        "description": "HUSHFUND ($HUSH) is a community holders coin on Solana that distributes ZEC-denominated rewards to eligible holders through trading fees.\n\nMeet Hush: a little h",
+        "url": "https://dexscreener.com/solana/hushd8s8aqrfgdweqtkm3ojadqywkrgahrz1jzfbfund"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Eb2i5vHczEoXzt3uDkMGcscLZX6qii4yySJqcGCRpump",
+        "description": "There is no office. There is no client\n\nThere is one decision left",
+        "url": "https://dexscreener.com/solana/eb2i5vhczeoxzt3udkmgcsclzx6qii4yysjqcgcrpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5UxPc1WtxQPUXCfMZJFhhbvqNsbULEHRwYfMjyfEpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x32292c8Dea05CC0C280106523ff3b193A2d4eF5B",
         "description": "The protocol for hidden leverage.\n\nYour liquidation price is public on every chain. Mutexa hides it",
         "url": "https://dexscreener.com/robinhood/0x32292c8dea05cc0c280106523ff3b193a2d4ef5b"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3H48TVZq4atygPq3dqtNrgH2RKJJpZjLPoU3TjyL2R2f",
-        "description": "HALLOWEEN + INU = $INUWEEN \n\nThe perfect fusion of spooky season and legendary INU culture.\n\nTwo powerful metas. One unforgettable name.",
-        "url": "https://dexscreener.com/solana/3h48tvzq4atygpq3dqtnrgh2rkjjpzjlpou3tjyl2r2f"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7ZZKp8RpdWEuvHGXqdj9yKCv47rnxtKV27gnpCBLpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7zzkp8rpdweuvhgxqdj9ykcv47rnxtkv27gnpcblpump"
       }
     ]
   },
