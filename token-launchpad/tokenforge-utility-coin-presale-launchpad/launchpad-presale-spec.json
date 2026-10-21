@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T18:50:18.839Z",
-  "latencyMs": 324,
+  "executedAt": "2026-10-21T19:03:30.358Z",
+  "latencyMs": 337,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #429: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #430: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52909635,
-    "liveGasPriceGwei": 0.006,
+    "liveBlockNumber": 52910031,
+    "liveGasPriceGwei": 0.0061,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459822,
-    "baseMainnetTopPoolsVolume24hUsd": 141145,
+    "baseMainnetTopPoolsVolume24hUsd": 141895,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "vofbjQG4x2uJBKSe1QLkk6tsjpNk1wwZUucGmp73mab",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/vofbjqg4x2ujbkse1qlkk6tsjpnk1wwzuucgmp73mab"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FrWsoz8b3ySwcARforVsEzhCrq1Ww42r7LThqHZYpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/frwsoz8b3yswcarforvsezhcrq1ww42r7lthqhzypump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CaRCU7dm1Wz4MkxwpuKNgSWvprWxQsG4cCDpNo8rpump",
+        "description": "The Yellow Bull",
+        "url": "https://dexscreener.com/solana/carcu7dm1wz4mkxwpukngswvprwxqsg4ccdpno8rpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x7611890Fa38Cb21076AAd0e8A1737Ecb41092f78",
@@ -63,24 +81,6 @@
         "tokenAddress": "Hz9oYp8rX9GcACLE8hbYwdJvgmxQhdyzqSzZBTQ2pump",
         "description": "SHUFL turns trading fees into real graded collectible cards. Fees fund the vault, cards enter sealed packs, and holders bid $SHUFL to win them. Winning bids are",
         "url": "https://dexscreener.com/solana/hz9oyp8rx9gcacle8hbywdjvgmxqhdyzqszzbtq2pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5v6HJ5uWYzhU6FggA9qd4Qwhun6t2snWgL4R4N4Apump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5v6hj5uwyzhu6fgga9qd4qwhun6t2snwgl4r4n4apump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "E87GHFj823bqtMUfgjYYdWM84X2kwUx8RrkLkqSGpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/e87ghfj823bqtmufgjyydwm84x2kwux8rrklkqsgpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Dna9AWXP9sEinbqGXExdxweQFeMRQUpMxQX9nZ6ppump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/dna9awxp9seinbqgxexdxweqfemrqupmxqx9nz6ppump"
       }
     ]
   },
