@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T05:05:04.997Z",
-  "latencyMs": 855,
+  "executedAt": "2026-10-21T05:06:14.647Z",
+  "latencyMs": 1404,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #310: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
+  "workTitle": "Delivery Sprint #311: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix: harden serve input screening, data-safety flows, incremental cursors and CDC positions (#930 critical + high)",
+      "url": "https://github.com/faucet-hq/faucet-stream/pull/931",
+      "createdAt": "2026-10-21T02:24:00Z"
+    },
+    {
+      "title": "rnd 1.1.23.1.17: newsletter issue 19, passes that weren't",
+      "url": "https://github.com/mcp-tool-shop-org/rnd/pull/201",
+      "createdAt": "2026-10-21T05:05:41Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "Restore token dashboards and authorize ELECTRIC pot claims",
+      "url": "https://github.com/CyberAshven/pickaxe-miner/pull/65",
+      "createdAt": "2026-10-19T17:45:16Z"
+    },
+    {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
@@ -273,26 +293,6 @@
       "title": "Task 3 (ledger-016): sysSide, escrow, accruals, cpPolicy, E-16, E-17 INV-LED-027, QA pr3i",
       "url": "https://github.com/Aiouyn/trading-game/pull/6",
       "createdAt": "2026-10-20T23:44:56Z"
-    },
-    {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
-    },
-    {
-      "title": "Restore token dashboards and authorize ELECTRIC pot claims",
-      "url": "https://github.com/CyberAshven/pickaxe-miner/pull/65",
-      "createdAt": "2026-10-19T17:45:16Z"
-    },
-    {
-      "title": "Badges: six new kinds (languages, calls, Echo, kind words, people helped, first replies)",
-      "url": "https://github.com/langx/langx/pull/1897",
-      "createdAt": "2026-10-21T04:02:02Z"
-    },
-    {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
     }
   ]
 }
