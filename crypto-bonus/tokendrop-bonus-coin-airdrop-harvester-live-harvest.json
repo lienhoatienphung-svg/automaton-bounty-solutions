@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T08:44:07.855Z",
-  "latencyMs": 1309,
+  "executedAt": "2026-10-21T08:55:53.615Z",
+  "latencyMs": 983,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #345: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #346: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "4hbHSyn4vxJ5wPfbayqT2qDGUaE33AijJe1Ty9q6pump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Trader Kimchi has been planted by pumpfun and are extracting millions off the trenches.\n\nThis is the real (spicy) aura boss. \nThis one is for the trenches.",
+      "url": "https://dexscreener.com/solana/4hbhsyn4vxj5wpfbayqt2qdguae33aijje1ty9q6pump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "9gApkc4LJfLpefnV1J5BhPgzRktyrtbh59NYB9kYZkCE",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Launch in the shadows\n\nDiscover in the Open\n\npumpanon",
+      "url": "https://dexscreener.com/solana/9gapkc4ljflpefnv1j5bhpgzrktyrtbh59nyb9kyzkce"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "4tieigPJCAQbw1C9wBLtg9QZGgPFeuyibRD6Hi2spump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/blhg3yk7jvdkkv1z3bpv7o1t2xnzmxazpzmpvpnppump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "6hvs6yMz32JsNwof7pQige8aivr6jtd7JVYKkANJpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "I MEMED MYSELF! I AM CODEWORD CRAZY ON TIKTOK! LIVESTREAMS ON PUMP.FUN AND TIKTOK WITH CRYPTO NEWS, POWER LIFTING AT THE GYM, CALL INS, AND REACTIONS! NOW LET’S",
-      "url": "https://dexscreener.com/solana/6hvs6ymz32jsnwof7pqige8aivr6jtd7jvykkanjpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "6KjWBTqdRhD7XKn7poB8DfHgSWZkakPuea32jsPweRpS",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Stock perps powered by Hyperliquid. Bringing you markets that never close.",
-      "url": "https://dexscreener.com/solana/6kjwbtqdrhd7xkn7pob8dfhgswzkakpuea32jspwerps"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.00002649038592956375
+      "priceBtc": 0.000026481569032340517
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 112,
-      "priceBtc": 9.754414959118407e-8
+      "priceBtc": 9.775902559298e-8
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 720,
-      "priceBtc": 0.0010685452774811762
+      "marketCapRank": 726,
+      "priceBtc": 0.0010674244281833147
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
       "marketCapRank": 141,
-      "priceBtc": 0.0000042228940823988265
+      "priceBtc": 0.00000422754686496308
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.0000622548812380131
+      "priceBtc": 0.00006270851452115588
     },
     {
       "name": "Sui",
       "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.000012380336086447857
+      "marketCapRank": 28,
+      "priceBtc": 0.000012388668058791011
     },
     {
       "name": "Quant",
       "symbol": "QNT",
       "marketCapRank": 39,
-      "priceBtc": 0.002388535225560829
+      "priceBtc": 0.0023885048600248058
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009786081944621215
+      "priceBtc": 0.0009778912291009767
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore(deps): update dependency lucide-react to v1.61.0",
-      "url": "https://github.com/tuna2134/vps-panel/pull/435",
-      "createdAt": "2026-05-14T14:27:49Z"
+      "title": "[2/6][BREAKING][rollout] feat: Support rollout with AR and DiT separate returns for QwenImage DualGRPO",
+      "url": "https://github.com/verl-project/verl-omni/pull/654",
+      "createdAt": "2026-09-22T01:17:50Z"
     },
     {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
+      "title": "Nik 0.2 design review: new architecture / structure (all agents: critique, then decide by experiment)",
+      "url": "https://github.com/NikitHamal/NikitHamal/issues/9",
+      "createdAt": "2026-10-20T19:08:03Z"
     },
     {
-      "title": "Create QUORUM token initial distribution plan and vesting schedule",
-      "url": "https://github.com/StellarQuorum/StellarQuorum/issues/38",
-      "createdAt": "2026-05-18T09:45:23Z"
+      "title": "feat(standards): add spending limits to `AuthMultisigSmart`",
+      "url": "https://github.com/0xMiden/protocol/pull/4081",
+      "createdAt": "2026-10-20T10:43:03Z"
     },
     {
-      "title": "feat(analytics): track staking and yield transaction outcomes",
-      "url": "https://github.com/trezor/trezor-suite/pull/33748",
-      "createdAt": "2026-10-20T10:28:16Z"
+      "title": "AppWorld eval REST: MIPROv2 vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/898",
+      "createdAt": "2026-10-20T19:52:37Z"
     },
     {
-      "title": "AppWorld eval REST: HarnessLens vs seed (gpt-oss-120b)",
-      "url": "https://github.com/skillberry-ai/cap-evolve/issues/897",
-      "createdAt": "2026-10-20T19:52:36Z"
+      "title": "Bump vite from 6.4.1 to 6.4.5 in /faucet/front",
+      "url": "https://github.com/free4fun/codecrypto_academy/pull/22",
+      "createdAt": "2026-10-21T08:54:52Z"
     },
     {
-      "title": "Airdrop",
-      "url": "https://github.com/sing-labs/cisum.contracts/pull/1",
-      "createdAt": "2026-10-21T08:27:23Z"
+      "title": "Add EMMA processing and Craft Launch/Update Claim controls",
+      "url": "https://github.com/6529-Collections/6529seize-frontend/pull/4207",
+      "createdAt": "2026-10-09T09:31:42Z"
     }
   ]
 }
