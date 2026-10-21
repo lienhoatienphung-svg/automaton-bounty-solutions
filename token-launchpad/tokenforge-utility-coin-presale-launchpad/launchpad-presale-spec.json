@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T11:12:43.806Z",
-  "latencyMs": 438,
+  "executedAt": "2026-10-21T11:14:34.963Z",
+  "latencyMs": 662,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #364: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #365: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52895908,
-    "liveGasPriceGwei": 0.0104,
+    "liveBlockNumber": 52895963,
+    "liveGasPriceGwei": 0.0089,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459839,
-    "baseMainnetTopPoolsVolume24hUsd": 143140,
+    "baseMainnetTopPoolsVolume24hUsd": 143263,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "EnzCxdcTA4Jg1uDhVmk7a59BVACpTbaVYaUbNXUepump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/enzcxdcta4jg1udhvmk7a59bvacptbavyaubnxuepump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HuShD8S8AqrFGDWeqtkm3oJAdQyWkRgaHRZ1jZFBFuNd",
@@ -75,12 +81,6 @@
         "tokenAddress": "HKuQM1KVHi5no2smae8WvC3J2HHPkm7893guzTWtpump",
         "description": "There is a PHP vulnerability going GIGA viral\nPeople are recommending you revoke accces to EVERYTHING you don't use.",
         "url": "https://dexscreener.com/solana/hkuqm1kvhi5no2smae8wvc3j2hhpkm7893guztwtpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x32292c8Dea05CC0C280106523ff3b193A2d4eF5B",
-        "description": "The protocol for hidden leverage.\n\nYour liquidation price is public on every chain. Mutexa hides it",
-        "url": "https://dexscreener.com/robinhood/0x32292c8dea05cc0c280106523ff3b193a2d4ef5b"
       }
     ]
   },
