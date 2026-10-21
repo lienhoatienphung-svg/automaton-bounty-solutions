@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T08:07:23.153Z",
-  "latencyMs": 318,
+  "executedAt": "2026-10-21T08:20:14.530Z",
+  "latencyMs": 772,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #337: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #338: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52890347,
+    "liveBlockNumber": 52890733,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,40 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 145816,
+    "baseMainnetTopPoolsLiquidityUsd": 459835,
+    "baseMainnetTopPoolsVolume24hUsd": 148316,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "98Lde2zs3NoDXnD2DgbNdV7UFNqctAMJH5uBGnappump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/98lde2zs3nodxnd2dgbndv7ufnqctamjh5ubgnappump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Cy1sKNf4wVtjatSi8rJj8FCkkTK4qH4hdabbws11pump",
+        "description": "The Official HackINU on Pumpfun, Paired to PHP",
+        "url": "https://dexscreener.com/solana/cy1sknf4wvtjatsi8rjj8fckktk4qh4hdabbws11pump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0xd665E4aDa3557d73A0508ea55D3C489a3c89ECC0",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/bsc/0xd665e4ada3557d73a0508ea55d3c489a3c89ecc0"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "F7WeFKekxVBPgkWvfBMjgdVDGW2GYfPTezX9S5KQpump",
+        "description": "The RSPCA faces capacity crisis as cats arrive faster than they can be rehomed\n\nGenuinely this goes to millions the amount of positive exposure pumpfun would ge",
+        "url": "https://dexscreener.com/solana/f7wefkekxvbpgkwvfbmjgdvdgw2gyfptezx9s5kqpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "36PbfTZdV73dzv8oQD9J8CHQuYgnybH7xnFmKKaLpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/36pbftzdv73dzv8oqd9j8chquygnybh7xnfmkkalpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "H8wuX4N8mXcdBYiPiDBQ4zHrN9uQkRh6Fve38brapump",
@@ -51,36 +81,6 @@
         "tokenAddress": "vi2zUPHQQvwsDCykmmQ8eYNf4ngA9z29dycaku3pump",
         "description": "CLAUS OTC is a retro pixel-art meme starring a curious black creature living inside an old OTC computer.",
         "url": "https://dexscreener.com/solana/vi2zuphqqvwsdcykmmq8eynf4nga9z29dycaku3pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BZ6M2dAsnx6v3Vp3U7jsSM1zshvKxG9ejAVrLiBfNa9P",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bz6m2dasnx6v3vp3u7jssm1zshvkxg9ejavrlibfna9p"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CymGUyYFMxtwdfHeA8rj7rywS1NkrTCGVt1cw1x5pump",
-        "description": "Solana trading app for iPhone. Every launch the second it goes live. Self-custody. Zero platform fees.",
-        "url": "https://dexscreener.com/solana/cymguyyfmxtwdfhea8rj7ryws1nkrtcgvt1cw1x5pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9Bn4iAbrYEj5xL2Y2Fq2LPeXtd6fryra1ftjBYJMpump",
-        "description": "wojak irl.",
-        "url": "https://dexscreener.com/solana/9bn4iabryej5xl2y2fq2lpextd6fryra1ftjbyjmpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x51250B135174Ca09450EC01c4afF73CF69DBb590",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0x51250b135174ca09450ec01c4aff73cf69dbb590"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5faPPM84dQWpMSjr1xfHux4DNuGakp9M4wonuhS2pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5fappm84dqwpmsjr1xfhux4dnugakp9m4wonuhs2pump"
       }
     ]
   },
