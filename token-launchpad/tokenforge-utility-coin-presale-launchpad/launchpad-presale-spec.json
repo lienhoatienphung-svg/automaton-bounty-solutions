@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T09:15:59.279Z",
-  "latencyMs": 605,
+  "executedAt": "2026-10-21T09:27:14.213Z",
+  "latencyMs": 347,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #347: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #348: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52892405,
+    "liveBlockNumber": 52892743,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 147518,
+    "baseMainnetTopPoolsVolume24hUsd": 147434,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BAkdiNu6qqYtQ3knyVStkJgZybbgyrhDgUXjwZLa8x4i",
+        "description": "The inu is BAKD\n\nLaunched on bakd.family",
+        "url": "https://dexscreener.com/solana/bakdinu6qqytq3knyvstkjgzybbgyrhdguxjwzla8x4i"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x11e87D97A34f8000F710d054e4EaC30011A3ac8d",
+        "description": "TapeOut协议首款机器人游戏",
+        "url": "https://dexscreener.com/bsc/0x11e87d97a34f8000f710d054e4eac30011a3ac8d"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3B9UFDVzNafK3izskt6TwAZ7sVYnm1vYW4RXqULhpump",
+        "description": "SUPRAI is designed as an open economic infrastructure for AI agents to access services, coordinate tasks, exchange value, and participate in the emerging machin",
+        "url": "https://dexscreener.com/solana/3b9ufdvznafk3izskt6twaz7svynm1vyw4rxqulhpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x688436a0c87d23cd33ee7b1965c090192df19c62",
@@ -63,24 +81,6 @@
         "tokenAddress": "4hbHSyn4vxJ5wPfbayqT2qDGUaE33AijJe1Ty9q6pump",
         "description": "Trader Kimchi has been planted by pumpfun and are extracting millions off the trenches.\n\nThis is the real (spicy) aura boss. \nThis one is for the trenches.",
         "url": "https://dexscreener.com/solana/4hbhsyn4vxj5wpfbayqt2qdguae33aijje1ty9q6pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x4db7374E966097be94C6680d49156D580F097Bbf",
-        "description": "Tibbir is a stealth-launched cryptocurrency project that is intended to enhance efficiency and security within the crypto and artificial intelligence (AI) secto",
-        "url": "https://dexscreener.com/robinhood/0x4db7374e966097be94c6680d49156d580f097bbf"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "89X1RR4V5wVwqUzUSE68ksjCby6PhkAtJNmqkkBkUmu5",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/89x1rr4v5wvwquzuse68ksjcby6phkatjnmqkkbkumu5"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x0e8d9a881a413a0959f5110d5a65c72420035b7b",
-        "description": "Seqlude is a privacy-focused AI workspace designed for unrestricted exploration, giving users greater control over their conversations without unnecessary track",
-        "url": "https://dexscreener.com/robinhood/0x0e8d9a881a413a0959f5110d5a65c72420035b7b"
       }
     ]
   },
