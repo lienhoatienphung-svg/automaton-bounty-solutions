@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T02:40:20.253Z",
-  "latencyMs": 931,
+  "executedAt": "2026-10-21T02:49:48.161Z",
+  "latencyMs": 587,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #281: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #282: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52880536,
+    "liveBlockNumber": 52880820,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459823,
-    "baseMainnetTopPoolsVolume24hUsd": 177875,
+    "baseMainnetTopPoolsVolume24hUsd": 177824,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CADGrfVuEaZtrHetktNPLVu5HFUNrN12hYCZRTTZpump",
+        "description": "Launch coins that onboard the next generation of traders. Tasks, bounties, and SOL rewards for bringing new people onchain.",
+        "url": "https://dexscreener.com/solana/cadgrfvueaztrhetktnplvu5hfunrn12hyczrttzpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Ety3BtYenUFm2Hvz6a6VGRTs8p9sgXggJ3M9XtpZpump",
+        "description": "The official cult of Trenchers on PumpFun",
+        "url": "https://dexscreener.com/solana/ety3btyenufm2hvz6a6vgrts8p9sgxggj3m9xtpzpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5K4eKZndq89Nga9599Ga3CFhrLmtCLxumea9tL2Hpump",
+        "description": "RETAIL",
+        "url": "https://dexscreener.com/solana/5k4ekzndq89nga9599ga3cfhrlmtclxumea9tl2hpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3pjikFJ9onY4YQmN7JXaJSf9XitoZVM7YCrFTWBGpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY",
         "description": "Mine $XMR in your browser for $CPU rewards",
         "url": "https://dexscreener.com/solana/cpuxtvvnnvgdhpk1mhyv4cc6d1rfmhbf7xajcphf3ny"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FGQbFLtHxZ7vaDdseXwMhkPP3ZP6n48oLRiSHiotpump",
-        "description": "Same Kimchi. Any universe. Generate your Kimchi, launch your meme, paired with $KIMCHI on  pumpfun.",
-        "url": "https://dexscreener.com/solana/fgqbflthxz7vaddsexwmhkpp3zp6n48olrishiotpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9hmmhLmMeiHb64dWgRZdin17XW9fDAy2kwu4U9o9pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9hmmhlmmeihb64dwgrzdin17xw9fday2kwu4u9o9pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "C1UJeifQgb1hAoG6JMhbfFATCw2PRw8765cT7nP4pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/c1ujeifqgb1haog6jmhbffatcw2prw8765ct7np4pump"
       }
     ]
   },
