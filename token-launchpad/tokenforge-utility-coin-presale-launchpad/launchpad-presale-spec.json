@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T01:35:51.212Z",
-  "latencyMs": 331,
+  "executedAt": "2026-10-21T01:36:59.785Z",
+  "latencyMs": 877,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #268: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #269: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52878602,
+    "liveBlockNumber": 52878636,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459828,
-    "baseMainnetTopPoolsVolume24hUsd": 178201,
+    "baseMainnetTopPoolsVolume24hUsd": 178648,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HLnHnd8HYTgWqJEDQwvBD9MKAvY65BhGAQsAoQxhpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hlnhnd8hytgwqjedqwvbd9mkavy65bhgaqsaoqxhpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3cGgc12WozQfKJMg9g4Xbe34QugpcXc1UXfBVjT6pump",
@@ -75,12 +81,6 @@
         "tokenAddress": "GZLWWoZHQ8Aj4BUkjCq2mid8PUTRCBqLHn3DJb2Vpump",
         "description": "67% to kimchi paired to kimchi",
         "url": "https://dexscreener.com/solana/gzlwwozhq8aj4bukjcq2mid8putrcbqlhn3djb2vpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DxVRhH3XiXAaCmDW5mayGhGovTUZZegrTZEApCZHpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/dxvrhh3xixaacmdw5mayghgovtuzzegrtzeapczhpump"
       }
     ]
   },
