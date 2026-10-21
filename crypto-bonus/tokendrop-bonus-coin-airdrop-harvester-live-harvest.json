@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T13:12:36.307Z",
-  "latencyMs": 1038,
+  "executedAt": "2026-10-21T13:25:36.540Z",
+  "latencyMs": 1425,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #385: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #386: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1057401,
-      "apyBase": 1.45,
-      "apyRewardBonus": 80000.59,
-      "apyTotal": 80002.05,
+      "tvlUsd": 1059775,
+      "apyBase": 1.48,
+      "apyRewardBonus": 89048.99,
+      "apyTotal": 89050.47,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 927528,
-      "apyBase": 22.31,
-      "apyRewardBonus": 65695.45,
-      "apyTotal": 65717.76,
+      "tvlUsd": 921967,
+      "apyBase": 22.3,
+      "apyRewardBonus": 74846.64,
+      "apyTotal": 74868.94,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -42,12 +42,25 @@
     },
     {
       "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "TRUST-USDC",
+      "tvlUsd": 94007,
+      "apyBase": 75.75,
+      "apyRewardBonus": 56664.81,
+      "apyTotal": 56740.57,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
+    },
+    {
+      "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 55302,
+      "tvlUsd": 55804,
       "apyBase": 0,
-      "apyRewardBonus": 38352.18,
-      "apyTotal": 38352.18,
+      "apyRewardBonus": 38012.46,
+      "apyTotal": 38012.46,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -56,24 +69,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "TRUST-USDC",
-      "tvlUsd": 93029,
-      "apyBase": 80.49,
-      "apyRewardBonus": 37858,
-      "apyTotal": 37938.48,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 161332,
-      "apyBase": 45.92,
-      "apyRewardBonus": 9459.88,
-      "apyTotal": 9505.8,
+      "tvlUsd": 161837,
+      "apyBase": 33.67,
+      "apyRewardBonus": 9436.15,
+      "apyTotal": 9469.82,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -82,24 +82,37 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-LMTS",
-      "tvlUsd": 147924,
-      "apyBase": 50.31,
-      "apyRewardBonus": 7157.92,
-      "apyTotal": 7208.22,
+      "symbol": "USDC-MSTRC",
+      "tvlUsd": 1866689,
+      "apyBase": 90.19,
+      "apyRewardBonus": 7963.93,
+      "apyTotal": 8054.11,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "298f28f6-fab0-461f-8bd1-ad5b07e4b590"
+      "poolId": "06ae14ef-c2e3-5e30-9876-3e06c8b2f9a9"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 184897,
+      "apyBase": 37.43,
+      "apyRewardBonus": 7429.08,
+      "apyTotal": 7466.51,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "AVNT-USDC",
-      "tvlUsd": 701034,
-      "apyBase": 0.51,
-      "apyRewardBonus": 6564.17,
-      "apyTotal": 6564.68,
+      "tvlUsd": 710411,
+      "apyBase": 0.54,
+      "apyRewardBonus": 7243.85,
+      "apyTotal": 7244.4,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -108,15 +121,15 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-MSTRC",
-      "tvlUsd": 977943,
-      "apyBase": 169.49,
-      "apyRewardBonus": 6181.34,
-      "apyTotal": 6350.83,
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 3263900,
+      "apyBase": 73.31,
+      "apyRewardBonus": 6672.23,
+      "apyTotal": 6745.53,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "06ae14ef-c2e3-5e30-9876-3e06c8b2f9a9"
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
     },
     {
       "chain": "Base",
@@ -130,23 +143,26 @@
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "47bb2cb3-6a91-43ee-9dde-abceb2ded03f"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-SPCXC",
-      "tvlUsd": 509125,
-      "apyBase": 351.42,
-      "apyRewardBonus": 5280.13,
-      "apyTotal": 5631.55,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "f3990eac-d0e2-545c-a52b-3304804ab529"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
+    {
+      "chainId": "solana",
+      "tokenAddress": "KoLoaG4ktXXA2g5FjrwNAHeNy5wPfQ2RzVUxscgZrpc",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Kolomon lets you spend crypto like dollars. The card is live. Every Kolomon fee is 1%,\nand 100% of fees buy back and burn $KOLO",
+      "url": "https://dexscreener.com/solana/koloag4ktxxa2g5fjrwnaheny5wpfq2rzvuxscgzrpc"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump",
+      "boostAmount": 500,
+      "totalBoostAmount": 500,
+      "description": "Aura President.",
+      "url": "https://dexscreener.com/solana/3jee9dctw17ncgzeks5zapv4qgqtjp6tjahgkndcpump"
+    },
     {
       "chainId": "solana",
       "tokenAddress": "5EdajXG624C7uVLArueGjFxEAdbJnSs12orQJ8RZpump",
@@ -194,22 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/5uxpc1wtxqpuxcfmzjfhhbvqnsbulehrwyfmjyfepump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3H48TVZq4atygPq3dqtNrgH2RKJJpZjLPoU3TjyL2R2f",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "HALLOWEEN + INU = $INUWEEN \n\nThe perfect fusion of spooky season and legendary INU culture.\n\nTwo powerful metas. One unforgettable name.",
-      "url": "https://dexscreener.com/solana/3h48tvzq4atygpq3dqtnrgh2rkjjpzjlpou3tjyl2r2f"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xd5D49D68a555f3C50cCDa9BD9a8691692E5ce172",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Join Us and get $BUSTED!  \n\nA tribute to the GTA VI and chaos! A token for the culture with Rewards &\nAchievements. \n\nBuild the crew. Hit the milestones. Every ",
-      "url": "https://dexscreener.com/robinhood/0xd5d49d68a555f3c50ccda9bd9a8691692e5ce172"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 840,
-      "priceBtc": 2.4349552150628094e-7
+      "marketCapRank": 827,
+      "priceBtc": 2.4930754041336e-7
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 417,
-      "priceBtc": 0.000003979474275805621
+      "marketCapRank": 424,
+      "priceBtc": 0.000003882489009696129
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.694322600692151e-8
+      "priceBtc": 9.695685382486429e-8
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 84,
-      "priceBtc": 0.00002888372206176999
-    },
-    {
-      "name": "Orbio.so",
-      "symbol": "ORBIO",
-      "marketCapRank": 512,
-      "priceBtc": 5.639824758676802e-7
+      "priceBtc": 0.000029160407462324632
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 717,
-      "priceBtc": 0.001078358666905139
+      "marketCapRank": 716,
+      "priceBtc": 0.0010771125904902481
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9988902380239816
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 85,
-      "priceBtc": 0.000040501682521340224
+      "priceBtc": 0.000040771500785675515
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 71,
-      "priceBtc": 0.0003149339501209675
+      "priceBtc": 0.0003124358043413626
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[DRAFT] Full product polish RC: Home/guide/side-identity/progression + itch nested hosting",
-      "url": "https://github.com/Khanh-glitch/APEX-CHAOS/pull/101",
-      "createdAt": "2026-10-20T14:58:15Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "erratum: Appendix I describes `flop_subsidy` (index 93) as the \"era-0\" Labs/Foundation subsidy, but R9.3 runs it for five halving eras",
-      "url": "https://github.com/flop-labs/yellowpaper/issues/177",
-      "createdAt": "2026-10-21T01:13:25Z"
+      "title": "ops: testnet reliability follow-ups from the 2026-10 outages",
+      "url": "https://github.com/riva-labs/bosphor/issues/486",
+      "createdAt": "2026-10-21T09:20:26Z"
     },
     {
-      "title": "Polish Safe Collecting guides and translate supported locales",
-      "url": "https://github.com/6529-Collections/6529seize-frontend/pull/4426",
-      "createdAt": "2026-10-21T09:01:38Z"
+      "title": "CHORE: Version packages",
+      "url": "https://github.com/4thtech/agentlink/pull/324",
+      "createdAt": "2026-10-20T08:39:10Z"
     },
     {
-      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
-      "url": "https://github.com/tehki/myaso/issues/360",
-      "createdAt": "2026-10-20T17:25:33Z"
+      "title": "Match the web playground to Nashi’s native interface",
+      "url": "https://github.com/orkunisitmak/nashi-app/pull/12",
+      "createdAt": "2026-10-21T12:48:13Z"
+    },
+    {
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
     },
     {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
     }
   ]
 }
