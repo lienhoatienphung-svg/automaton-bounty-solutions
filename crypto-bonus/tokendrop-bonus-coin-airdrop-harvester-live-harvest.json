@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T07:48:06.516Z",
-  "latencyMs": 858,
+  "executedAt": "2026-10-21T08:00:28.006Z",
+  "latencyMs": 896,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #337: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #338: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,84 +215,84 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 112,
-      "priceBtc": 9.811527200775617e-8
-    },
-    {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.000026433560557543843
+      "priceBtc": 0.00002647775194079137
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 112,
+      "priceBtc": 9.832213939570902e-8
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
       "marketCapRank": 141,
-      "priceBtc": 0.000004264764453800235
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.015262933002504617
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.00001242842709140452
+      "priceBtc": 0.00000422327404325597
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006264846797494849
+      "priceBtc": 0.00006275643754196836
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000012471214620154002
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.015320556896647014
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 71,
-      "priceBtc": 0.00031213350473792667
+      "priceBtc": 0.00031273872741637975
     },
     {
-      "name": "Injective",
-      "symbol": "INJ",
-      "marketCapRank": 82,
-      "priceBtc": 0.00010573920981028217
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 85,
+      "priceBtc": 0.000010186296866444828
     }
   ],
   "activeAirdropAndFaucetQuests": [
-    {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
-    },
-    {
-      "title": "fix(cli): register Windows MCP clients with a pinned WSL launcher",
-      "url": "https://github.com/OriginTrail/dkg/pull/3348",
-      "createdAt": "2026-10-17T22:25:56Z"
-    },
-    {
-      "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
-      "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
-      "createdAt": "2026-10-19T08:06:34Z"
-    },
     {
       "title": "build: M1 local stack, testnet contract replay and plan decisions",
       "url": "https://github.com/shanepreater/gajufreight/pull/180",
       "createdAt": "2026-10-21T07:46:03Z"
     },
     {
-      "title": "tests(@e2e): community token actions",
-      "url": "https://github.com/status-im/status-app/pull/22828",
-      "createdAt": "2026-10-15T09:07:21Z"
+      "title": "AppWorld eval REST: Cap-Evolve-improve vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/901",
+      "createdAt": "2026-10-20T19:52:43Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "fix: build with Go 1.26.10 and bump certifi for the eMudhra CA compromise",
+      "url": "https://github.com/ethpandaops/panda/pull/382",
+      "createdAt": "2026-10-21T07:49:01Z"
+    },
+    {
+      "title": "[AP-ROLE] QA — Independent Cross-Platform Gate",
+      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/issues/26",
+      "createdAt": "2026-10-20T01:23:58Z"
+    },
+    {
+      "title": "[AP-CEO] ARCANA SURVIVOR — Parallel Team & Integration Mission",
+      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/issues/21",
+      "createdAt": "2026-10-20T01:22:40Z"
+    },
+    {
+      "title": "Contract pattern-puzzle: actually pay rewards to winners",
+      "url": "https://github.com/theblockcade/stellarcade/issues/1478",
+      "createdAt": "2026-10-21T07:57:31Z"
     }
   ]
 }
