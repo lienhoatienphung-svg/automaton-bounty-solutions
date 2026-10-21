@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T00:01:11.569Z",
-  "latencyMs": 1449,
+  "executedAt": "2026-10-21T00:02:19.777Z",
+  "latencyMs": 1166,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #252: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #253: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
-    },
-    {
       "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
       "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
       "createdAt": "2026-10-07T00:07:47Z"
     },
     {
+      "title": "fix: preserve refresh feedback, faucet scope and explorer links",
+      "url": "https://github.com/syscoin/pali-wallet/pull/986",
+      "createdAt": "2026-10-21T00:01:17Z"
+    },
+    {
+      "title": "[executorch][muse] Draft CUDA DFlash decode from pending tokens",
+      "url": "https://github.com/pytorch/executorch/pull/23983",
+      "createdAt": "2026-10-19T04:59:00Z"
+    },
+    {
+      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
+      "url": "https://github.com/tehki/myaso/issues/360",
+      "createdAt": "2026-10-20T17:25:33Z"
+    },
+    {
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
+    },
+    {
       "title": "Live smoke failing",
       "url": "https://github.com/Prashant-thakur77/Strike/issues/55",
       "createdAt": "2026-10-20T22:38:16Z"
-    },
-    {
-      "title": "OWNER DIRECTIVE — Zero-budget public launch and genuine liquidity gate",
-      "url": "https://github.com/hamidnikkhah660-arch/ai-native-l1/issues/12",
-      "createdAt": "2026-10-20T22:28:26Z"
-    },
-    {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
-    },
-    {
-      "title": "Discovery D2b: the Little surprises mix",
-      "url": "https://github.com/rjdunlap/neo/pull/676",
-      "createdAt": "2026-10-20T23:31:54Z"
     }
   ]
 }
