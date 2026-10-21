@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-21T06:56:31.387Z",
-  "latencyMs": 893,
+  "executedAt": "2026-10-21T06:58:00.486Z",
+  "latencyMs": 946,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #328: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #329: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
+          "title": "fix(backend): retry runs with offloaded Argo node status. Fixes #14397",
+          "url": "https://github.com/kubeflow/pipelines/pull/14398",
+          "repositoryUrl": "https://api.github.com/repos/kubeflow/pipelines",
+          "updatedAt": "2026-10-21T06:57:55Z"
+        },
+        {
           "title": "Continuous Paper Trader — Live Status",
           "url": "https://github.com/Dtwosam/Cocomelon/issues/469",
           "repositoryUrl": "https://api.github.com/repos/Dtwosam/Cocomelon",
-          "updatedAt": "2026-10-21T06:56:26Z"
+          "updatedAt": "2026-10-21T06:57:55Z"
         },
         {
-          "title": "[VexWork] Publish stable Work Board and Parking Lot dashboard projection",
-          "url": "https://github.com/VexGPT/VexWork/pull/5",
-          "repositoryUrl": "https://api.github.com/repos/VexGPT/VexWork",
-          "updatedAt": "2026-10-21T06:56:24Z"
+          "title": "fix(publish): staging version back-sync opens or updates a chore/sync-version-X.Y.Z PR instead of pushing to protected staging",
+          "url": "https://github.com/RapierCraftStudios/ForgeDock/issues/4357",
+          "repositoryUrl": "https://api.github.com/repos/RapierCraftStudios/ForgeDock",
+          "updatedAt": "2026-10-21T06:57:54Z"
         },
         {
-          "title": "docs(platform): youtube rebuild, web-admin security truth, fluxer procedure, bridge guarantees (#655 #660 #662 #663)",
-          "url": "https://github.com/metalsp0rk/boiler-snake/pull/676",
-          "repositoryUrl": "https://api.github.com/repos/metalsp0rk/boiler-snake",
-          "updatedAt": "2026-10-21T06:56:23Z"
+          "title": "Add PostgreSQL storage schema and Goose verification",
+          "url": "https://github.com/finance-lab-project/budget-service/pull/6",
+          "repositoryUrl": "https://api.github.com/repos/finance-lab-project/budget-service",
+          "updatedAt": "2026-10-21T06:57:54Z"
         },
         {
-          "title": "Serve the web store from a database catalog",
-          "url": "https://github.com/physsec-village/physsec-org/pull/34",
-          "repositoryUrl": "https://api.github.com/repos/physsec-village/physsec-org",
-          "updatedAt": "2026-10-21T06:56:23Z"
+          "title": "SPEC: PM エージェント — 常駐プロジェクトマネージャー（唯一の対話窓口・Issue 分解/登録/計画・意味的順序決定・Monitor 経由起動指示）",
+          "url": "https://github.com/akiojin/gwt/issues/3431",
+          "repositoryUrl": "https://api.github.com/repos/akiojin/gwt",
+          "updatedAt": "2026-10-21T06:57:57Z"
         },
         {
-          "title": "fix(chart): keep dataset_uuid in exports when the dataset is deleted",
-          "url": "https://github.com/apache/superset/pull/44347",
-          "repositoryUrl": "https://api.github.com/repos/apache/superset",
-          "updatedAt": "2026-10-21T06:56:23Z"
+          "title": "RTC-N2-02: mobile push notifications",
+          "url": "https://github.com/shezinparavath/realtime-chat/pull/40",
+          "repositoryUrl": "https://api.github.com/repos/shezinparavath/realtime-chat",
+          "updatedAt": "2026-10-21T06:57:55Z"
         },
         {
-          "title": "refactor: modernize the app, consolidate the data layer, and close the UI/UX motion audit",
-          "url": "https://github.com/iqbalShafiq/setiker/pull/3",
-          "repositoryUrl": "https://api.github.com/repos/iqbalShafiq/setiker",
-          "updatedAt": "2026-10-21T06:56:23Z"
+          "title": "docs: content accuracy and completeness fixes",
+          "url": "https://github.com/MystenLabs/sui-docs/pull/340",
+          "repositoryUrl": "https://api.github.com/repos/MystenLabs/sui-docs",
+          "updatedAt": "2026-10-21T06:57:53Z"
         },
         {
-          "title": "Skill and tool registries, sandbox data service, demo skill packages",
-          "url": "https://github.com/Last-Humans-Coding-Under-White-Nights/relaymind/pull/55",
-          "repositoryUrl": "https://api.github.com/repos/Last-Humans-Coding-Under-White-Nights/relaymind",
-          "updatedAt": "2026-10-21T06:56:23Z"
-        },
-        {
-          "title": "Foundation acceptance: local Parts, catalog and Jobs",
-          "url": "https://github.com/xXKillerNoobYT/Weird-Parts-3rd-run/issues/57",
-          "repositoryUrl": "https://api.github.com/repos/xXKillerNoobYT/Weird-Parts-3rd-run",
-          "updatedAt": "2026-10-21T06:56:23Z"
+          "title": "インフィニティで潜行しても分解ダストの世界ごとの上限が回復しない不具合を修正",
+          "url": "https://github.com/Kling0012/shape-of-dreams-rpg-plan/pull/1041",
+          "repositoryUrl": "https://api.github.com/repos/Kling0012/shape-of-dreams-rpg-plan",
+          "updatedAt": "2026-10-21T06:57:53Z"
         }
       ]
     },
