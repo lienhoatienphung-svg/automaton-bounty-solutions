@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-21T00:23:13.439Z",
-  "latencyMs": 510,
+  "executedAt": "2026-10-21T00:24:27.759Z",
+  "latencyMs": 1170,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #256: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #257: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "feat(v1): serve produced-output captures through the Gateway and MCP (#1917)",
+          "url": "https://github.com/sabbour/agentweaver/pull/2170",
+          "repositoryUrl": "https://api.github.com/repos/sabbour/agentweaver",
+          "updatedAt": "2026-10-21T00:24:23Z"
+        },
+        {
+          "title": "feat(managed-agent): simplify existing local project onboarding",
+          "url": "https://github.com/QwenLM/qwen-code/pull/14970",
+          "repositoryUrl": "https://api.github.com/repos/QwenLM/qwen-code",
+          "updatedAt": "2026-10-21T00:24:21Z"
+        },
+        {
+          "title": "Epic: Element-grade chat foundation — relations, crypto, settings, room organisation",
+          "url": "https://github.com/OpenResilienceInitiative/ORISO-Frontend/issues/434",
+          "repositoryUrl": "https://api.github.com/repos/OpenResilienceInitiative/ORISO-Frontend",
+          "updatedAt": "2026-10-21T00:24:21Z"
+        },
+        {
+          "title": "Native-owner-credential-lifecycle-proof",
+          "url": "https://github.com/roccho-org/ops/pull/619",
+          "repositoryUrl": "https://api.github.com/repos/roccho-org/ops",
+          "updatedAt": "2026-10-21T00:24:21Z"
+        },
+        {
+          "title": "fix(menu): require what the page requires for five standard menu entries",
+          "url": "https://github.com/openemr/openemr/pull/14467",
+          "repositoryUrl": "https://api.github.com/repos/openemr/openemr",
+          "updatedAt": "2026-10-21T00:24:21Z"
+        },
+        {
+          "title": "feat(maps): Liquipedia maps provider — official API, rate-limited, licence-guarded",
+          "url": "https://github.com/merlin-pinpin-org/kingdoms-services/pull/248",
+          "repositoryUrl": "https://api.github.com/repos/merlin-pinpin-org/kingdoms-services",
+          "updatedAt": "2026-10-21T00:24:21Z"
+        },
+        {
+          "title": "TAWḤĪD KIDS · 150 (4–6): 47/56 alte V4-MP3s gesichert · letzte 9 per API 402 blockiert",
+          "url": "https://github.com/Sero91ak/dar-al-tawhid-site/pull/1143",
+          "repositoryUrl": "https://api.github.com/repos/Sero91ak/dar-al-tawhid-site",
+          "updatedAt": "2026-10-21T00:24:26Z"
+        },
+        {
+          "title": "test: add an integration tier against the stack's postgres and spicedb",
+          "url": "https://github.com/LarsLrn/orcai/pull/62",
+          "repositoryUrl": "https://api.github.com/repos/LarsLrn/orcai",
+          "updatedAt": "2026-10-21T00:24:20Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
