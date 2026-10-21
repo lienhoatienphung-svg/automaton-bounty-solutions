@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T01:10:58.149Z",
-  "latencyMs": 384,
+  "executedAt": "2026-10-21T01:12:07.285Z",
+  "latencyMs": 882,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #266: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #267: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,5 +263,36 @@
       "priceBtc": 0.000004149963520724491
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "fix: preserve refresh feedback, faucet scope and explorer links",
+      "url": "https://github.com/syscoin/pali-wallet/pull/986",
+      "createdAt": "2026-10-21T00:01:17Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "Share enrollment between macOS and iOS, and add enrollment links",
+      "url": "https://github.com/openziti/ziti-tunnel-apple/pull/265",
+      "createdAt": "2026-10-21T01:10:54Z"
+    },
+    {
+      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
+      "url": "https://github.com/tehki/myaso/issues/360",
+      "createdAt": "2026-10-20T17:25:33Z"
+    },
+    {
+      "title": "Multiple lists, easier notes, and share a list as a PDF",
+      "url": "https://github.com/vikasgaddu1/College-compass/pull/41",
+      "createdAt": "2026-10-21T01:04:26Z"
+    },
+    {
+      "title": "docs: update page metadata for search and AI discovery",
+      "url": "https://github.com/MystenLabs/sui-docs/pull/341",
+      "createdAt": "2026-10-19T11:19:24Z"
+    }
+  ]
 }
