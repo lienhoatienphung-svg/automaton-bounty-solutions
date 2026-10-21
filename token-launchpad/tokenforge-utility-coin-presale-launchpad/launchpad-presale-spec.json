@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T15:41:47.340Z",
-  "latencyMs": 1106,
+  "executedAt": "2026-10-21T15:53:44.283Z",
+  "latencyMs": 1191,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #403: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #404: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52903979,
+    "liveBlockNumber": 52904338,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,39 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459826,
-    "baseMainnetTopPoolsVolume24hUsd": 138685,
+    "baseMainnetTopPoolsVolume24hUsd": 138137,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "EBzm1AYQSBiJqpJm77nXWjPedxGiyy5N6f75q7o4pump",
+        "description": "Meet KIMCHINU : Kimchi + Inu, bringing spicy meme energy to the Solana community.",
+        "url": "https://dexscreener.com/solana/ebzm1ayqsbijqpjm77nxwjpedxgiyy5n6f75q7o4pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2YJ1eP5TsoeeqhjRzTy5FBCt6tVAGvi3dZVt7MNnpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2yj1ep5tsoeeqhjrzty5fbct6tvagvi3dzvt7mnnpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HNntQM5bPFJE2Rzy2cstCy5CyKycaxtpDuwV4wgvpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hnntqm5bpfje2rzy2cstcy5cykycaxtpduwv4wgvpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x32a70b126e1C4ca1401B1Cd3A54d29190A3DB718",
+        "description": "Buy, burn, repeat—endless meme-powered momentum in a wild crypto loop built for nonstop community hype!",
+        "url": "https://dexscreener.com/robinhood/0x32a70b126e1c4ca1401b1cd3a54d29190a3db718"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "y2Qcmme8Wh5R7Gkpw2xrXurzdjpXVqht21s3Mwgpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/y2qcmme8wh5r7gkpw2xrxurzdjpxvqht21s3mwgpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DS2yfdws8De9UthDdGJiQvuEiFL349nnQndEmbb3pump",
@@ -51,36 +81,6 @@
         "tokenAddress": "0xfCd865E50ac30efC9F4aa8569b2cc5ac11dc6d6F",
         "description": "The coordination layer connecting people, researchers and agents to achieve what Big Pharma couldn’t.",
         "url": "https://dexscreener.com/robinhood/0xfcd865e50ac30efc9f4aa8569b2cc5ac11dc6d6f"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CjYq1yqybydYDBP4VzpYzTMoH3xZ3XFNV3dXnHy5pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/cjyq1yqybydydbp4vzpyztmoh3xz3xfnv3dxnhy5pump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0xED71B42b07cC1664C0F82361D48D0417a6ED7777",
-        "description": "CZ's new dog",
-        "url": "https://dexscreener.com/bsc/0xed71b42b07cc1664c0f82361d48d0417a6ed7777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6GjEUwV5PXS3VyaMWXU8EbihMV9wVYzqpLVUApYjpump",
-        "description": "The first community-driven Pokémon card vault. Govern, fractionalize and earn stocks with real-world cards onchain. \n\nPowered by @opensea",
-        "url": "https://dexscreener.com/solana/6gjeuwv5pxs3vyamwxu8ebihmv9wvyzqplvuapyjpump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0xdA8eac0F4104051a0865899918B266D879a37347",
-        "description": "Waymark is an independent crypto wallet map. Compare 22 self-custody wallets across 21 chains: supported networks, in-app cross-chain swaps, fees and security h",
-        "url": "https://dexscreener.com/bsc/0xda8eac0f4104051a0865899918b266d879a37347"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x619D6736FDABD613e36e9C0bAF078759F6f8FBAC",
-        "description": "Earn USDC or Stocks inside of Claude Code, Codex & Cursor",
-        "url": "https://dexscreener.com/robinhood/0x619d6736fdabd613e36e9c0baf078759f6f8fbac"
       }
     ]
   },
