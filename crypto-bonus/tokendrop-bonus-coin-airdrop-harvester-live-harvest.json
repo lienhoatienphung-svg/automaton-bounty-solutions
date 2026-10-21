@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T09:36:21.720Z",
-  "latencyMs": 1190,
+  "executedAt": "2026-10-21T09:37:44.635Z",
+  "latencyMs": 884,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #352: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #353: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Nightly mainnet E2E from origin/main, on the smallest amounts that still pass",
+      "url": "https://github.com/0xMiden/wallet/issues/1629",
+      "createdAt": "2026-10-19T11:56:09Z"
+    },
+    {
       "title": "feat: add C-130 cargo system, territory visualization, and split crates",
       "url": "https://github.com/Dillen198/bfnext/pull/1",
       "createdAt": "2026-01-19T07:41:07Z"
+    },
+    {
+      "title": "feat(payments): multi-asset intents and patient-signed prepare",
+      "url": "https://github.com/DocForum/docforum-core/pull/160",
+      "createdAt": "2026-10-19T10:17:13Z"
+    },
+    {
+      "title": "fix(deps): update dependency lucide to v1.61.0",
+      "url": "https://github.com/airscripts/awesome-steam-deck/pull/68",
+      "createdAt": "2026-09-12T01:12:20Z"
     },
     {
       "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-20T17:25:33Z"
     },
     {
-      "title": "feat: add quarantined fresh-account paper bootstrap (P40)",
-      "url": "https://github.com/arnabnandikgp/cinder/pull/88",
-      "createdAt": "2026-10-21T09:23:59Z"
-    },
-    {
-      "title": "Glamsterdam: what per-submission runner isolation costs under EIP-8037",
-      "url": "https://github.com/mai-lam-labs/bruno/issues/6",
-      "createdAt": "2026-10-21T09:16:37Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Nightly mainnet E2E from origin/main, on the smallest amounts that still pass",
-      "url": "https://github.com/0xMiden/wallet/issues/1629",
-      "createdAt": "2026-10-19T11:56:09Z"
+      "title": "Private packs: app.quizmill.dev as the home app, unlock service on the Worker, `quizmill share`",
+      "url": "https://github.com/quizmill/quizmill/issues/195",
+      "createdAt": "2026-10-21T09:36:19Z"
     }
   ]
 }
