@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-21T12:34:21.802Z",
-  "latencyMs": 1469,
+  "executedAt": "2026-10-21T12:35:43.372Z",
+  "latencyMs": 220,
   "companyName": "Automated Test Suite Generation & Sentry Bug Triage",
-  "workTitle": "Growth & Sales Sprint #426: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
-  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
+  "workTitle": "Delivery Sprint #427: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "targetUrl": "https://polymarket.com/event/macron-out-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -128,83 +128,8 @@
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 10,
+    "contractsPackagedCount": 5,
     "contracts": [
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Pavago",
-        "roleOrTask": "Risk Analyst",
-        "industryTags": [
-          "analyst",
-          "saas",
-          "sys admin",
-          "infosec",
-          "python"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "SupportYourApp",
-        "roleOrTask": "Customer Support Consultant hospitality",
-        "industryTags": [
-          "consulting",
-          "customer support",
-          "saas",
-          "infosec",
-          "technical"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Sothebyâs",
-        "roleOrTask": "Senior Software Engineer",
-        "industryTags": [
-          "golang",
-          "dev",
-          "senior",
-          "sales",
-          "engineer"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Rain",
-        "roleOrTask": "Senior Backend Engineer",
-        "industryTags": [
-          "golang",
-          "finance",
-          "mobile",
-          "senior",
-          "medical"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "RemoteOK-InstantB2B",
-        "company": "Curtins",
-        "roleOrTask": "Graduate Transport Planner",
-        "industryTags": [
-          "hr",
-          "education",
-          "consulting",
-          "technical",
-          "customer support"
-        ],
-        "compensation": "$500-$2,500 Instant Retainer",
-        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
-        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
       {
         "source": "Arbeitnow-GlobalB2B",
         "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting für Digital, Sales, IT, KI, Automation",
