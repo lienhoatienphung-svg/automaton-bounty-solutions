@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T11:25:47.664Z",
-  "latencyMs": 920,
+  "executedAt": "2026-10-21T11:27:38.816Z",
+  "latencyMs": 399,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #366: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #367: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52896299,
+    "liveBlockNumber": 52896355,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459839,
-    "baseMainnetTopPoolsVolume24hUsd": 139524,
+    "baseMainnetTopPoolsVolume24hUsd": 139538,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9wKVBaLbEGxeVNQGD5SojdV9TdkxVWrAcKCXq8K8pump",
+        "description": "Hold $ISLES and own an island. Your bag grows it. Lit islands earn shells every hour, swapped 1:1 at the Exchange.",
+        "url": "https://dexscreener.com/solana/9wkvbalbegxevnqgd5sojdv9tdkxvwrackcxq8k8pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "F7MJsAKu34WzmmetUnzqSrAWvNtP3hAUJgoMqnVupump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x804eaeC1FaDECCB59f4E6754188f08B084890c1a",
         "description": "Camo is the coin that changes its skin. Anyone holding $CAMO can burn a little to rename it: a new name, ticker and image, set on-chain for everyone. The next s",
         "url": "https://dexscreener.com/robinhood/0x804eaec1fadeccb59f4e6754188f08b084890c1a"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3Zcf9bP52N5umuVvfEk4kTsxRbLFS2sHaFzJ6Qbvpump",
-        "description": "H2-X Kung Fu Legend Guardian",
-        "url": "https://dexscreener.com/solana/3zcf9bp52n5umuvvfek4ktsxrblfs2shafzj6qbvpump"
       }
     ]
   },
