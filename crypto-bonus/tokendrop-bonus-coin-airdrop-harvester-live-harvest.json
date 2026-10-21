@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T22:29:54.009Z",
-  "latencyMs": 837,
+  "executedAt": "2026-10-21T22:42:09.289Z",
+  "latencyMs": 775,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #461: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #462: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump",
+      "boostAmount": 500,
+      "totalBoostAmount": 500,
+      "description": "He got his hands on the money. Now he won't let go. A tiny capuchin with a firm grip and absolutely no plans to share.",
+      "url": "https://dexscreener.com/solana/ehpugw1ghe46beysaa7chvozhwyometbp1ak1q7jpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "9XHTDNC9M3C4pNkptVe7czXzhqzd4TvUiDnWcajrpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "$POKEMOM — Pokéyourmom. Gotta Poke 'Em All. Starting with Your Mom.",
+      "url": "https://dexscreener.com/solana/9xhtdnc9m3c4pnkptve7czxzhqzd4tvuidnwcajrpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "5BjfgmtfqvNpAWx1CnZynoWLWNMnrwHLhTFzQ81vkEc8",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 500,
       "description": "Kimchi-inspired. Bull-built. Private jets, heavy wrists, unlimited aura.",
       "url": "https://dexscreener.com/solana/gne7e774tkgyxmmzp36ofhnurruz15h4e1le1xekpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x44082d239727B12A5A3b3EDf147b3c7bEA80332C",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Quoro is the first AI DEX on Robinhood Chain. Paste any token address to see its Data score from 1 to 10 and a plain explanation from Quoro AI before you buy, t",
-      "url": "https://dexscreener.com/robinhood/0x44082d239727b12a5a3b3edf147b3c7bea80332c"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "HCNU8p6zbaTpTSVMx7D3j4c9dJySmsgMw6oKmDxSpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Your trading buddy on the desktop. Candy watches your bags, reacts to the market, tracks your PnL and reminds you of your own rules.",
-      "url": "https://dexscreener.com/solana/hcnu8p6zbatptsvmx7d3j4c9djysmsgmw6okmdxspump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 796,
-      "priceBtc": 2.803796545994447e-7
+      "marketCapRank": 784,
+      "priceBtc": 2.664103669419823e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.00000968240090941355
+      "priceBtc": 0.000009656337803710148
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.645470403447374e-8
+      "priceBtc": 9.67198834841661e-8
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 85,
-      "priceBtc": 0.000028169004013088433
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006249395218658492
+      "priceBtc": 0.000028403541765610915
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9982780462731068
+      "priceBtc": 0.9996729628734933
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006271066628968746
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 531,
+      "priceBtc": 0.0000030310729798164373
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 80,
-      "priceBtc": 0.00004550914170350398
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 529,
-      "priceBtc": 0.0000030527559983223143
+      "priceBtc": 0.00004574237617680198
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[Reasoning] Break repeating reasoning loops by forcing the reasoning end sequence",
-      "url": "https://github.com/vllm-project/vllm/pull/52677",
-      "createdAt": "2026-08-18T02:11:19Z"
+      "title": "fix: align hLP accounting and settlement with accrued LP value",
+      "url": "https://github.com/omnipair/dusk/pull/52",
+      "createdAt": "2026-10-18T12:21:17Z"
     },
     {
-      "title": "[Bugfix][Reasoning] Force the V1 thinking-budget end sequence at every draft position",
-      "url": "https://github.com/vllm-project/vllm/pull/61005",
-      "createdAt": "2026-10-10T14:44:52Z"
+      "title": "Release v0.26.2",
+      "url": "https://github.com/XChain-Platform/xchain-node/pull/78",
+      "createdAt": "2026-10-21T22:41:39Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "feat(macos): island v3 (morphing shape, Today/Week/Focus, modules)",
+      "url": "https://github.com/teenxgrails/needt/pull/360",
+      "createdAt": "2026-10-21T20:26:36Z"
     },
     {
-      "title": "Add 20 Chainlink LINK testnet faucet entries",
-      "url": "https://github.com/Chain-Love/chain-love/pull/4297",
-      "createdAt": "2026-10-07T16:06:50Z"
+      "title": "Release v0.26.2",
+      "url": "https://github.com/XChain-Platform/xchain-sdk/pull/32",
+      "createdAt": "2026-10-21T22:41:35Z"
     },
     {
-      "title": "[Core] Skip unused DFlash and DSpark prefill proposals",
-      "url": "https://github.com/vllm-project/vllm-torchtpu/pull/2074",
-      "createdAt": "2026-10-16T08:49:15Z"
+      "title": "Release v0.26.2",
+      "url": "https://github.com/XChain-Platform/xchain-explorer/pull/44",
+      "createdAt": "2026-10-21T22:41:31Z"
     },
     {
-      "title": "fix(deps): wallet-toolbox-mobile 2.14.9 so the payee broadcasts incoming payments",
-      "url": "https://github.com/bsv-blockchain/bsv-wallet/pull/49",
-      "createdAt": "2026-10-21T22:25:04Z"
+      "title": "Release v0.26.2",
+      "url": "https://github.com/XChain-Platform/xchain-indexer/pull/65",
+      "createdAt": "2026-10-21T22:41:28Z"
     }
   ]
 }
