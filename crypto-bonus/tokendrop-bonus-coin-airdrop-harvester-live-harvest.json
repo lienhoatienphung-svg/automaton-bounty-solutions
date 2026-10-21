@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T17:44:09.843Z",
-  "latencyMs": 905,
+  "executedAt": "2026-10-21T17:45:40.882Z",
+  "latencyMs": 833,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #422: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #423: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(arcade): add weekly GC allowance on the existing design",
-      "url": "https://github.com/0xMiden/wallet/pull/1693",
-      "createdAt": "2026-10-21T17:32:18Z"
-    },
-    {
       "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
       "url": "https://github.com/rempemat-eng/appify/issues/149",
       "createdAt": "2026-10-20T21:31:27Z"
     },
     {
+      "title": "chore(sync): merge upstream op-node/v1.19.9",
+      "url": "https://github.com/rsksmart/optimism/pull/59",
+      "createdAt": "2026-10-12T21:41:47Z"
+    },
+    {
+      "title": "Prepare package-manager distributions and safe uninstall",
+      "url": "https://github.com/fluffydisk/airdrop-linux/pull/2",
+      "createdAt": "2026-10-21T12:40:29Z"
+    },
+    {
+      "title": "feat(xrpl): the XRPL account as an external asset, xrpl-testnet a scheme on it",
+      "url": "https://github.com/justmoon/dassie/pull/252",
+      "createdAt": "2026-10-21T17:31:25Z"
+    },
+    {
+      "title": "feat(arcade): add weekly GC allowance in Coins",
+      "url": "https://github.com/0xMiden/wallet/pull/1693",
+      "createdAt": "2026-10-21T17:32:18Z"
+    },
+    {
       "title": "Add send trust line token tutorial + remove old modular version",
       "url": "https://github.com/XRPLF/xrpl-dev-portal/pull/3732",
       "createdAt": "2026-06-26T15:45:22Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "Add SBC on Radius as an x402 payment network",
-      "url": "https://github.com/radius-workshop/bx402/pull/1",
-      "createdAt": "2026-10-21T17:40:12Z"
-    },
-    {
-      "title": "[TASK: Medicine] Clinical Protocol-Constrained Inverse Treatment Planning for Deliverable IMRT/VMAT",
-      "url": "https://github.com/harbor-framework/terminal-bench-science/pull/942",
-      "createdAt": "2026-08-12T17:26:47Z"
     }
   ]
 }
