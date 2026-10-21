@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T01:36:59.785Z",
-  "latencyMs": 877,
+  "executedAt": "2026-10-21T01:46:32.684Z",
+  "latencyMs": 368,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #269: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #270: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52878636,
+    "liveBlockNumber": 52878922,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459828,
-    "baseMainnetTopPoolsVolume24hUsd": 178648,
+    "baseMainnetTopPoolsLiquidityUsd": 459827,
+    "baseMainnetTopPoolsVolume24hUsd": 178334,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6wVY1aQoHsZAQZc1XTGSfjW6VL3mx7Y4Q3rrGbmFpump",
+        "description": "KIMCHINU 🐕",
+        "url": "https://dexscreener.com/solana/6wvy1aqohszaqzc1xtgsfjw6vl3mx7y4q3rrgbmfpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5iEouo5NRev4bpYQ7DiJnT9nCkQXE24j2wwL4rP8pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/5ieouo5nrev4bpyq7dijnt9nckqxe24j2wwl4rp8pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9mUsvixt7axzYFNxux2ppM2VSBUm6P1wP9WyA1yCgato",
+        "description": "LORENZO 😼",
+        "url": "https://dexscreener.com/solana/9musvixt7axzyfnxux2ppm2vsbum6p1wp9wya1ycgato"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HLnHnd8HYTgWqJEDQwvBD9MKAvY65BhGAQsAoQxhpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "0xCA5c2e72c030e903f5f19f4Bd5CBeC51787F51F6",
         "description": "yumi umi",
         "url": "https://dexscreener.com/robinhood/0xca5c2e72c030e903f5f19f4bd5cbec51787f51f6"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2vUxFNUgaSZyUfqWo9YVG7tPyovduieukXtUnaRKKB1G",
-        "description": "Memecoins. On your terms.\nJev screening • Auto Snipe • Launchpad • Telegram bot • Wallets • Bridge\nYour rules. Your move.",
-        "url": "https://dexscreener.com/solana/2vuxfnugaszyufqwo9yvg7tpyovduieukxtunarkkb1g"
-      },
-      {
-        "chainId": "worldchain",
-        "tokenAddress": "0xE4F1319A516ff144E1EE7208C3ecF7ac2617e6Fd",
-        "description": "Alt-coin on WLD chain",
-        "url": "https://dexscreener.com/worldchain/0xe4f1319a516ff144e1ee7208c3ecf7ac2617e6fd"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GZLWWoZHQ8Aj4BUkjCq2mid8PUTRCBqLHn3DJb2Vpump",
-        "description": "67% to kimchi paired to kimchi",
-        "url": "https://dexscreener.com/solana/gzlwwozhq8aj4bukjcq2mid8putrcbqlhn3djb2vpump"
       }
     ]
   },
