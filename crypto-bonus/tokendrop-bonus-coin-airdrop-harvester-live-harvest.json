@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T03:59:09.712Z",
-  "latencyMs": 1281,
+  "executedAt": "2026-10-21T04:00:27.896Z",
+  "latencyMs": 791,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #298: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #299: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat: add the referral Perks tab (OK-65135)",
+      "url": "https://github.com/OneKeyHQ/app-monorepo/pull/14024",
+      "createdAt": "2026-10-20T10:20:47Z"
+    },
+    {
+      "title": "AppWorld eval REST: GEPA-Full vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/900",
+      "createdAt": "2026-10-20T19:52:40Z"
+    },
+    {
+      "title": "Prepare Epoch widget for Miden mainnet",
+      "url": "https://github.com/epochprotocol/epoch-widget/pull/15",
+      "createdAt": "2026-10-21T03:59:06Z"
+    },
+    {
       "title": "Prepare Miden integration example for mainnet",
       "url": "https://github.com/epochprotocol/miden-integration-example/pull/17",
       "createdAt": "2026-10-21T03:58:55Z"
@@ -278,21 +293,6 @@
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "Task 3 (ledger-016): sysSide, escrow, accruals, cpPolicy, E-16, E-17 INV-LED-027, QA pr3i",
-      "url": "https://github.com/Aiouyn/trading-game/pull/6",
-      "createdAt": "2026-10-20T23:44:56Z"
-    },
-    {
-      "title": "feat(coin-tester-tron): run the tester on coin-sandbox (LIVE-38534)",
-      "url": "https://github.com/LedgerHQ/ledger-live/pull/23621",
-      "createdAt": "2026-10-21T03:44:58Z"
-    },
-    {
-      "title": "Update dependency @lucide/svelte to v1",
-      "url": "https://github.com/HarryAllen1/traveler/pull/25",
-      "createdAt": "2026-09-04T04:19:07Z"
     }
   ]
 }
