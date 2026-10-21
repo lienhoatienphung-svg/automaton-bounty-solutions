@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T12:29:22.221Z",
-  "latencyMs": 921,
+  "executedAt": "2026-10-21T12:31:09.117Z",
+  "latencyMs": 1013,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #378: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #379: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Add PerpPilot to ecosystem",
+      "url": "https://github.com/techcobain/lit_hub_ecosystem/pull/147",
+      "createdAt": "2026-10-21T12:30:52Z"
+    },
+    {
+      "title": "chore(lockfile): update lucide-react-lockfile #patch",
+      "url": "https://github.com/GlueOps/autoglue/pull/1273",
+      "createdAt": "2026-10-17T08:30:21Z"
+    },
+    {
+      "title": "fix: migrate Katana price lookup to Price Service",
+      "url": "https://github.com/yearn/katana-apr-service/pull/71",
+      "createdAt": "2026-10-21T12:23:32Z"
+    },
+    {
+      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
+      "url": "https://github.com/tehki/myaso/issues/360",
+      "createdAt": "2026-10-20T17:25:33Z"
+    },
+    {
       "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
       "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
       "createdAt": "2026-10-19T08:06:34Z"
@@ -273,26 +293,6 @@
       "title": "Claims: record the signed transaction before sending it, and never sign a claim twice",
       "url": "https://github.com/qmsfinance/PoWFaucet/pull/16",
       "createdAt": "2026-10-21T12:28:27Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "[diffusion, algo, cfg, recipe, tests, doc] feat: add DiffusionOPSD on-policy self-distillation",
-      "url": "https://github.com/verl-project/verl-omni/pull/779",
-      "createdAt": "2026-10-19T12:57:17Z"
-    },
-    {
-      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
-      "url": "https://github.com/tehki/myaso/issues/360",
-      "createdAt": "2026-10-20T17:25:33Z"
-    },
-    {
-      "title": "CHAT-CLOSED-LISTS: chatbot step 2, closed candidate lists (spec, attachment, certification types)",
-      "url": "https://github.com/jayson-odoo/sorento-crm/pull/1755",
-      "createdAt": "2026-10-17T00:18:46Z"
     }
   ]
 }
