@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T23:28:43.644Z",
-  "latencyMs": 938,
+  "executedAt": "2026-10-21T23:41:49.499Z",
+  "latencyMs": 737,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #469: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #470: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,72 +217,62 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 698,
-      "priceBtc": 3.0927123565231696e-7
+      "marketCapRank": 659,
+      "priceBtc": 3.606927814154315e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009646271177928642
+      "priceBtc": 0.000009671350164347396
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 85,
-      "priceBtc": 0.000028750004064246275
+      "priceBtc": 0.00002879139248804278
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 512,
+      "priceBtc": 0.0000031735890296598716
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.667369061050659e-8
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 526,
-      "priceBtc": 0.000003089021091933195
+      "priceBtc": 9.632908188002777e-8
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006256678442068345
+      "priceBtc": 0.0000624406090797058
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 703,
-      "priceBtc": 0.0011017127188122995
+      "marketCapRank": 704,
+      "priceBtc": 0.0011028134580252436
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9997252105062109
+      "priceBtc": 0.9996987230581243
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat: operator-issued MB/minute ecash — unit-aware pricing + CDK mint integration (DRAFT)",
-      "url": "https://github.com/OpenTollGate/tollgate-module-basic-go/pull/1040",
-      "createdAt": "2026-10-21T13:59:26Z"
+      "title": "fix(freecell): make hint source and destination unmistakable (#3346)",
+      "url": "https://github.com/wcmchenry3-stack/BC-Arcade/pull/3469",
+      "createdAt": "2026-10-21T23:41:15Z"
     },
     {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
-    },
-    {
-      "title": "2.7.4 (draft): lessons that break later ones, and two that fail alone (#28)",
-      "url": "https://github.com/mcp-tool-shop-org/xrpl-lab/pull/29",
-      "createdAt": "2026-10-21T20:40:02Z"
-    },
-    {
-      "title": "fix(ledger): a failed KV write no longer makes the ledger forget recent spends",
-      "url": "https://github.com/thanhphuc85/technocore-crypto-agent/pull/170",
-      "createdAt": "2026-10-21T23:25:17Z"
+      "title": "Protected website-only release authority: authenticated Wolo HOLD evidence and transitive scope proof",
+      "url": "https://github.com/Emaren/app-prodn/issues/665",
+      "createdAt": "2026-10-18T15:00:14Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -290,9 +280,19 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Release v0.26.2",
-      "url": "https://github.com/XChain-Platform/xchain-explorer/pull/44",
-      "createdAt": "2026-10-21T22:41:31Z"
+      "title": "Season 0: whalewallet.fun play-points markets",
+      "url": "https://github.com/joecyph0x/Wallet-fun/pull/1",
+      "createdAt": "2026-10-21T23:40:27Z"
+    },
+    {
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
+    },
+    {
+      "title": "Refactor GRPO sync examples",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/59514",
+      "createdAt": "2026-10-06T16:43:19Z"
     }
   ]
 }
