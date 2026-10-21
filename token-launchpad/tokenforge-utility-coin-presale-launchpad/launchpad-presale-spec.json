@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T05:56:06.181Z",
-  "latencyMs": 365,
+  "executedAt": "2026-10-21T06:06:51.831Z",
+  "latencyMs": 375,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #317: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #318: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52886409,
+    "liveBlockNumber": 52886732,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459833,
-    "baseMainnetTopPoolsVolume24hUsd": 149510,
+    "baseMainnetTopPoolsVolume24hUsd": 149432,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2obQEJURUTQGNVTdwqZQX3HaAAd78dzhPP1PHksvpump",
+        "description": "Datacenter On PumpFun The best investment",
+        "url": "https://dexscreener.com/solana/2obqejurutqgnvtdwqzqx3haaad78dzhpp1phksvpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FJhiea3Z8Uztp2s2a4jiqQoTp4UjP4jRPFVrBU4Epump",
@@ -75,12 +81,6 @@
         "tokenAddress": "AwLPX11vX2LtBtsGGqTBcw77EsDacCLwiF353YxQpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/awlpx11vx2ltbtsggqtbcw77esdacclwif353yxqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5XcybvUmoBEg4NKBHQ25jYASdD8MpGfF81zgsDXKpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5xcybvumobeg4nkbhq25jyasdd8mpgff81zgsdxkpump"
       }
     ]
   },
