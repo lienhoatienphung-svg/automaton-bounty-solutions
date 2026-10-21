@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T22:28:25.320Z",
-  "latencyMs": 813,
+  "executedAt": "2026-10-21T22:29:54.009Z",
+  "latencyMs": 837,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #460: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
+  "workTitle": "Delivery Sprint #461: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "[Reasoning] Break repeating reasoning loops by forcing the reasoning end sequence",
+      "url": "https://github.com/vllm-project/vllm/pull/52677",
+      "createdAt": "2026-08-18T02:11:19Z"
+    },
+    {
+      "title": "[Bugfix][Reasoning] Force the V1 thinking-budget end sequence at every draft position",
+      "url": "https://github.com/vllm-project/vllm/pull/61005",
+      "createdAt": "2026-10-10T14:44:52Z"
+    },
+    {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "Mando dive leaves the ground: a real Helldivers leap",
-      "url": "https://github.com/czinabu/sw-power-trip/pull/118",
-      "createdAt": "2026-10-21T22:28:04Z"
     },
     {
       "title": "Add 20 Chainlink LINK testnet faucet entries",
@@ -288,11 +293,6 @@
       "title": "fix(deps): wallet-toolbox-mobile 2.14.9 so the payee broadcasts incoming payments",
       "url": "https://github.com/bsv-blockchain/bsv-wallet/pull/49",
       "createdAt": "2026-10-21T22:25:04Z"
-    },
-    {
-      "title": "perf(state): skip the state prefetch when its reads would come from the page cache",
-      "url": "https://github.com/NethermindEth/nethermind/pull/15030",
-      "createdAt": "2026-10-21T21:02:15Z"
     }
   ]
 }
