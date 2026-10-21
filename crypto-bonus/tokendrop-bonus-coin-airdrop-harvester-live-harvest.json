@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T19:28:30.889Z",
-  "latencyMs": 1157,
+  "executedAt": "2026-10-21T19:43:04.786Z",
+  "latencyMs": 997,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #437: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #438: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
+      "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "BLhG3Yk7JVDKkv1z3bPv7o1t2XnZMXAzpZmpvpnppump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "Private payments on Solana. Shield SOL or USDC once, then pay anyone from a shared pool using zero-knowledge proofs.",
       "url": "https://dexscreener.com/solana/f9yz51qzpvs5fwdqgmt8wgewhjg2e5ydwlvsjsrgpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. 🪙 Built & controlled by Agentic AI.",
-      "url": "https://dexscreener.com/solana/dtcicpcktkeah7tdeztym3hxeohaomibdyjhmyxzpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,72 +217,67 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 695,
-      "priceBtc": 3.2540785989994997e-7
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 80,
-      "priceBtc": 0.00004594514882760869
+      "marketCapRank": 736,
+      "priceBtc": 3.24180196704e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 87,
-      "priceBtc": 0.00001003438745583698
+      "priceBtc": 0.0000099765189583292
     },
     {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 89,
-      "priceBtc": 0.000027327165110957263
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 519,
-      "priceBtc": 0.0000031314151229378567
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 80,
+      "priceBtc": 0.000045738172564855216
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.816648440721424e-8
+      "priceBtc": 9.849623452274699e-8
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006296922069829036
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 524,
+      "priceBtc": 0.000003082809599404208
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
       "marketCapRank": 137,
-      "priceBtc": 0.0000043455336252561034
+      "priceBtc": 0.000004376124290082957
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 88,
+      "priceBtc": 0.00002736351870112089
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.0004753596449936
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Secure backend operations and remove fabricated service results",
-      "url": "https://github.com/elon00/jarsol-web4-automaton/pull/11",
-      "createdAt": "2026-10-21T18:10:07Z"
+      "title": "test(vllm): run the vLLM tests on tiny generated models, without the Hugging Face Hub",
+      "url": "https://github.com/DataDog/dd-trace-py/pull/21161",
+      "createdAt": "2026-10-21T17:19:40Z"
     },
     {
-      "title": "feat(e2e): per-flow integration suite on a local Anvil chain (#56)",
-      "url": "https://github.com/bytesbrains/16ane/pull/113",
-      "createdAt": "2026-10-21T18:46:53Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "perf(sampling): fuse greedy chain verification output writes",
-      "url": "https://github.com/lightseekorg/tokenspeed/pull/2553",
-      "createdAt": "2026-10-20T19:50:31Z"
-    },
-    {
-      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
-      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
-      "createdAt": "2026-10-07T16:13:30Z"
+      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
+      "createdAt": "2026-10-07T00:07:47Z"
     },
     {
       "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
@@ -290,9 +285,14 @@
       "createdAt": "2026-10-20T17:25:33Z"
     },
     {
-      "title": "feat(contracts): add referral registration cooldown and Sybil resistance guards",
-      "url": "https://github.com/john2ydep2-gt/PERO-J/issues/926",
-      "createdAt": "2026-10-16T12:52:51Z"
+      "title": "Check the base-game rules conventions against the physical copy",
+      "url": "https://github.com/serferdinand2/the-rug-game/issues/45",
+      "createdAt": "2026-10-20T14:53:31Z"
+    },
+    {
+      "title": "fix(intent): harden SolverEscrow events, reentrancy and checks (OIP-00109, OIP-00210)",
+      "url": "https://github.com/outbe/outbe-chain/pull/730",
+      "createdAt": "2026-10-21T10:03:29Z"
     }
   ]
 }
