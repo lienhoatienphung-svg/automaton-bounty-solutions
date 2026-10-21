@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T22:44:03.278Z",
-  "latencyMs": 916,
+  "executedAt": "2026-10-21T22:57:43.359Z",
+  "latencyMs": 772,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #463: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #464: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,57 +217,67 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 828,
-      "priceBtc": 2.493507085172868e-7
+      "marketCapRank": 778,
+      "priceBtc": 2.8716946163104934e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009645614921308856
+      "priceBtc": 0.000009624560864993513
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 85,
-      "priceBtc": 0.00002831626151311243
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 113,
-      "priceBtc": 9.66111054415595e-8
+      "priceBtc": 0.000028370790820568798
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 529,
-      "priceBtc": 0.000003032839068559516
+      "marketCapRank": 530,
+      "priceBtc": 0.0000030504854771943746
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9992812206138966
+      "priceBtc": 0.9985100572289848
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 703,
-      "priceBtc": 0.0010977144976551008
+      "marketCapRank": 702,
+      "priceBtc": 0.0010963210126808702
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006273581025914944
+      "priceBtc": 0.00006257758995859418
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "marketCapRank": 67,
+      "priceBtc": 0.0003245651043609073
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(admin): resolve telemetry triage errors and overhaul admin observability",
-      "url": "https://github.com/gregcastro23/WhatToEatNext/pull/965",
-      "createdAt": "2026-10-21T22:02:57Z"
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "feat(macos): island v3 (morphing shape, Today/Week/Focus, modules)",
-      "url": "https://github.com/teenxgrails/needt/pull/360",
-      "createdAt": "2026-10-21T20:26:36Z"
+      "title": "Refactor GRPO sync examples",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/59514",
+      "createdAt": "2026-10-06T16:43:19Z"
     },
     {
-      "title": "[Refactor] speculative: Adopt shared request features in TPU spec workers",
-      "url": "https://github.com/sgl-project/sglang-torchtpu/pull/1527",
-      "createdAt": "2026-10-18T11:24:20Z"
-    },
-    {
-      "title": "docs(tron): USDT vault tutorial and agentic development guide",
-      "url": "https://github.com/OpenZeppelin/docs/pull/248",
-      "createdAt": "2026-10-15T23:16:53Z"
-    },
-    {
-      "title": "[Wallet Rewards] Latest eligibility",
-      "url": "https://github.com/oguzpoyrazyasin/poyraz/issues/5",
-      "createdAt": "2026-09-21T21:54:47Z"
+      "title": "feat: operator-issued MB/minute ecash — unit-aware pricing + CDK mint integration (DRAFT)",
+      "url": "https://github.com/OpenTollGate/tollgate-module-basic-go/pull/1040",
+      "createdAt": "2026-10-21T13:59:26Z"
     }
   ]
 }
