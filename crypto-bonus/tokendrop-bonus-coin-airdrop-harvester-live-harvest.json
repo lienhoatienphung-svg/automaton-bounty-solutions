@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T00:49:52.652Z",
-  "latencyMs": 401,
+  "executedAt": "2026-10-21T00:51:22.001Z",
+  "latencyMs": 785,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #262: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #263: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,5 +263,36 @@
       "priceBtc": 0.9987892423411499
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "CT-24: Admin transfer — make it consistent across contracts and add expiry",
+      "url": "https://github.com/zeekman/FarmersMarketplace/issues/1543",
+      "createdAt": "2026-10-15T15:07:31Z"
+    },
+    {
+      "title": "Add moe-router-design task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/28",
+      "createdAt": "2026-09-27T02:38:45Z"
+    },
+    {
+      "title": "[FLOP X] New official X signal",
+      "url": "https://github.com/raindogkitetu/Plain-text-codex-lab/issues/8",
+      "createdAt": "2026-09-22T10:07:33Z"
+    },
+    {
+      "title": "fix: preserve refresh feedback, faucet scope and explorer links",
+      "url": "https://github.com/syscoin/pali-wallet/pull/986",
+      "createdAt": "2026-10-21T00:01:17Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "[BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history",
+      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1",
+      "createdAt": "2026-03-27T00:55:36Z"
+    }
+  ]
 }
