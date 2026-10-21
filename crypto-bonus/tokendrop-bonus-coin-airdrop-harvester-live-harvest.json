@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T09:37:44.635Z",
-  "latencyMs": 884,
+  "executedAt": "2026-10-21T09:49:45.910Z",
+  "latencyMs": 874,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #353: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #354: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "BAkdiNu6qqYtQ3knyVStkJgZybbgyrhDgUXjwZLa8x4i",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "The inu is BAKD\n\nLaunched on bakd.family",
+      "url": "https://dexscreener.com/solana/bakdinu6qqytq3knyvstkjgzybbgyrhdguxjwzla8x4i"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "4hbHSyn4vxJ5wPfbayqT2qDGUaE33AijJe1Ty9q6pump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Solana’s toughest Grandma 🥊 Floral scarf. Iron fists. Zero chill. She’s here to knit, hit and shake up the timeline 💚",
       "url": "https://dexscreener.com/solana/8dcjqqxny4ooke8ppjmhgclsc2oc4rzhgepbvj5opump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "BLhG3Yk7JVDKkv1z3bPv7o1t2XnZMXAzpZmpvpnppump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/blhg3yk7jvdkkv1z3bpv7o1t2xnzmxazpzmpvpnppump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,56 +218,61 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 90,
-      "priceBtc": 0.00002700041670402791
+      "priceBtc": 0.00002699868979235969
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.72859979439994e-8
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 140,
-      "priceBtc": 0.000004220220608821572
+      "priceBtc": 9.721212630852392e-8
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 719,
-      "priceBtc": 0.001071751153472244
+      "priceBtc": 0.0010726440897392967
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 140,
+      "priceBtc": 0.00000423376842711387
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009721646714102054
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.000012366955584833747
+      "priceBtc": 0.0009717642171777688
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006247381761214725
+      "priceBtc": 0.00006253733327210596
     },
     {
       "name": "Quant",
       "symbol": "QNT",
       "marketCapRank": 39,
-      "priceBtc": 0.002378464901961207
+      "priceBtc": 0.002383227305672705
+    },
+    {
+      "name": "XRP",
+      "symbol": "XRP",
+      "marketCapRank": 5,
+      "priceBtc": 0.000016315962933440855
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Nightly mainnet E2E from origin/main, on the smallest amounts that still pass",
-      "url": "https://github.com/0xMiden/wallet/issues/1629",
-      "createdAt": "2026-10-19T11:56:09Z"
+      "title": "tests(@e2e): community token actions",
+      "url": "https://github.com/status-im/status-app/pull/22828",
+      "createdAt": "2026-10-15T09:07:21Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
       "title": "feat: add C-130 cargo system, territory visualization, and split crates",
@@ -275,19 +280,14 @@
       "createdAt": "2026-01-19T07:41:07Z"
     },
     {
-      "title": "feat(payments): multi-asset intents and patient-signed prepare",
-      "url": "https://github.com/DocForum/docforum-core/pull/160",
-      "createdAt": "2026-10-19T10:17:13Z"
+      "title": "Связь Codex ↔ Codebuff",
+      "url": "https://github.com/CrChCn/agentcoin/issues/1",
+      "createdAt": "2026-10-17T20:15:49Z"
     },
     {
-      "title": "fix(deps): update dependency lucide to v1.61.0",
-      "url": "https://github.com/airscripts/awesome-steam-deck/pull/68",
-      "createdAt": "2026-09-12T01:12:20Z"
-    },
-    {
-      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
-      "url": "https://github.com/tehki/myaso/issues/360",
-      "createdAt": "2026-10-20T17:25:33Z"
+      "title": "data(filecoin): add go-synapse Go SDK with first-party evidence",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4609",
+      "createdAt": "2026-10-17T19:39:32Z"
     },
     {
       "title": "Private packs: app.quizmill.dev as the home app, unlock service on the Worker, `quizmill share`",
