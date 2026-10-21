@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T06:46:24.406Z",
-  "latencyMs": 381,
+  "executedAt": "2026-10-21T06:57:50.493Z",
+  "latencyMs": 954,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #325: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #326: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52887918,
+    "liveBlockNumber": 52888261,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 141302,
+    "baseMainnetTopPoolsVolume24hUsd": 141239,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8FGreSHZeiinbu3zPeBA3vawxvz2phvyomnPn1NEpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8fgreshzeiinbu3zpeba3vawxvz2phvyomnpn1nepump"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0x25e3Fe8C2Bea75768591F63d26C7530690057777",
@@ -75,12 +81,6 @@
         "tokenAddress": "2b36fJ7GHm9TVsym3to3Wk2s8pXs5g1UmZeVmeyGpump",
         "description": "We are all just average Joe's, We started as them and became who we are today.",
         "url": "https://dexscreener.com/solana/2b36fj7ghm9tvsym3to3wk2s8pxs5g1umzevmeygpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7k1S1H4VgTXafzgMJcVRUs3qBXPMKV6prytKe32apump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7k1s1h4vgtxafzgmjcvrus3qbxpmkv6prytke32apump"
       }
     ]
   },
