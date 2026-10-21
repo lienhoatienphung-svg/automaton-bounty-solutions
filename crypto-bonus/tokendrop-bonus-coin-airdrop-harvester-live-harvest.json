@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T04:43:42.356Z",
-  "latencyMs": 691,
+  "executedAt": "2026-10-21T04:53:20.750Z",
+  "latencyMs": 1386,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #307: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #308: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "6KjWBTqdRhD7XKn7poB8DfHgSWZkakPuea32jsPweRpS",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Stock perps powered by Hyperliquid. Bringing you markets that never close.",
+      "url": "https://dexscreener.com/solana/6kjwbtqdrhd7xkn7pob8dfhgswzkakpuea32jspwerps"
+    },
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0x2da80b9D1bc1B323693C80C76eb4a321ec08CbD0",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Funds development of Sentinel: read-only, block-stamped tools for Robinhood Chain and Aeon skills. No promise of price or returns. Not affiliated with Robinhood",
+      "url": "https://dexscreener.com/robinhood/0x2da80b9d1bc1b323693c80c76eb4a321ec08cbd0"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -194,95 +210,74 @@
       "totalBoostAmount": 100,
       "description": "FETTI is the token of Confetti, synthetic perpetuals on meme coins at up to 1000x, fully on-chain on Hyperliquid's HyperEVM. Stake FETTI and earn 20% of every t",
       "url": "https://dexscreener.com/hyperevm/0x995b36d7e33680fc6fa1db6fa4dc8e475b5233a2"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x377c377F8315A547bf067e5955B78FE2366ED938",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Moonlit brings privacy-focused USDG payments to Robinhood Chain. Powered by stealth addresses, it lets users send and receive payments through unique one-time a",
-      "url": "https://dexscreener.com/robinhood/0x377c377f8315a547bf067e5955b78fe2366ed938"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "KIMCHI BOSS",
-      "url": "https://dexscreener.com/solana/amus3kcheipzwtzmefruzw6dr9ymykswu8rgboaupump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 91,
-      "priceBtc": 0.00002633557383638806
-    },
-    {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 114,
-      "priceBtc": 9.659109851014174e-8
+      "priceBtc": 9.661267148730884e-8
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 91,
+      "priceBtc": 0.00002636111690733945
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012375843075847054
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 139,
-      "priceBtc": 0.0000043025411746393205
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 726,
-      "priceBtc": 0.0010668768580953654
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.01521501324963941
+      "priceBtc": 0.000012366030164045057
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.000060767164161713794
+      "priceBtc": 0.00006063501477827442
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 726,
+      "priceBtc": 0.0010676051161059791
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 139,
+      "priceBtc": 0.000004294295857611851
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 85,
+      "priceBtc": 0.000010385429031321505
     },
     {
       "name": "Capybobo",
       "symbol": "PYBOBO",
       "marketCapRank": 714,
-      "priceBtc": 9.07664498987857e-9
+      "priceBtc": 9.05933408569783e-9
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "P37: BULK paper qualification and native fill compatibility",
+      "url": "https://github.com/arnabnandikgp/cinder/pull/83",
+      "createdAt": "2026-10-20T15:32:06Z"
     },
     {
-      "title": "Restore token dashboards and authorize ELECTRIC pot claims",
-      "url": "https://github.com/CyberAshven/pickaxe-miner/pull/65",
-      "createdAt": "2026-10-19T17:45:16Z"
+      "title": "ux(bot): 4 clear leaderboard periods and compact Telegram panels",
+      "url": "https://github.com/jaavid/Mustache/pull/49",
+      "createdAt": "2026-10-20T16:29:15Z"
     },
     {
-      "title": "[AP-CEO] ARCANA SURVIVOR — Parallel Team & Integration Mission",
-      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/issues/21",
-      "createdAt": "2026-10-20T01:22:40Z"
-    },
-    {
-      "title": "[AP-ROLE] QA — Independent Cross-Platform Gate",
-      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/issues/26",
-      "createdAt": "2026-10-20T01:23:58Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/Replikanti/flowlint-weblinter/pull/265",
+      "createdAt": "2026-03-26T20:39:49Z"
     },
     {
       "title": "NPU + verl + RL-Kernel + Qwen3.6 Series MoE",
@@ -290,9 +285,14 @@
       "createdAt": "2026-10-21T04:26:18Z"
     },
     {
-      "title": "feat(coin-tester): add the coin-sandbox client (LIVE-39239)",
-      "url": "https://github.com/LedgerHQ/ledger-live/pull/23598",
-      "createdAt": "2026-10-20T14:36:18Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "AppWorld eval REST: GEPA-Full vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/900",
+      "createdAt": "2026-10-20T19:52:40Z"
     }
   ]
 }
