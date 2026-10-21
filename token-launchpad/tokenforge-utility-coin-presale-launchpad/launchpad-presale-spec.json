@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T20:22:28.436Z",
-  "latencyMs": 333,
+  "executedAt": "2026-10-21T20:24:40.518Z",
+  "latencyMs": 332,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #440: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
+  "workTitle": "Delivery Sprint #441: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52912400,
+    "liveBlockNumber": 52912466,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459823,
-    "baseMainnetTopPoolsVolume24hUsd": 142231,
+    "baseMainnetTopPoolsVolume24hUsd": 142509,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2MQWyDrYpRiR37u7bih3K8dSi841r8GL2iUVG1Vipump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2mqwydryprir37u7bih3k8dsi841r8gl2iuvg1vipump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6VNU1qusVKXZCT9kQVAWJBBYEpW7Xd1eoK7f1f15pump",
@@ -75,12 +81,6 @@
         "tokenAddress": "DeGC21aA8cTwQ9RKAKbJSdrth7NdhDun4SyWPdGfpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/degc21aa8ctwq9rkakbjsdrth7ndhdun4sywpdgfpump"
-      },
-      {
-        "chainId": "hyperevm",
-        "tokenAddress": "0x400c263b80579920a41028cd177123d9ca37e22e",
-        "description": "Pair your coin with a long or short up to 5x leverage with RWA's or Memes!",
-        "url": "https://dexscreener.com/hyperevm/0x400c263b80579920a41028cd177123d9ca37e22e"
       }
     ]
   },
