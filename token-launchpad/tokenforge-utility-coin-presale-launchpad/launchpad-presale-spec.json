@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T15:39:54.187Z",
-  "latencyMs": 767,
+  "executedAt": "2026-10-21T15:41:47.340Z",
+  "latencyMs": 1106,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #402: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #403: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52903923,
+    "liveBlockNumber": 52903979,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459826,
-    "baseMainnetTopPoolsVolume24hUsd": 139055,
+    "baseMainnetTopPoolsVolume24hUsd": 138685,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DS2yfdws8De9UthDdGJiQvuEiFL349nnQndEmbb3pump",
+        "description": "A launchpad that buys $KIMCHI and airdrops it to holders.",
+        "url": "https://dexscreener.com/solana/ds2yfdws8de9uthddgjiqvueifl349nnqndembb3pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Ag8znTzQSofNY3KQQzNx2miqwfX3xEag3QaZPuXRpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/ag8zntzqsofny3kqqznx2miqwfx3xeag3qazpuxrpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xfCd865E50ac30efC9F4aa8569b2cc5ac11dc6d6F",
+        "description": "The coordination layer connecting people, researchers and agents to achieve what Big Pharma couldn’t.",
+        "url": "https://dexscreener.com/robinhood/0xfcd865e50ac30efc9f4aa8569b2cc5ac11dc6d6f"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CjYq1yqybydYDBP4VzpYzTMoH3xZ3XFNV3dXnHy5pump",
@@ -63,24 +81,6 @@
         "tokenAddress": "0x619D6736FDABD613e36e9C0bAF078759F6f8FBAC",
         "description": "Earn USDC or Stocks inside of Claude Code, Codex & Cursor",
         "url": "https://dexscreener.com/robinhood/0x619d6736fdabd613e36e9c0baf078759f6f8fbac"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DrqXjXGHwcPpjp3XdBiF5c752z4vCL8cPWPGTBNppump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/drqxjxghwcppjp3xdbif5c752z4vcl8cpwpgtbnppump"
-      },
-      {
-        "chainId": "monad",
-        "tokenAddress": "0x86E427E19BCf9384555718761E5f5ae09Dd2A68D",
-        "description": "rugbug is a real fly brain: the complete wiring diagram of a fruit fly's brain (138,639 neurons, FlyWire), run as a live simulation with its eyes wired to a web",
-        "url": "https://dexscreener.com/monad/0x86e427e19bcf9384555718761e5f5ae09dd2a68d"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x58417f3f9AC500ee40a3882119CbB8a4686AfFff",
-        "description": "SlopLoss is the AI agent launchpad on BNB Chain.\n\nLaunch tokens paired with autonomous AI agents trading on Aster, where trading performance drives token backin",
-        "url": "https://dexscreener.com/bsc/0x58417f3f9ac500ee40a3882119cbb8a4686affff"
       }
     ]
   },
