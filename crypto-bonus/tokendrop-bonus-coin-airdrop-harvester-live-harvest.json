@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T04:42:13.372Z",
-  "latencyMs": 382,
+  "executedAt": "2026-10-21T04:43:42.356Z",
+  "latencyMs": 691,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #306: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #307: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. 🪙 Built & controlled by Agentic AI.",
+      "url": "https://dexscreener.com/solana/dtcicpcktkeah7tdeztym3hxeohaomibdyjhmyxzpump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x07292f0c46F25eF5eCfdba20935A68718C424a51",
       "boostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "KIMCHI BOSS",
       "url": "https://dexscreener.com/solana/amus3kcheipzwtzmefruzw6dr9ymykswu8rgboaupump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump",
-      "boostAmount": 500,
-      "totalBoostAmount": 600,
-      "description": "Kimchi Official Coin",
-      "url": "https://dexscreener.com/solana/7thgkgtk1rp1utlpwuzeuu9vakedtmozzuyps6rgpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,50 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.000026437243496754225
+      "priceBtc": 0.00002633557383638806
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.015230879808710823
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 139,
-      "priceBtc": 0.0000042854464668036076
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 114,
+      "priceBtc": 9.659109851014174e-8
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012372863377680287
+      "priceBtc": 0.000012375843075847054
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 139,
+      "priceBtc": 0.0000043025411746393205
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 726,
-      "priceBtc": 0.0010659358159886261
+      "priceBtc": 0.0010668768580953654
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.01521501324963941
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.000060767164161713794
     },
     {
       "name": "Capybobo",
       "symbol": "PYBOBO",
-      "marketCapRank": 712,
-      "priceBtc": 9.057698805489383e-9
-    },
-    {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012774206179974113
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "marketCapRank": 36,
-      "priceBtc": 0.003273405619667424
+      "marketCapRank": 714,
+      "priceBtc": 9.07664498987857e-9
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "Restore token dashboards and authorize ELECTRIC pot claims",
+      "url": "https://github.com/CyberAshven/pickaxe-miner/pull/65",
+      "createdAt": "2026-10-19T17:45:16Z"
+    },
+    {
+      "title": "[AP-CEO] ARCANA SURVIVOR — Parallel Team & Integration Mission",
+      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/issues/21",
+      "createdAt": "2026-10-20T01:22:40Z"
+    },
+    {
+      "title": "[AP-ROLE] QA — Independent Cross-Platform Gate",
+      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/issues/26",
+      "createdAt": "2026-10-20T01:23:58Z"
+    },
+    {
+      "title": "NPU + verl + RL-Kernel + Qwen3.6 Series MoE",
+      "url": "https://github.com/RL-Align/RL-Kernel/issues/563",
+      "createdAt": "2026-10-21T04:26:18Z"
+    },
+    {
+      "title": "feat(coin-tester): add the coin-sandbox client (LIVE-39239)",
+      "url": "https://github.com/LedgerHQ/ledger-live/pull/23598",
+      "createdAt": "2026-10-20T14:36:18Z"
+    }
+  ]
 }
