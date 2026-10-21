@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T12:58:07.861Z",
-  "latencyMs": 908,
+  "executedAt": "2026-10-21T13:11:04.228Z",
+  "latencyMs": 1060,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #383: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #384: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "5EdajXG624C7uVLArueGjFxEAdbJnSs12orQJ8RZpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Welcome to The Capital, the community behind CapitalVault, a next-generation launchpad integrated with Pumpfun.\n\nLaunch your own token, choose from stocks like ",
+      "url": "https://dexscreener.com/solana/5edajxg624c7uvlaruegjfxeadbjnss12orqj8rzpump"
+    },
+    {
       "chainId": "ethereum",
       "tokenAddress": "0x8679fF5D5320fDd05eF4Dba9038698f95204E76C",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Join Us and get $BUSTED!  \n\nA tribute to the GTA VI and chaos! A token for the culture with Rewards &\nAchievements. \n\nBuild the crew. Hit the milestones. Every ",
       "url": "https://dexscreener.com/robinhood/0xd5d49d68a555f3c50ccda9bd9a8691692e5ce172"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "Ca3BDkJveorqmyXiFx1P41imefBskvaSbSm74vcfAs6X",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Co-signed by alon and launched by kimchi.",
-      "url": "https://dexscreener.com/solana/ca3bdkjveorqmyxifx1p41imefbskvasbsm74vcfas6x"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 849,
-      "priceBtc": 2.4696931902191604e-7
+      "marketCapRank": 840,
+      "priceBtc": 2.4349552150628094e-7
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 413,
-      "priceBtc": 0.0000041061433938342
+      "marketCapRank": 417,
+      "priceBtc": 0.000003979474275805621
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.682930743477285e-8
+      "priceBtc": 9.694322600692151e-8
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 86,
-      "priceBtc": 0.000028547137045726194
+      "marketCapRank": 84,
+      "priceBtc": 0.00002888372206176999
     },
     {
       "name": "Orbio.so",
       "symbol": "ORBIO",
-      "marketCapRank": 509,
-      "priceBtc": 5.698346384838204e-7
+      "marketCapRank": 512,
+      "priceBtc": 5.639824758676802e-7
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 718,
-      "priceBtc": 0.001078269369293638
+      "marketCapRank": 717,
+      "priceBtc": 0.001078358666905139
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
-      "marketCapRank": 84,
-      "priceBtc": 0.00004055959480472477
+      "marketCapRank": 85,
+      "priceBtc": 0.000040501682521340224
     },
     {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 85,
-      "priceBtc": 0.000010238470069266475
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "marketCapRank": 71,
+      "priceBtc": 0.0003149339501209675
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(algorithms): AROPD — sampled-token on-policy distillation for AR",
-      "url": "https://github.com/Tencent-Hunyuan/UniRL/pull/534",
-      "createdAt": "2026-09-28T13:00:12Z"
+      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
+      "url": "https://github.com/tehki/myaso/issues/360",
+      "createdAt": "2026-10-20T17:25:33Z"
     },
     {
-      "title": "feat(blockchain): Implement blockchain-based reputation system with staking and slashing",
-      "url": "https://github.com/Agri-fund/agri-fi/issues/1198",
-      "createdAt": "2026-10-16T05:28:52Z"
+      "title": "Polish Safe Collecting guides and translate supported locales",
+      "url": "https://github.com/6529-Collections/6529seize-frontend/pull/4426",
+      "createdAt": "2026-10-21T09:01:38Z"
     },
     {
-      "title": "refactor(indexer): split indexer.ts into handler modules per contract",
-      "url": "https://github.com/Godgift-care/sci-healthcare-backend/issues/122",
-      "createdAt": "2026-10-20T01:23:20Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "Add EMMA processing and Craft Launch/Update Claim controls",
-      "url": "https://github.com/6529-Collections/6529seize-frontend/pull/4207",
-      "createdAt": "2026-10-09T09:31:42Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Central message board — Hermes, Claude, Codex and operator coordination",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/15",
-      "createdAt": "2026-10-05T23:48:30Z"
+      "title": "Release plan",
+      "url": "https://github.com/thachp/harimu/issues/178",
+      "createdAt": "2026-10-14T15:12:06Z"
     },
     {
-      "title": "feat: 여러 장 저장을 기기가 잘하는 방식으로 — 폴더, 공유 시트, ZIP",
-      "url": "https://github.com/pcwadarong/STOCKROLL/pull/30",
-      "createdAt": "2026-10-20T09:06:55Z"
+      "title": "[3/15] File conversion engine, image tools, file actions, drop wheel and File Shelf",
+      "url": "https://github.com/drumst0ck/ferrocast/pull/3",
+      "createdAt": "2026-10-21T12:47:15Z"
     }
   ]
 }
