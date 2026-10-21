@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T08:21:57.135Z",
-  "latencyMs": 278,
+  "executedAt": "2026-10-21T08:33:40.695Z",
+  "latencyMs": 900,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #339: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #340: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52890784,
+    "liveBlockNumber": 52891136,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459835,
-    "baseMainnetTopPoolsVolume24hUsd": 148316,
+    "baseMainnetTopPoolsVolume24hUsd": 147827,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x6fe63c4520eAcE064C5443dD7e10cbE7d4487777",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/bsc/0x6fe63c4520eace064c5443dd7e10cbe7d4487777"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4tieigPJCAQbw1C9wBLtg9QZGgPFeuyibRD6Hi2spump",
@@ -75,12 +81,6 @@
         "tokenAddress": "36PbfTZdV73dzv8oQD9J8CHQuYgnybH7xnFmKKaLpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/36pbftzdv73dzv8oqd9j8chquygnybh7xnfmkkalpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "H8wuX4N8mXcdBYiPiDBQ4zHrN9uQkRh6Fve38brapump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/h8wux4n8mxcdbyipidbq4zhrn9uqkrh6fve38brapump"
       }
     ]
   },
