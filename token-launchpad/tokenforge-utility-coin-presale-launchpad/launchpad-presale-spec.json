@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T00:15:28.923Z",
-  "latencyMs": 552,
+  "executedAt": "2026-10-21T00:24:34.535Z",
+  "latencyMs": 334,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #253: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #254: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52876190,
+    "liveBlockNumber": 52876463,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459826,
-    "baseMainnetTopPoolsVolume24hUsd": 178415,
+    "baseMainnetTopPoolsVolume24hUsd": 187113,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "WkmJN7MRvXFe8rVoSkQoHKXwVwuNDxpuL7UqY1Qpump",
+        "description": "Kairos is the proof-native Layer 1 blockchain: every block carries one proof that the entire chain is valid, so anyone can verify everything in seconds instead ",
+        "url": "https://dexscreener.com/solana/wkmjn7mrvxfe8rvoskqohkxwvwundxpul7uqy1qpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6WCutatiM6V7DH7ag3HhrLKrbrSMqyxrevNaJUh8pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6wcutatim6v7dh7ag3hhrlkrbrsmqyxrevnajuh8pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "F4KqwtJXgAAVPeyJBPZiNe7Ki1RLQDXNfEcUApdrpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/f4kqwtjxgaavpeyjbpzine7ki1rlqdxnfecuapdrpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "4VKPhhDDuVRqCSQGTLXj33jK22cmM9KhN62TN5oGpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "FijByc7PgS5FygnxUnsLThK85vEGYgZdJVTsowpZpump",
         "description": "UMI THE CUTEST CAT EVER",
         "url": "https://dexscreener.com/solana/fijbyc7pgs5fygnxunslthk85vegygzdjvtsowpzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GhSjWdV6ADZStKhvEvEm1Mx15FXAWif2XZ6K5X11pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ghsjwdv6adzstkhvevem1mx15fxawif2xz6k5x11pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FiTRhnEKrpQBwEjVJeDJQPUAyutxm4BHZsL8oYfNQky2",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fitrhnekrpqbwejvjedjqpuayutxm4bhzsl8oyfnqky2"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x2Ed9665Eb2EE97973A838B14C17a2E95EBb309eF",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0x2ed9665eb2ee97973a838b14c17a2e95ebb309ef"
       }
     ]
   },
