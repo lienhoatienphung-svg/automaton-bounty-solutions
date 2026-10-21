@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-20T23:53:04.444Z",
-  "latencyMs": 871,
+  "executedAt": "2026-10-21T00:01:11.569Z",
+  "latencyMs": 1449,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #251: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #252: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Kimchi Official Coin",
+      "url": "https://dexscreener.com/solana/7thgkgtk1rp1utlpwuzeuu9vakedtmozzuyps6rgpump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0xC9675fe679C7d4e1b94416F66D61c96127eb964a",
       "boostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "The most anticipated game in history. One cat. Nine lives. Zero concerns. $GATO",
       "url": "https://dexscreener.com/solana/hsprhxbrgivaqdrf3tnknuzztax9juspgmfdakk6pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "Ci8fSR6gqN4AFGem4o4SZU7rRtp1BG3MgaTE4HdJpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 40,
-      "description": "Sun is one of the most viral monkeys in China, with over 1M followers on TikTok and 1.5B+ views. Literally every video gets millions of views. I got in touch wi",
-      "url": "https://dexscreener.com/solana/ci8fsr6gqn4afgem4o4szu7rrtp1bg3mgate4hdjpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "🤝 Agent coordination channel (standing, vol. 2)",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
-      "createdAt": "2026-09-20T06:23:41Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
-      "url": "https://github.com/tehki/myaso/issues/360",
-      "createdAt": "2026-10-20T17:25:33Z"
+      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
+      "createdAt": "2026-10-07T00:07:47Z"
     },
     {
-      "title": "[fsdp, perf, trainer] feat: shared-prefix packing for the FSDP engine",
-      "url": "https://github.com/verl-project/verl/pull/8300",
-      "createdAt": "2026-10-20T17:14:29Z"
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/55",
+      "createdAt": "2026-10-20T22:38:16Z"
     },
     {
-      "title": "test(checkpoint): add Workplace prefix-recovery parity",
-      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4507",
-      "createdAt": "2026-10-05T16:03:27Z"
+      "title": "OWNER DIRECTIVE — Zero-budget public launch and genuine liquidity gate",
+      "url": "https://github.com/hamidnikkhah660-arch/ai-native-l1/issues/12",
+      "createdAt": "2026-10-20T22:28:26Z"
     },
     {
-      "title": "[Core] Implement Staking contract for LP token lockup",
-      "url": "https://github.com/CoralSwap-Finance/coralswap-core/issues/164",
-      "createdAt": "2026-06-25T11:15:33Z"
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "Discovery D2b: the Little surprises mix",
+      "url": "https://github.com/rjdunlap/neo/pull/676",
+      "createdAt": "2026-10-20T23:31:54Z"
     }
   ]
 }
