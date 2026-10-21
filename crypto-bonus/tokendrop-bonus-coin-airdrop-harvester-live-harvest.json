@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T20:48:03.509Z",
-  "latencyMs": 893,
+  "executedAt": "2026-10-21T21:02:07.873Z",
+  "latencyMs": 756,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #447: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #448: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "7CZWZbDDnai4yCNGYAW1KSYB6htoDNE273g72FEapump",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "$KATCHI — The King of Solana. \nBorn to rule, built to meme. 🤑 KATCHI is not just a cat — he’s a whole lifestyle. Luxury vibes, savage energy, and a community r",
+      "url": "https://dexscreener.com/solana/7czwzbddnai4ycngyaw1ksyb6htodne273g72feapump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump",
       "boostAmount": 500,
       "totalBoostAmount": 500,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/blhg3yk7jvdkkv1z3bpv7o1t2xnzmxazpzmpvpnppump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "The most measured dog alive.",
-      "url": "https://dexscreener.com/solana/ejaxervku4kevxn3narjvrtgamajyp9zumeka7jjpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 682,
-      "priceBtc": 3.2264664964864646e-7
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 88,
-      "priceBtc": 0.000009867439817944492
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 87,
-      "priceBtc": 0.00002748902548332206
+      "marketCapRank": 742,
+      "priceBtc": 3.110746878065689e-7
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.78443243163919e-8
+      "priceBtc": 9.726292383755847e-8
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 88,
+      "priceBtc": 0.000009829004796130817
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 87,
+      "priceBtc": 0.000027592028520921674
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 80,
-      "priceBtc": 0.00004645197839474702
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 534,
-      "priceBtc": 0.0000030124786655956335
+      "priceBtc": 0.00004649946681274126
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006269445913103712
+      "priceBtc": 0.00006236214931515766
     },
     {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "marketCapRank": 44,
-      "priceBtc": 6.136930994495759e-8
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 533,
+      "priceBtc": 0.0000030209976598664267
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.01591283367562714
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "[TASK: Atmospheric Sciences] Port the WRF WSM6 cloud-microphysics column kernel to C++",
+      "url": "https://github.com/harbor-framework/terminal-bench-science/pull/1029",
+      "createdAt": "2026-08-15T00:04:34Z"
+    },
     {
       "title": "Agent workstream chat — fresh token/network research and detection coverage",
       "url": "https://github.com/auction2026-droid/bit-tester/issues/3",
       "createdAt": "2026-10-21T14:52:49Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "Level reward ladder: rest day, double XP and challenge swap tokens, titles",
+      "url": "https://github.com/razlowshop-prog/questlist-app/pull/9",
+      "createdAt": "2026-10-21T21:01:00Z"
     },
     {
-      "title": "[EPIC] Training & Post-Training — trading + sudoku + RL/PPO + GenAI fine-tuning (po-2024 pionnier ⇄ ai-01 approfondit)",
-      "url": "https://github.com/jsboige/CoursIA/issues/1454",
-      "createdAt": "2026-05-23T08:16:27Z"
+      "title": "DOCS end-of-session docs pass 2026-10-21 (evening)",
+      "url": "https://github.com/4thtech/agentlink/pull/378",
+      "createdAt": "2026-10-21T20:58:25Z"
     },
     {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
+      "title": "[TASK: Medicine] Clinical Protocol-Constrained Inverse Treatment Planning for Deliverable IMRT/VMAT",
+      "url": "https://github.com/harbor-framework/terminal-bench-science/pull/942",
+      "createdAt": "2026-08-12T17:26:47Z"
     },
     {
-      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
-      "url": "https://github.com/tehki/myaso/issues/360",
-      "createdAt": "2026-10-20T17:25:33Z"
-    },
-    {
-      "title": "docs: publish M3 Sepolia deployment and trade handoff",
-      "url": "https://github.com/yuddy-s/AC_ON-esports-prediction-market/pull/19",
-      "createdAt": "2026-10-21T20:13:34Z"
+      "title": "Support for Deepseek V4.1 Flash",
+      "url": "https://github.com/kvcache-ai/ktransformers/issues/2213",
+      "createdAt": "2026-09-21T14:55:46Z"
     }
   ]
 }
