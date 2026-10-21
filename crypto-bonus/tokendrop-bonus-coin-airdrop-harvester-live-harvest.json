@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T18:58:21.154Z",
-  "latencyMs": 1557,
+  "executedAt": "2026-10-21T19:12:01.634Z",
+  "latencyMs": 888,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #433: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #434: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0xa157E2fcfc2b0BF49113686Ab93BE152047Bc2A2",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "The Kid from the Screen\n\nPixBoy was born in 1995, in the early days of the internet. One day he slipped into an old computer, and the screen went dark. He staye",
+      "url": "https://dexscreener.com/robinhood/0xa157e2fcfc2b0bf49113686ab93be152047bc2a2"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "4xwPPTRf8WS1tWouCM1SFyQmo2nVs8DRUKzPQycNpump",
       "boostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "CZ's new dog",
       "url": "https://dexscreener.com/bsc/0xed71b42b07cc1664c0f82361d48d0417a6ed7777"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x061732dC141e0A2d37F5fA91cF5343F24064e60f",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "trading terminal for robinhood chain with 0% fees",
-      "url": "https://dexscreener.com/robinhood/0x061732dc141e0a2d37f5fa91cf5343f24064e60f"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 765,
-      "priceBtc": 2.830404232729e-7
+      "marketCapRank": 726,
+      "priceBtc": 3.132343274682e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010150440091396942
+      "priceBtc": 0.000010105504787506971
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 80,
-      "priceBtc": 0.00004659430867765791
+      "priceBtc": 0.00004516284125119693
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 89,
-      "priceBtc": 0.000026525424782421844
+      "priceBtc": 0.000026906683096952714
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 525,
+      "priceBtc": 0.0000030916382582915066
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.823690782151521e-8
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 529,
-      "priceBtc": 0.0000030426571953221486
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.01601094046375606
+      "priceBtc": 9.788694316897612e-8
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9980843257411826
+      "priceBtc": 0.997882313562437
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 121,
+      "priceBtc": 7.425506325332027e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "test(vllm): run the vLLM tests on tiny generated models, without the Hugging Face Hub",
-      "url": "https://github.com/DataDog/dd-trace-py/pull/21161",
-      "createdAt": "2026-10-21T17:19:40Z"
+      "title": "SF-054: Reproduce encrypted fleet network cost accounting",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/194",
+      "createdAt": "2026-10-21T17:45:36Z"
     },
     {
-      "title": "Add Duration Used Today / This Week / This Month / This Year sensors for Anthem valves",
-      "url": "https://github.com/kedube/ha-kohler-konnect/pull/1",
-      "createdAt": "2026-10-21T18:53:58Z"
+      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
+      "url": "https://github.com/tehki/myaso/issues/360",
+      "createdAt": "2026-10-20T17:25:33Z"
     },
     {
-      "title": "Связь Codex ↔ Codebuff",
-      "url": "https://github.com/CrChCn/agentcoin/issues/1",
-      "createdAt": "2026-10-17T20:15:49Z"
+      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
+      "createdAt": "2026-10-07T00:07:47Z"
     },
     {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/unlock-protocol/unlock/issues/7449",
+      "createdAt": "2021-08-25T05:01:51Z"
     },
     {
-      "title": "Read the dashboard DEX pools from the API",
-      "url": "https://github.com/vetro-protocol/vetro-monorepo/pull/968",
-      "createdAt": "2026-10-21T18:55:33Z"
+      "title": "[9/50] Unbounded Memory Leak in Faucet Rate Limiting Table",
+      "url": "https://github.com/benelabs/crucible/issues/1145",
+      "createdAt": "2026-10-21T18:45:20Z"
     },
     {
-      "title": "fix(deps): Next.js を 15.5.28 に更新し脆弱性を修正",
-      "url": "https://github.com/peacecoin-protocol/pce-faucet/pull/1",
-      "createdAt": "2026-10-21T18:48:48Z"
+      "title": "[10/50] Lack of Transaction Memo Validation in Testnet Faucet Dispenser",
+      "url": "https://github.com/benelabs/crucible/issues/1146",
+      "createdAt": "2026-10-21T18:45:24Z"
     }
   ]
 }
