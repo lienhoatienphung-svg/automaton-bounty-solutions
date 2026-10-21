@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T23:20:26.051Z",
-  "latencyMs": 717,
+  "executedAt": "2026-10-21T23:22:23.514Z",
+  "latencyMs": 337,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #464: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #465: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52917739,
+    "liveBlockNumber": 52917798,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459824,
-    "baseMainnetTopPoolsVolume24hUsd": 134178,
+    "baseMainnetTopPoolsVolume24hUsd": 134146,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8G2GVn1Cy1g5omoQSmrNNihDMo3HwsryTTXTd4okGhXW",
+        "description": "The new easter egg/secret symbol on X, becoming a trend.",
+        "url": "https://dexscreener.com/solana/8g2gvn1cy1g5omoqsmrnnihdmo3hwsryttxtd4okghxw"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9r3tJ9wHX92oGCmxUQi3MGMG9bExAwPwba37KCfvfHTq",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9r3tj9whx92ogcmxuqi3mgmg9bexawpwba37kcfvfhtq"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3aoZyrQHYnv7BNsDtwjTyVzvmoN66fd5Dxk2wKhSWHHT",
@@ -69,18 +81,6 @@
         "tokenAddress": "CWHunzmc7p7HYpbRvauduXZ66mfBFwEybkQHwNZ5pump",
         "description": "Alibi is a private payments app on Solana.\n\nYour wallet is public. Anyone can see your balance, your buys and who you pay. Alibi fixes that. Move SOL or USDC in",
         "url": "https://dexscreener.com/solana/cwhunzmc7p7hypbrvauduxz66mfbfweybkqhwnz5pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6YwBwuS6vy95x2wkxHYXySfgPkpsYMHgXKBXce79pump",
-        "description": "Just a cyber guy...",
-        "url": "https://dexscreener.com/solana/6ywbwus6vy95x2wkxhyxysfgpkpsymhgxkbxce79pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "72UGsBsXE9qQPu3gnkcAkp8be8ZD3a7R5daUS9Hipump",
-        "description": "A play to earn suite of everything Pokemon!",
-        "url": "https://dexscreener.com/solana/72ugsbsxe9qqpu3gnkcakp8be8zd3a7r5daus9hipump"
       }
     ]
   },
