@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T05:54:43.973Z",
-  "latencyMs": 1339,
+  "executedAt": "2026-10-21T05:56:06.181Z",
+  "latencyMs": 365,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #316: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #317: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52886367,
+    "liveBlockNumber": 52886409,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459833,
-    "baseMainnetTopPoolsVolume24hUsd": 149478,
+    "baseMainnetTopPoolsVolume24hUsd": 149510,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "FJhiea3Z8Uztp2s2a4jiqQoTp4UjP4jRPFVrBU4Epump",
+        "description": "The PumpFun Drug, Take the Pill",
+        "url": "https://dexscreener.com/solana/fjhiea3z8uztp2s2a4jiqqotp4ujp4jrpfvrbu4epump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2jCuh5iQbXCJBt1kfzeUT2KECkxUzRkWnGf5VXUspump",
@@ -75,12 +81,6 @@
         "tokenAddress": "5XcybvUmoBEg4NKBHQ25jYASdD8MpGfF81zgsDXKpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/5xcybvumobeg4nkbhq25jyasdd8mpgff81zgsdxkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8qSJe5QLg5cKj4s41fH23UeJVHgLKXdjRUfERKgupump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8qsje5qlg5ckj4s41fh23uejvhglkxdjruferkgupump"
       }
     ]
   },
