@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T03:07:51.118Z",
-  "latencyMs": 865,
+  "executedAt": "2026-10-21T03:16:42.070Z",
+  "latencyMs": 1243,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #289: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #290: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,74 +215,59 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 114,
-      "priceBtc": 9.645164184742383e-8
-    },
-    {
-      "name": "Capybobo",
-      "symbol": "PYBOBO",
-      "marketCapRank": 677,
-      "priceBtc": 9.731401566823389e-9
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 91,
-      "priceBtc": 0.00002592524745448576
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 137,
+      "priceBtc": 0.000004412841316941261
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00006132961180212553
+      "priceBtc": 0.00006094705280961224
     },
     {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 137,
-      "priceBtc": 0.000004401818006127178
+      "name": "Capybobo",
+      "symbol": "PYBOBO",
+      "marketCapRank": 698,
+      "priceBtc": 9.319679493405333e-9
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009865794749316596
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9993835045968247
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 113,
+      "priceBtc": 9.675638314089865e-8
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 71,
-      "priceBtc": 0.00031267560916597054
+      "priceBtc": 0.00031380657227187976
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009885951631396109
+    },
+    {
+      "name": "Derive",
+      "symbol": "DRV",
+      "marketCapRank": 126,
+      "priceBtc": 0.000004845992159333857
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 91,
+      "priceBtc": 0.00002594106988852517
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Add speculative-decoder-discovery task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/49",
-      "createdAt": "2026-10-05T14:46:37Z"
-    },
-    {
-      "title": "ci: push Docker images only from CosmWasm/wasmd (DO-546)",
-      "url": "https://github.com/burnt-labs/wasmd/pull/22",
-      "createdAt": "2026-10-21T02:35:15Z"
-    },
-    {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
-    },
-    {
-      "title": "refactor: unify tool context specifications and execution service",
-      "url": "https://github.com/Wh0rigin/tea/pull/13",
-      "createdAt": "2026-10-16T07:34:30Z"
+      "title": "feat(deposit): add a test USDC button that funds the smart account",
+      "url": "https://github.com/fozagtx/StellarBox/pull/4",
+      "createdAt": "2026-10-21T03:16:27Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -290,9 +275,24 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "docs(tron): USDT vault tutorial and agentic development guide",
-      "url": "https://github.com/OpenZeppelin/docs/pull/248",
-      "createdAt": "2026-10-15T23:16:53Z"
+      "title": "New Crowdin translations",
+      "url": "https://github.com/fm-sys/pairdrop-android/pull/429",
+      "createdAt": "2026-05-13T02:49:58Z"
+    },
+    {
+      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
+      "url": "https://github.com/tehki/myaso/issues/360",
+      "createdAt": "2026-10-20T17:25:33Z"
+    },
+    {
+      "title": "Bump the production-dependencies group across 1 directory with 5 updates",
+      "url": "https://github.com/sharath2525/portfolio/pull/6",
+      "createdAt": "2026-09-23T03:14:44Z"
+    },
+    {
+      "title": "Bump next from 13.2.4 to 13.5.0",
+      "url": "https://github.com/aindrajaya/aindrajaya.github.io/pull/24",
+      "createdAt": "2023-10-25T04:37:55Z"
     }
   ]
 }
