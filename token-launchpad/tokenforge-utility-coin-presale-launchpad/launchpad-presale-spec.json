@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T19:18:29.042Z",
-  "latencyMs": 399,
+  "executedAt": "2026-10-21T19:20:12.328Z",
+  "latencyMs": 339,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #432: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #433: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52910480,
+    "liveBlockNumber": 52910532,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459823,
-    "baseMainnetTopPoolsVolume24hUsd": 142812,
+    "baseMainnetTopPoolsVolume24hUsd": 142765,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Fe6KyLPHWerbHAYG7AFQk3LwgyQ4tViDzkfkCi5qpump",
+        "description": "Valtrix Vault\n\nPROTECT VALUE.\nEMPOWER COMMUNITIES.\nOne Vault. Every Community. Your Token.\n\nVALTRIX is developing a community-powered launch vault on Solana. Th",
+        "url": "https://dexscreener.com/solana/fe6kylphwerbhayg7afqk3lwgyq4tvidzkfkci5qpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "A5Hh6fSKKQvghVUHSzJQpWPkEoZqJSoguFeUrcZRpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/a5hh6fskkqvghvuhszjqpwpkeozqjsogufeurczrpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "AyCogdFp27VYW7ZdNLFFykjhCaxo716SA9NzahKFpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "Ckr8bHQ4S7gWXZJKfvLLT1KpC3EX5HVjK1bd4rNHSLAB",
         "description": "Every coin is a graded card. Summon, collect, duel. Top collectors split 80% of the fees. Gacha TCG on Solana · 3 free summons ✦",
         "url": "https://dexscreener.com/solana/ckr8bhq4s7gwxzjkfvllt1kpc3ex5hvjk1bd4rnhslab"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "vofbjQG4x2uJBKSe1QLkk6tsjpNk1wwZUucGmp73mab",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/vofbjqg4x2ujbkse1qlkk6tsjpnk1wwzuucgmp73mab"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FrWsoz8b3ySwcARforVsEzhCrq1Ww42r7LThqHZYpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/frwsoz8b3yswcarforvsezhcrq1ww42r7lthqhzypump"
       }
     ]
   },
