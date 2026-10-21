@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T07:34:59.687Z",
-  "latencyMs": 874,
+  "executedAt": "2026-10-21T07:46:43.556Z",
+  "latencyMs": 925,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #335: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #336: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,84 +215,84 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 90,
-      "priceBtc": 0.00002642931484157597
-    },
-    {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 112,
-      "priceBtc": 9.826432291027445e-8
+      "priceBtc": 9.811527200775617e-8
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 91,
+      "priceBtc": 0.000026433560557543843
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
-      "marketCapRank": 139,
-      "priceBtc": 0.00000429020678356223
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000012419341256147395
-    },
-    {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "marketCapRank": 71,
-      "priceBtc": 0.0003110862235075686
+      "marketCapRank": 141,
+      "priceBtc": 0.000004264764453800235
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.01528073229458737
+      "priceBtc": 0.015262933002504617
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.00001242842709140452
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.0000626111741580795
+      "priceBtc": 0.00006264846797494849
     },
     {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 102,
-      "priceBtc": 0.00000772386785417644
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "marketCapRank": 71,
+      "priceBtc": 0.00031213350473792667
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 82,
+      "priceBtc": 0.00010573920981028217
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "tests(@e2e): community token actions",
+      "url": "https://github.com/status-im/status-app/pull/22828",
+      "createdAt": "2026-10-15T09:07:21Z"
+    },
+    {
+      "title": "build: M1 local stack, testnet contract replay and plan decisions",
+      "url": "https://github.com/shanepreater/gajufreight/pull/180",
+      "createdAt": "2026-10-21T07:46:03Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "Add EnterpriseOps-Gym benchmark: resources server, benchmark registration, and per-turn telemetry agent",
+      "url": "https://github.com/NVIDIA-NeMo/Gym/pull/2142",
+      "createdAt": "2026-07-25T00:32:53Z"
+    },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Range pools 1/4: the site's client for our range program",
-      "url": "https://github.com/fomotsar-commits/tegridy-farms/pull/911",
-      "createdAt": "2026-10-20T16:42:09Z"
-    },
-    {
-      "title": "docs(solana): document Devnet support with gas paid in devnet USDC",
-      "url": "https://github.com/candidelabs/developer-docs/pull/93",
-      "createdAt": "2026-10-20T10:11:35Z"
-    },
-    {
-      "title": "feat: add mermail-phishing-shield skill",
-      "url": "https://github.com/Nudgen-Marketing/mermail-skills/pull/383",
-      "createdAt": "2026-09-25T13:49:11Z"
-    },
-    {
-      "title": "增加默认启动位置、创建日期列和网络卷状态显示",
-      "url": "https://github.com/qixiaoyu27/Mac-Explorer/pull/27",
-      "createdAt": "2026-10-21T07:33:31Z"
-    },
-    {
-      "title": "feat(connector): [Adyen] add 10 flows (Authorize, PSync, Capture, Void, Refund, RSync, ...)",
-      "url": "https://github.com/juspay/hyperswitch-prism/pull/2553",
-      "createdAt": "2026-10-19T05:17:08Z"
+      "title": "Factorial: the study file (Download all, Share, a dropzone) and every study kept",
+      "url": "https://github.com/kgdunn/process-improve/pull/895",
+      "createdAt": "2026-10-21T07:24:06Z"
     }
   ]
 }
