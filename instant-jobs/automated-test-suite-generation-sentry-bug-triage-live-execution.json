@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-21T12:35:43.372Z",
-  "latencyMs": 220,
+  "executedAt": "2026-10-21T12:46:04.011Z",
+  "latencyMs": 1971,
   "companyName": "Automated Test Suite Generation & Sentry Bug Triage",
-  "workTitle": "Delivery Sprint #427: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
-  "targetUrl": "https://polymarket.com/event/macron-out-in-2025",
+  "workTitle": "Growth & Sales Sprint #428: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2659088,
-        "liquidityUsd": 38033,
+        "liquidityUsd": 36985,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501899,
-        "liquidityUsd": 17563,
+        "liquidityUsd": 18118,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2212589,
-        "liquidityUsd": 68483,
+        "liquidityUsd": 67661,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -44,8 +44,8 @@
       {
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
-        "volumeUsd": 2059869,
-        "liquidityUsd": 241,
+        "volumeUsd": 2059879,
+        "liquidityUsd": 266,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1860857,
-        "liquidityUsd": 21043,
+        "liquidityUsd": 21008,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -62,7 +62,7 @@
     ]
   },
   "crossDexArbitrageDesk": {
-    "basePoolsScanned": 11,
+    "basePoolsScanned": 12,
     "wethMaxSpreadBps": 0,
     "topLiquidPools": [
       {
@@ -72,7 +72,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.0000042,
         "liquidityUsd": 127643,
-        "volume24hUsd": 1976,
+        "volume24hUsd": 1923,
         "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
       },
       {
@@ -82,7 +82,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 104843,
-        "volume24hUsd": 25143,
+        "volume24hUsd": 25149,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -92,7 +92,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000019,
         "liquidityUsd": 139390,
-        "volume24hUsd": 21606,
+        "volume24hUsd": 21524,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21384,
-        "volume24hUsd": 64948,
+        "volume24hUsd": 64887,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -112,7 +112,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 12034,
-        "volume24hUsd": 3483,
+        "volume24hUsd": 3426,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
@@ -122,69 +122,147 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00001,
         "liquidityUsd": 14836,
-        "volume24hUsd": 991,
+        "volume24hUsd": 967,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       }
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 5,
+    "contractsPackagedCount": 10,
     "contracts": [
       {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting für Digital, Sales, IT, KI, Automation",
-        "roleOrTask": "Partner & Channel Sales Manager • SaaS für börsennotierte AGs • Rhein-Main / BaWü (hybrid)*",
+        "source": "RemoteOK-InstantB2B",
+        "company": "Pavago",
+        "roleOrTask": "Risk Analyst",
         "industryTags": [
-          "Business Development"
+          "analyst",
+          "saas",
+          "sys admin",
+          "infosec",
+          "python"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "SupportYourApp",
+        "roleOrTask": "Customer Support Consultant hospitality",
+        "industryTags": [
+          "consulting",
+          "customer support",
+          "saas",
+          "infosec",
+          "technical"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Sothebyâs",
+        "roleOrTask": "Senior Software Engineer",
+        "industryTags": [
+          "golang",
+          "dev",
+          "senior",
+          "sales",
+          "engineer"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Rain",
+        "roleOrTask": "Senior Backend Engineer",
+        "industryTags": [
+          "golang",
+          "finance",
+          "mobile",
+          "senior",
+          "medical"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Curtins",
+        "roleOrTask": "Graduate Transport Planner",
+        "industryTags": [
+          "hr",
+          "education",
+          "consulting",
+          "technical",
+          "customer support"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "allaboutHRLaw GmbH",
+        "roleOrTask": "Junior HR Business Partner (m/w/d) in Teil- oder Vollzeit",
+        "industryTags": [
+          "Personnel Specialist"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/partner-channel-sales-manager-saas-fur-borsennotierte-ags-rhein-main-bawu-hybrid-frankfurt-am-main-155234",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/allabouthrlaw-gmbh/junior-hr-business-partner-in-teil-oder-vollzeit-cologne-189594",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "CONTXT Online-Marketing GmbH",
-        "roleOrTask": "(Junior) SEA Manager (m/w/d)",
-        "industryTags": [
-          "Online Marketing"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/contxt-online-marketing-gmbh/junior-sea-manager-ober-ramstadt-220358",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Beilmann Marketing GmbH",
-        "roleOrTask": "Werkstudent:in Office & Recruiting (m/w/d)",
-        "industryTags": [
-          "HR"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/beilmann-marketing-gmbh/werkstudentin-office-recruiting-mannheim-412417",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "PC CADDIE AG",
-        "roleOrTask": "Support & Kundenbetreuung (m/w/d)",
+        "company": "DWWA Personalberatung GmbH",
+        "roleOrTask": "SaaS Software Sales Manager Region Süd (m/w/d) - Full Remote",
         "industryTags": [
           "Remote",
-          "Customer Service"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/pc-caddie-ag/support-kundenbetreuung-berlin-449664",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "FlexIT Consulting GmbH",
-        "roleOrTask": "Director IT & Digital Innovation (m/w/d)",
-        "industryTags": [
           "Management",
           "Team Leader"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/flexit-consulting-gmbh/director-it-digital-innovation-hamm-69076",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/saas-software-sales-manager-region-sud-full-remote-berlin-273863",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Sidekick Network GmbH & Co. KG",
+        "roleOrTask": "Senior SAP WM / HU Consultant - Freelance",
+        "industryTags": [
+          "Remote",
+          "SAP/ERP Consulting",
+          "Development"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-wm-hu-consultant-freelance-berlin-175333",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Digitale Offensive GmbH",
+        "roleOrTask": "Werkstudent (m/w/d) Digital Design / UI-Design",
+        "industryTags": [
+          "Media",
+          "Screen and Web Design"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/digitale-offensive-gmbh/werkstudent-digital-design-ui-design-bielefeld-166483",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Sentinellabs",
+        "roleOrTask": "Enterprise Account Executive",
+        "industryTags": [
+          "43600 Enterprise Sales - EMEA"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/sentinellabs/enterprise-account-executive-137350",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
