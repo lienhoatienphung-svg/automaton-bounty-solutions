@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T01:53:05.518Z",
-  "latencyMs": 1225,
+  "executedAt": "2026-10-21T01:54:18.571Z",
+  "latencyMs": 862,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #274: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #275: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,5 +263,36 @@
       "priceBtc": 0.00000422504784691237
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "feat: deposit_pool for vesting",
+      "url": "https://github.com/Talus-Network/talus-token/pull/27",
+      "createdAt": "2026-10-20T14:52:35Z"
+    },
+    {
+      "title": "perf(search): cache, parallel scan and exact pruning (R2c-3c)",
+      "url": "https://github.com/liqiangcc/reading-mcp/pull/194",
+      "createdAt": "2026-10-21T01:23:08Z"
+    },
+    {
+      "title": "feat(grpo): add Qwen3-4B GPG Ascend recipe",
+      "url": "https://github.com/verl-project/verl-ascend-recipe/pull/144",
+      "createdAt": "2026-10-11T16:03:43Z"
+    },
+    {
+      "title": "[BugFix][MRV1] Fix async PP MTP state synchronization for hybrid models",
+      "url": "https://github.com/vllm-project/vllm-ascend/pull/19309",
+      "createdAt": "2026-10-21T01:20:16Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "[BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history",
+      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1",
+      "createdAt": "2026-03-27T00:55:36Z"
+    }
+  ]
 }
