@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T13:18:01.783Z",
-  "latencyMs": 387,
+  "executedAt": "2026-10-21T13:30:33.417Z",
+  "latencyMs": 427,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #383: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #384: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52899667,
-    "liveGasPriceGwei": 0.006,
+    "liveBlockNumber": 52900043,
+    "liveGasPriceGwei": 0.0069,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -30,10 +30,46 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459076,
-    "baseMainnetTopPoolsVolume24hUsd": 145755,
+    "baseMainnetTopPoolsLiquidityUsd": 459847,
+    "baseMainnetTopPoolsVolume24hUsd": 152394,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "G8o4YRtppz9CyZCWvBUnCHVeYQx4XdzAEzx2mSiWpump",
+        "description": "Inspired by Kimchi, made for the trenches.\n\nPaired with $KIMCHI, Kimchinu keeps things simple. \n\nJust hold $KIMCHINU and earn $KIMCHI rewards.",
+        "url": "https://dexscreener.com/solana/g8o4yrtppz9cyzcwvbunchveyqx4xdzaezx2msiwpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x28B878B5Ef3eD55dcA52a9575dEEFa678365d07A",
+        "description": "Tickr is a daily stock-picking game on Robinhood Chain. Every trading day: five stocks, one pot. Back the one that closes first, split the pot with everyone who",
+        "url": "https://dexscreener.com/robinhood/0x28b878b5ef3ed55dca52a9575deefa678365d07a"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x4fd0b459746934B1a07C3a4AD7c75bc4CCDF6B69",
+        "description": "$MINDOIL is the token of the pump attendant, an AI agent that keeps other agents fuelled.\n\nMindOil is the first NFT collection on Orbio: NFTs that hold real AI.",
+        "url": "https://dexscreener.com/robinhood/0x4fd0b459746934b1a07c3a4ad7c75bc4ccdf6b69"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DxHTm46b1cnxMWi23PWtNX9AfdErYCdg7FAUskF6pump",
+        "description": "One mon against the horde. Survive, evolve mid-run, cash out in SOL before you faint. $SOLO",
+        "url": "https://dexscreener.com/solana/dxhtm46b1cnxmwi23pwtnx9afderycdg7fauskf6pump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x49E55A87AA4bB0d2fd58fDCf1A31c9612DE015dc",
+        "description": "MoneyCanBuy is a dare board judged by the IMD swarm.\n\nPost a task with a reward. Anyone can do it and submit proof. NFT holders and the IMD swarm check the proo",
+        "url": "https://dexscreener.com/ethereum/0x49e55a87aa4bb0d2fd58fdcf1a31c9612de015dc"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GDv4YUaTKzBNWkzPRLJJcF3PkZ3pfX868SSoQ7ZQpump",
+        "description": "Shared liquidity. Off-chain quotes. On-chain settlement.",
+        "url": "https://dexscreener.com/solana/gdv4yuatkzbnwkzprljjcf3pkz3pfx868ssoq7zqpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xc04ad5f4b019a90f5bd3a1cc68e612c311a4bc74",
@@ -45,42 +81,6 @@
         "tokenAddress": "0x3527212926471D19D88ffbaD8CF83505735c496d",
         "description": "A programmable equity layer. Tokenized stocks, capital markets infrastructure & onchain financial primitives.",
         "url": "https://dexscreener.com/robinhood/0x3527212926471d19d88ffbad8cf83505735c496d"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3H5y8ViY6MKXN5zyWzXQznfdS83Q45QqBCGsGTp7pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3h5y8viy6mkxn5zywzxqznfds83q45qqbcgsgtp7pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6bxBZwvU4gMWKFMViGAnHSsdJChixyCUwV1VB8wnpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6bxbzwvu4gmwkfmviganhssdjchixycuwv1vb8wnpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3wzpc6Cd5X4E11mnY4GqQzWXrZEYYWQ8zoD5eFz3Cksp",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3wzpc6cd5x4e11mny4gqqzwxrzeyywq8zod5efz3cksp"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x36504DdCb46706B95c079C938053f6bA763F7777",
-        "description": "Chang Zhen - Kungfu Final Boss",
-        "url": "https://dexscreener.com/bsc/0x36504ddcb46706b95c079c938053f6ba763f7777"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x6cB168581C7C5988fbaD48773c0c06569465954c",
-        "description": "Greatest attention play in history",
-        "url": "https://dexscreener.com/robinhood/0x6cb168581c7c5988fbad48773c0c06569465954c"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "54UN9YwDyazXjRXhxMvzWG7yNstGqjtHnh1WGgpepump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/54un9ywdyazxjrxhxmvzwg7ynstgqjthnh1wggpepump"
       }
     ]
   },
