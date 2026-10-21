@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T06:02:47.106Z",
-  "latencyMs": 1673,
+  "executedAt": "2026-10-21T06:04:01.996Z",
+  "latencyMs": 793,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #320: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
+  "workTitle": "Delivery Sprint #321: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,66 +218,61 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 90,
-      "priceBtc": 0.00002624829539959311
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 139,
-      "priceBtc": 0.000004319729876974744
+      "priceBtc": 0.00002639118852829684
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 114,
-      "priceBtc": 9.662049921258008e-8
+      "priceBtc": 9.647824906077611e-8
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 139,
+      "priceBtc": 0.0000043416113835726785
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 720,
+      "priceBtc": 0.0010706548731954605
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015198193095733937
+      "priceBtc": 0.01516073383886387
     },
     {
       "name": "Convex Finance",
       "symbol": "CVX",
       "marketCapRank": 164,
-      "priceBtc": 0.000031311213419979354
+      "priceBtc": 0.00003144169089706115
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 725,
-      "priceBtc": 0.0010654188951514157
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00006016855719976643
     },
     {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000012356519800271888
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 124,
-      "priceBtc": 6.754643056216347e-7
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 85,
+      "priceBtc": 0.000010242517641371854
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "# Spike 583 — PWA offline queue: installable app with deferred mint, offer and vote",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/447",
-      "createdAt": "2026-10-15T10:25:25Z"
-    },
-    {
-      "title": "# Spike 586 — Push notification campaigns with segmentation, scheduling and analytics",
-      "url": "https://github.com/PHASE-STELLAR/Phase/issues/450",
-      "createdAt": "2026-10-15T10:26:54Z"
-    },
-    {
       "title": "# Spike 584 — Service-worker media cache for IPFS gateway resilience",
       "url": "https://github.com/PHASE-STELLAR/Phase/issues/448",
       "createdAt": "2026-10-15T10:25:52Z"
+    },
+    {
+      "title": "# Spike 583 — PWA offline queue: installable app with deferred mint, offer and vote",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/447",
+      "createdAt": "2026-10-15T10:25:25Z"
     },
     {
       "title": "# Spike 585 — OG video frames and animated OG with live price and activity overlay",
@@ -285,14 +280,19 @@
       "createdAt": "2026-10-15T10:26:23Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "SF-022: Seal-encrypted artifact delivery with scoped, device-authenticated decryption",
-      "url": "https://github.com/tyler-suifleet/suifleet/pull/118",
-      "createdAt": "2026-10-16T21:18:29Z"
+      "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
+      "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
+      "createdAt": "2026-10-19T08:06:34Z"
+    },
+    {
+      "title": "[agent: claude] Partially address #99 organic B1.3 joins",
+      "url": "https://github.com/truhojunbot-tech/quota-core/pull/102",
+      "createdAt": "2026-10-11T15:20:42Z"
     }
   ]
 }
