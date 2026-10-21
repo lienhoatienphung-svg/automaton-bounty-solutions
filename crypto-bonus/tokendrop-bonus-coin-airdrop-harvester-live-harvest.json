@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T05:51:08.191Z",
-  "latencyMs": 883,
+  "executedAt": "2026-10-21T05:52:21.562Z",
+  "latencyMs": 735,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #318: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #319: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix: make the Home faucet banner keyboard accessible",
+      "url": "https://github.com/syscoin/pali-wallet/pull/1000",
+      "createdAt": "2026-10-21T05:51:30Z"
+    },
+    {
+      "title": "[agent: claude] Partially address #99 organic B1.3 joins",
+      "url": "https://github.com/truhojunbot-tech/quota-core/pull/102",
+      "createdAt": "2026-10-11T15:20:42Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
       "title": "AppWorld eval REST: GEPA-Full vs seed (gpt-oss-120b)",
       "url": "https://github.com/skillberry-ai/cap-evolve/issues/900",
       "createdAt": "2026-10-20T19:52:40Z"
-    },
-    {
-      "title": "Zcash tooling: Testnet explorer on the NU7 chain, faucet, Ironwood pool, and Testnet behaviors",
-      "url": "https://github.com/chainstack/dev-portal/pull/803",
-      "createdAt": "2026-10-21T05:49:37Z"
     },
     {
       "title": "napier fees: count LP swap fees as supply side revenue",
@@ -283,16 +293,6 @@
       "title": "Carry a Commons copy's credit into every file that takes it out",
       "url": "https://github.com/ZsomborRajki/OpenHikes/pull/899",
       "createdAt": "2026-10-20T21:48:21Z"
-    },
-    {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
-    },
-    {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
     }
   ]
 }
