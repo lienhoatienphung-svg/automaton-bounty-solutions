@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T14:59:26.967Z",
-  "latencyMs": 325,
+  "executedAt": "2026-10-21T15:11:58.829Z",
+  "latencyMs": 442,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #397: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #398: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52902709,
-    "liveGasPriceGwei": 0.0064,
+    "liveBlockNumber": 52903085,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -30,10 +30,34 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459827,
-    "baseMainnetTopPoolsVolume24hUsd": 140629,
+    "baseMainnetTopPoolsLiquidityUsd": 459826,
+    "baseMainnetTopPoolsVolume24hUsd": 141337,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GLCR8RhUCJBZ4NxrTvK9sQ6ochbk4hSGWDAN73Chpump",
+        "description": "SOLANA ALPENGLOW JUST PULLED THEIR OWN GOBLINCOIN AND NOBODY NOTICED\n\nFor some reason, Solana has been OBSESSED with APPLES to represent Alpenglow's insane 150m",
+        "url": "https://dexscreener.com/solana/glcr8rhucjbz4nxrtvk9sq6ochbk4hsgwdan73chpump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x560686d9ad4364ffd38aa54186d9a41e3cdc8dff",
+        "description": "tag @nanocodexyz on X and get it build an app for you in minutes. try \"@nanocodexyz make multiplayer snake\".",
+        "url": "https://dexscreener.com/ethereum/0x560686d9ad4364ffd38aa54186d9a41e3cdc8dff"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HdRrFTqEFf8HHLT8ejsjrYrsYEW323gm9x5JwbXrivra",
+        "description": "Brings token launches, markets, trading, and your portfolio together",
+        "url": "https://dexscreener.com/solana/hdrrftqeff8hhlt8ejsjryrsyew323gm9x5jwbxrivra"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "8KmoXhoeqPDhhrJ1b3hs1qPAdk5RYQr1JdCzs1JfUK4Q",
+        "description": "Tokenized stocks back their own calls. $ONCE gets first pick.",
+        "url": "https://dexscreener.com/solana/8kmoxhoeqpdhhrj1b3hs1qpadk5ryqr1jdczs1jfuk4q"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5C69sv7RdXsfqeLkyNKLxUD2rE4HDxR9vJMNTvw5pump",
@@ -57,30 +81,6 @@
         "tokenAddress": "0x6bACba0c6a8308D96e15f16473F557C7B9eaFFFF",
         "description": "The entire BNB crypto market, now collectible.\n\nCoinmon is a crypto TCG built on BNB Chain, turning every coin listed on CoinGecko into a collectible card.\n\nOpe",
         "url": "https://dexscreener.com/bsc/0x6bacba0c6a8308d96e15f16473f557c7b9eaffff"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2JYZNsPdvUkZJLHBYiaVBnCoY8RHLNomGUKRrmf1pump",
-        "description": "Launch a token on a card — a Charizard, a Lugia, a slab with a cert number. From the first minute, 3% of its supply backs a market where anyone can go long or s",
-        "url": "https://dexscreener.com/solana/2jyznspdvukzjlhbyiavbncoy8rhlnomgukrrmf1pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Exuur5WLtiqN1mRyMJeHFf2Z5uFD1pBsatG5ZxSAXwV5",
-        "description": "Launch a token. Get creator fees paid directly to your Visa Card. Spend with Apple pay + Google pay.",
-        "url": "https://dexscreener.com/solana/exuur5wltiqn1mrymjehff2z5ufd1pbsatg5zxsaxwv5"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x6E549A036bFF077b09562633510Bf6806EEd7777",
-        "description": "Your Agent ID is your collateral 🧾 USDT credit lines for every .ai agent on BNB Chain. One name, one wallet, one record.",
-        "url": "https://dexscreener.com/bsc/0x6e549a036bff077b09562633510bf6806eed7777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3HqkTBToDtD3LZnTGrBNfw8h3CqT4aA8N9FM8NXupump",
-        "description": "Tales of Meteora.",
-        "url": "https://dexscreener.com/solana/3hqktbtodtd3lzntgrbnfw8h3cqt4aa8n9fm8nxupump"
       }
     ]
   },
