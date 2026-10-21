@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T10:32:47.319Z",
-  "latencyMs": 1157,
+  "executedAt": "2026-10-21T10:34:34.938Z",
+  "latencyMs": 358,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #358: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #359: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52894709,
+    "liveBlockNumber": 52894763,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459838,
-    "baseMainnetTopPoolsVolume24hUsd": 136224,
+    "baseMainnetTopPoolsVolume24hUsd": 136221,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7ZZKp8RpdWEuvHGXqdj9yKCv47rnxtKV27gnpCBLpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7zzkp8rpdweuvhgxqdj9ykcv47rnxtkv27gnpcblpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "F5jgHyqd13JY3T3qKSp3nryNePN9gQKVx8wCAAZsfart",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/f5jghyqd13jy3t3qksp3nrynepn9gqkvx8wcaazsfart"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BujNzgRXnDU43b7upkhofpf767Tet8XcBqkT8CKfpump",
+        "description": "We know how those ended. Contract, holder and dev forensics for any chain. Rug? Better luck next time!",
+        "url": "https://dexscreener.com/solana/bujnzgrxndu43b7upkhofpf767tet8xcbqkt8ckfpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x8db8018fc00485c4a0e2e19c10bd9703fc505c8f",
@@ -63,24 +81,6 @@
         "tokenAddress": "GAJiA7j8CSCgMzKvKRxtAuUFchbhBMaprFWjANnspump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/gajia7j8cscgmzkvkrxtauufchbhbmaprfwjannspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9yxQvtqzsdHay96y7kxE8ikrGdi2FnytaCmMr9c9pump",
-        "description": "Shell Shock is a psychedelic snail hauling his shell overhead, leaking slime and panic through a world of loud colors and bad decisions.",
-        "url": "https://dexscreener.com/solana/9yxqvtqzsdhay96y7kxe8ikrgdi2fnytacmmr9c9pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9jS7dfqyfeLytAs4Vw1wkmBt4fsjA78qnCtL1Erzpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/9js7dfqyfelytas4vw1wkmbt4fsja78qnctl1erzpump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x113f159b02EDC15732a31f49916D9dCCe9a07777",
-        "description": "新模式🔥BNCQ2.0 是由技术员B本聪亲自发行带队，打造当年的盘古生态，交易所看中本聪，链上看币本聪，B本聪曾经发行四个币，BNCQ，0.01到5美金500倍，BBG，200倍，BNBH 200倍，BNBLP 100倍，由于BNCQ机制问题：1，中转销毁地址是链上自动生成的，被黑客攻击。2，池子太小，到5美金 池子",
-        "url": "https://dexscreener.com/bsc/0x113f159b02edc15732a31f49916d9dcce9a07777"
       }
     ]
   },
