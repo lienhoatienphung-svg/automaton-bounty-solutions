@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T23:43:25.042Z",
-  "latencyMs": 800,
+  "executedAt": "2026-10-21T23:57:12.000Z",
+  "latencyMs": 771,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #471: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #472: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,72 +217,57 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 659,
-      "priceBtc": 3.606927814154315e-7
+      "marketCapRank": 706,
+      "priceBtc": 3.148934947196088e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009671350164347396
+      "priceBtc": 0.000009682054140923108
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 85,
-      "priceBtc": 0.00002879139248804278
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 512,
-      "priceBtc": 0.0000031735890296598716
+      "priceBtc": 0.00002887007012504756
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.632908188002777e-8
+      "priceBtc": 9.615895642568905e-8
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 511,
+      "priceBtc": 0.000003157637348601334
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.0000624406090797058
+      "priceBtc": 0.00006211742097374171
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 704,
-      "priceBtc": 0.0011028134580252436
+      "marketCapRank": 702,
+      "priceBtc": 0.0010928245512438338
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9996987230581243
+      "priceBtc": 0.9995375973237666
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[Validator node] Validator's own transactions stay in the local mempool forever, so it stops entering the committee lottery",
-      "url": "https://github.com/asentum-network/asentum-explorer/issues/54",
-      "createdAt": "2026-10-21T21:57:23Z"
-    },
-    {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
-    },
-    {
-      "title": "fix(freecell): make hint source and destination unmistakable (#3346)",
-      "url": "https://github.com/wcmchenry3-stack/BC-Arcade/pull/3469",
-      "createdAt": "2026-10-21T23:41:15Z"
-    },
-    {
-      "title": "Protected website-only release authority: authenticated Wolo HOLD evidence and transitive scope proof",
-      "url": "https://github.com/Emaren/app-prodn/issues/665",
-      "createdAt": "2026-10-18T15:00:14Z"
+      "title": "feat: operator-issued MB/minute ecash — unit-aware pricing + CDK mint integration (DRAFT)",
+      "url": "https://github.com/OpenTollGate/tollgate-module-basic-go/pull/1040",
+      "createdAt": "2026-10-21T13:59:26Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -290,9 +275,24 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Season 0: whalewallet.fun play-points markets",
-      "url": "https://github.com/joecyph0x/Wallet-fun/pull/1",
-      "createdAt": "2026-10-21T23:40:27Z"
+      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
+      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
+      "createdAt": "2026-10-11T10:45:50Z"
+    },
+    {
+      "title": "security(program): refund-only settlement, join terms, layout padding; retire the web app",
+      "url": "https://github.com/davigiroux/safenudge.xyz/pull/103",
+      "createdAt": "2026-10-20T22:02:27Z"
+    },
+    {
+      "title": "feat(mcp): add jaw_get_defi_positions tool",
+      "url": "https://github.com/JustaLab-co/jaw-mono/pull/539",
+      "createdAt": "2026-10-21T21:43:32Z"
+    },
+    {
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
     }
   ]
 }
