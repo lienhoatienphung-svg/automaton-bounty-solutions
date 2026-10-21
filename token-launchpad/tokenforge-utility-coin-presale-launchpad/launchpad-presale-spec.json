@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T13:47:59.795Z",
-  "latencyMs": 357,
+  "executedAt": "2026-10-21T14:01:11.379Z",
+  "latencyMs": 516,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #387: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #388: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52900566,
-    "liveGasPriceGwei": 0.0061,
+    "liveBlockNumber": 52900962,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459848,
-    "baseMainnetTopPoolsVolume24hUsd": 152071,
+    "baseMainnetTopPoolsVolume24hUsd": 152194,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "B77TPEKSR8nu23ZYUHB83LYxyGDBNkCzfvHXFkfRpump",
+        "description": "The most fastest growing viral name for cats... Chicken Nugget.",
+        "url": "https://dexscreener.com/solana/b77tpeksr8nu23zyuhb83lyxygdbnkczfvhxfkfrpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5iib9k6W8xMwuEfSLMXatv7msr94oBNQwcdaLhtkpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/5iib9k6w8xmwuefslmxatv7msr94obnqwcdalhtkpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7NgwJMbrvxdestgmfLaiGf8XCoUD98GqSD2TFw3kpump",
+        "description": "Burn Calories, Earn $STRIDE",
+        "url": "https://dexscreener.com/solana/7ngwjmbrvxdestgmflaigf8xcoud98gqsd2tfw3kpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Ac4UPAYTpiNPpwXQ7cqTZnRVtPH3yeC9md8oJLo4pump",
+        "description": "chud cat",
+        "url": "https://dexscreener.com/solana/ac4upaytpinppwxq7cqtznrvtph3yec9md8ojlo4pump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x17c63a297a76bed7e96a96bcf5f566de1efdd1fc",
@@ -57,30 +81,6 @@
         "tokenAddress": "9iCtpgPhsh7vhotrfDsA5xAUiGweEG2QKUeGDbirpump",
         "description": "Solana Accelerationism. \n\nSolana cut its block time from 400 to 200 ms in seven weeks, and Alpenglow (Oct 21) takes finality from ~7 seconds to ~150 ms: about o",
         "url": "https://dexscreener.com/solana/9ictpgphsh7vhotrfdsa5xauigweeg2qkuegdbirpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "G8o4YRtppz9CyZCWvBUnCHVeYQx4XdzAEzx2mSiWpump",
-        "description": "Inspired by Kimchi, made for the trenches.\n\nPaired with $KIMCHI, Kimchinu keeps things simple. \n\nJust hold $KIMCHINU and earn $KIMCHI rewards.",
-        "url": "https://dexscreener.com/solana/g8o4yrtppz9cyzcwvbunchveyqx4xdzaezx2msiwpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x28B878B5Ef3eD55dcA52a9575dEEFa678365d07A",
-        "description": "Official Tickr Game\n\nTickr is a daily stock-picking game on Robinhood Chain. Every trading day: five stocks, one pot. Back the one that closes first, split the ",
-        "url": "https://dexscreener.com/robinhood/0x28b878b5ef3ed55dca52a9575deefa678365d07a"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x4fd0b459746934B1a07C3a4AD7c75bc4CCDF6B69",
-        "description": "$MINDOIL is the token of the pump attendant, an AI agent that keeps other agents fuelled.\n\nMindOil is the first NFT collection on Orbio: NFTs that hold real AI.",
-        "url": "https://dexscreener.com/robinhood/0x4fd0b459746934b1a07c3a4ad7c75bc4ccdf6b69"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DxHTm46b1cnxMWi23PWtNX9AfdErYCdg7FAUskF6pump",
-        "description": "One mon against the horde. Survive, evolve mid-run, cash out in SOL before you faint. $SOLO",
-        "url": "https://dexscreener.com/solana/dxhtm46b1cnxmwi23pwtnx9afderycdg7fauskf6pump"
       }
     ]
   },
