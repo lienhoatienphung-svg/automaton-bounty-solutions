@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T04:58:58.847Z",
-  "latencyMs": 371,
+  "executedAt": "2026-10-21T05:09:07.350Z",
+  "latencyMs": 266,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #307: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #308: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52884695,
-    "liveGasPriceGwei": 0.006,
+    "liveBlockNumber": 52885000,
+    "liveGasPriceGwei": 0.0061,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459833,
-    "baseMainnetTopPoolsVolume24hUsd": 148461,
+    "baseMainnetTopPoolsVolume24hUsd": 148462,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump",
+        "description": "They dropped an exploit that allows you to drain money from anyone.",
+        "url": "https://dexscreener.com/solana/cbkg5w7v7w2j2sumecnyn825cbvwvxwasfhduvtnpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Ca3BDkJveorqmyXiFx1P41imefBskvaSbSm74vcfAs6X",
+        "description": "Co-signed by alon and launched by kimchi.",
+        "url": "https://dexscreener.com/solana/ca3bdkjveorqmyxifx1p41imefbskvasbsm74vcfas6x"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6hvs6yMz32JsNwof7pQige8aivr6jtd7JVYKkANJpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "6Ez7jwuUoTr81akzQsBPjfGA67nRWoePEQUsKCUfpump",
         "description": "Ivy the Puppy of the year",
         "url": "https://dexscreener.com/solana/6ez7jwuuotr81akzqsbpjfga67nrwoepequskcufpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AgWZHz6zwggxEFufCeZjy9itn29moQUYQTepez93pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/agwzhz6zwggxefufcezjy9itn29moquyqtepez93pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "PowDwfufYqGXKXUSUEFDaDyKc4Qghp9ycNm7eP4pump",
-        "description": "The first pokemon launchpad you can walk through.",
-        "url": "https://dexscreener.com/solana/powdwfufyqgxkxusuefdadykc4qghp9ycnm7ep4pump"
       }
     ]
   },
