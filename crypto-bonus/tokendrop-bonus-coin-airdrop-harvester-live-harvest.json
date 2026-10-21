@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T15:37:05.237Z",
-  "latencyMs": 1278,
+  "executedAt": "2026-10-21T15:49:18.303Z",
+  "latencyMs": 966,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #405: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #406: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "FrtbBAaSZksfh4oV46E7Pvb43QiiUmYLD3dcGS6gpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "The Polymarket API future market platform live. \n\nMeme + Utlity ----->$RIBBIT\n\n$RIBBIT now and use it to buy contracts & futures on every major event so you can",
+      "url": "https://dexscreener.com/solana/frtbbaaszksfh4ov46e7pvb43qiiumyld3dcgs6gpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump",
       "boostAmount": 500,
       "totalBoostAmount": 500,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Kolomon lets you spend crypto like dollars. The card is live. Every Kolomon fee is 1%,\nand 100% of fees buy back and burn $KOLO",
       "url": "https://dexscreener.com/solana/koloag4ktxxa2g5fjrwnaheny5wpfq2rzvuxscgzrpc"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump",
-      "boostAmount": 500,
-      "totalBoostAmount": 500,
-      "description": "Aura President.",
-      "url": "https://dexscreener.com/solana/3jee9dctw17ncgzeks5zapv4qgqtjp6tjahgkndcpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 762,
-      "priceBtc": 2.9830570764319004e-7
+      "marketCapRank": 801,
+      "priceBtc": 2.7312511193550004e-7
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.692950997808279e-8
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 88,
-      "priceBtc": 0.000027737147292089064
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 506,
-      "priceBtc": 0.0000032484994274069435
+      "priceBtc": 9.71531924195107e-8
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
-      "marketCapRank": 85,
-      "priceBtc": 0.00001018920398355416
+      "marketCapRank": 86,
+      "priceBtc": 0.000010203922490972413
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015754087641391624
+      "priceBtc": 0.015881789072688154
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 89,
+      "priceBtc": 0.00002777200015619967
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 533,
+      "priceBtc": 0.0000030423085962307575
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 68,
-      "priceBtc": 0.0003248417239036124
+      "priceBtc": 0.0003239057708891447
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 721,
-      "priceBtc": 0.0010684177243823418
+      "marketCapRank": 726,
+      "priceBtc": 0.0010649749105717113
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "perf(sampling): fuse greedy chain verification output writes",
-      "url": "https://github.com/lightseekorg/tokenspeed/pull/2553",
-      "createdAt": "2026-10-20T19:50:31Z"
+      "title": "feat(cookbook): ask Dexra for a risk verdict before buying a pump.fun coin",
+      "url": "https://github.com/chainstacklabs/pumpfun-bonkfun-bot/pull/242",
+      "createdAt": "2026-10-20T20:26:10Z"
     },
     {
-      "title": "feat(communities): on-demand community roster model (additive)",
-      "url": "https://github.com/status-im/status-app/pull/22797",
-      "createdAt": "2026-10-13T13:08:08Z"
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
     },
     {
-      "title": "build: M1 local stack, testnet contract replay and plan decisions",
-      "url": "https://github.com/shanepreater/gajufreight/pull/180",
-      "createdAt": "2026-10-21T07:46:03Z"
+      "title": "[Release] Candidate",
+      "url": "https://github.com/Polymarket/ts-sdk/pull/432",
+      "createdAt": "2026-10-13T17:53:46Z"
     },
     {
-      "title": "[BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history",
-      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1",
-      "createdAt": "2026-03-27T00:55:36Z"
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/57",
+      "createdAt": "2026-10-21T14:25:14Z"
     },
     {
-      "title": "[Apple] iOS/iPadOS/macOS 原生客户端与 NIM4 互通",
-      "url": "https://github.com/GHOST-AKU/wozai/issues/31",
-      "createdAt": "2026-10-20T15:11:49Z"
+      "title": "chore(dependabot): add cooldown and harden update settings",
+      "url": "https://github.com/bsv-blockchain/go-wallet-toolbox/pull/1072",
+      "createdAt": "2026-10-21T15:48:20Z"
     },
     {
-      "title": "fix: normalize address in sim_fundAccount",
-      "url": "https://github.com/genlayerlabs/genlayer-studio/pull/1789",
-      "createdAt": "2026-10-12T11:52:02Z"
+      "title": "Prepare signed release packages",
+      "url": "https://github.com/anguria-studio/Moppo/issues/15",
+      "createdAt": "2026-10-08T08:12:06Z"
     }
   ]
 }
