@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T05:40:04.033Z",
-  "latencyMs": 919,
+  "executedAt": "2026-10-21T05:51:08.191Z",
+  "latencyMs": 883,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #317: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #318: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.000026530737168010602
+      "priceBtc": 0.000026218775110647476
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 139,
+      "priceBtc": 0.000004327008746696435
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 114,
-      "priceBtc": 9.642644275249487e-8
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 138,
-      "priceBtc": 0.000004312356038790031
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00006033919269204607
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 721,
-      "priceBtc": 0.0010640887984472913
+      "priceBtc": 9.654480713156526e-8
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015174941068385036
+      "priceBtc": 0.01522355891195602
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 720,
+      "priceBtc": 0.001068606356887593
     },
     {
       "name": "Grass",
       "symbol": "GRASS",
       "marketCapRank": 121,
-      "priceBtc": 0.000007744466982709914
+      "priceBtc": 0.000007742952445821772
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012335051041606342
+      "priceBtc": 0.000012336651673905626
+    },
+    {
+      "name": "Monero",
+      "symbol": "XMR",
+      "marketCapRank": 13,
+      "priceBtc": 0.006957933713565967
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat: vault dust reconciliation, decimal compatibility, provider status transitions, submission quotas",
-      "url": "https://github.com/AgesEmpire/StellarSwipe-Contract/pull/1349",
-      "createdAt": "2026-10-20T23:55:53Z"
+      "title": "AppWorld eval REST: GEPA-Full vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/900",
+      "createdAt": "2026-10-20T19:52:40Z"
     },
     {
-      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
-      "createdAt": "2026-10-07T00:07:47Z"
+      "title": "Zcash tooling: Testnet explorer on the NU7 chain, faucet, Ironwood pool, and Testnet behaviors",
+      "url": "https://github.com/chainstack/dev-portal/pull/803",
+      "createdAt": "2026-10-21T05:49:37Z"
     },
     {
-      "title": "[ARC-10] Event Config Engine / Daily / Weekly / Event Shop",
-      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/issues/10",
-      "createdAt": "2026-10-19T14:50:45Z"
+      "title": "napier fees: count LP swap fees as supply side revenue",
+      "url": "https://github.com/DefiLlama/dimension-adapters/pull/10309",
+      "createdAt": "2026-10-21T04:16:47Z"
     },
     {
-      "title": "[AP-CEO] ARCANA SURVIVOR — Parallel Team & Integration Mission",
-      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/issues/21",
-      "createdAt": "2026-10-20T01:22:40Z"
+      "title": "Carry a Commons copy's credit into every file that takes it out",
+      "url": "https://github.com/ZsomborRajki/OpenHikes/pull/899",
+      "createdAt": "2026-10-20T21:48:21Z"
     },
     {
-      "title": "[AP-ROLE] QA — Independent Cross-Platform Gate",
-      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/issues/26",
-      "createdAt": "2026-10-20T01:23:58Z"
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
     },
     {
-      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
-      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
-      "createdAt": "2026-10-11T10:45:50Z"
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
     }
   ]
 }
