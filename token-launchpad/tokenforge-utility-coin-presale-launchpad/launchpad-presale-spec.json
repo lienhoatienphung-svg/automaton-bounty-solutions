@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T14:29:23.231Z",
-  "latencyMs": 431,
+  "executedAt": "2026-10-21T14:31:24.027Z",
+  "latencyMs": 335,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #392: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #393: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52901807,
+    "liveBlockNumber": 52901868,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459847,
-    "baseMainnetTopPoolsVolume24hUsd": 144211,
+    "baseMainnetTopPoolsVolume24hUsd": 143350,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "8uWftzVoVBqyPJj6Xq9kRUtnz54W5GP4pd4smwZHpump",
+        "description": "Aura Final Boss of solana, now wearing a hat.",
+        "url": "https://dexscreener.com/solana/8uwftzvovbqypjj6xq9krutnz54w5gp4pd4smwzhpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GqhXpkFMGLteLB7Rii9AKWwBAUy2sGAiPGF9orxpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gqhxpkfmgltelb7rii9akwwbauy2sgaipgf9orxpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DR3uVReJt6qGVdQ4WbWYhz246TS845XnUQshhDdKpump",
+        "description": "The Humanoid Predator",
+        "url": "https://dexscreener.com/solana/dr3uvrejt6qgvdq4wbwyhz246ts845xnuqshhddkpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3tVihdTGDn67xzX2Gqdn3uWfVCQ4uzChuwJXDBkDpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "BzTis1RuMqXGfVT6x25s7uDuCgS3ro4PTw99zHvJpump",
         "description": "Inu. In a vest. An Inuvestor. \n$Invest in your freedom.",
         "url": "https://dexscreener.com/solana/bztis1rumqxgfvt6x25s7uducgs3ro4ptw99zhvjpump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x550bd4aF9DAC23455b79BDf40F756B835468Fe99",
-        "description": "A launchpad built on a rising floor. Reserve backed liquidity. Trading that feeds the backing. Launch with Lode.",
-        "url": "https://dexscreener.com/ethereum/0x550bd4af9dac23455b79bdf40f756b835468fe99"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7aAbi7aFoj3SHnAn3rN7YwemJcHg5MYpEQL7fZuQqED3",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7aabi7afoj3shnan3rn7ywemjchg5mypeql7fzuqqed3"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "svo7kGfy76oai2uzBLqa4p1pwHnPAoi9wTx3aebV57g",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/svo7kgfy76oai2uzblqa4p1pwhnpaoi9wtx3aebv57g"
       }
     ]
   },
