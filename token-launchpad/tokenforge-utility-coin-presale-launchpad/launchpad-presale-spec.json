@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T05:31:13.700Z",
-  "latencyMs": 395,
+  "executedAt": "2026-10-21T05:32:36.493Z",
+  "latencyMs": 715,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #312: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #313: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52885663,
-    "liveGasPriceGwei": 0.0061,
+    "liveBlockNumber": 52885704,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459833,
-    "baseMainnetTopPoolsVolume24hUsd": 148845,
+    "baseMainnetTopPoolsVolume24hUsd": 148853,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5XcybvUmoBEg4NKBHQ25jYASdD8MpGfF81zgsDXKpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/5xcybvumobeg4nkbhq25jyasdd8mpgff81zgsdxkpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8qSJe5QLg5cKj4s41fH23UeJVHgLKXdjRUfERKgupump",
@@ -75,12 +81,6 @@
         "tokenAddress": "y2z8q1zbWxS8a5aGrDeqyGCoWTdPGk7MsMuUA6Rpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/y2z8q1zbwxs8a5agrdeqygcowtdpgk7msmuua6rpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "G9WuTdRa3UErXAAZaF6gpkA4g4bQ6vcqPqs1YB6kTKXB",
-        "description": "The Kimchi dog -- a story of humble beginnings.",
-        "url": "https://dexscreener.com/solana/g9wutdra3uerxaazaf6gpka4g4bq6vcqpqs1yb6ktkxb"
       }
     ]
   },
