@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T07:26:20.622Z",
-  "latencyMs": 873,
+  "executedAt": "2026-10-21T07:38:03.830Z",
+  "latencyMs": 771,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #331: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #332: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52889116,
+    "liveBlockNumber": 52889468,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 140223,
+    "baseMainnetTopPoolsVolume24hUsd": 140428,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BZ6M2dAsnx6v3Vp3U7jsSM1zshvKxG9ejAVrLiBfNa9P",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bz6m2dasnx6v3vp3u7jssm1zshvkxg9ejavrlibfna9p"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CymGUyYFMxtwdfHeA8rj7rywS1NkrTCGVt1cw1x5pump",
+        "description": "Solana trading app for iPhone. Every launch the second it goes live. Self-custody. Zero platform fees.",
+        "url": "https://dexscreener.com/solana/cymguyyfmxtwdfhea8rj7ryws1nkrtcgvt1cw1x5pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9Bn4iAbrYEj5xL2Y2Fq2LPeXtd6fryra1ftjBYJMpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "8FGreSHZeiinbu3zPeBA3vawxvz2phvyomnPn1NEpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/8fgreshzeiinbu3zpeba3vawxvz2phvyomnpn1nepump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x25e3Fe8C2Bea75768591F63d26C7530690057777",
-        "description": "英雄联盟 s16 全球总决赛 我们来了！",
-        "url": "https://dexscreener.com/bsc/0x25e3fe8c2bea75768591f63d26c7530690057777"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x64eb587083a775732f774b930037d7d7aeb36111",
-        "description": "Build Backends. Fast. Install the CLI, run shuttle init, then shuttle deploy: your code is packaged and compiled, and the resources it asks for are provisioned ",
-        "url": "https://dexscreener.com/robinhood/0x64eb587083a775732f774b930037d7d7aeb36111"
       }
     ]
   },
