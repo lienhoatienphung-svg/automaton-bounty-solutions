@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T05:52:21.562Z",
-  "latencyMs": 735,
+  "executedAt": "2026-10-21T06:02:47.106Z",
+  "latencyMs": 1673,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #319: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #320: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "BLhG3Yk7JVDKkv1z3bPv7o1t2XnZMXAzpZmpvpnppump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/blhg3yk7jvdkkv1z3bpv7o1t2xnzmxazpzmpvpnppump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "6hvs6yMz32JsNwof7pQige8aivr6jtd7JVYKkANJpump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/63ji3lxbkemmkpersacnak9qdktp7ymqpcq8vuw3pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8QtbrC9d3BezyCwzBFUQbNsWJGte7ckrZ7HWcn81pump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Connecting the internet again with dickbutt",
-      "url": "https://dexscreener.com/solana/8qtbrc9d3bezycwzbfuqbnswjgte7ckrz7hwcn81pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,62 +217,72 @@
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 91,
-      "priceBtc": 0.000026218775110647476
+      "marketCapRank": 90,
+      "priceBtc": 0.00002624829539959311
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
       "marketCapRank": 139,
-      "priceBtc": 0.000004327008746696435
+      "priceBtc": 0.000004319729876974744
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 114,
-      "priceBtc": 9.654480713156526e-8
+      "priceBtc": 9.662049921258008e-8
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.01522355891195602
+      "priceBtc": 0.015198193095733937
+    },
+    {
+      "name": "Convex Finance",
+      "symbol": "CVX",
+      "marketCapRank": 164,
+      "priceBtc": 0.000031311213419979354
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 720,
-      "priceBtc": 0.001068606356887593
-    },
-    {
-      "name": "Grass",
-      "symbol": "GRASS",
-      "marketCapRank": 121,
-      "priceBtc": 0.000007742952445821772
+      "marketCapRank": 725,
+      "priceBtc": 0.0010654188951514157
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012336651673905626
+      "priceBtc": 0.000012356519800271888
     },
     {
-      "name": "Monero",
-      "symbol": "XMR",
-      "marketCapRank": 13,
-      "priceBtc": 0.006957933713565967
+      "name": "Starknet",
+      "symbol": "STRK",
+      "marketCapRank": 124,
+      "priceBtc": 6.754643056216347e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix: make the Home faucet banner keyboard accessible",
-      "url": "https://github.com/syscoin/pali-wallet/pull/1000",
-      "createdAt": "2026-10-21T05:51:30Z"
+      "title": "# Spike 583 — PWA offline queue: installable app with deferred mint, offer and vote",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/447",
+      "createdAt": "2026-10-15T10:25:25Z"
     },
     {
-      "title": "[agent: claude] Partially address #99 organic B1.3 joins",
-      "url": "https://github.com/truhojunbot-tech/quota-core/pull/102",
-      "createdAt": "2026-10-11T15:20:42Z"
+      "title": "# Spike 586 — Push notification campaigns with segmentation, scheduling and analytics",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/450",
+      "createdAt": "2026-10-15T10:26:54Z"
+    },
+    {
+      "title": "# Spike 584 — Service-worker media cache for IPFS gateway resilience",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/448",
+      "createdAt": "2026-10-15T10:25:52Z"
+    },
+    {
+      "title": "# Spike 585 — OG video frames and animated OG with live price and activity overlay",
+      "url": "https://github.com/PHASE-STELLAR/Phase/issues/449",
+      "createdAt": "2026-10-15T10:26:23Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -280,19 +290,9 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "AppWorld eval REST: GEPA-Full vs seed (gpt-oss-120b)",
-      "url": "https://github.com/skillberry-ai/cap-evolve/issues/900",
-      "createdAt": "2026-10-20T19:52:40Z"
-    },
-    {
-      "title": "napier fees: count LP swap fees as supply side revenue",
-      "url": "https://github.com/DefiLlama/dimension-adapters/pull/10309",
-      "createdAt": "2026-10-21T04:16:47Z"
-    },
-    {
-      "title": "Carry a Commons copy's credit into every file that takes it out",
-      "url": "https://github.com/ZsomborRajki/OpenHikes/pull/899",
-      "createdAt": "2026-10-20T21:48:21Z"
+      "title": "SF-022: Seal-encrypted artifact delivery with scoped, device-authenticated decryption",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/118",
+      "createdAt": "2026-10-16T21:18:29Z"
     }
   ]
 }
