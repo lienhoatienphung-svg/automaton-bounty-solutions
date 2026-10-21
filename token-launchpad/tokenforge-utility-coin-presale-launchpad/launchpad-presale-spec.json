@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T10:22:18.940Z",
-  "latencyMs": 510,
+  "executedAt": "2026-10-21T10:32:47.319Z",
+  "latencyMs": 1157,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #357: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #358: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52894395,
+    "liveBlockNumber": 52894709,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 136239,
+    "baseMainnetTopPoolsLiquidityUsd": 459838,
+    "baseMainnetTopPoolsVolume24hUsd": 136224,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x8db8018fc00485c4a0e2e19c10bd9703fc505c8f",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0x8db8018fc00485c4a0e2e19c10bd9703fc505c8f"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CsTYig6QAuhdPW89SJSM2j7zbky1QQ9eqfy2xhTstDf2",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cstyig6qauhdpw89sjsm2j7zbky1qq9eqfy2xhtstdf2"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2Dy6RY7GzUGLu9ZqNuboWrJP6Xo6WR9zJZsmbtzPpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x113f159b02EDC15732a31f49916D9dCCe9a07777",
         "description": "新模式🔥BNCQ2.0 是由技术员B本聪亲自发行带队，打造当年的盘古生态，交易所看中本聪，链上看币本聪，B本聪曾经发行四个币，BNCQ，0.01到5美金500倍，BBG，200倍，BNBH 200倍，BNBLP 100倍，由于BNCQ机制问题：1，中转销毁地址是链上自动生成的，被黑客攻击。2，池子太小，到5美金 池子",
         "url": "https://dexscreener.com/bsc/0x113f159b02edc15732a31f49916d9dcce9a07777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8fuSQjn3dAK9u6Eeou3pugKunXe1azyY4fdnCN4pump",
-        "description": "The first\nprivate\nterminal.",
-        "url": "https://dexscreener.com/solana/8fusqjn3dak9u6eeou3pugkunxe1azyy4fdncn4pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EbNZ1myJ4BfY3PJFskRywX2AcFD7HyQZ5EX9YjYkpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ebnz1myj4bfy3pjfskrywx2acfd7hyqz5ex9yjykpump"
       }
     ]
   },
