@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T03:48:55.602Z",
-  "latencyMs": 1334,
+  "executedAt": "2026-10-21T03:50:09.959Z",
+  "latencyMs": 811,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #296: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #297: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "[DRAFT] Full product polish RC: Home/guide/side-identity/progression + itch nested hosting",
+      "url": "https://github.com/Khanh-glitch/APEX-CHAOS/pull/101",
+      "createdAt": "2026-10-20T14:58:15Z"
+    },
+    {
+      "title": "Add recipient-encrypted sealed rooms and on-chain key rotation",
+      "url": "https://github.com/kstrycharz/hauntboard/pull/3",
+      "createdAt": "2026-10-21T03:20:38Z"
+    },
+    {
+      "title": "[LWDM] feat(coin-tester-solana): run the tester on coin-sandbox (LIVE-38519)",
+      "url": "https://github.com/LedgerHQ/ledger-live/pull/23619",
+      "createdAt": "2026-10-21T03:34:58Z"
+    },
+    {
+      "title": "chore(deps): bump tempo dependencies to 0073dd1",
+      "url": "https://github.com/tskoyo/foundry/pull/18",
+      "createdAt": "2026-07-11T02:50:41Z"
+    },
+    {
       "title": "feat(coin-tester-tron): run the tester on coin-sandbox (LIVE-38534)",
       "url": "https://github.com/LedgerHQ/ledger-live/pull/23621",
       "createdAt": "2026-10-21T03:44:58Z"
@@ -273,26 +293,6 @@
       "title": "A fresh town's Strands pool with its fiber gatherers: crafters spend theirs on deeds, and nobody can buy",
       "url": "https://github.com/chrischaps/TheCapitol/issues/294",
       "createdAt": "2026-10-21T00:51:55Z"
-    },
-    {
-      "title": "Tuning from the E2.7 sim: rural iron veins are too rare, logs too cheap, tax negligible",
-      "url": "https://github.com/chrischaps/TheCapitol/issues/210",
-      "createdAt": "2026-10-18T23:44:01Z"
-    },
-    {
-      "title": "chore(deps): update dependency @lucide/vue to v1.60.0",
-      "url": "https://github.com/jdbnet/goproxy/pull/4",
-      "createdAt": "2026-09-04T21:00:42Z"
-    },
-    {
-      "title": "Rename `LogoURI` and `ExternalLink` for consistent URI naming",
-      "url": "https://github.com/0xMiden/protocol/issues/4067",
-      "createdAt": "2026-10-19T12:01:17Z"
-    },
-    {
-      "title": "feat: Sell pixels to agents project course",
-      "url": "https://github.com/agentschools/cloudflare-dev-school/issues/161",
-      "createdAt": "2026-10-21T03:47:03Z"
     }
   ]
 }
