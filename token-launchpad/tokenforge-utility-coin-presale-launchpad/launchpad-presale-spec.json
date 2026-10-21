@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T14:03:07.873Z",
-  "latencyMs": 397,
+  "executedAt": "2026-10-21T14:15:49.236Z",
+  "latencyMs": 340,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #389: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #390: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52901020,
-    "liveGasPriceGwei": 0.006,
+    "liveBlockNumber": 52901401,
+    "liveGasPriceGwei": 0.0061,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,39 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459848,
-    "baseMainnetTopPoolsVolume24hUsd": 151335,
+    "baseMainnetTopPoolsVolume24hUsd": 148198,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BzTis1RuMqXGfVT6x25s7uDuCgS3ro4PTw99zHvJpump",
+        "description": "Inu. In a vest. An Inuvestor. \n$Invest in your freedom.",
+        "url": "https://dexscreener.com/solana/bztis1rumqxgfvt6x25s7uducgs3ro4ptw99zhvjpump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x550bd4aF9DAC23455b79BDf40F756B835468Fe99",
+        "description": "A launchpad built on a rising floor. Reserve backed liquidity. Trading that feeds the backing. Launch with Lode.",
+        "url": "https://dexscreener.com/ethereum/0x550bd4af9dac23455b79bdf40f756b835468fe99"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7aAbi7aFoj3SHnAn3rN7YwemJcHg5MYpEQL7fZuQqED3",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7aabi7afoj3shnan3rn7ywemjchg5mypeql7fzuqqed3"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "svo7kGfy76oai2uzBLqa4p1pwHnPAoi9wTx3aebV57g",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/svo7kgfy76oai2uzblqa4p1pwhnpaoi9wtx3aebv57g"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3hVFoft2zJZpVinBN29oMJgJYzdny8gPikuvb5tTpump",
+        "description": "A gamified Pumpfun ecosystem where one animal = one token, all paired with mother $ANIMALS. Every animal fuels an endless burn cycle.",
+        "url": "https://dexscreener.com/solana/3hvfoft2zjzpvinbn29omjgjyzdny8gpikuvb5ttpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3LTox4ciobeuUivZRueYbyuXjeTga4CA1w8JjqhQpump",
@@ -51,36 +81,6 @@
         "tokenAddress": "5iib9k6W8xMwuEfSLMXatv7msr94oBNQwcdaLhtkpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/5iib9k6w8xmwuefslmxatv7msr94obnqwcdalhtkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7NgwJMbrvxdestgmfLaiGf8XCoUD98GqSD2TFw3kpump",
-        "description": "Burn Calories, Earn $STRIDE",
-        "url": "https://dexscreener.com/solana/7ngwjmbrvxdestgmflaigf8xcoud98gqsd2tfw3kpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Ac4UPAYTpiNPpwXQ7cqTZnRVtPH3yeC9md8oJLo4pump",
-        "description": "chud cat",
-        "url": "https://dexscreener.com/solana/ac4upaytpinppwxq7cqtznrvtph3yec9md8ojlo4pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x17c63a297a76bed7e96a96bcf5f566de1efdd1fc",
-        "description": "The routing layer for stock tokens.\nSwap smarter across liquidity pools on Robinhood Chain.",
-        "url": "https://dexscreener.com/robinhood/0x17c63a297a76bed7e96a96bcf5f566de1efdd1fc"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6vTfK2bXGdWBXcykjHYWCRc33tDA16RrSW7k7znbpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6vtfk2bxgdwbxcykjhywcrc33tda16rrsw7k7znbpump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x725CCC7B5cEaCb0324B64CCb7DA3EcA2cd3a6666",
-        "description": "A meme token with a real engine under the hood.\n\nMost meme tokens run on hype alone. SI SpaceX INU runs on the SI Module, an automated trading system built by o",
-        "url": "https://dexscreener.com/bsc/0x725ccc7b5ceacb0324b64ccb7da3eca2cd3a6666"
       }
     ]
   },
