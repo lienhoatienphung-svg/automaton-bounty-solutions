@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T16:23:15.479Z",
-  "latencyMs": 362,
+  "executedAt": "2026-10-21T16:25:03.610Z",
+  "latencyMs": 367,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #408: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #409: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52905224,
+    "liveBlockNumber": 52905278,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459832,
-    "baseMainnetTopPoolsVolume24hUsd": 131972,
+    "baseMainnetTopPoolsVolume24hUsd": 132002,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump",
+        "description": "Nigga it's over token by @idofentanyl\n\nMaking the trenches fun again",
+        "url": "https://dexscreener.com/solana/7sl2vnfyschvog5oqy9nmtqu1wceamiqzwoqolqpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "nAuyx14mHoXjzdBipvNMJxNC31jjYdPqMGaNfhHpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "G6AjY7RnwoxU7UPUh5ru53Xgv9qGLKfR4va8nsJZpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/g6ajy7rnwoxu7upuh5ru53xgv9qglkfr4va8nsjzpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xac8d0878b32d686254b1f4049da1a0210de9b638",
-        "description": "Bets between friends, sealed on-chain. Stakes locked in a contract, settled by the resolvers you both chose.",
-        "url": "https://dexscreener.com/robinhood/0xac8d0878b32d686254b1f4049da1a0210de9b638"
       }
     ]
   },
