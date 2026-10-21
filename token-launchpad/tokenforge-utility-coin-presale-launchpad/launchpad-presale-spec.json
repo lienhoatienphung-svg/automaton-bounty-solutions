@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T09:42:23.450Z",
-  "latencyMs": 341,
+  "executedAt": "2026-10-21T09:53:51.311Z",
+  "latencyMs": 439,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #351: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #352: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52893198,
+    "liveBlockNumber": 52893542,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 147492,
+    "baseMainnetTopPoolsVolume24hUsd": 143913,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "EbNZ1myJ4BfY3PJFskRywX2AcFD7HyQZ5EX9YjYkpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/ebnz1myj4bfy3pjfskrywx2acfd7hyqz5ex9yjykpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Gv6jKrrjJW9NLZujVZdxj6D9xL21qcLbHso8LYFMpump",
@@ -49,7 +55,7 @@
       {
         "chainId": "solana",
         "tokenAddress": "F8H5xJsCSbDrRR6Wzvm7vgbBXMsJ7hG5XqK11LLjpump",
-        "description": "Buckme GTA VI Currency",
+        "description": "Buckme - The Digital Currency of Vice City\n\nPaired to Dacity The Offiicial GTA VI Memecoin",
         "url": "https://dexscreener.com/solana/f8h5xjscsbdrrr6wzvm7vgbbxmsj7hg5xqk11lljpump"
       },
       {
@@ -75,12 +81,6 @@
         "tokenAddress": "0x688436a0c87d23cd33ee7b1965c090192df19c62",
         "description": "$BROVE is the token of BroveMarkets, a read-only market and hook intelligence terminal for Uniswap v4 on Robinhood Chain. Discover pools, follow on-chain swaps ",
         "url": "https://dexscreener.com/robinhood/0x688436a0c87d23cd33ee7b1965c090192df19c62"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4gk3n1iCFj2n84MkuRenGHDRZHBRvXy81vLa35krpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4gk3n1icfj2n84mkurenghdrzhbrvxy81vla35krpump"
       }
     ]
   },
