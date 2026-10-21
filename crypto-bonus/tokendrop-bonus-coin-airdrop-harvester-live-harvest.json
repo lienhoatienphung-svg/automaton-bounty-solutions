@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T10:43:49.063Z",
-  "latencyMs": 955,
+  "executedAt": "2026-10-21T10:55:05.960Z",
+  "latencyMs": 939,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #363: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #364: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "5UxPc1WtxQPUXCfMZJFhhbvqNsbULEHRwYfMjyfEpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/5uxpc1wtxqpuxcfmzjfhhbvqnsbulehrwyfmjyfepump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "3H48TVZq4atygPq3dqtNrgH2RKJJpZjLPoU3TjyL2R2f",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "SUPRAI is designed as an open economic infrastructure for AI agents to access services, coordinate tasks, exchange value, and participate in the emerging machin",
       "url": "https://dexscreener.com/solana/3b9ufdvznafk3izskt6twaz7svynm1vyw4rxqulhpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DbDwQC6f9hvzvXjrQxqfiFDZhArbzfdujotbXqcwpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Rally Cat ($RALLY) is a Solana meme coin created by YouTuber Crypto Rally. Focused on organic growth, strong holders, and daily content. No hype teams. Just con",
-      "url": "https://dexscreener.com/solana/dbdwqc6f9hvzvxjrqxqfifdzharbzfdujotbxqcwpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 89,
-      "priceBtc": 0.000027893001157240155
+      "priceBtc": 0.000027967870940185858
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 112,
-      "priceBtc": 9.742847160033504e-8
+      "priceBtc": 9.744149274856585e-8
+    },
+    {
+      "name": "MESSIER",
+      "symbol": "M87",
+      "marketCapRank": 956,
+      "priceBtc": 2.1823819171308003e-10
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015289820442161477
+      "priceBtc": 0.015322275281960769
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9990760945410285
+      "priceBtc": 0.9989934006003317
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006199269902070784
+      "priceBtc": 0.00006199623605990558
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 717,
-      "priceBtc": 0.0010787471716333188
+      "priceBtc": 0.0010786442340562415
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009710611577694032
-    },
-    {
-      "name": "Doodles",
-      "symbol": "DOOD",
-      "marketCapRank": 743,
-      "priceBtc": 3.898067221269234e-8
+      "priceBtc": 0.0009721111598078147
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/thegalactiks/astro-website-template/pull/76",
+      "createdAt": "2026-03-23T14:17:01Z"
+    },
+    {
+      "title": "chore(deps): update dependency @lucide/svelte to v1",
+      "url": "https://github.com/huzvanec/Listujeme/pull/16",
+      "createdAt": "2026-03-23T20:54:11Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide-react to v1 (master)",
+      "url": "https://github.com/rajput-hemant/react-template-vite/pull/257",
+      "createdAt": "2026-03-30T01:49:17Z"
+    },
+    {
+      "title": "AppWorld eval REST: MIPROv2 vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/898",
+      "createdAt": "2026-10-20T19:52:37Z"
+    },
+    {
+      "title": "chore: bump NanoBot submodule and refresh command stats",
+      "url": "https://github.com/therealjustsnow/portfolio-/pull/40",
+      "createdAt": "2026-07-15T07:52:16Z"
+    },
+    {
       "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
       "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
       "createdAt": "2026-09-23T12:34:40Z"
-    },
-    {
-      "title": "BOOTSTRAP-001: paid AI work and resource access, then human earnings",
-      "url": "https://github.com/scottonchain/microcredit-agent-testbed/issues/17",
-      "createdAt": "2026-10-06T11:40:04Z"
-    },
-    {
-      "title": "Nik 0.2 design review: new architecture / structure (all agents: critique, then decide by experiment)",
-      "url": "https://github.com/NikitHamal/NikitHamal/issues/9",
-      "createdAt": "2026-10-20T19:08:03Z"
-    },
-    {
-      "title": "Live connector check failing (2026-10-01)",
-      "url": "https://github.com/ramankishore0997/pairlens/issues/1",
-      "createdAt": "2026-10-01T11:56:08Z"
-    },
-    {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/suplere/next-shadcn-nhost/pull/24",
-      "createdAt": "2024-09-01T01:17:59Z"
-    },
-    {
-      "title": "feat(prices): fetch verified token USD prices",
-      "url": "https://github.com/0xMiden/wallet/pull/1661",
-      "createdAt": "2026-10-20T17:30:43Z"
     }
   ]
 }
