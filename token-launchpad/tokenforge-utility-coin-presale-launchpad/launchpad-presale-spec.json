@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T21:53:52.123Z",
-  "latencyMs": 725,
+  "executedAt": "2026-10-21T21:55:35.220Z",
+  "latencyMs": 694,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #452: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #453: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52915142,
+    "liveBlockNumber": 52915193,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459821,
-    "baseMainnetTopPoolsVolume24hUsd": 138544,
+    "baseMainnetTopPoolsVolume24hUsd": 138323,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6VVQE38thkLzR65EPjqU2FuMtvqfN5sMCXTUCMnapump",
+        "description": "Nutcoin",
+        "url": "https://dexscreener.com/solana/6vvqe38thklzr65epjqu2fumtvqfn5smcxtucmnapump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xcd66fc37377d44045c27871184c072d0a6b39c9c",
@@ -75,12 +81,6 @@
         "tokenAddress": "87xS62vPQUWCrkV51DnwgpgVtULBy2B46BMthFw4pump",
         "description": "frig the trader",
         "url": "https://dexscreener.com/solana/87xs62vpquwcrkv51dnwgpgvtulby2b46bmthfw4pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "E5YAbWFc8eQ7NwUeZoVZRenbaaqEqry4opuknjnDpump",
-        "description": "Vice Cash Currency",
-        "url": "https://dexscreener.com/solana/e5yabwfc8eq7nwuezovzrenbaaqeqry4opuknjndpump"
       }
     ]
   },
