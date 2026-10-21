@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T04:10:54.923Z",
-  "latencyMs": 797,
+  "executedAt": "2026-10-21T04:19:58.712Z",
+  "latencyMs": 1252,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #301: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #302: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "63ji3LxbkEmmkpersaCnAk9QdkTp7ymqpcq8vuW3pump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/63ji3lxbkemmkpersacnak9qdktp7ymqpcq8vuw3pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "8QtbrC9d3BezyCwzBFUQbNsWJGte7ckrZ7HWcn81pump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 600,
       "description": "Kimchi Official Coin",
       "url": "https://dexscreener.com/solana/7thgkgtk1rp1utlpwuzeuu9vakedtmozzuyps6rgpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xC9675fe679C7d4e1b94416F66D61c96127eb964a",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "The Robinhood CEO turns into a Giga Chad, his name is Giga Tenev!",
-      "url": "https://dexscreener.com/robinhood/0xc9675fe679c7d4e1b94416f66d61c96127eb964a"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.000026086237835699954
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 137,
-      "priceBtc": 0.000004383042019113828
+      "priceBtc": 0.000026193048353940838
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "marketCapRank": 113,
-      "priceBtc": 9.699841824512613e-8
+      "marketCapRank": 114,
+      "priceBtc": 9.685211656982393e-8
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015238753918501761
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "marketCapRank": 36,
-      "priceBtc": 0.0032814954626813123
+      "priceBtc": 0.015250061454053441
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012390222438999833
+      "priceBtc": 0.00001241766601597424
     },
     {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 84,
-      "priceBtc": 0.000041044187517501054
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 139,
+      "priceBtc": 0.000004365034273633122
     },
     {
       "name": "Capybobo",
       "symbol": "PYBOBO",
-      "marketCapRank": 707,
-      "priceBtc": 9.080309174747776e-9
+      "marketCapRank": 708,
+      "priceBtc": 9.105844130327309e-9
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "marketCapRank": 35,
+      "priceBtc": 0.0032859711568397313
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.0012793518259194816
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "[AP-ROLE] QA — Independent Cross-Platform Gate",
+      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/issues/26",
+      "createdAt": "2026-10-20T01:23:58Z"
+    },
     {
       "title": "Weddings: artist thank-you card (My Card on the Gratuity tab)",
       "url": "https://github.com/prettyteam/pretty-productive/pull/30",
       "createdAt": "2026-10-21T04:04:23Z"
     },
     {
-      "title": "feat(x-promotion): probe-first automatic public X Post discovery",
-      "url": "https://github.com/chrislee0223/veinvite/pull/1189",
-      "createdAt": "2026-10-21T02:41:47Z"
+      "title": "[DRAFT] Full product polish RC: Home/guide/side-identity/progression + itch nested hosting",
+      "url": "https://github.com/Khanh-glitch/APEX-CHAOS/pull/101",
+      "createdAt": "2026-10-20T14:58:15Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
-      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
-      "createdAt": "2026-10-07T16:13:30Z"
+      "title": "chore(deps): update dependency @lucide/astro to v1.60.0",
+      "url": "https://github.com/magic-akari/lodash-challenges/pull/7",
+      "createdAt": "2026-09-05T15:43:18Z"
     },
     {
-      "title": "feat(networks): per-network services, teratest fixes, scaletest wiring (draft)",
-      "url": "https://github.com/bsv-blockchain/bsv-wallet/pull/36",
-      "createdAt": "2026-10-08T00:37:56Z"
-    },
-    {
-      "title": "llm-algo-leetcode 推理优化 | 202610 Task 2 ·  解码推进与候选验证",
-      "url": "https://github.com/datawhalechina/llm-algo-leetcode/issues/221",
-      "createdAt": "2026-10-14T04:45:28Z"
+      "title": "Sector read against BTC and flywheel list (/narratives)",
+      "url": "https://github.com/nhat111/crypto-signal/pull/39",
+      "createdAt": "2026-10-21T04:16:48Z"
     }
   ]
 }
