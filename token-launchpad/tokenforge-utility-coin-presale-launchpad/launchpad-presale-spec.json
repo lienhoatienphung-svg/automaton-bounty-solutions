@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T15:27:48.455Z",
-  "latencyMs": 350,
+  "executedAt": "2026-10-21T15:39:54.187Z",
+  "latencyMs": 767,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #401: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #402: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52903560,
-    "liveGasPriceGwei": 0.0061,
+    "liveBlockNumber": 52903923,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,20 +31,32 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459826,
-    "baseMainnetTopPoolsVolume24hUsd": 138850,
+    "baseMainnetTopPoolsVolume24hUsd": 139055,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CjYq1yqybydYDBP4VzpYzTMoH3xZ3XFNV3dXnHy5pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cjyq1yqybydydbp4vzpyztmoh3xz3xfnv3dxnhy5pump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0xED71B42b07cC1664C0F82361D48D0417a6ED7777",
+        "description": "CZ's new dog",
+        "url": "https://dexscreener.com/bsc/0xed71b42b07cc1664c0f82361d48d0417a6ed7777"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6GjEUwV5PXS3VyaMWXU8EbihMV9wVYzqpLVUApYjpump",
+        "description": "The first community-driven Pokémon card vault. Govern, fractionalize and earn stocks with real-world cards onchain. \n\nPowered by @opensea",
+        "url": "https://dexscreener.com/solana/6gjeuwv5pxs3vyamwxu8ebihmv9wvyzqplvuapyjpump"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0xdA8eac0F4104051a0865899918B266D879a37347",
         "description": "Waymark is an independent crypto wallet map. Compare 22 self-custody wallets across 21 chains: supported networks, in-app cross-chain swaps, fees and security h",
         "url": "https://dexscreener.com/bsc/0xda8eac0f4104051a0865899918b266d879a37347"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7Ge2KHuJLgMUs4YBq1wjENAYZiGnpZXK3dC85JiuFUND",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7ge2khujlgmus4ybq1wjenayzignpzxk3dc85jiufund"
       },
       {
         "chainId": "robinhood",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x58417f3f9AC500ee40a3882119CbB8a4686AfFff",
         "description": "SlopLoss is the AI agent launchpad on BNB Chain.\n\nLaunch tokens paired with autonomous AI agents trading on Aster, where trading performance drives token backin",
         "url": "https://dexscreener.com/bsc/0x58417f3f9ac500ee40a3882119cbb8a4686affff"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9DMUQbHWth5TtdSPZ1pRPsLTxsfYfM97n7K6x1MLpump",
-        "description": "9DMUQbHWth5TtdSPZ1pRPsLTxsfYfM97n7K6x1MLpump\n\n$CAMO Cash is the first Alpenglow ZK-Shield protocol on Solana.\nPowered by Groth16 zero-knowledge proofs, Camo Cas",
-        "url": "https://dexscreener.com/solana/9dmuqbhwth5ttdspz1prpsltxsfyfm97n7k6x1mlpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2iZ5QFMkaQmweT2xnvAA6co4TAnDYT9jqk7NXKCyghCX",
-        "description": "Meet Alpen, the official mascot of Alpenglow",
-        "url": "https://dexscreener.com/solana/2iz5qfmkaqmwet2xnvaa6co4tandyt9jqk7nxkcyghcx"
       }
     ]
   },
