@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T13:15:36.066Z",
-  "latencyMs": 414,
+  "executedAt": "2026-10-21T13:18:01.783Z",
+  "latencyMs": 387,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #382: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #383: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52899594,
+    "liveBlockNumber": 52899667,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 430911,
-    "baseMainnetTopPoolsVolume24hUsd": 145189,
+    "baseMainnetTopPoolsLiquidityUsd": 459076,
+    "baseMainnetTopPoolsVolume24hUsd": 145755,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xc04ad5f4b019a90f5bd3a1cc68e612c311a4bc74",
+        "description": "Censored Hooks Privacy: paste a v4 hook or a GitHub repo, see what it takes from a swap, who can change it, and its verdict. Robinhood Chain.",
+        "url": "https://dexscreener.com/robinhood/0xc04ad5f4b019a90f5bd3a1cc68e612c311a4bc74"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x3527212926471D19D88ffbaD8CF83505735c496d",
@@ -75,12 +81,6 @@
         "tokenAddress": "54UN9YwDyazXjRXhxMvzWG7yNstGqjtHnh1WGgpepump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/54un9ywdyazxjrxhxmvzwg7ynstgqjthnh1wggpepump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xA8Ba1e1AEba6c27BD76caF09FDA020e658641343",
-        "description": "A Nvidia owned company, created by Hugging Face, launched the viral microduck. \n\nSoon to be in every house in the world.",
-        "url": "https://dexscreener.com/robinhood/0xa8ba1e1aeba6c27bd76caf09fda020e658641343"
       }
     ]
   },
