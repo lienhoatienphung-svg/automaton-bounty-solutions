@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T15:08:46.950Z",
-  "latencyMs": 1131,
+  "executedAt": "2026-10-21T15:21:34.783Z",
+  "latencyMs": 1402,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #401: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #402: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "49VZNZqvkcsGajJ8k9xrEzDZTLRDV5rZn9YYthg53czn",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "EGGU is an independent Solana community token paired directly with PENGU.\n🥚 EGGU → 🐧 PENGU\nThrough StonkFun’s built-in reward system, eligible EGGU holders ca",
+      "url": "https://dexscreener.com/solana/49vznzqvkcsgajj8k9xrezdztlrdv5rzn9yythg53czn"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "Ca3BDkJveorqmyXiFx1P41imefBskvaSbSm74vcfAs6X",
       "boostAmount": 10,
       "totalBoostAmount": 20,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Welcome to The Capital, the community behind CapitalVault, a next-generation launchpad integrated with Pumpfun.\n\nLaunch your own token, choose from stocks like ",
       "url": "https://dexscreener.com/solana/5edajxg624c7uvlaruegjfxeadbjnss12orqj8rzpump"
-    },
-    {
-      "chainId": "ethereum",
-      "tokenAddress": "0x8679fF5D5320fDd05eF4Dba9038698f95204E76C",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Advanced DeAI infrastructure powering custom autonomous agent deployment, confidential reasoning, and deterministic risk protection via Cryptic Vaults across 6 ",
-      "url": "https://dexscreener.com/ethereum/0x8679ff5d5320fdd05ef4dba9038698f95204e76c"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,72 +217,72 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 783,
-      "priceBtc": 2.684268827548e-7
+      "marketCapRank": 789,
+      "priceBtc": 2.6662423951728e-7
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 484,
-      "priceBtc": 0.0000034597721802408582
+      "marketCapRank": 494,
+      "priceBtc": 0.0000032950330638093014
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 85,
-      "priceBtc": 0.000028401205112433428
+      "marketCapRank": 86,
+      "priceBtc": 0.00002804220421271278
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
-      "marketCapRank": 86,
-      "priceBtc": 0.000010193234383379066
+      "marketCapRank": 85,
+      "priceBtc": 0.000010221919874166372
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015693236572106098
+      "priceBtc": 0.01575709627306061
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.680131107664919e-8
+      "priceBtc": 9.666689362040455e-8
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 718,
-      "priceBtc": 0.00106861887656743
+      "marketCapRank": 721,
+      "priceBtc": 0.0010685795555396226
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.0000449283514372
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.0012747714275920406
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "feat: batch protocol accounting and guardians",
+      "url": "https://github.com/Refract-Protocol/refract-contracts/pull/482",
+      "createdAt": "2026-10-21T15:21:28Z"
+    },
     {
       "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
       "url": "https://github.com/tehki/myaso/issues/360",
       "createdAt": "2026-10-20T17:25:33Z"
     },
     {
-      "title": "perf(communities): switch member views to the community roster",
-      "url": "https://github.com/status-im/status-app/pull/22799",
-      "createdAt": "2026-10-13T15:26:44Z"
+      "title": "[Apple] iOS/iPadOS/macOS 原生客户端与 NIM4 互通",
+      "url": "https://github.com/GHOST-AKU/wozai/issues/31",
+      "createdAt": "2026-10-20T15:11:49Z"
     },
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/57",
-      "createdAt": "2026-10-21T14:25:14Z"
-    },
-    {
-      "title": "fix: pin the chain id to the configured network and refuse a mismatched RPC (#157)",
-      "url": "https://github.com/datafund/swarm_provenance_MCP/pull/200",
-      "createdAt": "2026-10-21T14:46:29Z"
+      "title": "perf(sampling): fuse greedy chain verification output writes",
+      "url": "https://github.com/lightseekorg/tokenspeed/pull/2553",
+      "createdAt": "2026-10-20T19:50:31Z"
     },
     {
       "title": "feat(communities): on-demand community roster model (additive)",
@@ -290,9 +290,9 @@
       "createdAt": "2026-10-13T13:08:08Z"
     },
     {
-      "title": "[Apple] iOS/iPadOS/macOS 原生客户端与 NIM4 互通",
-      "url": "https://github.com/GHOST-AKU/wozai/issues/31",
-      "createdAt": "2026-10-20T15:11:49Z"
+      "title": "[Perf] [NVIDIA] DSA: Pick any divisor of the tile count for the TileLang sparse decode split",
+      "url": "https://github.com/sgl-project/sglang/pull/45274",
+      "createdAt": "2026-10-20T01:21:03Z"
     }
   ]
 }
