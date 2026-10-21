@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T23:12:15.692Z",
-  "latencyMs": 763,
+  "executedAt": "2026-10-21T23:13:54.544Z",
+  "latencyMs": 864,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #466: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #467: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -152,7 +152,7 @@
       "tokenAddress": "0x7E187fE67ae04c1B1738f01B424656390E45E1C9",
       "boostAmount": 100,
       "totalBoostAmount": 100,
-      "description": "New vault from dev of $SEM which reached 9m mcap.\n\nTETRA is a token on Robinhood Chain backed by a reserve of SPY, GLD, USO and WETH (25% each) plus USDG. Anyon",
+      "description": "New vault from dev of $SEMI which reached 9m mcap.\n\nTETRA is a token on Robinhood Chain backed by a reserve of SPY, GLD, USO and WETH (25% each) plus USDG. Anyo",
       "url": "https://dexscreener.com/robinhood/0x7e187fe67ae04c1b1738f01b424656390e45e1c9"
     },
     {
@@ -217,62 +217,72 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 788,
-      "priceBtc": 2.8113342002218834e-7
+      "marketCapRank": 739,
+      "priceBtc": 3.060673358231772e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009669083795105378
+      "priceBtc": 0.000009648221965697782
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 527,
+      "priceBtc": 0.000003064561063017189
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 113,
+      "priceBtc": 9.658555844030554e-8
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 85,
-      "priceBtc": 0.00002882526877386614
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 529,
-      "priceBtc": 0.0000030589346487383886
+      "priceBtc": 0.00002870290496100139
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006266814361430794
+      "priceBtc": 0.00006257237638805039
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9997431738267551
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 703,
+      "priceBtc": 0.00110023556873059
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.00127175812711479
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 702,
-      "priceBtc": 0.001101067608572652
+      "priceBtc": 0.0012689114905416988
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Rebuild the airdrop docs from the primary sources, and add close-1 tooling",
-      "url": "https://github.com/btcmama08/technocore-kit/pull/1",
-      "createdAt": "2026-09-15T17:29:41Z"
+      "title": "fix(#2440): book only what arrived; one treasury fee host",
+      "url": "https://github.com/vaipakam/vaipakam/pull/2622",
+      "createdAt": "2026-10-21T12:08:32Z"
+    },
+    {
+      "title": "[Bugfix] Fix biased sampling after a grammar-rejected draft in probablistic spec decode",
+      "url": "https://github.com/vllm-project/vllm/pull/60690",
+      "createdAt": "2026-10-08T18:22:28Z"
     },
     {
       "title": "Add moe-router-design task",
       "url": "https://github.com/scaleapi/rsi-benchmark/pull/28",
       "createdAt": "2026-09-27T02:38:45Z"
+    },
+    {
+      "title": "Rebuild the airdrop docs from the primary sources, and add close-1 tooling",
+      "url": "https://github.com/btcmama08/technocore-kit/pull/1",
+      "createdAt": "2026-09-15T17:29:41Z"
     },
     {
       "title": "feat(tracker-adapters): add V3X support",
@@ -283,16 +293,6 @@
       "title": "fix: resolve critical issues in staking, lazy-mint, splitter, and routing",
       "url": "https://github.com/Afristore/marketplace/pull/1083",
       "createdAt": "2026-10-20T18:44:08Z"
-    },
-    {
-      "title": "Release plan",
-      "url": "https://github.com/thachp/harimu/issues/178",
-      "createdAt": "2026-10-14T15:12:06Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
     }
   ]
 }
