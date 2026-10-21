@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T03:28:20.945Z",
-  "latencyMs": 900,
+  "executedAt": "2026-10-21T03:37:50.883Z",
+  "latencyMs": 1061,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #293: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #294: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,81 +218,81 @@
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.70075619730752e-8
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.000060883344048937126
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 91,
-      "priceBtc": 0.000025976550079290928
+      "priceBtc": 9.710785667270983e-8
     },
     {
       "name": "Capybobo",
       "symbol": "PYBOBO",
-      "marketCapRank": 697,
-      "priceBtc": 9.289247135006043e-9
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 137,
-      "priceBtc": 0.000004458576050452984
+      "marketCapRank": 688,
+      "priceBtc": 9.624597830025383e-9
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.000986089880735141
+      "priceBtc": 0.0009865451063187259
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 91,
+      "priceBtc": 0.00002629874452620429
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 137,
+      "priceBtc": 0.000004449125066193165
     },
     {
       "name": "Monero",
       "symbol": "XMR",
       "marketCapRank": 13,
-      "priceBtc": 0.007000379638651562
+      "priceBtc": 0.00695265091602887
     },
     {
-      "name": "Derive",
-      "symbol": "DRV",
-      "marketCapRank": 126,
-      "priceBtc": 0.000004846232546066713
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 190,
+      "priceBtc": 0.0000033988268232051878
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00006082648587302225
     }
   ],
   "activeAirdropAndFaucetQuests": [
-    {
-      "title": "2.6.2 (draft): deliberate rejections recorded and marked expected; dry-run fidelity",
-      "url": "https://github.com/mcp-tool-shop-org/xrpl-lab/pull/22",
-      "createdAt": "2026-10-21T02:39:32Z"
-    },
-    {
-      "title": "Live-fire run 1 follow-ups: helper-wallet funding race, verify_withdrawal double verdict, tx_index gaps",
-      "url": "https://github.com/mcp-tool-shop-org/xrpl-lab/issues/20",
-      "createdAt": "2026-10-20T21:21:14Z"
-    },
-    {
-      "title": "feat(coin-tester): add the coin-sandbox client (LIVE-39239)",
-      "url": "https://github.com/LedgerHQ/ledger-live/pull/23598",
-      "createdAt": "2026-10-20T14:36:18Z"
-    },
-    {
-      "title": "feat(engine): confidence-scheduled verify length for DFlash2 and DSpark",
-      "url": "https://github.com/cnshsliu/novamlx/pull/31",
-      "createdAt": "2026-10-21T03:27:08Z"
-    },
     {
       "title": "Kimi K3 support",
       "url": "https://github.com/tpurtell/cuteafd/issues/273",
       "createdAt": "2026-10-15T06:49:01Z"
     },
     {
-      "title": "[Ops] Muse ↔ Grok.btc direct line",
-      "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
-      "createdAt": "2026-09-13T13:56:58Z"
+      "title": "AppWorld eval REST: Trace2Skill vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/899",
+      "createdAt": "2026-10-20T19:52:39Z"
+    },
+    {
+      "title": "[LWDM] feat(coin-tester-solana): run the tester on coin-sandbox (LIVE-38519)",
+      "url": "https://github.com/LedgerHQ/ledger-live/pull/23619",
+      "createdAt": "2026-10-21T03:34:58Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "Reinvent Kinko: premium watch-only dashboard and encrypted Access Key vault",
+      "url": "https://github.com/brownie-au/kinko-wallet/pull/2",
+      "createdAt": "2026-10-19T01:31:05Z"
+    },
+    {
+      "title": "chore(deps): bump tempo dependencies to 0073dd1",
+      "url": "https://github.com/mowind/foundry/pull/2",
+      "createdAt": "2026-07-28T02:34:15Z"
     }
   ]
 }
