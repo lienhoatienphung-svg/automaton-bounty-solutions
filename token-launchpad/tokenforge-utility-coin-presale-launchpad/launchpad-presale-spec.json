@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T02:08:32.205Z",
-  "latencyMs": 257,
+  "executedAt": "2026-10-21T02:17:56.457Z",
+  "latencyMs": 544,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #275: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #276: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52879582,
+    "liveBlockNumber": 52879864,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459827,
-    "baseMainnetTopPoolsVolume24hUsd": 177331,
+    "baseMainnetTopPoolsVolume24hUsd": 177261,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "ANrmxCwhQHxp9g3gumWE3jYcfdbnA6MWBaJ9A6NYpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/anrmxcwhqhxp9g3gumwe3jycfdbna6mwbaj9a6nypump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY",
+        "description": "Mine $XMR in your browser for $CPU rewards",
+        "url": "https://dexscreener.com/solana/cpuxtvvnnvgdhpk1mhyv4cc6d1rfmhbf7xajcphf3ny"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "FGQbFLtHxZ7vaDdseXwMhkPP3ZP6n48oLRiSHiotpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "DwQb4rAz3QhEwvPC9QMVMsCiK8X7haoB49f8LB96pump",
         "description": "Aura Final Dictator - Kim",
         "url": "https://dexscreener.com/solana/dwqb4raz3qhewvpc9qmvmscik8x7haob49f8lb96pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9EeMkr2UdUN8kQsjFGHseQAUDGivpSWpTEPsFSS1D7gp",
-        "description": "Deployed by Kimchi",
-        "url": "https://dexscreener.com/solana/9eemkr2udun8kqsjfghseqaudgivpswptepsfss1d7gp"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2AyNNXt9PdRWCRGMyizcrxCwrntbx14ZcWu9SHkimchi",
-        "description": "Project Kimchi.\n\nLaunch tokens on pump.fun paired to $kimchi and ending in ...kimchi",
-        "url": "https://dexscreener.com/solana/2aynnxt9pdrwcrgmyizcrxcwrntbx14zcwu9shkimchi"
       }
     ]
   },
