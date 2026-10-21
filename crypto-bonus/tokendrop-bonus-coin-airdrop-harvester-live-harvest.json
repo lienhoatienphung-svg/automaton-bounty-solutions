@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T04:33:06.511Z",
-  "latencyMs": 845,
+  "executedAt": "2026-10-21T04:42:13.372Z",
+  "latencyMs": 382,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #305: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #306: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x07292f0c46F25eF5eCfdba20935A68718C424a51",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Real-time Uniswap v4 analytics, hook intelligence, and launchpad aggregator.\nTrack live pools, swaps, and v4 token launches in one place—with decoded hook permi",
+      "url": "https://dexscreener.com/robinhood/0x07292f0c46f25ef5ecfdba20935a68718c424a51"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 600,
       "description": "Kimchi Official Coin",
       "url": "https://dexscreener.com/solana/7thgkgtk1rp1utlpwuzeuu9vakedtmozzuyps6rgpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Pokémon nostalgia meets meme coin madness. Welcome to Pokecity! ⚡",
-      "url": "https://dexscreener.com/solana/4woperxtkhjzaansywo9bvvycgj7q7uxj38q6eocpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -263,36 +263,5 @@
       "priceBtc": 0.003273405619667424
     }
   ],
-  "activeAirdropAndFaucetQuests": [
-    {
-      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
-      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
-      "createdAt": "2026-10-11T10:45:50Z"
-    },
-    {
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/UnbloktTechnology/ComPilot-Examples/issues/103",
-      "createdAt": "2023-09-26T15:25:18Z"
-    },
-    {
-      "title": "EVM: Verify Merkle distributor claims against published trees",
-      "url": "https://github.com/Drago-Labs/golden-raccoon/issues/363",
-      "createdAt": "2026-10-17T22:19:03Z"
-    },
-    {
-      "title": "Report stop for speculative replies ending at maxTokens",
-      "url": "https://github.com/leehack/llamadart/pull/1270",
-      "createdAt": "2026-10-21T04:04:36Z"
-    },
-    {
-      "title": "Wallets beobachten + Copy-Trading auch auf EVM-Ketten",
-      "url": "https://github.com/PatrickKron/Gladiator-AI-19.10/pull/32",
-      "createdAt": "2026-10-21T04:21:13Z"
-    },
-    {
-      "title": "security: gate pda-mint-authority native and pinocchio mint_to behind the token's original creator",
-      "url": "https://github.com/solana-foundation/program-examples/pull/699",
-      "createdAt": "2026-08-26T18:50:17Z"
-    }
-  ]
+  "activeAirdropAndFaucetQuests": []
 }
