@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T07:39:40.883Z",
-  "latencyMs": 358,
+  "executedAt": "2026-10-21T07:51:22.761Z",
+  "latencyMs": 471,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #333: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #334: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52889516,
+    "liveBlockNumber": 52889867,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 139469,
+    "baseMainnetTopPoolsVolume24hUsd": 140189,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0xdC4FEf52B86ed0b6c99D26e9c4775D3Fed0fA3E8",
+        "description": "Runes, etched on Ethereum. A token forge for Stockereum. $ERUNE, the Ether Vault and Burn 1.6x are coming.",
+        "url": "https://dexscreener.com/ethereum/0xdc4fef52b86ed0b6c99d26e9c4775d3fed0fa3e8"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "vi2zUPHQQvwsDCykmmQ8eYNf4ngA9z29dycaku3pump",
+        "description": "CLAUS OTC is a retro pixel-art meme starring a curious black creature living inside an old OTC computer.",
+        "url": "https://dexscreener.com/solana/vi2zuphqqvwsdcykmmq8eynf4nga9z29dycaku3pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BZ6M2dAsnx6v3Vp3U7jsSM1zshvKxG9ejAVrLiBfNa9P",
@@ -69,18 +81,6 @@
         "tokenAddress": "5faPPM84dQWpMSjr1xfHux4DNuGakp9M4wonuhS2pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/5fappm84dqwpmsjr1xfhux4dnugakp9m4wonuhs2pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CDG4Ej43izytYS7Fy6RRksgNQ8CMihn6h36nQSzYpump",
-        "description": "Larp it to Make it",
-        "url": "https://dexscreener.com/solana/cdg4ej43izytys7fy6rrksgnq8cmihn6h36nqszypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8FGreSHZeiinbu3zPeBA3vawxvz2phvyomnPn1NEpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8fgreshzeiinbu3zpeba3vawxvz2phvyomnpn1nepump"
       }
     ]
   },
