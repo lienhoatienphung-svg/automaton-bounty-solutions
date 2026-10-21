@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T12:44:27.863Z",
-  "latencyMs": 918,
+  "executedAt": "2026-10-21T12:56:35.244Z",
+  "latencyMs": 1142,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #381: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #382: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "ethereum",
+      "tokenAddress": "0x8679fF5D5320fDd05eF4Dba9038698f95204E76C",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Advanced DeAI infrastructure powering custom autonomous agent deployment, confidential reasoning, and deterministic risk protection via Cryptic Vaults across 6 ",
+      "url": "https://dexscreener.com/ethereum/0x8679ff5d5320fdd05ef4dba9038698f95204e76c"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "YE2mBZx8sL1bhfWpoR9dPAozmKhGE8eKa4sEEQ5pump",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Co-signed by alon and launched by kimchi.",
       "url": "https://dexscreener.com/solana/ca3bdkjveorqmyxifx1p41imefbskvasbsm74vcfas6x"
-    },
-    {
-      "chainId": "bsc",
-      "tokenAddress": "0x7D0443CdDFc8E11AF105F4fE44Dd28c630237777",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "i got that dawg in me",
-      "url": "https://dexscreener.com/bsc/0x7d0443cddfc8e11af105f4fe44dd28c630237777"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,57 +217,72 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 823,
-      "priceBtc": 2.5202079913862397e-7
+      "marketCapRank": 849,
+      "priceBtc": 2.4696931902191604e-7
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 410,
-      "priceBtc": 0.000004088677213005711
+      "marketCapRank": 413,
+      "priceBtc": 0.0000041061433938342
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.67865503009912e-8
+      "priceBtc": 9.682930743477285e-8
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 86,
-      "priceBtc": 0.000028304249547917326
+      "priceBtc": 0.000028547137045726194
     },
     {
       "name": "Orbio.so",
       "symbol": "ORBIO",
-      "marketCapRank": 490,
-      "priceBtc": 5.856599343317376e-7
+      "marketCapRank": 509,
+      "priceBtc": 5.698346384838204e-7
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 718,
+      "priceBtc": 0.001078269369293638
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 84,
-      "priceBtc": 0.0000408411734309842
+      "priceBtc": 0.00004055959480472477
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010257066538395768
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.000296309691423
+      "priceBtc": 0.000010238470069266475
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
-      "url": "https://github.com/tehki/myaso/issues/360",
-      "createdAt": "2026-10-20T17:25:33Z"
+      "title": "Automate Drop Forge launch and durable EMMA processing",
+      "url": "https://github.com/6529-Collections/6529seize-backend/pull/2143",
+      "createdAt": "2026-10-09T09:31:34Z"
+    },
+    {
+      "title": "feat: add reproducible native GRPO reward experiments",
+      "url": "https://github.com/ViperEkura/AstrAI/pull/86",
+      "createdAt": "2026-10-08T20:49:59Z"
+    },
+    {
+      "title": "AppWorld eval REST: HarnessLens vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/897",
+      "createdAt": "2026-10-20T19:52:36Z"
+    },
+    {
+      "title": "Oct 24 · Web3 for Social Good (DoraHacks) — Recourse — ✅ submitted 10-21",
+      "url": "https://github.com/JannetEkka/DSProjects/issues/45",
+      "createdAt": "2026-10-20T10:49:21Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Polish Safe Collecting guides and translate supported locales",
-      "url": "https://github.com/6529-Collections/6529seize-frontend/pull/4426",
-      "createdAt": "2026-10-21T09:01:38Z"
-    },
-    {
-      "title": "EVM: Verify Merkle distributor claims against published trees",
-      "url": "https://github.com/Drago-Labs/golden-raccoon/issues/363",
-      "createdAt": "2026-10-17T22:19:03Z"
-    },
-    {
-      "title": "Experiment 002 V0: replayable reputation network, intervention forks, and exploratory pilot",
-      "url": "https://github.com/davletovb/social-emergence-lab/pull/11",
-      "createdAt": "2026-10-21T12:31:20Z"
-    },
-    {
-      "title": "Remove the Support Us interstitial card",
-      "url": "https://github.com/zekogg/MinerX-Realm/pull/189",
-      "createdAt": "2026-10-21T12:40:57Z"
+      "title": "Reward kiosk: starter grants and faucet credits listed apart with provenance labels (Part of #466)",
+      "url": "https://github.com/thachp/harimu/pull/666",
+      "createdAt": "2026-10-21T12:53:17Z"
     }
   ]
 }
