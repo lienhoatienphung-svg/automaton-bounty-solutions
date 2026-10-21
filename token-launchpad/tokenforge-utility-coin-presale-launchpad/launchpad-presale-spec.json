@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T11:38:46.127Z",
-  "latencyMs": 322,
+  "executedAt": "2026-10-21T11:40:40.294Z",
+  "latencyMs": 673,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #368: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #369: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52896689,
+    "liveBlockNumber": 52896746,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459840,
-    "baseMainnetTopPoolsVolume24hUsd": 132426,
+    "baseMainnetTopPoolsVolume24hUsd": 131941,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7XwfdmFG2yeBvtsw3LajBXbdVAZ3pvBUt47WGeatpump",
+        "description": "Stock Inu",
+        "url": "https://dexscreener.com/solana/7xwfdmfg2yebvtsw3lajbxbdvaz3pvbut47wgeatpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "tZPasooEK7iJALGUkCSBnMmviyXZtxHtJmXaw5Epump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/tzpasooek7ijalgukcsbnmmviyxztxhtjmxaw5epump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HXuAgtMSuuv3sJH6UPg2cG4Txqovc19kD6PtyHxmpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump",
         "description": "Aura President.",
         "url": "https://dexscreener.com/solana/3jee9dctw17ncgzeks5zapv4qgqtjp6tjahgkndcpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9wKVBaLbEGxeVNQGD5SojdV9TdkxVWrAcKCXq8K8pump",
-        "description": "Hold $ISLES and own an island. Your bag grows it. Lit islands earn shells every hour, swapped 1:1 at the Exchange.",
-        "url": "https://dexscreener.com/solana/9wkvbalbegxevnqgd5sojdv9tdkxvwrackcxq8k8pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "F7MJsAKu34WzmmetUnzqSrAWvNtP3hAUJgoMqnVupump",
-        "description": "kimchi wif kimchi paired wif kimchi wif kimchi rewards to holders",
-        "url": "https://dexscreener.com/solana/f7mjsaku34wzmmetunzqsrawvntp3haujgomqnvupump"
       }
     ]
   },
