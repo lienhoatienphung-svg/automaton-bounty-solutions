@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T00:02:19.777Z",
-  "latencyMs": 1166,
+  "executedAt": "2026-10-21T00:11:16.746Z",
+  "latencyMs": 902,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #253: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #254: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,59 +215,74 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 115,
-      "priceBtc": 9.626754052442048e-8
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 83,
-      "priceBtc": 0.000010659482051270817
-    },
-    {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015211254624062514
+      "priceBtc": 0.015139056083501875
     },
     {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 90,
-      "priceBtc": 0.00002581121859647811
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 115,
+      "priceBtc": 9.598415679897914e-8
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00005936994628203745
+      "priceBtc": 0.000059353051331623155
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 90,
+      "priceBtc": 0.000025984053489385363
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 83,
+      "priceBtc": 0.000010664142729693793
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009691759667934361
+      "priceBtc": 0.000967905167177746
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012428260634755488
+      "priceBtc": 0.000012400466078004754
     },
     {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012842920372105073
+      "name": "Injective",
+      "symbol": "INJ",
+      "marketCapRank": 81,
+      "priceBtc": 0.00010762578024869057
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
-      "createdAt": "2026-10-07T00:07:47Z"
+      "title": "Fix Export my data on every platform, and draw tips in the v3 look",
+      "url": "https://github.com/langx/langx/pull/1860",
+      "createdAt": "2026-10-21T00:09:20Z"
+    },
+    {
+      "title": "CI: hosted Rust image and four-shard tests with AWS fallback",
+      "url": "https://github.com/aptos-labs/aptos-core/pull/20773",
+      "createdAt": "2026-10-16T22:20:14Z"
+    },
+    {
+      "title": "Add agent-safety-monitor-training task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/29",
+      "createdAt": "2026-09-27T04:59:36Z"
+    },
+    {
+      "title": "New blog posts from RSS feed",
+      "url": "https://github.com/unlock-protocol/unlock/pull/16420",
+      "createdAt": "2026-05-15T00:25:35Z"
     },
     {
       "title": "fix: preserve refresh feedback, faucet scope and explorer links",
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-21T00:01:17Z"
     },
     {
-      "title": "[executorch][muse] Draft CUDA DFlash decode from pending tokens",
-      "url": "https://github.com/pytorch/executorch/pull/23983",
-      "createdAt": "2026-10-19T04:59:00Z"
-    },
-    {
-      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
-      "url": "https://github.com/tehki/myaso/issues/360",
-      "createdAt": "2026-10-20T17:25:33Z"
-    },
-    {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
-    },
-    {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/55",
-      "createdAt": "2026-10-20T22:38:16Z"
+      "title": "[CVL2-RESEARCH][AGENTE-05] Projetos 7, 19, 6, 3, 21",
+      "url": "https://github.com/matheus-junio-da-silva/Web3Bugs/pull/40",
+      "createdAt": "2026-10-19T16:56:21Z"
     }
   ]
 }
