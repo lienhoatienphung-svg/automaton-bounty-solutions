@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T23:57:12.000Z",
-  "latencyMs": 771,
+  "executedAt": "2026-10-21T23:59:06.234Z",
+  "latencyMs": 740,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #472: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #473: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat: set shared 20% protocol revenue defaults",
+      "url": "https://github.com/omnipair/dusk/pull/53",
+      "createdAt": "2026-10-21T22:33:15Z"
+    },
+    {
+      "title": "Daily Shorts Pipeline — Reports",
+      "url": "https://github.com/caleblschulte0-ux/Shorts-pipeline/issues/1",
+      "createdAt": "2026-05-28T21:54:45Z"
+    },
+    {
+      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
+      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
+      "createdAt": "2026-10-07T16:13:30Z"
+    },
+    {
       "title": "feat: operator-issued MB/minute ecash — unit-aware pricing + CDK mint integration (DRAFT)",
       "url": "https://github.com/OpenTollGate/tollgate-module-basic-go/pull/1040",
       "createdAt": "2026-10-21T13:59:26Z"
@@ -278,21 +293,6 @@
       "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
       "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
       "createdAt": "2026-10-11T10:45:50Z"
-    },
-    {
-      "title": "security(program): refund-only settlement, join terms, layout padding; retire the web app",
-      "url": "https://github.com/davigiroux/safenudge.xyz/pull/103",
-      "createdAt": "2026-10-20T22:02:27Z"
-    },
-    {
-      "title": "feat(mcp): add jaw_get_defi_positions tool",
-      "url": "https://github.com/JustaLab-co/jaw-mono/pull/539",
-      "createdAt": "2026-10-21T21:43:32Z"
-    },
-    {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
     }
   ]
 }
