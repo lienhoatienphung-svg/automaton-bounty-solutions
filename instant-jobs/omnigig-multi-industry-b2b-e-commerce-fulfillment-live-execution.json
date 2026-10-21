@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-21T11:45:21.016Z",
-  "latencyMs": 632,
+  "executedAt": "2026-10-21T11:47:41.942Z",
+  "latencyMs": 624,
   "companyName": "OmniGig Multi-Industry B2B & E-Commerce Fulfillment",
-  "workTitle": "Growth & Sales Sprint #374: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
-  "targetUrl": "https://polymarket.com/event/natoeu-troops-fighting-in-ukraine-in-2025",
+  "workTitle": "Delivery Sprint #375: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "targetUrl": "https://polymarket.com/event/china-x-india-military-clash-by-december-31",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2501899,
-        "liquidityUsd": 17562,
+        "liquidityUsd": 17601,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2212389,
-        "liquidityUsd": 68218,
+        "liquidityUsd": 68292,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059863,
-        "liquidityUsd": 244,
+        "liquidityUsd": 256,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1860857,
-        "liquidityUsd": 21134,
+        "liquidityUsd": 21452,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21384,
-        "volume24hUsd": 67833,
+        "volume24hUsd": 67334,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -207,60 +207,59 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Brezzels GmbH",
-        "roleOrTask": "Senior Marketing Manager (m/w/d)",
+        "company": "Ilias Vassiliou & Team / headhunter.digital / Recruiting für Digital, Sales, IT, KI, Automation",
+        "roleOrTask": "Partner & Channel Sales Manager • SaaS für börsennotierte AGs • Rhein-Main / BaWü (hybrid)*",
         "industryTags": [
-          "Marketing Manager"
+          "Business Development"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/brezzels-gmbh/senior-marketing-manager-seligenstadt-332248",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/partner-channel-sales-manager-saas-fur-borsennotierte-ags-rhein-main-bawu-hybrid-frankfurt-am-main-155234",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Solarize",
-        "roleOrTask": "Senior Sales Manager / Account Executive (m/w/d) – Vollzeit oder Teilzeit ab 80 %",
+        "company": "CONTXT Online-Marketing GmbH",
+        "roleOrTask": "(Junior) SEA Manager (m/w/d)",
+        "industryTags": [
+          "Online Marketing"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/contxt-online-marketing-gmbh/junior-sea-manager-ober-ramstadt-220358",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Beilmann Marketing GmbH",
+        "roleOrTask": "Werkstudent:in Office & Recruiting (m/w/d)",
+        "industryTags": [
+          "HR"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/beilmann-marketing-gmbh/werkstudentin-office-recruiting-mannheim-412417",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "PC CADDIE AG",
+        "roleOrTask": "Support & Kundenbetreuung (m/w/d)",
+        "industryTags": [
+          "Remote",
+          "Customer Service"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/pc-caddie-ag/support-kundenbetreuung-berlin-449664",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "FlexIT Consulting GmbH",
+        "roleOrTask": "Director IT & Digital Innovation (m/w/d)",
         "industryTags": [
           "Management",
           "Team Leader"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/solarize/senior-sales-manager-account-executive-vollzeit-oder-teilzeit-ab-80-stuttgart-412023",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "TradeLink",
-        "roleOrTask": "Founder’s Associate – Operations & AI (all genders)",
-        "industryTags": [
-          "Business Operations"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/tradelink/founders-associate-operations-ai-all-genders-munich-263201",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "NXT Hero GmbH",
-        "roleOrTask": "Teamleiter Linux (m/w/d)",
-        "industryTags": [
-          "Management",
-          "Team Leader"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/nxt-hero-gmbh/teamleiter-linux-wiesbaden-66965",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Wolf Personalmanagement GmbH",
-        "roleOrTask": "Interim Manager* Abteilungsleitung Personalservice",
-        "industryTags": [
-          "Management",
-          "Team Leader"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/wolf-personalmanagement-gmbh/interim-manager-abteilungsleitung-personalservice-kronberg-176972",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/flexit-consulting-gmbh/director-it-digital-innovation-hamm-69076",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
