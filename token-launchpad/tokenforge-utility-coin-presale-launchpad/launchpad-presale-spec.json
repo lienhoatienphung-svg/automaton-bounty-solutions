@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T11:40:40.294Z",
-  "latencyMs": 673,
+  "executedAt": "2026-10-21T11:52:01.862Z",
+  "latencyMs": 1073,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #369: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #370: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52896746,
+    "liveBlockNumber": 52897086,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459840,
-    "baseMainnetTopPoolsVolume24hUsd": 131941,
+    "baseMainnetTopPoolsLiquidityUsd": 459838,
+    "baseMainnetTopPoolsVolume24hUsd": 130876,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x598c669d41927200b46c9856c25dcb9fffe3ef2d",
+        "description": "Tokenize your @fomo & @Pumpfun profile.",
+        "url": "https://dexscreener.com/robinhood/0x598c669d41927200b46c9856c25dcb9fffe3ef2d"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7XwfdmFG2yeBvtsw3LajBXbdVAZ3pvBUt47WGeatpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "5ag99jdTZDF2iUsHd94bDec7jrwSdjjiYYjgouzypump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/5ag99jdtzdf2iushd94bdec7jrwsdjjiyyjgouzypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump",
-        "description": "Aura President.",
-        "url": "https://dexscreener.com/solana/3jee9dctw17ncgzeks5zapv4qgqtjp6tjahgkndcpump"
       }
     ]
   },
