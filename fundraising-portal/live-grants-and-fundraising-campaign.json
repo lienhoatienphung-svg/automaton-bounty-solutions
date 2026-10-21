@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-21T01:25:42.009Z",
-  "latencyMs": 849,
+  "executedAt": "2026-10-21T01:34:27.000Z",
+  "latencyMs": 1313,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #269: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #270: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "Ronda Pro: cadastro de rotas responsivo para COI/Admin e 3 vigias de demonstração",
-          "url": "https://github.com/danielnep/app-hondas-maxvel/pull/102",
-          "repositoryUrl": "https://api.github.com/repos/danielnep/app-hondas-maxvel",
-          "updatedAt": "2026-10-21T01:25:39Z"
-        },
-        {
-          "title": "fix(objectql, plugin-auth)!: organization delete refuses while records remain, removes its own auth structure as one unit, and never orphans",
-          "url": "https://github.com/objectstack-ai/objectstack/pull/25016",
-          "repositoryUrl": "https://api.github.com/repos/objectstack-ai/objectstack",
-          "updatedAt": "2026-10-21T01:25:36Z"
-        },
-        {
-          "title": "B1b: личные preferences по principal с чистыми defaults",
-          "url": "https://github.com/Phonezzzz/Slavikai/pull/76",
-          "repositoryUrl": "https://api.github.com/repos/Phonezzzz/Slavikai",
-          "updatedAt": "2026-10-21T01:25:37Z"
-        },
-        {
-          "title": "Creating a Space is a step-by-step wizard that reads the plan from /pricing (LIVE-1201)",
-          "url": "https://github.com/hellofrequencylab/frequency-web/pull/3759",
-          "repositoryUrl": "https://api.github.com/repos/hellofrequencylab/frequency-web",
-          "updatedAt": "2026-10-21T01:25:34Z"
-        },
-        {
-          "title": "The bulk export stops on any channel-scope change, and a deliberate stop no longer logs as a crash (BACKLOG #3381)",
-          "url": "https://github.com/MEFORORG/MessageFoundry/pull/2457",
-          "repositoryUrl": "https://api.github.com/repos/MEFORORG/MessageFoundry",
-          "updatedAt": "2026-10-21T01:25:35Z"
-        },
-        {
-          "title": "OMI Ride App Auto-Selection bounty #1728",
-          "url": "https://github.com/angeuwase744-ctrl/omi-/pull/1",
-          "repositoryUrl": "https://api.github.com/repos/angeuwase744-ctrl/omi-",
-          "updatedAt": "2026-10-21T01:25:31Z"
-        },
-        {
-          "title": "fix(container): validate size budgets and fail clean on malformed inspection",
-          "url": "https://github.com/TogetherWeOwn/two-bot-next/pull/1459",
-          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/two-bot-next",
-          "updatedAt": "2026-10-21T01:25:31Z"
-        },
-        {
-          "title": "feat: enable authorized project inspection from jarvis chat",
-          "url": "https://github.com/EvertonLMsilva/jarvis_geral/pull/3",
-          "repositoryUrl": "https://api.github.com/repos/EvertonLMsilva/jarvis_geral",
-          "updatedAt": "2026-10-21T01:25:30Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
