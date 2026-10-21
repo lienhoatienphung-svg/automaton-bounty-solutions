@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T19:26:52.492Z",
-  "latencyMs": 882,
+  "executedAt": "2026-10-21T19:28:30.889Z",
+  "latencyMs": 1157,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #436: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #437: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,22 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "BLhG3Yk7JVDKkv1z3bPv7o1t2XnZMXAzpZmpvpnppump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/blhg3yk7jvdkkv1z3bpv7o1t2xnzmxazpzmpvpnppump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "The most measured dog alive.",
+      "url": "https://dexscreener.com/solana/ejaxervku4kevxn3narjvrtgamajyp9zumeka7jjpump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x64187573C2af0a6F1fcd76d48DeE2c6A8A981111",
       "boostAmount": 30,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. 🪙 Built & controlled by Agentic AI.",
       "url": "https://dexscreener.com/solana/dtcicpcktkeah7tdeztym3hxeohaomibdyjhmyxzpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "DacityCoin powered by AudaCity was spotted on the GTA trailer\n\n1% dividends of $TTWO\n\nThis CA is the only token officially to have a community with a proper Dex",
-      "url": "https://dexscreener.com/solana/dkycjobf7hptl9ryqbrderq2iwvizpfbgwwpwnxdpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "52ziiHpfjBoaDZvTYczFiXdpuUMGD9B5YSGz6Hxapump",
-      "boostAmount": 500,
-      "totalBoostAmount": 500,
-      "description": "KimchiWeen paired with Kimchi! 15% supply sent to Kimchi",
-      "url": "https://dexscreener.com/solana/52ziihpfjboadzvtyczfixdpuumgd9b5ysgz6hxapump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Secure backend operations and remove fabricated service results",
+      "url": "https://github.com/elon00/jarsol-web4-automaton/pull/11",
+      "createdAt": "2026-10-21T18:10:07Z"
+    },
+    {
+      "title": "feat(e2e): per-flow integration suite on a local Anvil chain (#56)",
+      "url": "https://github.com/bytesbrains/16ane/pull/113",
+      "createdAt": "2026-10-21T18:46:53Z"
+    },
+    {
+      "title": "perf(sampling): fuse greedy chain verification output writes",
+      "url": "https://github.com/lightseekorg/tokenspeed/pull/2553",
+      "createdAt": "2026-10-20T19:50:31Z"
+    },
+    {
+      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
+      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
+      "createdAt": "2026-10-07T16:13:30Z"
+    },
+    {
+      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
+      "url": "https://github.com/tehki/myaso/issues/360",
+      "createdAt": "2026-10-20T17:25:33Z"
+    },
+    {
       "title": "feat(contracts): add referral registration cooldown and Sybil resistance guards",
       "url": "https://github.com/john2ydep2-gt/PERO-J/issues/926",
       "createdAt": "2026-10-16T12:52:51Z"
-    },
-    {
-      "title": "test(vllm): run the vLLM tests on tiny generated models, without the Hugging Face Hub",
-      "url": "https://github.com/DataDog/dd-trace-py/pull/21161",
-      "createdAt": "2026-10-21T17:19:40Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "feat - BFE-264 - simple reward wizard and Extend a simple reward wizard",
-      "url": "https://github.com/bze-alphateam/bze-frontend-apps/pull/172",
-      "createdAt": "2026-10-21T19:12:51Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "fix(intent): harden SolverEscrow events, reentrancy and checks (OIP-00109, OIP-00210)",
-      "url": "https://github.com/outbe/outbe-chain/pull/730",
-      "createdAt": "2026-10-21T10:03:29Z"
     }
   ]
 }
