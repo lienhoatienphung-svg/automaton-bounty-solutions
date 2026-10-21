@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T12:22:16.418Z",
-  "latencyMs": 684,
+  "executedAt": "2026-10-21T12:34:01.586Z",
+  "latencyMs": 441,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #375: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #376: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52897994,
+    "liveBlockNumber": 52898347,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459838,
-    "baseMainnetTopPoolsVolume24hUsd": 119042,
+    "baseMainnetTopPoolsVolume24hUsd": 118532,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6Bo65DyXcg9JR5gtkdiKYZHyzgc6z2muwCgrwNVmduve",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6bo65dyxcg9jr5gtkdikyzhyzgc6z2muwcgrwnvmduve"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "AeQPNdmCxSHD3JYb9fG3HhRpcitz4ovCX4N6GQpnpump",
+        "description": "Tuff is one of the most used GenZ terms of all time.\n\nComparable to aura, giga, mog, maxxing, larp, sigma etc\n\nNow born on solana",
+        "url": "https://dexscreener.com/solana/aeqpndmcxshd3jyb9fg3hhrpcitz4ovcx4n6gqpnpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x572bd58aefa0f2435096416fb09c0cc5d0bb1af1",
@@ -69,18 +81,6 @@
         "tokenAddress": "5pS5LjtwUEa8bbyRSNvYgHff6BuGV4aZgMdUGf6Jpump",
         "description": "Launch tokens permanently paired with NFT collections; fees buy NFTs for holders or burning. Powered by @tensor_hq",
         "url": "https://dexscreener.com/solana/5ps5ljtwuea8bbyrsnvyghff6bugv4azgmdugf6jpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x598c669d41927200b46c9856c25dcb9fffe3ef2d",
-        "description": "Tokenize your @fomo & @Pumpfun profile.",
-        "url": "https://dexscreener.com/robinhood/0x598c669d41927200b46c9856c25dcb9fffe3ef2d"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7XwfdmFG2yeBvtsw3LajBXbdVAZ3pvBUt47WGeatpump",
-        "description": "Stock Inu",
-        "url": "https://dexscreener.com/solana/7xwfdmfg2yebvtsw3lajbxbdvaz3pvbut47wgeatpump"
       }
     ]
   },
