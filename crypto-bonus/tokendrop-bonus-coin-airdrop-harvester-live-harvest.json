@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T19:13:42.935Z",
-  "latencyMs": 1224,
+  "executedAt": "2026-10-21T19:26:52.492Z",
+  "latencyMs": 882,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #435: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #436: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1063928,
-      "apyBase": 1.33,
-      "apyRewardBonus": 89262.06,
-      "apyTotal": 89263.39,
+      "tvlUsd": 1068656,
+      "apyBase": 1.25,
+      "apyRewardBonus": 88160.49,
+      "apyTotal": 88161.74,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -44,10 +44,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 58227,
+      "tvlUsd": 57578,
       "apyBase": 0,
-      "apyRewardBonus": 36692.75,
-      "apyTotal": 36692.75,
+      "apyRewardBonus": 36904.09,
+      "apyTotal": 36904.09,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -57,10 +57,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-LMTS",
-      "tvlUsd": 137987,
-      "apyBase": 54.66,
-      "apyRewardBonus": 34582.09,
-      "apyTotal": 34636.75,
+      "tvlUsd": 138618,
+      "apyBase": 52.02,
+      "apyRewardBonus": 24023.07,
+      "apyTotal": 24075.09,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -95,37 +95,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-MSTRC",
-      "tvlUsd": 1976146,
-      "apyBase": 104.69,
-      "apyRewardBonus": 6578.68,
-      "apyTotal": 6683.36,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "06ae14ef-c2e3-5e30-9876-3e06c8b2f9a9"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-SPCXC",
-      "tvlUsd": 523175,
-      "apyBase": 438.16,
-      "apyRewardBonus": 5140.12,
-      "apyTotal": 5578.28,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "f3990eac-d0e2-545c-a52b-3304804ab529"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 162986,
-      "apyBase": 32.51,
-      "apyRewardBonus": 5094.77,
-      "apyTotal": 5127.27,
+      "tvlUsd": 161709,
+      "apyBase": 36.93,
+      "apyRewardBonus": 7179.22,
+      "apyTotal": 7216.15,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -134,19 +108,61 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "SOL-USDC",
-      "tvlUsd": 554362,
-      "apyBase": 140.45,
-      "apyRewardBonus": 4695.81,
-      "apyTotal": 4836.26,
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 3287183,
+      "apyBase": 71.2,
+      "apyRewardBonus": 5536.95,
+      "apyTotal": 5608.16,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "a6a1fe38-a220-4f68-a2b9-d2749c3e4664"
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-SPCXC",
+      "tvlUsd": 511960,
+      "apyBase": 438.61,
+      "apyRewardBonus": 5102.21,
+      "apyTotal": 5540.82,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "f3990eac-d0e2-545c-a52b-3304804ab529"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 204365,
+      "apyBase": 31.95,
+      "apyRewardBonus": 4716.37,
+      "apyTotal": 4748.32,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0x64187573C2af0a6F1fcd76d48DeE2c6A8A981111",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Hold $BRICS on Robinhood Chain and you get a tower in the City. The more $BRICS you hold, the taller your tower. Sell and it shrinks. That is the whole idea.",
+      "url": "https://dexscreener.com/robinhood/0x64187573c2af0a6f1fcd76d48dee2c6a8a981111"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "Fe6KyLPHWerbHAYG7AFQk3LwgyQ4tViDzkfkCi5qpump",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "Valtrix Vault\n\nPROTECT VALUE.\nEMPOWER COMMUNITIES.\nOne Vault. Every Community. Your Token.\n\nVALTRIX is developing a community-powered launch vault on Solana. Th",
+      "url": "https://dexscreener.com/solana/fe6kylphwerbhayg7afqk3lwgyq4tvidzkfkci5qpump"
+    },
     {
       "chainId": "robinhood",
       "tokenAddress": "0xa157E2fcfc2b0BF49113686Ab93BE152047Bc2A2",
@@ -194,22 +210,6 @@
       "totalBoostAmount": 500,
       "description": "KimchiWeen paired with Kimchi! 15% supply sent to Kimchi",
       "url": "https://dexscreener.com/solana/52ziihpfjboadzvtyczfixdpuumgd9b5ysgz6hxapump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "BZdMHeSGP1jc4PhJaV4zrLkFe5jKuthTxKPJ3ZMkpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Still watching.",
-      "url": "https://dexscreener.com/solana/bzdmhesgp1jc4phjav4zrlkfe5jkuthtxkpj3zmkpump"
-    },
-    {
-      "chainId": "bsc",
-      "tokenAddress": "0xED71B42b07cC1664C0F82361D48D0417a6ED7777",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "CZ's new dog",
-      "url": "https://dexscreener.com/bsc/0xed71b42b07cc1664c0f82361d48d0417a6ed7777"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,57 +217,57 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 701,
-      "priceBtc": 3.2783471292460003e-7
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 86,
-      "priceBtc": 0.000010104487350895249
+      "marketCapRank": 695,
+      "priceBtc": 3.2540785989994997e-7
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 80,
-      "priceBtc": 0.00004579474966132789
+      "priceBtc": 0.00004594514882760869
     },
     {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 520,
-      "priceBtc": 0.000003093245772095221
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 87,
+      "priceBtc": 0.00001003438745583698
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 89,
-      "priceBtc": 0.000027072611239926537
+      "priceBtc": 0.000027327165110957263
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 519,
+      "priceBtc": 0.0000031314151229378567
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.811599285564591e-8
+      "priceBtc": 9.816648440721424e-8
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006245607743823752
+      "priceBtc": 0.00006296922069829036
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.000915374460885
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 137,
+      "priceBtc": 0.0000043455336252561034
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "explorer: the tracker and the faucet on the database",
-      "url": "https://github.com/rome-protocol/canton-zk-evm/pull/12",
-      "createdAt": "2026-10-21T13:35:25Z"
+      "title": "feat(contracts): add referral registration cooldown and Sybil resistance guards",
+      "url": "https://github.com/john2ydep2-gt/PERO-J/issues/926",
+      "createdAt": "2026-10-16T12:52:51Z"
     },
     {
       "title": "test(vllm): run the vLLM tests on tiny generated models, without the Hugging Face Hub",
@@ -275,14 +275,9 @@
       "createdAt": "2026-10-21T17:19:40Z"
     },
     {
-      "title": "2.8 — Exportar e importar a biblioteca (+ .ipa com dados de exemplo)",
-      "url": "https://github.com/d0gz/estantes/pull/28",
-      "createdAt": "2026-10-21T19:08:57Z"
-    },
-    {
-      "title": "feat(e2e): per-flow integration suite on a local Anvil chain (#56)",
-      "url": "https://github.com/bytesbrains/16ane/pull/113",
-      "createdAt": "2026-10-21T18:46:53Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
       "title": "feat - BFE-264 - simple reward wizard and Extend a simple reward wizard",
@@ -290,9 +285,14 @@
       "createdAt": "2026-10-21T19:12:51Z"
     },
     {
-      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
-      "createdAt": "2026-10-07T00:07:47Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "fix(intent): harden SolverEscrow events, reentrancy and checks (OIP-00109, OIP-00210)",
+      "url": "https://github.com/outbe/outbe-chain/pull/730",
+      "createdAt": "2026-10-21T10:03:29Z"
     }
   ]
 }
