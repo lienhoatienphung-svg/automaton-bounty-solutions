@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T11:21:29.133Z",
-  "latencyMs": 1316,
+  "executedAt": "2026-10-21T11:22:55.350Z",
+  "latencyMs": 1467,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #368: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #369: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -17,24 +17,11 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "CTR-USDC",
-      "tvlUsd": 681002,
-      "apyBase": 44.83,
-      "apyRewardBonus": 118183.3,
-      "apyTotal": 118228.13,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "47bb2cb3-6a91-43ee-9dde-abceb2ded03f"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1052515,
-      "apyBase": 1.39,
-      "apyRewardBonus": 79169.81,
-      "apyTotal": 79171.2,
+      "tvlUsd": 1054930,
+      "apyBase": 1.47,
+      "apyRewardBonus": 79275.33,
+      "apyTotal": 79276.8,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -44,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 933359,
+      "tvlUsd": 934519,
       "apyBase": 22.37,
-      "apyRewardBonus": 59255.96,
-      "apyTotal": 59278.33,
+      "apyRewardBonus": 58327.85,
+      "apyTotal": 58350.22,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -57,10 +44,10 @@
       "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 55223,
+      "tvlUsd": 55518,
       "apyBase": 0,
-      "apyRewardBonus": 37703,
-      "apyTotal": 37703,
+      "apyRewardBonus": 37738.5,
+      "apyTotal": 37738.5,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -70,14 +57,27 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 95273,
-      "apyBase": 83.61,
-      "apyRewardBonus": 13540.43,
-      "apyTotal": 13624.04,
+      "tvlUsd": 93615,
+      "apyBase": 83.26,
+      "apyRewardBonus": 29985.27,
+      "apyTotal": 30068.53,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-MSTRC",
+      "tvlUsd": 969872,
+      "apyBase": 175.36,
+      "apyRewardBonus": 7422.88,
+      "apyTotal": 7598.25,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "06ae14ef-c2e3-5e30-9876-3e06c8b2f9a9"
     },
     {
       "chain": "Base",
@@ -96,10 +96,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-USDC",
-      "tvlUsd": 160627,
-      "apyBase": 52.94,
-      "apyRewardBonus": 5207.36,
-      "apyTotal": 5260.31,
+      "tvlUsd": 160974,
+      "apyBase": 52.63,
+      "apyRewardBonus": 6266.74,
+      "apyTotal": 6319.38,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -108,24 +108,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "USDC-MSTRC",
-      "tvlUsd": 969873,
-      "apyBase": 167.28,
-      "apyRewardBonus": 4568.76,
-      "apyTotal": 4736.04,
+      "symbol": "CTR-USDC",
+      "tvlUsd": 667082,
+      "apyBase": 20.68,
+      "apyRewardBonus": 5940.2,
+      "apyTotal": 5960.88,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "06ae14ef-c2e3-5e30-9876-3e06c8b2f9a9"
+      "poolId": "47bb2cb3-6a91-43ee-9dde-abceb2ded03f"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-CBBTC",
-      "tvlUsd": 186862,
-      "apyBase": 35.87,
-      "apyRewardBonus": 4331.84,
-      "apyTotal": 4367.71,
+      "tvlUsd": 183925,
+      "apyBase": 37.35,
+      "apyRewardBonus": 5689.13,
+      "apyTotal": 5726.48,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -134,15 +134,15 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-CBBTC",
-      "tvlUsd": 3207004,
-      "apyBase": 64.86,
-      "apyRewardBonus": 4244.33,
-      "apyTotal": 4309.19,
+      "symbol": "USDC-SNDKC",
+      "tvlUsd": 823043,
+      "apyBase": 128.17,
+      "apyRewardBonus": 4152.02,
+      "apyTotal": 4280.19,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Add EMMA processing and Craft Launch/Update Claim controls",
-      "url": "https://github.com/6529-Collections/6529seize-frontend/pull/4207",
-      "createdAt": "2026-10-09T09:31:42Z"
+      "title": "chore(deps): update dependency lucide-react to v1.61.0",
+      "url": "https://github.com/agentic-layer/showcase-cross-selling/pull/93",
+      "createdAt": "2026-05-29T06:50:56Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "feat - BFE-259 - Factory Done screen + next-action map, DEX /staking?search=",
+      "url": "https://github.com/bze-alphateam/bze-frontend-apps/pull/163",
+      "createdAt": "2026-10-21T11:22:32Z"
     },
     {
       "title": "chore(main): release 0.87.0",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-16T19:00:01Z"
     },
     {
-      "title": "feat: scaffold the bench with Harbor glue, smoke families, CI, and conventions",
-      "url": "https://github.com/hakula139/assistant-bench/pull/1",
-      "createdAt": "2026-10-21T08:27:21Z"
+      "title": "Live connector check failing (2026-08-14)",
+      "url": "https://github.com/Pairlens/trading-terminal/issues/11",
+      "createdAt": "2026-08-14T07:30:01Z"
     },
     {
-      "title": "perf(communities): switch member views to the community roster",
-      "url": "https://github.com/status-im/status-app/pull/22799",
-      "createdAt": "2026-10-13T15:26:44Z"
-    },
-    {
-      "title": "test(web): contract argument encoding matches the bindings",
-      "url": "https://github.com/Godgift-care/sci-healthcare-frontend/pull/178",
-      "createdAt": "2026-10-21T11:20:23Z"
-    },
-    {
-      "title": "Polish Safe Collecting guides and translate supported locales",
-      "url": "https://github.com/6529-Collections/6529seize-frontend/pull/4426",
-      "createdAt": "2026-10-21T09:01:38Z"
+      "title": "Update all non-major dependencies",
+      "url": "https://github.com/HarryAllen1/tsa-grouping-thing/pull/132",
+      "createdAt": "2026-03-04T10:04:50Z"
     }
   ]
 }
