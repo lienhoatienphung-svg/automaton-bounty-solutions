@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T11:53:47.226Z",
-  "latencyMs": 322,
+  "executedAt": "2026-10-21T12:06:10.797Z",
+  "latencyMs": 426,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #371: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #372: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52897139,
+    "liveBlockNumber": 52897511,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459838,
-    "baseMainnetTopPoolsVolume24hUsd": 129842,
+    "baseMainnetTopPoolsVolume24hUsd": 127543,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "vBozB5H8KL9efKBHZ8m2WziTnSCGComxyDxUApbpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/vbozb5h8kl9efkbhz8m2wzitnscgcomxydxuapbpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GtNGmorrjkJ54oSPfRnBbMneqUzgPYfDZBbDV5zepump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gtngmorrjkj54ospfrnbbmnequzgpyfdzbbdv5zepump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x62CF303e3dE4Bc8bDd6c14d3F3784d9bebcd59C1",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0x62cf303e3de4bc8bdd6c14d3f3784d9bebcd59c1"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5pS5LjtwUEa8bbyRSNvYgHff6BuGV4aZgMdUGf6Jpump",
+        "description": "Launch tokens permanently paired with NFT collections; fees buy NFTs for holders or burning. Powered by @tensor_hq",
+        "url": "https://dexscreener.com/solana/5ps5ljtwuea8bbyrsnvyghff6bugv4azgmdugf6jpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x598c669d41927200b46c9856c25dcb9fffe3ef2d",
@@ -57,30 +81,6 @@
         "tokenAddress": "HXuAgtMSuuv3sJH6UPg2cG4Txqovc19kD6PtyHxmpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/hxuagtmsuuv3sjh6upg2cg4txqovc19kd6ptyhxmpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x90A36713577D661e8f3ae0085DfED7f4460a2E71",
-        "description": "bid my blood to run PEPE",
-        "url": "https://dexscreener.com/robinhood/0x90a36713577d661e8f3ae0085dfed7f4460a2e71"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "a5qFdexdutcopfoKbvYLrRDc2c8BDyLfh9GdhDWtrde",
-        "description": "Grow your influence onchain.",
-        "url": "https://dexscreener.com/solana/a5qfdexdutcopfokbvylrrdc2c8bdylfh9gdhdwtrde"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x752D27B0dA5492B29896554AC722062945Aa7777",
-        "description": "一张 Agent ID 卡，拆成 10 亿枚。每天 12:00 UTC 一轮：持 Agent ID 用名字发币，24 小时后卡王毕业上 PancakeSwap，其余并入卡王。Agent 转账就能玩。",
-        "url": "https://dexscreener.com/bsc/0x752d27b0da5492b29896554ac722062945aa7777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5ag99jdTZDF2iUsHd94bDec7jrwSdjjiYYjgouzypump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5ag99jdtzdf2iushd94bdec7jrwsdjjiyyjgouzypump"
       }
     ]
   },
