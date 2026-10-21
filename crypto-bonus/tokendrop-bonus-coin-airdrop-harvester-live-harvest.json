@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T03:26:51.372Z",
-  "latencyMs": 1426,
+  "executedAt": "2026-10-21T03:28:20.945Z",
+  "latencyMs": 900,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #292: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #293: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -270,6 +270,21 @@
       "createdAt": "2026-10-21T02:39:32Z"
     },
     {
+      "title": "Live-fire run 1 follow-ups: helper-wallet funding race, verify_withdrawal double verdict, tx_index gaps",
+      "url": "https://github.com/mcp-tool-shop-org/xrpl-lab/issues/20",
+      "createdAt": "2026-10-20T21:21:14Z"
+    },
+    {
+      "title": "feat(coin-tester): add the coin-sandbox client (LIVE-39239)",
+      "url": "https://github.com/LedgerHQ/ledger-live/pull/23598",
+      "createdAt": "2026-10-20T14:36:18Z"
+    },
+    {
+      "title": "feat(engine): confidence-scheduled verify length for DFlash2 and DSpark",
+      "url": "https://github.com/cnshsliu/novamlx/pull/31",
+      "createdAt": "2026-10-21T03:27:08Z"
+    },
+    {
       "title": "Kimi K3 support",
       "url": "https://github.com/tpurtell/cuteafd/issues/273",
       "createdAt": "2026-10-15T06:49:01Z"
@@ -278,21 +293,6 @@
       "title": "[Ops] Muse ↔ Grok.btc direct line",
       "url": "https://github.com/cvolkernick/personal-workspace/issues/718",
       "createdAt": "2026-09-13T13:56:58Z"
-    },
-    {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/56",
-      "createdAt": "2026-10-21T02:03:49Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
     }
   ]
 }
