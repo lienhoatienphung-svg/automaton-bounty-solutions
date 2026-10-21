@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T01:54:18.571Z",
-  "latencyMs": 862,
+  "executedAt": "2026-10-21T02:03:38.689Z",
+  "latencyMs": 444,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #275: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #276: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x377c377F8315A547bf067e5955B78FE2366ED938",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Moonlit brings privacy-focused USDG payments to Robinhood Chain. Powered by stealth addresses, it lets users send and receive payments through unique one-time a",
+      "url": "https://dexscreener.com/robinhood/0x377c377f8315a547bf067e5955b78fe2366ed938"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump",
       "boostAmount": 50,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Launch and trade tokens paired with stocks, crypto, stablecoins & more.",
       "url": "https://dexscreener.com/solana/npd9vif19c2oy1jhhrrajsspmu9tjqtibfxoz4qcxph"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "4KxtNWc5XTL3cuyc8PJMchqB6RYggvEFeMub727GBAGS",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "The persistent knowledge layer for AI coding. Preserve decisions, context & lessons across sessions, agents and teams. Portable, vendor agnostic, Open source.",
-      "url": "https://dexscreener.com/solana/4kxtnwc5xtl3cuyc8pjmchqb6ryggvefemub727gbags"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,51 @@
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 718,
-      "priceBtc": 0.0010659827989679706
+      "marketCapRank": 723,
+      "priceBtc": 0.0010675707365632814
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 91,
-      "priceBtc": 0.000025935410945473893
+      "marketCapRank": 90,
+      "priceBtc": 0.000025634952696687316
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012500337759669307
-    },
-    {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "marketCapRank": 70,
-      "priceBtc": 0.0003172564030774315
+      "priceBtc": 0.000012442334740637646
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "marketCapRank": 114,
-      "priceBtc": 9.620939475500137e-8
+      "marketCapRank": 113,
+      "priceBtc": 9.662675620668633e-8
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0012132809205876
+      "priceBtc": 0.9982072570513565
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 139,
+      "priceBtc": 0.000004288189569724096
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "marketCapRank": 71,
+      "priceBtc": 0.0003136652250720452
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.000060955902352986455
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 141,
-      "priceBtc": 0.00000422504784691237
+      "priceBtc": 0.00006042947466944725
     }
   ],
-  "activeAirdropAndFaucetQuests": [
-    {
-      "title": "feat: deposit_pool for vesting",
-      "url": "https://github.com/Talus-Network/talus-token/pull/27",
-      "createdAt": "2026-10-20T14:52:35Z"
-    },
-    {
-      "title": "perf(search): cache, parallel scan and exact pruning (R2c-3c)",
-      "url": "https://github.com/liqiangcc/reading-mcp/pull/194",
-      "createdAt": "2026-10-21T01:23:08Z"
-    },
-    {
-      "title": "feat(grpo): add Qwen3-4B GPG Ascend recipe",
-      "url": "https://github.com/verl-project/verl-ascend-recipe/pull/144",
-      "createdAt": "2026-10-11T16:03:43Z"
-    },
-    {
-      "title": "[BugFix][MRV1] Fix async PP MTP state synchronization for hybrid models",
-      "url": "https://github.com/vllm-project/vllm-ascend/pull/19309",
-      "createdAt": "2026-10-21T01:20:16Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "[BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history",
-      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1",
-      "createdAt": "2026-03-27T00:55:36Z"
-    }
-  ]
+  "activeAirdropAndFaucetQuests": []
 }
