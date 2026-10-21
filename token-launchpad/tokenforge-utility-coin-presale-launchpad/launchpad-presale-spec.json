@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T13:01:41.695Z",
-  "latencyMs": 502,
+  "executedAt": "2026-10-21T13:03:33.444Z",
+  "latencyMs": 257,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #380: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
+  "workTitle": "Delivery Sprint #381: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52899177,
-    "liveGasPriceGwei": 0.0061,
+    "liveBlockNumber": 52899233,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459840,
-    "baseMainnetTopPoolsVolume24hUsd": 125902,
+    "baseMainnetTopPoolsVolume24hUsd": 125876,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6bxBZwvU4gMWKFMViGAnHSsdJChixyCUwV1VB8wnpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6bxbzwvu4gmwkfmviganhssdjchixycuwv1vb8wnpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "3wzpc6Cd5X4E11mnY4GqQzWXrZEYYWQ8zoD5eFz3Cksp",
@@ -75,12 +81,6 @@
         "tokenAddress": "67xA5fT1qLYqCycwBtyZmA5AmPnJChhUUBJfDLy2pump",
         "description": "Ten Tokens, One Ticker. The Index of @Solana",
         "url": "https://dexscreener.com/solana/67xa5ft1qlyqcycwbtyzma5ampnjchhuubjfdly2pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BNMeWf8VP9RiPs9XKLTQVuYrYywLawCvgWMEKRkmpump",
-        "description": "The next Labubu\nMost viral home robot in Japan and everyone wants one.",
-        "url": "https://dexscreener.com/solana/bnmewf8vp9rips9xkltqvuyryywlawcvgwmekrkmpump"
       }
     ]
   },
