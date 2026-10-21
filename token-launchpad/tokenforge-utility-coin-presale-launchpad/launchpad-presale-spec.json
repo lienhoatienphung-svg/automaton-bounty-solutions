@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T20:39:28.090Z",
-  "latencyMs": 647,
+  "executedAt": "2026-10-21T20:53:04.077Z",
+  "latencyMs": 1453,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #443: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #444: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52912910,
+    "liveBlockNumber": 52913317,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,56 +31,56 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459817,
-    "baseMainnetTopPoolsVolume24hUsd": 142469,
+    "baseMainnetTopPoolsVolume24hUsd": 142164,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
       {
         "chainId": "solana",
-        "tokenAddress": "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump",
-        "description": "Kimchi-inspired. Bull-built. Private jets, heavy wrists, unlimited aura.",
-        "url": "https://dexscreener.com/solana/gne7e774tkgyxmmzp36ofhnurruz15h4e1le1xekpump"
+        "tokenAddress": "HQp1VjjRDNRgNixrn4drusfrFUHUJivnD2eshXHYuTbJ",
+        "description": "Clout is the new currency.",
+        "url": "https://dexscreener.com/solana/hqp1vjjrdnrgnixrn4drusfrfuhujivnd2eshxhyutbj"
       },
       {
         "chainId": "solana",
-        "tokenAddress": "YoLKW1YwxrihuaHjzyrMUtTNaktLKrbLZa4JQpNLabS",
-        "description": "We went to the moon. We brought something back.\nSpecimen 0001 is awake. $YOLK is the only way into the incubation program.\nLab · card game · launchpad",
-        "url": "https://dexscreener.com/solana/yolkw1ywxrihuahjzyrmuttnaktlkrblza4jqpnlabs"
+        "tokenAddress": "HdwQV48YV523GT3nLrpqmWfStqu7PqSBfsTW3iEXJZjD",
+        "description": "Saylor Coin",
+        "url": "https://dexscreener.com/solana/hdwqv48yv523gt3nlrpqmwfstqu7pqsbfstw3iexjzjd"
       },
       {
         "chainId": "solana",
-        "tokenAddress": "B9cyjXHJAwaRwdJ8T2WtAjq1usSiUQnm9NaaukLhpump",
-        "description": "👑 **TBV | TZ Bigger Vision**\n\nPLAN • FOCUS • WIN 🚀\n\nBuilt on faith. Driven by discipline. Powered by a bigger vision. 🌅\n\nMore than a ticker — it’s a mindset.",
-        "url": "https://dexscreener.com/solana/b9cyjxhjawarwdj8t2wtajq1ussiuqnm9naauklhpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "A6kBEdrgadYzdV157v8ANz5XiCqCB9aBsrND9H291Kut",
+        "tokenAddress": "CjDQzMzg6HCCKZpKYtQ2reu7zK468Gg771CzFR61STNK",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/a6kbedrgadyzdv157v8anz5xicqcb9absrnd9h291kut"
+        "url": "https://dexscreener.com/solana/cjdqzmzg6hcckzpkytq2reu7zk468gg771czfr61stnk"
       },
       {
         "chainId": "solana",
-        "tokenAddress": "2nKhCQe34DS6pHgLaAb3dU53iktMf6hUnbm9g9tepump",
+        "tokenAddress": "JDroFYxg9y1Mmcyd8N3rYnzfXSScSpzBhHnEXaUBpump",
+        "description": "The ultimate terminal for tokenized equities on Solana. Powered by Jupiter.",
+        "url": "https://dexscreener.com/solana/jdrofyxg9y1mmcyd8n3rynzfxsscspzbhhnexaubpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x1c5b38d5fd580dcc7e19923862a1c9eee383255b",
+        "description": "The tombola on Robinhood Chain. 6% of every trade fills an ETH prize pot, drawn hourly on day one, then every 4 hours, plus a weekly mega pot. Hold 10,000+ TOMB",
+        "url": "https://dexscreener.com/robinhood/0x1c5b38d5fd580dcc7e19923862a1c9eee383255b"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x2f6955cbc2e5cfce0bd40024092676eaf79f2463",
+        "description": "Marketplaces can't tell a mint-time trading pause from a collection that's soulbound for good. ERC-8451 gives each its own onchain signal, and adds ERC-1155 sup",
+        "url": "https://dexscreener.com/ethereum/0x2f6955cbc2e5cfce0bd40024092676eaf79f2463"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FtByUFQUdgnEBc7eZU1o3H9Tpu9WC5ZK9d1a6ppbpump",
+        "description": "Mozilla says 8 eMudhra certificate private keys were compromised, one was literally just 4, potentially allowing forged HTTPS certificates before Firefox blocke",
+        "url": "https://dexscreener.com/solana/ftbyufqudgnebc7ezu1o3h9tpu9wc5zk9d1a6ppbpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Cm95GKvJsCpmzn2CD1ZwWotPi5mvQ91qjJbqtLLXpump",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2nkhcqe34ds6phglaab3du53iktmf6hunbm9g9tepump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EkPnj4dEiWhDwaBehtRduD4brjzw5Gv3RR1WyWyVdw4G",
-        "description": "TESLA OF GTA 6",
-        "url": "https://dexscreener.com/solana/ekpnj4deiwhdwabehtrdud4brjzw5gv3rr1wywyvdw4g"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5ExrYyePj2u31RRSbeT7FsEPAusjYB8Mt8HzHpg3pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5exryyepj2u31rrsbet7fsepausjyb8mt8hzhpg3pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "H1sgNHHrdLxnyyaDsvZx4JyZ4RNmaKuD7HFsf5EAaWVM",
-        "description": "saylor moon",
-        "url": "https://dexscreener.com/solana/h1sgnhhrdlxnyyadsvzx4jyz4rnmakud7hfsf5eaawvm"
+        "url": "https://dexscreener.com/solana/cm95gkvjscpmzn2cd1zwwotpi5mvq91qjjbqtllxpump"
       }
     ]
   },
