@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T20:15:38.475Z",
-  "latencyMs": 1482,
+  "executedAt": "2026-10-21T20:17:21.482Z",
+  "latencyMs": 809,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #442: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #443: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat: remove strict genesis checks",
-      "url": "https://github.com/raylsnetwork/axyl/pull/315",
-      "createdAt": "2026-10-21T20:04:03Z"
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
     },
     {
-      "title": "fix(wallet): keep the mnemonic in memory only, ISMOS storage, and Breez SDK 0.26",
-      "url": "https://github.com/LibreriadeSatoshi/breeze-learning-wallet/pull/73",
-      "createdAt": "2026-10-21T20:13:55Z"
+      "title": "Agent workstream chat — fresh token/network research and detection coverage",
+      "url": "https://github.com/auction2026-droid/bit-tester/issues/3",
+      "createdAt": "2026-10-21T14:52:49Z"
+    },
+    {
+      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
+      "url": "https://github.com/tehki/myaso/issues/360",
+      "createdAt": "2026-10-20T17:25:33Z"
     },
     {
       "title": "Full live sweep of 2.7.3: 3 lessons break later ones in a shared home, 2 fail alone",
@@ -280,19 +285,14 @@
       "createdAt": "2026-10-21T20:15:16Z"
     },
     {
-      "title": "feat: fix the vLLM DP path",
-      "url": "https://github.com/NVIDIA-NeMo/RL/pull/2517",
-      "createdAt": "2026-05-18T04:46:25Z"
+      "title": "feat(gym): support Environment Server tasksets",
+      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4429",
+      "createdAt": "2026-10-02T22:40:32Z"
     },
     {
-      "title": "security(program): refund-only settlement, join terms, layout padding; retire the web app",
-      "url": "https://github.com/davigiroux/safenudge.xyz/pull/103",
-      "createdAt": "2026-10-20T22:02:27Z"
-    },
-    {
-      "title": "feat - BFE-265 - Compounded reward wizard and the staked-token picker",
-      "url": "https://github.com/bze-alphateam/bze-frontend-apps/pull/174",
-      "createdAt": "2026-10-21T20:14:18Z"
+      "title": "Website: add a Fleet server API for the profile generator",
+      "url": "https://github.com/fleetdm/fleet/pull/55939",
+      "createdAt": "2026-10-19T20:20:24Z"
     }
   ]
 }
