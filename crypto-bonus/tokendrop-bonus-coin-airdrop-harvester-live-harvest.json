@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T07:46:43.556Z",
-  "latencyMs": 925,
+  "executedAt": "2026-10-21T07:48:06.516Z",
+  "latencyMs": 858,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #336: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #337: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "tests(@e2e): community token actions",
-      "url": "https://github.com/status-im/status-app/pull/22828",
-      "createdAt": "2026-10-15T09:07:21Z"
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
+    },
+    {
+      "title": "fix(cli): register Windows MCP clients with a pinned WSL launcher",
+      "url": "https://github.com/OriginTrail/dkg/pull/3348",
+      "createdAt": "2026-10-17T22:25:56Z"
+    },
+    {
+      "title": "Community verification: tree checks, place reports, Community screen, offline outbox",
+      "url": "https://github.com/simonmcmanus/epping-forest-finds/pull/287",
+      "createdAt": "2026-10-19T08:06:34Z"
     },
     {
       "title": "build: M1 local stack, testnet contract replay and plan decisions",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-21T07:46:03Z"
     },
     {
+      "title": "tests(@e2e): community token actions",
+      "url": "https://github.com/status-im/status-app/pull/22828",
+      "createdAt": "2026-10-15T09:07:21Z"
+    },
+    {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "Add EnterpriseOps-Gym benchmark: resources server, benchmark registration, and per-turn telemetry agent",
-      "url": "https://github.com/NVIDIA-NeMo/Gym/pull/2142",
-      "createdAt": "2026-07-25T00:32:53Z"
-    },
-    {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "Factorial: the study file (Download all, Share, a dropzone) and every study kept",
-      "url": "https://github.com/kgdunn/process-improve/pull/895",
-      "createdAt": "2026-10-21T07:24:06Z"
     }
   ]
 }
