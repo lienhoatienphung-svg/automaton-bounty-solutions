@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T02:28:06.831Z",
-  "latencyMs": 390,
+  "executedAt": "2026-10-21T02:29:50.362Z",
+  "latencyMs": 339,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #278: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #279: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52880169,
+    "liveBlockNumber": 52880221,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 177262,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Gp3PdKW35AuG9UkV6JidoCzKQ2jqqCoRmB8pxz3idZVm",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gp3pdkw35aug9ukv6jidoczkq2jqqcormb8pxz3idzvm"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "ANrmxCwhQHxp9g3gumWE3jYcfdbnA6MWBaJ9A6NYpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "2ktafvyTmMksTSevsg29zYB4Ar9C4ox797Smwfrbpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/2ktafvytmmkstsevsg29zyb4ar9c4ox797smwfrbpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DwQb4rAz3QhEwvPC9QMVMsCiK8X7haoB49f8LB96pump",
-        "description": "Aura Final Dictator - Kim",
-        "url": "https://dexscreener.com/solana/dwqb4raz3qhewvpc9qmvmscik8x7haob49f8lb96pump"
       }
     ]
   },
