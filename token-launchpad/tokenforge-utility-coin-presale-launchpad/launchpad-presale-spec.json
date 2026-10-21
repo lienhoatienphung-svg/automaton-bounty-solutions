@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T06:34:03.597Z",
-  "latencyMs": 1395,
+  "executedAt": "2026-10-21T06:44:52.100Z",
+  "latencyMs": 428,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #323: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #324: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52887547,
+    "liveBlockNumber": 52887872,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 151420,
+    "baseMainnetTopPoolsVolume24hUsd": 142993,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x25e3Fe8C2Bea75768591F63d26C7530690057777",
+        "description": "英雄联盟 s16 全球总决赛 我们来了！",
+        "url": "https://dexscreener.com/bsc/0x25e3fe8c2bea75768591f63d26c7530690057777"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x64eb587083a775732f774b930037d7d7aeb36111",
+        "description": "Build Backends. Fast. Install the CLI, run shuttle init, then shuttle deploy: your code is packaged and compiled, and the resources it asks for are provisioned ",
+        "url": "https://dexscreener.com/robinhood/0x64eb587083a775732f774b930037d7d7aeb36111"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "JBENAHSV47Jo366BZqwB5ncpaJqmKc84DfBNbWm3jray",
+        "description": "Moon Lot (LOT) is a Solana coin with a real game behind it. Holders claim a lot on the moon, build bases with solar panels, drills, fuel tanks and defense turre",
+        "url": "https://dexscreener.com/solana/jbenahsv47jo366bzqwb5ncpajqmkc84dfbnbwm3jray"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4mNFQaNmMxLD2c3HVTNHFeQugNMcchWcgqYHoKBsddAi",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4mnfqanmmxld2c3hvtnhfequgnmcchwcgqyhokbsddai"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "63ji3LxbkEmmkpersaCnAk9QdkTp7ymqpcq8vuW3pump",
@@ -57,30 +81,6 @@
         "tokenAddress": "7k1S1H4VgTXafzgMJcVRUs3qBXPMKV6prytKe32apump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/7k1s1h4vgtxafzgmjcvrus3qbxpmkv6prytke32apump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2obQEJURUTQGNVTdwqZQX3HaAAd78dzhPP1PHksvpump",
-        "description": "Datacenter On PumpFun The best investment",
-        "url": "https://dexscreener.com/solana/2obqejurutqgnvtdwqzqx3haaad78dzhpp1phksvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FJhiea3Z8Uztp2s2a4jiqQoTp4UjP4jRPFVrBU4Epump",
-        "description": "The PumpFun Drug, Take the Pill",
-        "url": "https://dexscreener.com/solana/fjhiea3z8uztp2s2a4jiqqotp4ujp4jrpfvrbu4epump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2jCuh5iQbXCJBt1kfzeUT2KECkxUzRkWnGf5VXUspump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2jcuh5iqbxcjbt1kfzeut2keckxuzrkwngf5vxuspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5SPg2B7adWtGx7BH9V96ZjscCoNx3T6mpY2bhThzpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5spg2b7adwtgx7bh9v96zjscconx3t6mpy2bhthzpump"
       }
     ]
   },
