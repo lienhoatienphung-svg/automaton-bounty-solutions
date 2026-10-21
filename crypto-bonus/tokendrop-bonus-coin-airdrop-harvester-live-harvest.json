@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T00:51:22.001Z",
-  "latencyMs": 785,
+  "executedAt": "2026-10-21T01:00:20.672Z",
+  "latencyMs": 937,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #263: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #264: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,84 +215,84 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 115,
+      "priceBtc": 9.621102915749218e-8
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 715,
+      "priceBtc": 0.0010645230867898513
+    },
+    {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 28,
-      "priceBtc": 0.000012448456799302096
+      "priceBtc": 0.000012477503550800208
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00006009641457383367
+      "priceBtc": 0.00006026286112882512
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 717,
-      "priceBtc": 0.0010661118394764714
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 115,
-      "priceBtc": 9.60161112223686e-8
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 84,
-      "priceBtc": 0.000010629486116606327
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 141,
-      "priceBtc": 0.000004142367313057091
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 47,
+      "priceBtc": 5.910310115183537e-8
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015316095522150642
+      "priceBtc": 0.015371343060612063
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9987892423411499
+      "priceBtc": 0.999804242438109
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 90,
+      "priceBtc": 0.00002563843509754797
     }
   ],
   "activeAirdropAndFaucetQuests": [
-    {
-      "title": "CT-24: Admin transfer — make it consistent across contracts and add expiry",
-      "url": "https://github.com/zeekman/FarmersMarketplace/issues/1543",
-      "createdAt": "2026-10-15T15:07:31Z"
-    },
     {
       "title": "Add moe-router-design task",
       "url": "https://github.com/scaleapi/rsi-benchmark/pull/28",
       "createdAt": "2026-09-27T02:38:45Z"
     },
     {
-      "title": "[FLOP X] New official X signal",
-      "url": "https://github.com/raindogkitetu/Plain-text-codex-lab/issues/8",
-      "createdAt": "2026-09-22T10:07:33Z"
+      "title": "Update dependency @lucide/svelte to v1",
+      "url": "https://github.com/stolkie78/tracker/pull/29",
+      "createdAt": "2026-10-21T00:59:29Z"
     },
     {
-      "title": "fix: preserve refresh feedback, faucet scope and explorer links",
-      "url": "https://github.com/syscoin/pali-wallet/pull/986",
-      "createdAt": "2026-10-21T00:01:17Z"
+      "title": "build(deps): update production dependencies (major)",
+      "url": "https://github.com/neuland-ingolstadt/neuland-website/pull/66",
+      "createdAt": "2026-08-23T20:12:13Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "SF-022: Seal-encrypted artifact delivery with scoped, device-authenticated decryption",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/118",
+      "createdAt": "2026-10-16T21:18:29Z"
     },
     {
-      "title": "[BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history",
-      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1",
-      "createdAt": "2026-03-27T00:55:36Z"
+      "title": "feat(leancat): add LeanCat formal category-theory benchmark",
+      "url": "https://github.com/NVIDIA-NeMo/Gym/pull/3400",
+      "createdAt": "2026-09-15T11:39:45Z"
+    },
+    {
+      "title": "AppWorld eval REST: GEPA-Full vs seed (gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/900",
+      "createdAt": "2026-10-20T19:52:40Z"
     }
   ]
 }
