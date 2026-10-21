@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T19:12:01.634Z",
-  "latencyMs": 888,
+  "executedAt": "2026-10-21T19:13:42.935Z",
+  "latencyMs": 1224,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #434: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #435: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 726,
-      "priceBtc": 3.132343274682e-7
+      "marketCapRank": 701,
+      "priceBtc": 3.2783471292460003e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
-      "marketCapRank": 85,
-      "priceBtc": 0.000010105504787506971
+      "marketCapRank": 86,
+      "priceBtc": 0.000010104487350895249
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 80,
-      "priceBtc": 0.00004516284125119693
+      "priceBtc": 0.00004579474966132789
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 520,
+      "priceBtc": 0.000003093245772095221
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 89,
-      "priceBtc": 0.000026906683096952714
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 525,
-      "priceBtc": 0.0000030916382582915066
+      "priceBtc": 0.000027072611239926537
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.788694316897612e-8
+      "priceBtc": 9.811599285564591e-8
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006245607743823752
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.997882313562437
-    },
-    {
-      "name": "Starknet",
-      "symbol": "STRK",
-      "marketCapRank": 121,
-      "priceBtc": 7.425506325332027e-7
+      "priceBtc": 1.000915374460885
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "SF-054: Reproduce encrypted fleet network cost accounting",
-      "url": "https://github.com/tyler-suifleet/suifleet/pull/194",
-      "createdAt": "2026-10-21T17:45:36Z"
+      "title": "explorer: the tracker and the faucet on the database",
+      "url": "https://github.com/rome-protocol/canton-zk-evm/pull/12",
+      "createdAt": "2026-10-21T13:35:25Z"
     },
     {
-      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
-      "url": "https://github.com/tehki/myaso/issues/360",
-      "createdAt": "2026-10-20T17:25:33Z"
+      "title": "test(vllm): run the vLLM tests on tiny generated models, without the Hugging Face Hub",
+      "url": "https://github.com/DataDog/dd-trace-py/pull/21161",
+      "createdAt": "2026-10-21T17:19:40Z"
+    },
+    {
+      "title": "2.8 — Exportar e importar a biblioteca (+ .ipa com dados de exemplo)",
+      "url": "https://github.com/d0gz/estantes/pull/28",
+      "createdAt": "2026-10-21T19:08:57Z"
+    },
+    {
+      "title": "feat(e2e): per-flow integration suite on a local Anvil chain (#56)",
+      "url": "https://github.com/bytesbrains/16ane/pull/113",
+      "createdAt": "2026-10-21T18:46:53Z"
+    },
+    {
+      "title": "feat - BFE-264 - simple reward wizard and Extend a simple reward wizard",
+      "url": "https://github.com/bze-alphateam/bze-frontend-apps/pull/172",
+      "createdAt": "2026-10-21T19:12:51Z"
     },
     {
       "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
       "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
       "createdAt": "2026-10-07T00:07:47Z"
-    },
-    {
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/unlock-protocol/unlock/issues/7449",
-      "createdAt": "2021-08-25T05:01:51Z"
-    },
-    {
-      "title": "[9/50] Unbounded Memory Leak in Faucet Rate Limiting Table",
-      "url": "https://github.com/benelabs/crucible/issues/1145",
-      "createdAt": "2026-10-21T18:45:20Z"
-    },
-    {
-      "title": "[10/50] Lack of Transaction Memo Validation in Testnet Faucet Dispenser",
-      "url": "https://github.com/benelabs/crucible/issues/1146",
-      "createdAt": "2026-10-21T18:45:24Z"
     }
   ]
 }
