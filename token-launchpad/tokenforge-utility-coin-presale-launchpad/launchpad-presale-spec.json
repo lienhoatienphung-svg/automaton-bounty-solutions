@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T06:59:28.585Z",
-  "latencyMs": 755,
+  "executedAt": "2026-10-21T07:11:23.317Z",
+  "latencyMs": 1106,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #327: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #328: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52888310,
+    "liveBlockNumber": 52888667,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 141239,
+    "baseMainnetTopPoolsVolume24hUsd": 140317,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5faPPM84dQWpMSjr1xfHux4DNuGakp9M4wonuhS2pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/5fappm84dqwpmsjr1xfhux4dnugakp9m4wonuhs2pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CDG4Ej43izytYS7Fy6RRksgNQ8CMihn6h36nQSzYpump",
+        "description": "Larp it to Make it",
+        "url": "https://dexscreener.com/solana/cdg4ej43izytys7fy6rrksgnq8cmihn6h36nqszypump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8FGreSHZeiinbu3zPeBA3vawxvz2phvyomnPn1NEpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "63ji3LxbkEmmkpersaCnAk9QdkTp7ymqpcq8vuW3pump",
         "description": "Some coins climb back. Afterlist tracks new coins from their starting price, straight from on-chain pool prices: the ones that sink, and the ones that climb bac",
         "url": "https://dexscreener.com/solana/63ji3lxbkemmkpersacnak9qdktp7ymqpcq8vuw3pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2Dcdrv8KBpojCq87qUz551R66P8H6GuuiDQjKXx6pump",
-        "description": "Cashfishers unite",
-        "url": "https://dexscreener.com/solana/2dcdrv8kbpojcq87quz551r66p8h6guuidqjkxx6pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2b36fJ7GHm9TVsym3to3Wk2s8pXs5g1UmZeVmeyGpump",
-        "description": "We are all just average Joe's, We started as them and became who we are today.",
-        "url": "https://dexscreener.com/solana/2b36fj7ghm9tvsym3to3wk2s8pxs5g1umzevmeygpump"
       }
     ]
   },
