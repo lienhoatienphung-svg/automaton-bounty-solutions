@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T01:47:40.615Z",
-  "latencyMs": 342,
+  "executedAt": "2026-10-21T01:56:44.798Z",
+  "latencyMs": 568,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #271: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #272: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52878956,
+    "liveBlockNumber": 52879228,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459827,
-    "baseMainnetTopPoolsVolume24hUsd": 178169,
+    "baseMainnetTopPoolsVolume24hUsd": 177195,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2AyNNXt9PdRWCRGMyizcrxCwrntbx14ZcWu9SHkimchi",
+        "description": "Project Kimchi.\n\nLaunch tokens on pump.fun paired to $kimchi and ending in ...kimchi",
+        "url": "https://dexscreener.com/solana/2aynnxt9pdrwcrgmyizcrxcwrntbx14zcwu9shkimchi"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x54ce4B27caABBA24926865f035D432dbDE2901f7",
+        "description": "The neon city coin spotted in the brand‑new trailer. Born at sunset, raised on synth, launching on Ethereum.",
+        "url": "https://dexscreener.com/ethereum/0x54ce4b27caabba24926865f035d432dbde2901f7"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6wVY1aQoHsZAQZc1XTGSfjW6VL3mx7Y4Q3rrGbmFpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "BLhG3Yk7JVDKkv1z3bPv7o1t2XnZMXAzpZmpvpnppump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/blhg3yk7jvdkkv1z3bpv7o1t2xnzmxazpzmpvpnppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CdXHgb7CboQfbTRZwH2AFnmVnDKuwkrPUFp4jt53pump",
-        "description": "15% supply to ORANGIE",
-        "url": "https://dexscreener.com/solana/cdxhgb7cboqfbtrzwh2afnmvndkuwkrpufp4jt53pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xCA5c2e72c030e903f5f19f4Bd5CBeC51787F51F6",
-        "description": "yumi umi",
-        "url": "https://dexscreener.com/robinhood/0xca5c2e72c030e903f5f19f4bd5cbec51787f51f6"
       }
     ]
   },
