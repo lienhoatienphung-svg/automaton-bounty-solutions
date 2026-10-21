@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T03:10:28.209Z",
+  "executedAt": "2026-10-21T03:11:36.198Z",
   "latencyMs": 366,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #286: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #287: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52881440,
+    "liveBlockNumber": 52881474,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,18 @@
     "baseMainnetTopPoolsVolume24hUsd": 176674,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xbe1fea20fcda1ce16572809d115b767b78fedec8",
+        "description": "Autonomous security intelligence for the open web. Verify before you trust.",
+        "url": "https://dexscreener.com/robinhood/0xbe1fea20fcda1ce16572809d115b767b78fedec8"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BpcfF47hpkfbydyPZaiHs9sLawzi6EpyMo4kyNf8pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bpcff47hpkfbydypzaihs9slawzi6epymo4kynf8pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DBFBpthRrPA8M52LeVk6kbS8H2ZUCWn1aJH6yJTGpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "CADGrfVuEaZtrHetktNPLVu5HFUNrN12hYCZRTTZpump",
         "description": "Launch coins that onboard the next generation of traders. Tasks, bounties, and SOL rewards for bringing new people onchain.",
         "url": "https://dexscreener.com/solana/cadgrfvueaztrhetktnplvu5hfunrn12hyczrttzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Ety3BtYenUFm2Hvz6a6VGRTs8p9sgXggJ3M9XtpZpump",
-        "description": "The official cult of Trenchers on PumpFun",
-        "url": "https://dexscreener.com/solana/ety3btyenufm2hvz6a6vgrts8p9sgxggj3m9xtpzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5K4eKZndq89Nga9599Ga3CFhrLmtCLxumea9tL2Hpump",
-        "description": "RETAIL",
-        "url": "https://dexscreener.com/solana/5k4ekzndq89nga9599ga3cfhrlmtclxumea9tl2hpump"
       }
     ]
   },
