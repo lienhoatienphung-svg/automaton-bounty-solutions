@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T03:06:37.301Z",
-  "latencyMs": 1672,
+  "executedAt": "2026-10-21T03:07:51.118Z",
+  "latencyMs": 865,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #288: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #289: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Add speculative-decoder-discovery task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/49",
+      "createdAt": "2026-10-05T14:46:37Z"
+    },
+    {
+      "title": "ci: push Docker images only from CosmWasm/wasmd (DO-546)",
+      "url": "https://github.com/burnt-labs/wasmd/pull/22",
+      "createdAt": "2026-10-21T02:35:15Z"
+    },
+    {
       "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
       "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
       "createdAt": "2026-09-09T13:01:57Z"
@@ -280,19 +290,9 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "ci: push Docker images only from CosmWasm/wasmd (DO-546)",
-      "url": "https://github.com/burnt-labs/wasmd/pull/22",
-      "createdAt": "2026-10-21T02:35:15Z"
-    },
-    {
       "title": "docs(tron): USDT vault tutorial and agentic development guide",
       "url": "https://github.com/OpenZeppelin/docs/pull/248",
       "createdAt": "2026-10-15T23:16:53Z"
-    },
-    {
-      "title": "feat(glm-5.3-flash): support PD disaggregation with MTP",
-      "url": "https://github.com/flytiger-eco/sglang-for-sail/pull/101",
-      "createdAt": "2026-10-19T06:14:25Z"
     }
   ]
 }
