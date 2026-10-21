@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T14:15:49.236Z",
-  "latencyMs": 340,
+  "executedAt": "2026-10-21T14:17:40.314Z",
+  "latencyMs": 341,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #390: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
+  "workTitle": "Delivery Sprint #391: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52901401,
-    "liveGasPriceGwei": 0.0061,
+    "liveBlockNumber": 52901456,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459848,
-    "baseMainnetTopPoolsVolume24hUsd": 148198,
+    "baseMainnetTopPoolsVolume24hUsd": 145597,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GLRoCYAfH426wT4qbToWMWcd4Az1X2VDMAnXjaBoLE8g",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/glrocyafh426wt4qbtowmwcd4az1x2vdmanxjabole8g"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BzTis1RuMqXGfVT6x25s7uDuCgS3ro4PTw99zHvJpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "B77TPEKSR8nu23ZYUHB83LYxyGDBNkCzfvHXFkfRpump",
         "description": "The most fastest growing viral name for cats... Chicken Nugget.",
         "url": "https://dexscreener.com/solana/b77tpeksr8nu23zyuhb83lyxygdbnkczfvhxfkfrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5iib9k6W8xMwuEfSLMXatv7msr94oBNQwcdaLhtkpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5iib9k6w8xmwuefslmxatv7msr94obnqwcdalhtkpump"
       }
     ]
   },
