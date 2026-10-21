@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-21T13:30:44.475Z",
-  "latencyMs": 1799,
+  "executedAt": "2026-10-21T13:44:17.823Z",
+  "latencyMs": 1084,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #387: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #388: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "ci: make OpenCode reviews resilient to the step budget",
-          "url": "https://github.com/komi-kun/komi-kun/pull/64",
-          "repositoryUrl": "https://api.github.com/repos/komi-kun/komi-kun",
-          "updatedAt": "2026-10-21T13:30:38Z"
+          "title": "ci(deps): bump the actions-minor-patch group across 1 directory with 5 updates",
+          "url": "https://github.com/pantheon-org/tekhne/pull/452",
+          "repositoryUrl": "https://api.github.com/repos/pantheon-org/tekhne",
+          "updatedAt": "2026-10-21T13:44:13Z"
         },
         {
-          "title": "Update dependency npm:pnpm to v12",
-          "url": "https://github.com/dislogical/pds/pull/91",
-          "repositoryUrl": "https://api.github.com/repos/dislogical/pds",
-          "updatedAt": "2026-10-21T13:30:40Z"
-        },
-        {
-          "title": "feat(paycraft): consumables end-to-end — grant path, drain, store sync; fix: store-subscription tenant attribution; fix(security): resolve b",
-          "url": "https://github.com/MobileByteLabs/PayCraft/pull/182",
-          "repositoryUrl": "https://api.github.com/repos/MobileByteLabs/PayCraft",
-          "updatedAt": "2026-10-21T13:30:37Z"
-        },
-        {
-          "title": "Anti-cheat, admin bans, unique names and auto-update",
-          "url": "https://github.com/Min3scon/Mobile-game/pull/5",
-          "repositoryUrl": "https://api.github.com/repos/Min3scon/Mobile-game",
-          "updatedAt": "2026-10-21T13:30:37Z"
-        },
-        {
-          "title": "Immersive library redesign on top of soft ambient blur UI",
-          "url": "https://github.com/yohandeku32/nusamusic/pull/178",
-          "repositoryUrl": "https://api.github.com/repos/yohandeku32/nusamusic",
-          "updatedAt": "2026-10-21T13:30:37Z"
-        },
-        {
-          "title": "Night bot status",
-          "url": "https://github.com/Jlore-Studios/JackiOh/issues/148",
-          "repositoryUrl": "https://api.github.com/repos/Jlore-Studios/JackiOh",
-          "updatedAt": "2026-10-21T13:30:36Z"
+          "title": "An ATO workflow on Concord's own records: signing roles, package review, AO-only risk acceptance",
+          "url": "https://github.com/kmwhite40/CrossCtlFrameworks/pull/38",
+          "repositoryUrl": "https://api.github.com/repos/kmwhite40/CrossCtlFrameworks",
+          "updatedAt": "2026-10-21T13:44:12Z"
         },
         {
           "title": "VIP: unify entitlement expiry, fix gifted membership, and add membership overview",
           "url": "https://github.com/ahmedalqashar73-sys/worldvoice_v2/pull/160",
           "repositoryUrl": "https://api.github.com/repos/ahmedalqashar73-sys/worldvoice_v2",
-          "updatedAt": "2026-10-21T13:30:35Z"
+          "updatedAt": "2026-10-21T13:44:11Z"
         },
         {
-          "title": "Windows: run Windows PowerShell without an inherited PSModulePath (R12)",
-          "url": "https://github.com/genex-games/genex-desktop/pull/373",
-          "repositoryUrl": "https://api.github.com/repos/genex-games/genex-desktop",
-          "updatedAt": "2026-10-21T13:30:35Z"
+          "title": "feat(infrastructure): support guarded managed profile edits",
+          "url": "https://github.com/tutur3u/platform/pull/6368",
+          "repositoryUrl": "https://api.github.com/repos/tutur3u/platform",
+          "updatedAt": "2026-10-21T13:44:10Z"
+        },
+        {
+          "title": "Support elastic SparkApplication with dynamic allocation",
+          "url": "https://github.com/kubernetes-sigs/kueue/pull/17127",
+          "repositoryUrl": "https://api.github.com/repos/kubernetes-sigs/kueue",
+          "updatedAt": "2026-10-21T13:44:15Z"
+        },
+        {
+          "title": "feat(config): integrate OWGW default configuration API & complete OWPROV configuration builder",
+          "url": "https://github.com/routerarchitects/mango-operator-ui/pull/10",
+          "repositoryUrl": "https://api.github.com/repos/routerarchitects/mango-operator-ui",
+          "updatedAt": "2026-10-21T13:44:09Z"
+        },
+        {
+          "title": "feat(acp): add stderr tails and client terminals ported from t3code provider-acp",
+          "url": "https://github.com/beep-effect/beep-effect/pull/1978",
+          "repositoryUrl": "https://api.github.com/repos/beep-effect/beep-effect",
+          "updatedAt": "2026-10-21T13:44:09Z"
+        },
+        {
+          "title": "AI gen 14 (improve): in training, nothing promoted yet",
+          "url": "https://github.com/Jlore-Studios/JackiOh/pull/1373",
+          "repositoryUrl": "https://api.github.com/repos/Jlore-Studios/JackiOh",
+          "updatedAt": "2026-10-21T13:44:09Z"
         }
       ]
     },
