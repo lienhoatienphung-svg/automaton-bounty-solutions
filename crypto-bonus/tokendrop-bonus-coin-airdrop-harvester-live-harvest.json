@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T23:13:54.544Z",
-  "latencyMs": 864,
+  "executedAt": "2026-10-21T23:26:39.709Z",
+  "latencyMs": 857,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #467: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #468: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 630904,
-      "apyBase": 41.83,
-      "apyRewardBonus": 335485.53,
-      "apyTotal": 335527.36,
+      "tvlUsd": 631719,
+      "apyBase": 39.59,
+      "apyRewardBonus": 327938.42,
+      "apyTotal": 327978.01,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1067932,
-      "apyBase": 1.07,
-      "apyRewardBonus": 85608.71,
-      "apyTotal": 85609.78,
+      "tvlUsd": 1066871,
+      "apyBase": 1.05,
+      "apyRewardBonus": 83877.49,
+      "apyTotal": 83878.54,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -42,25 +42,12 @@
     },
     {
       "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "TRUST-USDC",
-      "tvlUsd": 95204,
-      "apyBase": 50.52,
-      "apyRewardBonus": 37115.57,
-      "apyTotal": 37166.09,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
-    },
-    {
-      "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 56797,
+      "tvlUsd": 56423,
       "apyBase": 0,
-      "apyRewardBonus": 36302.16,
-      "apyTotal": 36302.16,
+      "apyRewardBonus": 35743.28,
+      "apyTotal": 35743.28,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -69,11 +56,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "TRUST-USDC",
+      "tvlUsd": 95338,
+      "apyBase": 50.72,
+      "apyRewardBonus": 18637.3,
+      "apyTotal": 18688.02,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "USDC-PROS",
-      "tvlUsd": 907256,
-      "apyBase": 8.55,
-      "apyRewardBonus": 13696.74,
-      "apyTotal": 13705.29,
+      "tvlUsd": 908653,
+      "apyBase": 7.3,
+      "apyRewardBonus": 12983.68,
+      "apyTotal": 12990.98,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -82,37 +82,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-CBBTC",
-      "tvlUsd": 3220246,
-      "apyBase": 84.19,
-      "apyRewardBonus": 9407.86,
-      "apyTotal": 9492.05,
+      "symbol": "WETH-USDC",
+      "tvlUsd": 162012,
+      "apyBase": 35.01,
+      "apyRewardBonus": 6821.53,
+      "apyTotal": 6856.55,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-LMTS",
-      "tvlUsd": 140005,
-      "apyBase": 41.48,
-      "apyRewardBonus": 6264.46,
-      "apyTotal": 6305.94,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "298f28f6-fab0-461f-8bd1-ad5b07e4b590"
+      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-CBBTC",
-      "tvlUsd": 202593,
-      "apyBase": 33.91,
-      "apyRewardBonus": 5997.74,
-      "apyTotal": 6031.65,
+      "tvlUsd": 198352,
+      "apyBase": 34.1,
+      "apyRewardBonus": 6586.42,
+      "apyTotal": 6620.52,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -121,28 +108,41 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "AVNT-USDC",
-      "tvlUsd": 712038,
-      "apyBase": 0.38,
-      "apyRewardBonus": 5008.68,
-      "apyTotal": 5009.06,
+      "symbol": "USDC-SNDKC",
+      "tvlUsd": 874898,
+      "apyBase": 126.98,
+      "apyRewardBonus": 5589.65,
+      "apyTotal": 5716.63,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "eb27d0be-9de4-4ed9-8d36-a754e18d3358"
+      "poolId": "3026b289-5595-548d-b9cc-e8c265ac1746"
     },
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-USDC",
-      "tvlUsd": 162371,
-      "apyBase": 33.75,
-      "apyRewardBonus": 4494.12,
-      "apyTotal": 4527.86,
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 3207747,
+      "apyBase": 67.44,
+      "apyRewardBonus": 4515.82,
+      "apyTotal": 4583.26,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "USDC-SPCXC",
+      "tvlUsd": 557696,
+      "apyBase": 258.95,
+      "apyRewardBonus": 3993.23,
+      "apyTotal": 4252.19,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "f3990eac-d0e2-545c-a52b-3304804ab529"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 739,
-      "priceBtc": 3.060673358231772e-7
+      "marketCapRank": 698,
+      "priceBtc": 3.0927123565231696e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009648221965697782
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 527,
-      "priceBtc": 0.000003064561063017189
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 113,
-      "priceBtc": 9.658555844030554e-8
+      "priceBtc": 0.000009646271177928642
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 85,
-      "priceBtc": 0.00002870290496100139
+      "priceBtc": 0.000028750004064246275
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 113,
+      "priceBtc": 9.667369061050659e-8
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 526,
+      "priceBtc": 0.000003089021091933195
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006257237638805039
+      "priceBtc": 0.00006256678442068345
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 703,
-      "priceBtc": 0.00110023556873059
+      "priceBtc": 0.0011017127188122995
     },
     {
-      "name": "Solana",
-      "symbol": "SOL",
-      "marketCapRank": 7,
-      "priceBtc": 0.0012689114905416988
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9997252105062109
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(#2440): book only what arrived; one treasury fee host",
-      "url": "https://github.com/vaipakam/vaipakam/pull/2622",
-      "createdAt": "2026-10-21T12:08:32Z"
+      "title": "2.7.4 (draft): lessons that break later ones, and two that fail alone (#28)",
+      "url": "https://github.com/mcp-tool-shop-org/xrpl-lab/pull/29",
+      "createdAt": "2026-10-21T20:40:02Z"
     },
     {
-      "title": "[Bugfix] Fix biased sampling after a grammar-rejected draft in probablistic spec decode",
-      "url": "https://github.com/vllm-project/vllm/pull/60690",
-      "createdAt": "2026-10-08T18:22:28Z"
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
     },
     {
-      "title": "Add moe-router-design task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/28",
-      "createdAt": "2026-09-27T02:38:45Z"
+      "title": "fix(ledger): a failed KV write no longer makes the ledger forget recent spends",
+      "url": "https://github.com/thanhphuc85/technocore-crypto-agent/pull/170",
+      "createdAt": "2026-10-21T23:25:17Z"
     },
     {
-      "title": "Rebuild the airdrop docs from the primary sources, and add close-1 tooling",
-      "url": "https://github.com/btcmama08/technocore-kit/pull/1",
-      "createdAt": "2026-09-15T17:29:41Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "feat(tracker-adapters): add V3X support",
-      "url": "https://github.com/jordanlambrecht/tracker-tracker/pull/276",
-      "createdAt": "2026-10-21T23:11:02Z"
+      "title": "Release v0.26.2",
+      "url": "https://github.com/XChain-Platform/xchain-explorer/pull/44",
+      "createdAt": "2026-10-21T22:41:31Z"
     },
     {
-      "title": "fix: resolve critical issues in staking, lazy-mint, splitter, and routing",
-      "url": "https://github.com/Afristore/marketplace/pull/1083",
-      "createdAt": "2026-10-20T18:44:08Z"
+      "title": "Update dependency lucide-react to v1",
+      "url": "https://github.com/karnull/karnull.github.io/pull/10",
+      "createdAt": "2026-10-21T23:25:01Z"
     }
   ]
 }
