@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T20:32:45.151Z",
-  "latencyMs": 752,
+  "executedAt": "2026-10-21T20:46:28.171Z",
+  "latencyMs": 2059,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #445: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #446: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump",
+      "boostAmount": 500,
+      "totalBoostAmount": 500,
+      "description": "Kimchi-inspired. Bull-built. Private jets, heavy wrists, unlimited aura.",
+      "url": "https://dexscreener.com/solana/gne7e774tkgyxmmzp36ofhnurruz15h4e1le1xekpump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x44082d239727B12A5A3b3EDf147b3c7bEA80332C",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "The most measured dog alive.",
       "url": "https://dexscreener.com/solana/ejaxervku4kevxn3narjvrtgamajyp9zumeka7jjpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x64187573C2af0a6F1fcd76d48DeE2c6A8A981111",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Hold $BRICS on Robinhood Chain and you get a tower in the City. The more $BRICS you hold, the taller your tower. Sell and it shrinks. That is the whole idea.",
-      "url": "https://dexscreener.com/robinhood/0x64187573c2af0a6f1fcd76d48dee2c6a8a981111"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,50 +217,50 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 733,
-      "priceBtc": 2.9103134856324e-7
+      "marketCapRank": 682,
+      "priceBtc": 3.2264664964864646e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009938979543865761
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 80,
-      "priceBtc": 0.00004637013863660287
+      "priceBtc": 0.000009867439817944492
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 87,
-      "priceBtc": 0.000027533169097484908
+      "priceBtc": 0.00002748902548332206
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.749456677308765e-8
+      "priceBtc": 9.78443243163919e-8
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 80,
+      "priceBtc": 0.00004645197839474702
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 534,
+      "priceBtc": 0.0000030124786655956335
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006250930163285294
+      "priceBtc": 0.00006269445913103712
     },
     {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 530,
-      "priceBtc": 0.00000308157202900253
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 137,
-      "priceBtc": 0.00000428249499382034
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "marketCapRank": 44,
+      "priceBtc": 6.136930994495759e-8
     }
   ],
   "activeAirdropAndFaucetQuests": [
@@ -270,29 +270,29 @@
       "createdAt": "2026-10-21T14:52:49Z"
     },
     {
-      "title": "release: 13.54.0",
-      "url": "https://github.com/MetaMask/metamask-extension/pull/47119",
-      "createdAt": "2026-10-15T19:03:39Z"
-    },
-    {
       "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
       "url": "https://github.com/tehki/myaso/issues/360",
       "createdAt": "2026-10-20T17:25:33Z"
     },
     {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
+      "title": "docs: publish M3 Sepolia deployment and trade handoff",
+      "url": "https://github.com/yuddy-s/AC_ON-esports-prediction-market/pull/19",
+      "createdAt": "2026-10-21T20:13:34Z"
     },
     {
-      "title": "feat(frontend): M3 guarded buy with submitted / mined / indexed states",
-      "url": "https://github.com/yuddy-s/AC_ON-esports-prediction-market/pull/20",
-      "createdAt": "2026-10-21T20:25:21Z"
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
     },
     {
-      "title": "Park candidate: Grand Canyon National Park (AZ) — campgrounds, alerts & news",
-      "url": "https://github.com/mcpmark-eval-liuhezi/retreat-decision-pack/issues/3",
-      "createdAt": "2026-10-21T20:30:51Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "SpeculativeSampler overwrites prompt tokens when prompts in a batch have different lengths",
+      "url": "https://github.com/keras-team/keras-hub/issues/3180",
+      "createdAt": "2026-10-21T20:41:48Z"
     }
   ]
 }
