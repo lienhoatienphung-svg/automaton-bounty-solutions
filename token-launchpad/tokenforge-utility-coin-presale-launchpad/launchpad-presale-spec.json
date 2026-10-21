@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T04:14:30.248Z",
-  "latencyMs": 708,
+  "executedAt": "2026-10-21T04:23:48.131Z",
+  "latencyMs": 379,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #299: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #300: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52883361,
+    "liveBlockNumber": 52883640,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459827,
-    "baseMainnetTopPoolsVolume24hUsd": 175880,
+    "baseMainnetTopPoolsVolume24hUsd": 174771,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6Ez7jwuUoTr81akzQsBPjfGA67nRWoePEQUsKCUfpump",
+        "description": "Ivy the Puppy of the year",
+        "url": "https://dexscreener.com/solana/6ez7jwuuotr81akzqsbpjfga67nrwoepequskcufpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "AgWZHz6zwggxEFufCeZjy9itn29moQUYQTepez93pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/agwzhz6zwggxefufcezjy9itn29moquyqtepez93pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "PowDwfufYqGXKXUSUEFDaDyKc4Qghp9ycNm7eP4pump",
@@ -69,18 +81,6 @@
         "tokenAddress": "JAcDD718cQgyKdFRdJ4DRQ8F2iLgAAbuXhQWCzQrpump",
         "description": "His real name , KIMCHI hold 18% supply! And paired with KIMCHI",
         "url": "https://dexscreener.com/solana/jacdd718cqgykdfrdj4drq8f2ilgaabuxhqwczqrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BCKHaDtYCM4yzCLRorXzD9H92TeeWpBJ9onozVVt7PUP",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bckhadtycm4yzclrorxzd9h92teewpbj9onozvvt7pup"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2TsHfSkz1nY98PXVzRxgSD8BsWMqWCJPrgzNeYhEpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2tshfskz1ny98pxvzrxgsd8bswmqwcjprgzneyhepump"
       }
     ]
   },
