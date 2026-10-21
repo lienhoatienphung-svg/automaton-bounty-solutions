@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T15:53:44.283Z",
-  "latencyMs": 1191,
+  "executedAt": "2026-10-21T15:55:57.439Z",
+  "latencyMs": 378,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #404: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #405: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52904338,
+    "liveBlockNumber": 52904405,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459826,
-    "baseMainnetTopPoolsVolume24hUsd": 138137,
+    "baseMainnetTopPoolsVolume24hUsd": 138267,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Bo61v44TWErCNGF4qzu2nEWyGgPWeNrNpu1FsV8dpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bo61v44twercngf4qzu2newyggpwenrnpu1fsv8dpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x6020A3992FD7dbb8a1622D9c4e0f7497Bb819dB0",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0x6020a3992fd7dbb8a1622d9c4e0f7497bb819db0"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "EBzm1AYQSBiJqpJm77nXWjPedxGiyy5N6f75q7o4pump",
@@ -69,18 +81,6 @@
         "tokenAddress": "DS2yfdws8De9UthDdGJiQvuEiFL349nnQndEmbb3pump",
         "description": "A launchpad that buys $KIMCHI and airdrops it to holders.",
         "url": "https://dexscreener.com/solana/ds2yfdws8de9uthddgjiqvueifl349nnqndembb3pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Ag8znTzQSofNY3KQQzNx2miqwfX3xEag3QaZPuXRpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ag8zntzqsofny3kqqznx2miqwfx3xeag3qazpuxrpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xfCd865E50ac30efC9F4aa8569b2cc5ac11dc6d6F",
-        "description": "The coordination layer connecting people, researchers and agents to achieve what Big Pharma couldn’t.",
-        "url": "https://dexscreener.com/robinhood/0xfcd865e50ac30efc9f4aa8569b2cc5ac11dc6d6f"
       }
     ]
   },
