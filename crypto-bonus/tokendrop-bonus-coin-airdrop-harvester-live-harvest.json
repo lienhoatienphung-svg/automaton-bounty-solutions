@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T02:35:30.826Z",
-  "latencyMs": 818,
+  "executedAt": "2026-10-21T02:36:42.712Z",
+  "latencyMs": 753,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #282: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #283: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,19 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "ci: push Docker images only from CosmWasm/wasmd (DO-546)",
-      "url": "https://github.com/burnt-labs/wasmd/pull/22",
-      "createdAt": "2026-10-21T02:35:15Z"
-    },
-    {
       "title": "Task 3 (ledger-016): sysSide, escrow, accruals, cpPolicy, E-16, E-17 INV-LED-027, QA pr3i",
       "url": "https://github.com/Aiouyn/trading-game/pull/6",
       "createdAt": "2026-10-20T23:44:56Z"
     },
     {
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
+    },
+    {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "ci: push Docker images only from CosmWasm/wasmd (DO-546)",
+      "url": "https://github.com/burnt-labs/wasmd/pull/22",
+      "createdAt": "2026-10-21T02:35:15Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -288,11 +293,6 @@
       "title": "AppWorld eval REST: Trace2Skill vs seed (gpt-oss-120b)",
       "url": "https://github.com/skillberry-ai/cap-evolve/issues/899",
       "createdAt": "2026-10-20T19:52:39Z"
-    },
-    {
-      "title": "AppWorld eval REST: HarnessLens vs seed (gpt-oss-120b)",
-      "url": "https://github.com/skillberry-ai/cap-evolve/issues/897",
-      "createdAt": "2026-10-20T19:52:36Z"
     }
   ]
 }
