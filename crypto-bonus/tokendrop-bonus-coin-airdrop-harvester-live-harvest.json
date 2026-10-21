@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T14:52:52.373Z",
-  "latencyMs": 1428,
+  "executedAt": "2026-10-21T14:54:19.111Z",
+  "latencyMs": 1696,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #398: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #399: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,67 +217,72 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 793,
-      "priceBtc": 2.689202993241445e-7
+      "marketCapRank": 810,
+      "priceBtc": 2.55489157983473e-7
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 478,
-      "priceBtc": 0.000003502439320204647
+      "marketCapRank": 482,
+      "priceBtc": 0.000003496963726499092
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 85,
-      "priceBtc": 0.000028997690911895723
+      "priceBtc": 0.000028622664669540992
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 86,
-      "priceBtc": 0.00001019816137034439
+      "priceBtc": 0.000010221386229174219
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.655006570997022e-8
+      "priceBtc": 9.731726731137482e-8
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015619991245122188
+      "priceBtc": 0.015673747132199083
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 719,
-      "priceBtc": 0.0010703905569728188
+      "marketCapRank": 720,
+      "priceBtc": 0.0010700185574514258
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.999503186759658
+      "priceBtc": 1.0010969392996665
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
+      "title": "chore(deps-dev): bump rollup from 2.80.0 to 4.64.10 in /packages/faucet/web",
+      "url": "https://github.com/valve-tech/msgboard/pull/74",
+      "createdAt": "2026-10-21T14:53:55Z"
     },
     {
-      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
-      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
-      "createdAt": "2026-10-07T16:13:30Z"
+      "title": "feat(ring): wire token-tree expert prefetch into the speculative inference ring, with a measured hit rate (part of #57, stacked on #71)",
+      "url": "https://github.com/xaviercallens/HiveMind/pull/75",
+      "createdAt": "2026-10-21T14:53:54Z"
     },
     {
-      "title": "[RFC]: Preserve output distribution under structured-output + speculative decoding",
-      "url": "https://github.com/vllm-project/vllm/issues/62818",
-      "createdAt": "2026-10-21T04:01:56Z"
+      "title": "Prepare package-manager distributions and safe uninstall",
+      "url": "https://github.com/fluffydisk/airdrop-linux/pull/2",
+      "createdAt": "2026-10-21T12:40:29Z"
+    },
+    {
+      "title": "[Audit A58] Export a self-contained offline performer viewer from desktop",
+      "url": "https://github.com/IanSzymanski/squidware/issues/58",
+      "createdAt": "2026-10-13T00:54:58Z"
     },
     {
       "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
@@ -285,14 +290,9 @@
       "createdAt": "2026-10-20T17:25:33Z"
     },
     {
-      "title": "Nik 0.2 design review: new architecture / structure (all agents: critique, then decide by experiment)",
-      "url": "https://github.com/NikitHamal/NikitHamal/issues/9",
-      "createdAt": "2026-10-20T19:08:03Z"
-    },
-    {
-      "title": "Add evolutionary-optimization-llms-long-horizon task",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/94",
-      "createdAt": "2026-10-18T10:27:55Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     }
   ]
 }
