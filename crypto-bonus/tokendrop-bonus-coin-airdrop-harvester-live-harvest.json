@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T23:26:39.709Z",
-  "latencyMs": 857,
+  "executedAt": "2026-10-21T23:28:43.644Z",
+  "latencyMs": 938,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #468: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #469: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "2.7.4 (draft): lessons that break later ones, and two that fail alone (#28)",
-      "url": "https://github.com/mcp-tool-shop-org/xrpl-lab/pull/29",
-      "createdAt": "2026-10-21T20:40:02Z"
+      "title": "feat: operator-issued MB/minute ecash — unit-aware pricing + CDK mint integration (DRAFT)",
+      "url": "https://github.com/OpenTollGate/tollgate-module-basic-go/pull/1040",
+      "createdAt": "2026-10-21T13:59:26Z"
     },
     {
       "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
       "url": "https://github.com/rempemat-eng/appify/issues/149",
       "createdAt": "2026-10-20T21:31:27Z"
+    },
+    {
+      "title": "2.7.4 (draft): lessons that break later ones, and two that fail alone (#28)",
+      "url": "https://github.com/mcp-tool-shop-org/xrpl-lab/pull/29",
+      "createdAt": "2026-10-21T20:40:02Z"
     },
     {
       "title": "fix(ledger): a failed KV write no longer makes the ledger forget recent spends",
@@ -288,11 +293,6 @@
       "title": "Release v0.26.2",
       "url": "https://github.com/XChain-Platform/xchain-explorer/pull/44",
       "createdAt": "2026-10-21T22:41:31Z"
-    },
-    {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/karnull/karnull.github.io/pull/10",
-      "createdAt": "2026-10-21T23:25:01Z"
     }
   ]
 }
