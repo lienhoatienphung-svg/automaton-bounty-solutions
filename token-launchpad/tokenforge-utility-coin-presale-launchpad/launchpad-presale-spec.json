@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T02:50:51.781Z",
-  "latencyMs": 348,
+  "executedAt": "2026-10-21T03:00:03.759Z",
+  "latencyMs": 360,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #283: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #284: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52880852,
+    "liveBlockNumber": 52881128,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459827,
-    "baseMainnetTopPoolsVolume24hUsd": 177396,
+    "baseMainnetTopPoolsVolume24hUsd": 177381,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Cx7iPk7Axz7pGbFqzm9znYdUJUoNM9rGYTcxYoqcpump",
+        "description": "Normie ripping let’s pair and create supply shock",
+        "url": "https://dexscreener.com/solana/cx7ipk7axz7pgbfqzm9znydujuonm9rgytcxyoqcpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Gk2tKMciwXsSZ67FdS817nzpqYjFvpUesbffCZ8ppump",
@@ -75,12 +81,6 @@
         "tokenAddress": "AfGxRFYpumsrXAdRYw6WDTYZht93bp656j7eNc8rpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/afgxrfypumsrxadryw6wdtyzht93bp656j7enc8rpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Gp3PdKW35AuG9UkV6JidoCzKQ2jqqCoRmB8pxz3idZVm",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/gp3pdkw35aug9ukv6jidoczkq2jqqcormb8pxz3idzvm"
       }
     ]
   },
