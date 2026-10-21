@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T23:37:09.173Z",
-  "latencyMs": 329,
+  "executedAt": "2026-10-21T23:50:50.369Z",
+  "latencyMs": 723,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #467: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #468: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52918240,
+    "liveBlockNumber": 52918651,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,57 +30,57 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459821,
-    "baseMainnetTopPoolsVolume24hUsd": 133003,
+    "baseMainnetTopPoolsLiquidityUsd": 459825,
+    "baseMainnetTopPoolsVolume24hUsd": 133354,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
       {
-        "chainId": "robinhood",
-        "tokenAddress": "0x5D31D827a684BCf65EABb91dF39DEc303CD506Ea",
+        "chainId": "solana",
+        "tokenAddress": "2731LDhYKrwNdjJq8D4aUumpcyX7zSvTihmZuq6rpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2731ldhykrwndjjq8d4auumpcyx7zsvtihmzuq6rpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6YK4r9LnknT3pRNxAiEPqwLmmG8Moa2hY63nP2Nsj6ea",
         "description": "First Dog on Pangea",
-        "url": "https://dexscreener.com/robinhood/0x5d31d827a684bcf65eabb91df39dec303cd506ea"
+        "url": "https://dexscreener.com/solana/6yk4r9lnknt3prnxaiepqwlmmg8moa2hy63np2nsj6ea"
       },
       {
-        "chainId": "robinhood",
-        "tokenAddress": "0x62BDa149280d260cb05DfD3F76E00810c2eb39F5",
+        "chainId": "solana",
+        "tokenAddress": "HVBXp1v8jGWxxed866eV7UHuhJt5JqBJtMrof5DPpump",
+        "description": "One cat. Three rules. A digital world worth preserving.",
+        "url": "https://dexscreener.com/solana/hvbxp1v8jgwxxed866ev7uhuhjt5jqbjtmrof5dppump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0x96B241600e32E86e33618D53BAdE8f4Ab373679d",
+        "description": "Post-quantum AI agents launchpad on @Ethereum. Each one runs its coin's Uniswap v2 hook and signs every move with a hash-based key the chain checks.",
+        "url": "https://dexscreener.com/ethereum/0x96b241600e32e86e33618d53bade8f4ab373679d"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "B37wSqqYtPfiUTpWZMYiUYyG7BCULMcJZFzboSHrpump",
+        "description": "Caillou is an iconic children's TV series about the daily life of an inquisitive four-year-old boy named Caillou. It became a global television icon, capturing ",
+        "url": "https://dexscreener.com/solana/b37wsqqytpfiutpwzmyiuyyg7bculmcjzfzboshrpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "DPMWdYnJGnMiT8U8RKViSmDM21V5KCJdZ5ow6uq7pump",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0x62bda149280d260cb05dfd3f76e00810c2eb39f5"
+        "url": "https://dexscreener.com/solana/dpmwdynjgnmit8u8rkvismdm21v5kcjdz5ow6uq7pump"
       },
       {
         "chainId": "solana",
-        "tokenAddress": "BtZvvEgzvyZTTXqdEnQXNXrupY4jgB7CDUax6ReKpump",
+        "tokenAddress": "3ApPzYXE6TRKgEVcVdvy7tqf1DkqUhudGxuwzY1bpump",
+        "description": "Collect the internet's knowledge. Every Wikipedia article = 1 NFT.",
+        "url": "https://dexscreener.com/solana/3appzyxe6trkgevcvdvy7tqf1dkquhudgxuwzy1bpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CTAUSN94wg9Rk7Us34N4fKfvj2H4dvJUNDdpAoyJuGqh",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/btzvvegzvyzttxqdenqxnxrupy4jgb7cduax6rekpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "B5snrHabeZWFbmmEQyzp4m1zLAzXGLXHAz7TGmXVpump",
-        "description": "Slav Cheebs is the OG Slav Shiba meme. With Russia moving toward regulated crypto trading, Cheebs is entering a new era filled with vodka, blyat, and degen chao",
-        "url": "https://dexscreener.com/solana/b5snrhabezwfbmmeqyzp4m1zlazxglxhaz7tgmxvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3VbnKKRF8en6xMb56xdCVREWREcUoG44k26Krg46A9LR",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3vbnkkrf8en6xmb56xdcvrewrecuog44k26krg46a9lr"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6XfDyJQxryM3etycUg5aVxX56pGK84VbmDTJdoRxpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6xfdyjqxrym3etycug5avxx56pgk84vbmdtjdorxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4FQ9XQLavgZQkeJFxiCWdEPoH9hgp2kHetrMaaGrpump",
-        "description": "the article says its the new word for cryptocurrency",
-        "url": "https://dexscreener.com/solana/4fq9xqlavgzqkejfxicwdepoh9hgp2khetrmaagrpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EPbhuGJeV9qk8ibtTa4TTpoqunS2a8gpB75DGAjvpump",
-        "description": "$PFP paired with $Pill \n\nEarn money through having a PFP",
-        "url": "https://dexscreener.com/solana/epbhugjev9qk8ibtta4ttpoquns2a8gpb75dgajvpump"
+        "url": "https://dexscreener.com/solana/ctausn94wg9rk7us34n4fkfvj2h4dvjunddpaoyjugqh"
       }
     ]
   },
