@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T22:07:36.449Z",
-  "latencyMs": 367,
+  "executedAt": "2026-10-21T22:09:33.773Z",
+  "latencyMs": 248,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #454: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #455: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52915554,
+    "liveBlockNumber": 52915613,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459817,
-    "baseMainnetTopPoolsVolume24hUsd": 138231,
+    "baseMainnetTopPoolsVolume24hUsd": 138261,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "HXQNjtUzWEiLjpEDnAqVEgkQsCHQ8rNXex2rE4JRpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/hxqnjtuzweiljpednaqvegkqschq8rnxex2re4jrpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xb815559286e633A902621C4a5dbf08976092855B",
+        "description": "GTA 6’s mascot on Robinhood Chain. 🐊🌴",
+        "url": "https://dexscreener.com/robinhood/0xb815559286e633a902621c4a5dbf08976092855b"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "CVeiHzAEtACKHCSoAFtYNCMfantVnFKGYUZUGUXYpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "BCwXmVMj4x2sG5z37oMnps2B1GrGVA9J7AFiBEShpump",
         "description": "kimchi brings spicy meme energy, bold Korean flavor, and unstoppable bull power to the crypto trenches.",
         "url": "https://dexscreener.com/solana/bcwxmvmj4x2sg5z37omnps2b1grgva9j7afibeshpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6VVQE38thkLzR65EPjqU2FuMtvqfN5sMCXTUCMnapump",
-        "description": "Nutcoin",
-        "url": "https://dexscreener.com/solana/6vvqe38thklzr65epjqu2fumtvqfn5smcxtucmnapump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xcd66fc37377d44045c27871184c072d0a6b39c9c",
-        "description": "The native token of Sandhood on Robinhood Chain. Explore live market research, token discovery and creator launch tools. Community rewards and advanced research",
-        "url": "https://dexscreener.com/robinhood/0xcd66fc37377d44045c27871184c072d0a6b39c9c"
       }
     ]
   },
