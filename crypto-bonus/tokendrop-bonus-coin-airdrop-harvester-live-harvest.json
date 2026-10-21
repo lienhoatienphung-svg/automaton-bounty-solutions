@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T18:12:42.970Z",
-  "latencyMs": 889,
+  "executedAt": "2026-10-21T18:14:15.693Z",
+  "latencyMs": 1031,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #426: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #427: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,57 +217,57 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 779,
-      "priceBtc": 2.6817065496872e-7
+      "marketCapRank": 768,
+      "priceBtc": 2.800987022889e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
-      "marketCapRank": 85,
-      "priceBtc": 0.000010208558541135863
+      "marketCapRank": 86,
+      "priceBtc": 0.000010180848374284588
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.791888775408943e-8
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 520,
-      "priceBtc": 0.0000031027296257462565
+      "priceBtc": 9.8093024892845e-8
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 90,
-      "priceBtc": 0.000025877965601941544
+      "marketCapRank": 89,
+      "priceBtc": 0.000026051926080025896
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.016106507718399696
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 519,
+      "priceBtc": 0.0000031171044595615066
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9998950645432402
+      "priceBtc": 0.9995124629404147
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 713,
-      "priceBtc": 0.0010833570674454263
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.01603919619524201
+    },
+    {
+      "name": "Zama",
+      "symbol": "ZAMA",
+      "marketCapRank": 185,
+      "priceBtc": 9.75900728070119e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(validation): catch reserved-word respellings and words hidden in longer names",
-      "url": "https://github.com/divinevideo/divine-name-server/pull/112",
-      "createdAt": "2026-09-24T21:42:04Z"
+      "title": "chore(staging): make Base Sepolia USDC-only",
+      "url": "https://github.com/Phala-Network/phala-pay/pull/514",
+      "createdAt": "2026-10-21T18:02:14Z"
     },
     {
       "title": "docs(tron): USDT vault tutorial and agentic development guide",
@@ -275,24 +275,24 @@
       "createdAt": "2026-10-15T23:16:53Z"
     },
     {
-      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
-      "url": "https://github.com/tehki/myaso/issues/360",
-      "createdAt": "2026-10-20T17:25:33Z"
+      "title": "feat(uploads): owner-only delete with CLI confirmation; 1-year retention",
+      "url": "https://github.com/ethpandaops/panda/pull/384",
+      "createdAt": "2026-10-21T17:56:00Z"
     },
     {
-      "title": "Momentum, money and game length rework, plus secret bot personalities",
-      "url": "https://github.com/AliformD/CityTycoon/pull/21",
-      "createdAt": "2026-10-21T17:19:46Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
       "title": "feat(xrpl): the XRPL account as an external asset, xrpl-testnet a scheme on it",
       "url": "https://github.com/justmoon/dassie/pull/252",
       "createdAt": "2026-10-21T17:31:25Z"
+    },
+    {
+      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
+      "url": "https://github.com/tehki/myaso/issues/360",
+      "createdAt": "2026-10-20T17:25:33Z"
     }
   ]
 }
