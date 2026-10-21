@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T22:01:14.368Z",
-  "latencyMs": 745,
+  "executedAt": "2026-10-21T22:13:39.816Z",
+  "latencyMs": 1121,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #457: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #458: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 782,
-      "priceBtc": 2.676399609445095e-7
+      "marketCapRank": 754,
+      "priceBtc": 2.910656583853905e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009841050634547886
+      "priceBtc": 0.000009743546497527426
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.70425919009401e-8
+      "priceBtc": 9.695013421722287e-8
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 87,
-      "priceBtc": 0.00002758558734011177
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 80,
-      "priceBtc": 0.00004641964966834504
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006302591755209625
+      "marketCapRank": 85,
+      "priceBtc": 0.000027933874923579985
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9997463495477457
+      "priceBtc": 1.0005118315706194
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006266820663152015
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 80,
+      "priceBtc": 0.000045966301875598954
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 532,
-      "priceBtc": 0.000003055157878530508
+      "marketCapRank": 528,
+      "priceBtc": 0.0000030713476982861067
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Testnet container-package rehearsal on a hosted runner, part 1: bring-up, identity, first tx, gateway limits, faucet guard (no captcha)",
-      "url": "https://github.com/ristik/bft-core/pull/747",
-      "createdAt": "2026-10-21T19:23:05Z"
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
     },
     {
-      "title": "Two-step sign-in, sign out everywhere and password changes",
-      "url": "https://github.com/Frigiduss/backroom-poker/pull/39",
-      "createdAt": "2026-10-21T22:00:42Z"
+      "title": "fix(admin): resolve telemetry triage errors and overhaul admin observability",
+      "url": "https://github.com/gregcastro23/WhatToEatNext/pull/965",
+      "createdAt": "2026-10-21T22:02:57Z"
     },
     {
-      "title": "Add testnet faucets for Arc and Story",
-      "url": "https://github.com/Chain-Love/chain-love/pull/4302",
-      "createdAt": "2026-10-07T23:18:06Z"
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
     },
     {
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/unlock-protocol/unlock/issues/7449",
-      "createdAt": "2021-08-25T05:01:51Z"
+      "title": "Add Forest Explorer Faucet for Filecoin mainnet and calibnetAdd forest filecoin faucet",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3011",
+      "createdAt": "2026-08-17T07:36:47Z"
     },
     {
-      "title": "feat(frontend): M3 guarded buy with submitted / mined / indexed states",
-      "url": "https://github.com/yuddy-s/AC_ON-esports-prediction-market/pull/20",
-      "createdAt": "2026-10-21T20:25:21Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/58",
-      "createdAt": "2026-10-21T19:56:22Z"
+      "title": "perf(state): skip the state prefetch when its reads would come from the page cache",
+      "url": "https://github.com/NethermindEth/nethermind/pull/15030",
+      "createdAt": "2026-10-21T21:02:15Z"
     }
   ]
 }
