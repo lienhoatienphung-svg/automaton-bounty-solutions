@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T11:08:29.522Z",
-  "latencyMs": 817,
+  "executedAt": "2026-10-21T11:09:55.859Z",
+  "latencyMs": 851,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #366: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #367: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
+      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
+      "createdAt": "2026-10-11T10:45:50Z"
+    },
+    {
+      "title": "Nik 0.2 design review: new architecture / structure (all agents: critique, then decide by experiment)",
+      "url": "https://github.com/NikitHamal/NikitHamal/issues/9",
+      "createdAt": "2026-10-20T19:08:03Z"
+    },
+    {
+      "title": "chore(sync): merge upstream op-node/v1.19.9",
+      "url": "https://github.com/rsksmart/optimism/pull/59",
+      "createdAt": "2026-10-12T21:41:47Z"
+    },
+    {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
@@ -278,21 +293,6 @@
       "title": "Pre-launch: RCHIPs that invalidate node data or deploy code (hard-fork tracker)",
       "url": "https://github.com/rchain-community/rchain-rust/issues/51",
       "createdAt": "2026-09-13T16:22:00Z"
-    },
-    {
-      "title": "[BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structured comment",
-      "url": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4",
-      "createdAt": "2026-03-27T00:55:42Z"
-    },
-    {
-      "title": "Next fork, part 1: stage block versions by height, commit the validity bounds at genesis, and add fundPot",
-      "url": "https://github.com/rchain-community/rchain-rust/pull/373",
-      "createdAt": "2026-10-16T16:04:15Z"
-    },
-    {
-      "title": "feat(kvflash): pager serialize/deserialize, truncate, chunk pins and score ledger",
-      "url": "https://github.com/Luce-Org/lucebox/pull/848",
-      "createdAt": "2026-10-15T15:35:03Z"
     }
   ]
 }
