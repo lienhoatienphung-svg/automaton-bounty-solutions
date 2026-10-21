@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T00:06:07.565Z",
-  "latencyMs": 366,
+  "executedAt": "2026-10-21T00:14:26.608Z",
+  "latencyMs": 400,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #251: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #252: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52875910,
+    "liveBlockNumber": 52876159,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459826,
-    "baseMainnetTopPoolsVolume24hUsd": 178832,
+    "baseMainnetTopPoolsVolume24hUsd": 178415,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6JuvMhwxH8RUAR7rfzpNgt9csYS9LTWhL3tHz48Ppump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6juvmhwxh8ruar7rfzpngt9csys9ltwhl3thz48ppump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5xP1QUw2fkSzDL9qJBrTHcFKTnjnhKxDswBr5anp4BuX",
@@ -75,12 +81,6 @@
         "tokenAddress": "8zemVcC8974xhtHva7wuY64B6viXsfj24b6LH41mpump",
         "description": "The cat of Kimchi",
         "url": "https://dexscreener.com/solana/8zemvcc8974xhthva7wuy64b6vixsfj24b6lh41mpump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x32dd998BE9F11F747700B0cD0FD68C1e10CB7777",
-        "description": "The registry for .ai coins on BNB. Every coin is a .ai name sealed onchain forever, born with its own AI agent that runs its treasury, buying back and burning t",
-        "url": "https://dexscreener.com/bsc/0x32dd998be9f11f747700b0cd0fd68c1e10cb7777"
       }
     ]
   },
