@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-21T16:28:10.231Z",
-  "latencyMs": 610,
+  "executedAt": "2026-10-21T16:40:49.871Z",
+  "latencyMs": 764,
   "companyName": "FlashSpread Cross-DEX Liquidity & Arbitrage",
-  "workTitle": "Delivery Sprint #415: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
-  "targetUrl": "https://polymarket.com/event/china-x-india-military-clash-by-december-31",
+  "workTitle": "Growth & Sales Sprint #416: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2659276,
-        "liquidityUsd": 39501,
+        "liquidityUsd": 38613,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2502038,
-        "liquidityUsd": 17572,
+        "liquidityUsd": 17534,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2216938,
-        "liquidityUsd": 65106,
+        "liquidityUsd": 64711,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059879,
-        "liquidityUsd": 239,
+        "liquidityUsd": 260,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1860913,
-        "liquidityUsd": 22022,
+        "liquidityUsd": 21562,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -72,7 +72,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 104851,
-        "volume24hUsd": 41444,
+        "volume24hUsd": 41692,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -80,9 +80,9 @@
         "dexId": "alien-base",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00000036,
+        "priceUsd": 0.9999,
         "liquidityUsd": 127643,
-        "volume24hUsd": 740,
+        "volume24hUsd": 773,
         "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
       },
       {
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 21384,
-        "volume24hUsd": 70747,
+        "volume24hUsd": 69276,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -112,7 +112,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 12034,
-        "volume24hUsd": 2823,
+        "volume24hUsd": 2745,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
@@ -120,9 +120,9 @@
         "dexId": "pancakeswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.0000015,
+        "priceUsd": 0.9999,
         "liquidityUsd": 14836,
-        "volume24hUsd": 595,
+        "volume24hUsd": 640,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       }
     ]
