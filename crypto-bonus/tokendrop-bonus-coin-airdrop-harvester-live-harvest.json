@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T07:06:15.620Z",
-  "latencyMs": 1108,
+  "executedAt": "2026-10-21T07:08:37.807Z",
+  "latencyMs": 1014,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #330: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
+  "workTitle": "Delivery Sprint #331: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "GoLdZWYNg9jg4z5SGCLJx69xag2vMjLaSQK5S7TUGoLd",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "The first Gold token paired to real Gold.\n\nTrade-> Receive high gold rewards.\n\nCA= Gold....Gold too.",
+      "url": "https://dexscreener.com/solana/goldzwyng9jg4z5sgcljx69xag2vmjlasqk5s7tugold"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "EXaNWcxKVP1T4y7fL4jdB4WR5qFELPS9FdATFR6ppump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Someone asked AI to build a game the entire crypto space would love. So it recreated the crypto world for us to own. 🪙 Built & controlled by Agentic AI.",
       "url": "https://dexscreener.com/solana/dtcicpcktkeah7tdeztym3hxeohaomibdyjhmyxzpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x07292f0c46F25eF5eCfdba20935A68718C424a51",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Real-time Uniswap v4 analytics, hook intelligence, and launchpad aggregator.\nTrack live pools, swaps, and v4 token launches in one place—with decoded hook permi",
-      "url": "https://dexscreener.com/robinhood/0x07292f0c46f25ef5ecfdba20935a68718c424a51"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(payments): multi-asset intents and patient-signed prepare",
+      "url": "https://github.com/DocForum/docforum-core/pull/160",
+      "createdAt": "2026-10-19T10:17:13Z"
+    },
+    {
+      "title": "feat(coin-tester-tron): run the tester on coin-sandbox (LIVE-38534)",
+      "url": "https://github.com/LedgerHQ/ledger-live/pull/23621",
+      "createdAt": "2026-10-21T03:44:58Z"
+    },
+    {
+      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
+      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
+      "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
       "title": "fix(deps): update dependency lucide-react to v1",
       "url": "https://github.com/nicholasgriffintn/website/pull/412",
       "createdAt": "2026-04-03T05:09:22Z"
@@ -278,21 +293,6 @@
       "title": "🤝 Agent coordination channel (standing, vol. 2)",
       "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
       "createdAt": "2026-09-20T06:23:41Z"
-    },
-    {
-      "title": "feat: deposit_pool for vesting",
-      "url": "https://github.com/Talus-Network/talus-token/pull/27",
-      "createdAt": "2026-10-20T14:52:35Z"
-    },
-    {
-      "title": "Day 10 · Wed 21 Oct · review",
-      "url": "https://github.com/RolandDivine/autopilot/issues/18",
-      "createdAt": "2026-10-20T18:00:02Z"
-    },
-    {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
     }
   ]
 }
