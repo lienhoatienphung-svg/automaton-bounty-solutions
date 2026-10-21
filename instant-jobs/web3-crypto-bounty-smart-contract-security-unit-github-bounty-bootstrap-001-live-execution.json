@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-21T18:42:07.783Z",
-  "latencyMs": 761,
+  "executedAt": "2026-10-21T18:54:17.169Z",
+  "latencyMs": 647,
   "companyName": "Web3 Crypto Bounty & Smart Contract Security Unit: GitHub Bounty  BOOTSTRAP-001 ",
-  "workTitle": "Delivery Sprint #443: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
-  "targetUrl": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
+  "workTitle": "Growth & Sales Sprint #444: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "targetUrl": "https://polymarket.com/event/natoeu-troops-fighting-in-ukraine-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2659484,
-        "liquidityUsd": 39007,
+        "liquidityUsd": 39990,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -27,7 +27,7 @@
         "eventId": "18576",
         "title": "Ukraine election held by...?",
         "volumeUsd": 2502038,
-        "liquidityUsd": 17923,
+        "liquidityUsd": 18369,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-held-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2216960,
-        "liquidityUsd": 61823,
+        "liquidityUsd": 66658,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -45,7 +45,7 @@
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
         "volumeUsd": 2059879,
-        "liquidityUsd": 243,
+        "liquidityUsd": 231,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/taylor-swift-pregnant-in-2025"
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1861950,
-        "liquidityUsd": 16143,
+        "liquidityUsd": 18586,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -70,9 +70,9 @@
         "dexId": "quickswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000002,
+        "priceUsd": 1.0000024,
         "liquidityUsd": 104852,
-        "volume24hUsd": 47256,
+        "volume24hUsd": 47271,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -82,7 +82,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 0.9999,
         "liquidityUsd": 127643,
-        "volume24hUsd": 649,
+        "volume24hUsd": 660,
         "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
       },
       {
@@ -102,8 +102,18 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00001,
         "liquidityUsd": 21384,
-        "volume24hUsd": 77527,
+        "volume24hUsd": 77488,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
+      },
+      {
+        "pairAddress": "0x06959273E9A65433De71F5A452D529544E07dDD0",
+        "dexId": "uniswap",
+        "baseSymbol": "USDC",
+        "quoteSymbol": "USDbC",
+        "priceUsd": 0.9999,
+        "liquidityUsd": 12034,
+        "volume24hUsd": 2391,
+        "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
         "pairAddress": "0x29Ed55B18Af0Add137952CB3E29FB77B32fCE426",
@@ -114,16 +124,6 @@
         "liquidityUsd": 14836,
         "volume24hUsd": 659,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
-      },
-      {
-        "pairAddress": "0x06959273E9A65433De71F5A452D529544E07dDD0",
-        "dexId": "uniswap",
-        "baseSymbol": "USDC",
-        "quoteSymbol": "USDbC",
-        "priceUsd": 0.9999,
-        "liquidityUsd": 12034,
-        "volume24hUsd": 2338,
-        "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       }
     ]
   },
@@ -207,59 +207,57 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Konfetti GmbH",
-        "roleOrTask": "Sales Manager - New Business (m/f/x) inkl. Provision",
+        "company": "sonymusicentertainment",
+        "roleOrTask": "Werkstudent Learning & Development (m/w/d)",
         "industryTags": [
-          "Management",
-          "Team Leader"
+          "SME Germany"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/konfetti-gmbh/sales-manager-new-business-inkl-provision-berlin-100117",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/sonymusicentertainment/werkstudent-learning-development-europe-berlin-499125",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Konfetti GmbH",
-        "roleOrTask": "Account Manager - Partner Growth (m/f/x) inkl. Provision",
+        "company": "sonymusicentertainment",
+        "roleOrTask": "Praktikant Music Licensing & Rights Management (m/w/d)",
         "industryTags": [
-          "Business Development"
+          "SME Germany"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/konfetti-gmbh/account-manager-partner-growth-inkl-provision-berlin-11889",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/sonymusicentertainment/praktikant-music-licensing-rights-management-europe-berlin-453920",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Konfetti GmbH",
-        "roleOrTask": "Werkstudent Customer & Partner Care (m/f/x)",
+        "company": "charlesriverassociates",
+        "roleOrTask": "Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/f/d",
         "industryTags": [
-          "Customer Service"
+          "Life Sciences"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/konfetti-gmbh/werkstudent-customer-partner-care-berlin-179361",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/charlesriverassociates/praktikant-in-life-sciences-strategieberatung-life-sciences-intern-2027-start-munich-432554",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "VanSprint GmbH",
-        "roleOrTask": "Frontend Entwickler (m/w/d) Shopware / vollzeit",
+        "company": "Sereact GmbH",
+        "roleOrTask": "Director Technical Support & Field Service",
         "industryTags": [
-          "Web Development"
+          "Leadership"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/vansprint-gmbh/frontend-entwickler-shopware-vollzeit-darmstadt-489050",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/director-technical-support-field-service-stuttgart-182271",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Neolymp",
-        "roleOrTask": "Creative Designer (m/w/d)",
+        "company": "Sereact GmbH",
+        "roleOrTask": "Director Supply Chain & Hardware Operations",
         "industryTags": [
-          "Remote",
-          "Graphic Arts and Communication Design"
+          "Leadership"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/neolymp/creative-designer-berlin-23343",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/director-supply-chain-hardware-operations-stuttgart-85801",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
