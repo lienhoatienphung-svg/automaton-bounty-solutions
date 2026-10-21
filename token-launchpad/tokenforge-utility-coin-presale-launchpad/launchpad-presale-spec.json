@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T17:22:06.827Z",
-  "latencyMs": 249,
+  "executedAt": "2026-10-21T17:24:34.459Z",
+  "latencyMs": 359,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #416: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #417: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52906989,
+    "liveBlockNumber": 52907063,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459830,
-    "baseMainnetTopPoolsVolume24hUsd": 135522,
+    "baseMainnetTopPoolsLiquidityUsd": 459831,
+    "baseMainnetTopPoolsVolume24hUsd": 137096,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9askTPDEKmYBsiwwoUmPf3mBwXqkxj9yB5UNtmD7pump",
+        "description": "Alpenglow on top of radio as the v0 for bunkercoin.",
+        "url": "https://dexscreener.com/solana/9asktpdekmybsiwwoumpf3mbwxqkxj9yb5untmd7pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "EP8LEjbrFEjiL4cvQ9qLERJb3MHt2sfUjXeHwg4Hpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x721b0c8e64a627e5a93e2107fa07332dea38210b",
         "description": "Hypemon IS LIVE.\n\n15,336 coins from @CoinGecko, turned into collectible cards.\n\nRip packs. Pull legendaries. Fill your album. Climb the rankings.\n\nThe first TCG",
         "url": "https://dexscreener.com/hyperevm/0x721b0c8e64a627e5a93e2107fa07332dea38210b"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x6376010d9D1F64de70D9e83c4093c8294515aC28",
-        "description": "Protocol power token\n\nReceives all protocol revenue in the form of FANG.\nRepresents protocol ownership and reflects confidence in the peg and in the treasury be",
-        "url": "https://dexscreener.com/robinhood/0x6376010d9d1f64de70d9e83c4093c8294515ac28"
       }
     ]
   },
