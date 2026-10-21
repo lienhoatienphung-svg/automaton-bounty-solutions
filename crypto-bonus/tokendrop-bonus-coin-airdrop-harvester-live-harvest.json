@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T23:41:49.499Z",
-  "latencyMs": 737,
+  "executedAt": "2026-10-21T23:43:25.042Z",
+  "latencyMs": 800,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #470: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
+  "workTitle": "Delivery Sprint #471: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "[Validator node] Validator's own transactions stay in the local mempool forever, so it stops entering the committee lottery",
+      "url": "https://github.com/asentum-network/asentum-explorer/issues/54",
+      "createdAt": "2026-10-21T21:57:23Z"
+    },
+    {
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
+    },
+    {
       "title": "fix(freecell): make hint source and destination unmistakable (#3346)",
       "url": "https://github.com/wcmchenry3-stack/BC-Arcade/pull/3469",
       "createdAt": "2026-10-21T23:41:15Z"
@@ -283,16 +293,6 @@
       "title": "Season 0: whalewallet.fun play-points markets",
       "url": "https://github.com/joecyph0x/Wallet-fun/pull/1",
       "createdAt": "2026-10-21T23:40:27Z"
-    },
-    {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
-    },
-    {
-      "title": "Refactor GRPO sync examples",
-      "url": "https://github.com/tenstorrent/tt-metal/pull/59514",
-      "createdAt": "2026-10-06T16:43:19Z"
     }
   ]
 }
