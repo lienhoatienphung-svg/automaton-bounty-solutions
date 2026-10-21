@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T09:09:51.824Z",
-  "latencyMs": 899,
+  "executedAt": "2026-10-21T09:11:20.943Z",
+  "latencyMs": 880,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #348: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #349: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,9 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(harnesses): grade Harbor cells from Harbor's result.json",
+      "url": "https://github.com/intel/dokimi/pull/111",
+      "createdAt": "2026-10-19T04:55:47Z"
+    },
+    {
+      "title": "epic(prototype-concepts): reference concept apps — close the spec-language gaps and accept end-to-end concepts",
+      "url": "https://github.com/kaeawc/auto-mobile/issues/14170",
+      "createdAt": "2026-10-21T09:04:01Z"
+    },
+    {
       "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
       "url": "https://github.com/tehki/myaso/issues/360",
       "createdAt": "2026-10-20T17:25:33Z"
+    },
+    {
+      "title": "[Refactor] speculative: Adopt shared request features in TPU spec workers",
+      "url": "https://github.com/sgl-project/sglang-torchtpu/pull/1527",
+      "createdAt": "2026-10-18T11:24:20Z"
     },
     {
       "title": "chore(deps): update dependency lucide-react to v1.61.0",
@@ -278,21 +293,6 @@
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Pairing: QR code for phones, an eight-digit pair code for computers",
-      "url": "https://github.com/JIA-ss/ai-remote/pull/17",
-      "createdAt": "2026-10-21T07:38:45Z"
-    },
-    {
-      "title": "🤝 Agent coordination channel (standing, vol. 2)",
-      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
-      "createdAt": "2026-09-20T06:23:41Z"
     }
   ]
 }
