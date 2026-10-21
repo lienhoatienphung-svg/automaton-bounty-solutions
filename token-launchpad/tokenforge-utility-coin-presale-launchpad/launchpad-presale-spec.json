@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T08:33:40.695Z",
-  "latencyMs": 900,
+  "executedAt": "2026-10-21T08:35:21.409Z",
+  "latencyMs": 636,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #340: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
+  "workTitle": "Delivery Sprint #341: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52891136,
+    "liveBlockNumber": 52891186,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459835,
-    "baseMainnetTopPoolsVolume24hUsd": 147827,
+    "baseMainnetTopPoolsVolume24hUsd": 147916,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x04cdf9cd77ee9e5b4a17a8a486dde9202cf6e862",
+        "description": "On-chain identity for AI agents on Robinhood Chain. Register an ERC-8004 agent in one minute.",
+        "url": "https://dexscreener.com/robinhood/0x04cdf9cd77ee9e5b4a17a8a486dde9202cf6e862"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0x6fe63c4520eAcE064C5443dD7e10cbE7d4487777",
@@ -75,12 +81,6 @@
         "tokenAddress": "F7WeFKekxVBPgkWvfBMjgdVDGW2GYfPTezX9S5KQpump",
         "description": "The RSPCA faces capacity crisis as cats arrive faster than they can be rehomed\n\nGenuinely this goes to millions the amount of positive exposure pumpfun would ge",
         "url": "https://dexscreener.com/solana/f7wefkekxvbpgkwvfbmjgdvdgw2gyfptezx9s5kqpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "36PbfTZdV73dzv8oQD9J8CHQuYgnybH7xnFmKKaLpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/36pbftzdv73dzv8oqd9j8chquygnybh7xnfmkkalpump"
       }
     ]
   },
