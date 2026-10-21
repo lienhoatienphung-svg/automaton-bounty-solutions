@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T13:30:33.417Z",
-  "latencyMs": 427,
+  "executedAt": "2026-10-21T13:32:18.313Z",
+  "latencyMs": 374,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #384: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #385: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52900043,
-    "liveGasPriceGwei": 0.0069,
+    "liveBlockNumber": 52900095,
+    "liveGasPriceGwei": 0.0074,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459847,
-    "baseMainnetTopPoolsVolume24hUsd": 152394,
+    "baseMainnetTopPoolsLiquidityUsd": 459848,
+    "baseMainnetTopPoolsVolume24hUsd": 152597,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x725CCC7B5cEaCb0324B64CCb7DA3EcA2cd3a6666",
+        "description": "A meme token with a real engine under the hood.\n\nMost meme tokens run on hype alone. SI SpaceX INU runs on the SI Module, an automated trading system built by o",
+        "url": "https://dexscreener.com/bsc/0x725ccc7b5ceacb0324b64ccb7da3eca2cd3a6666"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9iCtpgPhsh7vhotrfDsA5xAUiGweEG2QKUeGDbirpump",
+        "description": "Solana Accelerationism. \n\nSolana cut its block time from 400 to 200 ms in seven weeks, and Alpenglow (Oct 21) takes finality from ~7 seconds to ~150 ms: about o",
+        "url": "https://dexscreener.com/solana/9ictpgphsh7vhotrfdsa5xauigweeg2qkuegdbirpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "G8o4YRtppz9CyZCWvBUnCHVeYQx4XdzAEzx2mSiWpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "GDv4YUaTKzBNWkzPRLJJcF3PkZ3pfX868SSoQ7ZQpump",
         "description": "Shared liquidity. Off-chain quotes. On-chain settlement.",
         "url": "https://dexscreener.com/solana/gdv4yuatkzbnwkzprljjcf3pkz3pfx868ssoq7zqpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xc04ad5f4b019a90f5bd3a1cc68e612c311a4bc74",
-        "description": "Censored Hooks Privacy: paste a v4 hook or a GitHub repo, see what it takes from a swap, who can change it, and its verdict. Robinhood Chain.",
-        "url": "https://dexscreener.com/robinhood/0xc04ad5f4b019a90f5bd3a1cc68e612c311a4bc74"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x3527212926471D19D88ffbaD8CF83505735c496d",
-        "description": "A programmable equity layer. Tokenized stocks, capital markets infrastructure & onchain financial primitives.",
-        "url": "https://dexscreener.com/robinhood/0x3527212926471d19d88ffbad8cf83505735c496d"
       }
     ]
   },
