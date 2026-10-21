@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T10:07:21.109Z",
-  "latencyMs": 393,
+  "executedAt": "2026-10-21T10:09:07.453Z",
+  "latencyMs": 646,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #354: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #355: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52893946,
+    "liveBlockNumber": 52894000,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 141394,
+    "baseMainnetTopPoolsVolume24hUsd": 139542,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GAJiA7j8CSCgMzKvKRxtAuUFchbhBMaprFWjANnspump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gajia7j8cscgmzkvkrxtauufchbhbmaprfwjannspump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9yxQvtqzsdHay96y7kxE8ikrGdi2FnytaCmMr9c9pump",
@@ -75,12 +81,6 @@
         "tokenAddress": "9sZj7vMHP41xXiX11ZpPmdfyj9BvbhJvMBmhSBgWpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/9szj7vmhp41xxix11zppmdfyj9bvbhjvmbmhsbgwpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "F8H5xJsCSbDrRR6Wzvm7vgbBXMsJ7hG5XqK11LLjpump",
-        "description": "Buckme - The Digital Currency of Vice City\n\nPaired to Dacity The Offiicial GTA VI Memecoin",
-        "url": "https://dexscreener.com/solana/f8h5xjscsbdrrr6wzvm7vgbbxmsj7hg5xqk11lljpump"
       }
     ]
   },
