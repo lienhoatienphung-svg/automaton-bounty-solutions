@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T12:08:16.341Z",
-  "latencyMs": 319,
+  "executedAt": "2026-10-21T12:20:38.593Z",
+  "latencyMs": 401,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #373: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #374: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52897574,
+    "liveBlockNumber": 52897945,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,14 +31,26 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459838,
-    "baseMainnetTopPoolsVolume24hUsd": 127545,
+    "baseMainnetTopPoolsVolume24hUsd": 119042,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
       {
+        "chainId": "robinhood",
+        "tokenAddress": "0x572bd58aefa0f2435096416fb09c0cc5d0bb1af1",
+        "description": "Alchemine is an alchemy and mining game on Robinhood Chain powered by ALMI. Start with four basic elements, experiment with combinations and discover new creati",
+        "url": "https://dexscreener.com/robinhood/0x572bd58aefa0f2435096416fb09c0cc5d0bb1af1"
+      },
+      {
         "chainId": "solana",
-        "tokenAddress": "vBozB5H8KL9efKBHZ8m2WziTnSCGComxyDxUApbpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/vbozb5h8kl9efkbhz8m2wzitnscgcomxydxuapbpump"
+        "tokenAddress": "fMMZicHpZDWgWg9pJRPkLreEwGBM26Z3bTx5MVQpump",
+        "description": "neural inu",
+        "url": "https://dexscreener.com/solana/fmmzichpzdwgwg9pjrpklreewgbm26z3btx5mvqpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x3279f3C8C3cc2a5Cc5a8De11316832d26D7F9ed6",
+        "description": "A massive PHP vulnerability is going viral. The story centers on a newly disclosed pair of CVEs involving heap use-after-free flaws that could allow attackers t",
+        "url": "https://dexscreener.com/robinhood/0x3279f3c8c3cc2a5cc5a8de11316832d26d7f9ed6"
       },
       {
         "chainId": "solana",
@@ -69,18 +81,6 @@
         "tokenAddress": "7XwfdmFG2yeBvtsw3LajBXbdVAZ3pvBUt47WGeatpump",
         "description": "Stock Inu",
         "url": "https://dexscreener.com/solana/7xwfdmfg2yebvtsw3lajbxbdvaz3pvbut47wgeatpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "tZPasooEK7iJALGUkCSBnMmviyXZtxHtJmXaw5Epump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/tzpasooek7ijalgukcsbnmmviyxztxhtjmxaw5epump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HXuAgtMSuuv3sJH6UPg2cG4Txqovc19kD6PtyHxmpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hxuagtmsuuv3sjh6upg2cg4txqovc19kd6ptyhxmpump"
       }
     ]
   },
