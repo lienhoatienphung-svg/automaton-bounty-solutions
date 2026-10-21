@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-21T02:17:49.662Z",
-  "latencyMs": 1512,
+  "executedAt": "2026-10-21T02:26:43.982Z",
+  "latencyMs": 1336,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #279: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #280: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "fix(iam): RC1 operability — supported role init and controlled cross-app native role grants",
-          "url": "https://github.com/zjl327707743/HBOS-Platform/pull/60",
-          "repositoryUrl": "https://api.github.com/repos/zjl327707743/HBOS-Platform",
-          "updatedAt": "2026-10-21T02:17:42Z"
+          "title": "fix(governance): accept +00:00 as the handover lineage zero offset",
+          "url": "https://github.com/arunakulat/dutchbay-epc-model/pull/1368",
+          "repositoryUrl": "https://api.github.com/repos/arunakulat/dutchbay-epc-model",
+          "updatedAt": "2026-10-21T02:26:37Z"
         },
         {
-          "title": "Agent coordination requests and worker status",
-          "url": "https://github.com/Ken0u/badminton-match-analyzer/issues/74",
-          "repositoryUrl": "https://api.github.com/repos/Ken0u/badminton-match-analyzer",
-          "updatedAt": "2026-10-21T02:17:41Z"
+          "title": "fix(connectors): outbound MACs cover the connection and restore target (#242)",
+          "url": "https://github.com/notacamp/campbooks/pull/622",
+          "repositoryUrl": "https://api.github.com/repos/notacamp/campbooks",
+          "updatedAt": "2026-10-21T02:26:36Z"
         },
         {
-          "title": "Zcash Türkiye 2026 Q3-4 - 2027 Q1-2-3-4",
-          "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/329",
-          "repositoryUrl": "https://api.github.com/repos/ZcashCommunityGrants/zcashcommunitygrants",
-          "updatedAt": "2026-10-21T02:17:41Z"
+          "title": "QoL and looks overhaul: terminal, web player, CLI, Android, docs",
+          "url": "https://github.com/pwnedbygary/scrcpy-terminal/pull/6",
+          "repositoryUrl": "https://api.github.com/repos/pwnedbygary/scrcpy-terminal",
+          "updatedAt": "2026-10-21T02:26:36Z"
         },
         {
-          "title": "Avoid allocation in client pool slot ordering (#536)",
-          "url": "https://github.com/leynos/wireframe/pull/774",
-          "repositoryUrl": "https://api.github.com/repos/leynos/wireframe",
-          "updatedAt": "2026-10-21T02:17:42Z"
-        },
-        {
-          "title": "Add authorized qp open to Mac App Store CLI",
-          "url": "https://github.com/koichiro/quick-presenter/pull/501",
-          "repositoryUrl": "https://api.github.com/repos/koichiro/quick-presenter",
-          "updatedAt": "2026-10-21T02:17:41Z"
-        },
-        {
-          "title": "fix(guard): report user-wide inventory without workspace context and stop retrying permanent review quarantines",
-          "url": "https://github.com/hashgraph-online/hol-guard/pull/5477",
+          "title": "Integrate Gauntlet baseline with Rust verifier and worker shadow",
+          "url": "https://github.com/hashgraph-online/hol-guard/pull/5402",
           "repositoryUrl": "https://api.github.com/repos/hashgraph-online/hol-guard",
-          "updatedAt": "2026-10-21T02:17:46Z"
+          "updatedAt": "2026-10-21T02:26:36Z"
         },
         {
-          "title": "[Общение 04][P1] Сохранять blocking вопросы и безопасно передавать исполнение после ответа",
-          "url": "https://github.com/alex123321-maker/butler/issues/103",
-          "repositoryUrl": "https://api.github.com/repos/alex123321-maker/butler",
-          "updatedAt": "2026-10-21T02:17:40Z"
+          "title": "Polish Connect, login alignment, Feed and Check-in interfaces",
+          "url": "https://github.com/hushh-labs/hushh-research/pull/8295",
+          "repositoryUrl": "https://api.github.com/repos/hushh-labs/hushh-research",
+          "updatedAt": "2026-10-21T02:26:36Z"
         },
         {
-          "title": "improvement: the source pins in six more files are tested by what the code does",
-          "url": "https://github.com/PersonalClaw/PersonalClaw/pull/5031",
-          "repositoryUrl": "https://api.github.com/repos/PersonalClaw/PersonalClaw",
-          "updatedAt": "2026-10-21T02:17:47Z"
+          "title": "research(C3 B-01): synthetic cross-parent Anchor PGID join and Owner-grant gate (G2 BLOCK)",
+          "url": "https://github.com/chinanjjohn2012/mac-file-gateway/pull/29",
+          "repositoryUrl": "https://api.github.com/repos/chinanjjohn2012/mac-file-gateway",
+          "updatedAt": "2026-10-21T02:26:35Z"
+        },
+        {
+          "title": "data-layer 2.1i: the single-file screens read useScreenMasters / useMasters",
+          "url": "https://github.com/bhbinternationalschool/bhb-cbse-schools/pull/688",
+          "repositoryUrl": "https://api.github.com/repos/bhbinternationalschool/bhb-cbse-schools",
+          "updatedAt": "2026-10-21T02:26:35Z"
+        },
+        {
+          "title": "feat(onboarding): persist adaptive profile drafts (JOV-8051)",
+          "url": "https://github.com/JovieInc/Jovie/pull/22340",
+          "repositoryUrl": "https://api.github.com/repos/JovieInc/Jovie",
+          "updatedAt": "2026-10-21T02:26:35Z"
         }
       ]
     },
