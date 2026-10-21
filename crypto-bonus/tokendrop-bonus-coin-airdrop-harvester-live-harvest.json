@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T11:36:00.459Z",
-  "latencyMs": 796,
+  "executedAt": "2026-10-21T11:47:45.221Z",
+  "latencyMs": 744,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #371: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #372: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "8T2nkC9HQkgd2yjxc7Yn1LAietmXyZKbv1vR4FXDbonk",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Bonnie",
+      "url": "https://dexscreener.com/solana/8t2nkc9hqkgd2yjxc7yn1laietmxyzkbv1vr4fxdbonk"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "5UxPc1WtxQPUXCfMZJFhhbvqNsbULEHRwYfMjyfEpump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "$BOUNCER the offficial GTA VI PEPE on their website",
       "url": "https://dexscreener.com/solana/gv6jkrrjjw9nlzujvzdxj6d9xl21qclbhso8lyfmpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "3B9UFDVzNafK3izskt6TwAZ7sVYnm1vYW4RXqULhpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "SUPRAI is designed as an open economic infrastructure for AI agents to access services, coordinate tasks, exchange value, and participate in the emerging machin",
-      "url": "https://dexscreener.com/solana/3b9ufdvznafk3izskt6twaz7svynm1vyw4rxqulhpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "MESSIER",
       "symbol": "M87",
-      "marketCapRank": 961,
-      "priceBtc": 2.174859302961792e-10
+      "marketCapRank": 964,
+      "priceBtc": 2.1731275968820741e-10
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 438,
-      "priceBtc": 0.000003897874979362554
+      "marketCapRank": 454,
+      "priceBtc": 0.000003796139865787892
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.758269386810151e-8
+      "priceBtc": 9.705442447151298e-8
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 88,
-      "priceBtc": 0.00002786058834188858
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9999478134274428
+      "priceBtc": 0.000027818421640011758
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006209162199428684
+      "priceBtc": 0.00006179697187230331
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.015419049639547957
+      "name": "Orbio.so",
+      "symbol": "ORBIO",
+      "marketCapRank": 512,
+      "priceBtc": 5.567698296597348e-7
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009770640723854866
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9985718674046358
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 717,
+      "priceBtc": 0.0010756470495828238
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Apply pool-wide v5 budgets and final-answer scoring",
-      "url": "https://github.com/damlaakemall/purerepo/pull/4",
-      "createdAt": "2026-10-21T11:34:42Z"
+      "title": "[BOUNTY] High: Cross-cluster (mainnet-beta vs devnet) ShieldedNote storage collision & dropPhantomNotes note destruction, stranded gas SOL o",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1166",
+      "createdAt": "2026-10-21T11:47:24Z"
     },
     {
-      "title": "Test trained PyTorch QMLP export through private blockchain finality and Sayed Token rewards",
-      "url": "https://github.com/jihadelsayed/AivoBlock/pull/64",
-      "createdAt": "2026-10-21T11:34:28Z"
+      "title": "fix(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/eznix86/nostr-auth/pull/20",
+      "createdAt": "2026-03-23T16:49:48Z"
     },
     {
-      "title": "Update bun non-major dependencies",
-      "url": "https://github.com/webermarci/weberkft/pull/7",
-      "createdAt": "2026-08-03T01:02:06Z"
+      "title": "Next fork, part 1: stage block versions by height, commit the validity bounds at genesis, and add fundPot",
+      "url": "https://github.com/rchain-community/rchain-rust/pull/373",
+      "createdAt": "2026-10-16T16:04:15Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "build(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/DanielleHuisman/website/pull/98",
+      "createdAt": "2026-03-30T00:51:33Z"
     },
     {
-      "title": "chore(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/Suto-Michimasa/pnpm-override-sync-example/pull/111",
-      "createdAt": "2026-04-26T07:49:56Z"
+      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
+      "url": "https://github.com/tehki/myaso/issues/360",
+      "createdAt": "2026-10-20T17:25:33Z"
     },
     {
-      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
-      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
-      "createdAt": "2026-10-11T10:45:50Z"
+      "title": "chore(deps): Update dependency lucide-react to v1.61.0",
+      "url": "https://github.com/gfriloux/pgpilot/pull/42",
+      "createdAt": "2026-09-27T15:38:43Z"
     }
   ]
 }
