@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-21T00:14:20.845Z",
-  "latencyMs": 860,
+  "executedAt": "2026-10-21T00:23:13.439Z",
+  "latencyMs": 510,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #255: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #256: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "Make LocoHub data-first with plain HTML docs and bounded reconversion",
-          "url": "https://github.com/jmontp/LocoHub/pull/4",
-          "repositoryUrl": "https://api.github.com/repos/jmontp/LocoHub",
-          "updatedAt": "2026-10-21T00:14:17Z"
-        },
-        {
-          "title": "docs(skill): pi-lens works with trust = true",
-          "url": "https://github.com/yologdev/yobuild/pull/53",
-          "repositoryUrl": "https://api.github.com/repos/yologdev/yobuild",
-          "updatedAt": "2026-10-21T00:14:15Z"
-        },
-        {
-          "title": "Commissions center: Overview, Payments, Policies and Calculator (draft; Gate 2 applied, frontend release pending)",
-          "url": "https://github.com/cgarness/agentflow-life-insure/pull/471",
-          "repositoryUrl": "https://api.github.com/repos/cgarness/agentflow-life-insure",
-          "updatedAt": "2026-10-21T00:14:14Z"
-        },
-        {
-          "title": "fix(rbac): require explicit script.author for user principals",
-          "url": "https://github.com/desplega-ai/agent-swarm/pull/2113",
-          "repositoryUrl": "https://api.github.com/repos/desplega-ai/agent-swarm",
-          "updatedAt": "2026-10-21T00:14:15Z"
-        },
-        {
-          "title": "ci(deploy): deploy main to staging with the Preview environment",
-          "url": "https://github.com/rmartz/personal-budget/pull/572",
-          "repositoryUrl": "https://api.github.com/repos/rmartz/personal-budget",
-          "updatedAt": "2026-10-21T00:14:13Z"
-        },
-        {
-          "title": "build(deps): bump actions/create-github-app-token from 3.2.0 to 3.3.0",
-          "url": "https://github.com/fridthjof-labs/tidebot/pull/82",
-          "repositoryUrl": "https://api.github.com/repos/fridthjof-labs/tidebot",
-          "updatedAt": "2026-10-21T00:14:17Z"
-        },
-        {
-          "title": "Connect the hosted conference demo and human rollout",
-          "url": "https://github.com/ericclemmons/effect-ci-testbed/pull/386",
-          "repositoryUrl": "https://api.github.com/repos/ericclemmons/effect-ci-testbed",
-          "updatedAt": "2026-10-21T00:14:12Z"
-        },
-        {
-          "title": "feat: show original pull requests in guest conversations",
-          "url": "https://github.com/openclaw/openclaw/pull/178312",
-          "repositoryUrl": "https://api.github.com/repos/openclaw/openclaw",
-          "updatedAt": "2026-10-21T00:14:12Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
