@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T08:55:53.615Z",
-  "latencyMs": 983,
+  "executedAt": "2026-10-21T08:57:27.580Z",
+  "latencyMs": 902,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #346: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #347: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "remote-auth: authorization master derivation v2, per genesis (lab #971)",
+      "url": "https://github.com/qumbra-labs/qumbra-lab/pull/982",
+      "createdAt": "2026-10-21T08:57:10Z"
+    },
+    {
+      "title": "Proposal: optional MWA wallet-link proof for existing did:key signed writes",
+      "url": "https://github.com/flop-labs/technocore-chat/issues/11",
+      "createdAt": "2026-08-18T14:53:06Z"
+    },
+    {
+      "title": "Update dependency lucide-react to v1.61.0",
+      "url": "https://github.com/ditschedev/kawa/pull/44",
+      "createdAt": "2026-04-28T22:16:01Z"
+    },
+    {
+      "title": "feat(stablecoin): add a deploy script and wire it into the test setup",
+      "url": "https://github.com/logos-blockchain/lez-programs/pull/397",
+      "createdAt": "2026-09-28T10:58:59Z"
+    },
+    {
+      "title": "Automate Drop Forge launch and durable EMMA processing",
+      "url": "https://github.com/6529-Collections/6529seize-backend/pull/2143",
+      "createdAt": "2026-10-09T09:31:34Z"
+    },
+    {
       "title": "[2/6][BREAKING][rollout] feat: Support rollout with AR and DiT separate returns for QwenImage DualGRPO",
       "url": "https://github.com/verl-project/verl-omni/pull/654",
       "createdAt": "2026-09-22T01:17:50Z"
-    },
-    {
-      "title": "Nik 0.2 design review: new architecture / structure (all agents: critique, then decide by experiment)",
-      "url": "https://github.com/NikitHamal/NikitHamal/issues/9",
-      "createdAt": "2026-10-20T19:08:03Z"
-    },
-    {
-      "title": "feat(standards): add spending limits to `AuthMultisigSmart`",
-      "url": "https://github.com/0xMiden/protocol/pull/4081",
-      "createdAt": "2026-10-20T10:43:03Z"
-    },
-    {
-      "title": "AppWorld eval REST: MIPROv2 vs seed (gpt-oss-120b)",
-      "url": "https://github.com/skillberry-ai/cap-evolve/issues/898",
-      "createdAt": "2026-10-20T19:52:37Z"
-    },
-    {
-      "title": "Bump vite from 6.4.1 to 6.4.5 in /faucet/front",
-      "url": "https://github.com/free4fun/codecrypto_academy/pull/22",
-      "createdAt": "2026-10-21T08:54:52Z"
-    },
-    {
-      "title": "Add EMMA processing and Craft Launch/Update Claim controls",
-      "url": "https://github.com/6529-Collections/6529seize-frontend/pull/4207",
-      "createdAt": "2026-10-09T09:31:42Z"
     }
   ]
 }
