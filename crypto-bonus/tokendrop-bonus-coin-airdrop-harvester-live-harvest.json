@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T22:57:43.359Z",
-  "latencyMs": 772,
+  "executedAt": "2026-10-21T22:59:25.031Z",
+  "latencyMs": 808,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #464: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #465: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
-    },
-    {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
       "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
       "createdAt": "2026-10-07T04:04:03Z"
+    },
+    {
+      "title": "feat(scripts): guided stage smoke test that proves a nonzero relayer fee",
+      "url": "https://github.com/nublai/payments/pull/140",
+      "createdAt": "2026-10-21T22:58:39Z"
+    },
+    {
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "url": "https://github.com/Emaren/wolochain/issues/5",
+      "createdAt": "2026-10-14T03:39:47Z"
     },
     {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
@@ -288,11 +293,6 @@
       "title": "Refactor GRPO sync examples",
       "url": "https://github.com/tenstorrent/tt-metal/pull/59514",
       "createdAt": "2026-10-06T16:43:19Z"
-    },
-    {
-      "title": "feat: operator-issued MB/minute ecash — unit-aware pricing + CDK mint integration (DRAFT)",
-      "url": "https://github.com/OpenTollGate/tollgate-module-basic-go/pull/1040",
-      "createdAt": "2026-10-21T13:59:26Z"
     }
   ]
 }
