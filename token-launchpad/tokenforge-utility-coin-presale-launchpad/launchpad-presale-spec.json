@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T07:11:23.317Z",
-  "latencyMs": 1106,
+  "executedAt": "2026-10-21T07:13:34.980Z",
+  "latencyMs": 404,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #328: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #329: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52888667,
+    "liveBlockNumber": 52888733,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 140317,
+    "baseMainnetTopPoolsVolume24hUsd": 140313,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "DtXVXXE2APKQ6mHA5AoepfvZW8QKVBfvMecz7QYrabcd",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/dtxvxxe2apkq6mha5aoepfvzw8qkvbfvmecz7qyrabcd"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x51250B135174Ca09450EC01c4afF73CF69DBb590",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0x51250b135174ca09450ec01c4aff73cf69dbb590"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5faPPM84dQWpMSjr1xfHux4DNuGakp9M4wonuhS2pump",
@@ -69,18 +81,6 @@
         "tokenAddress": "JBENAHSV47Jo366BZqwB5ncpaJqmKc84DfBNbWm3jray",
         "description": "Moon Lot (LOT) is a Solana coin with a real game behind it. Holders claim a lot on the moon, build bases with solar panels, drills, fuel tanks and defense turre",
         "url": "https://dexscreener.com/solana/jbenahsv47jo366bzqwb5ncpajqmkc84dfbnbwm3jray"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4mNFQaNmMxLD2c3HVTNHFeQugNMcchWcgqYHoKBsddAi",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4mnfqanmmxld2c3hvtnhfequgnmcchwcgqyhokbsddai"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "63ji3LxbkEmmkpersaCnAk9QdkTp7ymqpcq8vuW3pump",
-        "description": "Some coins climb back. Afterlist tracks new coins from their starting price, straight from on-chain pool prices: the ones that sink, and the ones that climb bac",
-        "url": "https://dexscreener.com/solana/63ji3lxbkemmkpersacnak9qdktp7ymqpcq8vuw3pump"
       }
     ]
   },
