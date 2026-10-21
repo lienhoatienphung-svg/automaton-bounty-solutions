@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T07:13:34.980Z",
+  "executedAt": "2026-10-21T07:24:09.545Z",
   "latencyMs": 404,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #329: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #330: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52888733,
+    "liveBlockNumber": 52889051,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 140313,
+    "baseMainnetTopPoolsVolume24hUsd": 140225,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9Bn4iAbrYEj5xL2Y2Fq2LPeXtd6fryra1ftjBYJMpump",
+        "description": "wojak irl.",
+        "url": "https://dexscreener.com/solana/9bn4iabryej5xl2y2fq2lpextd6fryra1ftjbyjmpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "DtXVXXE2APKQ6mHA5AoepfvZW8QKVBfvMecz7QYrabcd",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x64eb587083a775732f774b930037d7d7aeb36111",
         "description": "Build Backends. Fast. Install the CLI, run shuttle init, then shuttle deploy: your code is packaged and compiled, and the resources it asks for are provisioned ",
         "url": "https://dexscreener.com/robinhood/0x64eb587083a775732f774b930037d7d7aeb36111"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "JBENAHSV47Jo366BZqwB5ncpaJqmKc84DfBNbWm3jray",
-        "description": "Moon Lot (LOT) is a Solana coin with a real game behind it. Holders claim a lot on the moon, build bases with solar panels, drills, fuel tanks and defense turre",
-        "url": "https://dexscreener.com/solana/jbenahsv47jo366bzqwb5ncpajqmkc84dfbnbwm3jray"
       }
     ]
   },
