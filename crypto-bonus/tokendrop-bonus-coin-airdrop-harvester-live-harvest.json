@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T22:59:25.031Z",
-  "latencyMs": 808,
+  "executedAt": "2026-10-21T23:12:15.692Z",
+  "latencyMs": 763,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #465: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #466: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,22 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x7E187fE67ae04c1B1738f01B424656390E45E1C9",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "New vault from dev of $SEM which reached 9m mcap.\n\nTETRA is a token on Robinhood Chain backed by a reserve of SPY, GLD, USO and WETH (25% each) plus USDG. Anyon",
+      "url": "https://dexscreener.com/robinhood/0x7e187fe67ae04c1b1738f01b424656390e45e1c9"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "KaEE36UcWo3hCgks3PVU8vYZ8ykkp8jyf8pBtVupump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Baby Kimchi earns you, Kimchi. The only Baby Kimchi with 3 percent tax for holders so you ACTUALLY EARN Kimchi by holding.",
+      "url": "https://dexscreener.com/solana/kaee36ucwo3hcgks3pvu8vyz8ykkp8jyf8pbtvupump"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump",
       "boostAmount": 500,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 100,
       "description": "The most anticipated game in history. One cat. Nine lives. Zero concerns. $GATO",
       "url": "https://dexscreener.com/solana/hsprhxbrgivaqdrf3tnknuzztax9juspgmfdakk6pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "7CZWZbDDnai4yCNGYAW1KSYB6htoDNE273g72FEapump",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "$KATCHI — The King of Solana. \nBorn to rule, built to meme. 🤑 KATCHI is not just a cat — he’s a whole lifestyle. Luxury vibes, savage energy, and a community r",
-      "url": "https://dexscreener.com/solana/7czwzbddnai4ycngyaw1ksyb6htodne273g72feapump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump",
-      "boostAmount": 500,
-      "totalBoostAmount": 500,
-      "description": "Kimchi-inspired. Bull-built. Private jets, heavy wrists, unlimited aura.",
-      "url": "https://dexscreener.com/solana/gne7e774tkgyxmmzp36ofhnurruz15h4e1le1xekpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 778,
-      "priceBtc": 2.8716946163104934e-7
+      "marketCapRank": 788,
+      "priceBtc": 2.8113342002218834e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009624560864993513
+      "priceBtc": 0.000009669083795105378
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 85,
-      "priceBtc": 0.000028370790820568798
+      "priceBtc": 0.00002882526877386614
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 530,
-      "priceBtc": 0.0000030504854771943746
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9985100572289848
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 702,
-      "priceBtc": 0.0010963210126808702
+      "marketCapRank": 529,
+      "priceBtc": 0.0000030589346487383886
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006257758995859418
+      "priceBtc": 0.00006266814361430794
     },
     {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "marketCapRank": 67,
-      "priceBtc": 0.0003245651043609073
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9997431738267551
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "marketCapRank": 7,
+      "priceBtc": 0.00127175812711479
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 702,
+      "priceBtc": 0.001101067608572652
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "Rebuild the airdrop docs from the primary sources, and add close-1 tooling",
+      "url": "https://github.com/btcmama08/technocore-kit/pull/1",
+      "createdAt": "2026-09-15T17:29:41Z"
     },
     {
-      "title": "feat(scripts): guided stage smoke test that proves a nonzero relayer fee",
-      "url": "https://github.com/nublai/payments/pull/140",
-      "createdAt": "2026-10-21T22:58:39Z"
+      "title": "Add moe-router-design task",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/28",
+      "createdAt": "2026-09-27T02:38:45Z"
     },
     {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
+      "title": "feat(tracker-adapters): add V3X support",
+      "url": "https://github.com/jordanlambrecht/tracker-tracker/pull/276",
+      "createdAt": "2026-10-21T23:11:02Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "fix: resolve critical issues in staking, lazy-mint, splitter, and routing",
+      "url": "https://github.com/Afristore/marketplace/pull/1083",
+      "createdAt": "2026-10-20T18:44:08Z"
+    },
+    {
+      "title": "Release plan",
+      "url": "https://github.com/thachp/harimu/issues/178",
+      "createdAt": "2026-10-14T15:12:06Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
-    },
-    {
-      "title": "Refactor GRPO sync examples",
-      "url": "https://github.com/tenstorrent/tt-metal/pull/59514",
-      "createdAt": "2026-10-06T16:43:19Z"
     }
   ]
 }
