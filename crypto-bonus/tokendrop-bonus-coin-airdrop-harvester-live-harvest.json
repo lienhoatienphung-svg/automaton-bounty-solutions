@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T21:18:04.245Z",
-  "latencyMs": 880,
+  "executedAt": "2026-10-21T21:31:03.987Z",
+  "latencyMs": 1388,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #451: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #452: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1068013,
-      "apyBase": 1.19,
-      "apyRewardBonus": 86920.3,
-      "apyTotal": 86921.49,
+      "tvlUsd": 1067696,
+      "apyBase": 1.08,
+      "apyRewardBonus": 85323.73,
+      "apyTotal": 85324.81,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -42,25 +42,12 @@
     },
     {
       "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-LMTS",
-      "tvlUsd": 136250,
-      "apyBase": 56.12,
-      "apyRewardBonus": 60952.3,
-      "apyTotal": 61008.42,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "298f28f6-fab0-461f-8bd1-ad5b07e4b590"
-    },
-    {
-      "chain": "Base",
       "project": "aerodrome-v1",
       "symbol": "WETH-W",
-      "tvlUsd": 57650,
+      "tvlUsd": 57092,
       "apyBase": 0,
-      "apyRewardBonus": 36302.21,
-      "apyTotal": 36302.21,
+      "apyRewardBonus": 35962.71,
+      "apyTotal": 35962.71,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -70,10 +57,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 95079,
-      "apyBase": 50.53,
-      "apyRewardBonus": 18661.04,
-      "apyTotal": 18711.57,
+      "tvlUsd": 95520,
+      "apyBase": 50.25,
+      "apyRewardBonus": 13910.18,
+      "apyTotal": 13960.43,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -95,11 +82,37 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "USDC-LMTS",
+      "tvlUsd": 139870,
+      "apyBase": 45.43,
+      "apyRewardBonus": 7433.55,
+      "apyTotal": 7478.98,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "298f28f6-fab0-461f-8bd1-ad5b07e4b590"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
+      "symbol": "WETH-USDC",
+      "tvlUsd": 162330,
+      "apyBase": 34.01,
+      "apyRewardBonus": 5403.75,
+      "apyTotal": 5437.76,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "AVNT-USDC",
-      "tvlUsd": 712017,
+      "tvlUsd": 712038,
       "apyBase": 0.38,
-      "apyRewardBonus": 12292.36,
-      "apyTotal": 12292.74,
+      "apyRewardBonus": 5008.68,
+      "apyTotal": 5009.06,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -109,10 +122,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "WETH-CBBTC",
-      "tvlUsd": 3290537,
-      "apyBase": 73.12,
-      "apyRewardBonus": 5777.46,
-      "apyTotal": 5850.57,
+      "tvlUsd": 3307519,
+      "apyBase": 68.04,
+      "apyRewardBonus": 4343.84,
+      "apyTotal": 4411.88,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -121,37 +134,32 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-USDC",
-      "tvlUsd": 162292,
-      "apyBase": 33.81,
-      "apyRewardBonus": 4851.96,
-      "apyTotal": 4885.76,
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 205271,
+      "apyBase": 33.03,
+      "apyRewardBonus": 4011.2,
+      "apyTotal": 4044.23,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "FUN-USDC",
-      "tvlUsd": 283514,
-      "apyBase": 17.85,
-      "apyRewardBonus": 4783.55,
-      "apyTotal": 4801.4,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "18674a4f-57ea-4c91-99ce-ea1a2b37aa3d"
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "CgXvr1VoZNLzbGrnmy3V6Hza1wcpPrj2yUCxU55Rpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/cgxvr1voznlzbgrnmy3v6hza1wcpprj2yucxu55rpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
       "boostAmount": 100,
-      "totalBoostAmount": 200,
+      "totalBoostAmount": 100,
       "description": "The most anticipated game in history. One cat. Nine lives. Zero concerns. $GATO",
       "url": "https://dexscreener.com/solana/hsprhxbrgivaqdrf3tnknuzztax9juspgmfdakk6pump"
     },
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/8pdrbumxulupjsgcdjhlwphqesmpxydnewtff8i6pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
-      "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,72 +217,57 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 746,
-      "priceBtc": 2.9438626641807496e-7
+      "marketCapRank": 727,
+      "priceBtc": 3.0826391813460053e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009835761383889204
+      "priceBtc": 0.000009799623955460623
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 85,
-      "priceBtc": 0.000028159423643253035
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 113,
-      "priceBtc": 9.711010569148899e-8
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.0000622722548026776
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 531,
-      "priceBtc": 0.0000030276443484120777
+      "priceBtc": 0.000028193129109562643
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 80,
-      "priceBtc": 0.0000455414400492058
+      "priceBtc": 0.00004606153942288819
     },
     {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.00001232177580985915
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.0000623712836599263
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 113,
+      "priceBtc": 9.70682746260893e-8
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 531,
+      "priceBtc": 0.000003037910321442875
+    },
+    {
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 37,
+      "priceBtc": 0.0024740138623971287
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "feat(connector): [Adyen] add 10 flows (Authorize, PSync, Capture, Void, Refund, RSync, ...)",
-      "url": "https://github.com/juspay/hyperswitch-prism/pull/2553",
-      "createdAt": "2026-10-19T05:17:08Z"
-    },
-    {
-      "title": "feat(frontend): M3 guarded buy with submitted / mined / indexed states",
-      "url": "https://github.com/yuddy-s/AC_ON-esports-prediction-market/pull/20",
-      "createdAt": "2026-10-21T20:25:21Z"
-    },
-    {
-      "title": "security(program): refund-only settlement, join terms, layout padding; retire the web app",
-      "url": "https://github.com/davigiroux/safenudge.xyz/pull/103",
-      "createdAt": "2026-10-20T22:02:27Z"
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -290,9 +275,24 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Testnet container-package rehearsal on a hosted runner, part 1: bring-up, identity, first tx, gateway limits, faucet guard (no captcha)",
-      "url": "https://github.com/ristik/bft-core/pull/747",
-      "createdAt": "2026-10-21T19:23:05Z"
+      "title": "Model C v2 review closures for #177 (epoch boundary, decay bound, yield cap, genesis rate, percent slashing, bonding flag, leftovers)",
+      "url": "https://github.com/verana-labs/verifiable-trust-vpr-spec/pull/183",
+      "createdAt": "2026-10-19T20:58:57Z"
+    },
+    {
+      "title": "[DRAFT] Full product polish RC: Home/guide/side-identity/progression + itch nested hosting",
+      "url": "https://github.com/Khanh-glitch/APEX-CHAOS/pull/101",
+      "createdAt": "2026-10-20T14:58:15Z"
+    },
+    {
+      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
+      "createdAt": "2026-10-07T00:07:47Z"
+    },
+    {
+      "title": "fix: complete failure metadata on existing masked results",
+      "url": "https://github.com/NVIDIA-NeMo/Gym/issues/4882",
+      "createdAt": "2026-10-21T21:18:47Z"
     }
   ]
 }
