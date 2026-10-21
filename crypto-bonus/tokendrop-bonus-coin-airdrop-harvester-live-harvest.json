@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T06:29:05.480Z",
-  "latencyMs": 915,
+  "executedAt": "2026-10-21T06:40:48.400Z",
+  "latencyMs": 822,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #325: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #326: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "8dcJQQxNY4ooKE8PpJMhgcLsC2oc4RzHGEpbvj5opump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Solana’s toughest Grandma 🥊 Floral scarf. Iron fists. Zero chill. She’s here to knit, hit and shake up the timeline 💚",
+      "url": "https://dexscreener.com/solana/8dcjqqxny4ooke8ppjmhgclsc2oc4rzhgepbvj5opump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "BLhG3Yk7JVDKkv1z3bPv7o1t2XnZMXAzpZmpvpnppump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Mine $XMR in your browser for $CPU rewards",
       "url": "https://dexscreener.com/solana/cpuxtvvnnvgdhpk1mhyv4cc6d1rfmhbf7xajcphf3ny"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "63ji3LxbkEmmkpersaCnAk9QdkTp7ymqpcq8vuW3pump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/63ji3lxbkemmkpersacnak9qdktp7ymqpcq8vuw3pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 90,
-      "priceBtc": 0.000026744589520023956
+      "priceBtc": 0.000026637344668099982
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "marketCapRank": 115,
-      "priceBtc": 9.63456288413607e-8
+      "marketCapRank": 112,
+      "priceBtc": 9.780201123449674e-8
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
-      "marketCapRank": 140,
-      "priceBtc": 0.000004277634296957726
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "marketCapRank": 36,
-      "priceBtc": 0.0032657861976476007
-    },
-    {
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "marketCapRank": 25,
-      "priceBtc": 0.00008966346147960563
-    },
-    {
-      "name": "Celestia",
-      "symbol": "TIA",
-      "marketCapRank": 101,
-      "priceBtc": 0.000007536315900831691
+      "marketCapRank": 139,
+      "priceBtc": 0.000004274381161544118
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015191044494431928
+      "priceBtc": 0.015198140943808065
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 726,
-      "priceBtc": 0.0010669538252236542
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 86,
+      "priceBtc": 0.00001020208183122487
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.0000123366792772047
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "marketCapRank": 36,
+      "priceBtc": 0.0032688551402894122
+    },
+    {
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "marketCapRank": 50,
+      "priceBtc": 0.0000054312828681873545
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "question: when an agent buys inference through the hosted gateway, which account does R8.4 credit, the enrolled wallet or the gateway's chan",
-      "url": "https://github.com/flop-labs/yellowpaper/issues/172",
-      "createdAt": "2026-10-19T11:11:25Z"
+      "title": "fix(ict,#5105): ICT-25 §5.2 — plafond saturant retiré (cap 80→1024), re-exec GPU-2 des deux bras N/I",
+      "url": "https://github.com/jsboige/CoursIA/pull/20377",
+      "createdAt": "2026-10-11T14:10:17Z"
     },
     {
-      "title": "erratum: the hosted edition ratifies an 85/15 fee split (D-0525) and block-reward unlock credit (D-0527) that mirror 70e691c, decisions/ and",
-      "url": "https://github.com/flop-labs/yellowpaper/issues/165",
-      "createdAt": "2026-10-16T18:26:31Z"
+      "title": "chore(deps): update dependency lucide-react to v1.61.0",
+      "url": "https://github.com/layertwo/groundwork/pull/182",
+      "createdAt": "2026-06-12T19:51:21Z"
     },
     {
-      "title": "ambiguity: R8.5/R8.6 give each account one cohort and one grant tier, but nothing says what an account active in two Era-T roles (miner and ",
-      "url": "https://github.com/flop-labs/yellowpaper/issues/167",
-      "createdAt": "2026-10-17T01:12:21Z"
+      "title": "Add rate limiting and fail-closed dedup to the USDC faucet",
+      "url": "https://github.com/Kalebtron1/Project-Vyn/issues/93",
+      "createdAt": "2026-10-18T01:11:43Z"
     },
     {
-      "title": "chore(deps): Bump the production-dependencies group with 89 updates",
-      "url": "https://github.com/Littlesheepxy/flowmail/pull/11",
-      "createdAt": "2026-10-05T06:16:06Z"
-    },
-    {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/support-and-care-africa/scea-website/pull/26",
-      "createdAt": "2026-07-14T01:53:51Z"
+      "title": "chore(deps): update dependency lucide-react to v1.61.0",
+      "url": "https://github.com/MarianiStudio/nexa-stack/pull/43",
+      "createdAt": "2026-09-14T11:42:29Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "Share a reply or a made file to WhatsApp, Messages and the rest",
+      "url": "https://github.com/sagarmainkar/odie/pull/34",
+      "createdAt": "2026-10-21T06:36:59Z"
     }
   ]
 }
