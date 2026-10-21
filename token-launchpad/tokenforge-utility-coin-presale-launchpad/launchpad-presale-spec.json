@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T03:11:36.198Z",
-  "latencyMs": 366,
+  "executedAt": "2026-10-21T03:20:16.025Z",
+  "latencyMs": 266,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #287: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #288: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52881474,
+    "liveBlockNumber": 52881734,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,40 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459827,
-    "baseMainnetTopPoolsVolume24hUsd": 176674,
+    "baseMainnetTopPoolsLiquidityUsd": 459823,
+    "baseMainnetTopPoolsVolume24hUsd": 176472,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9Mxu4MMPv4cdCnAUqMqGxHtopZZv756aM36CtZ34pump",
+        "description": "Official community takeover of the second Kimchi token. No dev team.",
+        "url": "https://dexscreener.com/solana/9mxu4mmpv4cdcnauqmqgxhtopzzv756am36ctz34pump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0xE3E8d64813f712aB0388AdB352eEBa573E1f7777",
+        "description": "For Binance Agent ID Holder",
+        "url": "https://dexscreener.com/bsc/0xe3e8d64813f712ab0388adb352eeba573e1f7777"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9dAxxKvYRxLoLwq3v72JzsyE2b3xvKawmkEwTKxcpump",
+        "description": "Get your Twitter aura analyzed.",
+        "url": "https://dexscreener.com/solana/9daxxkvyrxlolwq3v72jzsye2b3xvkawmkewtkxcpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3v83h8quvZFVF3pKGGDdFc2NsNArxnPqvP2fJ2z7pump",
+        "description": "Solana Miners is an idle mining game on Solana. Collect miners, send them underground to dig for ore, and use the $MINERS token to open boxes, upgrade your crew",
+        "url": "https://dexscreener.com/solana/3v83h8quvzfvf3pkggddfc2nsnarxnpqvp2fj2z7pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CMxRBRzZKVfHBbrpFesmsk6kshKnJdccCL8EES3jpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cmxrbrzzkvfhbbrpfesmsk6kshknjdcccl8ees3jpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xbe1fea20fcda1ce16572809d115b767b78fedec8",
@@ -51,36 +81,6 @@
         "tokenAddress": "DBFBpthRrPA8M52LeVk6kbS8H2ZUCWn1aJH6yJTGpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/dbfbpthrrpa8m52levk6kbs8h2zucwn1ajh6yjtgpump"
-      },
-      {
-        "chainId": "hyperevm",
-        "tokenAddress": "0x995B36d7e33680fc6Fa1Db6fA4dc8e475B5233A2",
-        "description": "FETTI is the token of Confetti, synthetic perpetuals on meme coins at up to 1000x, fully on-chain on Hyperliquid's HyperEVM. Stake FETTI and earn 20% of every t",
-        "url": "https://dexscreener.com/hyperevm/0x995b36d7e33680fc6fa1db6fa4dc8e475b5233a2"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Cx7iPk7Axz7pGbFqzm9znYdUJUoNM9rGYTcxYoqcpump",
-        "description": "Normie ripping let’s pair and create supply shock",
-        "url": "https://dexscreener.com/solana/cx7ipk7axz7pgbfqzm9znydujuonm9rgytcxyoqcpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Gk2tKMciwXsSZ67FdS817nzpqYjFvpUesbffCZ8ppump",
-        "description": "Clayton Kim , Kimchi's gov name, OG",
-        "url": "https://dexscreener.com/solana/gk2tkmciwxssz67fds817nzpqyjfvpuesbffcz8ppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4T8v5x2pqHXL5eu73JLB9jYbqKYNGoiz2NKHF4Bxpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4t8v5x2pqhxl5eu73jlb9jybqkyngoiz2nkhf4bxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CADGrfVuEaZtrHetktNPLVu5HFUNrN12hYCZRTTZpump",
-        "description": "Launch coins that onboard the next generation of traders. Tasks, bounties, and SOL rewards for bringing new people onchain.",
-        "url": "https://dexscreener.com/solana/cadgrfvueaztrhetktnplvu5hfunrn12hyczrttzpump"
       }
     ]
   },
