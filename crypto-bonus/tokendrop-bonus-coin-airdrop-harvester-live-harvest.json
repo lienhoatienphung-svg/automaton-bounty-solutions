@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T17:32:10.134Z",
-  "latencyMs": 1991,
+  "executedAt": "2026-10-21T17:44:09.843Z",
+  "latencyMs": 905,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #421: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #422: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "4xwPPTRf8WS1tWouCM1SFyQmo2nVs8DRUKzPQycNpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "The memory of the internet.\n\nWhere memes become legends, and legends become history.\n\nThe internet never forgets.",
+      "url": "https://dexscreener.com/solana/4xwpptrf8ws1twoucm1sfyqmo2nvs8drukzpqycnpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "trading terminal for robinhood chain with 0% fees",
       "url": "https://dexscreener.com/robinhood/0x061732dc141e0a2d37f5fa91cf5343f24064e60f"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "FrtbBAaSZksfh4oV46E7Pvb43QiiUmYLD3dcGS6gpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "The Polymarket API future market platform live. \n\nMeme + Utlity ----->$RIBBIT\n\n$RIBBIT now and use it to buy contracts & futures on every major event so you can",
-      "url": "https://dexscreener.com/solana/frtbbaaszksfh4ov46e7pvb43qiiumyld3dcgs6gpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 727,
-      "priceBtc": 3.204453081054e-7
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 539,
-      "priceBtc": 0.000002957719466786523
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 90,
-      "priceBtc": 0.0000259045315857495
+      "marketCapRank": 763,
+      "priceBtc": 2.8378592959784e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010195760918630476
+      "priceBtc": 0.000010235647559328897
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 539,
+      "priceBtc": 0.0000029827939091024904
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.765958075608938e-8
+      "priceBtc": 9.797731942059471e-8
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 90,
+      "priceBtc": 0.00002580656319174526
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "marketCapRank": 191,
-      "priceBtc": 0.0000033978630789474426
+      "priceBtc": 0.0000034205132531794454
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.0000614902521106
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 717,
-      "priceBtc": 0.001072071450241377
-    },
-    {
-      "name": "AltLayer",
-      "symbol": "ALT",
-      "marketCapRank": 286,
-      "priceBtc": 1.7151696967488333e-7
+      "marketCapRank": 709,
+      "priceBtc": 0.001081527005716414
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "feat(arcade): add weekly GC allowance on the existing design",
+      "url": "https://github.com/0xMiden/wallet/pull/1693",
+      "createdAt": "2026-10-21T17:32:18Z"
+    },
+    {
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
+    },
+    {
+      "title": "Add send trust line token tutorial + remove old modular version",
+      "url": "https://github.com/XRPLF/xrpl-dev-portal/pull/3732",
+      "createdAt": "2026-06-26T15:45:22Z"
+    },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "feat(xrpl): the XRPL account as an external asset, xrpl-testnet a scheme on it",
-      "url": "https://github.com/justmoon/dassie/pull/252",
-      "createdAt": "2026-10-21T17:31:25Z"
+      "title": "Add SBC on Radius as an x402 payment network",
+      "url": "https://github.com/radius-workshop/bx402/pull/1",
+      "createdAt": "2026-10-21T17:40:12Z"
     },
     {
-      "title": "feat(menu): add What Can Bloom Do?, a field guide to every flower, and a first-launch card",
-      "url": "https://github.com/s3anstanz/Bloom/pull/27",
-      "createdAt": "2026-10-21T17:09:54Z"
-    },
-    {
-      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
-      "url": "https://github.com/tehki/myaso/issues/360",
-      "createdAt": "2026-10-20T17:25:33Z"
-    },
-    {
-      "title": "Showcase plan 7: traps district",
-      "url": "https://github.com/lorecrafting/lokacore/pull/418",
-      "createdAt": "2026-10-21T15:29:52Z"
-    },
-    {
-      "title": "Add the products level, the swap, and claiming when AutoMaxi's keeper is late",
-      "url": "https://github.com/leo-klima-agents/metadex.cafe/pull/15",
-      "createdAt": "2026-10-21T16:45:14Z"
+      "title": "[TASK: Medicine] Clinical Protocol-Constrained Inverse Treatment Planning for Deliverable IMRT/VMAT",
+      "url": "https://github.com/harbor-framework/terminal-bench-science/pull/942",
+      "createdAt": "2026-08-12T17:26:47Z"
     }
   ]
 }
