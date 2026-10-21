@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T21:03:46.129Z",
-  "latencyMs": 921,
+  "executedAt": "2026-10-21T21:16:36.925Z",
+  "latencyMs": 786,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #449: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #450: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+      "boostAmount": 100,
+      "totalBoostAmount": 200,
+      "description": "The most anticipated game in history. One cat. Nine lives. Zero concerns. $GATO",
+      "url": "https://dexscreener.com/solana/hsprhxbrgivaqdrf3tnknuzztax9juspgmfdakk6pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "7CZWZbDDnai4yCNGYAW1KSYB6htoDNE273g72FEapump",
       "boostAmount": 50,
       "totalBoostAmount": 50,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Developed by @yhbryankimiq the World's Highest IQ Record Holder, in cooperation with World Memory Championships, under an official signed agreement.",
       "url": "https://dexscreener.com/solana/hmyd9tosnuxunhmq7pxmoeprvblbbja3jbfydq6upump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "BLhG3Yk7JVDKkv1z3bPv7o1t2XnZMXAzpZmpvpnppump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/blhg3yk7jvdkkv1z3bpv7o1t2xnzmxazpzmpvpnppump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 747,
-      "priceBtc": 3.0695041251510677e-7
+      "marketCapRank": 746,
+      "priceBtc": 2.9438626641807496e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009814031383318419
+      "priceBtc": 0.000009835761383889204
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 85,
+      "priceBtc": 0.000028159423643253035
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.727849286150157e-8
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 86,
-      "priceBtc": 0.000027637625158736193
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 80,
-      "priceBtc": 0.00004515379445393318
+      "priceBtc": 9.711010569148899e-8
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006220430396063169
+      "priceBtc": 0.0000622722548026776
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
       "marketCapRank": 531,
-      "priceBtc": 0.0000030236360091229958
+      "priceBtc": 0.0000030276443484120777
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.015889000017804564
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 80,
+      "priceBtc": 0.0000455414400492058
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 29,
+      "priceBtc": 0.00001232177580985915
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(bridge): refuse a bridge-in past the document's balance ceiling",
-      "url": "https://github.com/0xMiden/wallet/pull/1687",
-      "createdAt": "2026-10-21T15:45:48Z"
+      "title": "feat(connector): [Adyen] add 10 flows (Authorize, PSync, Capture, Void, Refund, RSync, ...)",
+      "url": "https://github.com/juspay/hyperswitch-prism/pull/2553",
+      "createdAt": "2026-10-19T05:17:08Z"
     },
     {
-      "title": "[TASK: Physics] generative-diphoton-search: Generative data-driven analysis at the LHC",
-      "url": "https://github.com/harbor-framework/terminal-bench-science/pull/1258",
-      "createdAt": "2026-08-16T07:22:42Z"
+      "title": "feat(payments): multi-asset intents and patient-signed prepare",
+      "url": "https://github.com/DocForum/docforum-core/pull/160",
+      "createdAt": "2026-10-19T10:17:13Z"
     },
     {
-      "title": "contracts: implement COPRA-001 (v2 positions, forward-priced redemption, liquidation)",
-      "url": "https://github.com/bytesbrains/copra/issues/97",
-      "createdAt": "2026-10-18T13:44:26Z"
+      "title": "feat(frontend): M3 guarded buy with submitted / mined / indexed states",
+      "url": "https://github.com/yuddy-s/AC_ON-esports-prediction-market/pull/20",
+      "createdAt": "2026-10-21T20:25:21Z"
     },
     {
-      "title": "[TASK: Statistics] Layer-Aware Online Influence under Adaptive Optimization",
-      "url": "https://github.com/harbor-framework/terminal-bench-science/pull/1247",
-      "createdAt": "2026-08-16T04:37:34Z"
+      "title": "security(program): refund-only settlement, join terms, layout padding; retire the web app",
+      "url": "https://github.com/davigiroux/safenudge.xyz/pull/103",
+      "createdAt": "2026-10-20T22:02:27Z"
     },
     {
-      "title": "Add widgets, workspaces, badges, app menus and PrimoDock-style features",
-      "url": "https://github.com/soaresnro/kosmodock/pull/9",
-      "createdAt": "2026-10-21T17:22:28Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
-      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
-      "createdAt": "2026-10-11T10:45:50Z"
+      "title": "Testnet container-package rehearsal on a hosted runner, part 1: bring-up, identity, first tx, gateway limits, faucet guard (no captcha)",
+      "url": "https://github.com/ristik/bft-core/pull/747",
+      "createdAt": "2026-10-21T19:23:05Z"
     }
   ]
 }
