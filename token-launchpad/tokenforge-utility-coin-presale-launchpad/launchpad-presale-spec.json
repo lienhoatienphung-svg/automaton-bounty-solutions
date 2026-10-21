@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T15:26:06.145Z",
-  "latencyMs": 420,
+  "executedAt": "2026-10-21T15:27:48.455Z",
+  "latencyMs": 350,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #400: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
+  "workTitle": "Delivery Sprint #401: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52903509,
-    "liveGasPriceGwei": 0.0062,
+    "liveBlockNumber": 52903560,
+    "liveGasPriceGwei": 0.0061,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459826,
-    "baseMainnetTopPoolsVolume24hUsd": 138907,
+    "baseMainnetTopPoolsVolume24hUsd": 138850,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0xdA8eac0F4104051a0865899918B266D879a37347",
+        "description": "Waymark is an independent crypto wallet map. Compare 22 self-custody wallets across 21 chains: supported networks, in-app cross-chain swaps, fees and security h",
+        "url": "https://dexscreener.com/bsc/0xda8eac0f4104051a0865899918b266d879a37347"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "7Ge2KHuJLgMUs4YBq1wjENAYZiGnpZXK3dC85JiuFUND",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/7ge2khujlgmus4ybq1wjenayzignpzxk3dc85jiufund"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x619D6736FDABD613e36e9C0bAF078759F6f8FBAC",
@@ -69,18 +81,6 @@
         "tokenAddress": "2iZ5QFMkaQmweT2xnvAA6co4TAnDYT9jqk7NXKCyghCX",
         "description": "Meet Alpen, the official mascot of Alpenglow",
         "url": "https://dexscreener.com/solana/2iz5qfmkaqmwet2xnvaa6co4tandyt9jqk7nxkcyghcx"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7uCYgyuNRWTTuReNnBrs9FiNPoiX2tkUnKy77hjcpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7ucygyunrwtturennbrs9finpoix2tkunky77hjcpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GLCR8RhUCJBZ4NxrTvK9sQ6ochbk4hSGWDAN73Chpump",
-        "description": "SOLANA ALPENGLOW JUST PULLED THEIR OWN GOBLINCOIN AND NOBODY NOTICED\n\nFor some reason, Solana has been OBSESSED with APPLES to represent Alpenglow's insane 150m",
-        "url": "https://dexscreener.com/solana/glcr8rhucjbz4nxrtvk9sq6ochbk4hsgwdan73chpump"
       }
     ]
   },
