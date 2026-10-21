@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-21T02:07:15.793Z",
-  "latencyMs": 1403,
+  "executedAt": "2026-10-21T02:16:18.120Z",
+  "latencyMs": 900,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #277: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #278: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "Fabric link-short hold: one ladder at hold start, then the power cycle (spec 04 I83)",
-          "url": "https://github.com/tenstorrent/tt-device-mcp/pull/126",
-          "repositoryUrl": "https://api.github.com/repos/tenstorrent/tt-device-mcp",
-          "updatedAt": "2026-10-21T02:07:10Z"
-        },
-        {
-          "title": "feat(console): jobs reads as GET procedures; job visibility follows project visibility (#6121)",
-          "url": "https://github.com/alethialabs-io/alethialabs/pull/6191",
-          "repositoryUrl": "https://api.github.com/repos/alethialabs-io/alethialabs",
-          "updatedAt": "2026-10-21T02:07:12Z"
-        },
-        {
-          "title": "[V3-ENV-01] Qualify unattended provisioned execution and ephemeral storage",
-          "url": "https://github.com/FS-GG/.github/issues/4650",
-          "repositoryUrl": "https://api.github.com/repos/FS-GG/.github",
-          "updatedAt": "2026-10-21T02:07:09Z"
-        },
-        {
-          "title": "[Execution] 图片目标语言自动翻译、人工确认与计划版本冻结",
-          "url": "https://github.com/qq550723504/task-processor/issues/840",
-          "repositoryUrl": "https://api.github.com/repos/qq550723504/task-processor",
-          "updatedAt": "2026-10-21T02:07:09Z"
-        },
-        {
-          "title": "fix(net): a stalled subscriber holds one parked group per subscription",
-          "url": "https://github.com/moq-dev/moq/pull/6140",
-          "repositoryUrl": "https://api.github.com/repos/moq-dev/moq",
-          "updatedAt": "2026-10-21T02:07:08Z"
-        },
-        {
-          "title": "test: create every test account through seed_user (C1, ARCH-02 prep)",
-          "url": "https://github.com/impresspress/impresspress/pull/231",
-          "repositoryUrl": "https://api.github.com/repos/impresspress/impresspress",
-          "updatedAt": "2026-10-21T02:07:07Z"
-        },
-        {
-          "title": "Dependency Dashboard",
-          "url": "https://github.com/googlecloudrobotics/core/issues/931",
-          "repositoryUrl": "https://api.github.com/repos/googlecloudrobotics/core",
-          "updatedAt": "2026-10-21T02:07:07Z"
-        },
-        {
-          "title": "ci(release): gated, tokenless npm publish + workflow_dispatch release path",
-          "url": "https://github.com/klaviyo/klaviyo-expo-plugin/pull/134",
-          "repositoryUrl": "https://api.github.com/repos/klaviyo/klaviyo-expo-plugin",
-          "updatedAt": "2026-10-21T02:07:07Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
