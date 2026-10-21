@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T09:55:40.832Z",
-  "latencyMs": 496,
+  "executedAt": "2026-10-21T10:07:21.109Z",
+  "latencyMs": 393,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #353: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #354: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52893596,
+    "liveBlockNumber": 52893946,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 143913,
+    "baseMainnetTopPoolsVolume24hUsd": 141394,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9yxQvtqzsdHay96y7kxE8ikrGdi2FnytaCmMr9c9pump",
+        "description": "Shell Shock is a psychedelic snail hauling his shell overhead, leaking slime and panic through a world of loud colors and bad decisions.",
+        "url": "https://dexscreener.com/solana/9yxqvtqzsdhay96y7kxe8ikrgdi2fnytacmmr9c9pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9jS7dfqyfeLytAs4Vw1wkmBt4fsjA78qnCtL1Erzpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9js7dfqyfelytas4vw1wkmbt4fsja78qnctl1erzpump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x113f159b02EDC15732a31f49916D9dCCe9a07777",
+        "description": "新模式🔥BNCQ2.0 是由技术员B本聪亲自发行带队，打造当年的盘古生态，交易所看中本聪，链上看币本聪，B本聪曾经发行四个币，BNCQ，0.01到5美金500倍，BBG，200倍，BNBH 200倍，BNBLP 100倍，由于BNCQ机制问题：1，中转销毁地址是链上自动生成的，被黑客攻击。2，池子太小，到5美金 池子",
+        "url": "https://dexscreener.com/bsc/0x113f159b02edc15732a31f49916d9dcce9a07777"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "8fuSQjn3dAK9u6Eeou3pugKunXe1azyY4fdnCN4pump",
+        "description": "The first\nprivate\nterminal.",
+        "url": "https://dexscreener.com/solana/8fusqjn3dak9u6eeou3pugkunxe1azyy4fdncn4pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "EbNZ1myJ4BfY3PJFskRywX2AcFD7HyQZ5EX9YjYkpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "F8H5xJsCSbDrRR6Wzvm7vgbBXMsJ7hG5XqK11LLjpump",
         "description": "Buckme - The Digital Currency of Vice City\n\nPaired to Dacity The Offiicial GTA VI Memecoin",
         "url": "https://dexscreener.com/solana/f8h5xjscsbdrrr6wzvm7vgbbxmsj7hg5xqk11lljpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BAkdiNu6qqYtQ3knyVStkJgZybbgyrhDgUXjwZLa8x4i",
-        "description": "The inu is BAKD\n\nLaunched on bakd.family",
-        "url": "https://dexscreener.com/solana/bakdinu6qqytq3knyvstkjgzybbgyrhdguxjwzla8x4i"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0x11e87D97A34f8000F710d054e4EaC30011A3ac8d",
-        "description": "TapeOut协议首款机器人游戏",
-        "url": "https://dexscreener.com/bsc/0x11e87d97a34f8000f710d054e4eac30011a3ac8d"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3B9UFDVzNafK3izskt6TwAZ7sVYnm1vYW4RXqULhpump",
-        "description": "SUPRAI is designed as an open economic infrastructure for AI agents to access services, coordinate tasks, exchange value, and participate in the emerging machin",
-        "url": "https://dexscreener.com/solana/3b9ufdvznafk3izskt6twaz7svynm1vyw4rxqulhpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x688436a0c87d23cd33ee7b1965c090192df19c62",
-        "description": "$BROVE is the token of BroveMarkets, a read-only market and hook intelligence terminal for Uniswap v4 on Robinhood Chain. Discover pools, follow on-chain swaps ",
-        "url": "https://dexscreener.com/robinhood/0x688436a0c87d23cd33ee7b1965c090192df19c62"
       }
     ]
   },
