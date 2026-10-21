@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T08:01:53.604Z",
-  "latencyMs": 915,
+  "executedAt": "2026-10-21T08:15:51.417Z",
+  "latencyMs": 886,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #339: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #340: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 91,
-      "priceBtc": 0.00002647775194079137
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 112,
-      "priceBtc": 9.832213939570902e-8
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 141,
-      "priceBtc": 0.00000422327404325597
+      "marketCapRank": 89,
+      "priceBtc": 0.00002669794330305165
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006275643754196836
+      "priceBtc": 0.0000624446311917758
     },
     {
       "name": "Sui",
       "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000012471214620154002
+      "marketCapRank": 29,
+      "priceBtc": 0.000012388243783052365
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.015320556896647014
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 141,
+      "priceBtc": 0.0000042011546385283805
     },
     {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "marketCapRank": 71,
-      "priceBtc": 0.00031273872741637975
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "marketCapRank": 73,
+      "priceBtc": 0.000003864247656991501
     },
     {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 85,
-      "priceBtc": 0.000010186296866444828
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 112,
+      "priceBtc": 9.743249132668464e-8
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009805897900781251
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 725,
+      "priceBtc": 0.001067598492425831
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(cosmos): add Cosmos SDK sign doc parser",
-      "url": "https://github.com/anchorageoss/visualsign-parser/pull/579",
-      "createdAt": "2026-10-21T08:00:53Z"
+      "title": "CHORE: Version packages",
+      "url": "https://github.com/4thtech/agentlink/pull/324",
+      "createdAt": "2026-10-20T08:39:10Z"
     },
     {
-      "title": "Contract pattern-puzzle: actually pay rewards to winners",
-      "url": "https://github.com/theblockcade/stellarcade/issues/1478",
-      "createdAt": "2026-10-21T07:57:31Z"
+      "title": "[ANT-290] Sandbox MVP DevOps: faucet gate flag + abuse alert + sandbox SLA docs",
+      "url": "https://github.com/peridotvault/peridot-id/pull/57",
+      "createdAt": "2026-10-21T08:15:38Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "🤝 Agent coordination channel (standing, vol. 2)",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
+      "createdAt": "2026-09-20T06:23:41Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
+      "url": "https://github.com/Dillen198/bfnext/pull/1",
+      "createdAt": "2026-01-19T07:41:07Z"
     },
     {
-      "title": "feat: add the referral Perks tab (OK-65135)",
-      "url": "https://github.com/OneKeyHQ/app-monorepo/pull/14024",
-      "createdAt": "2026-10-20T10:20:47Z"
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/56",
+      "createdAt": "2026-10-21T02:03:49Z"
     },
     {
-      "title": "build: M1 local stack, testnet contract replay and plan decisions",
-      "url": "https://github.com/shanepreater/gajufreight/pull/180",
-      "createdAt": "2026-10-21T07:46:03Z"
+      "title": "fix: build with Go 1.26.10 and bump certifi for the eMudhra CA compromise",
+      "url": "https://github.com/ethpandaops/panda/pull/382",
+      "createdAt": "2026-10-21T07:49:01Z"
     }
   ]
 }
