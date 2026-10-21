@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T04:55:24.859Z",
-  "latencyMs": 774,
+  "executedAt": "2026-10-21T05:05:04.997Z",
+  "latencyMs": 855,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #309: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #310: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "6hvs6yMz32JsNwof7pQige8aivr6jtd7JVYKkANJpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "I MEMED MYSELF! I AM CODEWORD CRAZY ON TIKTOK! LIVESTREAMS ON PUMP.FUN AND TIKTOK WITH CRYPTO NEWS, POWER LIFTING AT THE GYM, CALL INS, AND REACTIONS! NOW LET’S",
+      "url": "https://dexscreener.com/solana/6hvs6ymz32jsnwof7pqige8aivr6jtd7jvykkanjpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "6KjWBTqdRhD7XKn7poB8DfHgSWZkakPuea32jsPweRpS",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,97 +210,89 @@
       "totalBoostAmount": 10,
       "description": "Connecting the internet again with dickbutt",
       "url": "https://dexscreener.com/solana/8qtbrc9d3bezycwzbfuqbnswjgte7ckrz7hwcn81pump"
-    },
-    {
-      "chainId": "hyperevm",
-      "tokenAddress": "0x995B36d7e33680fc6Fa1Db6fA4dc8e475B5233A2",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "FETTI is the token of Confetti, synthetic perpetuals on meme coins at up to 1000x, fully on-chain on Hyperliquid's HyperEVM. Stake FETTI and earn 20% of every t",
-      "url": "https://dexscreener.com/hyperevm/0x995b36d7e33680fc6fa1db6fa4dc8e475b5233a2"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 114,
-      "priceBtc": 9.661267148730884e-8
-    },
-    {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 91,
-      "priceBtc": 0.00002636111690733945
+      "priceBtc": 0.000026534656984818928
     },
     {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 28,
-      "priceBtc": 0.000012366030164045057
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 114,
+      "priceBtc": 9.65458918320496e-8
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00006063501477827442
+      "priceBtc": 0.00006056285134108903
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 726,
-      "priceBtc": 0.0010676051161059791
+      "priceBtc": 0.0010657429465137562
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
-      "marketCapRank": 139,
-      "priceBtc": 0.000004294295857611851
+      "marketCapRank": 138,
+      "priceBtc": 0.000004319294247677677
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "marketCapRank": 28,
+      "priceBtc": 0.000012366274962377772
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.015202504910298982
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.000010385429031321505
-    },
-    {
-      "name": "Capybobo",
-      "symbol": "PYBOBO",
-      "marketCapRank": 714,
-      "priceBtc": 9.05933408569783e-9
+      "priceBtc": 0.000010415228349017581
     }
   ],
   "activeAirdropAndFaucetQuests": [
-    {
-      "title": "[AP-CEO] ARCANA SURVIVOR — Parallel Team & Integration Mission",
-      "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/issues/21",
-      "createdAt": "2026-10-20T01:22:40Z"
-    },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
+      "title": "Task 3 (ledger-016): sysSide, escrow, accruals, cpPolicy, E-16, E-17 INV-LED-027, QA pr3i",
+      "url": "https://github.com/Aiouyn/trading-game/pull/6",
+      "createdAt": "2026-10-20T23:44:56Z"
     },
     {
-      "title": "chore(ui-deps): bump the ui group across 1 directory with 12 updates",
-      "url": "https://github.com/gripmock/grpctestify-rust/pull/150",
-      "createdAt": "2026-09-28T04:56:13Z"
+      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
+      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
+      "createdAt": "2026-09-23T12:34:40Z"
     },
     {
-      "title": "P37: BULK paper qualification and native fill compatibility",
-      "url": "https://github.com/arnabnandikgp/cinder/pull/83",
-      "createdAt": "2026-10-20T15:32:06Z"
+      "title": "Restore token dashboards and authorize ELECTRIC pot claims",
+      "url": "https://github.com/CyberAshven/pickaxe-miner/pull/65",
+      "createdAt": "2026-10-19T17:45:16Z"
     },
     {
-      "title": "ux(bot): 4 clear leaderboard periods and compact Telegram panels",
-      "url": "https://github.com/jaavid/Mustache/pull/49",
-      "createdAt": "2026-10-20T16:29:15Z"
+      "title": "Badges: six new kinds (languages, calls, Echo, kind words, people helped, first replies)",
+      "url": "https://github.com/langx/langx/pull/1897",
+      "createdAt": "2026-10-21T04:02:02Z"
+    },
+    {
+      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
+      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
+      "createdAt": "2026-09-09T13:01:57Z"
     }
   ]
 }
