@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T10:55:05.960Z",
-  "latencyMs": 939,
+  "executedAt": "2026-10-21T10:56:27.479Z",
+  "latencyMs": 904,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #364: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #365: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(frontend,backend): add Friendbot URL builder, address shortener, request id middleware, payment record mapper",
+      "url": "https://github.com/Kitewell-lab/Kitewell/pull/328",
+      "createdAt": "2026-10-21T10:56:17Z"
+    },
+    {
+      "title": "Update dependency lucide-react to v1.61.0",
+      "url": "https://github.com/voku/Lars_Moelleken_CV/pull/53",
+      "createdAt": "2026-04-23T18:12:14Z"
+    },
+    {
+      "title": "chore(deps): update dependency lucide-react to v1",
+      "url": "https://github.com/Khushal-ag/react-template-viteJs/pull/113",
+      "createdAt": "2026-03-30T01:38:27Z"
+    },
+    {
       "title": "fix(deps): update dependency lucide-react to v1",
       "url": "https://github.com/thegalactiks/astro-website-template/pull/76",
       "createdAt": "2026-03-23T14:17:01Z"
@@ -278,21 +293,6 @@
       "title": "chore(deps): update dependency lucide-react to v1 (master)",
       "url": "https://github.com/rajput-hemant/react-template-vite/pull/257",
       "createdAt": "2026-03-30T01:49:17Z"
-    },
-    {
-      "title": "AppWorld eval REST: MIPROv2 vs seed (gpt-oss-120b)",
-      "url": "https://github.com/skillberry-ai/cap-evolve/issues/898",
-      "createdAt": "2026-10-20T19:52:37Z"
-    },
-    {
-      "title": "chore: bump NanoBot submodule and refresh command stats",
-      "url": "https://github.com/therealjustsnow/portfolio-/pull/40",
-      "createdAt": "2026-07-15T07:52:16Z"
-    },
-    {
-      "title": "Wallet interoperability: bounded sync and portable recovery (#544)",
-      "url": "https://github.com/bsv-blockchain/ts-stack/pull/569",
-      "createdAt": "2026-09-23T12:34:40Z"
     }
   ]
 }
