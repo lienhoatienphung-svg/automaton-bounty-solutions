@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T20:00:50.163Z",
-  "latencyMs": 838,
+  "executedAt": "2026-10-21T20:15:38.475Z",
+  "latencyMs": 1482,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #441: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #442: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,30 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x44082d239727B12A5A3b3EDf147b3c7bEA80332C",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Quoro is the first AI DEX on Robinhood Chain. Paste any token address to see its Data score from 1 to 10 and a plain explanation from Quoro AI before you buy, t",
+      "url": "https://dexscreener.com/robinhood/0x44082d239727b12a5a3b3edf147b3c7bea80332c"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "HCNU8p6zbaTpTSVMx7D3j4c9dJySmsgMw6oKmDxSpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Your trading buddy on the desktop. Candy watches your bags, reacts to the market, tracks your PnL and reminds you of your own rules.",
+      "url": "https://dexscreener.com/solana/hcnu8p6zbatptsvmx7d3j4c9djysmsgmw6okmdxspump"
+    },
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0x9A7C661Be578e50927268fb770146D701b3368e7",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "INVARA Core is building infrastructure for synthetic equities on Robinhood Chain, connecting traditional market intelligence with on-chain execution.",
+      "url": "https://dexscreener.com/robinhood/0x9a7c661be578e50927268fb770146d701b3368e7"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "8PdrbUMXULuPjSgcdJHLwphQeSmPXYdneWtFF8i6pump",
       "boostAmount": 30,
@@ -186,30 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Hold $BRICS on Robinhood Chain and you get a tower in the City. The more $BRICS you hold, the taller your tower. Sell and it shrinks. That is the whole idea.",
       "url": "https://dexscreener.com/robinhood/0x64187573c2af0a6f1fcd76d48dee2c6a8a981111"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "Fe6KyLPHWerbHAYG7AFQk3LwgyQ4tViDzkfkCi5qpump",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "Valtrix Vault\n\nPROTECT VALUE.\nEMPOWER COMMUNITIES.\nOne Vault. Every Community. Your Token.\n\nVALTRIX is developing a community-powered launch vault on Solana. Th",
-      "url": "https://dexscreener.com/solana/fe6kylphwerbhayg7afqk3lwgyq4tvidzkfkci5qpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xa157E2fcfc2b0BF49113686Ab93BE152047Bc2A2",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "The Kid from the Screen\n\nPixBoy was born in 1995, in the early days of the internet. One day he slipped into an old computer, and the screen went dark. He staye",
-      "url": "https://dexscreener.com/robinhood/0xa157e2fcfc2b0bf49113686ab93be152047bc2a2"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "4xwPPTRf8WS1tWouCM1SFyQmo2nVs8DRUKzPQycNpump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "The memory of the internet.\n\nWhere memes become legends, and legends become history.\n\nThe internet never forgets.",
-      "url": "https://dexscreener.com/solana/4xwpptrf8ws1twoucm1sfyqmo2nvs8drukzpqycnpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 723,
-      "priceBtc": 3.089537284392e-7
+      "marketCapRank": 752,
+      "priceBtc": 2.956014444592e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 87,
-      "priceBtc": 0.000009933043807127898
+      "priceBtc": 0.000009934120104883917
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 80,
-      "priceBtc": 0.000046329277421796605
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 88,
-      "priceBtc": 0.00002759563031459552
+      "priceBtc": 0.000046514811564048246
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
       "marketCapRank": 137,
-      "priceBtc": 0.000004397792214333391
+      "priceBtc": 0.000004284199213719968
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 88,
+      "priceBtc": 0.00002739481709452086
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006284709444204546
+      "priceBtc": 0.00006260875879108087
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 529,
-      "priceBtc": 0.0000030644246043124587
+      "marketCapRank": 530,
+      "priceBtc": 0.000003060930234413933
     },
     {
       "name": "Monero",
       "symbol": "XMR",
       "marketCapRank": 13,
-      "priceBtc": 0.007228005046194383
+      "priceBtc": 0.007264639923061095
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
-      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
-      "createdAt": "2026-10-07T00:07:47Z"
+      "title": "feat: remove strict genesis checks",
+      "url": "https://github.com/raylsnetwork/axyl/pull/315",
+      "createdAt": "2026-10-21T20:04:03Z"
     },
     {
-      "title": "compute: accept USDC on Base alongside Solana",
-      "url": "https://github.com/open-covenant/covenant/pull/373",
-      "createdAt": "2026-10-21T19:59:37Z"
+      "title": "fix(wallet): keep the mnemonic in memory only, ISMOS storage, and Breez SDK 0.26",
+      "url": "https://github.com/LibreriadeSatoshi/breeze-learning-wallet/pull/73",
+      "createdAt": "2026-10-21T20:13:55Z"
     },
     {
-      "title": "[TASK: Medicine] Add lis-kg-swap-contamination",
-      "url": "https://github.com/harbor-framework/terminal-bench-science/pull/582",
-      "createdAt": "2026-07-14T22:41:04Z"
+      "title": "Full live sweep of 2.7.3: 3 lessons break later ones in a shared home, 2 fail alone",
+      "url": "https://github.com/mcp-tool-shop-org/xrpl-lab/issues/28",
+      "createdAt": "2026-10-21T20:15:16Z"
     },
     {
-      "title": "Mac: keep pasteboard writes on this Mac, and keep a lifetime license working offline",
-      "url": "https://github.com/backant-io/shepetal/pull/263",
-      "createdAt": "2026-10-21T20:00:14Z"
+      "title": "feat: fix the vLLM DP path",
+      "url": "https://github.com/NVIDIA-NeMo/RL/pull/2517",
+      "createdAt": "2026-05-18T04:46:25Z"
     },
     {
-      "title": "build(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/neuland-ingolstadt/neuland-website/pull/66",
-      "createdAt": "2026-08-23T20:12:13Z"
+      "title": "security(program): refund-only settlement, join terms, layout padding; retire the web app",
+      "url": "https://github.com/davigiroux/safenudge.xyz/pull/103",
+      "createdAt": "2026-10-20T22:02:27Z"
     },
     {
-      "title": "release: 13.54.0",
-      "url": "https://github.com/MetaMask/metamask-extension/pull/47119",
-      "createdAt": "2026-10-15T19:03:39Z"
+      "title": "feat - BFE-265 - Compounded reward wizard and the staked-token picker",
+      "url": "https://github.com/bze-alphateam/bze-frontend-apps/pull/174",
+      "createdAt": "2026-10-21T20:14:18Z"
     }
   ]
 }
