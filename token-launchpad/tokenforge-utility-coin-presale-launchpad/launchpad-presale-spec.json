@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T09:00:24.673Z",
-  "latencyMs": 422,
+  "executedAt": "2026-10-21T09:02:23.423Z",
+  "latencyMs": 336,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #344: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #345: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52891938,
+    "liveBlockNumber": 52891998,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 151331,
+    "baseMainnetTopPoolsVolume24hUsd": 151340,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x688436a0c87d23cd33ee7b1965c090192df19c62",
+        "description": "$BROVE is the token of BroveMarkets, a read-only market and hook intelligence terminal for Uniswap v4 on Robinhood Chain. Discover pools, follow on-chain swaps ",
+        "url": "https://dexscreener.com/robinhood/0x688436a0c87d23cd33ee7b1965c090192df19c62"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "4gk3n1iCFj2n84MkuRenGHDRZHBRvXy81vLa35krpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/4gk3n1icfj2n84mkurenghdrzhbrvxy81vla35krpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8FmvTvUpHoNwW19dr4eGaWLXKcZqX2cRbuZ8VKaVpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x0e8d9a881a413a0959f5110d5a65c72420035b7b",
         "description": "Seqlude is a privacy-focused AI workspace designed for unrestricted exploration, giving users greater control over their conversations without unnecessary track",
         "url": "https://dexscreener.com/robinhood/0x0e8d9a881a413a0959f5110d5a65c72420035b7b"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7u2vv7Ufdixk1oiyECECRX2yNRivM8hZTNSH4yGVpaid",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7u2vv7ufdixk1oiyececrx2ynrivm8hztnsh4ygvpaid"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3qrHwZchJwYc4rRCqDoqXyKPpW3G4AyjfLqYH8rXpump",
-        "description": "Anza engineers Solana, shipping the software that pushes the boundaries of blockchain performance and scale.",
-        "url": "https://dexscreener.com/solana/3qrhwzchjwyc4rrcqdoqxykppw3g4ayjflqyh8rxpump"
       }
     ]
   },
