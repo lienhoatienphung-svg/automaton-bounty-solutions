@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T05:10:23.650Z",
-  "latencyMs": 776,
+  "executedAt": "2026-10-21T05:20:33.586Z",
+  "latencyMs": 265,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #309: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #310: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52885038,
+    "liveBlockNumber": 52885343,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459833,
-    "baseMainnetTopPoolsVolume24hUsd": 148462,
+    "baseMainnetTopPoolsVolume24hUsd": 148571,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "7KBuwAcjRazXBFVdVtYegX5mTvHK2zjwJedgZDe8pump",
+        "description": "tribute to php.",
+        "url": "https://dexscreener.com/solana/7kbuwacjrazxbfvdvtyegx5mtvhk2zjwjedgzde8pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "fUP4mNub1ipk5xLxyvdHZoXtVuR4Yj9PyTcVQPPpump",
         "description": "Pepe final boss by Real $Pepe Dev ( 10 billion ath )",
         "url": "https://dexscreener.com/solana/fup4mnub1ipk5xlxyvdhzoxtvur4yj9pytcvqpppump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6Ez7jwuUoTr81akzQsBPjfGA67nRWoePEQUsKCUfpump",
-        "description": "Ivy the Puppy of the year",
-        "url": "https://dexscreener.com/solana/6ez7jwuuotr81akzqsbpjfga67nrwoepequskcufpump"
       }
     ]
   },
