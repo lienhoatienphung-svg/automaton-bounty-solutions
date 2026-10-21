@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T01:05:32.284Z",
-  "latencyMs": 895,
+  "executedAt": "2026-10-21T01:14:56.610Z",
+  "latencyMs": 252,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #263: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #264: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52877692,
+    "liveBlockNumber": 52877974,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459828,
-    "baseMainnetTopPoolsVolume24hUsd": 184682,
+    "baseMainnetTopPoolsVolume24hUsd": 183537,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xD81C003788fc9d667a58CAe060F039d8FDC4e995",
+        "description": "Kimchi",
+        "url": "https://dexscreener.com/robinhood/0xd81c003788fc9d667a58cae060f039d8fdc4e995"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FkdQVsktbYTRCD5vYEuQxnQiJqftxcvp9cjkVgp5pump",
+        "description": "Just A Chrome Guy",
+        "url": "https://dexscreener.com/solana/fkdqvsktbytrcd5vyeuqxnqijqftxcvp9cjkvgp5pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7PXnZncuETQ3Q1SQkfAv7HM2WBUsRjFN3FyYxTFrzazu",
@@ -69,18 +81,6 @@
         "tokenAddress": "5XUMqQC8cqo2SYJE3G9Fu1Gw4qoNAza9kMhxNKRBnW62",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/5xumqqc8cqo2syje3g9fu1gw4qonaza9kmhxnkrbnw62"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2K4oXpvgAV8KPgGzay2szGQK5thG9dZW3NswpL7Epump",
-        "description": "useful software, made public together.",
-        "url": "https://dexscreener.com/solana/2k4oxpvgav8kpggzay2szgqk5thg9dzw3nswpl7epump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5Ym3Cwvzi8AMXdy65ocbNm7VJUXh4BV6JuCbBKAoBAGS",
-        "description": "Official pokemon account on X claimed fees from bags",
-        "url": "https://dexscreener.com/solana/5ym3cwvzi8amxdy65ocbnm7vjuxh4bv6jucbbkaobags"
       }
     ]
   },
