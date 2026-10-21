@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-21T04:34:08.139Z",
-  "latencyMs": 1114,
+  "executedAt": "2026-10-21T04:35:24.384Z",
+  "latencyMs": 786,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #304: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #305: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "fix(auth): make DI token exchange and SSO endpoints domain-aware for CN",
-          "url": "https://github.com/cyberjunky/python-garminconnect/pull/475",
-          "repositoryUrl": "https://api.github.com/repos/cyberjunky/python-garminconnect",
-          "updatedAt": "2026-10-21T04:34:05Z"
+          "title": "[Security] SEC-07: Session revocation not enforced on /oauth/authorize; MCP tokens unrevocable",
+          "url": "https://github.com/alexsiri7/word-coach-annie/issues/1248",
+          "repositoryUrl": "https://api.github.com/repos/alexsiri7/word-coach-annie",
+          "updatedAt": "2026-10-21T04:35:20Z"
         },
         {
-          "title": "fix(deps): slicc-agent 6.18.3, with device-code sign-ins sealed by the vault's grant and SLICC 6's in-place import",
-          "url": "https://github.com/ai-ecoverse/slicc-bios/pull/781",
-          "repositoryUrl": "https://api.github.com/repos/ai-ecoverse/slicc-bios",
-          "updatedAt": "2026-10-21T04:34:03Z"
+          "title": "Harden bounty validation and clarify recursive claim rules",
+          "url": "https://github.com/gg-slop/bounties-mtx/pull/2",
+          "repositoryUrl": "https://api.github.com/repos/gg-slop/bounties-mtx",
+          "updatedAt": "2026-10-21T04:35:19Z"
         },
         {
-          "title": "App icon for the tray app in app switcher, notifications and Dock",
-          "url": "https://github.com/taskqorg/taskq/issues/1347",
-          "repositoryUrl": "https://api.github.com/repos/taskqorg/taskq",
-          "updatedAt": "2026-10-21T04:34:03Z"
+          "title": "Add bounded offline bridge handshake and replay planning",
+          "url": "https://github.com/HeavenzFire/HeavenzFire/pull/42",
+          "repositoryUrl": "https://api.github.com/repos/HeavenzFire/HeavenzFire",
+          "updatedAt": "2026-10-21T04:35:21Z"
         },
         {
-          "title": "Owner decision: replace the hand-written shell reader in the post-taint classifier with a real shell grammar (e.g. tree-sitter-bash)",
-          "url": "https://github.com/CorbanuCore/CorbanuTerminal/issues/932",
-          "repositoryUrl": "https://api.github.com/repos/CorbanuCore/CorbanuTerminal",
-          "updatedAt": "2026-10-21T04:34:02Z"
+          "title": "Prepare OUF HUMAN controls and explicit IAM API identity/policy inspection",
+          "url": "https://github.com/GioNob/ouf-deploy/pull/45",
+          "repositoryUrl": "https://api.github.com/repos/GioNob/ouf-deploy",
+          "updatedAt": "2026-10-21T04:35:17Z"
         },
         {
-          "title": "Derive Hive bridge pile nodes from node pile id",
-          "url": "https://github.com/ydb-platform/ydb/pull/56220",
-          "repositoryUrl": "https://api.github.com/repos/ydb-platform/ydb",
-          "updatedAt": "2026-10-21T04:34:02Z"
+          "title": "[P0] 신규 지점 개통·대표/보조 관리자 초대·기존계정 재연결·격리 QA 및 안전한 테스트 지점 정리",
+          "url": "https://github.com/koith/attendance-proto/issues/1243",
+          "repositoryUrl": "https://api.github.com/repos/koith/attendance-proto",
+          "updatedAt": "2026-10-21T04:35:17Z"
         },
         {
-          "title": "ci(staging): add read-only retention census workflow",
-          "url": "https://github.com/TogetherWeOwn/two-bot-next/pull/1456",
-          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/two-bot-next",
-          "updatedAt": "2026-10-21T04:34:02Z"
+          "title": "feat(privacy): 共享会话状态、主动查看及受保护资源界面",
+          "url": "https://github.com/qiyuanhuakai/dezirclip/pull/104",
+          "repositoryUrl": "https://api.github.com/repos/qiyuanhuakai/dezirclip",
+          "updatedAt": "2026-10-21T04:35:16Z"
         },
         {
-          "title": "Dependency Dashboard",
-          "url": "https://github.com/stolostron/volsync-addon-controller/issues/299",
-          "repositoryUrl": "https://api.github.com/repos/stolostron/volsync-addon-controller",
-          "updatedAt": "2026-10-21T04:34:01Z"
+          "title": "New version: HashiCorp.VaultRadar version 0.55.0",
+          "url": "https://github.com/microsoft/winget-pkgs/pull/457643",
+          "repositoryUrl": "https://api.github.com/repos/microsoft/winget-pkgs",
+          "updatedAt": "2026-10-21T04:35:23Z"
         },
         {
-          "title": "fix(auth): preserve connections during concurrent refresh retries",
-          "url": "https://github.com/cagojeiger/notegate/pull/503",
-          "repositoryUrl": "https://api.github.com/repos/cagojeiger/notegate",
-          "updatedAt": "2026-10-21T04:34:00Z"
+          "title": "fix(gateguard): judge GATEGUARD_EXEMPT_GLOBS on the real location too",
+          "url": "https://github.com/affaan-m/ECC/pull/3656",
+          "repositoryUrl": "https://api.github.com/repos/affaan-m/ECC",
+          "updatedAt": "2026-10-21T04:35:14Z"
         }
       ]
     },
