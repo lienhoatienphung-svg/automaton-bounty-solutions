@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T07:52:55.591Z",
-  "latencyMs": 825,
+  "executedAt": "2026-10-21T08:05:38.559Z",
+  "latencyMs": 1125,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #335: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #336: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52889913,
+    "liveBlockNumber": 52890295,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459834,
-    "baseMainnetTopPoolsVolume24hUsd": 140986,
+    "baseMainnetTopPoolsVolume24hUsd": 146364,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "H8wuX4N8mXcdBYiPiDBQ4zHrN9uQkRh6Fve38brapump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/h8wux4n8mxcdbyipidbq4zhrn9uqkrh6fve38brapump"
+      },
       {
         "chainId": "ethereum",
         "tokenAddress": "0xdC4FEf52B86ed0b6c99D26e9c4775D3Fed0fA3E8",
@@ -63,12 +69,6 @@
         "tokenAddress": "9Bn4iAbrYEj5xL2Y2Fq2LPeXtd6fryra1ftjBYJMpump",
         "description": "wojak irl.",
         "url": "https://dexscreener.com/solana/9bn4iabryej5xl2y2fq2lpextd6fryra1ftjbyjmpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DtXVXXE2APKQ6mHA5AoepfvZW8QKVBfvMecz7QYrabcd",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/dtxvxxe2apkq6mha5aoepfvzw8qkvbfvmecz7qyrabcd"
       },
       {
         "chainId": "robinhood",
