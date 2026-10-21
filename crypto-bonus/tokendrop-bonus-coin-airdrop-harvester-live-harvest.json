@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T16:34:04.956Z",
-  "latencyMs": 1262,
+  "executedAt": "2026-10-21T16:47:09.706Z",
+  "latencyMs": 1038,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #413: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #414: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 775,
-      "priceBtc": 2.78162791490758e-7
+      "marketCapRank": 781,
+      "priceBtc": 2.73978669264315e-7
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 90,
-      "priceBtc": 0.00002582366360334767
+      "priceBtc": 0.00002558392182294918
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.722393190011932e-8
+      "priceBtc": 9.732182240257334e-8
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 85,
-      "priceBtc": 0.00001018401628504599
+      "priceBtc": 0.00001014027988432139
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 535,
+      "priceBtc": 0.000002997740051735063
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.01579837833299413
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 536,
-      "priceBtc": 0.000003059689938953124
+      "priceBtc": 0.01575911223621503
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
-      "marketCapRank": 70,
-      "priceBtc": 0.0003158985922197527
+      "marketCapRank": 69,
+      "priceBtc": 0.0003176087753774644
     },
     {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 191,
-      "priceBtc": 0.000003448207991877814
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9986611975505306
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "Prepare package-manager distributions and safe uninstall",
+      "url": "https://github.com/fluffydisk/airdrop-linux/pull/2",
+      "createdAt": "2026-10-21T12:40:29Z"
+    },
+    {
+      "title": "Chain id 487 guards: faucet opt-in, build features in --version and at startup, cleartext BLS key refusal",
+      "url": "https://github.com/Telcoin-Association/telcoin-network/pull/1716",
+      "createdAt": "2026-10-19T07:40:39Z"
+    },
     {
       "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
       "url": "https://github.com/tehki/myaso/issues/360",
       "createdAt": "2026-10-20T17:25:33Z"
     },
     {
-      "title": "chore(deps): bump the docker-all group across 2 directories with 1 update",
-      "url": "https://github.com/bsv-blockchain/go-wallet-toolbox/pull/1074",
-      "createdAt": "2026-10-21T16:17:02Z"
+      "title": "fix: account for transaction fees in deployment balance check",
+      "url": "https://github.com/solana-playground/solana-playground/pull/439",
+      "createdAt": "2026-03-13T00:55:54Z"
     },
     {
-      "title": "feat(wallet): automatic testnet Friendbot faucet funding for developer/demo accounts`",
-      "url": "https://github.com/CareConstellation/Heliora/issues/90",
-      "createdAt": "2026-10-21T16:33:27Z"
+      "title": "Mainnet Pump upgrade — executable provenance and compatibility",
+      "url": "https://github.com/pump-fun/pump-public-docs/issues/59",
+      "createdAt": "2026-10-21T10:48:33Z"
     },
     {
-      "title": "Protected website-only release authority: authenticated Wolo HOLD evidence and transitive scope proof",
-      "url": "https://github.com/Emaren/app-prodn/issues/665",
-      "createdAt": "2026-10-18T15:00:14Z"
-    },
-    {
-      "title": "File attachments: Download, Save As and drag-out",
-      "url": "https://github.com/Matronhq/matron-apple/pull/102",
-      "createdAt": "2026-10-21T16:23:47Z"
-    },
-    {
-      "title": "chore(main): release 0.87.0",
-      "url": "https://github.com/solana-foundation/solana-developer-platform/pull/2392",
-      "createdAt": "2026-10-16T19:00:01Z"
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
     }
   ]
 }
