@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T16:08:54.323Z",
-  "latencyMs": 404,
+  "executedAt": "2026-10-21T16:10:37.417Z",
+  "latencyMs": 734,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #406: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #407: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52904793,
+    "liveBlockNumber": 52904845,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459825,
-    "baseMainnetTopPoolsVolume24hUsd": 135466,
+    "baseMainnetTopPoolsLiquidityUsd": 459826,
+    "baseMainnetTopPoolsVolume24hUsd": 132964,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9u8VpNQgB7D71Zq3URiQttswXMsKLbWnHPXgYVZFpump",
+        "description": "Kimchi is new bull on solana",
+        "url": "https://dexscreener.com/solana/9u8vpnqgb7d71zq3uriqttswxmsklbwnhpxgyvzfpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "G6AjY7RnwoxU7UPUh5ru53Xgv9qGLKfR4va8nsJZpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/g6ajy7rnwoxu7upuh5ru53xgv9qglkfr4va8nsjzpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xac8d0878b32d686254b1f4049da1a0210de9b638",
@@ -69,18 +81,6 @@
         "tokenAddress": "5G98xQepSDY4wSwygb4V5ww9cjAe7EmRURsDjApLpump",
         "description": "Shitcoin paired with Fartcoin \n3% Fartcoin rewards",
         "url": "https://dexscreener.com/solana/5g98xqepsdy4wswygb4v5ww9cjae7emrursdjaplpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Bo61v44TWErCNGF4qzu2nEWyGgPWeNrNpu1FsV8dpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bo61v44twercngf4qzu2newyggpwenrnpu1fsv8dpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x6020A3992FD7dbb8a1622D9c4e0f7497Bb819dB0",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0x6020a3992fd7dbb8a1622d9c4e0f7497bb819db0"
       }
     ]
   },
