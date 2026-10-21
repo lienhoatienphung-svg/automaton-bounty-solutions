@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T22:13:39.816Z",
-  "latencyMs": 1121,
+  "executedAt": "2026-10-21T22:16:10.600Z",
+  "latencyMs": 1230,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #458: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #459: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "5BjfgmtfqvNpAWx1CnZynoWLWNMnrwHLhTFzQ81vkEc8",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "the Clapping Cat is taking over tiktok",
+      "url": "https://dexscreener.com/solana/5bjfgmtfqvnpawx1cnzynowlwnmnrwhlhtfzq81vkec8"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "CgXvr1VoZNLzbGrnmy3V6Hza1wcpPrj2yUCxU55Rpump",
       "boostAmount": 10,
       "totalBoostAmount": 20,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Your trading buddy on the desktop. Candy watches your bags, reacts to the market, tracks your PnL and reminds you of your own rules.",
       "url": "https://dexscreener.com/solana/hcnu8p6zbatptsvmx7d3j4c9djysmsgmw6okmdxspump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x9A7C661Be578e50927268fb770146D701b3368e7",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "INVARA Core is building infrastructure for synthetic equities on Robinhood Chain, connecting traditional market intelligence with on-chain execution.",
-      "url": "https://dexscreener.com/robinhood/0x9a7c661be578e50927268fb770146d701b3368e7"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -270,29 +270,29 @@
       "createdAt": "2026-10-20T21:31:27Z"
     },
     {
-      "title": "fix(admin): resolve telemetry triage errors and overhaul admin observability",
-      "url": "https://github.com/gregcastro23/WhatToEatNext/pull/965",
-      "createdAt": "2026-10-21T22:02:57Z"
+      "title": "Add an overview",
+      "url": "https://github.com/fungi-protocol/docs/pull/51",
+      "createdAt": "2026-10-13T04:19:56Z"
     },
     {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
+      "title": "fix(deps): wallet-toolbox 2.14.9 so the payee broadcasts incoming payments",
+      "url": "https://github.com/bsv-blockchain/bsv-desktop/pull/141",
+      "createdAt": "2026-10-21T22:15:23Z"
     },
     {
-      "title": "Add Forest Explorer Faucet for Filecoin mainnet and calibnetAdd forest filecoin faucet",
-      "url": "https://github.com/Chain-Love/chain-love/pull/3011",
-      "createdAt": "2026-08-17T07:36:47Z"
+      "title": "Add provider Plumbline",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4275",
+      "createdAt": "2026-10-06T22:01:43Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "Proposition: Telegram Mini App — packager Bitbrawler en TMA (funnel acquisition, auth réel = D1/D7 fiables, zéro P2W)",
+      "url": "https://github.com/stxtxm/bitbrawler/issues/1282",
+      "createdAt": "2026-10-21T22:14:55Z"
     },
     {
-      "title": "perf(state): skip the state prefetch when its reads would come from the page cache",
-      "url": "https://github.com/NethermindEth/nethermind/pull/15030",
-      "createdAt": "2026-10-21T21:02:15Z"
+      "title": "docs: add USA₮ on Ramp Network and the Self faucet as ways to get USA₮",
+      "url": "https://github.com/celo-org/docs/pull/2407",
+      "createdAt": "2026-10-21T22:14:40Z"
     }
   ]
 }
