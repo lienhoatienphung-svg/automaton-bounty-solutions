@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-20T23:56:06.160Z",
-  "latencyMs": 262,
+  "executedAt": "2026-10-21T00:04:42.431Z",
+  "latencyMs": 361,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #249: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #250: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] SupportYourApp: Customer Support Co",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52875609,
+    "liveBlockNumber": 52875867,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,57 +30,57 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459822,
-    "baseMainnetTopPoolsVolume24hUsd": 217046,
+    "baseMainnetTopPoolsLiquidityUsd": 459826,
+    "baseMainnetTopPoolsVolume24hUsd": 178832,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
       {
         "chainId": "solana",
-        "tokenAddress": "42w87Mr7a79MjVEe46bRJeTgKG29WqcbewmTv9T8pump",
+        "tokenAddress": "2hy9t8pnixfG3tBiaAwNEeqyHoD3NXUu5UiBXdNspump",
+        "description": "The Kimchi Whale",
+        "url": "https://dexscreener.com/solana/2hy9t8pnixfg3tbiaawneeqyhod3nxuu5uibxdnspump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FijByc7PgS5FygnxUnsLThK85vEGYgZdJVTsowpZpump",
+        "description": "UMI THE CUTEST CAT EVER",
+        "url": "https://dexscreener.com/solana/fijbyc7pgs5fygnxunslthk85vegygzdjvtsowpzpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GhSjWdV6ADZStKhvEvEm1Mx15FXAWif2XZ6K5X11pump",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/42w87mr7a79mjvee46brjetgkg29wqcbewmtv9t8pump"
+        "url": "https://dexscreener.com/solana/ghsjwdv6adzstkhvevem1mx15fxawif2xz6k5x11pump"
       },
       {
         "chainId": "solana",
-        "tokenAddress": "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump",
-        "description": "Pokémon nostalgia meets meme coin madness. Welcome to Pokecity! ⚡",
-        "url": "https://dexscreener.com/solana/4woperxtkhjzaansywo9bvvycgj7q7uxj38q6eocpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8KiNqTFHvjTWGJbeMrufdcQKqKtfpcVnfppkq9jnpump",
-        "description": "We send animal coins more than anything. So a coin that represents ALL animal coins only makes sense.\n\nThe idea is simple: ALL Animal Coins should be paired to ",
-        "url": "https://dexscreener.com/solana/8kinqtfhvjtwgjbemrufdcqkqktfpcvnfppkq9jnpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2QdtqvDAYaX4zxNbxbL2Jax5yz7jV2cF2TgTv5jRnf5H",
+        "tokenAddress": "FiTRhnEKrpQBwEjVJeDJQPUAyutxm4BHZsL8oYfNQky2",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2qdtqvdayax4zxnbxbl2jax5yz7jv2cf2tgtv5jrnf5h"
+        "url": "https://dexscreener.com/solana/fitrhnekrpqbwejvjedjqpuayutxm4bhzsl8oyfnqky2"
       },
       {
-        "chainId": "solana",
-        "tokenAddress": "FJJyKhFNCbE3awMjE9yPw2rXxCyaJM4ZYD9vE54Dpump",
+        "chainId": "robinhood",
+        "tokenAddress": "0x2Ed9665Eb2EE97973A838B14C17a2E95EBb309eF",
         "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fjjykhfncbe3awmje9ypw2rxxcyajm4zyd9ve54dpump"
+        "url": "https://dexscreener.com/robinhood/0x2ed9665eb2ee97973a838b14c17a2e95ebb309ef"
       },
       {
         "chainId": "solana",
-        "tokenAddress": "BGarXEj944ZNdQGxCuiWWFwChChUeUCRBRrd6ZWopump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/bgarxej944zndqgxcuiwwfwchchueucrbrrd6zwopump"
+        "tokenAddress": "8zemVcC8974xhtHva7wuY64B6viXsfj24b6LH41mpump",
+        "description": "The cat of Kimchi",
+        "url": "https://dexscreener.com/solana/8zemvcc8974xhthva7wuy64b6vixsfj24b6lh41mpump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x32dd998BE9F11F747700B0cD0FD68C1e10CB7777",
+        "description": "The registry for .ai coins on BNB. Every coin is a .ai name sealed onchain forever, born with its own AI agent that runs its treasury, buying back and burning t",
+        "url": "https://dexscreener.com/bsc/0x32dd998be9f11f747700b0cd0fd68c1e10cb7777"
       },
       {
         "chainId": "solana",
-        "tokenAddress": "8NUkYsbajwRd3mYvf6MNBYBFhLmKCtesMFd6DvnBpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/8nukysbajwrd3myvf6mnbybfhlmkctesmfd6dvnbpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "hvnnKPvWSAbssYJYTSwtmsuigyhfi2V6VquzoyEpump",
-        "description": "A new way to trade memecoins. Go long or short with token borrowing. Lend your tokens and earn borrowing fees.",
-        "url": "https://dexscreener.com/solana/hvnnkpvwsabssyjytswtmsuigyhfi2v6vquzoyepump"
+        "tokenAddress": "7DzCqeVESZG7atpZHCfCb7VxPfnkhPE3uMW8cNLpump",
+        "description": "Bottega",
+        "url": "https://dexscreener.com/solana/7dzcqeveszg7atpzhcfcb7vxpfnkhpe3umw8cnlpump"
       }
     ]
   },
