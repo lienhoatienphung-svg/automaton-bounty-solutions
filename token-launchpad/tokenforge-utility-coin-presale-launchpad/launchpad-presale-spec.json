@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T10:46:27.584Z",
-  "latencyMs": 662,
+  "executedAt": "2026-10-21T10:48:23.724Z",
+  "latencyMs": 416,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #360: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
+  "workTitle": "Delivery Sprint #361: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52895120,
+    "liveBlockNumber": 52895178,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459838,
-    "baseMainnetTopPoolsVolume24hUsd": 141119,
+    "baseMainnetTopPoolsVolume24hUsd": 140742,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5UxPc1WtxQPUXCfMZJFhhbvqNsbULEHRwYfMjyfEpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/5uxpc1wtxqpuxcfmzjfhhbvqnsbulehrwyfmjyfepump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8baAbriKUgFP63CCZ9p45q2VmgCMSfdV6GbkbqjTpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "7ZZKp8RpdWEuvHGXqdj9yKCv47rnxtKV27gnpCBLpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/7zzkp8rpdweuvhgxqdj9ykcv47rnxtkv27gnpcblpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "F5jgHyqd13JY3T3qKSp3nryNePN9gQKVx8wCAAZsfart",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/f5jghyqd13jy3t3qksp3nrynepn9gqkvx8wcaazsfart"
       }
     ]
   },
