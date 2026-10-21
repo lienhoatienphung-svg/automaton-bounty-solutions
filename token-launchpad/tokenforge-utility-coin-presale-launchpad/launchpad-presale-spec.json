@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T04:24:53.144Z",
-  "latencyMs": 361,
+  "executedAt": "2026-10-21T04:35:30.799Z",
+  "latencyMs": 279,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #301: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #302: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52883672,
+    "liveBlockNumber": 52883991,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459827,
-    "baseMainnetTopPoolsVolume24hUsd": 174771,
+    "baseMainnetTopPoolsVolume24hUsd": 173338,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x07292f0c46F25eF5eCfdba20935A68718C424a51",
+        "description": "Real-time Uniswap v4 analytics, hook intelligence, and launchpad aggregator.\nTrack live pools, swaps, and v4 token launches in one place—with decoded hook permi",
+        "url": "https://dexscreener.com/robinhood/0x07292f0c46f25ef5ecfdba20935a68718c424a51"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "fUP4mNub1ipk5xLxyvdHZoXtVuR4Yj9PyTcVQPPpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0xf2e4a05c6faaec17bc999ceeb77b81cf4de5d473",
         "description": "Automate AI inference purchases, fund your agents, and distribute compute on Robinhood Chain.",
         "url": "https://dexscreener.com/robinhood/0xf2e4a05c6faaec17bc999ceeb77b81cf4de5d473"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AW8Eo7c6ZxvPQ2LadTydjS6q4wG7ixVkGSn6pX9mpump",
-        "description": "Most AI tools make you start over every time. SYLPH remembers the thread, follows you to every screen, and keeps what you share yours.",
-        "url": "https://dexscreener.com/solana/aw8eo7c6zxvpq2ladtydjs6q4wg7ixvkgsn6px9mpump"
       }
     ]
   },
