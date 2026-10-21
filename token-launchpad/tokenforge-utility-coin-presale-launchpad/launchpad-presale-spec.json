@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T03:43:04.004Z",
-  "latencyMs": 682,
+  "executedAt": "2026-10-21T03:52:57.448Z",
+  "latencyMs": 752,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #293: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #294: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52882418,
+    "liveBlockNumber": 52882715,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459827,
-    "baseMainnetTopPoolsVolume24hUsd": 176869,
+    "baseMainnetTopPoolsVolume24hUsd": 177171,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "2TsHfSkz1nY98PXVzRxgSD8BsWMqWCJPrgzNeYhEpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2tshfskz1ny98pxvzrxgsd8bswmqwcjprgzneyhepump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "8bBQP9ngcjyr7g1ytggodjaaQSHSyNcnxCrm8YN9pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/8bbqp9ngcjyr7g1ytggodjaaqshsyncnxcrm8yn9pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2EQbBcFnHAoex34qLcWDAcw7YAXBjEvvjWU7A9jppump",
@@ -69,18 +81,6 @@
         "tokenAddress": "0x9b1c458e4e39331589F5A4eaD1B2F4c0419a7777",
         "description": "经典梦幻，Web3 重启\n\n经典玩法还原 · 无需点卡 · 免费畅玩\n\n无级别装备、满宠、新人豪礼\n\nBNB Chain · 代币商城 · 玩家自由交易\n\n找回当年的梦幻时光。",
         "url": "https://dexscreener.com/bsc/0x9b1c458e4e39331589f5a4ead1b2f4c0419a7777"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "ED2SHkc2MQG4X5R8Ds9Bp6adjLrKkdZ5r8eUK7kmpump",
-        "description": "Kumchi - The Final Aura Boss",
-        "url": "https://dexscreener.com/solana/ed2shkc2mqg4x5r8ds9bp6adjlrkkdz5r8euk7kmpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9Mxu4MMPv4cdCnAUqMqGxHtopZZv756aM36CtZ34pump",
-        "description": "Official community takeover of the second Kimchi token. No dev team.",
-        "url": "https://dexscreener.com/solana/9mxu4mmpv4cdcnauqmqgxhtopzzv756am36ctz34pump"
       }
     ]
   },
