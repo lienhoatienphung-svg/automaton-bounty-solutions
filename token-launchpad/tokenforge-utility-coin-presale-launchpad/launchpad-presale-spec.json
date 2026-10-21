@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T13:32:18.313Z",
-  "latencyMs": 374,
+  "executedAt": "2026-10-21T13:45:46.488Z",
+  "latencyMs": 771,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #385: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #386: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52900095,
-    "liveGasPriceGwei": 0.0074,
+    "liveBlockNumber": 52900499,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459848,
-    "baseMainnetTopPoolsVolume24hUsd": 152597,
+    "baseMainnetTopPoolsVolume24hUsd": 152422,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x17c63a297a76bed7e96a96bcf5f566de1efdd1fc",
+        "description": "The routing layer for stock tokens.\nSwap smarter across liquidity pools on Robinhood Chain.",
+        "url": "https://dexscreener.com/robinhood/0x17c63a297a76bed7e96a96bcf5f566de1efdd1fc"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6vTfK2bXGdWBXcykjHYWCRc33tDA16RrSW7k7znbpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6vtfk2bxgdwbxcykjhywcrc33tda16rrsw7k7znbpump"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0x725CCC7B5cEaCb0324B64CCb7DA3EcA2cd3a6666",
@@ -55,7 +67,7 @@
       {
         "chainId": "robinhood",
         "tokenAddress": "0x28B878B5Ef3eD55dcA52a9575dEEFa678365d07A",
-        "description": "Tickr is a daily stock-picking game on Robinhood Chain. Every trading day: five stocks, one pot. Back the one that closes first, split the pot with everyone who",
+        "description": "Official Tickr Game\n\nTickr is a daily stock-picking game on Robinhood Chain. Every trading day: five stocks, one pot. Back the one that closes first, split the ",
         "url": "https://dexscreener.com/robinhood/0x28b878b5ef3ed55dca52a9575deefa678365d07a"
       },
       {
@@ -69,18 +81,6 @@
         "tokenAddress": "DxHTm46b1cnxMWi23PWtNX9AfdErYCdg7FAUskF6pump",
         "description": "One mon against the horde. Survive, evolve mid-run, cash out in SOL before you faint. $SOLO",
         "url": "https://dexscreener.com/solana/dxhtm46b1cnxmwi23pwtnx9afderycdg7fauskf6pump"
-      },
-      {
-        "chainId": "ethereum",
-        "tokenAddress": "0x49E55A87AA4bB0d2fd58fDCf1A31c9612DE015dc",
-        "description": "MoneyCanBuy is a dare board judged by the IMD swarm.\n\nPost a task with a reward. Anyone can do it and submit proof. NFT holders and the IMD swarm check the proo",
-        "url": "https://dexscreener.com/ethereum/0x49e55a87aa4bb0d2fd58fdcf1a31c9612de015dc"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GDv4YUaTKzBNWkzPRLJJcF3PkZ3pfX868SSoQ7ZQpump",
-        "description": "Shared liquidity. Off-chain quotes. On-chain settlement.",
-        "url": "https://dexscreener.com/solana/gdv4yuatkzbnwkzprljjcf3pkz3pfx868ssoq7zqpump"
       }
     ]
   },
