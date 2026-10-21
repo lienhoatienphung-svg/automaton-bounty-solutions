@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T20:37:36.978Z",
-  "latencyMs": 409,
+  "executedAt": "2026-10-21T20:39:28.090Z",
+  "latencyMs": 647,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #442: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #443: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52912854,
+    "liveBlockNumber": 52912910,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 142469,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump",
+        "description": "Kimchi-inspired. Bull-built. Private jets, heavy wrists, unlimited aura.",
+        "url": "https://dexscreener.com/solana/gne7e774tkgyxmmzp36ofhnurruz15h4e1le1xekpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "YoLKW1YwxrihuaHjzyrMUtTNaktLKrbLZa4JQpNLabS",
@@ -75,12 +81,6 @@
         "tokenAddress": "H1sgNHHrdLxnyyaDsvZx4JyZ4RNmaKuD7HFsf5EAaWVM",
         "description": "saylor moon",
         "url": "https://dexscreener.com/solana/h1sgnhhrdlxnyyadsvzx4jyz4rnmakud7hfsf5eaawvm"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Ekn1Jn3yzBUoX2gsCSkas6JgjMqSwiTB8PGs2eruSTNK",
-        "description": "Paired with Saylor index",
-        "url": "https://dexscreener.com/solana/ekn1jn3yzbuox2gscskas6jgjmqswitb8pgs2erustnk"
       }
     ]
   },
