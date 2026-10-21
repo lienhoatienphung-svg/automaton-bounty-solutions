@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T05:38:48.652Z",
-  "latencyMs": 1335,
+  "executedAt": "2026-10-21T05:40:04.033Z",
+  "latencyMs": 919,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #316: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #317: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat: vault dust reconciliation, decimal compatibility, provider status transitions, submission quotas",
+      "url": "https://github.com/AgesEmpire/StellarSwipe-Contract/pull/1349",
+      "createdAt": "2026-10-20T23:55:53Z"
+    },
+    {
+      "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
+      "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
+      "createdAt": "2026-10-07T00:07:47Z"
+    },
+    {
       "title": "[ARC-10] Event Config Engine / Daily / Weekly / Event Shop",
       "url": "https://github.com/tanawutmalirum29-ux/ARCANA-SURVIVOR/issues/10",
       "createdAt": "2026-10-19T14:50:45Z"
@@ -283,16 +293,6 @@
       "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
       "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
       "createdAt": "2026-10-11T10:45:50Z"
-    },
-    {
-      "title": "NPU + verl + RL-Kernel + Qwen3.6 Series MoE",
-      "url": "https://github.com/RL-Align/RL-Kernel/issues/563",
-      "createdAt": "2026-10-21T04:26:18Z"
-    },
-    {
-      "title": "[W] Website: match the site and its demo to the v1.0 app (#142)",
-      "url": "https://github.com/G-Eskayo/clarity-captions/pull/143",
-      "createdAt": "2026-10-20T21:18:22Z"
     }
   ]
 }
