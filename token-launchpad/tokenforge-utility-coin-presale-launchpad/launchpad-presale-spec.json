@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T18:19:06.279Z",
-  "latencyMs": 351,
+  "executedAt": "2026-10-21T18:20:59.612Z",
+  "latencyMs": 820,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #424: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #425: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52908699,
+    "liveBlockNumber": 52908756,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459821,
-    "baseMainnetTopPoolsVolume24hUsd": 142153,
+    "baseMainnetTopPoolsVolume24hUsd": 141945,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x102666bA2ADc10038aeDE755F2468231715d7777",
+        "description": "CZ Dog",
+        "url": "https://dexscreener.com/bsc/0x102666ba2adc10038aede755f2468231715d7777"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "znExVj4hrNnLt7nEo2uWAFHvWXXSW7LehS3q2dtpump",
+        "description": "Every rug has a tell. Tell puts the record behind every crypto account and coin right under the post on X. Free Chrome extension.",
+        "url": "https://dexscreener.com/solana/znexvj4hrnnlt7neo2uwafhvwxxsw7lehs3q2dtpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7S9VrLdMLtk1dEdbBbMSwSX4VNSpuPwtPr7ap8NHpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "96AsCWA8TjVcZDqVfMMPT2J3BfMYjYhyyMdYLjg3pump",
         "description": "Open Collector Crypt packs, and when your card comes in under the pack price, holders get part of the loss back in USDC. Automatically.",
         "url": "https://dexscreener.com/solana/96ascwa8tjvczdqvfmmpt2j3bfmyjyhyymdyljg3pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x3c5C5702183055e986321F7ebf62Aa59D10A0c56",
-        "description": "agentic trading datapoint on robinhood, tracking & documenting how autonomous agents trade making it easier for devs and researchers to build ai agents time and",
-        "url": "https://dexscreener.com/robinhood/0x3c5c5702183055e986321f7ebf62aa59d10a0c56"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "419RpM6KRAVWAJurhEW87yRrt8X4GbGLoFSy7NWapump",
-        "description": "The ultimate Minecraft casino experience on Solana",
-        "url": "https://dexscreener.com/solana/419rpm6kravwajurhew87yrrt8x4gbglofsy7nwapump"
       }
     ]
   },
