@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T12:34:01.586Z",
-  "latencyMs": 441,
+  "executedAt": "2026-10-21T12:35:45.705Z",
+  "latencyMs": 716,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #376: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #377: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52898347,
+    "liveBlockNumber": 52898399,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,12 @@
     "baseMainnetTopPoolsVolume24hUsd": 118532,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BNMeWf8VP9RiPs9XKLTQVuYrYywLawCvgWMEKRkmpump",
+        "description": "The next Labubu\nMost viral home robot in Japan and everyone wants one.",
+        "url": "https://dexscreener.com/solana/bnmewf8vp9rips9xkltqvuyryywlawcvgwmekrkmpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6Bo65DyXcg9JR5gtkdiKYZHyzgc6z2muwCgrwNVmduve",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x62CF303e3dE4Bc8bDd6c14d3F3784d9bebcd59C1",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/robinhood/0x62cf303e3de4bc8bdd6c14d3f3784d9bebcd59c1"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5pS5LjtwUEa8bbyRSNvYgHff6BuGV4aZgMdUGf6Jpump",
-        "description": "Launch tokens permanently paired with NFT collections; fees buy NFTs for holders or burning. Powered by @tensor_hq",
-        "url": "https://dexscreener.com/solana/5ps5ljtwuea8bbyrsnvyghff6bugv4azgmdugf6jpump"
       }
     ]
   },
