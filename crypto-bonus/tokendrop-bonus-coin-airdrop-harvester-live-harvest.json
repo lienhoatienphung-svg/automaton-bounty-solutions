@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T22:16:10.600Z",
-  "latencyMs": 1230,
+  "executedAt": "2026-10-21T22:28:25.320Z",
+  "latencyMs": 813,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #459: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #460: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Pavago: Risk Analyst (Instant B2B R",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -18,10 +18,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "CTR-USDC",
-      "tvlUsd": 635881,
-      "apyBase": 44.7,
-      "apyRewardBonus": 402470.65,
-      "apyTotal": 402515.35,
+      "tvlUsd": 630904,
+      "apyBase": 41.83,
+      "apyRewardBonus": 335485.53,
+      "apyTotal": 335527.36,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -31,10 +31,10 @@
       "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "USDC-VELVET",
-      "tvlUsd": 1067696,
-      "apyBase": 1.08,
-      "apyRewardBonus": 85323.73,
-      "apyTotal": 85324.81,
+      "tvlUsd": 1067932,
+      "apyBase": 1.07,
+      "apyRewardBonus": 85608.71,
+      "apyTotal": 85609.78,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -42,29 +42,29 @@
     },
     {
       "chain": "Base",
-      "project": "aerodrome-v1",
-      "symbol": "WETH-W",
-      "tvlUsd": 57092,
-      "apyBase": 0,
-      "apyRewardBonus": 35962.71,
-      "apyTotal": 35962.71,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "9218880d-1a29-450b-8a3b-0a1323deb2f2"
-    },
-    {
-      "chain": "Base",
       "project": "aerodrome-slipstream",
       "symbol": "TRUST-USDC",
-      "tvlUsd": 95520,
-      "apyBase": 50.25,
-      "apyRewardBonus": 13910.18,
-      "apyTotal": 13960.43,
+      "tvlUsd": 95204,
+      "apyBase": 50.52,
+      "apyRewardBonus": 37115.57,
+      "apyTotal": 37166.09,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
       "poolId": "e351f2a6-2bcd-4a74-9d44-fc9795fce9c8"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-v1",
+      "symbol": "WETH-W",
+      "tvlUsd": 56797,
+      "apyBase": 0,
+      "apyRewardBonus": 36302.16,
+      "apyTotal": 36302.16,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "9218880d-1a29-450b-8a3b-0a1323deb2f2"
     },
     {
       "chain": "Base",
@@ -82,11 +82,24 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
+      "symbol": "WETH-CBBTC",
+      "tvlUsd": 3220246,
+      "apyBase": 84.19,
+      "apyRewardBonus": 9407.86,
+      "apyTotal": 9492.05,
+      "rewardTokens": [
+        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+      ],
+      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
+    },
+    {
+      "chain": "Base",
+      "project": "aerodrome-slipstream",
       "symbol": "USDC-LMTS",
-      "tvlUsd": 139870,
-      "apyBase": 45.43,
-      "apyRewardBonus": 7433.55,
-      "apyTotal": 7478.98,
+      "tvlUsd": 140005,
+      "apyBase": 41.48,
+      "apyRewardBonus": 6264.46,
+      "apyTotal": 6305.94,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
@@ -95,15 +108,15 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-USDC",
-      "tvlUsd": 162330,
-      "apyBase": 34.01,
-      "apyRewardBonus": 5403.75,
-      "apyTotal": 5437.76,
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 202593,
+      "apyBase": 33.91,
+      "apyRewardBonus": 5997.74,
+      "apyTotal": 6031.65,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
+      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
     },
     {
       "chain": "Base",
@@ -121,28 +134,15 @@
     {
       "chain": "Base",
       "project": "aerodrome-slipstream",
-      "symbol": "WETH-CBBTC",
-      "tvlUsd": 3307519,
-      "apyBase": 68.04,
-      "apyRewardBonus": 4343.84,
-      "apyTotal": 4411.88,
+      "symbol": "WETH-USDC",
+      "tvlUsd": 162371,
+      "apyBase": 33.75,
+      "apyRewardBonus": 4494.12,
+      "apyTotal": 4527.86,
       "rewardTokens": [
         "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
       ],
-      "poolId": "541b4974-e23b-4a7a-968f-6cfc027825de"
-    },
-    {
-      "chain": "Base",
-      "project": "aerodrome-slipstream",
-      "symbol": "USDC-CBBTC",
-      "tvlUsd": 205271,
-      "apyBase": 33.03,
-      "apyRewardBonus": 4011.2,
-      "apyTotal": 4044.23,
-      "rewardTokens": [
-        "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-      ],
-      "poolId": "c0675357-219a-42b5-b6cc-079cef869cf5"
+      "poolId": "80739318-c205-4177-9207-3c4322925ac6"
     }
   ],
   "dexScreenerBoostedCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 754,
-      "priceBtc": 2.910656583853905e-7
+      "marketCapRank": 796,
+      "priceBtc": 2.803796545994447e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009743546497527426
+      "priceBtc": 0.00000968240090941355
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.695013421722287e-8
+      "priceBtc": 9.645470403447374e-8
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 85,
-      "priceBtc": 0.000027933874923579985
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 1.0005118315706194
+      "priceBtc": 0.000028169004013088433
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006266820663152015
+      "priceBtc": 0.00006249395218658492
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9982780462731068
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 80,
-      "priceBtc": 0.000045966301875598954
+      "priceBtc": 0.00004550914170350398
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 528,
-      "priceBtc": 0.0000030713476982861067
+      "marketCapRank": 529,
+      "priceBtc": 0.0000030527559983223143
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Add an overview",
-      "url": "https://github.com/fungi-protocol/docs/pull/51",
-      "createdAt": "2026-10-13T04:19:56Z"
+      "title": "Mando dive leaves the ground: a real Helldivers leap",
+      "url": "https://github.com/czinabu/sw-power-trip/pull/118",
+      "createdAt": "2026-10-21T22:28:04Z"
     },
     {
-      "title": "fix(deps): wallet-toolbox 2.14.9 so the payee broadcasts incoming payments",
-      "url": "https://github.com/bsv-blockchain/bsv-desktop/pull/141",
-      "createdAt": "2026-10-21T22:15:23Z"
+      "title": "Add 20 Chainlink LINK testnet faucet entries",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4297",
+      "createdAt": "2026-10-07T16:06:50Z"
     },
     {
-      "title": "Add provider Plumbline",
-      "url": "https://github.com/Chain-Love/chain-love/pull/4275",
-      "createdAt": "2026-10-06T22:01:43Z"
+      "title": "[Core] Skip unused DFlash and DSpark prefill proposals",
+      "url": "https://github.com/vllm-project/vllm-torchtpu/pull/2074",
+      "createdAt": "2026-10-16T08:49:15Z"
     },
     {
-      "title": "Proposition: Telegram Mini App — packager Bitbrawler en TMA (funnel acquisition, auth réel = D1/D7 fiables, zéro P2W)",
-      "url": "https://github.com/stxtxm/bitbrawler/issues/1282",
-      "createdAt": "2026-10-21T22:14:55Z"
+      "title": "fix(deps): wallet-toolbox-mobile 2.14.9 so the payee broadcasts incoming payments",
+      "url": "https://github.com/bsv-blockchain/bsv-wallet/pull/49",
+      "createdAt": "2026-10-21T22:25:04Z"
     },
     {
-      "title": "docs: add USA₮ on Ramp Network and the Self faucet as ways to get USA₮",
-      "url": "https://github.com/celo-org/docs/pull/2407",
-      "createdAt": "2026-10-21T22:14:40Z"
+      "title": "perf(state): skip the state prefetch when its reads would come from the page cache",
+      "url": "https://github.com/NethermindEth/nethermind/pull/15030",
+      "createdAt": "2026-10-21T21:02:15Z"
     }
   ]
 }
