@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T10:04:44.855Z",
-  "latencyMs": 1274,
+  "executedAt": "2026-10-21T10:16:30.950Z",
+  "latencyMs": 1276,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #357: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #358: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "DbDwQC6f9hvzvXjrQxqfiFDZhArbzfdujotbXqcwpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Rally Cat ($RALLY) is a Solana meme coin created by YouTuber Crypto Rally. Focused on organic growth, strong holders, and daily content. No hype teams. Just con",
+      "url": "https://dexscreener.com/solana/dbdwqc6f9hvzvxjrqxqfifdzharbzfdujotbxqcwpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "BAkdiNu6qqYtQ3knyVStkJgZybbgyrhDgUXjwZLa8x4i",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "GOTCHA - Cast. Catch. Earn. Explore tropical islands, reel in rare fish, and turn your catches into opportunities for SOL rewards in a multiplayer Play-to-Earn ",
       "url": "https://dexscreener.com/solana/exanwcxkvp1t4y7fl4jdb4wr5qfelps9fdatfr6ppump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8dcJQQxNY4ooKE8PpJMhgcLsC2oc4RzHGEpbvj5opump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Solana’s toughest Grandma 🥊 Floral scarf. Iron fists. Zero chill. She’s here to knit, hit and shake up the timeline 💚",
-      "url": "https://dexscreener.com/solana/8dcjqqxny4ooke8ppjmhgclsc2oc4rzhgepbvj5opump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 89,
-      "priceBtc": 0.000027208867441329335
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 717,
-      "priceBtc": 0.0010760314714558018
+      "priceBtc": 0.000027378638224360345
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 113,
-      "priceBtc": 9.700076667538684e-8
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 140,
-      "priceBtc": 0.0000042433266410030265
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.0000623325158913042
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009718826599794496
+      "priceBtc": 9.685627759371652e-8
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015185107429010308
+      "priceBtc": 0.01509460079478473
     },
     {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 85,
-      "priceBtc": 0.0000404671257628067
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 719,
+      "priceBtc": 0.0010750602997786555
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 140,
+      "priceBtc": 0.000004232759852314442
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9988106029356076
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009719772056376429
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.0000618188073697649
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/scottlovegrove/johnnyapp/pull/24",
-      "createdAt": "2026-10-13T01:57:47Z"
+      "title": "CHORE: Version packages",
+      "url": "https://github.com/4thtech/agentlink/pull/324",
+      "createdAt": "2026-10-20T08:39:10Z"
     },
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/yugo-ibuki/portfolio/pull/316",
-      "createdAt": "2026-09-18T21:18:40Z"
+      "title": "Update dependency @lucide/vue to v1.61.0",
+      "url": "https://github.com/Taskeren/activism-report-triumph/pull/15",
+      "createdAt": "2026-08-10T10:46:18Z"
     },
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/soodoh/swanki/pull/37",
-      "createdAt": "2026-09-04T00:03:40Z"
+      "title": "release: 13.54.0",
+      "url": "https://github.com/MetaMask/metamask-extension/pull/47119",
+      "createdAt": "2026-10-15T19:03:39Z"
     },
     {
-      "title": "chore(deps): update dependency lucide-react to v1.61.0",
-      "url": "https://github.com/YsraEstudos/FiscalConsultas/pull/287",
-      "createdAt": "2026-05-14T11:57:19Z"
+      "title": "feat: add C-130 cargo system, territory visualization, and split crates",
+      "url": "https://github.com/Dillen198/bfnext/pull/1",
+      "createdAt": "2026-01-19T07:41:07Z"
     },
     {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
-      "url": "https://github.com/tehki/myaso/issues/360",
-      "createdAt": "2026-10-20T17:25:33Z"
+      "title": "[tripwire live test] claim airdrop 0x000000000000000000000000000000000000dEaD",
+      "url": "https://github.com/Boring-Software-Inc/scratch/pull/88",
+      "createdAt": "2026-10-21T10:14:45Z"
     }
   ]
 }
