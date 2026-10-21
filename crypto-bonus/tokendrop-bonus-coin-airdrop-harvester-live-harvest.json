@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T15:50:52.041Z",
-  "latencyMs": 994,
+  "executedAt": "2026-10-21T16:03:40.791Z",
+  "latencyMs": 1084,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #407: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #408: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "bsc",
+      "tokenAddress": "0xED71B42b07cC1664C0F82361D48D0417a6ED7777",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "CZ's new dog",
+      "url": "https://dexscreener.com/bsc/0xed71b42b07cc1664c0f82361d48d0417a6ed7777"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x061732dC141e0A2d37F5fA91cF5343F24064e60f",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 100,
       "description": "chud cat",
       "url": "https://dexscreener.com/solana/ac4upaytpinppwxq7cqtznrvtph3yec9md8ojlo4pump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "G9suJiq45Pwu9awpx6Qr8bwhH53HQb3v7EHgGX4Vpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/g9sujiq45pwu9awpx6qr8bwhh53hqb3v7ehggx4vpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 801,
-      "priceBtc": 2.7312511193550004e-7
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 113,
-      "priceBtc": 9.71531924195107e-8
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 86,
-      "priceBtc": 0.000010203922490972413
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.015881789072688154
+      "marketCapRank": 829,
+      "priceBtc": 2.4823146001353045e-7
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 89,
-      "priceBtc": 0.00002777200015619967
+      "priceBtc": 0.000027335276537193797
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 85,
+      "priceBtc": 0.000010189791187275868
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 113,
+      "priceBtc": 9.73673460580697e-8
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.015879815969155935
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 533,
-      "priceBtc": 0.0000030423085962307575
+      "marketCapRank": 520,
+      "priceBtc": 0.0000031384172998154793
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
       "marketCapRank": 68,
-      "priceBtc": 0.0003239057708891447
+      "priceBtc": 0.0003270544131360079
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 726,
-      "priceBtc": 0.0010649749105717113
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9997683851928988
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
+      "url": "https://github.com/tehki/myaso/issues/360",
+      "createdAt": "2026-10-20T17:25:33Z"
     },
     {
-      "title": "[Apple] iOS/iPadOS/macOS 原生客户端与 NIM4 互通",
-      "url": "https://github.com/GHOST-AKU/wozai/issues/31",
-      "createdAt": "2026-10-20T15:11:49Z"
+      "title": "Make the hardhat RPC URL configurable for remote previews",
+      "url": "https://github.com/bencxr/scaffold/pull/1",
+      "createdAt": "2026-10-21T15:53:22Z"
     },
     {
-      "title": "chore(deps): bump lucide-react from 0.546.0 to 1.48.0",
-      "url": "https://github.com/TheStreamCode/easypiva/pull/47",
-      "createdAt": "2026-09-22T18:40:14Z"
+      "title": "feat(cosmos): add Cosmos SDK sign doc parser",
+      "url": "https://github.com/anchorageoss/visualsign-parser/pull/579",
+      "createdAt": "2026-10-21T08:00:53Z"
     },
     {
-      "title": "Update dependency lucide-react to v1.61.0",
-      "url": "https://github.com/Trancendos/InfinityStyles/pull/156",
-      "createdAt": "2026-09-29T23:32:12Z"
+      "title": "contracts: cap a transfer at 50 USDC and the bridge principal at 10 000",
+      "url": "https://github.com/gosh-sh/bridge/pull/101",
+      "createdAt": "2026-10-14T00:22:26Z"
     },
     {
-      "title": "[Phase 2] Household sharing without iCloud: members and share-file exchange",
-      "url": "https://github.com/neo-the-on3/little-orbit/issues/86",
-      "createdAt": "2026-10-21T15:48:39Z"
+      "title": "Add anytime-valid improvement auditor",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/76",
+      "createdAt": "2026-10-13T03:26:58Z"
     },
     {
-      "title": "feat(cookbook): ask Dexra for a risk verdict before buying a pump.fun coin",
-      "url": "https://github.com/chainstacklabs/pumpfun-bonkfun-bot/pull/242",
-      "createdAt": "2026-10-20T20:26:10Z"
+      "title": "iOS: import audio files shared by other apps",
+      "url": "https://github.com/qstuff/qplayer-kt/pull/79",
+      "createdAt": "2026-10-21T16:01:12Z"
     }
   ]
 }
