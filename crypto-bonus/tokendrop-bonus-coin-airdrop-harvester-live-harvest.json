@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T21:59:42.364Z",
-  "latencyMs": 946,
+  "executedAt": "2026-10-21T22:01:14.368Z",
+  "latencyMs": 745,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #456: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #457: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "chore(deps): update dependencies",
-      "url": "https://github.com/ocavue/astro-theme-toggle/pull/59",
-      "createdAt": "2026-08-27T20:46:37Z"
+      "title": "Testnet container-package rehearsal on a hosted runner, part 1: bring-up, identity, first tx, gateway limits, faucet guard (no captcha)",
+      "url": "https://github.com/ristik/bft-core/pull/747",
+      "createdAt": "2026-10-21T19:23:05Z"
     },
     {
-      "title": "Run tasks on Harbor instead of Inspect",
-      "url": "https://github.com/BuidlGuidl/ethevals/pull/31",
-      "createdAt": "2026-10-21T21:58:59Z"
+      "title": "Two-step sign-in, sign out everywhere and password changes",
+      "url": "https://github.com/Frigiduss/backroom-poker/pull/39",
+      "createdAt": "2026-10-21T22:00:42Z"
+    },
+    {
+      "title": "Add testnet faucets for Arc and Story",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4302",
+      "createdAt": "2026-10-07T23:18:06Z"
+    },
+    {
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/unlock-protocol/unlock/issues/7449",
+      "createdAt": "2021-08-25T05:01:51Z"
     },
     {
       "title": "feat(frontend): M3 guarded buy with submitted / mined / indexed states",
@@ -280,19 +290,9 @@
       "createdAt": "2026-10-21T20:25:21Z"
     },
     {
-      "title": "feat - BFE-268 - daily prize and Airdrop to stakers wizards",
-      "url": "https://github.com/bze-alphateam/bze-frontend-apps/pull/176",
-      "createdAt": "2026-10-21T21:49:00Z"
-    },
-    {
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
-      "url": "https://github.com/Emaren/wolochain/issues/5",
-      "createdAt": "2026-10-14T03:39:47Z"
-    },
-    {
-      "title": "Testnet container-package rehearsal on a hosted runner, part 1: bring-up, identity, first tx, gateway limits, faucet guard (no captcha)",
-      "url": "https://github.com/ristik/bft-core/pull/747",
-      "createdAt": "2026-10-21T19:23:05Z"
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/58",
+      "createdAt": "2026-10-21T19:56:22Z"
     }
   ]
 }
