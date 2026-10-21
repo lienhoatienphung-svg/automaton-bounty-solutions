@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-21T18:04:17.460Z",
-  "latencyMs": 1063,
+  "executedAt": "2026-10-21T18:06:13.001Z",
+  "latencyMs": 333,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #422: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #423: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52908254,
+    "liveBlockNumber": 52908312,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459820,
-    "baseMainnetTopPoolsVolume24hUsd": 138739,
+    "baseMainnetTopPoolsVolume24hUsd": 139121,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x3c5C5702183055e986321F7ebf62Aa59D10A0c56",
+        "description": "agentic trading datapoint on robinhood, tracking & documenting how autonomous agents trade making it easier for devs and researchers to build ai agents time and",
+        "url": "https://dexscreener.com/robinhood/0x3c5c5702183055e986321f7ebf62aa59d10a0c56"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "419RpM6KRAVWAJurhEW87yRrt8X4GbGLoFSy7NWapump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0xe6FcAf560eD1B9067407e70A7eaD037d65B6B759",
         "description": "AMM for prediction markets with multisource oracles and deep liquidity.",
         "url": "https://dexscreener.com/robinhood/0xe6fcaf560ed1b9067407e70a7ead037d65b6b759"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xa157E2fcfc2b0BF49113686Ab93BE152047Bc2A2",
-        "description": "The Kid from the Screen\n\nPixBoy was born in 1995, in the early days of the internet. One day he slipped into an old computer, and the screen went dark. He staye",
-        "url": "https://dexscreener.com/robinhood/0xa157e2fcfc2b0bf49113686ab93be152047bc2a2"
       }
     ]
   },
