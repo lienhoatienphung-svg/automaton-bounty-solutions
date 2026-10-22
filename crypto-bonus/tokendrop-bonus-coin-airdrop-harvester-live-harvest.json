@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T07:30:11.701Z",
-  "latencyMs": 1561,
+  "executedAt": "2026-10-22T07:44:21.722Z",
+  "latencyMs": 1339,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #527: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #528: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "8xH5RFEkSyneYBhCZh5gi2svgdyrDCREW9SxCfKuYgFd",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Sasona is the coin of the Sasona Network, a decentralised network that helps AI agents pay safely on the internet. Every service fee on the network buys SASONA,",
+      "url": "https://dexscreener.com/solana/8xh5rfeksyneybhczh5gi2svgdyrdcrew9sxcfkuygfd"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "4yGRjWjRQ7zfeZ4BCuEFiXScsCEhu1P5RwUBwAPdpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "FloatSheets is a live beta for USDG settled synthetic equity perpetuals on Robinhood Chain. Traders can take leveraged long or short exposure to configured stoc",
       "url": "https://dexscreener.com/robinhood/0x4a67ea0d194058558f4926b6bf6b758ef8976675"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "5V8QnDgzmzG6gPtikA3YmfYUF9eaMoYJyvygG2C9pump",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Cargo secured. Rooftop cleared. GTAVI $1 Coin makes a golden getaway above the neon streets. 🚁🪙🌴",
-      "url": "https://dexscreener.com/solana/5v8qndgzmzg6gptika3ymfyuf9eamoyjyvygg2c9pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 90,
-      "priceBtc": 0.000009808422415761715
+      "priceBtc": 0.000009859536563485044
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 86,
-      "priceBtc": 0.00002812010186559486
+      "priceBtc": 0.000028104582009194786
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 444,
-      "priceBtc": 0.0000037573740256495188
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 115,
-      "priceBtc": 9.522042950929022e-8
+      "marketCapRank": 462,
+      "priceBtc": 0.0000036145398191702985
     },
     {
       "name": "Monero",
       "symbol": "XMR",
       "marketCapRank": 13,
-      "priceBtc": 0.007848245591531283
+      "priceBtc": 0.007765085880552148
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 113,
+      "priceBtc": 9.580290323249256e-8
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 146,
+      "priceBtc": 0.000003982311673491173
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 80,
-      "priceBtc": 0.00004455708219398675
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.015386384855256433
+      "priceBtc": 0.00004471133607001184
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 29,
-      "priceBtc": 0.000012067998305284487
+      "priceBtc": 0.00001208568778493363
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "refactor(indexer): split indexer.ts into handler modules per contract",
-      "url": "https://github.com/Godgift-care/sci-healthcare-backend/issues/122",
-      "createdAt": "2026-10-20T01:23:20Z"
+      "title": "Create SKILL.md",
+      "url": "https://github.com/Tsukimarf/PiRC/pull/1",
+      "createdAt": "2026-04-12T09:36:45Z"
     },
     {
-      "title": "Support both LEZ testnets: legacy via Piñata, v0.3 via a hosted claim service (0.5.0)",
-      "url": "https://github.com/logos-co/lez-faucet/pull/23",
-      "createdAt": "2026-10-21T15:45:02Z"
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/58",
+      "createdAt": "2026-10-21T19:56:22Z"
     },
     {
-      "title": "DOCS end-of-session docs pass 2026-10-21 (evening)",
-      "url": "https://github.com/4thtech/agentlink/pull/378",
-      "createdAt": "2026-10-21T20:58:25Z"
+      "title": "Run tasks on Harbor instead of Inspect",
+      "url": "https://github.com/BuidlGuidl/ethevals/pull/31",
+      "createdAt": "2026-10-21T21:58:59Z"
     },
     {
-      "title": "Kimi K3 support",
-      "url": "https://github.com/tpurtell/cuteafd/issues/273",
-      "createdAt": "2026-10-15T06:49:01Z"
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
     },
     {
-      "title": "docs(receipts): 2.7.8 feedback parity on f367d08 — PASS",
-      "url": "https://github.com/mcp-tool-shop-org/xrpl-lab/pull/44",
-      "createdAt": "2026-10-22T07:25:55Z"
+      "title": "Initial requirements: little-orbit MVP and roadmap",
+      "url": "https://github.com/neo-the-on3/little-orbit/issues/20",
+      "createdAt": "2026-10-20T08:50:16Z"
     },
     {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/technologiestiftung/innovationsdaten-berlin/pull/42",
-      "createdAt": "2026-06-14T22:41:14Z"
+      "title": "Spike: FROST 2-of-3 Ironwood spend on post-NU7 testnet",
+      "url": "https://github.com/zpredict/zpredict/issues/5",
+      "createdAt": "2026-10-22T07:42:25Z"
     }
   ]
 }
