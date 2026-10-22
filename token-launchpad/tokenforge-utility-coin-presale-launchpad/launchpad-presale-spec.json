@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T00:55:11.980Z",
-  "latencyMs": 368,
+  "executedAt": "2026-10-22T01:09:11.590Z",
+  "latencyMs": 347,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #477: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #478: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52920582,
+    "liveBlockNumber": 52921002,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459825,
-    "baseMainnetTopPoolsVolume24hUsd": 126997,
+    "baseMainnetTopPoolsLiquidityUsd": 459832,
+    "baseMainnetTopPoolsVolume24hUsd": 161076,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "coLdDsTiFricfFDWYbAkaX6GxcbUdxWE1t3aw5scNgM",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/colddstifricffdwybakax6gxcbudxwe1t3aw5scngm"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "6Stw6chjyp2UBeEtUwRMAohDZYjw7SoUhdmWJyscBh48",
+        "description": "Grilled Cheese Coin ($GCC) is an AI video-driven meme coin community dedicated to building the strongest, most abundant, cheesiest community on the Solana netwo",
+        "url": "https://dexscreener.com/solana/6stw6chjyp2ubeetuwrmaohdzyjw7souhdmwjyscbh48"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "2U67XRVx8SDRwsD8G9FtJvgcyjrkkkZRvZJTdDAxpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "51GmLE2LDtVC6WgN9ei2GfoAgNuDz5vdU8HbfVuwpump",
         "description": "Pointless Coin",
         "url": "https://dexscreener.com/solana/51gmle2ldtvc6wgn9ei2gfoagnudz5vdu8hbfvuwpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FjLFsaPKSxJGh25iTKCLEkthbeHKLJrxvHyJG9wqpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fjlfsapksxjgh25itkclekthbehkljrxvhyjg9wqpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xA8dB9c3Be8adD06139e0eC9AF15aE305D353Be5b",
-        "description": "Pour in USDG. Earn on every trade. One-click liquidity for The Standard Reserve's stock pools on Robinhood Chain.",
-        "url": "https://dexscreener.com/robinhood/0xa8db9c3be8add06139e0ec9af15ae305d353be5b"
       }
     ]
   },
