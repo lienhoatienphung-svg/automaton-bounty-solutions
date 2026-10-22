@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-22T05:44:31.898Z",
-  "latencyMs": 808,
+  "executedAt": "2026-10-22T05:46:15.026Z",
+  "latencyMs": 692,
   "companyName": "ShadowShield CTI Deep Web Exposure & Base Protocol Security Auditor",
-  "workTitle": "Growth & Sales Sprint #520: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Penumbra: Clinical Data Manager (In",
-  "targetUrl": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550",
+  "workTitle": "Delivery Sprint #521: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "targetUrl": "https://polymarket.com/event/will-any-country-leave-nato-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.0001,
+        "priceUsd": 1.00011,
         "liquidityUsd": 21385,
-        "volume24hUsd": 78648,
+        "volume24hUsd": 78823,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -122,7 +122,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000045,
         "liquidityUsd": 14836,
-        "volume24hUsd": 1573,
+        "volume24hUsd": 1534,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       }
     ]
@@ -207,6 +207,30 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
+        "company": "Julia Goessler GmbH",
+        "roleOrTask": "Operations Manager (m/w/d) | Leader | Remote",
+        "industryTags": [
+          "Remote",
+          "Business Operations"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/julia-goessler-gmbh/operations-manager-leader-remote-berlin-143595",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "nailmondo GmbH",
+        "roleOrTask": "Head of Performance Marketing – Meta Ads (m/w/d)",
+        "industryTags": [
+          "Remote",
+          "Online Marketing"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/nailmondo-gmbh/head-of-performance-marketing-meta-ads-porta-westfalica-303949",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
         "company": "workato",
         "roleOrTask": "Senior Rust Developer",
         "industryTags": [
@@ -236,28 +260,6 @@
         ],
         "compensation": "Instant Milestone USDC / Wire",
         "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/workato/senior-rust-developer-berlin-272087",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "autoscout24",
-        "roleOrTask": "Senior Sales Operations Manager – Compensation & Planning (m/w/d)",
-        "industryTags": [
-          "Sales"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-sales-operations-manager-compensation-planning-274397",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "commercetools",
-        "roleOrTask": "Senior Technical Support Specialist (m/f/x)",
-        "industryTags": [
-          "Operations"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/commercetools/senior-technical-support-specialist-munchen-bayern-259886",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
