@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-22T07:34:05.228Z",
-  "latencyMs": 626,
+  "executedAt": "2026-10-22T07:46:39.603Z",
+  "latencyMs": 2053,
   "companyName": "Automated Test Suite Generation & Sentry Bug Triage",
-  "workTitle": "Delivery Sprint #595: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
-  "targetUrl": "https://polymarket.com/event/china-x-india-military-clash-by-december-31",
+  "workTitle": "Growth & Sales Sprint #596: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -18,7 +18,7 @@
         "eventId": "17858",
         "title": "Ukraine recognizes Russian sovereignty over its territory by...?",
         "volumeUsd": 2659513,
-        "liquidityUsd": 47438,
+        "liquidityUsd": 27743,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025"
@@ -36,7 +36,7 @@
         "eventId": "16263",
         "title": "Macron out by...?",
         "volumeUsd": 2219759,
-        "liquidityUsd": 66372,
+        "liquidityUsd": 63171,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/macron-out-in-2025"
@@ -44,7 +44,7 @@
       {
         "eventId": "22448",
         "title": "Taylor Swift pregnant by...?",
-        "volumeUsd": 2060036,
+        "volumeUsd": 2060327,
         "liquidityUsd": 609,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
@@ -54,7 +54,7 @@
         "eventId": "18558",
         "title": "Ukraine election called by...?",
         "volumeUsd": 1861989,
-        "liquidityUsd": 19521,
+        "liquidityUsd": 17346,
         "yesNoSum": 1,
         "arbEdgeBps": 0,
         "url": "https://polymarket.com/event/ukraine-election-called-in-2025"
@@ -70,9 +70,9 @@
         "dexId": "quickswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00011,
-        "liquidityUsd": 104874,
-        "volume24hUsd": 79292,
+        "priceUsd": 1.0001,
+        "liquidityUsd": 104873,
+        "volume24hUsd": 83215,
         "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
@@ -92,7 +92,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000042,
         "liquidityUsd": 129291,
-        "volume24hUsd": 23586,
+        "volume24hUsd": 25916,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
       },
       {
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00012,
+        "priceUsd": 1.0001,
         "liquidityUsd": 21385,
-        "volume24hUsd": 79979,
+        "volume24hUsd": 80512,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -112,7 +112,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000048,
         "liquidityUsd": 12035,
-        "volume24hUsd": 5249,
+        "volume24hUsd": 5234,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
@@ -207,57 +207,59 @@
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Agilerobotsse",
-        "roleOrTask": "Senior Forward Deployed Engineer (all genders)",
+        "company": "neaSOL GmbH",
+        "roleOrTask": "Werkstudent (m/w/d) Projektmanagment",
         "industryTags": [
-          "Applied Automation Intelligence"
+          "Power Engineering and Environmental Engineering"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-forward-deployed-engineer-all-genders-munich-bavaria-44708",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/neasol-gmbh/werkstudent-projektmanagment-dormagen-189708",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Agilerobotsse",
-        "roleOrTask": "Senior C++ Performance Engineer (all genders)",
+        "company": "Deep Media Technologies",
+        "roleOrTask": "(Junior) Online Marketing Manager (all genders)",
         "industryTags": [
-          "Applied Automation Intelligence"
+          "Online Marketing"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-c-performance-engineer-all-genders-munich-bavaria-418975",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/deep-media-technologies/junior-online-marketing-manager-all-genders-hamburg-12577",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "gitlab",
-        "roleOrTask": "Corporate Development Director",
+        "company": "experics digital GmbH",
+        "roleOrTask": "Content & Digital PR Manager (m/w/d)",
         "industryTags": [
-          "Corporate Affairs"
+          "Public Relations",
+          "Corporate Communication"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-corporate-development-director-438482",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/experics-digital-gmbh/content-digital-pr-manager-lingen-131153",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "intercom",
-        "roleOrTask": "Engineering Manager, AI Group",
+        "company": "experics digital GmbH",
+        "roleOrTask": "Marketing Manager (m/w/d)",
         "industryTags": [
-          "Engineering"
+          "Marketing Manager"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/intercom/engineering-manager-ai-group-berlin-33291",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/experics-digital-gmbh/marketing-manager-lingen-110045",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "zscaler",
-        "roleOrTask": "Account Executive, Enterprise",
+        "company": "InnoSenT GmbH",
+        "roleOrTask": "Sales Manager (m/w/d) – New Business / Akquise",
         "industryTags": [
-          "EMEA Field Sales"
+          "Management",
+          "Team Leader"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/zscaler/account-executive-enterprise-484619",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/innosent-gmbh/sales-manager-new-business-akquise-donnersdorf-242904",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
