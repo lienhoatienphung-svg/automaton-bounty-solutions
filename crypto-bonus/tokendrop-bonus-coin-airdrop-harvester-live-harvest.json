@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T07:28:27.083Z",
-  "latencyMs": 945,
+  "executedAt": "2026-10-22T07:30:11.701Z",
+  "latencyMs": 1561,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #526: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #527: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "refactor(indexer): split indexer.ts into handler modules per contract",
+      "url": "https://github.com/Godgift-care/sci-healthcare-backend/issues/122",
+      "createdAt": "2026-10-20T01:23:20Z"
+    },
+    {
+      "title": "Support both LEZ testnets: legacy via Piñata, v0.3 via a hosted claim service (0.5.0)",
+      "url": "https://github.com/logos-co/lez-faucet/pull/23",
+      "createdAt": "2026-10-21T15:45:02Z"
+    },
+    {
       "title": "DOCS end-of-session docs pass 2026-10-21 (evening)",
       "url": "https://github.com/4thtech/agentlink/pull/378",
       "createdAt": "2026-10-21T20:58:25Z"
@@ -283,16 +293,6 @@
       "title": "fix(deps): update dependency lucide-react to v1",
       "url": "https://github.com/technologiestiftung/innovationsdaten-berlin/pull/42",
       "createdAt": "2026-06-14T22:41:14Z"
-    },
-    {
-      "title": "[Feature] Support PPO with shared actor and critic packing",
-      "url": "https://github.com/InternLM/xtuner/pull/2186",
-      "createdAt": "2026-10-16T08:06:54Z"
-    },
-    {
-      "title": "test(managed-agent): atomically claim MCP fixture closes",
-      "url": "https://github.com/QwenLM/qwen-code/pull/15158",
-      "createdAt": "2026-10-22T03:57:05Z"
     }
   ]
 }
