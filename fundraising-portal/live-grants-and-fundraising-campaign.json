@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-22T01:59:50.968Z",
-  "latencyMs": 526,
+  "executedAt": "2026-10-22T02:02:00.555Z",
+  "latencyMs": 1357,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #486: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #487: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "Audience surfaces, round 2: packages vocabulary and the GrantClient contract",
+          "url": "https://github.com/wandering-compiler/sdk/pull/97",
+          "repositoryUrl": "https://api.github.com/repos/wandering-compiler/sdk",
+          "updatedAt": "2026-10-22T02:01:56Z"
+        },
+        {
+          "title": "docs: handoff refresh 2026-10-22 (D124–D157 answered; D158–D168 pending)",
+          "url": "https://github.com/CorbanuCore/CorbanuTerminal/pull/1281",
+          "repositoryUrl": "https://api.github.com/repos/CorbanuCore/CorbanuTerminal",
+          "updatedAt": "2026-10-22T02:01:55Z"
+        },
+        {
+          "title": "ACULTA Forum dev180: migração protegida das denúncias",
+          "url": "https://github.com/coletivo420/aculta/pull/297",
+          "repositoryUrl": "https://api.github.com/repos/coletivo420/aculta",
+          "updatedAt": "2026-10-22T02:01:57Z"
+        },
+        {
+          "title": "chore: release main",
+          "url": "https://github.com/elct9620/kobako/pull/110",
+          "repositoryUrl": "https://api.github.com/repos/elct9620/kobako",
+          "updatedAt": "2026-10-22T02:01:54Z"
+        },
+        {
+          "title": "New package: DiRoots.DiRootsOne version 2.6.3 (identifier migration)",
+          "url": "https://github.com/microsoft/winget-pkgs/pull/458346",
+          "repositoryUrl": "https://api.github.com/repos/microsoft/winget-pkgs",
+          "updatedAt": "2026-10-22T02:01:54Z"
+        },
+        {
+          "title": "feat(integrations): scoped tokens, external MCP mount, REST surface, channel attribution",
+          "url": "https://github.com/mdennis281/dispatch/pull/382",
+          "repositoryUrl": "https://api.github.com/repos/mdennis281/dispatch",
+          "updatedAt": "2026-10-22T02:01:53Z"
+        },
+        {
+          "title": "ops(actions): consolidated matrix upgrade + modular issue-comment router for spam/quota reduction",
+          "url": "https://github.com/timerloggedout-spec/termux-monorepo/pull/1483",
+          "repositoryUrl": "https://api.github.com/repos/timerloggedout-spec/termux-monorepo",
+          "updatedAt": "2026-10-22T02:01:59Z"
+        },
+        {
+          "title": "feat(scanners)!: actionlint, cfn-lint/cfn-guard, gitleaks, zizmor and trivy fs as builtin scanners",
+          "url": "https://github.com/awslabs/automated-security-helper/pull/727",
+          "repositoryUrl": "https://api.github.com/repos/awslabs/automated-security-helper",
+          "updatedAt": "2026-10-22T02:01:52Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
