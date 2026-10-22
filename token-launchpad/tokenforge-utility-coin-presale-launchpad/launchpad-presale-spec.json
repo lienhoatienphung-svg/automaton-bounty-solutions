@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T07:57:59.485Z",
-  "latencyMs": 698,
+  "executedAt": "2026-10-22T08:11:38.516Z",
+  "latencyMs": 608,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #527: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #528: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52933265,
+    "liveBlockNumber": 52933675,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,46 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 449772,
-    "baseMainnetTopPoolsVolume24hUsd": 195854,
+    "baseMainnetTopPoolsLiquidityUsd": 449773,
+    "baseMainnetTopPoolsVolume24hUsd": 190448,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6NeknVKDrVf687gB68VhN3tHX2xBKdJW7RuTQpgpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/6neknvkdrvf687gb68vhn3thx2xbkdjw7rutqpgpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "79RFSBZ5wwZ2GUyNG9LCxmvxNRp5SmygTcBj1kHmpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/79rfsbz5wwz2guyng9lcxmvxnrp5smygtcbj1khmpump"
+      },
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0xfeeF9e068dcD8d9b662d6aD70e946cC4e31dfFfF",
+        "description": "CRAZYCOIN is a TapeFour mining project inspired by CZ’s “A Crazy Idea for Token Issuance.”\n\n⛏️ 95% Mining Supply\n🔒 Zero Team Reserve\n💎 Permanently Locked Liqu",
+        "url": "https://dexscreener.com/bsc/0xfeef9e068dcd8d9b662d6ad70e946cc4e31dffff"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GMDaSAbntf9ZTGvnAj53Vn3pSRVo6oe6NaiKLYy9pump",
+        "description": "Capecoin",
+        "url": "https://dexscreener.com/solana/gmdasabntf9ztgvnaj53vn3psrvo6oe6naiklyy9pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FUjWyrLp2pViJ9qte6J2q1aKQLRD4pDrqQVqkn91pump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fujwyrlp2pvij9qte6j2q1akqlrd4pdrqqvqkn91pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "49FQAKUaRNTzetKLdz84YD9zJQhc62pEhKGy7Et6pump",
+        "description": "Moonero",
+        "url": "https://dexscreener.com/solana/49fqakuarntzetkldz84yd9zjqhc62pehkgy7et6pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9baGGPuKCZNMP8iKPgkvGjt4j67U6gkSmzwPgETRpump",
@@ -45,42 +81,6 @@
         "tokenAddress": "AxeD1WdhW9d61x4A7Mzp6bbbZb4HiNBF548rskeTpump",
         "description": "Lets do this!",
         "url": "https://dexscreener.com/solana/axed1wdhw9d61x4a7mzp6bbbzb4hinbf548rsketpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6Yw5WMjH5sjnDPyGT8RxNtY79vr2YQ2BAqkaJvKPfury",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6yw5wmjh5sjndpygt8rxnty79vr2yq2baqkajvkpfury"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DnMuwmpuDacuFdzpqVLLmT7xcKJQnFrGSMJnAJeBZW7T",
-        "description": "Ccat",
-        "url": "https://dexscreener.com/solana/dnmuwmpudacufdzpqvllmt7xckjqnfrgsmjnajebzw7t"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3fSy8fP67zS9tdFNk2URVEXLseNUcmiCauLkDmzCpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/3fsy8fp67zs9tdfnk2urvexlsenucmicaulkdmzcpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7BZqbAWt4mSfm9xDeZ3VaRkbhzD7g17mSfBbz87hpump",
-        "description": "PHP // NULL",
-        "url": "https://dexscreener.com/solana/7bzqbawt4msfm9xdez3varkbhzd7g17msfbbz87hpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EZnTPWyCqN3ZMrtEWzBsyfofWv4MoQvFkWxrSEBbpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ezntpwycqn3zmrtewzbsyfofwv4moqvfkwxrsebbpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BUQGK3AqZH9rZZSVmsb5DZVH6hcx3yiY3bGW8RRCpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/buqgk3aqzh9rzzsvmsb5dzvh6hcx3yiy3bgw8rrcpump"
       }
     ]
   },
