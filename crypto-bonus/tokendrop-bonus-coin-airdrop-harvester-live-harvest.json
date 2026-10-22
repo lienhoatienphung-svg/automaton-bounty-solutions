@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T02:29:05.653Z",
-  "latencyMs": 845,
+  "executedAt": "2026-10-22T02:44:42.657Z",
+  "latencyMs": 1298,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #491: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #492: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "B37wSqqYtPfiUTpWZMYiUYyG7BCULMcJZFzboSHrpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Caillou is an iconic children's TV series about the daily life of an inquisitive four-year-old boy named Caillou. It became a global television icon, capturing ",
+      "url": "https://dexscreener.com/solana/b37wsqqytpfiutpwzmyiuyyg7bculmcjzfzboshrpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "F7q6cGpDRHewRpbGJ5P6e5pd1KGhv9gMbEYMmHPEpump",
       "boostAmount": 50,
       "totalBoostAmount": 50,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "We live in a time where everything is digitized; bring back physical media.",
       "url": "https://dexscreener.com/solana/dsf3u9855venohikkhttvmcv6trzqwbnbncpaxvozlwe"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "BmhGvQJ43MDuGSv3j7MsmZcFSo9PQgVPhP55ZNAfpump",
-      "boostAmount": 50,
-      "totalBoostAmount": 50,
-      "description": "Charts moving, coffee brewing, side-eye undefeated—DoChi’s night shift is powered by pure crypto aura. ☕️🐕 $DOCHI",
-      "url": "https://dexscreener.com/solana/bmhgvqj43mdugsv3j7msmzcfso9pqgvphp55znafpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,62 +217,72 @@
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
-      "marketCapRank": 88,
-      "priceBtc": 0.000009873917871515937
+      "marketCapRank": 90,
+      "priceBtc": 0.00000989149529483798
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 470,
-      "priceBtc": 0.0000035485507333793667
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 114,
-      "priceBtc": 9.595078943011228e-8
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9975865516553706
+      "marketCapRank": 478,
+      "priceBtc": 0.0000034221690058406088
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 84,
-      "priceBtc": 0.00002832243795659404
+      "priceBtc": 0.000028470548093616452
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.999538917006269
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 80,
-      "priceBtc": 0.00004521654079454195
+      "priceBtc": 0.00004509877368052918
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 114,
+      "priceBtc": 9.616131400350482e-8
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.015692117903935033
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
-      "marketCapRank": 140,
-      "priceBtc": 0.000004363269739731538
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.00006230177783428317
+      "marketCapRank": 141,
+      "priceBtc": 0.000004267370954604592
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "FLOP CHATGPT HANDOFF — NEWEST COMMENT IS SOLE CURRENT AUTHORITY (historical archive preserved)",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/765",
+      "createdAt": "2026-10-06T05:27:29Z"
+    },
+    {
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
+    },
+    {
+      "title": "[P0] Migrate FLOP to existing AWS and safely retire FLOP-owned OCI instance",
+      "url": "https://github.com/hanamaru777/technocore-safe-agent/issues/842",
+      "createdAt": "2026-10-12T04:03:25Z"
+    },
+    {
       "title": "expand \"auto eat\" functionality",
       "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
       "createdAt": "2026-10-07T03:48:40Z"
-    },
-    {
-      "title": "Export save data through a native Save dialog on desktop",
-      "url": "https://github.com/quincarter/marvel-champions-digital-game/pull/343",
-      "createdAt": "2026-10-22T02:04:49Z"
     },
     {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
@@ -280,19 +290,9 @@
       "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "chore(deps): bump tempo dependencies to 7076f65",
-      "url": "https://github.com/lukasrosario/foundry/pull/1",
-      "createdAt": "2026-07-21T01:46:08Z"
-    },
-    {
-      "title": "[W03-3 BLOCKED] Approve BG-01–BG-12 wallet/API contract and synthetic QA handoff",
-      "url": "https://github.com/allencortez1000/RHC-web3/issues/3",
-      "createdAt": "2026-10-13T05:44:08Z"
-    },
-    {
-      "title": "feat(dev_tools): add PromptSearchOptimizer, a multi-candidate prompt-…",
-      "url": "https://github.com/openJiuwen-ai/agent-core/pull/1008",
-      "createdAt": "2026-08-30T15:06:46Z"
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
     }
   ]
 }
