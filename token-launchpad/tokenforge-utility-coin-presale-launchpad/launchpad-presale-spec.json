@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T01:46:13.966Z",
-  "latencyMs": 338,
+  "executedAt": "2026-10-22T02:02:08.071Z",
+  "latencyMs": 662,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #483: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #484: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52922113,
+    "liveBlockNumber": 52922590,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 430898,
-    "baseMainnetTopPoolsVolume24hUsd": 162709,
+    "baseMainnetTopPoolsLiquidityUsd": 459852,
+    "baseMainnetTopPoolsVolume24hUsd": 176585,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "CC5emR5JfRsZKTmodTuE7xjk4SuU7zs1Yhyz4C3mpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/cc5emr5jfrszktmodtue7xjk4suu7zs1yhyz4c3mpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/86j9yovzuucjlaq4hfyax1cphrc9sjhwhsn4h9hh79be"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BvzwP111BGSRHWepDRZqe5Ug875iqp7SYLbEb3Nvpump",
+        "description": "half bean half cat\nhold and earn $bean rewards\nbeancat",
+        "url": "https://dexscreener.com/solana/bvzwp111bgsrhwepdrzqe5ug875iqp7sylbeb3nvpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Air8Q9i3cqx7ppNDriR1AhVoExs3ZsgDP91J466Qpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "2XbgkshLVTPUFE66sCSgTrherQSJeguZsLGMohaWpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/2xbgkshlvtpufe66scsgtrherqsjeguzslgmohawpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x4180d0a25d71af2f1260a44a097857c08cfe3a34",
-        "description": "Forkable, metered data cells on Robinhood Chain. Run them on live data, pay per run, and every fork pays its authors.",
-        "url": "https://dexscreener.com/robinhood/0x4180d0a25d71af2f1260a44a097857c08cfe3a34"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FAd3e6oNxKJeyHKnbMkb9ybgDP9yJYPurZQwzFZqCNDL",
-        "description": "Text cantext the plan. Send a photo once it’s done. Collect a sliver of tokenized stock for keeping your word.",
-        "url": "https://dexscreener.com/solana/fad3e6onxkjeyhknbmkb9ybgdp9yjypurzqwzfzqcndl"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3TDrPF6kQGXtB1zphZb33egc5UT9XaRFPtLRH5JWpump",
-        "description": "100% of fees go towards buyback and to hit whales of Kimchi and other tokens\n\nLet's get Kimchi his deserved 100M PNL",
-        "url": "https://dexscreener.com/solana/3tdrpf6kqgxtb1zphzb33egc5ut9xarfptlrh5jwpump"
       }
     ]
   },
