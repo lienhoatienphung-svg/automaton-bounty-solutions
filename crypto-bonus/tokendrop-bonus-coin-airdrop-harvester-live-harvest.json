@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T05:57:03.526Z",
-  "latencyMs": 1278,
+  "executedAt": "2026-10-22T05:58:48.816Z",
+  "latencyMs": 724,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #514: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #515: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,26 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(deps): update dependency @lucide/astro to v1",
+      "url": "https://github.com/jackmcpickle/eliteskills/pull/77",
+      "createdAt": "2026-10-18T22:07:51Z"
+    },
+    {
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "🤝 Agent coordination channel (standing, vol. 2)",
+      "url": "https://github.com/d-hinders/Haven-AI/issues/3193",
+      "createdAt": "2026-09-20T06:23:41Z"
+    },
+    {
       "title": "Draft: continuity ledger, canon fixes, and staged 10k chapter expansion",
       "url": "https://github.com/danielmartinez-maker/TheSEARemembers/pull/103",
       "createdAt": "2026-10-14T03:22:20Z"
@@ -273,26 +293,6 @@
       "title": "feat(v22): app support for the v2.2 programs behind NEXT_PUBLIC_DEVNET_V22 (DRAFT, build only)",
       "url": "https://github.com/dcccrypto/percolator-launch/pull/3235",
       "createdAt": "2026-10-07T00:07:47Z"
-    },
-    {
-      "title": "fix(CYBERTRON-908): convert heic images to jpeg so they preview in chrome",
-      "url": "https://github.com/Cybertron-HNG/zedu-fe/pull/68",
-      "createdAt": "2026-10-20T22:53:28Z"
-    },
-    {
-      "title": "fix(deps): update dependency lucide-react to v1",
-      "url": "https://github.com/BoomchainLabs/agunnaya-protocol/pull/11",
-      "createdAt": "2026-03-23T18:18:05Z"
-    },
-    {
-      "title": "Sync private m1 changes and repair CI",
-      "url": "https://github.com/movement-network/aptos-core/pull/438",
-      "createdAt": "2026-10-22T05:41:53Z"
-    },
-    {
-      "title": "STP: support native ARC20 through existing asset interfaces",
-      "url": "https://github.com/sat20-labs/indexer/pull/1",
-      "createdAt": "2026-10-22T03:57:49Z"
     }
   ]
 }
