@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-22T01:48:45.137Z",
-  "latencyMs": 643,
+  "executedAt": "2026-10-22T01:51:13.837Z",
+  "latencyMs": 727,
   "companyName": "Automated Test Suite Generation & Sentry Bug Triage",
-  "workTitle": "Growth & Sales Sprint #548: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #549: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetUrl": "https://polymarket.com/event/kraken-ipo-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
@@ -66,13 +66,23 @@
     "wethMaxSpreadBps": 0,
     "topLiquidPools": [
       {
+        "pairAddress": "0x5D0bC342178C8Fe2c2f9A9fcC9D52555C99936db",
+        "dexId": "quickswap",
+        "baseSymbol": "USDC",
+        "quoteSymbol": "USDbC",
+        "priceUsd": 1.00011,
+        "liquidityUsd": 103440,
+        "volume24hUsd": 67459,
+        "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
+      },
+      {
         "pairAddress": "0x0E635F8EeED4F7279d56692D552F034ECE136019",
         "dexId": "alien-base",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000036,
         "liquidityUsd": 127649,
-        "volume24hUsd": 2893,
+        "volume24hUsd": 2871,
         "url": "https://dexscreener.com/base/0x0e635f8eeed4f7279d56692d552f034ece136019"
       },
       {
@@ -80,29 +90,19 @@
         "dexId": "aerodrome",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000036,
-        "liquidityUsd": 139372,
-        "volume24hUsd": 19723,
+        "priceUsd": 1.000038,
+        "liquidityUsd": 139373,
+        "volume24hUsd": 20985,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
-      },
-      {
-        "pairAddress": "0x5D0bC342178C8Fe2c2f9A9fcC9D52555C99936db",
-        "dexId": "quickswap",
-        "baseSymbol": "USDC",
-        "quoteSymbol": "USDbC",
-        "priceUsd": 1.00012,
-        "liquidityUsd": 75923,
-        "volume24hUsd": 65506,
-        "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
         "pairAddress": "0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4",
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.00011,
+        "priceUsd": 1.00012,
         "liquidityUsd": 21385,
-        "volume24hUsd": 78129,
+        "volume24hUsd": 78233,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -110,9 +110,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000026,
+        "priceUsd": 1.000036,
         "liquidityUsd": 12035,
-        "volume24hUsd": 4241,
+        "volume24hUsd": 4691,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
