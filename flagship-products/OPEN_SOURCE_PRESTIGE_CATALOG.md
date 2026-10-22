@@ -4,9 +4,9 @@ All flagship repositories below are **100% working, zero-dependency Node.js 18+ 
 
 | Flagship Repository | Live Verification Status | Official Release | Topics |
 | :--- | :--- | :--- | :--- |
-| [**`x402-base-paywall-sdk`**](https://github.com/lienhoatienphung-svg/x402-base-paywall-sdk) | ✅ `PASS: x402-base-paywall-sdk verified against Base Mainnet Block #52933744` | [v1.0.0](https://github.com/lienhoatienphung-svg/x402-base-paywall-sdk/releases/tag/v1.0.0) | `x402`, `http-402`, `base-chain`, `usdc`, `ai-agents`, `micropayments`, `web3`, `nodejs` |
+| [**`x402-base-paywall-sdk`**](https://github.com/lienhoatienphung-svg/x402-base-paywall-sdk) | ✅ `PASS: x402-base-paywall-sdk verified against Base Mainnet Block #52934191` | [v1.0.0](https://github.com/lienhoatienphung-svg/x402-base-paywall-sdk/releases/tag/v1.0.0) | `x402`, `http-402`, `base-chain`, `usdc`, `ai-agents`, `micropayments`, `web3`, `nodejs` |
 | [**`mcp-security-cti-scanner`**](https://github.com/lienhoatienphung-svg/mcp-security-cti-scanner) | ✅ `PASS: mcp-security-cti-scanner verified live against github.com (83/100)` | [v1.0.0](https://github.com/lienhoatienphung-svg/mcp-security-cti-scanner/releases/tag/v1.0.0) | `security-scanner`, `cti`, `mcp`, `ai-security`, `devsecops`, `smart-contract-audit`, `cli`, `nodejs` |
-| [**`defi-bonus-yield-radar`**](https://github.com/lienhoatienphung-svg/defi-bonus-yield-radar) | ✅ `PASS: defi-bonus-yield-radar fetched 3 live bonus pools (top APY: 967.63%)` | [v1.0.0](https://github.com/lienhoatienphung-svg/defi-bonus-yield-radar/releases/tag/v1.0.0) | `defi`, `yield-farming`, `base-chain`, `arbitrum`, `solana`, `dexscreener`, `crypto-bot`, `cli` |
+| [**`defi-bonus-yield-radar`**](https://github.com/lienhoatienphung-svg/defi-bonus-yield-radar) | ✅ `PASS: defi-bonus-yield-radar fetched 3 live bonus pools (top APY: 971.7%)` | [v1.0.0](https://github.com/lienhoatienphung-svg/defi-bonus-yield-radar/releases/tag/v1.0.0) | `defi`, `yield-farming`, `base-chain`, `arbitrum`, `solana`, `dexscreener`, `crypto-bot`, `cli` |
 
 ---
 
