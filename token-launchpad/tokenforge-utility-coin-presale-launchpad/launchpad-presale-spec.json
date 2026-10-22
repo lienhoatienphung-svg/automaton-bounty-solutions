@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T08:13:51.422Z",
-  "latencyMs": 603,
+  "executedAt": "2026-10-22T08:28:45.745Z",
+  "latencyMs": 714,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #529: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #530: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Penumbra: Clinical Data Manager (In",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52933741,
+    "liveBlockNumber": 52934189,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 449773,
-    "baseMainnetTopPoolsVolume24hUsd": 189405,
+    "baseMainnetTopPoolsVolume24hUsd": 186246,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x0aF9a0016769951e7A6B9A88358748b1f34F277B",
+        "description": "The native token of a GameFi + Meme launchpad.",
+        "url": "https://dexscreener.com/bsc/0x0af9a0016769951e7a6b9a88358748b1f34f277b"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9J3cVkhGp2Ma9AgUNooVDTiDDHNb3PKRwyd2AB9gpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9j3cvkhgp2ma9agunoovdtiddhnb3pkrwyd2ab9gpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "5DARbm7pxGgSLjabZgcJQ4dGBDHKMmy1EDHZxa1Mpump",
+        "description": "She took the wheel then she took the sky a midnight memecoin for beautiful chaos and people who missed the last exit",
+        "url": "https://dexscreener.com/solana/5darbm7pxggsljabzgcjq4dgbdhkmmy1edhzxa1mpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3Xq3nspu91fEzGbzi9kSJ4FYAnBeeiLHPoxQx6cPSQj1",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/3xq3nspu91fezgbzi9ksj4fyanbeeilhpoxqx6cpsqj1"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "G9xrNbBBYBsGFL2XiHdXDy56gWfAMnefD6L8ZKHLpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "79RFSBZ5wwZ2GUyNG9LCxmvxNRp5SmygTcBj1kHmpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/79rfsbz5wwz2guyng9lcxmvxnrp5smygtcbj1khmpump"
-      },
-      {
-        "chainId": "bsc",
-        "tokenAddress": "0xfeeF9e068dcD8d9b662d6aD70e946cC4e31dfFfF",
-        "description": "CRAZYCOIN is a TapeFour mining project inspired by CZ’s “A Crazy Idea for Token Issuance.”\n\n⛏️ 95% Mining Supply\n🔒 Zero Team Reserve\n💎 Permanently Locked Liqu",
-        "url": "https://dexscreener.com/bsc/0xfeef9e068dcd8d9b662d6ad70e946cc4e31dffff"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "GMDaSAbntf9ZTGvnAj53Vn3pSRVo6oe6NaiKLYy9pump",
-        "description": "Capecoin",
-        "url": "https://dexscreener.com/solana/gmdasabntf9ztgvnaj53vn3psrvo6oe6naiklyy9pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FUjWyrLp2pViJ9qte6J2q1aKQLRD4pDrqQVqkn91pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fujwyrlp2pvij9qte6j2q1akqlrd4pdrqqvqkn91pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "49FQAKUaRNTzetKLdz84YD9zJQhc62pEhKGy7Et6pump",
-        "description": "Moonero",
-        "url": "https://dexscreener.com/solana/49fqakuarntzetkldz84yd9zjqhc62pehkgy7et6pump"
       }
     ]
   },
