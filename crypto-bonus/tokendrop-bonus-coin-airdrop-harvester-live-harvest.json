@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T00:27:58.131Z",
-  "latencyMs": 800,
+  "executedAt": "2026-10-22T00:29:31.806Z",
+  "latencyMs": 793,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #476: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #477: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -266,6 +266,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "feat(frontend): M3 guarded buy with submitted / mined / indexed states",
+      "url": "https://github.com/yuddy-s/AC_ON-esports-prediction-market/pull/20",
+      "createdAt": "2026-10-21T20:25:21Z"
+    },
+    {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
@@ -289,11 +294,6 @@
       "title": "[Perf] [NVIDIA] DSA: Pick any divisor of the tile count for the TileLang sparse decode split",
       "url": "https://github.com/sgl-project/sglang/pull/45274",
       "createdAt": "2026-10-20T01:21:03Z"
-    },
-    {
-      "title": "Couriers' token promises a bed and a meal the post-houses never give",
-      "url": "https://github.com/pruuk/DOGMud/issues/654",
-      "createdAt": "2026-10-22T00:25:53Z"
     }
   ]
 }
