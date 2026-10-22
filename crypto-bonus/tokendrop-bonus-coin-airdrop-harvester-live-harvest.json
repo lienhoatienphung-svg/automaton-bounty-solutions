@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T01:01:39.031Z",
-  "latencyMs": 831,
+  "executedAt": "2026-10-22T01:15:43.416Z",
+  "latencyMs": 1009,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #481: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #482: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -150,6 +150,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "jebnkrAULDzAxRHoHkE8vVmFsi5rNqv3xuriYWmpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "GTA Kimchi ($GTACHI) 🌴 The city meets the boss. One ticker. Vice City energy on Solana.",
+      "url": "https://dexscreener.com/solana/jebnkrauldzaxrhohke8vvmfsi5rnqv3xuriywmpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "DsF3U9855VENohikKhttVMcv6TRzQWbNbNCpaxVozLwe",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -203,14 +211,6 @@
       "totalBoostAmount": 10,
       "description": "Baby Kimchi earns you, Kimchi. The only Baby Kimchi with 3 percent tax for holders so you ACTUALLY EARN Kimchi by holding.",
       "url": "https://dexscreener.com/solana/kaee36ucwo3hcgks3pvu8vyz8ykkp8jyf8pbtvupump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump",
-      "boostAmount": 500,
-      "totalBoostAmount": 500,
-      "description": "He got his hands on the money. Now he won't let go. A tiny capuchin with a firm grip and absolutely no plans to share.",
-      "url": "https://dexscreener.com/solana/ehpugw1ghe46beysaa7chvozhwyometbp1ak1q7jpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -219,66 +219,66 @@
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009791328866965901
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 85,
-      "priceBtc": 0.000028333035738737644
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 113,
-      "priceBtc": 9.651150701811325e-8
-    },
-    {
-      "name": "Universal High Income",
-      "symbol": "UHI",
-      "marketCapRank": 783,
-      "priceBtc": 2.7372842332709215e-7
+      "priceBtc": 0.000009874996507809401
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006283918814830523
+      "priceBtc": 0.00006299807898588361
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 113,
+      "priceBtc": 9.674403266343676e-8
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "marketCapRank": 7,
-      "priceBtc": 0.0012729536655309
+      "priceBtc": 0.0012738174835337263
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 506,
-      "priceBtc": 0.0000032384774637947245
+      "marketCapRank": 481,
+      "priceBtc": 0.000003438430717233605
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9992586086507629
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 85,
+      "priceBtc": 0.000028223016654969295
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.015762577052064148
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 700,
+      "priceBtc": 0.0010950133229701382
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Testnet rehearsal part 3: the asset-losing reset (stacked on #753)",
-      "url": "https://github.com/ristik/bft-core/pull/755",
-      "createdAt": "2026-10-21T23:36:31Z"
+      "title": "Make Access policies useful with availability and guided grants",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/206",
+      "createdAt": "2026-10-21T21:48:05Z"
     },
     {
-      "title": "[rl] Verifiers: a harness that fails before the first turn is ERROR_SYSTEM",
-      "url": "https://github.com/felipemello1/torchtitan/pull/410",
-      "createdAt": "2026-10-22T00:06:26Z"
+      "title": "Upgrade React to 19",
+      "url": "https://github.com/Xahau/xrpl-hooks-ide/pull/369",
+      "createdAt": "2026-10-22T00:21:43Z"
     },
     {
-      "title": "perf(genrm): reduce response copying and group cleanup overhead",
-      "url": "https://github.com/NVIDIA-NeMo/Gym/pull/3625",
-      "createdAt": "2026-09-22T18:02:14Z"
+      "title": "TN-B package part 1: bridge tools image, post-genesis deploy, stateless lock-proof endpoint",
+      "url": "https://github.com/ristik/bft-core/pull/756",
+      "createdAt": "2026-10-22T00:27:13Z"
     },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
@@ -286,14 +286,14 @@
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Add external AI API cost calculator to Standalone Apps & Tools",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps/pull/1250",
-      "createdAt": "2026-10-22T00:56:35Z"
+      "title": "[None][perf] One-model speculative decoding: host work between steps, worker-produced target logits, KDA drafts' records",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM/pull/19989",
+      "createdAt": "2026-10-08T14:23:11Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/UnbloktTechnology/ComPilot-Examples/issues/103",
+      "createdAt": "2023-09-26T15:25:18Z"
     }
   ]
 }
