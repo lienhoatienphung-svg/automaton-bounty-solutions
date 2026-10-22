@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-22T01:43:23.267Z",
-  "latencyMs": 1031,
+  "executedAt": "2026-10-22T01:46:09.738Z",
+  "latencyMs": 801,
   "companyName": "ChainGrowth Web3 Technical SEO, Crypto Affiliate & B2B Lead Engine",
-  "workTitle": "Growth & Sales Sprint #536: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
-  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
+  "workTitle": "Delivery Sprint #537: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "targetUrl": "https://polymarket.com/event/macron-out-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -66,16 +66,6 @@
     "wethMaxSpreadBps": 0,
     "topLiquidPools": [
       {
-        "pairAddress": "0x5D0bC342178C8Fe2c2f9A9fcC9D52555C99936db",
-        "dexId": "quickswap",
-        "baseSymbol": "USDC",
-        "quoteSymbol": "USDbC",
-        "priceUsd": 1.00012,
-        "liquidityUsd": 104857,
-        "volume24hUsd": 64709,
-        "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
-      },
-      {
         "pairAddress": "0x0E635F8EeED4F7279d56692D552F034ECE136019",
         "dexId": "alien-base",
         "baseSymbol": "USDC",
@@ -92,17 +82,27 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000023,
         "liquidityUsd": 139371,
-        "volume24hUsd": 11779,
+        "volume24hUsd": 11781,
         "url": "https://dexscreener.com/base/0x98c7a2338336d2d354663246f64676009c7bda97"
+      },
+      {
+        "pairAddress": "0x5D0bC342178C8Fe2c2f9A9fcC9D52555C99936db",
+        "dexId": "quickswap",
+        "baseSymbol": "USDC",
+        "quoteSymbol": "USDbC",
+        "priceUsd": 1.00012,
+        "liquidityUsd": 75923,
+        "volume24hUsd": 64699,
+        "url": "https://dexscreener.com/base/0x5d0bc342178c8fe2c2f9a9fcc9d52555c99936db"
       },
       {
         "pairAddress": "0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4",
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.0001,
+        "priceUsd": 1.00011,
         "liquidityUsd": 21385,
-        "volume24hUsd": 77935,
+        "volume24hUsd": 78065,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -112,7 +112,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.000026,
         "liquidityUsd": 12035,
-        "volume24hUsd": 4224,
+        "volume24hUsd": 4241,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
