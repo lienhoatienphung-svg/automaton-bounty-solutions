@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T03:59:30.673Z",
-  "latencyMs": 1452,
+  "executedAt": "2026-10-22T04:15:55.270Z",
+  "latencyMs": 1103,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #501: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #502: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,22 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0xeD3C833CBF55CE7Fadc90ecA3f5F7E0C3E95DE70",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Tokenize Real World Events on Robinhood Chain.",
+      "url": "https://dexscreener.com/robinhood/0xed3c833cbf55ce7fadc90eca3f5f7e0c3e95de70"
+    },
+    {
+      "chainId": "robinhood",
+      "tokenAddress": "0x4a67Ea0D194058558F4926b6BF6B758ef8976675",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "FloatSheets is a live beta for USDG settled synthetic equity perpetuals on Robinhood Chain. Traders can take leveraged long or short exposure to configured stoc",
+      "url": "https://dexscreener.com/robinhood/0x4a67ea0d194058558f4926b6bf6b758ef8976675"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "5V8QnDgzmzG6gPtikA3YmfYUF9eaMoYJyvygG2C9pump",
       "boostAmount": 30,
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Nobody knows where OWOWO came from.\n\nNo roadmap. No promises. Just vibes and a stare you can’t unsee.",
       "url": "https://dexscreener.com/robinhood/0xa01ff10774cfe53c3fbc1d7d124c42e19f6afcbd"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xC9675fe679C7d4e1b94416F66D61c96127eb964a",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "The Robinhood CEO turns into a Giga Chad, his name is Giga Tenev!",
-      "url": "https://dexscreener.com/robinhood/0xc9675fe679c7d4e1b94416f66d61c96127eb964a"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "TruMPKdNddKAfguNcbHbZNcFwRknXMS9e63JEgoZVog",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "TRUMP OG IS THE FIRST TRUMP TOKEN Created with NOT RANDOM STUDIO! Contract address starts with TRUMP! Now let’s PUMP this Bad Boy! 🔥🚀💎👋🏻",
-      "url": "https://dexscreener.com/solana/trumpkdnddkafguncbhbzncfwrknxms9e63jegozvog"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,57 +217,72 @@
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
-      "marketCapRank": 89,
-      "priceBtc": 0.000009955757059100602
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 463,
-      "priceBtc": 0.0000036359195057251323
+      "marketCapRank": 90,
+      "priceBtc": 0.00000985700726282832
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 83,
-      "priceBtc": 0.000029393185457648778
+      "priceBtc": 0.000029348353130761196
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.0000620219940686382
+      "priceBtc": 0.00006176553543175015
     },
     {
-      "name": "Pepe",
-      "symbol": "PEPE",
-      "marketCapRank": 53,
-      "priceBtc": 5.446626660357077e-11
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 114,
+      "priceBtc": 9.587004123023855e-8
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 461,
+      "priceBtc": 0.0000035892253849815977
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9993251439823724
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015637582760767165
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 705,
-      "priceBtc": 0.0010849384760907013
+      "priceBtc": 0.015617451922899461
     },
     {
       "name": "Ethereum",
       "symbol": "ETH",
       "marketCapRank": 2,
-      "priceBtc": 0.02949263433810375
+      "priceBtc": 0.029465785255200723
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "fix(v3): use helper Bearer token API for daily reward count",
-      "url": "https://github.com/xchenya/MoviePilot-Plugins/pull/42",
-      "createdAt": "2026-10-22T03:58:43Z"
+      "title": "Hermes: attack and test the live pool on Base Sepolia (Circle USDC, 0x7387…4973, contracts 1812e7d). Do not redeploy",
+      "url": "https://github.com/scottonchain/microcredit-contract/issues/7",
+      "createdAt": "2026-10-03T21:57:31Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
+    },
+    {
+      "title": "OWNER DIRECTIVE — Zero-budget public launch and genuine liquidity gate",
+      "url": "https://github.com/hamidnikkhah660-arch/ai-native-l1/issues/12",
+      "createdAt": "2026-10-20T22:28:26Z"
     },
     {
       "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-20T17:25:33Z"
     },
     {
-      "title": "STP: support native ARC20 through existing asset interfaces",
-      "url": "https://github.com/sat20-labs/indexer/pull/1",
-      "createdAt": "2026-10-22T03:57:49Z"
-    },
-    {
-      "title": "feat(dev_tools): add PromptSearchOptimizer, a multi-candidate prompt-…",
-      "url": "https://github.com/openJiuwen-ai/agent-core/pull/1008",
-      "createdAt": "2026-08-30T15:06:46Z"
-    },
-    {
-      "title": "fix(attribution): resolve remaining 50 CodeCheck findings",
-      "url": "https://github.com/openJiuwen-ai/agent-core/pull/2106",
-      "createdAt": "2026-10-20T16:23:06Z"
-    },
-    {
-      "title": "Hermes: attack and test the live pool on Base Sepolia (Circle USDC, 0x7387…4973, contracts 1812e7d). Do not redeploy",
-      "url": "https://github.com/scottonchain/microcredit-contract/issues/7",
-      "createdAt": "2026-10-03T21:57:31Z"
+      "title": "docs(receipts): 2.7.7 live check on c99bab1 — PASS",
+      "url": "https://github.com/mcp-tool-shop-org/xrpl-lab/pull/41",
+      "createdAt": "2026-10-22T04:14:08Z"
     }
   ]
 }
