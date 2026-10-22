@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T06:52:02.219Z",
-  "latencyMs": 565,
+  "executedAt": "2026-10-22T06:54:36.632Z",
+  "latencyMs": 361,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #518: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #519: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52931287,
+    "liveBlockNumber": 52931364,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,18 @@
     "baseMainnetTopPoolsVolume24hUsd": 186353,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xf3d0ff0f45c00983a416f2b14f51a0fb4d16a5b2",
+        "description": "Token launchpad, trading terminal & RWA marketplace. Launch, discover and trade tokens and real-world assets on Robinhood Chain.",
+        "url": "https://dexscreener.com/robinhood/0xf3d0ff0f45c00983a416f2b14f51a0fb4d16a5b2"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BVRGKKfz63fCU4bztp2JTxHGCKFkXBHZBqoU32tFpump",
+        "description": "🍺 GARY — Just a Bloke.\n\nMeet Gary. A middle-aged British bloke with a receding hairline, a beer belly, a pint in his hand and absolutely no interest in pretend",
+        "url": "https://dexscreener.com/solana/bvrgkkfz63fcu4bztp2jtxhgckfkxbhzbqou32tfpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "TnUQ5TXY3yQezcmCKvMTg4W8SuCKrUReUXjG9Vqpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "HQLW2zDSnT9N32chWbfKJzj819rqVj8LYJhEuUqypump",
         "description": "I built **PATCHED** to help PHP administrators identify and resolve security vulnerabilities as quickly and efficiently as possible. With automated security mon",
         "url": "https://dexscreener.com/solana/hqlw2zdsnt9n32chwbfkjzj819rqvj8lyjheuuqypump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6F7wJ8CSEKFiahPemiVCdQfbaqbJQWiLShBdUhtvpump",
-        "description": "Traders are the new celebrities",
-        "url": "https://dexscreener.com/solana/6f7wj8csekfiahpemivcdqfbaqbjqwilshbduhtvpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "F2mrcqUA6K3VMBiAuqqDDaHmzY8Yw9SaPiTr2A9Npump",
-        "description": "PHP's official mascot with fees redirected to their official charity",
-        "url": "https://dexscreener.com/solana/f2mrcqua6k3vmbiauqqddahmzy8yw9sapitr2a9npump"
       }
     ]
   },
