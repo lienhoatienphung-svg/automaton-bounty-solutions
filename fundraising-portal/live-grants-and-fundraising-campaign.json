@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-22T07:05:08.891Z",
-  "latencyMs": 1104,
+  "executedAt": "2026-10-22T07:06:56.090Z",
+  "latencyMs": 1215,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #522: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #523: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "[truealpha-macro] Measure the risk-free rate from Treasury macro data with lineage (Refs #1255)",
+          "url": "https://github.com/wangzitian0/truealpha/pull/1495",
+          "repositoryUrl": "https://api.github.com/repos/wangzitian0/truealpha",
+          "updatedAt": "2026-10-22T07:06:53Z"
+        },
+        {
+          "title": "[P1] N40 · Provide Scope Publish, native dependencies, and recoverable handoff",
+          "url": "https://github.com/taco3064/nibfin/issues/41",
+          "repositoryUrl": "https://api.github.com/repos/taco3064/nibfin",
+          "updatedAt": "2026-10-22T07:06:50Z"
+        },
+        {
+          "title": "feat(quotes): convert approved B2B quotes to orders through prepayment port",
+          "url": "https://github.com/luogangan7-lgtm/opensite-commerce/pull/57",
+          "repositoryUrl": "https://api.github.com/repos/luogangan7-lgtm/opensite-commerce",
+          "updatedAt": "2026-10-22T07:06:49Z"
+        },
+        {
+          "title": "Acceptance follow-up: isolated customer search, suppression-safe brief, truthful evidence",
+          "url": "https://github.com/rblake2320/Mk-harness-/pull/37",
+          "repositoryUrl": "https://api.github.com/repos/rblake2320/Mk-harness-",
+          "updatedAt": "2026-10-22T07:06:48Z"
+        },
+        {
+          "title": "[P1] N41 · Release immutable Core/Skills packages and compatibility mappings",
+          "url": "https://github.com/taco3064/nibfin/issues/42",
+          "repositoryUrl": "https://api.github.com/repos/taco3064/nibfin",
+          "updatedAt": "2026-10-22T07:06:48Z"
+        },
+        {
+          "title": "feat(metricas): mediana da 1ª resposta e recorte por etiqueta do contato (#3212)",
+          "url": "https://github.com/melgarafael/DeskcommCRM/pull/3265",
+          "repositoryUrl": "https://api.github.com/repos/melgarafael/DeskcommCRM",
+          "updatedAt": "2026-10-22T07:06:54Z"
+        },
+        {
+          "title": "ci(reusable-sync-branches): make force-reset opt-in, never on the default branch",
+          "url": "https://github.com/projectbluefin/actions/pull/544",
+          "repositoryUrl": "https://api.github.com/repos/projectbluefin/actions",
+          "updatedAt": "2026-10-22T07:06:48Z"
+        },
+        {
+          "title": "automation: repo-governance - Add governance automation and validation",
+          "url": "https://github.com/lightspeedwp/ThisOneTimeOnAcidCom/pull/346",
+          "repositoryUrl": "https://api.github.com/repos/lightspeedwp/ThisOneTimeOnAcidCom",
+          "updatedAt": "2026-10-22T07:06:48Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
