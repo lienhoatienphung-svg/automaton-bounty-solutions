@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T04:33:56.486Z",
-  "latencyMs": 395,
+  "executedAt": "2026-10-22T04:36:52.935Z",
+  "latencyMs": 1355,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #504: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #505: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -263,5 +263,36 @@
       "priceBtc": 0.0009537000914350561
     }
   ],
-  "activeAirdropAndFaucetQuests": []
+  "activeAirdropAndFaucetQuests": [
+    {
+      "title": "[Bug]: Qwen2.5-Omni talker misroutes multi-token decode spans and corrupts per-position conditioning",
+      "url": "https://github.com/vllm-project/vllm-omni/issues/5018",
+      "createdAt": "2026-07-10T09:17:44Z"
+    },
+    {
+      "title": "Harden the sats faucet against shared accounts",
+      "url": "https://github.com/NEEDcreations/Bitcoin_Education_Archive/pull/20",
+      "createdAt": "2026-10-22T04:36:10Z"
+    },
+    {
+      "title": "[finding] 2026-10-21 local audit: review lifecycle, verifier, onboarding, and mirror freshness",
+      "url": "https://github.com/dbottrader/ASIN-HHC-Agent-Mesh/issues/8",
+      "createdAt": "2026-10-22T04:35:46Z"
+    },
+    {
+      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
+      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
+      "createdAt": "2026-10-16T22:33:17Z"
+    },
+    {
+      "title": "refactor: unify tool context specifications and execution service",
+      "url": "https://github.com/Wh0rigin/tea/pull/13",
+      "createdAt": "2026-10-16T07:34:30Z"
+    },
+    {
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
+    }
+  ]
 }
