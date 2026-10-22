@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T08:02:02.915Z",
-  "latencyMs": 911,
+  "executedAt": "2026-10-22T08:16:54.913Z",
+  "latencyMs": 1308,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #531: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #532: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "FUjWyrLp2pViJ9qte6J2q1aKQLRD4pDrqQVqkn91pump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/fujwyrlp2pvij9qte6j2q1akqlrd4pdrqqvqkn91pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "8xH5RFEkSyneYBhCZh5gi2svgdyrDCREW9SxCfKuYgFd",
       "boostAmount": 10,
       "totalBoostAmount": 20,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "👑 **TBV | TZ Bigger Vision**\n\nPLAN • FOCUS • WIN 🚀\n\nBuilt on faith. Driven by discipline. Powered by a bigger vision. 🌅\n\nMore than a ticker — it’s a mindset.",
       "url": "https://dexscreener.com/solana/b9cyjxhjawarwdj8t2wtajq1ussiuqnm9naauklhpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0xeD3C833CBF55CE7Fadc90ecA3f5F7E0C3E95DE70",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "Tokenize Real World Events on Robinhood Chain.",
-      "url": "https://dexscreener.com/robinhood/0xed3c833cbf55ce7fadc90eca3f5f7e0c3e95de70"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,56 +218,66 @@
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 90,
-      "priceBtc": 0.000009781817755989648
+      "priceBtc": 0.00000982514046669636
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 115,
+      "priceBtc": 9.54445053995857e-8
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 87,
-      "priceBtc": 0.00002801563530369333
+      "priceBtc": 0.000027663295370987705
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 464,
-      "priceBtc": 0.0000035986520318567324
+      "marketCapRank": 474,
+      "priceBtc": 0.0000034728131637148005
     },
     {
       "name": "Monero",
       "symbol": "XMR",
       "marketCapRank": 13,
-      "priceBtc": 0.007830430768632228
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 80,
-      "priceBtc": 0.00004477905252540548
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "marketCapRank": 29,
-      "priceBtc": 0.000012046689281289045
+      "priceBtc": 0.007882070658064901
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006080720863971776
+      "priceBtc": 0.00006088048854585654
     },
     {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 146,
-      "priceBtc": 0.000003984508202819305
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 80,
+      "priceBtc": 0.00004489707321883013
+    },
+    {
+      "name": "GRVT Token",
+      "symbol": "GRVT",
+      "marketCapRank": 684,
+      "priceBtc": 0.0000029715573153209907
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Update dependency lucide-react to v1",
-      "url": "https://github.com/ayane0857/ayane-official-site-v2/pull/11",
-      "createdAt": "2026-10-22T08:01:46Z"
+      "title": "Build wallet clusters on the server for candidate tokens",
+      "url": "https://github.com/snowcomingsoon/liquidity-analysis-engine/pull/652",
+      "createdAt": "2026-10-22T08:15:32Z"
+    },
+    {
+      "title": "Update dependency lucide-react to v1.61.0",
+      "url": "https://github.com/khaleddost/bone-jeopardy/pull/12",
+      "createdAt": "2026-08-01T12:41:21Z"
+    },
+    {
+      "title": "perf(communities): switch member views to the community roster",
+      "url": "https://github.com/status-im/status-app/pull/22799",
+      "createdAt": "2026-10-13T15:26:44Z"
     },
     {
       "title": "Open Beta + Forge transition: findings, Beta MINI participation, and final path to Go-Live",
@@ -275,24 +285,14 @@
       "createdAt": "2026-09-12T06:28:08Z"
     },
     {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
+      "title": "#3 Statystyki sesji: źródła, dokumentacja i audyt prywatności",
+      "url": "https://github.com/Szwarceneger16/WotMods/pull/3",
+      "createdAt": "2026-10-21T21:26:15Z"
     },
     {
-      "title": "Customizable dashboard, balance views, and a research desk",
-      "url": "https://github.com/peterhelm-dev/Nova-Defi-Tracker/pull/6",
-      "createdAt": "2026-10-22T07:52:39Z"
-    },
-    {
-      "title": "feat(debug): add browser-local PRE balance laboratory",
-      "url": "https://github.com/KnowSky404/destiny-echo-web/pull/8",
-      "createdAt": "2026-10-22T07:54:02Z"
-    },
-    {
-      "title": "SF-083: Prepay fleet network costs with an on-chain gas float and fleet-owned Walrus storage",
-      "url": "https://github.com/tyler-suifleet/suifleet/pull/218",
-      "createdAt": "2026-10-22T03:29:06Z"
+      "title": "feat(paycraft): consumables end-to-end — grant path, drain, store sync; fix: store-subscription tenant attribution; fix(security): resolve b",
+      "url": "https://github.com/MobileByteLabs/PayCraft/pull/182",
+      "createdAt": "2026-10-20T13:44:37Z"
     }
   ]
 }
