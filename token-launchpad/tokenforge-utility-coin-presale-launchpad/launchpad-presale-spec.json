@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T06:54:36.632Z",
-  "latencyMs": 361,
+  "executedAt": "2026-10-22T07:07:04.087Z",
+  "latencyMs": 778,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #519: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #520: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Penumbra: Clinical Data Manager (In",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52931364,
+    "liveBlockNumber": 52931738,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 449772,
-    "baseMainnetTopPoolsVolume24hUsd": 186353,
+    "baseMainnetTopPoolsVolume24hUsd": 190422,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "5aA5znUxUtAamxDgRxsbWzdVLe9bauYhTRXJZmvFpump",
+        "description": "Aura Kimchi: a deadpan dreamer whose spirit left the room. Low effort, high aura, permanently somewhere else.",
+        "url": "https://dexscreener.com/solana/5aa5znuxutaamxdgrxsbwzdvle9bauyhtrxjzmvfpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "CNJMHy3JFdQV6SyLBuFRPkYiZw13243g3yTTsa4rpump",
+        "description": "Security for a quantum future.",
+        "url": "https://dexscreener.com/solana/cnjmhy3jfdqv6sylbufrpkyizw13243g3yttsa4rpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Aa4iwuxmvN6DiBieBc2T9CB7AFBnzffKrFcBVqoKpump",
+        "description": "Offline Runner",
+        "url": "https://dexscreener.com/solana/aa4iwuxmvn6dibiebc2t9cb7afbnzffkrfcbvqokpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xf3d0ff0f45c00983a416f2b14f51a0fb4d16a5b2",
@@ -63,24 +81,6 @@
         "tokenAddress": "HKjgLwKPQSyDbkNYN5Udfi7uAG17CPFWMu8UUBAjBbPT",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/hkjglwkpqsydbknyn5udfi7uag17cpfwmu8uubajbbpt"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xAa07A0e9209e16aC99708C3EC70159c6eF3128A3",
-        "description": "Home of perpetual agents. Self-funded, always on, settled in Orbio's CREDIT.",
-        "url": "https://dexscreener.com/robinhood/0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2X9zE3LQxCjcFRiqhuBjZi2pxeYQk8vbJh1bakijpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2x9ze3lqxcjcfriqhubjzi2pxeyqk8vbjh1bakijpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HQLW2zDSnT9N32chWbfKJzj819rqVj8LYJhEuUqypump",
-        "description": "I built **PATCHED** to help PHP administrators identify and resolve security vulnerabilities as quickly and efficiently as possible. With automated security mon",
-        "url": "https://dexscreener.com/solana/hqlw2zdsnt9n32chwbfkjzj819rqvj8lyjheuuqypump"
       }
     ]
   },
