@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-22T01:43:10.791Z",
-  "latencyMs": 885,
+  "executedAt": "2026-10-22T01:59:50.968Z",
+  "latencyMs": 526,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #485: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #486: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "feat: rework mbr vests",
-          "url": "https://github.com/cataclysmbn/Cataclysm-BN/pull/10673",
-          "repositoryUrl": "https://api.github.com/repos/cataclysmbn/Cataclysm-BN",
-          "updatedAt": "2026-10-22T01:43:06Z"
-        },
-        {
-          "title": "Correspondence step 1: letter types, templates, rendering and storage",
-          "url": "https://github.com/aurelianware/cloudhealthoffice/pull/1470",
-          "repositoryUrl": "https://api.github.com/repos/aurelianware/cloudhealthoffice",
-          "updatedAt": "2026-10-22T01:43:04Z"
-        },
-        {
-          "title": "Voice: live mic bar, screen-aware \"this job\", tech job voice through the AI",
-          "url": "https://github.com/joshrkay/Serviceos/pull/1747",
-          "repositoryUrl": "https://api.github.com/repos/joshrkay/Serviceos",
-          "updatedAt": "2026-10-22T01:43:04Z"
-        },
-        {
-          "title": "fix: start waiting Chat turns when the agent slot cap is raised",
-          "url": "https://github.com/autonomio/poise/pull/420",
-          "repositoryUrl": "https://api.github.com/repos/autonomio/poise",
-          "updatedAt": "2026-10-22T01:43:03Z"
-        },
-        {
-          "title": "PAP-924: shared public BO Views runtime and React tabs (stacked after #714)",
-          "url": "https://github.com/vmtct/pino-team-os/pull/715",
-          "repositoryUrl": "https://api.github.com/repos/vmtct/pino-team-os",
-          "updatedAt": "2026-10-22T01:43:03Z"
-        },
-        {
-          "title": "DEC-2268: the model-gateway service reads each agent's daily research cap from the deployed mandate",
-          "url": "https://github.com/kunwarshivam/mandate/pull/2088",
-          "repositoryUrl": "https://api.github.com/repos/kunwarshivam/mandate",
-          "updatedAt": "2026-10-22T01:43:03Z"
-        },
-        {
-          "title": "Take a deleted knowledge base out of every agent's grant",
-          "url": "https://github.com/fazer-ai/agents/pull/1617",
-          "repositoryUrl": "https://api.github.com/repos/fazer-ai/agents",
-          "updatedAt": "2026-10-22T01:43:02Z"
-        },
-        {
-          "title": "fix(model-discovery): verify raw Host URL before granting trusted GLM hints",
-          "url": "https://github.com/ysr666/dsh-vision-router/pull/750",
-          "repositoryUrl": "https://api.github.com/repos/ysr666/dsh-vision-router",
-          "updatedAt": "2026-10-22T01:43:02Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
