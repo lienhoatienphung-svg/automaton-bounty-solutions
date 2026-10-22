@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T04:54:32.192Z",
-  "latencyMs": 747,
+  "executedAt": "2026-10-22T05:09:52.659Z",
+  "latencyMs": 992,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #507: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #508: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "robinhood",
+      "tokenAddress": "0x598C669D41927200B46c9856C25Dcb9fffE3ef2d",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Tokenize your @fomo & @Pumpfun profile.",
+      "url": "https://dexscreener.com/robinhood/0x598c669d41927200b46c9856c25dcb9fffe3ef2d"
+    },
+    {
       "chainId": "solana",
       "tokenAddress": "5G98xQepSDY4wSwygb4V5ww9cjAe7EmRURsDjApLpump",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/3skzuszf7onqpyfrwu3bh4lh141duydt9mamsd46jalj"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "B37wSqqYtPfiUTpWZMYiUYyG7BCULMcJZFzboSHrpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Caillou is an iconic children's TV series about the daily life of an inquisitive four-year-old boy named Caillou. It became a global television icon, capturing ",
-      "url": "https://dexscreener.com/solana/b37wsqqytpfiutpwzmyiuyyg7bculmcjzfzboshrpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,66 +218,61 @@
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 90,
-      "priceBtc": 0.000009900475820253861
+      "priceBtc": 0.000009914480562492264
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 83,
-      "priceBtc": 0.00002930199036292671
+      "priceBtc": 0.000029286154218829907
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 114,
-      "priceBtc": 9.508302513347973e-8
+      "priceBtc": 9.518100279336861e-8
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 442,
-      "priceBtc": 0.00000379598412609798
+      "marketCapRank": 441,
+      "priceBtc": 0.0000037632977951385566
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9997322120361379
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.015532227476372349
+      "priceBtc": 0.9998192692279032
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 705,
-      "priceBtc": 0.0010906947670069917
+      "priceBtc": 0.0010887843161937417
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.015577280851390443
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006108228200012854
+      "priceBtc": 0.00006116798526084514
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "[DRAFT] Full product polish RC: Home/guide/side-identity/progression + itch nested hosting",
-      "url": "https://github.com/Khanh-glitch/APEX-CHAOS/pull/101",
-      "createdAt": "2026-10-20T14:58:15Z"
+      "title": "Make DevNet setup resumable and report inference traffic",
+      "url": "https://github.com/paranjko/external-test-lab/pull/259",
+      "createdAt": "2026-10-16T03:19:36Z"
     },
     {
-      "title": "[tripwire live test] claim airdrop 0x000000000000000000000000000000000000dEaD",
-      "url": "https://github.com/Boring-Software-Inc/scratch/pull/88",
-      "createdAt": "2026-10-21T10:14:45Z"
-    },
-    {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
+      "title": "Refactor STP asset integration and support RGB11 and ARC20 channels",
+      "url": "https://github.com/sat20-labs/sat20wallet/pull/12",
+      "createdAt": "2026-10-21T16:32:15Z"
     },
     {
       "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
@@ -285,14 +280,19 @@
       "createdAt": "2026-10-20T17:25:33Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "feat: DEV-850 witness demo path and OpenTimestamps upgrade-path tests",
+      "url": "https://github.com/Wilkes-Liberty/audit_chain/pull/94",
+      "createdAt": "2026-10-22T04:48:05Z"
     },
     {
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
+    },
+    {
+      "title": "Gas low on the agent-run accounts",
+      "url": "https://github.com/edxzh/agent-wallet/issues/1",
+      "createdAt": "2026-10-14T05:07:14Z"
     }
   ]
 }
