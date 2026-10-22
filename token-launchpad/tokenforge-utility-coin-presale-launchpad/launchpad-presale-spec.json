@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T06:06:14.398Z",
-  "latencyMs": 386,
+  "executedAt": "2026-10-22T06:19:08.991Z",
+  "latencyMs": 1173,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #513: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #514: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52929913,
+    "liveBlockNumber": 52930300,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,28 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 449771,
-    "baseMainnetTopPoolsVolume24hUsd": 182466,
+    "baseMainnetTopPoolsLiquidityUsd": 449770,
+    "baseMainnetTopPoolsVolume24hUsd": 183751,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xAa07A0e9209e16aC99708C3EC70159c6eF3128A3",
+        "description": "Home of perpetual agents. Self-funded, always on, settled in Orbio's CREDIT.",
+        "url": "https://dexscreener.com/robinhood/0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2X9zE3LQxCjcFRiqhuBjZi2pxeYQk8vbJh1bakijpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/2x9ze3lqxcjcfriqhubjzi2pxeyqk8vbjh1bakijpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HQLW2zDSnT9N32chWbfKJzj819rqVj8LYJhEuUqypump",
+        "description": "I built **PATCHED** to help PHP administrators identify and resolve security vulnerabilities as quickly and efficiently as possible. With automated security mon",
+        "url": "https://dexscreener.com/solana/hqlw2zdsnt9n32chwbfkjzj819rqvj8lyjheuuqypump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6F7wJ8CSEKFiahPemiVCdQfbaqbJQWiLShBdUhtvpump",
@@ -63,24 +81,6 @@
         "tokenAddress": "qoaTMoNiD3sTaGanZSCbwNNEWaKFni6aGEsVdzkHrhE",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/qoatmonid3staganzscbwnnewakfni6agesvdzkhrhe"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FjPVqJmRK9fYZpY5PC5qT97CtoyZyNMfQDVnq8jkpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fjpvqjmrk9fyzpy5pc5qt97ctoyzynmfqdvnq8jkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "UCMcvvZhy3d4Ke4nNDe95pMQMJBaVfBE4yowkVgpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/ucmcvvzhy3d4ke4nnde95pmqmjbavfbe4yowkvgpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6D9siCdhwE4WG9PH6DG92sriV2k9KkaVmK8ntkkxpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/6d9sicdhwe4wg9ph6dg92sriv2k9kkavmk8ntkkxpump"
       }
     ]
   },
