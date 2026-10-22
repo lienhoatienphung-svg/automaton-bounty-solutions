@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T05:47:49.063Z",
-  "latencyMs": 876,
+  "executedAt": "2026-10-22T05:50:26.279Z",
+  "latencyMs": 578,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #510: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Penumbra: Clinical Data Manager (In",
+  "workTitle": "Delivery Sprint #511: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52929360,
+    "liveBlockNumber": 52929439,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 449771,
-    "baseMainnetTopPoolsVolume24hUsd": 183333,
+    "baseMainnetTopPoolsVolume24hUsd": 183372,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "FjPVqJmRK9fYZpY5PC5qT97CtoyZyNMfQDVnq8jkpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fjpvqjmrk9fyzpy5pc5qt97ctoyzynmfqdvnq8jkpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "UCMcvvZhy3d4Ke4nNDe95pMQMJBaVfBE4yowkVgpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "77bqYed64Sc8LZQTUSdKuoAAy3gMKMR9knYtzRGM5CMB",
         "description": "Effective Immediately, all organizations using PHP for their systems are advised to be prepared for an update addressing two critical vulnerabilities. PHP is wi",
         "url": "https://dexscreener.com/solana/77bqyed64sc8lzqtusdkuoaay3gmkmr9knytzrgm5cmb"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "25Pmz2MveVJEnUECvpttw7Zrf7LRd7RaZqSUHsorZmmQ",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/25pmz2mvevjenuecvpttw7zrf7lrd7razqsuhsorzmmq"
       }
     ]
   },
