@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T07:46:51.413Z",
-  "latencyMs": 1421,
+  "executedAt": "2026-10-22T08:00:13.806Z",
+  "latencyMs": 2018,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #529: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Growth & Sales Sprint #530: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Penumbra: Clinical Data Manager (In",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,56 +218,66 @@
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 90,
-      "priceBtc": 0.000009859536563485044
+      "priceBtc": 0.000009781817755989648
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 86,
-      "priceBtc": 0.000028104582009194786
+      "marketCapRank": 87,
+      "priceBtc": 0.00002801563530369333
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 462,
-      "priceBtc": 0.0000036145398191702985
+      "marketCapRank": 464,
+      "priceBtc": 0.0000035986520318567324
     },
     {
       "name": "Monero",
       "symbol": "XMR",
       "marketCapRank": 13,
-      "priceBtc": 0.007765085880552148
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 113,
-      "priceBtc": 9.580290323249256e-8
-    },
-    {
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "marketCapRank": 146,
-      "priceBtc": 0.000003982311673491173
+      "priceBtc": 0.007830430768632228
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 80,
-      "priceBtc": 0.00004471133607001184
+      "priceBtc": 0.00004477905252540548
     },
     {
       "name": "Sui",
       "symbol": "SUI",
       "marketCapRank": 29,
-      "priceBtc": 0.00001208568778493363
+      "priceBtc": 0.000012046689281289045
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006080720863971776
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "marketCapRank": 146,
+      "priceBtc": 0.000003984508202819305
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Create SKILL.md",
-      "url": "https://github.com/Tsukimarf/PiRC/pull/1",
-      "createdAt": "2026-04-12T09:36:45Z"
+      "title": "Customizable dashboard, balance views, and a research desk",
+      "url": "https://github.com/peterhelm-dev/Nova-Defi-Tracker/pull/6",
+      "createdAt": "2026-10-22T07:52:39Z"
+    },
+    {
+      "title": "feat(debug): add browser-local PRE balance laboratory",
+      "url": "https://github.com/KnowSky404/destiny-echo-web/pull/8",
+      "createdAt": "2026-10-22T07:54:02Z"
+    },
+    {
+      "title": "SF-083: Prepay fleet network costs with an on-chain gas float and fleet-owned Walrus storage",
+      "url": "https://github.com/tyler-suifleet/suifleet/pull/218",
+      "createdAt": "2026-10-22T03:29:06Z"
     },
     {
       "title": "Free private tools/list baseline for your agent-facing endpoint",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-10T00:01:50Z"
     },
     {
-      "title": "feat(mainnet): list the eight Agglayer-bridged tokens",
-      "url": "https://github.com/0xMiden/token-list/pull/3",
-      "createdAt": "2026-10-22T07:15:59Z"
+      "title": "feat(sc): dump each rollout's Gym result in the training-data dump",
+      "url": "https://github.com/NVIDIA-NeMo/RL/pull/4855",
+      "createdAt": "2026-10-22T07:07:51Z"
     },
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/58",
-      "createdAt": "2026-10-21T19:56:22Z"
-    },
-    {
-      "title": "Run tasks on Harbor instead of Inspect",
-      "url": "https://github.com/BuidlGuidl/ethevals/pull/31",
-      "createdAt": "2026-10-21T21:58:59Z"
-    },
-    {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
+      "title": "[FEAT] Halloween 2026 Event",
+      "url": "https://github.com/sunflower-land/sunflower-land/pull/7820",
+      "createdAt": "2026-10-18T06:45:01Z"
     }
   ]
 }
