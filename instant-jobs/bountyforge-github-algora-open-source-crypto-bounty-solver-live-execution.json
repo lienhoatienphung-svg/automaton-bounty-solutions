@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-22T08:30:51.998Z",
-  "latencyMs": 1737,
+  "executedAt": "2026-10-22T08:33:16.975Z",
+  "latencyMs": 768,
   "companyName": "BountyForge GitHub & Algora Open-Source Crypto Bounty Solver",
-  "workTitle": "Growth & Sales Sprint #596: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
-  "targetUrl": "https://polymarket.com/event/uk-election-called-by",
+  "workTitle": "Delivery Sprint #597: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "targetUrl": "https://polymarket.com/event/macron-out-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -102,7 +102,7 @@
         "quoteSymbol": "USDbC",
         "priceUsd": 1.00012,
         "liquidityUsd": 21385,
-        "volume24hUsd": 68786,
+        "volume24hUsd": 68904,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -110,9 +110,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000049,
+        "priceUsd": 1.00005,
         "liquidityUsd": 12035,
-        "volume24hUsd": 5184,
+        "volume24hUsd": 5175,
         "url": "https://dexscreener.com/base/0x06959273e9a65433de71f5a452d529544e07ddd0"
       },
       {
@@ -120,9 +120,9 @@
         "dexId": "pancakeswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.000047,
+        "priceUsd": 1.00005,
         "liquidityUsd": 14836,
-        "volume24hUsd": 1561,
+        "volume24hUsd": 1608,
         "url": "https://dexscreener.com/base/0x29ed55b18af0add137952cb3e29fb77b32fce426"
       }
     ]
