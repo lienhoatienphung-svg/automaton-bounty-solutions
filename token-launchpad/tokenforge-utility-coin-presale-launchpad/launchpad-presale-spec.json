@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T00:23:20.800Z",
-  "latencyMs": 711,
+  "executedAt": "2026-10-22T00:36:55.380Z",
+  "latencyMs": 338,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #473: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #474: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52919626,
+    "liveBlockNumber": 52920034,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459825,
-    "baseMainnetTopPoolsVolume24hUsd": 124419,
+    "baseMainnetTopPoolsVolume24hUsd": 127103,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "D6Tgd46zqRVjM1CvF1TgeGFdqvUT2VnXii1xq2hKpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/d6tgd46zqrvjm1cvf1tgegfdqvut2vnxii1xq2hkpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "51GmLE2LDtVC6WgN9ei2GfoAgNuDz5vdU8HbfVuwpump",
+        "description": "Pointless Coin",
+        "url": "https://dexscreener.com/solana/51gmle2ldtvc6wgn9ei2gfoagnudz5vdu8hbfvuwpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FjLFsaPKSxJGh25iTKCLEkthbeHKLJrxvHyJG9wqpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fjlfsapksxjgh25itkclekthbehkljrxvhyjg9wqpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xA8dB9c3Be8adD06139e0eC9AF15aE305D353Be5b",
@@ -61,26 +79,8 @@
       {
         "chainId": "solana",
         "tokenAddress": "Dx27ajSKh6wRkQf7Y2EqrF29MWUcSjVghXyA5FGZpump",
-        "description": "Verified Token Profile Launch",
+        "description": "Fairies who like to chill in the woods",
         "url": "https://dexscreener.com/solana/dx27ajskh6wrkqf7y2eqrf29mwucsjvghxya5fgzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4BsC98Zm5JAHDukgvqeSZaXvBgdmwyQvrRcDRpfBpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4bsc98zm5jahdukgvqeszaxvbgdmwyqvrrcdrpfbpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "8NAtYWBvPEJvSEqHxjfB8tb2gkBZ2NUketXkJktKpump",
-        "description": "Good trades start with frens 🐸\n\nTrade across chains, share your thesis and copy traders on your terms",
-        "url": "https://dexscreener.com/solana/8natywbvpejvseqhxjfb8tb2gkbz2nuketxkjktkpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x902007d2e205921124a4dD9579Df7547605c7064",
-        "description": "Crypto = Cryptocurrency\nCyber = Cybercurrency",
-        "url": "https://dexscreener.com/robinhood/0x902007d2e205921124a4dd9579df7547605c7064"
       }
     ]
   },
