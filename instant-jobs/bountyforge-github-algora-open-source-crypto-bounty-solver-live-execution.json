@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-22T06:50:50.820Z",
-  "latencyMs": 1014,
+  "executedAt": "2026-10-22T06:52:50.978Z",
+  "latencyMs": 1140,
   "companyName": "BountyForge GitHub & Algora Open-Source Crypto Bounty Solver",
-  "workTitle": "Growth & Sales Sprint #582: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
-  "targetUrl": "https://polymarket.com/event/ukraine-election-called-in-2025",
+  "workTitle": "Delivery Sprint #583: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "targetUrl": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -100,9 +100,9 @@
         "dexId": "uniswap",
         "baseSymbol": "USDC",
         "quoteSymbol": "USDbC",
-        "priceUsd": 1.0001,
+        "priceUsd": 1.000097,
         "liquidityUsd": 21385,
-        "volume24hUsd": 78175,
+        "volume24hUsd": 78466,
         "url": "https://dexscreener.com/base/0x867dbb1b6417abcb3696d5a5d9cc38cbf9f0f6d17355515fe1c8303e791832c4"
       },
       {
@@ -128,7 +128,7 @@
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 10,
+    "contractsPackagedCount": 5,
     "contracts": [
       {
         "source": "RemoteOK-InstantB2B",
@@ -204,61 +204,6 @@
         "compensation": "$500-$2,500 Instant Retainer",
         "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
         "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Agilerobotsse",
-        "roleOrTask": "Senior Forward Deployed Engineer (all genders)",
-        "industryTags": [
-          "Applied Automation Intelligence"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-forward-deployed-engineer-all-genders-munich-bavaria-44708",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Agilerobotsse",
-        "roleOrTask": "Senior C++ Performance Engineer (all genders)",
-        "industryTags": [
-          "Applied Automation Intelligence"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-c-performance-engineer-all-genders-munich-bavaria-418975",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "gitlab",
-        "roleOrTask": "Corporate Development Director",
-        "industryTags": [
-          "Corporate Affairs"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-corporate-development-director-438482",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "intercom",
-        "roleOrTask": "Engineering Manager, AI Group",
-        "industryTags": [
-          "Engineering"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/intercom/engineering-manager-ai-group-berlin-33291",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "zscaler",
-        "roleOrTask": "Account Executive, Enterprise",
-        "industryTags": [
-          "EMEA Field Sales"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/zscaler/account-executive-enterprise-484619",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
   }
