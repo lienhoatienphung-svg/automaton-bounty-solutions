@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-22T05:18:10.949Z",
-  "latencyMs": 1258,
+  "executedAt": "2026-10-22T05:21:25.096Z",
+  "latencyMs": 777,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Growth & Sales Sprint #508: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #509: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,8 +18,57 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 0,
-      "discoveredOpenGrantPrograms": []
+      "discoveredOpenGrantProgramsCount": 8,
+      "discoveredOpenGrantPrograms": [
+        {
+          "title": "feat(praxis): audit curriculum quality and enable community lesson authoring",
+          "url": "https://github.com/Luminous-Dynamics/mycelix/pull/5368",
+          "repositoryUrl": "https://api.github.com/repos/Luminous-Dynamics/mycelix",
+          "updatedAt": "2026-10-22T05:21:20Z"
+        },
+        {
+          "title": "Update all dependencies",
+          "url": "https://github.com/nolte/esphome-configs/pull/21",
+          "repositoryUrl": "https://api.github.com/repos/nolte/esphome-configs",
+          "updatedAt": "2026-10-22T05:21:21Z"
+        },
+        {
+          "title": "Renew Python operations and add optional S3 storage",
+          "url": "https://github.com/wongyiuming/FrontierCloud/pull/75",
+          "repositoryUrl": "https://api.github.com/repos/wongyiuming/FrontierCloud",
+          "updatedAt": "2026-10-22T05:21:19Z"
+        },
+        {
+          "title": "#427: route github v3 configuration into the shared runtime",
+          "url": "https://github.com/tanaabased/openclaw-agent-system/pull/437",
+          "repositoryUrl": "https://api.github.com/repos/tanaabased/openclaw-agent-system",
+          "updatedAt": "2026-10-22T05:21:23Z"
+        },
+        {
+          "title": "feat(github): contexto de evidencia GitHub confiable desde snapshots canónicos",
+          "url": "https://github.com/pl0n3r/ControlBot/issues/821",
+          "repositoryUrl": "https://api.github.com/repos/pl0n3r/ControlBot",
+          "updatedAt": "2026-10-22T05:21:18Z"
+        },
+        {
+          "title": "security: bridge offline REGISTER response transaction to MIC/replay gate",
+          "url": "https://github.com/NelvinBHV/CommSCraft/pull/51",
+          "repositoryUrl": "https://api.github.com/repos/NelvinBHV/CommSCraft",
+          "updatedAt": "2026-10-22T05:21:18Z"
+        },
+        {
+          "title": "When using multiline examples the docs generator breaks",
+          "url": "https://github.com/SkriptLang/Skript/issues/8383",
+          "repositoryUrl": "https://api.github.com/repos/SkriptLang/Skript",
+          "updatedAt": "2026-10-22T05:21:17Z"
+        },
+        {
+          "title": "Status page: cache per-app resolution with the inventory snapshot",
+          "url": "https://github.com/theidentify/AgentMesh/pull/80",
+          "repositoryUrl": "https://api.github.com/repos/theidentify/AgentMesh",
+          "updatedAt": "2026-10-22T05:21:17Z"
+        }
+      ]
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
