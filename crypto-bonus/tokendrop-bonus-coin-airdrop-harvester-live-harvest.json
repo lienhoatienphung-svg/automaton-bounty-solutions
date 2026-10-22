@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T04:52:28.448Z",
-  "latencyMs": 1461,
+  "executedAt": "2026-10-22T04:54:32.192Z",
+  "latencyMs": 747,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #506: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #507: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,61 +218,66 @@
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 90,
-      "priceBtc": 0.000009891569038777567
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 114,
-      "priceBtc": 9.500242967161364e-8
+      "priceBtc": 0.000009900475820253861
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 83,
-      "priceBtc": 0.000029374059025545248
+      "priceBtc": 0.00002930199036292671
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 114,
+      "priceBtc": 9.508302513347973e-8
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 435,
-      "priceBtc": 0.00000382863319855587
+      "marketCapRank": 442,
+      "priceBtc": 0.00000379598412609798
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9980747196776131
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 19,
-      "priceBtc": 0.0000610319713896695
+      "priceBtc": 0.9997322120361379
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.01549300017860621
+      "priceBtc": 0.015532227476372349
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 705,
-      "priceBtc": 0.0010873387191982086
+      "priceBtc": 0.0010906947670069917
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 19,
+      "priceBtc": 0.00006108228200012854
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Ghost <-> Echo comms",
-      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
-      "createdAt": "2026-10-16T18:46:23Z"
+      "title": "[DRAFT] Full product polish RC: Home/guide/side-identity/progression + itch nested hosting",
+      "url": "https://github.com/Khanh-glitch/APEX-CHAOS/pull/101",
+      "createdAt": "2026-10-20T14:58:15Z"
     },
     {
       "title": "[tripwire live test] claim airdrop 0x000000000000000000000000000000000000dEaD",
       "url": "https://github.com/Boring-Software-Inc/scratch/pull/88",
       "createdAt": "2026-10-21T10:14:45Z"
+    },
+    {
+      "title": "Ghost <-> Echo comms",
+      "url": "https://github.com/Itsm00k21/Shardfall/issues/15",
+      "createdAt": "2026-10-16T18:46:23Z"
     },
     {
       "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
@@ -288,11 +293,6 @@
       "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
       "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
       "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
     }
   ]
 }
