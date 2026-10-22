@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-21T23:59:06.234Z",
-  "latencyMs": 740,
+  "executedAt": "2026-10-22T00:12:20.054Z",
+  "latencyMs": 827,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #473: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #474: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "3ApPzYXE6TRKgEVcVdvy7tqf1DkqUhudGxuwzY1bpump",
+      "boostAmount": 100,
+      "totalBoostAmount": 100,
+      "description": "Collect the internet's knowledge. Every Wikipedia article = 1 NFT.",
+      "url": "https://dexscreener.com/solana/3appzyxe6trkgevcvdvy7tqf1dkquhudgxuwzy1bpump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0x7E187fE67ae04c1B1738f01B424656390E45E1C9",
       "boostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 20,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/cgxvr1voznlzbgrnmy3v6hza1wcpprj2yucxu55rpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "The most anticipated game in history. One cat. Nine lives. Zero concerns. $GATO",
-      "url": "https://dexscreener.com/solana/hsprhxbrgivaqdrf3tnknuzztax9juspgmfdakk6pump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Universal High Income",
       "symbol": "UHI",
-      "marketCapRank": 706,
-      "priceBtc": 3.148934947196088e-7
+      "marketCapRank": 727,
+      "priceBtc": 3.1921535566384403e-7
     },
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 88,
-      "priceBtc": 0.000009682054140923108
+      "priceBtc": 0.000009698805579831083
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 85,
-      "priceBtc": 0.00002887007012504756
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 113,
-      "priceBtc": 9.615895642568905e-8
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 511,
-      "priceBtc": 0.000003157637348601334
+      "priceBtc": 0.000028854363333799166
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 19,
-      "priceBtc": 0.00006211742097374171
+      "priceBtc": 0.00006243079423098841
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 506,
+      "priceBtc": 0.0000032193794006742156
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 702,
-      "priceBtc": 0.0010928245512438338
+      "marketCapRank": 703,
+      "priceBtc": 0.0010943450659111206
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 113,
+      "priceBtc": 9.643663172490987e-8
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9995375973237666
+      "priceBtc": 0.998890395137384
     }
   ],
   "activeAirdropAndFaucetQuests": [
-    {
-      "title": "feat: set shared 20% protocol revenue defaults",
-      "url": "https://github.com/omnipair/dusk/pull/53",
-      "createdAt": "2026-10-21T22:33:15Z"
-    },
-    {
-      "title": "Daily Shorts Pipeline — Reports",
-      "url": "https://github.com/caleblschulte0-ux/Shorts-pipeline/issues/1",
-      "createdAt": "2026-05-28T21:54:45Z"
-    },
-    {
-      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
-      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
-      "createdAt": "2026-10-07T16:13:30Z"
-    },
-    {
-      "title": "feat: operator-issued MB/minute ecash — unit-aware pricing + CDK mint integration (DRAFT)",
-      "url": "https://github.com/OpenTollGate/tollgate-module-basic-go/pull/1040",
-      "createdAt": "2026-10-21T13:59:26Z"
-    },
     {
       "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
       "url": "https://github.com/alibaba/rtp-llm/pull/1529",
       "createdAt": "2026-10-16T22:33:17Z"
     },
     {
-      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
-      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
-      "createdAt": "2026-10-11T10:45:50Z"
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
+    },
+    {
+      "title": "Add hybrid architecture search task (draft)",
+      "url": "https://github.com/scaleapi/rsi-benchmark/pull/26",
+      "createdAt": "2026-09-25T22:42:20Z"
+    },
+    {
+      "title": "feat: set shared 20% protocol revenue defaults",
+      "url": "https://github.com/omnipair/dusk/pull/53",
+      "createdAt": "2026-10-21T22:33:15Z"
+    },
+    {
+      "title": "Season 0: whalewallet.fun play-points markets",
+      "url": "https://github.com/joecyph0x/Wallet-fun/pull/1",
+      "createdAt": "2026-10-21T23:40:27Z"
+    },
+    {
+      "title": "New blog posts from RSS feed",
+      "url": "https://github.com/unlock-protocol/unlock/pull/16420",
+      "createdAt": "2026-05-15T00:25:35Z"
     }
   ]
 }
