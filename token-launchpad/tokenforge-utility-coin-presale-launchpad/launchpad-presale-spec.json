@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T06:37:07.965Z",
-  "latencyMs": 249,
+  "executedAt": "2026-10-22T06:50:33.298Z",
+  "latencyMs": 662,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #517: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #518: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52930840,
+    "liveBlockNumber": 52931242,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,22 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 449770,
-    "baseMainnetTopPoolsVolume24hUsd": 185111,
+    "baseMainnetTopPoolsLiquidityUsd": 449772,
+    "baseMainnetTopPoolsVolume24hUsd": 186060,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "TnUQ5TXY3yQezcmCKvMTg4W8SuCKrUReUXjG9Vqpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/tnuq5txy3yqezcmckvmtg4w8suckrureuxjg9vqpump"
+      },
+      {
+        "chainId": "cronos",
+        "tokenAddress": "0x1b6d879Fac206fE846A348FaAf2c0c5D9710A71b",
+        "description": "She laughed at the name. Then she saw the chart. 💍\n$WCM (Wife Changing Money) is a community meme coin on Cronos for every husband who ever said \"trust me, bab",
+        "url": "https://dexscreener.com/cronos/0x1b6d879fac206fe846a348faaf2c0c5d9710a71b"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "HKjgLwKPQSyDbkNYN5Udfi7uAG17CPFWMu8UUBAjBbPT",
@@ -69,18 +81,6 @@
         "tokenAddress": "F2mrcqUA6K3VMBiAuqqDDaHmzY8Yw9SaPiTr2A9Npump",
         "description": "PHP's official mascot with fees redirected to their official charity",
         "url": "https://dexscreener.com/solana/f2mrcqua6k3vmbiauqqddahmzy8yw9sapitr2a9npump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "vWEdfBNAdW61toy4NgGmUe7vVak66WQjp1nMaANA1on",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/vwedfbnadw61toy4nggmue7vvak66wqjp1nmaana1on"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4yGRjWjRQ7zfeZ4BCuEFiXScsCEhu1P5RwUBwAPdpump",
-        "description": "8 months ago, I ran \n$afk\n (Away From Keyboard) to an $8.8M market cap.  \n\nNow the entire internet is talking about how the internet could literally end tomorro",
-        "url": "https://dexscreener.com/solana/4ygrjwjrq7zfez4bcuefixscscehu1p5rwubwapdpump"
       }
     ]
   },
