@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T07:44:21.722Z",
-  "latencyMs": 1339,
+  "executedAt": "2026-10-22T07:46:51.413Z",
+  "latencyMs": 1421,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #528: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #529: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -151,7 +151,15 @@
       "chainId": "solana",
       "tokenAddress": "8xH5RFEkSyneYBhCZh5gi2svgdyrDCREW9SxCfKuYgFd",
       "boostAmount": 10,
-      "totalBoostAmount": 10,
+      "totalBoostAmount": 20,
+      "description": "Sasona is the coin of the Sasona Network, a decentralised network that helps AI agents pay safely on the internet. Every service fee on the network buys SASONA,",
+      "url": "https://dexscreener.com/solana/8xh5rfeksyneybhczh5gi2svgdyrdcrew9sxcfkuygfd"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "8xH5RFEkSyneYBhCZh5gi2svgdyrDCREW9SxCfKuYgFd",
+      "boostAmount": 10,
+      "totalBoostAmount": 20,
       "description": "Sasona is the coin of the Sasona Network, a decentralised network that helps AI agents pay safely on the internet. Every service fee on the network buys SASONA,",
       "url": "https://dexscreener.com/solana/8xh5rfeksyneybhczh5gi2svgdyrdcrew9sxcfkuygfd"
     },
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Tokenize Real World Events on Robinhood Chain.",
       "url": "https://dexscreener.com/robinhood/0xed3c833cbf55ce7fadc90eca3f5f7e0c3e95de70"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x4a67Ea0D194058558F4926b6BF6B758ef8976675",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "FloatSheets is a live beta for USDG settled synthetic equity perpetuals on Robinhood Chain. Traders can take leveraged long or short exposure to configured stoc",
-      "url": "https://dexscreener.com/robinhood/0x4a67ea0d194058558f4926b6bf6b758ef8976675"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -270,6 +270,16 @@
       "createdAt": "2026-04-12T09:36:45Z"
     },
     {
+      "title": "Free private tools/list baseline for your agent-facing endpoint",
+      "url": "https://github.com/rezearcher/x402-data-api/issues/3",
+      "createdAt": "2026-10-10T00:01:50Z"
+    },
+    {
+      "title": "feat(mainnet): list the eight Agglayer-bridged tokens",
+      "url": "https://github.com/0xMiden/token-list/pull/3",
+      "createdAt": "2026-10-22T07:15:59Z"
+    },
+    {
       "title": "Live smoke failing",
       "url": "https://github.com/Prashant-thakur77/Strike/issues/58",
       "createdAt": "2026-10-21T19:56:22Z"
@@ -283,16 +293,6 @@
       "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
       "url": "https://github.com/rempemat-eng/appify/issues/149",
       "createdAt": "2026-10-20T21:31:27Z"
-    },
-    {
-      "title": "Initial requirements: little-orbit MVP and roadmap",
-      "url": "https://github.com/neo-the-on3/little-orbit/issues/20",
-      "createdAt": "2026-10-20T08:50:16Z"
-    },
-    {
-      "title": "Spike: FROST 2-of-3 Ironwood spend on post-NU7 testnet",
-      "url": "https://github.com/zpredict/zpredict/issues/5",
-      "createdAt": "2026-10-22T07:42:25Z"
     }
   ]
 }
