@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T02:27:05.869Z",
-  "latencyMs": 1505,
+  "executedAt": "2026-10-22T02:29:05.653Z",
+  "latencyMs": 845,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #490: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Penumbra: Clinical Data Manager (In",
+  "workTitle": "Delivery Sprint #491: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -148,6 +148,14 @@
   "dexScreenerBoostedCoinsCount": 8,
   "dexScreenerBoostedCoins": [
     {
+      "chainId": "solana",
+      "tokenAddress": "F7q6cGpDRHewRpbGJ5P6e5pd1KGhv9gMbEYMmHPEpump",
+      "boostAmount": 50,
+      "totalBoostAmount": 50,
+      "description": "Access granted. ⚡️ The vault opens, the core awakens, and Official Cyber Coin enters the digital frontier. 🤖",
+      "url": "https://dexscreener.com/solana/f7q6cgpdrhewrpbgj5p6e5pd1kghv9gmbeymmhpepump"
+    },
+    {
       "chainId": "robinhood",
       "tokenAddress": "0xa01fF10774CFe53C3FBC1D7D124c42e19F6AfcBD",
       "boostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 50,
       "description": "Charts moving, coffee brewing, side-eye undefeated—DoChi’s night shift is powered by pure crypto aura. ☕️🐕 $DOCHI",
       "url": "https://dexscreener.com/solana/bmhgvqj43mdugsv3j7msmzcfso9pqgvphp55znafpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "51GmLE2LDtVC6WgN9ei2GfoAgNuDz5vdU8HbfVuwpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "Pointless Coin",
-      "url": "https://dexscreener.com/solana/51gmle2ldtvc6wgn9ei2gfoagnudz5vdu8hbfvuwpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(dev_tools): add PromptSearchOptimizer, a multi-candidate prompt-…",
-      "url": "https://github.com/openJiuwen-ai/agent-core/pull/1008",
-      "createdAt": "2026-08-30T15:06:46Z"
-    },
-    {
       "title": "expand \"auto eat\" functionality",
       "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
       "createdAt": "2026-10-07T03:48:40Z"
     },
     {
-      "title": "fix(attribution): resolve remaining 50 CodeCheck findings",
-      "url": "https://github.com/openJiuwen-ai/agent-core/pull/2106",
-      "createdAt": "2026-10-20T16:23:06Z"
+      "title": "Export save data through a native Save dialog on desktop",
+      "url": "https://github.com/quincarter/marvel-champions-digital-game/pull/343",
+      "createdAt": "2026-10-22T02:04:49Z"
     },
     {
-      "title": "做好可用 NFC 貼紙打開的電子名片",
-      "url": "https://github.com/Eight826/will.lu.08.github.io/pull/1",
-      "createdAt": "2026-10-22T02:26:40Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "[WIP][smoke] DiffusionGemma bring-up: model, weights, proposer + dgm_chat_basic smoke",
-      "url": "https://github.com/alibaba/rtp-llm/pull/1529",
-      "createdAt": "2026-10-16T22:33:17Z"
+      "title": "chore(deps): bump tempo dependencies to 7076f65",
+      "url": "https://github.com/lukasrosario/foundry/pull/1",
+      "createdAt": "2026-07-21T01:46:08Z"
     },
     {
-      "title": "config/defaults.tsv: the macOS defaults as data; defaults.sh --check",
-      "url": "https://github.com/sevmorris/mrk/pull/116",
-      "createdAt": "2026-10-22T02:21:37Z"
+      "title": "[W03-3 BLOCKED] Approve BG-01–BG-12 wallet/API contract and synthetic QA handoff",
+      "url": "https://github.com/allencortez1000/RHC-web3/issues/3",
+      "createdAt": "2026-10-13T05:44:08Z"
+    },
+    {
+      "title": "feat(dev_tools): add PromptSearchOptimizer, a multi-candidate prompt-…",
+      "url": "https://github.com/openJiuwen-ai/agent-core/pull/1008",
+      "createdAt": "2026-08-30T15:06:46Z"
     }
   ]
 }
