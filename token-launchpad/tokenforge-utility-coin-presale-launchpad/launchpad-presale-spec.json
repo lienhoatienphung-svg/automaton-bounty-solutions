@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T00:21:24.175Z",
-  "latencyMs": 722,
+  "executedAt": "2026-10-22T00:23:20.800Z",
+  "latencyMs": 711,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #472: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #473: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52919568,
+    "liveBlockNumber": 52919626,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 459825,
-    "baseMainnetTopPoolsVolume24hUsd": 124463,
+    "baseMainnetTopPoolsVolume24hUsd": 124419,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xA8dB9c3Be8adD06139e0eC9AF15aE305D353Be5b",
+        "description": "Pour in USDG. Earn on every trade. One-click liquidity for The Standard Reserve's stock pools on Robinhood Chain.",
+        "url": "https://dexscreener.com/robinhood/0xa8db9c3be8add06139e0ec9af15ae305d353be5b"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7zCR4zLbtvwryekQCcKBdx76RADMqyyzbgR4y2SDpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "0x902007d2e205921124a4dD9579Df7547605c7064",
         "description": "Crypto = Cryptocurrency\nCyber = Cybercurrency",
         "url": "https://dexscreener.com/robinhood/0x902007d2e205921124a4dd9579df7547605c7064"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x775f1a87d6bddf5e7338675ff51259cc11e47658",
-        "description": "Launch one token across Pons, Poolsxyz, Pumpfun and Meteora, with optional extra liquidity pools. A vault and keeper hold every copy at one price.",
-        "url": "https://dexscreener.com/robinhood/0x775f1a87d6bddf5e7338675ff51259cc11e47658"
       }
     ]
   },
