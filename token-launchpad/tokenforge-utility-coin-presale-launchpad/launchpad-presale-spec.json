@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T03:49:54.747Z",
-  "latencyMs": 334,
+  "executedAt": "2026-10-22T03:52:21.948Z",
+  "latencyMs": 730,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #496: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #497: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52925823,
+    "liveBlockNumber": 52925897,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -34,6 +34,24 @@
     "baseMainnetTopPoolsVolume24hUsd": 177043,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Bnh6ApcK4QAEyASCx57RbNWiWJM3xSXPYmoRj7sJpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bnh6apck4qaeyascx57rbnwiwjm3xsxpymorj7sjpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x4a67Ea0D194058558F4926b6BF6B758ef8976675",
+        "description": "FloatSheets is a live beta for USDG settled synthetic equity perpetuals on Robinhood Chain. Traders can take leveraged long or short exposure to configured stoc",
+        "url": "https://dexscreener.com/robinhood/0x4a67ea0d194058558f4926b6bf6b758ef8976675"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xeD3C833CBF55CE7Fadc90ecA3f5F7E0C3E95DE70",
+        "description": "Tokenize Real World Events on Robinhood Chain.",
+        "url": "https://dexscreener.com/robinhood/0xed3c833cbf55ce7fadc90eca3f5f7e0c3e95de70"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "G4kWwt7wLuGCQtap3FrBGX3ks1wMn74FHqnNtQ3mnote",
@@ -63,24 +81,6 @@
         "tokenAddress": "Hx4cDZzRjfCNeqZCLS8sR4uwPRH5NVVrE4PF9Fugpump",
         "description": "Every token\nwears a mask.\nNOOX looks behind it.\nA trading agent for DEX tokens. It scouts new launches on pumpfun and DexScreener, checks the mint on-chain, rea",
         "url": "https://dexscreener.com/solana/hx4cdzzrjfcneqzcls8sr4uwprh5nvvre4pf9fugpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DnxM91fzMtuFiJdhiuLaHdTGSuCNFfhNUdZTBxJycd5u",
-        "description": "Marathon Fusion just made history.\n\nThe Company that turned Mercury into GOLD\n\n$MF is paired with $GOLD",
-        "url": "https://dexscreener.com/solana/dnxm91fzmtufijdhiulahdtgsucnffhnudztbxjycd5u"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x7BB436aa199ea2447612BababE68F4f278F0C161",
-        "description": "A platform where anyone can create a game, host tournaments, and build a gaming community.",
-        "url": "https://dexscreener.com/robinhood/0x7bb436aa199ea2447612bababe68f4f278f0c161"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5mLtZn2d9ppz7iHeZFJtew7UFGdLuuwM6HDXLyMDpump",
-        "description": "Broccoli is packed with vitamin C, vitamin K and fiber, all for very few calories. Eat your greens.",
-        "url": "https://dexscreener.com/solana/5mltzn2d9ppz7ihezfjtew7ufgdluuwm6hdxlymdpump"
       }
     ]
   },
