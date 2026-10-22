@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T03:04:39.608Z",
-  "latencyMs": 765,
+  "executedAt": "2026-10-22T03:20:25.709Z",
+  "latencyMs": 687,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #495: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #496: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,81 +218,50 @@
       "name": "Aerodrome Finance",
       "symbol": "AERO",
       "marketCapRank": 90,
-      "priceBtc": 0.000009927366468813435
+      "priceBtc": 0.000009897385292074411
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
-      "marketCapRank": 84,
-      "priceBtc": 0.000028881299449904286
+      "marketCapRank": 83,
+      "priceBtc": 0.00002900092517618285
     },
     {
       "name": "Axis Robotics",
       "symbol": "AXIS",
-      "marketCapRank": 478,
-      "priceBtc": 0.0000034958174353266996
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 114,
-      "priceBtc": 9.630783991962755e-8
+      "marketCapRank": 477,
+      "priceBtc": 0.0000034909837214200757
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009554504869921844
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 80,
-      "priceBtc": 0.000045305612875880546
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9995821724885104
+      "priceBtc": 0.0009537396849779332
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 703,
-      "priceBtc": 0.001089082048314675
+      "marketCapRank": 706,
+      "priceBtc": 0.0010856348839396093
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 114,
+      "priceBtc": 9.629588529809902e-8
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "marketCapRank": 67,
+      "priceBtc": 0.0003291601818829609
+    },
+    {
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "marketCapRank": 53,
+      "priceBtc": 5.45154919171028e-11
     }
   ],
-  "activeAirdropAndFaucetQuests": [
-    {
-      "title": "docs: sync local network, faucet, wallets, useView and AI agent setup",
-      "url": "https://github.com/arjanjohan/scaffold-move-docs/pull/2",
-      "createdAt": "2026-10-22T03:03:48Z"
-    },
-    {
-      "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
-      "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
-      "createdAt": "2026-09-09T13:01:57Z"
-    },
-    {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "expand \"auto eat\" functionality",
-      "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
-      "createdAt": "2026-10-07T03:48:40Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
-    },
-    {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
-    }
-  ]
+  "activeAirdropAndFaucetQuests": []
 }
