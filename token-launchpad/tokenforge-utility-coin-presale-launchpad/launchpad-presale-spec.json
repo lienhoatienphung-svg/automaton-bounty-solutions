@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T07:09:59.347Z",
-  "latencyMs": 267,
+  "executedAt": "2026-10-22T07:23:08.497Z",
+  "latencyMs": 423,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #521: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #522: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52931826,
+    "liveBlockNumber": 52932220,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -30,10 +30,40 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 449772,
-    "baseMainnetTopPoolsVolume24hUsd": 190447,
+    "baseMainnetTopPoolsLiquidityUsd": 449773,
+    "baseMainnetTopPoolsVolume24hUsd": 194069,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "EZnTPWyCqN3ZMrtEWzBsyfofWv4MoQvFkWxrSEBbpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/ezntpwycqn3zmrtewzbsyfofwv4moqvfkwxrsebbpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "BUQGK3AqZH9rZZSVmsb5DZVH6hcx3yiY3bGW8RRCpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/buqgk3aqzh9rzzsvmsb5dzvh6hcx3yiy3bgw8rrcpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "3GsH56aE5TYHiDjxqdDmLZKpwVwMJHscgsDPyCAVpump",
+        "description": "The truly private asset.",
+        "url": "https://dexscreener.com/solana/3gsh56ae5tyhidjxqddmlzkpwvwmjhscgsdpycavpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x52C4Ff8Dd5619756faAc362DEb5053911E6F3194",
+        "description": "ABLITE is a crypto-native platform for uncensored AI.** Built around private chats and dedicated GPU sessions, it gives users a choice of models and flexible ac",
+        "url": "https://dexscreener.com/robinhood/0x52c4ff8dd5619756faac362deb5053911e6f3194"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Gg21LQM6tNq4AsWDiojKBVy4QwgQgj9xPFdTqijSpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gg21lqm6tnq4aswdiojkbvy4qwgqgj9xpfdtqijspump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "BaAvGu3ywAfFZxeT9yAWRWyXMVjEy81pFamvrsTRpump",
@@ -51,36 +81,6 @@
         "tokenAddress": "5aA5znUxUtAamxDgRxsbWzdVLe9bauYhTRXJZmvFpump",
         "description": "Aura Kimchi: a deadpan dreamer whose spirit left the room. Low effort, high aura, permanently somewhere else.",
         "url": "https://dexscreener.com/solana/5aa5znuxutaamxdgrxsbwzdvle9bauyhtrxjzmvfpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CNJMHy3JFdQV6SyLBuFRPkYiZw13243g3yTTsa4rpump",
-        "description": "Security for a quantum future.",
-        "url": "https://dexscreener.com/solana/cnjmhy3jfdqv6sylbufrpkyizw13243g3yttsa4rpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Aa4iwuxmvN6DiBieBc2T9CB7AFBnzffKrFcBVqoKpump",
-        "description": "Offline Runner",
-        "url": "https://dexscreener.com/solana/aa4iwuxmvn6dibiebc2t9cb7afbnzffkrfcbvqokpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0xf3d0ff0f45c00983a416f2b14f51a0fb4d16a5b2",
-        "description": "Token launchpad, trading terminal & RWA marketplace. Launch, discover and trade tokens and real-world assets on Robinhood Chain.",
-        "url": "https://dexscreener.com/robinhood/0xf3d0ff0f45c00983a416f2b14f51a0fb4d16a5b2"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "BVRGKKfz63fCU4bztp2JTxHGCKFkXBHZBqoU32tFpump",
-        "description": "🍺 GARY — Just a Bloke.\n\nMeet Gary. A middle-aged British bloke with a receding hairline, a beer belly, a pint in his hand and absolutely no interest in pretend",
-        "url": "https://dexscreener.com/solana/bvrgkkfz63fcu4bztp2jtxhgckfkxbhzbqou32tfpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "TnUQ5TXY3yQezcmCKvMTg4W8SuCKrUReUXjG9Vqpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/tnuq5txy3yqezcmckvmtg4w8suckrureuxjg9vqpump"
       }
     ]
   },
