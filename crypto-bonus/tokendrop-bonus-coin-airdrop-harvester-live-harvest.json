@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T05:09:52.659Z",
-  "latencyMs": 992,
+  "executedAt": "2026-10-22T05:11:38.631Z",
+  "latencyMs": 803,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #508: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
+  "workTitle": "Delivery Sprint #509: Ship turnkey automation package for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,19 +265,24 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Make DevNet setup resumable and report inference traffic",
-      "url": "https://github.com/paranjko/external-test-lab/pull/259",
-      "createdAt": "2026-10-16T03:19:36Z"
+      "title": "feat(standards): add spending limits to `AuthMultisigSmart`",
+      "url": "https://github.com/0xMiden/protocol/pull/4081",
+      "createdAt": "2026-10-20T10:43:03Z"
     },
     {
-      "title": "Refactor STP asset integration and support RGB11 and ARC20 channels",
-      "url": "https://github.com/sat20-labs/sat20wallet/pull/12",
-      "createdAt": "2026-10-21T16:32:15Z"
+      "title": "Fix the audited city flows and wire the unused screens",
+      "url": "https://github.com/Olisehgenesis/devcity/pull/1",
+      "createdAt": "2026-10-22T03:55:37Z"
     },
     {
-      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
-      "url": "https://github.com/tehki/myaso/issues/360",
-      "createdAt": "2026-10-20T17:25:33Z"
+      "title": "test(managed-agent): atomically claim MCP fixture closes",
+      "url": "https://github.com/QwenLM/qwen-code/pull/15158",
+      "createdAt": "2026-10-22T03:57:05Z"
+    },
+    {
+      "title": "Sync private m1 changes and repair CI",
+      "url": "https://github.com/movement-network/aptos-core/pull/437",
+      "createdAt": "2026-10-22T05:10:22Z"
     },
     {
       "title": "feat: DEV-850 witness demo path and OpenTimestamps upgrade-path tests",
@@ -285,14 +290,9 @@
       "createdAt": "2026-10-22T04:48:05Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
-    },
-    {
-      "title": "Gas low on the agent-run accounts",
-      "url": "https://github.com/edxzh/agent-wallet/issues/1",
-      "createdAt": "2026-10-14T05:07:14Z"
+      "title": "Make DevNet setup resumable and report inference traffic",
+      "url": "https://github.com/paranjko/external-test-lab/pull/259",
+      "createdAt": "2026-10-16T03:19:36Z"
     }
   ]
 }
