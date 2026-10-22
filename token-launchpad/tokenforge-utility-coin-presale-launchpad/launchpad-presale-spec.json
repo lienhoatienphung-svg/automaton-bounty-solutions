@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T06:03:56.139Z",
-  "latencyMs": 374,
+  "executedAt": "2026-10-22T06:06:14.398Z",
+  "latencyMs": 386,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #512: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #513: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52929844,
-    "liveGasPriceGwei": 0.0063,
+    "liveBlockNumber": 52929913,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 449771,
-    "baseMainnetTopPoolsVolume24hUsd": 182456,
+    "baseMainnetTopPoolsVolume24hUsd": 182466,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "6F7wJ8CSEKFiahPemiVCdQfbaqbJQWiLShBdUhtvpump",
+        "description": "Traders are the new celebrities",
+        "url": "https://dexscreener.com/solana/6f7wj8csekfiahpemivcdqfbaqbjqwilshbduhtvpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "F2mrcqUA6K3VMBiAuqqDDaHmzY8Yw9SaPiTr2A9Npump",
@@ -75,12 +81,6 @@
         "tokenAddress": "6D9siCdhwE4WG9PH6DG92sriV2k9KkaVmK8ntkkxpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/6d9sicdhwe4wg9ph6dg92sriv2k9kkavmk8ntkkxpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "EQTmdBbD9wPi4LgebPNaeSRs4uXdhG9R6rKBYR7Hpump",
-        "description": "A community memecoin for Gus, the 104-year-old gopher tortoise from Halifax who just came through major surgery and is walking it off.",
-        "url": "https://dexscreener.com/solana/eqtmdbbd9wpi4lgebpnaesrs4uxdhg9r6rkbyr7hpump"
       }
     ]
   },
