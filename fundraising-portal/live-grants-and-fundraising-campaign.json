@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-22T05:05:42.684Z",
-  "latencyMs": 1090,
+  "executedAt": "2026-10-22T05:18:10.949Z",
+  "latencyMs": 1258,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #507: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #508: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "FEATURE: Implement Owner functionality for ACLs",
-          "url": "https://github.com/discourse/discourse/pull/44882",
-          "repositoryUrl": "https://api.github.com/repos/discourse/discourse",
-          "updatedAt": "2026-10-22T05:05:38Z"
-        },
-        {
-          "title": "fix(0U.5): prevent historical producer-grant leaks through GIS reparenting",
-          "url": "https://github.com/FedesConsultora/SedeAgro/pull/176",
-          "repositoryUrl": "https://api.github.com/repos/FedesConsultora/SedeAgro",
-          "updatedAt": "2026-10-22T05:05:41Z"
-        },
-        {
-          "title": "미디어 작업 화면 단순화 및 OneDrive 원본 분류 안전성 개선",
-          "url": "https://github.com/moonaneul/media-automation/pull/15",
-          "repositoryUrl": "https://api.github.com/repos/moonaneul/media-automation",
-          "updatedAt": "2026-10-22T05:05:35Z"
-        },
-        {
-          "title": "ci: verify packed consumer contracts on pull requests",
-          "url": "https://github.com/vite-hub/vitehub/pull/2449",
-          "repositoryUrl": "https://api.github.com/repos/vite-hub/vitehub",
-          "updatedAt": "2026-10-22T05:05:35Z"
-        },
-        {
-          "title": "feat: agent team topology and multi-model",
-          "url": "https://github.com/midnightblur/afk-driver/pull/112",
-          "repositoryUrl": "https://api.github.com/repos/midnightblur/afk-driver",
-          "updatedAt": "2026-10-22T05:05:34Z"
-        },
-        {
-          "title": "Give each review environment its own Redis",
-          "url": "https://github.com/shopsys/shopsys/pull/4954",
-          "repositoryUrl": "https://api.github.com/repos/shopsys/shopsys",
-          "updatedAt": "2026-10-22T05:05:34Z"
-        },
-        {
-          "title": "docs(rfc): propose remote Computer Use for a connected Mac",
-          "url": "https://github.com/kirodotdev/KiroCrew/pull/21981",
-          "repositoryUrl": "https://api.github.com/repos/kirodotdev/KiroCrew",
-          "updatedAt": "2026-10-22T05:05:33Z"
-        },
-        {
-          "title": "fix: disable keyless MCP connectors at startup",
-          "url": "https://github.com/Pinvou/pinvou-agent/pull/740",
-          "repositoryUrl": "https://api.github.com/repos/Pinvou/pinvou-agent",
-          "updatedAt": "2026-10-22T05:05:33Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
