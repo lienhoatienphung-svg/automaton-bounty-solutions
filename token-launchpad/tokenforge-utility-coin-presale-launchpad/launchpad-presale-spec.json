@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T07:39:51.956Z",
-  "latencyMs": 687,
+  "executedAt": "2026-10-22T07:42:07.512Z",
+  "latencyMs": 832,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #524: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #525: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52932722,
+    "liveBlockNumber": 52932790,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 449776,
-    "baseMainnetTopPoolsVolume24hUsd": 195042,
+    "baseMainnetTopPoolsVolume24hUsd": 195072,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9baGGPuKCZNMP8iKPgkvGjt4j67U6gkSmzwPgETRpump",
+        "description": "The Chinese Hacking AI.",
+        "url": "https://dexscreener.com/solana/9baggpukcznmp8ikpgkvgjt4j67u6gksmzwpgetrpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "AxeD1WdhW9d61x4A7Mzp6bbbZb4HiNBF548rskeTpump",
+        "description": "Lets do this!",
+        "url": "https://dexscreener.com/solana/axed1wdhw9d61x4a7mzp6bbbzb4hinbf548rsketpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "6Yw5WMjH5sjnDPyGT8RxNtY79vr2YQ2BAqkaJvKPfury",
@@ -69,18 +81,6 @@
         "tokenAddress": "BUQGK3AqZH9rZZSVmsb5DZVH6hcx3yiY3bGW8RRCpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/buqgk3aqzh9rzzsvmsb5dzvh6hcx3yiy3bgw8rrcpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "3GsH56aE5TYHiDjxqdDmLZKpwVwMJHscgsDPyCAVpump",
-        "description": "The truly private asset.",
-        "url": "https://dexscreener.com/solana/3gsh56ae5tyhidjxqddmlzkpwvwmjhscgsdpycavpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x52C4Ff8Dd5619756faAc362DEb5053911E6F3194",
-        "description": "ABLITE is a crypto-native platform for uncensored AI.** Built around private chats and dedicated GPU sessions, it gives users a choice of models and flexible ac",
-        "url": "https://dexscreener.com/robinhood/0x52c4ff8dd5619756faac362deb5053911e6f3194"
       }
     ]
   },
