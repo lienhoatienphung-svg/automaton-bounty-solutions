@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T03:02:42.708Z",
-  "latencyMs": 1356,
+  "executedAt": "2026-10-22T03:04:39.608Z",
+  "latencyMs": 765,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #494: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #495: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,67 +217,72 @@
     {
       "name": "Aerodrome Finance",
       "symbol": "AERO",
-      "marketCapRank": 89,
-      "priceBtc": 0.000009929211450029704
-    },
-    {
-      "name": "Axis Robotics",
-      "symbol": "AXIS",
-      "marketCapRank": 481,
-      "priceBtc": 0.0000034197037988105166
+      "marketCapRank": 90,
+      "priceBtc": 0.000009927366468813435
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 84,
-      "priceBtc": 0.000028653684577732065
+      "priceBtc": 0.000028881299449904286
+    },
+    {
+      "name": "Axis Robotics",
+      "symbol": "AXIS",
+      "marketCapRank": 478,
+      "priceBtc": 0.0000034958174353266996
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 114,
-      "priceBtc": 9.629113351182104e-8
+      "priceBtc": 9.630783991962755e-8
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "marketCapRank": 11,
-      "priceBtc": 0.0009592433348213556
+      "priceBtc": 0.0009554504869921844
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 80,
-      "priceBtc": 0.000045165860472882304
+      "priceBtc": 0.000045305612875880546
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9999670838576153
+      "priceBtc": 0.9995821724885104
     },
     {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "marketCapRank": 67,
-      "priceBtc": 0.00032993524847127036
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 703,
+      "priceBtc": 0.001089082048314675
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "docs: sync local network, faucet, wallets, useView and AI agent setup",
+      "url": "https://github.com/arjanjohan/scaffold-move-docs/pull/2",
+      "createdAt": "2026-10-22T03:03:48Z"
+    },
     {
       "title": "products: indexer/faucet/explorer do not reconnect after a node websocket drop",
       "url": "https://github.com/tejaspatil1936/scalar-commons-v4/issues/155",
       "createdAt": "2026-09-09T13:01:57Z"
     },
     {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
+      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
+      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
+      "createdAt": "2026-10-07T18:53:52Z"
     },
     {
-      "title": "release: 13.54.0",
-      "url": "https://github.com/MetaMask/metamask-extension/pull/47119",
-      "createdAt": "2026-10-15T19:03:39Z"
+      "title": "expand \"auto eat\" functionality",
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA/pull/88948",
+      "createdAt": "2026-10-07T03:48:40Z"
     },
     {
       "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
@@ -285,14 +290,9 @@
       "createdAt": "2026-10-07T04:04:03Z"
     },
     {
-      "title": "build(deps): Bump the production-dependencies group across 1 directory with 10 updates",
-      "url": "https://github.com/HanielCota/Grabix/pull/78",
-      "createdAt": "2026-09-28T03:45:24Z"
-    },
-    {
-      "title": "mnkit 0.2.0: standalone scaffolder CLI and runtime packages",
-      "url": "https://github.com/midnightntwrk/midnight-examples/pull/62",
-      "createdAt": "2026-10-21T17:22:26Z"
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
     }
   ]
 }
