@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T07:07:04.087Z",
-  "latencyMs": 778,
+  "executedAt": "2026-10-22T07:09:59.347Z",
+  "latencyMs": 267,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #520: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Penumbra: Clinical Data Manager (In",
+  "workTitle": "Delivery Sprint #521: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52931738,
+    "liveBlockNumber": 52931826,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 449772,
-    "baseMainnetTopPoolsVolume24hUsd": 190422,
+    "baseMainnetTopPoolsVolume24hUsd": 190447,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BaAvGu3ywAfFZxeT9yAWRWyXMVjEy81pFamvrsTRpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/baavgu3ywaffzxet9yawrwyxmvjey81pfamvrstrpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "B28EEeqoZ8NhCtkXLmNkWQp2NUp9mixH54V4etaLpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/b28eeeqoz8nhctkxlmnkwqp2nup9mixh54v4etalpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5aA5znUxUtAamxDgRxsbWzdVLe9bauYhTRXJZmvFpump",
@@ -69,18 +81,6 @@
         "tokenAddress": "TnUQ5TXY3yQezcmCKvMTg4W8SuCKrUReUXjG9Vqpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/tnuq5txy3yqezcmckvmtg4w8suckrureuxjg9vqpump"
-      },
-      {
-        "chainId": "cronos",
-        "tokenAddress": "0x1b6d879Fac206fE846A348FaAf2c0c5D9710A71b",
-        "description": "She laughed at the name. Then she saw the chart. 💍\n$WCM (Wife Changing Money) is a community meme coin on Cronos for every husband who ever said \"trust me, bab",
-        "url": "https://dexscreener.com/cronos/0x1b6d879fac206fe846a348faaf2c0c5d9710a71b"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "HKjgLwKPQSyDbkNYN5Udfi7uAG17CPFWMu8UUBAjBbPT",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/hkjglwkpqsydbknyn5udfi7uag17cpfwmu8uubajbbpt"
       }
     ]
   },
