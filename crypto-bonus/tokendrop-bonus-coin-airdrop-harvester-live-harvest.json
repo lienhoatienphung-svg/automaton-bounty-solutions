@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T03:57:33.488Z",
-  "latencyMs": 1224,
+  "executedAt": "2026-10-22T03:59:30.673Z",
+  "latencyMs": 1452,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #500: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Penumbra: Clinical Data Manager (In",
+  "workTitle": "Delivery Sprint #501: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,21 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "fix(v3): use helper Bearer token API for daily reward count",
+      "url": "https://github.com/xchenya/MoviePilot-Plugins/pull/42",
+      "createdAt": "2026-10-22T03:58:43Z"
+    },
+    {
+      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
+      "url": "https://github.com/tehki/myaso/issues/360",
+      "createdAt": "2026-10-20T17:25:33Z"
+    },
+    {
+      "title": "STP: support native ARC20 through existing asset interfaces",
+      "url": "https://github.com/sat20-labs/indexer/pull/1",
+      "createdAt": "2026-10-22T03:57:49Z"
+    },
+    {
       "title": "feat(dev_tools): add PromptSearchOptimizer, a multi-candidate prompt-…",
       "url": "https://github.com/openJiuwen-ai/agent-core/pull/1008",
       "createdAt": "2026-08-30T15:06:46Z"
@@ -275,24 +290,9 @@
       "createdAt": "2026-10-20T16:23:06Z"
     },
     {
-      "title": "Moon Games Integration R1 — ten-department CI, PR and release gate",
-      "url": "https://github.com/tehki/myaso/issues/360",
-      "createdAt": "2026-10-20T17:25:33Z"
-    },
-    {
       "title": "Hermes: attack and test the live pool on Base Sepolia (Circle USDC, 0x7387…4973, contracts 1812e7d). Do not redeploy",
       "url": "https://github.com/scottonchain/microcredit-contract/issues/7",
       "createdAt": "2026-10-03T21:57:31Z"
-    },
-    {
-      "title": "chore(deps): bump tempo dependencies to 7076f65",
-      "url": "https://github.com/Soubhik-10/foundry/pull/104",
-      "createdAt": "2026-10-22T03:56:01Z"
-    },
-    {
-      "title": "Fix the audited city flows and wire the unused screens",
-      "url": "https://github.com/Olisehgenesis/devcity/pull/1",
-      "createdAt": "2026-10-22T03:55:37Z"
     }
   ]
 }
