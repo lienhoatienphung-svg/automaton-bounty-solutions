@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T05:18:24.443Z",
-  "latencyMs": 364,
+  "executedAt": "2026-10-22T05:32:26.669Z",
+  "latencyMs": 464,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #507: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
+  "workTitle": "Growth & Sales Sprint #508: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,618,261 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52928478,
+    "liveBlockNumber": 52928899,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 449771,
-    "baseMainnetTopPoolsVolume24hUsd": 183215,
+    "baseMainnetTopPoolsVolume24hUsd": 183320,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "25Pmz2MveVJEnUECvpttw7Zrf7LRd7RaZqSUHsorZmmQ",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/25pmz2mvevjenuecvpttw7zrf7lrd7razqsuhsorzmmq"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "Fiot4oqi1MNKDEAsV6NX3QTFY4ehgmLSSLgjhGk9docV",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fiot4oqi1mnkdeasv6nx3qtfy4ehgmlsslgjhgk9docv"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "9zLHYG2CAtfRhGrRgcd7jt4v4KaYxEyJffVECgvspoop",
@@ -49,7 +61,7 @@
       {
         "chainId": "ethereum",
         "tokenAddress": "0x0B9c5040E7cf938F62A2b0256a0e8379E6CD1DFa",
-        "description": "Verified Token Profile Launch",
+        "description": "securepub",
         "url": "https://dexscreener.com/ethereum/0x0b9c5040e7cf938f62a2b0256a0e8379e6cd1dfa"
       },
       {
@@ -69,18 +81,6 @@
         "tokenAddress": "KtMMqSdajXNhTpvE21E6H2EPuUjjPomChLqMqTspump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/ktmmqsdajxnhtpve21e6h2epuujjpomchlqmqtspump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "342YxqtVTRgKW8rMw9LyKJpc1MAScrQ8xh5mndJApump",
-        "description": "TRUMP IS THE REASON FOR THIS CYBER META.",
-        "url": "https://dexscreener.com/solana/342yxqtvtrgkw8rmw9lykjpc1mascrq8xh5mndjapump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "CVcndYPTF2Zd3EB5JDHM1jadRVoRdDg5b6E7WwHypump",
-        "description": "$ANTH\n\nThe Anthropic PBC IPO",
-        "url": "https://dexscreener.com/solana/cvcndyptf2zd3eb5jdhm1jadrvorddg5b6e7wwhypump"
       }
     ]
   },
