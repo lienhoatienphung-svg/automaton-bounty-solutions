@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T05:40:44.239Z",
-  "latencyMs": 918,
+  "executedAt": "2026-10-22T05:42:17.192Z",
+  "latencyMs": 873,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #512: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #513: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,9 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Polish Safe Collecting guides and translate supported locales",
-      "url": "https://github.com/6529-Collections/6529seize-frontend/pull/4426",
-      "createdAt": "2026-10-21T09:01:38Z"
-    },
-    {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
+      "title": "Sync private m1 changes and repair CI",
+      "url": "https://github.com/movement-network/aptos-core/pull/438",
+      "createdAt": "2026-10-22T05:41:53Z"
     },
     {
       "title": "feat(dashboard): owner/provider dashboard with wallet-side enforcement (#17)",
@@ -280,19 +275,24 @@
       "createdAt": "2026-10-22T05:36:17Z"
     },
     {
-      "title": "Live smoke failing",
-      "url": "https://github.com/Prashant-thakur77/Strike/issues/58",
-      "createdAt": "2026-10-21T19:56:22Z"
+      "title": "[Sentinel] Gateway railway.env.example omits variables the code reads and lists variables it never reads",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/issues/726",
+      "createdAt": "2026-10-22T05:41:30Z"
     },
     {
-      "title": "Implement Testnet Friendbot Rate Limiting Proxy with IP and Public Key Cooldowns",
-      "url": "https://github.com/DelegoLabs/Delego-backend/issues/526",
-      "createdAt": "2026-10-15T07:28:40Z"
+      "title": "Security(deps): bump lucide-react from 0.516.0 to 1.47.0 in /dashboard-mvp",
+      "url": "https://github.com/dagimhaile1627-ux/project-management-excel/pull/4",
+      "createdAt": "2026-09-23T15:50:56Z"
     },
     {
-      "title": "Add hybrid architecture search task (draft)",
-      "url": "https://github.com/scaleapi/rsi-benchmark/pull/26",
-      "createdAt": "2026-09-25T22:42:20Z"
+      "title": "[Sentinel] paxai-worker spawns an unbounded thread per connection and reads one byte at a time with a 30 s per-read timeout",
+      "url": "https://github.com/Sidiora-Labs/Paxeer-X-Network/issues/724",
+      "createdAt": "2026-10-22T05:41:23Z"
+    },
+    {
+      "title": "Add EMMA processing and Craft Launch/Update Claim controls",
+      "url": "https://github.com/6529-Collections/6529seize-frontend/pull/4207",
+      "createdAt": "2026-10-09T09:31:42Z"
     }
   ]
 }
