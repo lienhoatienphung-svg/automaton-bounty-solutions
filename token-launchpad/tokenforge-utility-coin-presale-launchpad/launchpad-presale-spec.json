@@ -1,14 +1,14 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-22T01:43:18.071Z",
-  "latencyMs": 694,
+  "executedAt": "2026-10-22T01:46:13.966Z",
+  "latencyMs": 338,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #482: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #483: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 52922025,
-    "liveGasPriceGwei": 0.0062,
+    "liveBlockNumber": 52922113,
+    "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
   },
@@ -30,10 +30,16 @@
     }
   },
   "liveMarketBenchmarks": {
-    "baseMainnetTopPoolsLiquidityUsd": 459833,
-    "baseMainnetTopPoolsVolume24hUsd": 162567,
+    "baseMainnetTopPoolsLiquidityUsd": 430898,
+    "baseMainnetTopPoolsVolume24hUsd": 162709,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "Air8Q9i3cqx7ppNDriR1AhVoExs3ZsgDP91J466Qpump",
+        "description": "lab-grown gold kills gold.\nso why is every coin tonight paying you in gold?\n\nliquid gold. mercury coin. \"gold rewards.\"\nall long the thing that just got printab",
+        "url": "https://dexscreener.com/solana/air8q9i3cqx7ppndrir1ahvoexs3zsgdp91j466qpump"
+      },
       {
         "chainId": "bsc",
         "tokenAddress": "0xcF61FC796d1e06CFAE49EE68ad61D362b4Cd96EA",
@@ -75,12 +81,6 @@
         "tokenAddress": "3TDrPF6kQGXtB1zphZb33egc5UT9XaRFPtLRH5JWpump",
         "description": "100% of fees go towards buyback and to hit whales of Kimchi and other tokens\n\nLet's get Kimchi his deserved 100M PNL",
         "url": "https://dexscreener.com/solana/3tdrpf6kqgxtb1zphzb33egc5ut9xarfptlrh5jwpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5aQgxJVaCxBf3TRxwXSvYqFCQgW2xukkV573Nybipump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/5aqgxjvacxbf3trxwxsvyqfcqgw2xukkv573nybipump"
       }
     ]
   },
