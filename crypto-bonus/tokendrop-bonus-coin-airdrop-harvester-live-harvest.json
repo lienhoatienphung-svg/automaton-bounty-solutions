@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T01:51:11.074Z",
-  "latencyMs": 980,
+  "executedAt": "2026-10-22T01:53:14.801Z",
+  "latencyMs": 744,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #486: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $836,8",
+  "workTitle": "Delivery Sprint #487: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,169,082 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,11 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "Feature: Pro membership (ETH pay) — expirable transferable NFT + gate all on-chain writes",
+      "url": "https://github.com/0xsyung/0xterm-app/issues/139",
+      "createdAt": "2026-09-29T10:47:34Z"
+    },
+    {
       "title": "[W03-3 BLOCKED] Approve BG-01–BG-12 wallet/API contract and synthetic QA handoff",
       "url": "https://github.com/allencortez1000/RHC-web3/issues/3",
       "createdAt": "2026-10-13T05:44:08Z"
@@ -288,11 +293,6 @@
       "title": "[Wallet Rewards] Latest eligibility",
       "url": "https://github.com/oguzpoyrazyasin/poyraz/issues/5",
       "createdAt": "2026-09-21T21:54:47Z"
-    },
-    {
-      "title": "Fable audit triage: backtest validity and pre-mainnet invariants",
-      "url": "https://github.com/MoeAZack/ZackBot2/issues/13",
-      "createdAt": "2026-10-07T04:04:03Z"
     }
   ]
 }
