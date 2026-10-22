@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-22T08:16:54.913Z",
-  "latencyMs": 1308,
+  "executedAt": "2026-10-22T08:18:47.129Z",
+  "latencyMs": 955,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #532: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #533: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "3Xq3nspu91fEzGbzi9kSJ4FYAnBeeiLHPoxQx6cPSQj1",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/3xq3nspu91fezgbzi9ksj4fyanbeeilhpoxqx6cpsqj1"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "FUjWyrLp2pViJ9qte6J2q1aKQLRD4pDrqQVqkn91pump",
       "boostAmount": 30,
       "totalBoostAmount": 30,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Shitcoin paired with Fartcoin \n3% Fartcoin rewards",
       "url": "https://dexscreener.com/solana/5g98xqepsdy4wswygb4v5ww9cjae7emrursdjaplpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "B9cyjXHJAwaRwdJ8T2WtAjq1usSiUQnm9NaaukLhpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "👑 **TBV | TZ Bigger Vision**\n\nPLAN • FOCUS • WIN 🚀\n\nBuilt on faith. Driven by discipline. Powered by a bigger vision. 🌅\n\nMore than a ticker — it’s a mindset.",
-      "url": "https://dexscreener.com/solana/b9cyjxhjawarwdj8t2wtajq1ussiuqnm9naauklhpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "refactor: unify tool context specifications and execution service",
+      "url": "https://github.com/Wh0rigin/tea/pull/13",
+      "createdAt": "2026-10-16T07:34:30Z"
+    },
+    {
+      "title": "feat(debug): add browser-local PRE balance laboratory",
+      "url": "https://github.com/KnowSky404/destiny-echo-web/pull/8",
+      "createdAt": "2026-10-22T07:54:02Z"
+    },
+    {
       "title": "Build wallet clusters on the server for candidate tokens",
       "url": "https://github.com/snowcomingsoon/liquidity-analysis-engine/pull/652",
       "createdAt": "2026-10-22T08:15:32Z"
@@ -283,16 +293,6 @@
       "title": "Open Beta + Forge transition: findings, Beta MINI participation, and final path to Go-Live",
       "url": "https://github.com/mininet-labs/Mininet/pull/334",
       "createdAt": "2026-09-12T06:28:08Z"
-    },
-    {
-      "title": "#3 Statystyki sesji: źródła, dokumentacja i audyt prywatności",
-      "url": "https://github.com/Szwarceneger16/WotMods/pull/3",
-      "createdAt": "2026-10-21T21:26:15Z"
-    },
-    {
-      "title": "feat(paycraft): consumables end-to-end — grant path, drain, store sync; fix: store-subscription tenant attribution; fix(security): resolve b",
-      "url": "https://github.com/MobileByteLabs/PayCraft/pull/182",
-      "createdAt": "2026-10-20T13:44:37Z"
     }
   ]
 }
