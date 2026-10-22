@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-22T04:07:30.327Z",
-  "latencyMs": 806,
+  "executedAt": "2026-10-22T04:24:35.546Z",
+  "latencyMs": 1584,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #501: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #502: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -18,57 +18,8 @@
     "nonDilutiveEcosystemGrants": {
       "model": "Base Builder Grants, Optimism RetroPGF, Gitcoin Grants, Ethereum ESP & Open-Source RFPs",
       "targetGrantSizeUsd": "15,000 - 50,000 USDC",
-      "discoveredOpenGrantProgramsCount": 8,
-      "discoveredOpenGrantPrograms": [
-        {
-          "title": "chore(deps): update Terraform aws to 6.70.0",
-          "url": "https://github.com/benniemosher-dev/terraform-aws-acm/pull/42",
-          "repositoryUrl": "https://api.github.com/repos/benniemosher-dev/terraform-aws-acm",
-          "updatedAt": "2026-10-22T04:07:26Z"
-        },
-        {
-          "title": "fix(deploy): gate Worker-only reconciliation on provider-held secret names",
-          "url": "https://github.com/jussray/founder-control-room/pull/991",
-          "repositoryUrl": "https://api.github.com/repos/jussray/founder-control-room",
-          "updatedAt": "2026-10-22T04:07:25Z"
-        },
-        {
-          "title": "feat(agreements): prepare retained business templates and original client drafts",
-          "url": "https://github.com/Paige-Agent-AI/Paige-Agent-AI/pull/2549",
-          "repositoryUrl": "https://api.github.com/repos/Paige-Agent-AI/Paige-Agent-AI",
-          "updatedAt": "2026-10-22T04:07:28Z"
-        },
-        {
-          "title": "fix(ai): limites diários de IA com retenção pela janela do bucket",
-          "url": "https://github.com/leduardo99/gym-easy/pull/55",
-          "repositoryUrl": "https://api.github.com/repos/leduardo99/gym-easy",
-          "updatedAt": "2026-10-22T04:07:25Z"
-        },
-        {
-          "title": "Make zSentinel unblock stalled workers before product backlog",
-          "url": "https://github.com/Zennay/zCloud/pull/1565",
-          "repositoryUrl": "https://api.github.com/repos/Zennay/zCloud",
-          "updatedAt": "2026-10-22T04:07:25Z"
-        },
-        {
-          "title": "feat(automations): Privy adapter, reference example, docs and threat model",
-          "url": "https://github.com/AreteA4/arete/pull/411",
-          "repositoryUrl": "https://api.github.com/repos/AreteA4/arete",
-          "updatedAt": "2026-10-22T04:07:27Z"
-        },
-        {
-          "title": "Stuora GA hardening: Student Groups, Bot, reliable messaging & two-account staging harness (draft)",
-          "url": "https://github.com/stanleymay20/Stuora-/pull/23",
-          "repositoryUrl": "https://api.github.com/repos/stanleymay20/Stuora-",
-          "updatedAt": "2026-10-22T04:07:26Z"
-        },
-        {
-          "title": "test: add #2's security suite over HTTP and through the HTTPS proxy, with the sign-in checks",
-          "url": "https://github.com/keyurgolani/keyurgolani.name/pull/49",
-          "repositoryUrl": "https://api.github.com/repos/keyurgolani/keyurgolani.name",
-          "updatedAt": "2026-10-22T04:07:24Z"
-        }
-      ]
+      "discoveredOpenGrantProgramsCount": 0,
+      "discoveredOpenGrantPrograms": []
     },
     "crowdfundingAndAngelVcInvestment": {
       "model": "On-Chain Revenue-Share Crowdfunding Vault + Seed Angel SAFE/Token Warrant",
