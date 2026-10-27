@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T04:45:23.761Z",
-  "latencyMs": 728,
+  "executedAt": "2026-10-27T04:47:40.761Z",
+  "latencyMs": 763,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #562: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #563: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "7ZSuEJLUWiGpPXMGkoYE1xcawwxi7NG1jMrLWVQfSEND",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Use Send.",
+      "url": "https://dexscreener.com/solana/7zsuejluwigppxmgkoye1xcawwxi7ng1jmrlwvqfsend"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump",
       "boostAmount": 10,
       "totalBoostAmount": 50,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "It's $HELL, the dog of $AMD - official partner of Rockstar Games.",
       "url": "https://dexscreener.com/solana/a75xx6seftamwduv9kgwb2gcjxuahxozccucys9jpump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x50C46d4f055F2a441CcBD3aD2953640759B7eD44",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "The treasury operating system for on-chain companies",
-      "url": "https://dexscreener.com/robinhood/0x50c46d4f055f2a441ccbd3ad2953640759b7ed44"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 76,
-      "priceBtc": 0.000002571588888018397
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9990333381904418
+      "marketCapRank": 77,
+      "priceBtc": 0.0000025381931457763274
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.300184860867379e-8
+      "priceBtc": 9.306383632214407e-8
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9988670694447682
     },
     {
       "name": "XRP",
       "symbol": "XRP",
       "marketCapRank": 5,
-      "priceBtc": 0.000016292209270944723
+      "priceBtc": 0.00001626347502689388
     },
     {
       "name": "Ethereum",
       "symbol": "ETH",
       "marketCapRank": 2,
-      "priceBtc": 0.028989547818563666
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.000055522884167185974
+      "priceBtc": 0.02895673961096592
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 757,
-      "priceBtc": 0.0009404819721202996
+      "marketCapRank": 756,
+      "priceBtc": 0.000940548213068786
     },
     {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 199,
-      "priceBtc": 0.0000030107223610957367
+      "name": "Quant",
+      "symbol": "QNT",
+      "marketCapRank": 36,
+      "priceBtc": 0.002516127599653846
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.015279565984788088
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Play TERRORNODE from the b menu + immersive landscape bApp frame",
-      "url": "https://github.com/b0ase/yours-mobile/pull/392",
-      "createdAt": "2026-10-27T04:43:26Z"
+      "title": "[URGENT] Dedicated funder balance low — top up required",
+      "url": "https://github.com/paritytech/playground-cli/issues/586",
+      "createdAt": "2026-10-22T16:22:58Z"
     },
     {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/orangecheck/oc-packages/issues/11",
+      "createdAt": "2026-05-20T14:30:24Z"
     },
     {
-      "title": "[Spec Decode] Skip drafts after EOS and stop tokens",
-      "url": "https://github.com/vllm-project/vllm-metal/pull/1203",
-      "createdAt": "2026-10-26T17:59:38Z"
+      "title": "QA coordination: Agnes ↔ Claude — candidate handoffs and playthrough feedback",
+      "url": "https://github.com/A-Birdi/Road-of-Borrowed-Names/issues/1",
+      "createdAt": "2026-10-20T00:36:00Z"
     },
     {
-      "title": "[Bugfix][MRV2][Spec Decode] Profile rejection sampling before sizing the KV cache",
-      "url": "https://github.com/vllm-project/vllm/pull/63913",
-      "createdAt": "2026-10-27T03:08:25Z"
-    },
-    {
-      "title": "[Bug]: [MRV2] Spec-decode rejection sampling is not covered by profile_run",
-      "url": "https://github.com/vllm-project/vllm/issues/63942",
-      "createdAt": "2026-10-27T04:44:15Z"
+      "title": "Top-pad: the spec for the fair-launch launchpad prototype",
+      "url": "https://github.com/imDev2023/top-pad/issues/1",
+      "createdAt": "2026-10-26T15:28:40Z"
     },
     {
       "title": "feat(client): reward a request with a member's voucher",
       "url": "https://github.com/greenpill-dev-guild/green-goods/pull/1361",
       "createdAt": "2026-10-27T04:26:29Z"
+    },
+    {
+      "title": "[Sprint 1.7B][UX/API Architecture] Published maze archive and year-round calendar contract",
+      "url": "https://github.com/MZKZxyz/fort-custer-client/issues/50",
+      "createdAt": "2026-10-27T04:33:46Z"
     }
   ]
 }
