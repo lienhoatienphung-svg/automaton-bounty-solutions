@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T03:43:29.333Z",
-  "latencyMs": 772,
+  "executedAt": "2026-10-27T03:46:23.333Z",
+  "latencyMs": 820,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #556: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $841,4",
+  "workTitle": "Delivery Sprint #557: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,231,628 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,14 +265,14 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "refactor(xrpl): key the node's XRPL accounts by account, not by a scheme",
-      "url": "https://github.com/justmoon/dassie/pull/515",
-      "createdAt": "2026-10-26T19:55:20Z"
+      "title": "Turn the room to use all four walls, show item fronts, add doorways",
+      "url": "https://github.com/canetsbe-sudo/reno-sim/pull/4",
+      "createdAt": "2026-10-27T03:45:43Z"
     },
     {
-      "title": "[Feat] [NPU] sampling: Integrate DSpark Triton sampling kernels",
-      "url": "https://github.com/sgl-project/sgl-kernel-npu/pull/871",
-      "createdAt": "2026-10-21T07:29:15Z"
+      "title": "[Bugfix][MRV2][Spec Decode] Profile rejection sampling before sizing the KV cache",
+      "url": "https://github.com/vllm-project/vllm/pull/63913",
+      "createdAt": "2026-10-27T03:08:25Z"
     },
     {
       "title": "[Bugfix][Spec Decode] Align MRV2 lm_head LoRA with logits rows",
@@ -280,19 +280,19 @@
       "createdAt": "2026-09-30T01:46:35Z"
     },
     {
+      "title": "feat(deployments): create factory releases deterministically with CREATE2",
+      "url": "https://github.com/tempoxyz/earn/pull/21",
+      "createdAt": "2026-10-27T03:37:16Z"
+    },
+    {
+      "title": "[Feat] [NPU] sampling: Integrate DSpark Triton sampling kernels",
+      "url": "https://github.com/sgl-project/sgl-kernel-npu/pull/871",
+      "createdAt": "2026-10-21T07:29:15Z"
+    },
+    {
       "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
       "url": "https://github.com/rempemat-eng/appify/issues/149",
       "createdAt": "2026-10-20T21:31:27Z"
-    },
-    {
-      "title": "Email delivery option for dashboard sign-in links (alternative to Telegram/Slack)",
-      "url": "https://github.com/kirodotdev/KiroCrew/issues/18551",
-      "createdAt": "2026-10-09T18:07:11Z"
-    },
-    {
-      "title": "fix(agent): match tool names across a trailing plural s",
-      "url": "https://github.com/corbitsdev/corbits-code/pull/1574",
-      "createdAt": "2026-10-26T16:50:57Z"
     }
   ]
 }
