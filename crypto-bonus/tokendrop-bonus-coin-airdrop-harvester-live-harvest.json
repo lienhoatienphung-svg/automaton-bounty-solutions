@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T05:05:54.673Z",
-  "latencyMs": 848,
+  "executedAt": "2026-10-27T05:08:22.326Z",
+  "latencyMs": 730,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #564: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #565: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,53 +217,73 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 76,
-      "priceBtc": 0.0000025559344574826804
+      "marketCapRank": 75,
+      "priceBtc": 0.0000025742312696649963
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9993318924472014
-    },
-    {
-      "name": "Ethereum",
-      "symbol": "ETH",
-      "marketCapRank": 2,
-      "priceBtc": 0.028985499864188927
+      "priceBtc": 1.0003884968783348
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
       "marketCapRank": 758,
-      "priceBtc": 0.0009415754554861277
+      "priceBtc": 0.0009407744924028754
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.30746093989788e-8
-    },
-    {
-      "name": "XRP",
-      "symbol": "XRP",
-      "marketCapRank": 5,
-      "priceBtc": 0.000016277834703551138
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "marketCapRank": 2,
+      "priceBtc": 0.029029292571285947
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 97,
-      "priceBtc": 0.00002199864454913
+      "priceBtc": 0.000021921855955525082
     },
     {
-      "name": "Quant",
-      "symbol": "QNT",
-      "marketCapRank": 36,
-      "priceBtc": 0.002509564166747842
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.325777503310171e-8
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.015377318059955132
+    },
+    {
+      "name": "Infinity Ground",
+      "symbol": "AIN",
+      "marketCapRank": 893,
+      "priceBtc": 0.0000011838561124726383
     }
   ],
   "activeAirdropAndFaucetQuests": [
+    {
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
+    },
+    {
+      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
+      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
+      "createdAt": "2026-10-07T16:13:30Z"
+    },
+    {
+      "title": "Dependency Dashboard",
+      "url": "https://github.com/sambaum/k8s/issues/5",
+      "createdAt": "2023-09-13T15:01:55Z"
+    },
+    {
+      "title": "After launch: UI polish with motion, text animation, parallax and loading effects",
+      "url": "https://github.com/imDev2023/Stoker-Markets/issues/37",
+      "createdAt": "2026-10-01T16:33:17Z"
+    },
     {
       "title": "QA coordination: Agnes ↔ Claude — candidate handoffs and playthrough feedback",
       "url": "https://github.com/A-Birdi/Road-of-Borrowed-Names/issues/1",
@@ -273,26 +293,6 @@
       "title": "Top-pad: the spec for the fair-launch launchpad prototype",
       "url": "https://github.com/imDev2023/top-pad/issues/1",
       "createdAt": "2026-10-26T15:28:40Z"
-    },
-    {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
-    },
-    {
-      "title": "[W03-3 BLOCKED] Approve BG-01–BG-12 wallet/API contract and synthetic QA handoff",
-      "url": "https://github.com/allencortez1000/RHC-web3/issues/3",
-      "createdAt": "2026-10-13T05:44:08Z"
-    },
-    {
-      "title": "prototype: share contract — `share.open` platform call for text, URLs, images, files and contacts",
-      "url": "https://github.com/kaeawc/auto-mobile/issues/14243",
-      "createdAt": "2026-10-21T09:06:43Z"
-    },
-    {
-      "title": "feat(demo): pick the network first in the top-up panel",
-      "url": "https://github.com/clutchprotocol/clutch-hub/pull/49",
-      "createdAt": "2026-10-27T05:01:33Z"
     }
   ]
 }
