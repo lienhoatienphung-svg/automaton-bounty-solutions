@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T04:47:40.761Z",
-  "latencyMs": 763,
+  "executedAt": "2026-10-27T05:05:54.673Z",
+  "latencyMs": 848,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #563: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #564: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,63 +217,53 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 77,
-      "priceBtc": 0.0000025381931457763274
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.306383632214407e-8
+      "marketCapRank": 76,
+      "priceBtc": 0.0000025559344574826804
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9988670694447682
-    },
-    {
-      "name": "XRP",
-      "symbol": "XRP",
-      "marketCapRank": 5,
-      "priceBtc": 0.00001626347502689388
+      "priceBtc": 0.9993318924472014
     },
     {
       "name": "Ethereum",
       "symbol": "ETH",
       "marketCapRank": 2,
-      "priceBtc": 0.02895673961096592
+      "priceBtc": 0.028985499864188927
     },
     {
       "name": "Quantus",
       "symbol": "QTC",
-      "marketCapRank": 756,
-      "priceBtc": 0.000940548213068786
+      "marketCapRank": 758,
+      "priceBtc": 0.0009415754554861277
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.30746093989788e-8
+    },
+    {
+      "name": "XRP",
+      "symbol": "XRP",
+      "marketCapRank": 5,
+      "priceBtc": 0.000016277834703551138
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 97,
+      "priceBtc": 0.00002199864454913
     },
     {
       "name": "Quant",
       "symbol": "QNT",
       "marketCapRank": 36,
-      "priceBtc": 0.002516127599653846
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.015279565984788088
+      "priceBtc": 0.002509564166747842
     }
   ],
   "activeAirdropAndFaucetQuests": [
-    {
-      "title": "[URGENT] Dedicated funder balance low — top up required",
-      "url": "https://github.com/paritytech/playground-cli/issues/586",
-      "createdAt": "2026-10-22T16:22:58Z"
-    },
-    {
-      "title": "Dependency Dashboard",
-      "url": "https://github.com/orangecheck/oc-packages/issues/11",
-      "createdAt": "2026-05-20T14:30:24Z"
-    },
     {
       "title": "QA coordination: Agnes ↔ Claude — candidate handoffs and playthrough feedback",
       "url": "https://github.com/A-Birdi/Road-of-Borrowed-Names/issues/1",
@@ -285,14 +275,24 @@
       "createdAt": "2026-10-26T15:28:40Z"
     },
     {
-      "title": "feat(client): reward a request with a member's voucher",
-      "url": "https://github.com/greenpill-dev-guild/green-goods/pull/1361",
-      "createdAt": "2026-10-27T04:26:29Z"
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
     },
     {
-      "title": "[Sprint 1.7B][UX/API Architecture] Published maze archive and year-round calendar contract",
-      "url": "https://github.com/MZKZxyz/fort-custer-client/issues/50",
-      "createdAt": "2026-10-27T04:33:46Z"
+      "title": "[W03-3 BLOCKED] Approve BG-01–BG-12 wallet/API contract and synthetic QA handoff",
+      "url": "https://github.com/allencortez1000/RHC-web3/issues/3",
+      "createdAt": "2026-10-13T05:44:08Z"
+    },
+    {
+      "title": "prototype: share contract — `share.open` platform call for text, URLs, images, files and contacts",
+      "url": "https://github.com/kaeawc/auto-mobile/issues/14243",
+      "createdAt": "2026-10-21T09:06:43Z"
+    },
+    {
+      "title": "feat(demo): pick the network first in the top-up panel",
+      "url": "https://github.com/clutchprotocol/clutch-hub/pull/49",
+      "createdAt": "2026-10-27T05:01:33Z"
     }
   ]
 }
