@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-27T02:03:22.267Z",
-  "latencyMs": 262,
+  "executedAt": "2026-10-27T02:18:26.264Z",
+  "latencyMs": 416,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #543: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #544: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 53138627,
+    "liveBlockNumber": 53139079,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 399021,
-    "baseMainnetTopPoolsVolume24hUsd": 153019,
+    "baseMainnetTopPoolsVolume24hUsd": 153194,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x50C46d4f055F2a441CcBD3aD2953640759B7eD44",
+        "description": "The treasury operating system for on-chain companies",
+        "url": "https://dexscreener.com/robinhood/0x50c46d4f055f2a441ccbd3ad2953640759b7ed44"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FwRpfeVuhW2TLF6fdAQfCSwE6wdS3g2WidPoz35Xpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fwrpfevuhw2tlf6fdaqfcswe6wds3g2widpoz35xpump"
+      },
+      {
+        "chainId": "ethereum",
+        "tokenAddress": "0xF2FE457D03302EA6C3B1F23038adEeA88AEb0761",
+        "description": "Stack the gold. Boop the cat.",
+        "url": "https://dexscreener.com/ethereum/0xf2fe457d03302ea6c3b1f23038adeea88aeb0761"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "HdZZGEkYMYhE8rZbdm8Zrq89QgsZuYQj9v5FaNh1pump",
+        "description": "Official Tapcash Coin.",
+        "url": "https://dexscreener.com/solana/hdzzgekymyhe8rzbdm8zrq89qgszuyqj9v5fanh1pump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "5wyVHQcToNiSZsDVzDViZWQ8gRQng6TGTJ2U3NKSpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "0x8CaEB823Afe6bd6e6737da976f47b0a8395Cbec8",
         "description": "Elon Derangement Syndrome",
         "url": "https://dexscreener.com/robinhood/0x8caeb823afe6bd6e6737da976f47b0a8395cbec8"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5z8QQsMjaCdWGpRcBBrn2rkjvBsajf8vpcjspExMpump",
-        "description": "Launch tokens that reverse engineer anything.",
-        "url": "https://dexscreener.com/solana/5z8qqsmjacdwgprcbbrn2rkjvbsajf8vpcjspexmpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "6EsTwV3gsTqSPBxW5bPkzLjHNoDsM8XWK1PYkQkkpump",
-        "description": "The private market, onchain. Pair, own and trade unlisted pre-IPO tokens",
-        "url": "https://dexscreener.com/solana/6estwv3gstqspbxw5bpkzljhnodsm8xwk1pykqkkpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4qprYozXaoUaXiEVTMKU8y33Kmik5dREMjKEHZNFpkCH",
-        "description": "The official United States Dividend Asset.",
-        "url": "https://dexscreener.com/solana/4qpryozxaouaxievtmku8y33kmik5dremjkehznfpkch"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fp4jkqeckykbkhb9imu9nsdeo71hwgq2q9qtxaakpump"
       }
     ]
   },
