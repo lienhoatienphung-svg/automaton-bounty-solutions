@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-27T05:01:02.859Z",
-  "latencyMs": 357,
+  "executedAt": "2026-10-27T05:19:15.026Z",
+  "latencyMs": 327,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #561: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #562: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 53143957,
+    "liveBlockNumber": 53144503,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,27 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 399014,
-    "baseMainnetTopPoolsVolume24hUsd": 153030,
+    "baseMainnetTopPoolsVolume24hUsd": 150154,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "4yLrC3P39Bx5JwnHDyovp4UFi1c9djghRvFim7BLpump",
+        "description": "Prediction pools for the http://pump.fun Squads Competition. Back or fade any squad, settled on-chain.",
+        "url": "https://dexscreener.com/solana/4ylrc3p39bx5jwnhdyovp4ufi1c9djghrvfim7blpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FeiVAVWku2dVE7DzsqEo3stV694YQMJeqqtbaQTDpump",
+        "description": "The news is currently blowing up because Elon Musk is running for president in 2028.",
+        "url": "https://dexscreener.com/solana/feivavwku2dve7dzsqeo3stv694yqmjeqqtbaqtdpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "GVKcQQurZKZxV2pQG5MvkCnuMxgqTiup3d1azCiCpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/gvkcqqurzkzxv2pqg5mvkcnumxgqtiup3d1azcicpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "Bz3eShog72STPB9ZJbQekvSKTjyGMQNMQkjYAN6opump",
@@ -49,7 +67,7 @@
       {
         "chainId": "robinhood",
         "tokenAddress": "0xe327c1ca53a42d5a01e26c024a1f3a348966fe9f",
-        "description": "Postright is an AI marketing agent for web3 teams. Give it the facts of a launch, such as a TGE, mainnet, airdrop or listing, and it drafts posts, threads and o",
+        "description": "Postright is the 1st AI marketing agent for web3 teams on robinhood chain. Give it the facts of a launch, such as a TGE, mainnet, airdrop or listing, and it dra",
         "url": "https://dexscreener.com/robinhood/0xe327c1ca53a42d5a01e26c024a1f3a348966fe9f"
       },
       {
@@ -63,24 +81,6 @@
         "tokenAddress": "8TxQcsb38eRpwCvB69ggfNwECFiRujnPNR4dHU6Zpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/8txqcsb38erpwcvb69ggfnwecfirujnpnr4dhu6zpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x373096b831D1a6EC3AdcE9149B0074332Bfc3893",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/robinhood/0x373096b831d1a6ec3adce9149b0074332bfc3893"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FcFA8c87dvEDHje9kYmLt8dm8ixGUZEy1556o1hpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fcfa8c87dvedhje9kymlt8dm8ixguzey1556o1hpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2dTEDPpbSLGiYmwVrbzAYCgRe3bjf6STB7H9UrXUHDUK",
-        "description": "If cryptocurrency wants to be taken seriously, it needs to rebrand to supercurrency",
-        "url": "https://dexscreener.com/solana/2dtedppbslgiymwvrbzaycgre3bjf6stb7h9urxuhduk"
       }
     ]
   },
