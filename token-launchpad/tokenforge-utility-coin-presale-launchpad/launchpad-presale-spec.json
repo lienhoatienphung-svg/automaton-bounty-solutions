@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-27T00:32:30.886Z",
-  "latencyMs": 399,
+  "executedAt": "2026-10-27T00:36:37.759Z",
+  "latencyMs": 251,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #532: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #533: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 53135901,
+    "liveBlockNumber": 53136025,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 394775,
-    "baseMainnetTopPoolsVolume24hUsd": 155863,
+    "baseMainnetTopPoolsVolume24hUsd": 155701,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "9gQqwCD4RDZXnxeghkGUeCr4vawYjPvWTyaaZME6pump",
+        "description": "Apu the Sunape official",
+        "url": "https://dexscreener.com/solana/9gqqwcd4rdzxnxeghkguecr4vawyjpvwtyaazme6pump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "9iwFdRxvSW5HEcffSLXnAHioA4UJ2TAqLgyri6Xwpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/9iwfdrxvsw5hecffslxnahioa4uj2taqlgyri6xwpump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x40806442455e9C971165A18Ac13b74d4709fE9Be",
+        "description": "\"Elon 2028\" committee pushes to change the Constitution so Musk can run for president",
+        "url": "https://dexscreener.com/robinhood/0x40806442455e9c971165a18ac13b74d4709fe9be"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x23A713F6ff5dbd0181daD5105813ec87E64b0AE2",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0x23a713f6ff5dbd0181dad5105813ec87e64b0ae2"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "AADn67fKc6dzG5PW95mHdWfoLggFmgp8pX4gj6AUpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "0x7F4457f8935d409c8AAcCf1A9f66F1da7e728Fb5",
         "description": "Elon 2028 brings the energy of futuristic politics and crypto culture together. Inspired by the 2028 presidential conversation and the tokenized Super PAC conce",
         "url": "https://dexscreener.com/ethereum/0x7f4457f8935d409c8aaccf1a9f66f1da7e728fb5"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2YaWRT3oYKctupoVPJnHV3SG9zdwUu1JyDMN1R5qpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/2yawrt3oykctupovpjnhv3sg9zdwuu1jydmn1r5qpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x5804beee8368132d32ad4b8818ce86eba9c4bd37",
-        "description": "wagon is the trading terminal for Robinhood Chain and Solana. Trade Pons and pumpfun memecoins in one tap with a fast wallet, no popups, and buy whole stock-tok",
-        "url": "https://dexscreener.com/robinhood/0x5804beee8368132d32ad4b8818ce86eba9c4bd37"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
-        "description": "From sunset speedboat rides with Jason and Lucia to drive-in movie nights and unexpected bowling victories, this little troublemaker always finds a way to steal",
-        "url": "https://dexscreener.com/solana/9v4airx4vt45adfg3qqg9pxx68lkx9big4giyeujpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "FZfyuyB9tfkUxQHHCNPXFsfi1LrM8uC2V8c5ceK1pump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/fzfyuyb9tfkuxqhhcnpxfsfi1lrm8uc2v8c5cek1pump"
       }
     ]
   },
