@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-27T02:20:39.336Z",
-  "latencyMs": 317,
+  "executedAt": "2026-10-27T02:35:37.512Z",
+  "latencyMs": 352,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #545: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #546: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $841,4",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 53139146,
+    "liveBlockNumber": 53139595,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 399021,
-    "baseMainnetTopPoolsVolume24hUsd": 153194,
+    "baseMainnetTopPoolsVolume24hUsd": 153486,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "BXDt2QSVnAbisy93sdoVLdufEMs5BXrTukJsWTZCpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/bxdt2qsvnabisy93sdovldufems5bxrtukjswtzcpump"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0x50C46d4f055F2a441CcBD3aD2953640759B7eD44",
@@ -75,12 +81,6 @@
         "tokenAddress": "85jBWktfRenUaYt9SBiFdG8hzuh8txzdpVDRKxFZpump",
         "description": "World of Crypto: SOULKING is a fantasy MMORPG inspired by the legendary World of Warcraft.\n\nWe're building a world where classic MMORPG gameplay meets real cryp",
         "url": "https://dexscreener.com/solana/85jbwktfrenuayt9sbifdg8hzuh8txzdpvdrkxfzpump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x8CaEB823Afe6bd6e6737da976f47b0a8395Cbec8",
-        "description": "Elon Derangement Syndrome",
-        "url": "https://dexscreener.com/robinhood/0x8caeb823afe6bd6e6737da976f47b0a8395cbec8"
       }
     ]
   },
