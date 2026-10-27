@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T04:27:12.409Z",
-  "latencyMs": 684,
+  "executedAt": "2026-10-27T04:30:19.875Z",
+  "latencyMs": 1076,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #561: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
+  "workTitle": "Growth & Sales Sprint #560: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Aisles &amp; Abroad: Travel Support",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -270,6 +270,21 @@
       "createdAt": "2026-10-20T00:36:00Z"
     },
     {
+      "title": "Send to Address refuses an amount below the payment floor and names the minimum; Send max says so when everything is below it",
+      "url": "https://github.com/schancel/frank/pull/1930",
+      "createdAt": "2026-10-27T04:29:45Z"
+    },
+    {
+      "title": "feat(shared,admin): show stewards a promise's voucher and G$ outcomes",
+      "url": "https://github.com/greenpill-dev-guild/green-goods/pull/1360",
+      "createdAt": "2026-10-27T04:20:22Z"
+    },
+    {
+      "title": "sim: node-xrpl-lies/liveness/outgoing",
+      "url": "https://github.com/justmoon/dassie/issues/411",
+      "createdAt": "2026-10-25T00:20:27Z"
+    },
+    {
       "title": "[验收] 临时 Wi-Fi Direct/P2P 稳定性、择路收益与断路恢复",
       "url": "https://github.com/GHOST-AKU/wozai/issues/23",
       "createdAt": "2026-10-12T11:07:47Z"
@@ -278,21 +293,6 @@
       "title": "feat(client): reward a request with a member's voucher",
       "url": "https://github.com/greenpill-dev-guild/green-goods/pull/1361",
       "createdAt": "2026-10-27T04:26:29Z"
-    },
-    {
-      "title": "feat(shared,admin): show stewards a promise's voucher and G$ outcomes",
-      "url": "https://github.com/greenpill-dev-guild/green-goods/pull/1360",
-      "createdAt": "2026-10-27T04:20:22Z"
-    },
-    {
-      "title": "[Spec Decode] Skip drafts after EOS and stop tokens",
-      "url": "https://github.com/vllm-project/vllm-metal/pull/1203",
-      "createdAt": "2026-10-26T17:59:38Z"
-    },
-    {
-      "title": "feat(cli): complete agent workflows for read-only Delta analysis",
-      "url": "https://github.com/mag1cfrog/delta-arrow-reader/issues/525",
-      "createdAt": "2026-10-20T12:28:53Z"
     }
   ]
 }
