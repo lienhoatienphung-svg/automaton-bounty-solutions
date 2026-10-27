@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T05:51:53.939Z",
-  "latencyMs": 705,
+  "executedAt": "2026-10-27T06:11:31.034Z",
+  "latencyMs": 849,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #569: Ship turnkey automation package for [Multi-Industry B2B Gig] Lemon.io: Senior DevOps Engineer ($",
+  "workTitle": "Growth & Sales Sprint #570: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Aisles &amp; Abroad: Travel Support",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -151,7 +151,15 @@
       "chainId": "solana",
       "tokenAddress": "2KH3rv7PoDa3nwyzRqd7Tfq365aGRSzb8vEujRWrpump",
       "boostAmount": 10,
-      "totalBoostAmount": 10,
+      "totalBoostAmount": 20,
+      "description": "This cute cat that loves saying NO is going insanely viral with 850k followers, 105M likes and 600M+ views! Owners onboarded and all creator fees being sent dir",
+      "url": "https://dexscreener.com/solana/2kh3rv7poda3nwyzrqd7tfq365agrszb8veujrwrpump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "2KH3rv7PoDa3nwyzRqd7Tfq365aGRSzb8vEujRWrpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 20,
       "description": "This cute cat that loves saying NO is going insanely viral with 850k followers, 105M likes and 600M+ views! Owners onboarded and all creator fees being sent dir",
       "url": "https://dexscreener.com/solana/2kh3rv7poda3nwyzrqd7tfq365agrszb8veujrwrpump"
     },
@@ -202,82 +210,64 @@
       "totalBoostAmount": 30,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/3qxerln31mg8qrpr18fnextvq58wjafv2nquxkt2pear"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump",
-      "boostAmount": 10,
-      "totalBoostAmount": 50,
-      "description": "In a world driven by opportunity, who you know can be just as important as what you know. Behind every successful business, every major movement, and every brea",
-      "url": "https://dexscreener.com/solana/8thz69jp2erzuhvj4g5rcwkffsqafp5mqsaoqreapump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Infinity Ground",
+      "symbol": "AIN",
+      "marketCapRank": 800,
+      "priceBtc": 0.0000014364360329456803
+    },
+    {
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 76,
-      "priceBtc": 0.0000025543922887315544
-    },
-    {
-      "name": "Infinity Ground",
-      "symbol": "AIN",
-      "marketCapRank": 863,
-      "priceBtc": 0.0000012988877866973892
+      "priceBtc": 0.000002550058546019906
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.27356617707418e-8
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9992519917184078
+      "priceBtc": 9.291421163356976e-8
     },
     {
       "name": "Quant",
       "symbol": "QNT",
       "marketCapRank": 37,
-      "priceBtc": 0.0024864655728614495
+      "priceBtc": 0.0024844662367385947
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 97,
+      "priceBtc": 0.000021815335792247703
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9982821560720126
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009692310272481853
     },
     {
       "name": "Ethereum",
       "symbol": "ETH",
       "marketCapRank": 2,
-      "priceBtc": 0.0289236357780838
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 761,
-      "priceBtc": 0.0009371273055764395
-    },
-    {
-      "name": "Railgun",
-      "symbol": "RAIL",
-      "marketCapRank": 220,
-      "priceBtc": 0.00002993969895082463
+      "priceBtc": 0.02890116544437268
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
-    },
-    {
-      "title": "Agent Hub: milestone tracking (M0–M7)",
-      "url": "https://github.com/alexeygrigorev/agent-hub/issues/1",
-      "createdAt": "2026-10-11T17:50:09Z"
-    },
-    {
-      "title": "AppWorld ablation: Cap evolve traces and score only (cap-evolve main 75b3bcd, gpt-oss-120b)",
-      "url": "https://github.com/skillberry-ai/cap-evolve/issues/935",
-      "createdAt": "2026-10-25T07:29:21Z"
+      "title": "Update docs",
+      "url": "https://github.com/marcomq/mq-bridge/pull/172",
+      "createdAt": "2026-10-27T06:01:34Z"
     },
     {
       "title": "feat: add C-130 cargo system, territory visualization, and split crates",
@@ -285,14 +275,24 @@
       "createdAt": "2026-01-19T07:41:07Z"
     },
     {
-      "title": "Export the current piece as USDZ and GLB",
-      "url": "https://github.com/kalb2/3d-woodworking/pull/32",
-      "createdAt": "2026-10-27T05:47:59Z"
+      "title": "Plan adjustable companion themes without changing app behavior",
+      "url": "https://github.com/freshwaterbruce2/tutor3/pull/2",
+      "createdAt": "2026-10-27T04:59:58Z"
     },
     {
-      "title": "AppWorld ablation: Claude code (plain Claude Code) (cap-evolve main 75b3bcd, gpt-oss-120b)",
-      "url": "https://github.com/skillberry-ai/cap-evolve/issues/931",
-      "createdAt": "2026-10-25T07:29:17Z"
+      "title": "Add DeepSWE evaluation harness (Pier adapter + vLLM on turing)",
+      "url": "https://github.com/AutoSE-Labs/autose/pull/1",
+      "createdAt": "2026-10-07T20:10:29Z"
+    },
+    {
+      "title": "refactor: extract the landing's protocol server into @originals/host",
+      "url": "https://github.com/onionoriginals/sdk/pull/1008",
+      "createdAt": "2026-10-27T06:09:17Z"
+    },
+    {
+      "title": "Agent Hub: milestone tracking (M0–M7)",
+      "url": "https://github.com/alexeygrigorev/agent-hub/issues/1",
+      "createdAt": "2026-10-11T17:50:09Z"
     }
   ]
 }
