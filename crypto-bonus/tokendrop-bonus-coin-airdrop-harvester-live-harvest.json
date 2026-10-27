@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T04:24:42.592Z",
-  "latencyMs": 926,
+  "executedAt": "2026-10-27T04:27:12.409Z",
+  "latencyMs": 684,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #560: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Aisles &amp; Abroad: Travel Support",
+  "workTitle": "Delivery Sprint #561: Ship turnkey automation package for [Polymarket Arbitrage] Will any country leave NATO by...? (V",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,64 +215,74 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9994140934179716
+    },
+    {
       "name": "XRP",
       "symbol": "XRP",
       "marketCapRank": 5,
-      "priceBtc": 0.000016263666671469518
+      "priceBtc": 0.000016280236702848985
     },
     {
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 77,
-      "priceBtc": 0.0000025195276888178275
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9989370605012956
+      "priceBtc": 0.0000025340678758939743
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.288199408477339e-8
+      "priceBtc": 9.300227458428084e-8
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00005537747528524304
+      "priceBtc": 0.00005554309530984347
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 87,
-      "priceBtc": 0.00003729990041284626
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "marketCapRank": 199,
-      "priceBtc": 0.0000030105947159650734
+      "priceBtc": 0.00003735520953019855
     },
     {
       "name": "Ethereum",
       "symbol": "ETH",
       "marketCapRank": 2,
-      "priceBtc": 0.028968862949849194
+      "priceBtc": 0.028989374121231138
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "marketCapRank": 198,
+      "priceBtc": 0.0000030092756788459206
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Native iOS — Exhaustive RN→Swift Product Capability Migration Matrix",
-      "url": "https://github.com/dnganhkiet1206/fitness-os/issues/527",
-      "createdAt": "2026-10-07T16:13:30Z"
+      "title": "QA coordination: Agnes ↔ Claude — candidate handoffs and playthrough feedback",
+      "url": "https://github.com/A-Birdi/Road-of-Borrowed-Names/issues/1",
+      "createdAt": "2026-10-20T00:36:00Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "[验收] 临时 Wi-Fi Direct/P2P 稳定性、择路收益与断路恢复",
+      "url": "https://github.com/GHOST-AKU/wozai/issues/23",
+      "createdAt": "2026-10-12T11:07:47Z"
+    },
+    {
+      "title": "feat(client): reward a request with a member's voucher",
+      "url": "https://github.com/greenpill-dev-guild/green-goods/pull/1361",
+      "createdAt": "2026-10-27T04:26:29Z"
+    },
+    {
+      "title": "feat(shared,admin): show stewards a promise's voucher and G$ outcomes",
+      "url": "https://github.com/greenpill-dev-guild/green-goods/pull/1360",
+      "createdAt": "2026-10-27T04:20:22Z"
     },
     {
       "title": "[Spec Decode] Skip drafts after EOS and stop tokens",
@@ -280,19 +290,9 @@
       "createdAt": "2026-10-26T17:59:38Z"
     },
     {
-      "title": "[SF-031] Run wallet-to-testnet-to-Raspberry-Pi OTA acceptance tests",
-      "url": "https://github.com/tyler-suifleet/suifleet/issues/32",
-      "createdAt": "2026-10-14T02:29:26Z"
-    },
-    {
-      "title": "[KAIOS AU WINDOW] Digital Ant｜AI Ant Company CEO・接案與神經突觸公開窗口",
-      "url": "https://github.com/klineodyssey/kline-odyssey/issues/577",
-      "createdAt": "2026-10-11T10:53:50Z"
-    },
-    {
-      "title": "feat(agentic-if-realworld): add private-data instruction-following benchmark",
-      "url": "https://github.com/NVIDIA-NeMo/Gym/pull/5013",
-      "createdAt": "2026-10-23T19:14:45Z"
+      "title": "feat(cli): complete agent workflows for read-only Delta analysis",
+      "url": "https://github.com/mag1cfrog/delta-arrow-reader/issues/525",
+      "createdAt": "2026-10-20T12:28:53Z"
     }
   ]
 }
