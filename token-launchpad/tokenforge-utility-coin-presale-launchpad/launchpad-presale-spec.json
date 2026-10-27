@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-27T01:23:44.629Z",
-  "latencyMs": 307,
+  "executedAt": "2026-10-27T01:25:51.645Z",
+  "latencyMs": 364,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #538: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,622,665 |",
+  "workTitle": "Delivery Sprint #539: Ship turnkey automation package for [Multi-Industry B2B Gig] Lemon.io: Senior DevOps Engineer ($",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 53137438,
+    "liveBlockNumber": 53137502,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 399037,
-    "baseMainnetTopPoolsVolume24hUsd": 156043,
+    "baseMainnetTopPoolsVolume24hUsd": 155940,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "1226TMaWZiZYWdP7CBZBqfJGXoWXaKXJJiKf45e5xfun",
+        "description": "The trenches were never supposed to be a farm.\n\nThey were supposed to be the place where anyone with a wallet and a pulse could show up, take a shot, and actual",
+        "url": "https://dexscreener.com/solana/1226tmawzizywdp7cbzbqfjgxowxakxjjikf45e5xfun"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2gLFpDdi91FaWwq6ruMMGs8czsbP7KSokcsdqQWDNLMP",
+        "description": "UseLamp Is A Launchpad For The Retail, A Launchpad That Prioritizes The Everyday Trader Built On Meteora",
+        "url": "https://dexscreener.com/solana/2glfpddi91fawwq6rummgs8czsbp7ksokcsdqqwdnlmp"
+      },
       {
         "chainId": "robinhood",
         "tokenAddress": "0xb6a7F6211E97F341Bb270479cE0348dC1Cf156ea",
@@ -69,18 +81,6 @@
         "tokenAddress": "DMnMwUvo1a9HbSnixbdNaTsoHczJ8cdamUWVRM1Qpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/dmnmwuvo1a9hbsnixbdnatsohczj8cdamuwvrm1qpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7gJN7kVrg7Tagvwq6urG6urkwquAPimiwhdjt4depump",
-        "description": "hold the greatest ASSet",
-        "url": "https://dexscreener.com/solana/7gjn7kvrg7tagvwq6urg6urkwquapimiwhdjt4depump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "5SD1Gg2K4gggwJawd2rn2xUQPisfpRk41NR93fX8pump",
-        "description": "OFFICIAL MUSK",
-        "url": "https://dexscreener.com/solana/5sd1gg2k4gggwjawd2rn2xuqpisfprk41nr93fx8pump"
       }
     ]
   },
