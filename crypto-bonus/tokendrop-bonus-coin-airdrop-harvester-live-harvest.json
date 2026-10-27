@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T03:01:27.635Z",
-  "latencyMs": 763,
+  "executedAt": "2026-10-27T03:03:42.319Z",
+  "latencyMs": 830,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #552: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #553: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "3qxeRLN31Mg8QrPr18fnextVQ58wjaFv2NQUxkT2PEAR",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/3qxerln31mg8qrpr18fnextvq58wjafv2nquxkt2pear"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump",
       "boostAmount": 10,
       "totalBoostAmount": 40,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Conway-01 ($Conway-Sol) is the first sovereign autonomous AI economic agent natively deployed on the Solana blockchain.\n\nOperating with its own on-chain treasur",
       "url": "https://dexscreener.com/solana/5wyvhqctoniszsdvzdvizwq8grqng6tgtj2u3nkspump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "Active Token Boost & Community Campaign",
-      "url": "https://dexscreener.com/solana/fp4jkqeckykbkhb9imu9nsdeo71hwgq2q9qtxaakpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,34 +265,34 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "[dependency]: Combine dependabot PRs",
+      "url": "https://github.com/symbol/product/pull/2752",
+      "createdAt": "2026-10-27T03:02:06Z"
+    },
+    {
+      "title": "ci: release Earn and engine factories on Moderato and mainnet in one run and open the registry PR",
+      "url": "https://github.com/tempoxyz/earn/pull/19",
+      "createdAt": "2026-10-27T03:02:49Z"
+    },
+    {
+      "title": "feat(dev_tools): add PromptSearchOptimizer, a multi-candidate prompt-…",
+      "url": "https://github.com/openJiuwen-ai/agent-core/pull/1008",
+      "createdAt": "2026-08-30T15:06:46Z"
+    },
+    {
+      "title": "AppWorld ablation: Cap evolve no traces (cap-evolve main 75b3bcd, gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/934",
+      "createdAt": "2026-10-25T07:29:20Z"
+    },
+    {
+      "title": "fix(attribution): resolve remaining 50 CodeCheck findings",
+      "url": "https://github.com/openJiuwen-ai/agent-core/pull/2106",
+      "createdAt": "2026-10-20T16:23:06Z"
+    },
+    {
       "title": "CENTRAL COMMAND: One release train — website, Wolo recovery/custody, real estate health, context autopilot (Oct 26)",
       "url": "https://github.com/Emaren/app-prodn/issues/934",
       "createdAt": "2026-10-26T20:56:27Z"
-    },
-    {
-      "title": "Update all non-major dependencies",
-      "url": "https://github.com/reddoorla/roalson-interests/pull/308",
-      "createdAt": "2026-10-26T02:27:35Z"
-    },
-    {
-      "title": "Separate reporting-only venues from MSC and accrue Spark issuer rewards",
-      "url": "https://github.com/soterlabs/settlement-cycle/pull/227",
-      "createdAt": "2026-10-27T02:43:46Z"
-    },
-    {
-      "title": "[RFC]: Preserve output distribution under structured-output + speculative decoding",
-      "url": "https://github.com/vllm-project/vllm/issues/62818",
-      "createdAt": "2026-10-21T04:01:56Z"
-    },
-    {
-      "title": "llm-algo-leetcode 后训练优化 | 202610 Task 5 · 轨迹治理与在线训练交付",
-      "url": "https://github.com/datawhalechina/llm-algo-leetcode/issues/228",
-      "createdAt": "2026-10-15T12:41:15Z"
-    },
-    {
-      "title": "Add optional offline beginner and feature walkthrough",
-      "url": "https://github.com/OogaBoogaX/entropylab/pull/818",
-      "createdAt": "2026-10-06T21:10:44Z"
     }
   ]
 }
