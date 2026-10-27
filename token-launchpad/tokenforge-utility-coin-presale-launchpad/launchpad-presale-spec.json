@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-27T06:05:38.359Z",
-  "latencyMs": 399,
+  "executedAt": "2026-10-27T06:08:33.997Z",
+  "latencyMs": 318,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #566: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $841,4",
+  "workTitle": "Delivery Sprint #567: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,231,628 | L",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 53145895,
+    "liveBlockNumber": 53145983,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,15 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 398962,
-    "baseMainnetTopPoolsVolume24hUsd": 148211,
+    "baseMainnetTopPoolsVolume24hUsd": 148134,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "bsc",
+        "tokenAddress": "0x6Be8f023B73447dd341D9910C3C4661B59927777",
+        "description": "Official meme of Flap founder Cedric - 😬",
+        "url": "https://dexscreener.com/bsc/0x6be8f023b73447dd341d9910c3c4661b59927777"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8LQ5DQUrKqvmithWcNkKj41HYu1wsUVR3ZvUikhvpump",
@@ -75,12 +81,6 @@
         "tokenAddress": "DRzF1CkfYeBvmPZismQpAvQ6eQon65qipR1MTMYDpump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/drzf1ckfyebvmpzismqpavq6eqon65qipr1mtmydpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "2KH3rv7PoDa3nwyzRqd7Tfq365aGRSzb8vEujRWrpump",
-        "description": "This cute cat that loves saying NO is going insanely viral with 850k followers, 105M likes and 600M+ views! Owners onboarded and all creator fees being sent dir",
-        "url": "https://dexscreener.com/solana/2kh3rv7poda3nwyzrqd7tfq365agrszb8veujrwrpump"
       }
     ]
   },
