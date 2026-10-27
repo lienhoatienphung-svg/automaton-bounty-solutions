@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T04:30:19.875Z",
-  "latencyMs": 1076,
+  "executedAt": "2026-10-27T04:45:23.761Z",
+  "latencyMs": 728,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #560: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Aisles &amp; Abroad: Travel Support",
+  "workTitle": "Growth & Sales Sprint #562: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -215,79 +215,79 @@
   "coinGeckoTrendingCoinsCount": 8,
   "coinGeckoTrendingCoins": [
     {
+      "name": "Quack AI",
+      "symbol": "Q",
+      "marketCapRank": 76,
+      "priceBtc": 0.000002571588888018397
+    },
+    {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9994140934179716
-    },
-    {
-      "name": "XRP",
-      "symbol": "XRP",
-      "marketCapRank": 5,
-      "priceBtc": 0.000016280236702848985
-    },
-    {
-      "name": "Quack AI",
-      "symbol": "Q",
-      "marketCapRank": 77,
-      "priceBtc": 0.0000025340678758939743
+      "priceBtc": 0.9990333381904418
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.300227458428084e-8
+      "priceBtc": 9.300184860867379e-8
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "marketCapRank": 20,
-      "priceBtc": 0.00005554309530984347
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "marketCapRank": 87,
-      "priceBtc": 0.00003735520953019855
+      "name": "XRP",
+      "symbol": "XRP",
+      "marketCapRank": 5,
+      "priceBtc": 0.000016292209270944723
     },
     {
       "name": "Ethereum",
       "symbol": "ETH",
       "marketCapRank": 2,
-      "priceBtc": 0.028989374121231138
+      "priceBtc": 0.028989547818563666
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.000055522884167185974
+    },
+    {
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 757,
+      "priceBtc": 0.0009404819721202996
     },
     {
       "name": "Pons",
       "symbol": "PONS",
-      "marketCapRank": 198,
-      "priceBtc": 0.0000030092756788459206
+      "marketCapRank": 199,
+      "priceBtc": 0.0000030107223610957367
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "QA coordination: Agnes ↔ Claude — candidate handoffs and playthrough feedback",
-      "url": "https://github.com/A-Birdi/Road-of-Borrowed-Names/issues/1",
-      "createdAt": "2026-10-20T00:36:00Z"
+      "title": "Play TERRORNODE from the b menu + immersive landscape bApp frame",
+      "url": "https://github.com/b0ase/yours-mobile/pull/392",
+      "createdAt": "2026-10-27T04:43:26Z"
     },
     {
-      "title": "Send to Address refuses an amount below the payment floor and names the minimum; Send max says so when everything is below it",
-      "url": "https://github.com/schancel/frank/pull/1930",
-      "createdAt": "2026-10-27T04:29:45Z"
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
     },
     {
-      "title": "feat(shared,admin): show stewards a promise's voucher and G$ outcomes",
-      "url": "https://github.com/greenpill-dev-guild/green-goods/pull/1360",
-      "createdAt": "2026-10-27T04:20:22Z"
+      "title": "[Spec Decode] Skip drafts after EOS and stop tokens",
+      "url": "https://github.com/vllm-project/vllm-metal/pull/1203",
+      "createdAt": "2026-10-26T17:59:38Z"
     },
     {
-      "title": "sim: node-xrpl-lies/liveness/outgoing",
-      "url": "https://github.com/justmoon/dassie/issues/411",
-      "createdAt": "2026-10-25T00:20:27Z"
+      "title": "[Bugfix][MRV2][Spec Decode] Profile rejection sampling before sizing the KV cache",
+      "url": "https://github.com/vllm-project/vllm/pull/63913",
+      "createdAt": "2026-10-27T03:08:25Z"
     },
     {
-      "title": "[验收] 临时 Wi-Fi Direct/P2P 稳定性、择路收益与断路恢复",
-      "url": "https://github.com/GHOST-AKU/wozai/issues/23",
-      "createdAt": "2026-10-12T11:07:47Z"
+      "title": "[Bug]: [MRV2] Spec-decode rejection sampling is not covered by profile_run",
+      "url": "https://github.com/vllm-project/vllm/issues/63942",
+      "createdAt": "2026-10-27T04:44:15Z"
     },
     {
       "title": "feat(client): reward a request with a member's voucher",
