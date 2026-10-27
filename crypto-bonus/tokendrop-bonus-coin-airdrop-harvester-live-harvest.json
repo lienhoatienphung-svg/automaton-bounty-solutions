@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T01:35:27.580Z",
-  "latencyMs": 679,
+  "executedAt": "2026-10-27T01:50:51.114Z",
+  "latencyMs": 916,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #543: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "workTitle": "Growth & Sales Sprint #544: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "Active Token Boost & Community Campaign",
+      "url": "https://dexscreener.com/solana/fp4jkqeckykbkhb9imu9nsdeo71hwgq2q9qtxaakpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
       "boostAmount": 100,
       "totalBoostAmount": 200,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "FomoLabs — Next-Generation DeFi Ecosystem\n\nFomoLabs is a decentralized finance ecosystem built on the Solana blockchain, focused on developing innovative tradin",
       "url": "https://dexscreener.com/solana/dseuegxgdizlllrvxmcqyawd9gscpbsoh7hlmmyqfomo"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "9uGqEsc5Sh9GBjvLr7jUf7PyY9tDZhiV7kCdyM7Wpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "gently used joystick",
-      "url": "https://dexscreener.com/solana/9ugqesc5sh9gbjvlr7juf7pyy9tdzhiv7kcdym7wpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,62 +217,62 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 79,
-      "priceBtc": 0.0000024448476814528547
+      "marketCapRank": 78,
+      "priceBtc": 0.0000024944718472144332
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.316040611714444e-8
+      "marketCapRank": 118,
+      "priceBtc": 9.378419426943438e-8
+    },
+    {
+      "name": "USD.AI",
+      "symbol": "CHIP",
+      "marketCapRank": 272,
+      "priceBtc": 6.456568898757165e-7
     },
     {
       "name": "XRP",
       "symbol": "XRP",
       "marketCapRank": 5,
-      "priceBtc": 0.000016232053674814152
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.996929369786317
+      "priceBtc": 0.000016300575906389848
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00005546311251507827
+      "priceBtc": 0.00005624306009710551
     },
     {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 756,
-      "priceBtc": 0.0009419339605229385
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 1.000653761184745
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.015268905195239109
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.000979807352683773
     },
     {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "marketCapRank": 97,
-      "priceBtc": 0.00002006983236072612
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 104,
+      "priceBtc": 0.000008430342080615759
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "feat(app): export a conversation's full transcript as a text file",
-      "url": "https://github.com/BasedHardware/omi/pull/23549",
-      "createdAt": "2026-10-24T22:11:46Z"
+      "title": "AppWorld ablation: Claude code (plain Claude Code) (cap-evolve main 75b3bcd, gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/931",
+      "createdAt": "2026-10-25T07:29:17Z"
     },
     {
-      "title": "[URGENT] Dedicated funder balance low — top up required",
-      "url": "https://github.com/paritytech/playground-cli/issues/586",
-      "createdAt": "2026-10-22T16:22:58Z"
+      "title": "QA coordination: Agnes ↔ Claude — candidate handoffs and playthrough feedback",
+      "url": "https://github.com/A-Birdi/Road-of-Borrowed-Names/issues/1",
+      "createdAt": "2026-10-20T00:36:00Z"
     },
     {
       "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
@@ -280,19 +280,19 @@
       "createdAt": "2026-10-20T21:31:27Z"
     },
     {
-      "title": "feat(al1): connect real firsthand Gather success to the resident's executable source choice",
-      "url": "https://github.com/sjLim91/lifelens-ue/pull/980",
-      "createdAt": "2026-10-27T00:54:28Z"
+      "title": "fix: preserve wallet flows and review readability",
+      "url": "https://github.com/syscoin/pali-wallet/pull/1110",
+      "createdAt": "2026-10-24T23:00:48Z"
     },
     {
-      "title": "feat(web): masternode voting on username contests (keyring or pasted keys)",
-      "url": "https://github.com/PastaPastaPasta/govhub/pull/67",
-      "createdAt": "2026-10-27T00:29:21Z"
+      "title": "feat: add spark via breez sdk",
+      "url": "https://github.com/synonymdev/bitkit-android/pull/1697",
+      "createdAt": "2026-10-26T13:49:06Z"
     },
     {
-      "title": "[KAIOS AU WINDOW] Digital Ant｜AI Ant Company CEO・接案與神經突觸公開窗口",
-      "url": "https://github.com/klineodyssey/kline-odyssey/issues/577",
-      "createdAt": "2026-10-11T10:53:50Z"
+      "title": "OWNER DIRECTIVE — Zero-budget public launch and genuine liquidity gate",
+      "url": "https://github.com/hamidnikkhah660-arch/ai-native-l1/issues/12",
+      "createdAt": "2026-10-20T22:28:26Z"
     }
   ]
 }
