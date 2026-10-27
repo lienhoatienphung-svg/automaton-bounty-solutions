@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T03:46:23.333Z",
-  "latencyMs": 820,
+  "executedAt": "2026-10-27T04:03:54.430Z",
+  "latencyMs": 689,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #557: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,231,628 | L",
+  "workTitle": "Growth & Sales Sprint #558: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,622,665 |",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "DtBatQsrazRRVp37UTMQH7TnXL1mT2qrJTj7PB9Rpump",
+      "boostAmount": 10,
+      "totalBoostAmount": 140,
+      "description": "Last year I  was live for months and ran Wifmas to 5 million market cap\n\nThe trenches have been dead lately and its the perfect time for a Seasonal CCM runner\n\n",
+      "url": "https://dexscreener.com/solana/dtbatqsrazrrvp37utmqh7tnxl1mt2qrjtj7pb9rpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "3sKZuSZF7onqPYFrWu3bH4Lh141duydt9MAmSd46jaLJ",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 40,
       "description": "In a world driven by opportunity, who you know can be just as important as what you know. Behind every successful business, every major movement, and every brea",
       "url": "https://dexscreener.com/solana/8thz69jp2erzuhvj4g5rcwkffsqafp5mqsaoqreapump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "85jBWktfRenUaYt9SBiFdG8hzuh8txzdpVDRKxFZpump",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "World of Crypto: SOULKING is a fantasy MMORPG inspired by the legendary World of Warcraft.\n\nWe're building a world where classic MMORPG gameplay meets real cryp",
-      "url": "https://dexscreener.com/solana/85jbwktfrenuayt9sbifdg8hzuh8txzdpvdrkxfzpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -217,82 +217,82 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 75,
-      "priceBtc": 0.000002678807123604799
+      "marketCapRank": 76,
+      "priceBtc": 0.0000025413691730068087
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 1.0003573336990184
+      "priceBtc": 0.9986215635819057
     },
     {
       "name": "XRP",
       "symbol": "XRP",
       "marketCapRank": 5,
-      "priceBtc": 0.000016289304935376133
+      "priceBtc": 0.000016264063467698906
     },
     {
       "name": "USD.AI",
       "symbol": "CHIP",
       "marketCapRank": 273,
-      "priceBtc": 6.418135243422668e-7
+      "priceBtc": 6.398388474898383e-7
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.31698598850605e-8
-    },
-    {
-      "name": "Stellar",
-      "symbol": "XLM",
-      "marketCapRank": 19,
-      "priceBtc": 0.0000021082119846809173
+      "priceBtc": 9.291240619599913e-8
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 87,
-      "priceBtc": 0.000037396659033559833
+      "priceBtc": 0.00003726760091383826
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
       "marketCapRank": 10,
-      "priceBtc": 0.015353417055071006
+      "priceBtc": 0.015302822522937142
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "marketCapRank": 20,
+      "priceBtc": 0.00005537474983713004
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Turn the room to use all four walls, show item fronts, add doorways",
-      "url": "https://github.com/canetsbe-sudo/reno-sim/pull/4",
-      "createdAt": "2026-10-27T03:45:43Z"
+      "title": "QA coordination: Agnes ↔ Claude — candidate handoffs and playthrough feedback",
+      "url": "https://github.com/A-Birdi/Road-of-Borrowed-Names/issues/1",
+      "createdAt": "2026-10-20T00:36:00Z"
     },
     {
-      "title": "[Bugfix][MRV2][Spec Decode] Profile rejection sampling before sizing the KV cache",
-      "url": "https://github.com/vllm-project/vllm/pull/63913",
-      "createdAt": "2026-10-27T03:08:25Z"
+      "title": "perf(dist): build shipped binaries with fat LTO + codegen-units=1 (smaller binary, ~2.5 MiB less RSS)",
+      "url": "https://github.com/faucet-hq/faucet-stream/issues/911",
+      "createdAt": "2026-10-16T08:40:46Z"
     },
     {
-      "title": "[Bugfix][Spec Decode] Align MRV2 lm_head LoRA with logits rows",
-      "url": "https://github.com/vllm-project/vllm/pull/59341",
-      "createdAt": "2026-09-30T01:46:35Z"
-    },
-    {
-      "title": "feat(deployments): create factory releases deterministically with CREATE2",
-      "url": "https://github.com/tempoxyz/earn/pull/21",
-      "createdAt": "2026-10-27T03:37:16Z"
-    },
-    {
-      "title": "[Feat] [NPU] sampling: Integrate DSpark Triton sampling kernels",
-      "url": "https://github.com/sgl-project/sgl-kernel-npu/pull/871",
-      "createdAt": "2026-10-21T07:29:15Z"
+      "title": "AppWorld ablation: Cap evolve no traces (cap-evolve main 75b3bcd, gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/934",
+      "createdAt": "2026-10-25T07:29:20Z"
     },
     {
       "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
       "url": "https://github.com/rempemat-eng/appify/issues/149",
       "createdAt": "2026-10-20T21:31:27Z"
+    },
+    {
+      "title": "Live smoke failing",
+      "url": "https://github.com/Prashant-thakur77/Strike/issues/61",
+      "createdAt": "2026-10-23T08:26:20Z"
+    },
+    {
+      "title": "[Bugfix][MRV2][Spec Decode] Profile rejection sampling before sizing the KV cache",
+      "url": "https://github.com/vllm-project/vllm/pull/63913",
+      "createdAt": "2026-10-27T03:08:25Z"
     }
   ]
 }
