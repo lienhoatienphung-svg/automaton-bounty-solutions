@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T00:57:41.838Z",
-  "latencyMs": 755,
+  "executedAt": "2026-10-27T00:59:34.350Z",
+  "latencyMs": 744,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #538: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,622,665 |",
+  "workTitle": "Delivery Sprint #539: Ship turnkey automation package for [Multi-Industry B2B Gig] Lemon.io: Senior DevOps Engineer ($",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -265,6 +265,16 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
+    },
+    {
+      "title": "chore(deps): update dependency vitest to v4 [security]",
+      "url": "https://github.com/unlock-protocol/unlock/pull/16598",
+      "createdAt": "2026-08-26T12:54:25Z"
+    },
+    {
       "title": "fix(deps): clean up open dependabot findings in js templates",
       "url": "https://github.com/solana-foundation/templates/pull/525",
       "createdAt": "2026-10-27T00:28:53Z"
@@ -283,16 +293,6 @@
       "title": "chore(deps): update dependency zx to v8 [security]",
       "url": "https://github.com/walleXD/adventofcode/pull/88",
       "createdAt": "2025-11-21T22:02:42Z"
-    },
-    {
-      "title": "feat(billing): save inviter at signup and add referral reward settings",
-      "url": "https://github.com/Bike4Mind/bike4mind/pull/5635",
-      "createdAt": "2026-10-23T10:35:41Z"
-    },
-    {
-      "title": "[RFC]: Preserve output distribution under structured-output + speculative decoding",
-      "url": "https://github.com/vllm-project/vllm/issues/62818",
-      "createdAt": "2026-10-21T04:01:56Z"
     }
   ]
 }
