@@ -1,10 +1,10 @@
 {
   "executionMode": "REAL_MULTI_INDUSTRY_INSTANT_SETTLEMENT_ENGINE",
-  "executedAt": "2026-10-27T04:45:12.134Z",
-  "latencyMs": 805,
+  "executedAt": "2026-10-27T04:47:38.275Z",
+  "latencyMs": 577,
   "companyName": "Aegis Web3 Smart Contract Security Audit & Bug Bounty Lab",
-  "workTitle": "Growth & Sales Sprint #632: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
-  "targetUrl": "https://polymarket.com/event/ukraine-election-called-in-2025",
+  "workTitle": "Delivery Sprint #633: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
+  "targetUrl": "https://polymarket.com/event/ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
   "instantSettlementInvoice": {
     "network": "Base Mainnet (Chain ID 8453)",
     "token": "USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
@@ -128,61 +128,136 @@
     ]
   },
   "multiIndustryB2BContracts": {
-    "contractsPackagedCount": 5,
+    "contractsPackagedCount": 10,
     "contracts": [
       {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Think Cell",
-        "roleOrTask": "Test Engineer (f/m/d)",
-        "industryTags": [
-          "Development"
-        ],
-        "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/think-cell/test-engineer-70162",
-        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
-      },
-      {
-        "source": "Arbeitnow-GlobalB2B",
-        "company": "Auterion",
+        "source": "RemoteOK-InstantB2B",
+        "company": "Klardaten",
         "roleOrTask": "Senior Software Engineer",
         "industryTags": [
-          "Engineering"
+          "dev",
+          "senior",
+          "javascript",
+          "typescript",
+          "full stack"
+        ],
+        "compensation": "$80000-$100000",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Getlabs",
+        "roleOrTask": "Field Phlebotomy Supervisor Northern California",
+        "industryTags": [
+          "supervisor",
+          "testing",
+          "marketing",
+          "exec",
+          "mobile"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Onebrief",
+        "roleOrTask": "Solutions Engineer",
+        "industryTags": [
+          "design",
+          "ansible",
+          "grafana",
+          "sys admin",
+          "infosec"
+        ],
+        "compensation": "$180000-$220000",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "Huzzle",
+        "roleOrTask": "Sales Development Representative German Speaking",
+        "industryTags": [
+          "saas",
+          "sys admin",
+          "dev",
+          "marketing",
+          "finance"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "RemoteOK-InstantB2B",
+        "company": "B2spin",
+        "roleOrTask": "Senior Frontend Engineer",
+        "industryTags": [
+          "front end",
+          "design",
+          "react",
+          "embedded",
+          "sys admin"
+        ],
+        "compensation": "$500-$2,500 Instant Retainer",
+        "applyOrContractUrl": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
+        "turnkeyDeliverableStatus": "TURNKEY_AUTOMATION_AND_PROPOSAL_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "Eunetworks",
+        "roleOrTask": "Account Director Enterprise (DC)",
+        "industryTags": [
+          "Sales"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/auterion/senior-software-engineer-munich-365741",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/eunetworks/account-director-enterprise-dc-berlin-berlin-frankfurt-am-main-hesse-hannover-lower-saxony-munchen-bavaria-354947",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Auterion",
-        "roleOrTask": "Forward Deployed Engineer",
+        "company": "Buena",
+        "roleOrTask": "Growth Manager (m/f/d)",
+        "industryTags": [
+          "Operations"
+        ],
+        "compensation": "Instant Milestone USDC / Wire",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/buena/growth-manager-berlin-368876",
+        "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
+      },
+      {
+        "source": "Arbeitnow-GlobalB2B",
+        "company": "RobCo",
+        "roleOrTask": "Engineering Manager – Control & Low-Level Software (m/f/d)",
         "industryTags": [
           "Engineering"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/auterion/forward-deployed-engineer-munich-444941",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/robco/engineering-manager-control-low-level-software-munich-260369",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Swarmaero",
-        "roleOrTask": "Technical Product Manager",
+        "company": "Prior Labs",
+        "roleOrTask": "Technical Product Manager, Integrations",
         "industryTags": [
-          "Legion"
+          "Engineering & Science"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-technical-product-manager-132288",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/prior-labs/technical-product-manager-integrations-berlin-5388",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       },
       {
         "source": "Arbeitnow-GlobalB2B",
-        "company": "Swarmaero",
-        "roleOrTask": "Product Designer",
+        "company": "Quantumdiamonds",
+        "roleOrTask": "Research Software Engineering Intern (f/m/d)",
         "industryTags": [
-          "Legion"
+          "Pre-Development"
         ],
         "compensation": "Instant Milestone USDC / Wire",
-        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-product-designer-15490",
+        "applyOrContractUrl": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/research-software-engineering-intern-munich-222265",
         "turnkeyDeliverableStatus": "TURNKEY_B2B_AUDIT_AND_DATA_PACKAGED"
       }
     ]
