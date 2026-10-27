@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T05:26:40.266Z",
-  "latencyMs": 918,
+  "executedAt": "2026-10-27T05:29:37.034Z",
+  "latencyMs": 774,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #566: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $841,4",
+  "workTitle": "Delivery Sprint #567: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,231,628 | L",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -217,62 +217,67 @@
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 78,
-      "priceBtc": 0.0000024680059468479288
+      "marketCapRank": 76,
+      "priceBtc": 0.0000025552226723095674
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9992663452843119
-    },
-    {
-      "name": "Quantus",
-      "symbol": "QTC",
-      "marketCapRank": 757,
-      "priceBtc": 0.0009434192205689024
+      "priceBtc": 0.9995124683298606
     },
     {
       "name": "Infinity Ground",
       "symbol": "AIN",
-      "marketCapRank": 903,
-      "priceBtc": 0.0000011573009870464678
+      "marketCapRank": 861,
+      "priceBtc": 0.0000012808138364769502
     },
     {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 103,
-      "priceBtc": 0.000008399687901800403
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "marketCapRank": 10,
-      "priceBtc": 0.01532756803844692
-    },
-    {
-      "name": "Pyth Network",
-      "symbol": "PYTH",
-      "marketCapRank": 101,
-      "priceBtc": 9.130427134606412e-7
+      "name": "Quantus",
+      "symbol": "QTC",
+      "marketCapRank": 756,
+      "priceBtc": 0.0009444534393287509
     },
     {
       "name": "Ethereum",
       "symbol": "ETH",
       "marketCapRank": 2,
-      "priceBtc": 0.02898336703165319
+      "priceBtc": 0.028966714716004312
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 103,
+      "priceBtc": 0.00000838221544154193
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.015295122768070943
+    },
+    {
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "marketCapRank": 101,
+      "priceBtc": 9.138016608714228e-7
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Send to Address refuses an amount below the payment floor and names the minimum; Send max says so when everything is below it",
-      "url": "https://github.com/schancel/frank/pull/1930",
-      "createdAt": "2026-10-27T04:29:45Z"
+      "title": "Restore Zender’s design and repair shielded payments",
+      "url": "https://github.com/Datwebguy/Zender/pull/2",
+      "createdAt": "2026-10-27T05:28:03Z"
     },
     {
-      "title": "Quant Ecosystem War Room — canonical command, tasks, approvals & evidence",
-      "url": "https://github.com/quantrinitylab/Quant-Ecosystem/issues/902",
-      "createdAt": "2026-10-11T10:45:50Z"
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
+    },
+    {
+      "title": "Connect costed forecasts to durable shared paper capital",
+      "url": "https://github.com/SaikiK12/T/pull/56",
+      "createdAt": "2026-10-26T19:25:43Z"
     },
     {
       "title": "feat(bansos): tambah Relay (codex-relay.codes) + FreeModel.in + Moyuu",
@@ -285,14 +290,9 @@
       "createdAt": "2026-10-23T19:14:45Z"
     },
     {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
-    },
-    {
-      "title": "Connect costed forecasts to durable shared paper capital",
-      "url": "https://github.com/SaikiK12/T/pull/56",
-      "createdAt": "2026-10-26T19:25:43Z"
+      "title": "Send to Address refuses an amount below the payment floor and names the minimum; Send max says so when everything is below it",
+      "url": "https://github.com/schancel/frank/pull/1930",
+      "createdAt": "2026-10-27T04:29:45Z"
     }
   ]
 }
