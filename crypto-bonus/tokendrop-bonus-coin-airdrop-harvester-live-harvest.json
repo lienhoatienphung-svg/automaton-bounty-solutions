@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T03:26:23.334Z",
-  "latencyMs": 755,
+  "executedAt": "2026-10-27T03:43:29.333Z",
+  "latencyMs": 772,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #555: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
+  "workTitle": "Growth & Sales Sprint #556: B2B ICP outreach & technical audit for [Polymarket Arbitrage] UK election called by...? (Vol $841,4",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -218,56 +218,66 @@
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 75,
-      "priceBtc": 0.0000026277782454163606
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "marketCapRank": 119,
-      "priceBtc": 9.296192564086206e-8
+      "priceBtc": 0.000002678807123604799
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9990548806969256
-    },
-    {
-      "name": "USD.AI",
-      "symbol": "CHIP",
-      "marketCapRank": 274,
-      "priceBtc": 6.32992101770816e-7
-    },
-    {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 97,
-      "priceBtc": 0.000022133392084456393
+      "priceBtc": 1.0003573336990184
     },
     {
       "name": "XRP",
       "symbol": "XRP",
       "marketCapRank": 5,
-      "priceBtc": 0.000016262952418706663
+      "priceBtc": 0.000016289304935376133
     },
     {
-      "name": "Ethereum",
-      "symbol": "ETH",
-      "marketCapRank": 2,
-      "priceBtc": 0.02896652868802101
+      "name": "USD.AI",
+      "symbol": "CHIP",
+      "marketCapRank": 273,
+      "priceBtc": 6.418135243422668e-7
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.0009742793881181626
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "marketCapRank": 119,
+      "priceBtc": 9.31698598850605e-8
+    },
+    {
+      "name": "Stellar",
+      "symbol": "XLM",
+      "marketCapRank": 19,
+      "priceBtc": 0.0000021082119846809173
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "marketCapRank": 87,
+      "priceBtc": 0.000037396659033559833
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "marketCapRank": 10,
+      "priceBtc": 0.015353417055071006
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "Связь Codex ↔ Codebuff",
-      "url": "https://github.com/CrChCn/agentcoin/issues/1",
-      "createdAt": "2026-10-17T20:15:49Z"
+      "title": "refactor(xrpl): key the node's XRPL accounts by account, not by a scheme",
+      "url": "https://github.com/justmoon/dassie/pull/515",
+      "createdAt": "2026-10-26T19:55:20Z"
+    },
+    {
+      "title": "[Feat] [NPU] sampling: Integrate DSpark Triton sampling kernels",
+      "url": "https://github.com/sgl-project/sgl-kernel-npu/pull/871",
+      "createdAt": "2026-10-21T07:29:15Z"
+    },
+    {
+      "title": "[Bugfix][Spec Decode] Align MRV2 lm_head LoRA with logits rows",
+      "url": "https://github.com/vllm-project/vllm/pull/59341",
+      "createdAt": "2026-09-30T01:46:35Z"
     },
     {
       "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-20T21:31:27Z"
     },
     {
-      "title": "CENTRAL COMMAND: One release train — website, Wolo recovery/custody, real estate health, context autopilot (Oct 26)",
-      "url": "https://github.com/Emaren/app-prodn/issues/934",
-      "createdAt": "2026-10-26T20:56:27Z"
+      "title": "Email delivery option for dashboard sign-in links (alternative to Telegram/Slack)",
+      "url": "https://github.com/kirodotdev/KiroCrew/issues/18551",
+      "createdAt": "2026-10-09T18:07:11Z"
     },
     {
-      "title": "Add First Age affinities and tradeable max pieces",
-      "url": "https://github.com/DJay1/oldschoolbot/pull/5",
-      "createdAt": "2026-10-27T02:53:03Z"
-    },
-    {
-      "title": "[URGENT] Dedicated funder balance low — top up required",
-      "url": "https://github.com/paritytech/playground-cli/issues/586",
-      "createdAt": "2026-10-22T16:22:58Z"
-    },
-    {
-      "title": "sim: node-xrpl-lies/liveness/outgoing",
-      "url": "https://github.com/justmoon/dassie/issues/411",
-      "createdAt": "2026-10-25T00:20:27Z"
+      "title": "fix(agent): match tool names across a trailing plural s",
+      "url": "https://github.com/corbitsdev/corbits-code/pull/1574",
+      "createdAt": "2026-10-26T16:50:57Z"
     }
   ]
 }
