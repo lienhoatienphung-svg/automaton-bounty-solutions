@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T00:59:34.350Z",
-  "latencyMs": 744,
+  "executedAt": "2026-10-27T01:15:45.807Z",
+  "latencyMs": 892,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #539: Ship turnkey automation package for [Multi-Industry B2B Gig] Lemon.io: Senior DevOps Engineer ($",
+  "workTitle": "Growth & Sales Sprint #540: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Aisles &amp; Abroad: Travel Support",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "27Qg7EcnGfmbthfQeQXTs4qjfnvU6gXf8W1ahJiJpump",
+      "boostAmount": 500,
+      "totalBoostAmount": 500,
+      "description": "Built to get Elon Musk elected president in 2028.",
+      "url": "https://dexscreener.com/solana/27qg7ecngfmbthfqeqxts4qjfnvu6gxf8w1ahjijpump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
       "boostAmount": 100,
       "totalBoostAmount": 100,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 30,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/5ew3lxh5nyxhmh8x7kag8irm9x7wwz2s6tchjyfmpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DtBatQsrazRRVp37UTMQH7TnXL1mT2qrJTj7PB9Rpump",
-      "boostAmount": 100,
-      "totalBoostAmount": 130,
-      "description": "Last year I  was live for months and ran Wifmas to 5 million market cap\n\nThe trenches have been dead lately and its the perfect time for a Seasonal CCM runner\n\n",
-      "url": "https://dexscreener.com/solana/dtbatqsrazrrvp37utmqh7tnxl1mt2qrjtj7pb9rpump"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Quack AI",
       "symbol": "Q",
       "marketCapRank": 75,
-      "priceBtc": 0.000002611343414864779
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "marketCapRank": 1,
-      "priceBtc": 0.9991138368488669
+      "priceBtc": 0.000002608235635912545
     },
     {
       "name": "XRP",
       "symbol": "XRP",
       "marketCapRank": 5,
-      "priceBtc": 0.00001632946714970053
+      "priceBtc": 0.000016299418276266275
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 118,
-      "priceBtc": 9.365426392396648e-8
+      "priceBtc": 9.354614481579543e-8
     },
     {
-      "name": "Pearl",
-      "symbol": "PEARL",
-      "marketCapRank": 97,
-      "priceBtc": 0.00002231396784737776
-    },
-    {
-      "name": "Irys",
-      "symbol": "IRYS",
-      "marketCapRank": 369,
-      "priceBtc": 4.098729370185302e-7
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "marketCapRank": 1,
+      "priceBtc": 0.9991915823013051
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
       "marketCapRank": 87,
-      "priceBtc": 0.000037712455735114334
+      "priceBtc": 0.000037712401303369706
+    },
+    {
+      "name": "Pearl",
+      "symbol": "PEARL",
+      "marketCapRank": 97,
+      "priceBtc": 0.000022220961492213088
+    },
+    {
+      "name": "Irys",
+      "symbol": "IRYS",
+      "marketCapRank": 371,
+      "priceBtc": 4.102156714343451e-7
     },
     {
       "name": "NEAR Protocol",
       "symbol": "NEAR",
       "marketCapRank": 20,
-      "priceBtc": 0.00005583755143287693
+      "priceBtc": 0.000055650648491248064
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
-      "url": "https://github.com/rempemat-eng/appify/issues/149",
-      "createdAt": "2026-10-20T21:31:27Z"
+      "title": "ci: add manual release workflow (tag + GitHub release)",
+      "url": "https://github.com/tequdev/xahau-network-generator/pull/47",
+      "createdAt": "2026-10-27T01:15:29Z"
     },
     {
-      "title": "chore(deps): update dependency vitest to v4 [security]",
-      "url": "https://github.com/unlock-protocol/unlock/pull/16598",
-      "createdAt": "2026-08-26T12:54:25Z"
+      "title": "security: continue browser wallet hardening with durable payment recovery",
+      "url": "https://github.com/Bradvani/getyoursats-wallet/pull/43",
+      "createdAt": "2026-10-25T19:08:58Z"
     },
     {
-      "title": "fix(deps): clean up open dependabot findings in js templates",
-      "url": "https://github.com/solana-foundation/templates/pull/525",
-      "createdAt": "2026-10-27T00:28:53Z"
+      "title": "ci: add a Factory Release workflow for shared factory deployments",
+      "url": "https://github.com/tempoxyz/earn/pull/17",
+      "createdAt": "2026-10-27T01:01:56Z"
     },
     {
-      "title": "AppWorld ablation: Cap evolve traces and score only (cap-evolve main 75b3bcd, gpt-oss-120b)",
-      "url": "https://github.com/skillberry-ai/cap-evolve/issues/935",
-      "createdAt": "2026-10-25T07:29:21Z"
+      "title": "feat(dev_tools): add PromptSearchOptimizer, a multi-candidate prompt-…",
+      "url": "https://github.com/openJiuwen-ai/agent-core/pull/1008",
+      "createdAt": "2026-08-30T15:06:46Z"
     },
     {
-      "title": "PROJECT HERMES CHANNEL — implementation handoff and stand-down",
-      "url": "https://github.com/binancebotty-bot/hyperliquid-build3-repair/issues/3",
-      "createdAt": "2026-10-07T18:53:52Z"
+      "title": "fix(attribution): resolve remaining 50 CodeCheck findings",
+      "url": "https://github.com/openJiuwen-ai/agent-core/pull/2106",
+      "createdAt": "2026-10-20T16:23:06Z"
     },
     {
-      "title": "chore(deps): update dependency zx to v8 [security]",
-      "url": "https://github.com/walleXD/adventofcode/pull/88",
-      "createdAt": "2025-11-21T22:02:42Z"
+      "title": "feat(billing): save inviter at signup and add referral reward settings",
+      "url": "https://github.com/Bike4Mind/bike4mind/pull/5635",
+      "createdAt": "2026-10-23T10:35:41Z"
     }
   ]
 }
