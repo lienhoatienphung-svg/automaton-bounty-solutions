@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T01:50:51.114Z",
-  "latencyMs": 916,
+  "executedAt": "2026-10-27T01:53:15.959Z",
+  "latencyMs": 863,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Growth & Sales Sprint #544: B2B ICP outreach & technical audit for [Polymarket Arbitrage] NATO/EU troops fighting in Ukraine by",
+  "workTitle": "Delivery Sprint #545: Ship turnkey automation package for [Polymarket Arbitrage] China x India military clash by...? (",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,14 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "5wyVHQcToNiSZsDVzDViZWQ8gRQng6TGTJ2U3NKSpump",
+      "boostAmount": 30,
+      "totalBoostAmount": 30,
+      "description": "Conway-01 ($Conway-Sol) is the first sovereign autonomous AI economic agent natively deployed on the Solana blockchain.\n\nOperating with its own on-chain treasur",
+      "url": "https://dexscreener.com/solana/5wyvhqctoniszsdvzdvizwq8grqng6tgtj2u3nkspump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -202,14 +210,6 @@
       "totalBoostAmount": 10,
       "description": "A movement for the American people. XTO is the first crypto coin that pays you $USO (US Oil Fund), every hour, so every American can earn from the oil market wi",
       "url": "https://dexscreener.com/solana/xtogpwjiagvkemc5gr1auxkh77w3vkgsqn1nxjejfht"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "DSEUEGxgDizLLLrVXmCqyAwD9GScpBsoH7HLmMYqfomo",
-      "boostAmount": 10,
-      "totalBoostAmount": 10,
-      "description": "FomoLabs — Next-Generation DeFi Ecosystem\n\nFomoLabs is a decentralized finance ecosystem built on the Solana blockchain, focused on developing innovative tradin",
-      "url": "https://dexscreener.com/solana/dseuegxgdizlllrvxmcqyawd9gscpbsoh7hlmmyqfomo"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -265,9 +265,19 @@
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "AppWorld ablation: Claude code (plain Claude Code) (cap-evolve main 75b3bcd, gpt-oss-120b)",
-      "url": "https://github.com/skillberry-ai/cap-evolve/issues/931",
-      "createdAt": "2026-10-25T07:29:17Z"
+      "title": "CENTRAL COMMAND: One release train — website, Wolo recovery/custody, real estate health, context autopilot (Oct 26)",
+      "url": "https://github.com/Emaren/app-prodn/issues/934",
+      "createdAt": "2026-10-26T20:56:27Z"
+    },
+    {
+      "title": "Add optional offline beginner and feature walkthrough",
+      "url": "https://github.com/OogaBoogaX/entropylab/pull/818",
+      "createdAt": "2026-10-06T21:10:44Z"
+    },
+    {
+      "title": "OWNER DIRECTIVE — Zero-budget public launch and genuine liquidity gate",
+      "url": "https://github.com/hamidnikkhah660-arch/ai-native-l1/issues/12",
+      "createdAt": "2026-10-20T22:28:26Z"
     },
     {
       "title": "QA coordination: Agnes ↔ Claude — candidate handoffs and playthrough feedback",
@@ -275,24 +285,14 @@
       "createdAt": "2026-10-20T00:36:00Z"
     },
     {
+      "title": "AppWorld ablation: Claude code (plain Claude Code) (cap-evolve main 75b3bcd, gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/931",
+      "createdAt": "2026-10-25T07:29:17Z"
+    },
+    {
       "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
       "url": "https://github.com/rempemat-eng/appify/issues/149",
       "createdAt": "2026-10-20T21:31:27Z"
-    },
-    {
-      "title": "fix: preserve wallet flows and review readability",
-      "url": "https://github.com/syscoin/pali-wallet/pull/1110",
-      "createdAt": "2026-10-24T23:00:48Z"
-    },
-    {
-      "title": "feat: add spark via breez sdk",
-      "url": "https://github.com/synonymdev/bitkit-android/pull/1697",
-      "createdAt": "2026-10-26T13:49:06Z"
-    },
-    {
-      "title": "OWNER DIRECTIVE — Zero-budget public launch and genuine liquidity gate",
-      "url": "https://github.com/hamidnikkhah660-arch/ai-native-l1/issues/12",
-      "createdAt": "2026-10-20T22:28:26Z"
     }
   ]
 }
