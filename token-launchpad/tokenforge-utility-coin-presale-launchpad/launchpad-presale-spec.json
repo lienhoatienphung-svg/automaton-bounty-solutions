@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-27T03:33:54.276Z",
-  "latencyMs": 369,
+  "executedAt": "2026-10-27T03:38:14.800Z",
+  "latencyMs": 437,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Growth & Sales Sprint #552: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Ukraine election called by...? (Vol $",
+  "workTitle": "Delivery Sprint #553: Ship turnkey automation package for [Polymarket Arbitrage] Ukraine recognizes Russian sovereignt",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 53141343,
+    "liveBlockNumber": 53141473,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,21 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 399021,
-    "baseMainnetTopPoolsVolume24hUsd": 156273,
+    "baseMainnetTopPoolsVolume24hUsd": 156038,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "solana",
+        "tokenAddress": "57Kdxy5SSYMF9U4ZJ9qXLysR5AoAHbUv4yWQhx4Npump",
+        "description": "a better way to trade.",
+        "url": "https://dexscreener.com/solana/57kdxy5ssymf9u4zj9qxlysr5aoahbuv4ywqhx4npump"
+      },
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0xDB5867e0F68f29C4c3e77BEFe59773eBB4c99d20",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0xdb5867e0f68f29c4c3e77befe59773ebb4c99d20"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "7SNR4Zxo31MVg73RVKSZsRDMNQd28VzWNQGQWvQFXi7Q",
@@ -69,18 +81,6 @@
         "tokenAddress": "43ukj2HwAtXEaCfZ7Cqvia9fRM9SxWgS6Pt5hcU6pump",
         "description": "Verified Token Profile Launch",
         "url": "https://dexscreener.com/solana/43ukj2hwatxeacfz7cqvia9frm9sxwgs6pt5hcu6pump"
-      },
-      {
-        "chainId": "robinhood",
-        "tokenAddress": "0x815e0040002e35a572c44ab10363d31e550ca829",
-        "description": "Create and trade with ETH. Each token is etched as a Bitcoin Rune, while trade batches and balances are anchored to Bitcoin for independent verification.",
-        "url": "https://dexscreener.com/robinhood/0x815e0040002e35a572c44ab10363d31e550ca829"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "DvrNsBxqBMW4w9KpnU9sRHa2jrD5CkDJXnAS8Y7YKszd",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/dvrnsbxqbmw4w9kpnu9srha2jrd5ckdjxnas8y7ykszd"
       }
     ]
   },
