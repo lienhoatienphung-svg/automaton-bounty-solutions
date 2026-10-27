@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_CRYPTO_BONUS_COIN_AND_AIRDROP_HARVESTER",
-  "executedAt": "2026-10-27T02:26:56.877Z",
-  "latencyMs": 719,
+  "executedAt": "2026-10-27T02:42:11.598Z",
+  "latencyMs": 1190,
   "companyName": "TokenDrop Bonus Coin & Airdrop Harvester",
-  "workTitle": "Delivery Sprint #549: Ship turnkey automation package for [Multi-Industry B2B Gig] Lemon.io: Senior DevOps Engineer ($",
+  "workTitle": "Growth & Sales Sprint #550: B2B ICP outreach & technical audit for [Multi-Industry B2B Gig] Aisles &amp; Abroad: Travel Support",
   "recipientWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBaseBonusBalances": {
     "USDC": 0,
@@ -149,6 +149,22 @@
   "dexScreenerBoostedCoins": [
     {
       "chainId": "solana",
+      "tokenAddress": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump",
+      "boostAmount": 10,
+      "totalBoostAmount": 40,
+      "description": "In a world driven by opportunity, who you know can be just as important as what you know. Behind every successful business, every major movement, and every brea",
+      "url": "https://dexscreener.com/solana/8thz69jp2erzuhvj4g5rcwkffsqafp5mqsaoqreapump"
+    },
+    {
+      "chainId": "solana",
+      "tokenAddress": "2WvvNt9P7RYJzSPE7q2mV1ySrm97ddbf5YjfkAX5pump",
+      "boostAmount": 10,
+      "totalBoostAmount": 10,
+      "description": "An orange bag. A quiet rebellion. $MINU is Mysterious Inu—a community takeover on Solana inspired by Monero’s privacy-first ethos.\n\nPrivacy is a right. The comm",
+      "url": "https://dexscreener.com/solana/2wvvnt9p7ryjzspe7q2mv1ysrm97ddbf5yjfkax5pump"
+    },
+    {
+      "chainId": "solana",
       "tokenAddress": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump",
       "boostAmount": 10,
       "totalBoostAmount": 10,
@@ -167,7 +183,7 @@
       "chainId": "solana",
       "tokenAddress": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump",
       "boostAmount": 30,
-      "totalBoostAmount": 30,
+      "totalBoostAmount": 40,
       "description": "In a world driven by opportunity, who you know can be just as important as what you know. Behind every successful business, every major movement, and every brea",
       "url": "https://dexscreener.com/solana/8thz69jp2erzuhvj4g5rcwkffsqafp5mqsaoqreapump"
     },
@@ -194,22 +210,6 @@
       "totalBoostAmount": 10,
       "description": "Active Token Boost & Community Campaign",
       "url": "https://dexscreener.com/solana/fp4jkqeckykbkhb9imu9nsdeo71hwgq2q9qtxaakpump"
-    },
-    {
-      "chainId": "solana",
-      "tokenAddress": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
-      "boostAmount": 100,
-      "totalBoostAmount": 100,
-      "description": "The most anticipated game in history. One cat. Nine lives. Zero concerns. $GATO",
-      "url": "https://dexscreener.com/solana/hsprhxbrgivaqdrf3tnknuzztax9juspgmfdakk6pump"
-    },
-    {
-      "chainId": "robinhood",
-      "tokenAddress": "0x064b2Ecb710DE3617007B5B25572d43c23FB8f41",
-      "boostAmount": 30,
-      "totalBoostAmount": 30,
-      "description": "HallowInu\na ghost, a sheet, ten worlds of trouble \nand the Spookiest token this Halloween.",
-      "url": "https://dexscreener.com/robinhood/0x064b2ecb710de3617007b5b25572d43c23fb8f41"
     }
   ],
   "coinGeckoTrendingCoinsCount": 8,
@@ -218,81 +218,81 @@
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "marketCapRank": 119,
-      "priceBtc": 9.335106224573e-8
-    },
-    {
-      "name": "USD.AI",
-      "symbol": "CHIP",
-      "marketCapRank": 274,
-      "priceBtc": 6.419265480427635e-7
+      "priceBtc": 9.330154184536086e-8
     },
     {
       "name": "Quack AI",
       "symbol": "Q",
-      "marketCapRank": 74,
-      "priceBtc": 0.000002735559545477976
+      "marketCapRank": 75,
+      "priceBtc": 0.0000026196150061376813
     },
     {
       "name": "Pearl",
       "symbol": "PEARL",
       "marketCapRank": 97,
-      "priceBtc": 0.000022214114099758976
-    },
-    {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "marketCapRank": 11,
-      "priceBtc": 0.000973971834535839
-    },
-    {
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "marketCapRank": 103,
-      "priceBtc": 0.000008390288389757691
-    },
-    {
-      "name": "XRP",
-      "symbol": "XRP",
-      "marketCapRank": 5,
-      "priceBtc": 0.000016240686227605302
+      "priceBtc": 0.000022108432479328787
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
       "marketCapRank": 1,
-      "priceBtc": 0.9984647503796038
+      "priceBtc": 0.9986944430760598
+    },
+    {
+      "name": "USD.AI",
+      "symbol": "CHIP",
+      "marketCapRank": 275,
+      "priceBtc": 6.385328449524125e-7
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "marketCapRank": 103,
+      "priceBtc": 0.00000838477002704577
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "marketCapRank": 11,
+      "priceBtc": 0.0009737644110787493
+    },
+    {
+      "name": "XRP",
+      "symbol": "XRP",
+      "marketCapRank": 5,
+      "priceBtc": 0.000016246714978452792
     }
   ],
   "activeAirdropAndFaucetQuests": [
     {
-      "title": "test: fixer checkbox selection (synthetic)",
-      "url": "https://github.com/JWEB0689/pr-agent-settings/pull/1",
-      "createdAt": "2026-10-27T01:58:21Z"
+      "title": "Top-50 mod gauntlet: port the 50 most popular Java mods, generalizing every fix",
+      "url": "https://github.com/anchapin/portkit-v2/issues/277",
+      "createdAt": "2026-10-16T20:32:56Z"
+    },
+    {
+      "title": "NapAttack Codex coordination: four chats, task ownership and Claude handoffs",
+      "url": "https://github.com/rempemat-eng/appify/issues/149",
+      "createdAt": "2026-10-20T21:31:27Z"
+    },
+    {
+      "title": "OWNER DIRECTIVE — Zero-budget public launch and genuine liquidity gate",
+      "url": "https://github.com/hamidnikkhah660-arch/ai-native-l1/issues/12",
+      "createdAt": "2026-10-20T22:28:26Z"
+    },
+    {
+      "title": "AppWorld ablation: Cap-evolve full (reference) (cap-evolve main 75b3bcd, gpt-oss-120b)",
+      "url": "https://github.com/skillberry-ai/cap-evolve/issues/930",
+      "createdAt": "2026-10-25T07:29:16Z"
+    },
+    {
+      "title": "chore(deps): bump tempo dependencies to 5b3f6fd",
+      "url": "https://github.com/dghelm/foundry/pull/116",
+      "createdAt": "2026-10-27T02:39:46Z"
     },
     {
       "title": "ci: add a Factory Release workflow for shared factory deployments",
       "url": "https://github.com/tempoxyz/earn/pull/17",
       "createdAt": "2026-10-27T01:01:56Z"
-    },
-    {
-      "title": "fix: preserve wallet flows and review readability",
-      "url": "https://github.com/syscoin/pali-wallet/pull/1110",
-      "createdAt": "2026-10-24T23:00:48Z"
-    },
-    {
-      "title": "CENTRAL COMMAND: One release train — website, Wolo recovery/custody, real estate health, context autopilot (Oct 26)",
-      "url": "https://github.com/Emaren/app-prodn/issues/934",
-      "createdAt": "2026-10-26T20:56:27Z"
-    },
-    {
-      "title": "[Experiment] Validate DFlash2 eight-row native verify and commit end-to-end",
-      "url": "https://github.com/LittleLittleCloud/Infer.NET/issues/98",
-      "createdAt": "2026-10-26T16:44:03Z"
-    },
-    {
-      "title": "aees/post_training: GRPO (+ optional LoRA SFT) of Qwen3.6-27B on TB 2.1 with Miles + Harbor",
-      "url": "https://github.com/anglenexus/geodesic/pull/23",
-      "createdAt": "2026-10-24T05:32:36Z"
     }
   ]
 }
