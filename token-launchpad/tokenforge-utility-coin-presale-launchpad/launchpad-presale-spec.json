@@ -1,13 +1,13 @@
 {
   "executionMode": "REAL_UTILITY_TOKEN_FACTORY_AND_REPUTABLE_PRESALE_LAUNCHPAD",
-  "executedAt": "2026-10-27T04:19:56.723Z",
-  "latencyMs": 350,
+  "executedAt": "2026-10-27T04:37:56.559Z",
+  "latencyMs": 314,
   "companyName": "TokenForge Utility Coin & Presale Launchpad",
-  "workTitle": "Delivery Sprint #557: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,231,628 | L",
+  "workTitle": "Growth & Sales Sprint #558: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,622,665 |",
   "targetNetwork": {
     "chainName": "Base Mainnet",
     "chainId": 8453,
-    "liveBlockNumber": 53142724,
+    "liveBlockNumber": 53143264,
     "liveGasPriceGwei": 0.006,
     "settlementAsset": "Native USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)",
     "treasuryAndLaunchpadFeeWallet": "0x3806cd592a508d1992Ed007C2F53de251C2E7452"
@@ -31,9 +31,33 @@
   },
   "liveMarketBenchmarks": {
     "baseMainnetTopPoolsLiquidityUsd": 399021,
-    "baseMainnetTopPoolsVolume24hUsd": 152971,
+    "baseMainnetTopPoolsVolume24hUsd": 153660,
     "recentTokenProfileLaunchesCount": 8,
     "recentTokenProfileLaunches": [
+      {
+        "chainId": "robinhood",
+        "tokenAddress": "0x373096b831D1a6EC3AdcE9149B0074332Bfc3893",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/robinhood/0x373096b831d1a6ec3adce9149b0074332bfc3893"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "FcFA8c87dvEDHje9kYmLt8dm8ixGUZEy1556o1hpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/fcfa8c87dvedhje9kymlt8dm8ixguzey1556o1hpump"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "2dTEDPpbSLGiYmwVrbzAYCgRe3bjf6STB7H9UrXUHDUK",
+        "description": "If cryptocurrency wants to be taken seriously, it needs to rebrand to supercurrency",
+        "url": "https://dexscreener.com/solana/2dtedppbslgiymwvrbzaycgre3bjf6stb7h9urxuhduk"
+      },
+      {
+        "chainId": "solana",
+        "tokenAddress": "pmSVnsSJFrwdabf9V4zzPCtJDvPK79DFFneCMcrpump",
+        "description": "Verified Token Profile Launch",
+        "url": "https://dexscreener.com/solana/pmsvnssjfrwdabf9v4zzpctjdvpk79dffnecmcrpump"
+      },
       {
         "chainId": "solana",
         "tokenAddress": "8cyVZ1f5ZVU5DiPacsGNT4aRa2WSJs1gDViksy1hpump",
@@ -57,30 +81,6 @@
         "tokenAddress": "5zTLJ9JxQRDeTxfm8onF8Gbf7J9tfXFwRbubaLs3pump",
         "description": "Quantum computers will break the public-key cryptography that protects today's data, identities and digital assets. Particle builds the replacement now, on the ",
         "url": "https://dexscreener.com/solana/5ztlj9jxqrdetxfm8onf8gbf7j9tfxfwrbubals3pump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "4C7vo49nstJQH1ebPNm7DXftHQUBjpptdBc8HWXLpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/4c7vo49nstjqh1ebpnm7dxfthqubjpptdbc8hwxlpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "AxwWvR22HeroEQFq6ANrmuBdgFa3Kx1Lxfw1U6LZpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/axwwvr22heroeqfq6anrmubdgfa3kx1lxfw1u6lzpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "7fHr9MLg29hyEFfcBDaBvdTeRHdKBruHExAVE68Fpump",
-        "description": "Verified Token Profile Launch",
-        "url": "https://dexscreener.com/solana/7fhr9mlg29hyeffcbdabvdterhdkbruhexave68fpump"
-      },
-      {
-        "chainId": "solana",
-        "tokenAddress": "Az5naRCqYLfMi9KT92QCzJwR74BR5X33nZtMkXyvpump",
-        "description": "Born from bathroom chaos, $CRAZYROLL is an unhinged meme universe where toilet paper becomes the ultimate nightmare. No rules, no sanity, just a deranged roll r",
-        "url": "https://dexscreener.com/solana/az5narcqylfmi9kt92qczjwr74br5x33nztmkxyvpump"
       }
     ]
   },
