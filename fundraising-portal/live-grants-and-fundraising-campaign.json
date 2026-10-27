@@ -1,9 +1,9 @@
 {
   "executionMode": "REAL_FUNDRAISING_GRANT_CROWDFUNDING_AND_DONATION_DESK",
-  "executedAt": "2026-10-27T02:24:17.856Z",
-  "latencyMs": 907,
+  "executedAt": "2026-10-27T02:39:53.264Z",
+  "latencyMs": 805,
   "companyName": "SovereignFund Grant, Crowdfunding & VC Capital Desk",
-  "workTitle": "Delivery Sprint #547: Ship turnkey automation package for [Polymarket Arbitrage] Macron out by...? (Vol $2,231,628 | L",
+  "workTitle": "Growth & Sales Sprint #548: B2B ICP outreach & technical audit for [Polymarket Arbitrage] Kraken IPO by ___ ? (Vol $1,622,665 |",
   "treasuryWalletBaseEvm": "0x3806cd592a508d1992Ed007C2F53de251C2E7452",
   "onChainBalances": {
     "baseMainnetEth": 0,
@@ -21,52 +21,52 @@
       "discoveredOpenGrantProgramsCount": 8,
       "discoveredOpenGrantPrograms": [
         {
-          "title": "Release 0.9.73",
-          "url": "https://github.com/ap9000/toolroll/pull/242",
-          "repositoryUrl": "https://api.github.com/repos/ap9000/toolroll",
-          "updatedAt": "2026-10-27T02:24:15Z"
+          "title": "chore(release): version packages",
+          "url": "https://github.com/agentproto/ts/pull/2190",
+          "repositoryUrl": "https://api.github.com/repos/agentproto/ts",
+          "updatedAt": "2026-10-27T02:39:48Z"
         },
         {
-          "title": "Durable job trace and push token refresh (R4, R5)",
-          "url": "https://github.com/adamkadev/RunOmics-Private/pull/337",
-          "repositoryUrl": "https://api.github.com/repos/adamkadev/RunOmics-Private",
-          "updatedAt": "2026-10-27T02:24:13Z"
+          "title": "CLI: clean up idle per-grant ssh-agents and leftover temp files",
+          "url": "https://github.com/pecheriere/warden/issues/15",
+          "repositoryUrl": "https://api.github.com/repos/pecheriere/warden",
+          "updatedAt": "2026-10-27T02:39:47Z"
         },
         {
-          "title": "fix(ci): one newest-run order, a case-blind consent label, and the last reader copies",
-          "url": "https://github.com/AlexanderMattTurner/agent-glovebox/pull/8945",
-          "repositoryUrl": "https://api.github.com/repos/AlexanderMattTurner/agent-glovebox",
-          "updatedAt": "2026-10-27T02:24:12Z"
+          "title": "Let ChatGPT subscribe to what's sent to it (MCP Events)",
+          "url": "https://github.com/worktable/worktable-dev/pull/323",
+          "repositoryUrl": "https://api.github.com/repos/worktable/worktable-dev",
+          "updatedAt": "2026-10-27T02:39:51Z"
         },
         {
-          "title": "feat(viewers): add script-free phone QR handoff",
-          "url": "https://github.com/TogetherWeOwn/kofra/pull/87",
-          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/kofra",
-          "updatedAt": "2026-10-27T02:24:12Z"
+          "title": "Ask before deleting a connection, and say rows can be deleted",
+          "url": "https://github.com/igor-alexandrov/tabletist/pull/230",
+          "repositoryUrl": "https://api.github.com/repos/igor-alexandrov/tabletist",
+          "updatedAt": "2026-10-27T02:39:47Z"
         },
         {
-          "title": "DiamondGate progression lab — owner-inspection publication qualification",
-          "url": "https://github.com/smansfield635-create/smansfield635-create.github.io/issues/6787",
-          "repositoryUrl": "https://api.github.com/repos/smansfield635-create/smansfield635-create.github.io",
-          "updatedAt": "2026-10-27T02:24:11Z"
+          "title": "Upload fails when required OpenTDF policy fixture is absent",
+          "url": "https://github.com/adamdost-0/opentdf-app/issues/1",
+          "repositoryUrl": "https://api.github.com/repos/adamdost-0/opentdf-app",
+          "updatedAt": "2026-10-27T02:39:46Z"
         },
         {
-          "title": "[01] Control Plane + AgentStore: gated lifecycle, bounded GEPARD, idempotent commands",
-          "url": "https://github.com/Podtverzhdeno/Agent-Factory/pull/5",
-          "repositoryUrl": "https://api.github.com/repos/Podtverzhdeno/Agent-Factory",
-          "updatedAt": "2026-10-27T02:24:10Z"
+          "title": "fix(query): restrict identity visibility and redact credentials",
+          "url": "https://github.com/databendlabs/databend/pull/20833",
+          "repositoryUrl": "https://api.github.com/repos/databendlabs/databend",
+          "updatedAt": "2026-10-27T02:39:46Z"
         },
         {
-          "title": "TT-05: `docs/host-bootstrap.md`, which sets up a new host for Rigger's work",
-          "url": "https://github.com/williacj/rigger/issues/822",
-          "repositoryUrl": "https://api.github.com/repos/williacj/rigger",
-          "updatedAt": "2026-10-27T02:24:10Z"
+          "title": "chore(deps): bump tempo dependencies to 5b3f6fd",
+          "url": "https://github.com/dghelm/foundry/pull/116",
+          "repositoryUrl": "https://api.github.com/repos/dghelm/foundry",
+          "updatedAt": "2026-10-27T02:39:46Z"
         },
         {
-          "title": "feat(viewers): unfurl file viewers and folder listings with name, type and size",
-          "url": "https://github.com/TogetherWeOwn/kofra/pull/86",
-          "repositoryUrl": "https://api.github.com/repos/TogetherWeOwn/kofra",
-          "updatedAt": "2026-10-27T02:24:10Z"
+          "title": "fix(deps): update dependency vitest to v4 [security]",
+          "url": "https://github.com/graasp/graasp-app-file-drop/pull/238",
+          "repositoryUrl": "https://api.github.com/repos/graasp/graasp-app-file-drop",
+          "updatedAt": "2026-10-27T02:39:46Z"
         }
       ]
     },
